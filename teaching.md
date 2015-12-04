@@ -1,139 +1,95 @@
 ---
 layout: default
-title: CV
+title: teaching
 ---
 
-**Keith Buhler**
+Current Students: 
+UK Office Hours are M/W 1-3pm in Patterson Office Tower
+Asbury Office hours Th 9:20-10:20 at the library.
+ 
+You can ALWAYS set up an appointment. Or contact me at keith.buhler@uky.edu or @keith_buhler (twitter) 
+ 
+ 
+Syllabi--
+[Introduction to Philosophy (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
+ 
+[Introduction to Philosophy (2014)](https://docs.google.com/document/d/1oDPOnqZxSVDfEcUWWzgqZYorWLYLhYv8FDSUM1MVXNQ/edit)
+ 
+[Introduction to Ethics (2014)](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit)
+ 
+Introduction to Bioethics (2015) -- coming soon
+ 
+Introduction to Logic (2012) -- coming soon
+ 
+ 
+ 
+ 
+**Survey**
+[Click here to take the student "Get to know you survey](https://drive.google.com/open?id=17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw)
+ 
+ 
+ 
+ 
+ 
+**Rate:**
++ If you have enjoyed the class, please let others know on my RateMyProfessors page.  
+Also let me know by email or in person what I can improve. Thanks!
+ 
+ 
+ 
+ 
+ 
+**Official Student Course Evaluation Statistics**
 
-Department of Philosophy
-
-University of Kentucky
-
-keith.buhler@uky.edu
-
-562.230.2920
-
-
-## Education:  
-2017 (anticipated)  Ph.D. Philosophy, University of Kentucky
-
-2015            M.A. Philosophy, University of Kentucky
-
-2013            M.A. Applied Orthodox Theology, University of Lebanon 
-
-2004            B.A. Humanities, Cum Laude, Biola University
-
-## Teaching Positions:
-2014 – present  Philosophy Instructor, Asbury University
-2012 – present  Graduate Teaching Assistant, University of Kentucky
-2004            Teaching Assistant, Biola University
-
-## Courses Taught (Asbury University): 
-2015    Introduction to Philosophy
-2014    Introduction to Philosophy
-2014    Introduction to Philosophy
-
-## Courses Taught (University of Kentucky):    
-2015    Health Care Ethics 305
-2015    Introduction to Philosophy
-2015    Introduction to Philosophy 
-2014    Introduction to Philosophy 
-2014    Introduction to Philosophy 
-2014    Introduction to Philosophy  
-2014    Introduction to Philosophy 
-2013    Introduction to Philosophy  (Winter course)
-2013    Introduction to Morality and Ethics      
-2013    Introduction to Morality and Ethics             
-2013    Introduction to Logic               
-2013    Introduction to Logic 
-                        
-## Courses as Teaching Assistant   
-2012    Introduction to Logic
-2012    Introduction to Logic
-2012    Introduction to Logic
-2004    Contemporary Philosophy of Science (Biola University)    
-
-## Research Specialization:    
-Ethics, virtue ethics
-
-## Research Interests:
-Metaphysics, philosophy of religion, philosophy of mind, imagination
-
-## Presentations:  
-
-2015    “Nature is Normative: A Presumptive Case”, (accepted) Idaho Philosophy Conference.
-
-2014     “Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October. 
-
-2014    “Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College, July. 
-
-2014    “Socratic Spiritual Direction,” SOPHIA Conference, February.
-
-2014    “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February.
-
-
-## Leadership and Other Teaching Positions: ##
-
-2013-2014   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
-
-2010-2012   Master Tutor, Torrey Academy, La Mirada CA.
-
-2007-2010   Tutor, Torrey Academy, La Mirada CA.
-
-2010-2012   Tutor, Etum Academy, Fullerton, CA.
-
-2009-2011   Lecturer, Wheatstone Academy, Fullerton, CA. 
-
-2001-2009   Tutor, Wheatstone Academy, Fullerton, CA. 
-
-2001-2002   Great Books Tutor, Long Beach Middle School
-
-2001        Summer English Teacher, Campus Crusade for Christ (Mongolia) 
-
-## LANGUAGES:
-Ancient Greek (reading)
-
-Spanish  (speaking) 
-
-## PROFESSIONAL ORGANIZATIONS:
-American Philosophical Association, 2014-present
-
-Society for Medieval & Renaissance Philosophy, 2012 – present
-
-Society of Orthodox Philosophers in America, 2014 - present
-
-## Graduate Coursework: 
-2008 Metaphysics of Substance and Property
-2009 Philosophy of Mind
-2012 Kantian Idealism (Seminar)
-2012 Ancient Greek Metaphysics
-2012 Ethics from Hobbes to Feminism
-2013 Language & Normativity Seminar
-2013 Philosophy of Religion
-2013 Plato’s Parmenides (Seminar)
-2013 Aristotle and Aristotelians on Mind (Independent study)
-2013 Symbolic Logic
-2013 Imagination (Seminar)
-2013 Naturalism (Seminar)
-2014 Ethics of Bodily Autonomy (Seminar)
-2014 Plato’s Philebus on Life (Seminar)
-2014 Ethical Naturalism (Independent study)
-2014 Virtue and After Virtue (Independent study)
-2015 Ethical Naturalism (Dissertation research)
-
-## PERSONAL:
-Married with two children.
-
-## REFERENCES:
-
-David Bradshaw, Professor of Philosophy, University of Kentucky
-1415 Patterson Office Tower, Lexington, KY 40506
-dbradsh@uky.edu / (859) 257 7107
-
-John Mark Reynolds, Provost, Houston Baptist University
-7502 Fondren Rd., Houston, TX 77074
-jmnreynolds@hbu.edu / (281) 649 3000
-
-Joseph Allen, Director, Pittsburgh Theological Seminary
-616 N. Highland Ave., Pittsburgh, PA 15206
-theoeduc@aol.com / (201) 784 2501
++  3.6 out of 4 average (overall teaching quality) -- UK
++  3.6 out of 4 average (overall teaching quality) -- Asbury
+ 
+ 
+ 
+ 
+ 
+**Teacher Resources**
+[How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion) My featured article on Wiki How, viewed 200,000+ times.
+[Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
+ 
+ 
+ 
+ 
+**Teaching Statement**
+Coming soon.
+ 
+ 
+ 
+ 
+**Some Comments from Students:** 
+* "Buhler is a fantastic teacher. He is very theatrical about philosophy which is great. He treats us like adults and enjoys discussion. He really brings out the best about philosophy. None of his assignments are busy work. He learned our names very quickly and took time to understand our points in discussion. He is very knowledgeable about many things and has a very open view to discussion."
+ 
+* "He was very engaged and wanted each of us to be involved in discussions. He challenged us to think deeper and more critically than before. The papers and midterm were effective and helpful with understanding the material for the class. The readings supported all the ideas taught within the class."
+ 
+ 
+ 
+ 
+ 
+**Unsolicited Comments from Students**
+* "I just wanted to say thank you for a great semester! I really enjoyed your class and teaching style, and I can honestly say I took a lot from the material you taught us."
+ 
+ 
+ 
+ 
+ 
+ 
+**Sample Exam & Review Sheet**
+Coming soon.
+ 
+ 
+ 
+ 
+**Additional Discursive Evaluations**
+Coming soon.
+ 
+ 
+ 
+ 
+ 
+**Additional Syllabi**
+Coming soon.
