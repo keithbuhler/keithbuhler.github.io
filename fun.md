@@ -5,26 +5,24 @@ title: fun
 
 # Flesh knows; but spirit knows it knows"    -Charles Williams
 
-## The Intentional Reading Project
-(www.readingintentionally.com)
+## [The Intentional Reading Project](www.readingintentionally.com)
+
 My self-help blog that guides you to reading more books and better books this year. 
  
 ##[Inklings](www.keithbuhler.com/inklings)
+
 Resources on all things C. S. Lewis and Inklings
  
 ##[Meditation](www.keithbuhler.com/meditation)
+
 A basic introduction to the how and why of meditation. 
  
 ##[Writings](www.keithbuhler.com/writings)
+
 Fiction, Non-academic non-fiction, poetry, screenplays, and short stories. 
- 
-##[Goals & Time Management](http://keithbuhler.com/goals/)
-How to budget your week hour by hour. 
- 
-##[A fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0)
-How many lifetimes ago did a historical event occur?
- 
+  
 ##[Beards](www.keithbuhler.com/beard)
+
 A (humorous) guide to growing your own beard in 3 easy steps. 
  
 ##[Phd](www.keithbuhler.com/phd)
@@ -43,12 +41,21 @@ A compendium of readings for U. Kentucky graduate students.
  
 ## Even More Fun Stuff
  
+[Biography](www.keithbuhler.com/bio)
+
 [Amateur Art](www.keithbuhler.com/art)
 
 [Wikipedia edits](https://en.wikipedia.org/wiki/User:CircularReason)
 
 [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
 
-[Biography](www.keithbuhler.com/bio)
-
 [Satire](www.keithbuhler.com/writings)
+
+
+##[Goals & Time Management](http://keithbuhler.com/goals/)
+
+How to budget your week hour by hour. 
+ 
+##[A fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0)
+
+How many lifetimes ago did a historical event occur?
