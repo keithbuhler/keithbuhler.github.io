@@ -3,14 +3,18 @@ layout: default
 title: teaching
 ---
 
-Current Students: 
+#"The proper measure of... discussion is a whole life" -Plato (Republic 450b)
+
+## Current Students
+
 UK Office Hours are M/W 1-3pm in Patterson Office Tower
+
 Asbury Office hours Th 9:20-10:20 at the library.
  
 You can ALWAYS set up an appointment. Or contact me at keith.buhler@uky.edu or @keith_buhler (twitter) 
  
  
-Syllabi--
+**Syllabi**
 [Introduction to Philosophy (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
  
 [Introduction to Philosophy (2014)](https://docs.google.com/document/d/1oDPOnqZxSVDfEcUWWzgqZYorWLYLhYv8FDSUM1MVXNQ/edit)
@@ -25,6 +29,7 @@ Introduction to Logic (2012) -- coming soon
  
  
 **Survey**
+
 [Click here to take the student "Get to know you survey](https://drive.google.com/open?id=17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw)
  
  
