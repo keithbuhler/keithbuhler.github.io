@@ -1,26 +1,2 @@
 name: Keith Buhler
 markdown: AcademicMarkdown
-
-source: DIR
-
-destination: DIR
-
-timezone: America/New_York
-
--w, --[no-]watch
-
-defaults: 
--
-      scope:
-          path: ""
-          type: "posts"
-          values: 
-          layout: "my-site"
-
--
-    scope: 
-       path: "projects"
-       type: "pages"
-       values: 
-       layout: "project"
-       author: "Keith Buhler"
