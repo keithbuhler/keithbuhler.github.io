@@ -38,7 +38,7 @@ Should you get a PhD? Here's my story, including my area, exams, and dissertatio
 ### [UK Comprehensive Exams](www.keithbuhler.com/comps)
 A compendium of readings for U. Kentucky graduate students. 
  
-## [Writing Tools]
+## Writing Tools
 [Words to pages](http://wordstopages.com/)
 [xkcd Simpler Writer](https://xkcd.com/simplewriter/)
  

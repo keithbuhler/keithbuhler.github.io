@@ -5,32 +5,37 @@ title: teaching
 
 #"The proper measure of... discussion is a whole life" -Plato (Republic 450b)
 
-## Current Students
+## Resources for current students ##
++ Office Hours
+    * (UK:) M/W 1-3 in Patterson Office Tower  
+    *(Asbury:) T/Th 9:20-10:20 at the library. You can **always** set up an appointment.
 
-UK Office Hours are M/W 1-3pm in Patterson Office Tower
+[school email](keith.buhler@uky.edu)
 
-Asbury Office hours Th 9:20-10:20 at the library.
- 
-You can ALWAYS set up an appointment. Or contact me at keith.buhler@uky.edu or @keith_buhler (twitter) 
+[Twitter](https://twitter.com/Keith_Buhler)
+
+
  
  
 **Syllabi**
+
+Bioethics (2015) -- coming soon
+
 [Introduction to Philosophy (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
  
 [Introduction to Philosophy (2014)](https://docs.google.com/document/d/1oDPOnqZxSVDfEcUWWzgqZYorWLYLhYv8FDSUM1MVXNQ/edit)
  
 [Introduction to Ethics (2014)](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit)
- 
-Introduction to Bioethics (2015) -- coming soon
- 
+  
 Introduction to Logic (2012) -- coming soon
  
+
  
  
  
 **Survey**
 
-[Click here to take the student "Get to know you survey](https://drive.google.com/open?id=17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw)
+[Get to know you survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web)
  
  
  
