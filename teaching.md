@@ -91,7 +91,7 @@ Coming soon.
 * Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.
 * Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University*
 * Oswald Hanfling, the Uses and Abuses of Argument. 
- 
+ * [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
  
  
  
