@@ -1,8 +1,8 @@
 ---
-layout: default
-title: CV
----
+layout: post
+title: cv
 
+--- 
 **Keith Buhler**
 
 Department of Philosophy
@@ -14,16 +14,29 @@ keith.buhler@uky.edu
 562.230.2920
 
 
+
+##Specialization:    
+
+Virtue ethics, metaethics
+
+## Competence:
+
+Philosophy of mind, philosophy of religion
+
+
 ## Education:  
-2017 (anticipated)  Ph.D. Philosophy, University of Kentucky
 
-2015            M.A. Philosophy, University of Kentucky
+2017 Ph.D. Philosophy, University of Kentucky (in progress) 
 
-2013            M.A. Applied Orthodox Theology, University of Lebanon 
+2015 M.A. Philosophy, University of Kentucky
 
-2004            B.A. Humanities, Cum Laude, Biola University
+2014 M.A. Applied Orthodox Theology, University of Lebanon 
+
+2004 B.A. Humanities: History, Biola University 
+ 
 
 ## Teaching Positions:
+
 2014 – present  Philosophy Instructor, Asbury University
 
 2012 – present  Graduate Teaching Assistant, University of Kentucky
@@ -31,13 +44,16 @@ keith.buhler@uky.edu
 2004            Teaching Assistant, Biola University
 
 ## Courses Taught (Asbury University): 
+
 2015    Introduction to Philosophy
 
 2014    Introduction to Philosophy
 
 2014    Introduction to Philosophy
 
+
 ## Courses Taught (University of Kentucky):    
+
 2015    Health Care Ethics 305
 
 2015    Introduction to Philosophy
@@ -61,7 +77,8 @@ keith.buhler@uky.edu
 2013    Introduction to Logic               
 
 2013    Introduction to Logic 
-                        
+
+
 ## Courses as Teaching Assistant   
 
 2012    Introduction to Logic
@@ -72,11 +89,6 @@ keith.buhler@uky.edu
 
 2004    Contemporary Philosophy of Science (Biola University)    
 
-## Research Specialization:    
-Ethics, virtue ethics
-
-## Research Interests:
-Metaphysics, philosophy of religion, philosophy of mind, imagination
 
 ## Presentations:  
 
@@ -115,19 +127,16 @@ Ancient Greek (reading)
 Spanish  (speaking) 
 
 ## PROFESSIONAL ORGANIZATIONS:
-American Philosophical Association, 2014-present
-
-Society for Medieval & Renaissance Philosophy, 2012 – present
-
-Society of Orthodox Philosophers in America, 2014 - present
-
+* American Philosophical Association
+* Society for Medieval & Renaissance Philosophy
+* Society of Orthodox Philosophers in America
+* International Society for MacIntyrean Enquiry
 
 
 ## PERSONAL:
 Married with two children.
 
 ## REFERENCES:
-
 David Bradshaw, Professor of Philosophy, University of Kentucky
 1415 Patterson Office Tower, Lexington, KY 40506
 dbradsh@uky.edu / (859) 257 7107
