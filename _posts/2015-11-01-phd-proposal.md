@@ -1,7 +1,8 @@
+ ---
 layout: post
-title: PhD-proposal
----
+title: phd-proposal
 
+--- 
 
 <!-- MarkdownTOC -->
 

@@ -14,8 +14,19 @@ title: teaching
 
 [Twitter](https://twitter.com/Keith_Buhler)
 
+**Survey**
+
+[Get to know you survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web)
+ 
 
  
+**Rate:**
++ If you have enjoyed the class, please let others know on my RateMyProfessors page.  
+Also let me know by email or in person what I can improve. Thanks!
+ 
+ 
+
+## For employers ## 
  
 **Syllabi**
 
@@ -31,31 +42,12 @@ Introduction to Logic (2012) -- coming soon
  
 
  
- 
- 
-**Survey**
-
-[Get to know you survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web)
- 
- 
- 
- 
- 
-**Rate:**
-+ If you have enjoyed the class, please let others know on my RateMyProfessors page.  
-Also let me know by email or in person what I can improve. Thanks!
- 
- 
- 
- 
- 
 **Official Student Course Evaluation Statistics**
 
 +  3.6 out of 4 average (overall teaching quality) -- UK
 +  3.6 out of 4 average (overall teaching quality) -- Asbury
  
- 
- 
+
  
  
 **Teacher Resources**

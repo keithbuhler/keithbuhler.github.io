@@ -1,3 +1,9 @@
+---
+layout: post
+title: meditation
+
+--- 
+
 # Meditation #
 
 In the back’s low hollow sometimes 
@@ -20,8 +26,8 @@ and the sun pours its golden sap
 
 to preserve me like His precious insect.
  
-
 ("Meditatio" by Mary Karr) 
+
 
 ## My Story  ##
 
