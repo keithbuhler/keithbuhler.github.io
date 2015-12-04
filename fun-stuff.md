@@ -6,7 +6,7 @@ title: fun
 # Flesh knows; but spirit knows it knows"    -Charles Williams
 
 
-## [The Intentional Reading Project](www.readingintentionally.com)
+## [The Intentional Reading Project](http://www.readingintentionally.com)
 
 My self-help blog that guides you to reading more books and better books this year. 
 
