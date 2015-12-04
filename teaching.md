@@ -59,21 +59,26 @@ Here are some resources to help you get to know me as a teacher.
  
 
  
+
 **Teaching Statement**
+
 Coming soon.
  
  
 **Sample Exam & Review Sheet**
+
 Coming soon.
 
  
  
 **Additional Discursive Evaluations**
+
 Coming soon.
  
  
  
 **Additional Syllabi**
+
 Coming soon.
 
 
@@ -85,6 +90,7 @@ Coming soon.
 * [How to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
 * Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.
 * Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University*
+* Oswald Hanfling, the Uses and Abuses of Argument. 
  
  
  
