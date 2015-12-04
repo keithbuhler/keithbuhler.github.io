@@ -25,32 +25,51 @@ keith.buhler@uky.edu
 
 ## Teaching Positions:
 2014 – present  Philosophy Instructor, Asbury University
+
 2012 – present  Graduate Teaching Assistant, University of Kentucky
+
 2004            Teaching Assistant, Biola University
 
 ## Courses Taught (Asbury University): 
 2015    Introduction to Philosophy
+
 2014    Introduction to Philosophy
+
 2014    Introduction to Philosophy
 
 ## Courses Taught (University of Kentucky):    
 2015    Health Care Ethics 305
+
 2015    Introduction to Philosophy
+
 2015    Introduction to Philosophy 
+
 2014    Introduction to Philosophy 
+
 2014    Introduction to Philosophy 
+
 2014    Introduction to Philosophy  
+
 2014    Introduction to Philosophy 
+
 2013    Introduction to Philosophy  (Winter course)
+
 2013    Introduction to Morality and Ethics      
+
 2013    Introduction to Morality and Ethics             
+
 2013    Introduction to Logic               
+
 2013    Introduction to Logic 
                         
 ## Courses as Teaching Assistant   
+
 2012    Introduction to Logic
+
 2012    Introduction to Logic
+
 2012    Introduction to Logic
+
 2004    Contemporary Philosophy of Science (Biola University)    
 
 ## Research Specialization:    
@@ -102,24 +121,7 @@ Society for Medieval & Renaissance Philosophy, 2012 – present
 
 Society of Orthodox Philosophers in America, 2014 - present
 
-## Graduate Coursework: 
-2008 Metaphysics of Substance and Property
-2009 Philosophy of Mind
-2012 Kantian Idealism (Seminar)
-2012 Ancient Greek Metaphysics
-2012 Ethics from Hobbes to Feminism
-2013 Language & Normativity Seminar
-2013 Philosophy of Religion
-2013 Plato’s Parmenides (Seminar)
-2013 Aristotle and Aristotelians on Mind (Independent study)
-2013 Symbolic Logic
-2013 Imagination (Seminar)
-2013 Naturalism (Seminar)
-2014 Ethics of Bodily Autonomy (Seminar)
-2014 Plato’s Philebus on Life (Seminar)
-2014 Ethical Naturalism (Independent study)
-2014 Virtue and After Virtue (Independent study)
-2015 Ethical Naturalism (Dissertation research)
+
 
 ## PERSONAL:
 Married with two children.
