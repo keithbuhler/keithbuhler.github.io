@@ -45,7 +45,7 @@ A compendium of readings for U. Kentucky graduate students.
  
 ## Even More Fun Stuff
  
-### [Biography](http://www.keithbuhler.com/bio)
+### [Biography](/bio)
 
 ### [Amateur Art](http://www.keithbuhler.com/art)
 
