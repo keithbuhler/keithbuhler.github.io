@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 70px auto;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,22 +20,22 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 4em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
-h2 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h3 {
+h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-p {
+h3 {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+p {
+    font-size: 1;
     line-height: 1.4em;
     color: #333;
 }

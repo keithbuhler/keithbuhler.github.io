@@ -10,7 +10,7 @@ You can read some of my writings below.
 
 My non-academic writings *have* been published on line and in print at MereOrthodoxy, The Examined Life, the London School of Training, The Word, and others. 
 
-The most important thing I'm writing right now is my [dissertation](www.keithbuhler.com/phd). I also created the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
+The most important thing I'm writing right now is my [dissertation](http://www.keithbuhler.com/phd). I also created the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
 
 
 ## Books
