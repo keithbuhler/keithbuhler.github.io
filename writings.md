@@ -4,15 +4,13 @@ title: Writings
 
 # Writings #
 
-You can read some of my writings below. 
- 
-The most important thing I'm writing right now is my dissertation. 
-
-Second to this is my blog, the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
- 
 I am a devout amateur. I believe you should write and create lots of different things even if you can't or don't or don't want to make money with them. Just create. So here are some articles, short stories, fairy tales, screenplays, and satire. 
- 
-My non-academic writings have been published on line and in print at MereOrthodoxy, The Examined Life, the London School of Training, The Word, and others. 
+
+You can read some of my writings below. 
+
+My non-academic writings *have* been published on line and in print at MereOrthodoxy, The Examined Life, the London School of Training, The Word, and others. 
+
+The most important thing I'm writing right now is my [dissertation](www.keithbuhler.com/phd). I also created the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
 
 
 ## Books
@@ -29,13 +27,14 @@ The Giving Well: A fairy tale
 Fables on Leading & Following  (fables) 
 The Sin of Satan: A Dialogue on the Problem of Evil (dialogue)
 
-#Fiction: Short Stories
+# Fiction: Short Stories
 The Face of God 
 The Death of Renfield
 
-#Books
+# Books
 Sola Scriptura: A Dialogue
-#Screenplays
+
+# Screenplays
 Aedis Diana
 The Hispanola Vampire: Amelia
 The Hispanola Vampire: Bobadilla

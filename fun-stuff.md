@@ -24,7 +24,7 @@ A basic introduction to the how and why of meditation.
 Fiction, Non-academic non-fiction, poetry, screenplays, and short stories. 
   
 ### [Philosophy of Science](www.philosophyisscience.com)
-A playful but earnest argument for the traditional view that natural science is a branch of Philosopy (or that natural philosophy is a branch of Science). 
+A playful yet earnest argument for the traditional view that natural science is a branch of Philosophy (or that natural philosophy is a branch of Science). 
 
  
 ### [Beards](www.keithbuhler.com/beard)
