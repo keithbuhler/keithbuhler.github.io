@@ -32,7 +32,7 @@ The Face of God
 The Death of Renfield
 
 # Books
-Sola Scriptura: A Dialogue
+[Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=dp_kinw_strp_1)
 
 # Screenplays
 Aedis Diana

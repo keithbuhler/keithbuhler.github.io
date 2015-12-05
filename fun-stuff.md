@@ -3,49 +3,50 @@ layout: default
 title: fun-stuff
 ---
 
-# Flesh knows; but spirit knows it knows"    -Charles Williams
+**Flesh knows; but spirit knows it knows" Charles Williams**
 
+A few links to things I care about. Each is a project I am working on or resources for those who might be interested.
 
-## [The Intentional Reading Project](http://www.readingintentionally.com)
+### [The Intentional Reading Project](http://www.readingintentionally.com)
 
 My self-help blog that guides you to reading more books and better books this year. 
 
 
-##[Inklings](http://circularreason.github.io/inklings)
+###[Inklings](http://circularreason.github.io/inklings)
 
 Resources on all things C. S. Lewis and Inklings
  
-##[Meditation](http://www.keithbuhler.com/meditation)
-
+###[Meditation](http://www.keithbuhler.com/meditation)
 A basic introduction to the how and why of meditation. 
  
-##[Writings](http://www.keithbuhler.com/writings)
-
+###[Writings](http://www.keithbuhler.com/writings)
 Fiction, Non-academic non-fiction, poetry, screenplays, and short stories. 
   
-### [Philosophy of Science](http://www.philosophyisscience.com)
+#### [Philosophy of Science](http://www.philosophyisscience.com)
 A playful yet earnest argument for the traditional view that natural science is a branch of Philosophy (or that natural philosophy is a branch of Science). 
 
  
-### [Beards](http://www.keithbuhler.com/beard)
-
+#### [Beards](http://www.keithbuhler.com/beard)
 A (humorous) guide to growing your own beard in 3 easy steps. 
 
-### [Phd](http://www.keithbuhler.com/phd)
+#### [Phd](http://www.keithbuhler.com/phd)
 Should you get a PhD? Here's my story, including my area, exams, and dissertation proposal.  
  
  
-### [UK Comprehensive Exams](http://www.keithbuhler.com/comps)
+#### [UK Comprehensive Exams](http://www.keithbuhler.com/comps)
 A compendium of readings for U. Kentucky graduate students. 
  
-## Writing Tools
-[Words to pages](http://wordstopages.com/)
-[xkcd Simpler Writer](https://xkcd.com/simplewriter/)
+#### Writing Tools
+* [Words to pages](http://wordstopages.com/)
+* [xkcd Simpler Writer](https://xkcd.com/simplewriter/)
  
  
 ## Even More Fun Stuff
  
-### [Biography](/bio)
+### [Biography](http://circularreason.github.io/bio) ###
+
+### [Blog](http://circularreason.github.io./blog) ###
+
 
 ### [Amateur Art](http://www.keithbuhler.com/art)
 
