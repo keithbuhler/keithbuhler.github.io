@@ -11,7 +11,7 @@ title: fun-stuff
 My self-help blog that guides you to reading more books and better books this year. 
 
 
-##[Inklings](http://circularreason.github.io/2015-10-20-inklings)
+##[Inklings](http://circularreason.github.io/inklings)
 
 Resources on all things C. S. Lewis and Inklings
  
