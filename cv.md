@@ -4,13 +4,14 @@ title: cv
 
 --- 
 
-# Curriculum Vitae 2015 #
+## Curriculum Vitae 2015 ##
 
 **Keith Buhler**
 
-Department of Philosophy
 
 University of Kentucky
+
+Department of Philosophy
 
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
 
@@ -18,15 +19,16 @@ ph. 562.230.2920
 
 
 
-### Areas of Specialty ###
+### SPECIALIZATION: ###
 Virtue ethics, metaethics
 
 
-### Areas of Competence: ###
-Philosophy of mind, philosophy of religion,
+### COMPETENCE: ###
+Philosophy of mind, philosophy of religion
 
 
-### EDUCATION:
+### EDUCATION: ###
+
 2017 Ph.D. Philosophy, University of Kentucky (in progress) 
 
 2015 M.A. Philosophy, University of Kentucky
@@ -36,7 +38,7 @@ Philosophy of mind, philosophy of religion,
 2004 B.A. Humanities: History, Biola University 
  
 
-### TEACHING ###
+### TEACHING: ###
 2014 – present  Philosophy Instructor, Asbury University
 
 2012 – present  Graduate Teaching Assistant, University of Kentucky
@@ -52,7 +54,7 @@ Courses Taught (Asbury University):
 2014    Introduction to Philosophy
 
 
-### COURSES TAUGHT ###
+### COURSES TAUGHT: ###
 2015    Health Care Ethics (x 2)
 
 2013-15    Introduction to Philosophy (x 6)
@@ -65,7 +67,7 @@ Courses Taught (Asbury University):
 2004    Contemporary Philosophy of Science (Biola University)    
 
 
-### ACADEMIC PRESENTATIONS ###
+### ACADEMIC PRESENTATIONS: ###
 2015    “Nature is Normative: A Presumptive Case”, (accepted) Idaho Philosophy Conference.
 
 2014     “Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October. 
@@ -77,7 +79,7 @@ Courses Taught (Asbury University):
 2014    “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February.
 
 
-### LEADERSHIP ###
+### LEADERSHIP: ###
 
 2013-2014   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
 
@@ -114,13 +116,19 @@ Married with two children.
 
 ### REFERENCES ###
 David Bradshaw, Professor of Philosophy, University of Kentucky
+
 1415 Patterson Office Tower, Lexington, KY 40506
+
 dbradsh@uky.edu / (859) 257 7107
 
 John Mark Reynolds, Provost, Houston Baptist University
+
 7502 Fondren Rd., Houston, TX 77074
+
 jmnreynolds@hbu.edu / (281) 649 3000
 
 Joseph Allen, Director, Pittsburgh Theological Seminary
+
 616 N. Highland Ave., Pittsburgh, PA 15206
+
 theoeduc@aol.com / (201) 784 2501
