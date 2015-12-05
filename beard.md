@@ -14,21 +14,28 @@ You have to wait through pimples, uneven limb size, emotional psychosis, and soc
 
 At this point, your body will begin producing the chemicals needed to grow that beard. This may take a year, a couple of years, or up to a decade. Your job is, again, to wait. 
 
-## 3. Do Not Commit Beardicide ## 
-Three words. Do. Not. Shave. This is the hardest step to do, mostly because it is the first where you actually *do* something. 
+## 3. Do. Not. Shave. ## 
+Don't commit beardicide. 
+
+This is the hardest step to do, mostly because it is the first where you actually *do* something. 
 
 Don't Destroy the Beard. 
 
-That typically translates to "do not shave." However, also do not put your chin too close to candles. Do not rub seeds into your beard and fall asleep near a horde of hungry hamsters. 
+Do not put your chin too close to candles. Do not rub seeds into your beard and fall asleep near a horde of hungry hamsters. 
 
 If you follow these 3 steps a beard will appear on your face. You will stop avoiding what Nature has so generously gifted you. 
 
+
 ## Replies to Objections  ##
 
-Some men will object they they "can't" grow a beard. You mean you can't grow a full, lush beard. But there is no perfect beard. Just *your* beard. If you naturally grow a fu-man-chu, then rock it. 
+* Objection. Some men will object they they "can't" grow a beard. 
+* Answer: You mean you can't grow a full, lush beard. But there is no perfect beard. Just *your* beard. If you naturally grow a fu-man-chu, then rock it. 
 
-Some men will object that bearded men are not as "kissable." But these are usually advertisers trying to sell you overpriced razors. Ignore such plaintive cries from the non-bearded. 
+* Objection: Some men will object that bearded men are not as "kissable." 
+* Answer: But these are usually advertisers trying to sell you overpriced razors. Ignore such plaintive cries from the non-bearded. 
 
-Some women will object that bearded men are not as "kissable". Do not date these women. 
+* Objection: Some women will object that bearded men are not as "kissable". 
+* Do not date these women. 
 
-Some young boys will object that they "can't" grow a beard yet. But they also break rule #3. If you follow rule #1-2 **and** #3, a beard will eventually appear. Wait, my son. Always two there are. A master, and an apprentice. Hear my words. Wait. 
+* Objection: Some young boys will object that they "can't" grow a beard yet. 
+* Answer: But they also break rule #3. If you follow rule #1-2 **and** #3, a beard will eventually appear. Wait, my son. Always two there are. A master, and an apprentice. Hear my words. Wait. 

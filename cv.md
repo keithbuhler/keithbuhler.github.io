@@ -3,29 +3,30 @@ layout: default
 title: cv
 
 --- 
+
+# Curriculum Vitae 2015 #
+
 **Keith Buhler**
 
 Department of Philosophy
 
 University of Kentucky
 
-keith.buhler@uky.edu
+[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
 
-562.230.2920
+ph. 562.230.2920
 
 
 
-**Specialization:**
-
+### Areas of Specialty ###
 Virtue ethics, metaethics
 
-**Competence:**
 
-Philosophy of mind, philosophy of religion
+### Areas of Competence: ###
+Philosophy of mind, philosophy of religion,
 
 
-**Education**:  
-
+### EDUCATION:
 2017 Ph.D. Philosophy, University of Kentucky (in progress) 
 
 2015 M.A. Philosophy, University of Kentucky
@@ -35,8 +36,7 @@ Philosophy of mind, philosophy of religion
 2004 B.A. Humanities: History, Biola University 
  
 
-**Teaching Positions:**
-
+### TEACHING ###
 2014 – present  Philosophy Instructor, Asbury University
 
 2012 – present  Graduate Teaching Assistant, University of Kentucky
@@ -52,46 +52,20 @@ Courses Taught (Asbury University):
 2014    Introduction to Philosophy
 
 
-**Courses Taught (University of Kentucky):**
+### COURSES TAUGHT ###
+2015    Health Care Ethics (x 2)
 
-2015    Health Care Ethics 305
+2013-15    Introduction to Philosophy (x 6)
 
-2015    Introduction to Philosophy
+2013    Introduction to Morality and Ethics  (x 2)                
 
-2015    Introduction to Philosophy 
+2012-13    Introduction to Logic (x 2)
 
-2014    Introduction to Philosophy 
-
-2014    Introduction to Philosophy 
-
-2014    Introduction to Philosophy  
-
-2014    Introduction to Philosophy 
-
-2013    Introduction to Philosophy  (Winter course)
-
-2013    Introduction to Morality and Ethics      
-
-2013    Introduction to Morality and Ethics             
-
-2013    Introduction to Logic               
-
-2013    Introduction to Logic 
-
-
-**Courses as Teaching Assistant**
-
-2012    Introduction to Logic
-
-2012    Introduction to Logic
-
-2012    Introduction to Logic
 
 2004    Contemporary Philosophy of Science (Biola University)    
 
 
-**Presentations:**
-
+### ACADEMIC PRESENTATIONS ###
 2015    “Nature is Normative: A Presumptive Case”, (accepted) Idaho Philosophy Conference.
 
 2014     “Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October. 
@@ -103,7 +77,7 @@ Courses Taught (Asbury University):
 2014    “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February.
 
 
-**Leadership Positions**:
+### LEADERSHIP ###
 
 2013-2014   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
 
@@ -121,22 +95,24 @@ Courses Taught (Asbury University):
 
 2001        Summer English Teacher, Campus Crusade for Christ (Mongolia) 
 
-**Language**:
+### LANGUAGES ###
+
 Ancient Greek (reading)
 
 Spanish  (speaking) 
 
-**PROFESSIONAL ORGANIZATIONS:**
+### PROFESSIONAL ORGANIZATIONS ###
+
 * American Philosophical Association
 * Society for Medieval & Renaissance Philosophy
 * Society of Orthodox Philosophers in America
 * International Society for MacIntyrean Enquiry
 
 
-**PERSONAL:**
+### PERSONAL ###
 Married with two children.
 
-**REFERENCES:**
+### REFERENCES ###
 David Bradshaw, Professor of Philosophy, University of Kentucky
 1415 Patterson Office Tower, Lexington, KY 40506
 dbradsh@uky.edu / (859) 257 7107
