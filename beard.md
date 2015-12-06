@@ -1,4 +1,9 @@
-# Beard #
+---
+layout: default
+title: beard
+---
+
+## Beard ##
 
 **How to grow a beard in 3 easy steps**
 
@@ -39,3 +44,12 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 
 * Objection: Some young boys will object that they "can't" grow a beard yet. 
 * Answer: But they also break rule #3. If you follow rule #1-2 **and** #3, a beard will eventually appear. Wait, my son. Always two there are. A master, and an apprentice. Hear my words. Wait. 
+
+
+### Some Epic Beards in Fact and Fantasy ###
+
+
+![Whitman](/img/beard 1 whitman.jpg)
+
+<img src="douglas.jpg" alt="Drawing" align="center", style="width: 400px;"/>
+<img src="whitman.jpg" alt="Drawing" align="center", style="width: 400px;"/>
