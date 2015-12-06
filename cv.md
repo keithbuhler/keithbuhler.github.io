@@ -26,7 +26,7 @@ Philosophy of mind, philosophy of religion
 2004 B.A. Humanities: History, Biola University 
 
 
-#### EMPLOYMENT ###
+#### EMPLOYMENT: ###
 2014-2016 Part-Time Philosophy Instructor, Asbury University, 
 
  
@@ -77,21 +77,21 @@ Contemporary Philosophy of Science, 2004, Biola University
 2001        Summer English Teacher, Campus Crusade for Christ (Mongolia) 
 
 
-#### LANGUAGES ###
+#### LANGUAGES: ###
 Ancient Greek (reading)  
 Spanish  (speaking) 
 
-#### PROFESSIONAL ORGANIZATIONS ###
+#### PROFESSIONAL ORGANIZATIONS:
 American Philosophical Association  
 Society for Medieval & Renaissance Philosophy  
 Society of Orthodox Philosophers in America  
 International Society for MacIntyrean Enquiry  
 
 
-#### PERSONAL ###
+#### PERSONAL:
 Married with two children.
 
-#### REFERENCES ###
+#### REFERENCES:
 David Bradshaw, Professor of Philosophy, University of Kentucky  
 1415 Patterson Office Tower, Lexington, KY 40506  
 dbradsh@uky.edu / (859) 257 7107
@@ -105,8 +105,7 @@ Joseph Allen, Director, Pittsburgh Theological Seminary
 theoeduc@aol.com / (201) 784 2501  
 
 
-#### TALKS ###
-
+#### TALKS:
 1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
 2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
 3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)

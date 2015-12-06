@@ -49,7 +49,9 @@ A few links to things I care about. Each is a project I am working on or resourc
 
 #### [Time Management](http://keithbuhler.com/goals/)
  
-#### [A fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0)
+#### [A fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0) ####
+
+#### [You can Paypal me money](https://www.paypal.me/keithbuhler)
 
 How many lifetimes ago did a historical event occur?
 A compendium of readings for U. Kentucky graduate students. 
