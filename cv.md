@@ -4,7 +4,7 @@ title: cv
 
 --- 
 
-## Keith Buhler - Curriculum Vitae 2015 ##
+### Keith Buhler - Curriculum Vitae 2015 ##
 
 Graduate Teaching Assistant  
 University of Kentucky, Department of Philosophy  
@@ -78,8 +78,7 @@ Contemporary Philosophy of Science, 2004, Biola University
 
 
 #### LANGUAGES ###
-Ancient Greek (reading)
-
+Ancient Greek (reading)  
 Spanish  (speaking) 
 
 #### PROFESSIONAL ORGANIZATIONS ###

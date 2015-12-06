@@ -1,25 +1,23 @@
 ---
 layout: default
-title: Inklings
+title: inklings
 ---
 
 # The Inklings #
 
-This page is dedicated to the Inklings. This 
-group of Oxford Dons changed the world. If you are not a Christian, you should stop saying anything about Christians until you have read a few of their books. If you are a Christian, you should not leave the faith before you read a few of their books. 
+This page is dedicated to the Inklings. This group of Oxford Dons changed the world. 
 
 
 ## Lists
 
-* [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/)
-* [The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)
-* [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)
-* [Chesterton's Complete Works](http://www.gkc.org.uk/gkc/books/bib.html)
-* [Owen Barfield](http://davidlavery.net/barfield/)
+1. [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/)  
+[The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)  
+[The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)  
+[The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
+[Owen Barfield](http://davidlavery.net/barfield/)  
  
-## Books ##
 
-I don't own the copyright to these books.
+## Books ##
 
 * [C.S. Lewis, Abolition of Man](https://drive.google.com/file/d/0B0CYQDZ8AWu8aHl5M2x5WERmT3M/edit?usp=sharing)
 * [C.S. Lewis, Mere Christianity](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
@@ -33,9 +31,7 @@ I don't own the copyright to these books.
 
 ## Survey
  
-This is a survey I designed for fun. 
-
-* [C. S. Lewis' Influence Survey - Take and view!](https://docs.google.com/forms/d/1c-p0E_XkEKblJ7wnoWkCL88yugPeg4_6hSWvW0MTxoM/viewform?usp=send_form)
+This is a survey I designed for fun. [C. S. Lewis' Influence Survey - Take and view!](https://docs.google.com/forms/d/1c-p0E_XkEKblJ7wnoWkCL88yugPeg4_6hSWvW0MTxoM/viewform?usp=send_form)
 
 ## External Resources ##
 
