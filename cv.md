@@ -6,16 +6,16 @@ title: cv
 
 ## Keith Buhler - Curriculum Vitae 2015 ##
 
-* Graduate Teaching Assistant
-* University of Kentucky, Department of Philosophy
-* [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
-* ph. 562.230.2920
+Graduate Teaching Assistant
+University of Kentucky, Department of Philosophy
+[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
+ph. 562.230.2920
 
 **SPECIALIZATION**: Virtue ethics, metaethics
 
 **COMPETENCE:**: Philosophy of mind, philosophy of religion
 
-### EDUCATION: ###
+#### EDUCATION: ###
 
 2017 Ph.D. Philosophy, University of Kentucky (in progress) 
 
@@ -27,12 +27,12 @@ title: cv
 
 
 
-### EMPLOYMENT ###
+#### EMPLOYMENT ###
 2014-2016 Part-Time Philosophy Instructor, Asbury University, 
 
  
 
-### ACADEMIC PRESENTATIONS: ###
+#### ACADEMIC PRESENTATIONS: ###
 2014     “Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October. 
 
 2014    “Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College, July. 
@@ -41,7 +41,7 @@ title: cv
 
 2014    “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February.
 
-### TEACHING: ###
+#### TEACHING: ###
 Wisdom and Virtue, Spring 2016, Asbury University
 
 Introduction to Philosophy: Goodness and Truth, 2014-2016, Asbury University
@@ -60,7 +60,7 @@ Contemporary Philosophy of Science, 2004, Biola University
 
 
 
-### LEADERSHIP: ###
+#### LEADERSHIP: ###
 2013-2014   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
 
 2010-2012   Master Tutor, Torrey Academy, La Mirada CA.
@@ -78,22 +78,22 @@ Contemporary Philosophy of Science, 2004, Biola University
 2001        Summer English Teacher, Campus Crusade for Christ (Mongolia) 
 
 
-### LANGUAGES ###
+#### LANGUAGES ###
 Ancient Greek (reading)
 
 Spanish  (speaking) 
 
-### PROFESSIONAL ORGANIZATIONS ###
+#### PROFESSIONAL ORGANIZATIONS ###
 * American Philosophical Association
 * Society for Medieval & Renaissance Philosophy
 * Society of Orthodox Philosophers in America
 * International Society for MacIntyrean Enquiry
 
 
-### PERSONAL ###
+#### PERSONAL ###
 Married with two children.
 
-### REFERENCES ###
+#### REFERENCES ###
 David Bradshaw, Professor of Philosophy, University of Kentucky
 
 1415 Patterson Office Tower, Lexington, KY 40506
@@ -113,7 +113,7 @@ Joseph Allen, Director, Pittsburgh Theological Seminary
 theoeduc@aol.com / (201) 784 2501
 
 
-### TALKS ###
+#### TALKS ###
 
 1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
 2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
