@@ -7,7 +7,7 @@ title: index
 
 I am a philosopher, educator, researcher, and writer.
 
-<img src="face3.jpg" alt="Drawing" align="center", style="width: 150px;"/>
+<img src="face3.jpg" alt="Drawing" align="left", style="width: 200px;"/>
 
 Currently, I teach philosophy and ethics at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and [Asbury University](http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges-south). Folks tend to [really like my classes.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 

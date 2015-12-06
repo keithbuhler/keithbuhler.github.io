@@ -6,34 +6,25 @@ title: meditation
 
 # Meditation #
 
-In the back’s low hollow sometimes 
+>In the back’s low hollow sometimes  
+a weightless hand guides me, gentle pressure   
+so I tack soft as a sailboat. (Go there)   
 
-a weightless hand guides me, gentle pressure 
-
-so I tack soft as a sailboat. (Go there)
- 
-
-Soften the space between your eyes (smudge
-
-of eucalyptus), the third eye opens.
-
+>Soften the space between your eyes (smudge  
+of eucalyptus), the third eye opens.   
 There’s the wide vermilion sky
- 
 
-that cradled us before birth, 
-
-and the sun pours its golden sap
-
-to preserve me like His precious insect.
- 
-("Meditatio" by Mary Karr) 
+>that cradled us before birth,     
+and the sun pours its golden sap    
+to preserve me like His precious insect.   
+≥("Meditatio" by Mary Karr) 
 
 
 ## My Story  ##
 
 I began meditating in 2004. My [mentor](www.doctorpuff.com/) said, "You seem scattered. Have you tried meditation?" He explained a bit about it; I waited for 2 weeks. The next time I saw him, I requested he show me how. He gave me a quick introduction, like the one written below. 
 
-He said [studies](http://liveanddare.com/benefits-of-meditation/) have shown that four years of 20 minute meditations (twice daily) have a dramatic and permanent effect on happiness, compassion, and peacefulness. Being inconsistent, I decided to try 1 minute a day and increase each week for 20 weeks. I did 1 minute meditations twice a day every day for 7 days. Then I did 2 minute meditations twice a day for 7 days, without missing one. At about week 10 I got impatient and started doing the recommend 20 minute meditation twice a day. 
+He said that [studies](http://liveanddare.com/benefits-of-meditation/) have shown that four years of 20 minute meditations (twice daily) have a dramatic and permanent effect on happiness, compassion, and peacefulness. Being inconsistent, I decided to try 1 minute a day and increase each week for 20 weeks. I did 1 minute meditations twice a day every day for 7 days. Then I did 2 minute meditations twice a day for 7 days, without missing one. At about week 10 I got impatient and started doing the recommend 20 minute meditation twice a day. 
 
 I did not enjoy it at first. It was "boring", agitating, itchy, and dull. But some days I looked forward to it. At six months in, I still wasn't having mystical experiences or anything dramatic. But for the first time I realized that I was *longing* all day for that evening meditation. 
 
@@ -49,7 +40,7 @@ I've learned a lot but am still learning. If you'd like to learn more, see below
 
 2. [Herbert Benson, M.D., made meditation scientificaly respectable overnight through his study of the "Relaxation Response". Meditation activates the parasympathetic system *better* than sleep.](https://www.bensonhenryinstitute.org/about/dr-herbert-benson)
  
-## How to Meditate ##
+## Quickstart Guide to Meditating ##
 
 1.   **Sit quietly in a comfortable position.**
 

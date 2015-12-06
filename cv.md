@@ -41,22 +41,14 @@ Philosophy of mind, philosophy of religion
 2014    “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February.
 
 #### TEACHING: ###
-Wisdom and Virtue Ethics, Spring 2016, Asbury University
-
-Introduction to Philosophy: Goodness and Truth, 2014-2016, Asbury University
-
-Health Care Ethics, 2015-2016, University of Kentucky
-
-Introduction to Philosophy: Reality and Knowledge, 2013-2014, University of Kentucky
-
-Introduction to Philosophy: Reality and Knowledge, winter 2014, University of Kentucky
-
-Introduction to Ethics, 2013-2014, University of Kentucky 
-
-Introduction to Logic, 2012-2013, University of Kentucky
-
-Contemporary Philosophy of Science, 2004, Biola University
-
+Virtue Ethics: Wisdom and Virtue, Spring 2016, Asbury University  
+Introduction to Philosophy, 2014-2016, Asbury University  
+Health Care Ethics, 2015-2016, University of Kentucky  
+Introduction to Philosophy, 2013-2014, University of Kentucky  
+Introduction to Philosophy, (winter) 2014, University of Kentucky  
+Introduction to Ethics, 2013-2014, University of Kentucky   
+Introduction to Logic, 2012-2013, University of Kentucky   
+Contemporary Philosophy of Science, 2004, Biola University  
 
 
 #### LEADERSHIP: ###
