@@ -13,7 +13,7 @@ A few links to things I care about. Each is a project I am working on or resourc
 My self-help blog that guides you to reading more books and better books this year. 
 
 
-###[Inklings](http://circularreason.github.io/inklings)
+###[Inklings](http://circularreason.github.io/2015-10-20-cv)
 
 Resources on all things C. S. Lewis and Inklings
  

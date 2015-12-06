@@ -3,34 +3,34 @@ layout: default
 title: teaching
 ---
 
-**"The proper measure of... discussion is a whole life" Plato (Republic 450b)**
+## "The proper measure of learning is a whole life." (Paraphrasing Plato, Republic 450b)
 
-## Resources for current students ##
+### Resources for current students ##
 
 #### Office Hours
 + (UK:) M/W 1-3 in Patterson Office Tower  
 + (Asbury:) T/Th 9:20-10:20 at the Kinlaw library. 
 + You can **always** set up an appointment.
 
-### Contact me
+#### Contact me
 + [School email](keith.buhler@uky.edu)
 + [Twitter](https://twitter.com/Keith_Buhler)
 
-### Survey
+#### Survey
 
 * [Get to know you survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web)
  
 
  
-### Rate:
+#### Rate:
 
 + If you have enjoyed the class, please let others know on my RateMyProfessors page.  
 + Also let me know by email or in person what I can improve. Thanks!
  
-### Official Student Course Evaluation Statistics###
+#### Official Student Course Evaluation Statistics###
 
-+  3.6 out of 4 average (overall teaching quality) -- UK
-+  3.6 out of 4 average (overall teaching quality) -- Asbury
++  3.6 out of 4 average in overall teaching quality, University of Kentucky
++  3.6 out of 4 average in overall teaching quality, Asbury University
  
 
 #### Discursive Student Evaluations ####
@@ -47,11 +47,11 @@ title: teaching
  
  
 
-## For employers ## 
+### For employers ### 
  
 Here are some resources to help you get to know me as a teacher. 
 
-### Sample Syllabi
+#### Sample Syllabi
 
 * Bioethics (2015) -- coming soon
 * [Introduction to Philosophy (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
@@ -62,30 +62,30 @@ Here are some resources to help you get to know me as a teacher.
 
  
 
-**Teaching Statement**
+#### Teaching Statement
 
 Coming soon.
  
  
-**Sample Exam & Review Sheet**
+#### Sample Exam & Review Sheet
 
 Coming soon.
 
  
  
-**Additional Discursive Evaluations**
+#### Additional Discursive Evaluations
 
 Coming soon.
  
  
  
-**Additional Syllabi**
+#### Additional Syllabi 
 
 Coming soon.
 
 
  
-### **Teacher Resources**
+#### **Teacher Resources**
 * [How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion) My featured article on Wiki How, viewed 200,000+ times.
 * [David Concepción, "Reading Philosophy with Background Knowledge and Metacognition", Teaching Philosophy, 27:4, December 2004.](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf)
 * [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
@@ -93,7 +93,7 @@ Coming soon.
 * Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.
 * Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University*
 * Oswald Hanfling, the Uses and Abuses of Argument. 
- * [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
+* [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
  
  
  
