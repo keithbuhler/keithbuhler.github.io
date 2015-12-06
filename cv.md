@@ -8,24 +8,16 @@ title: cv
 
 **Keith Buhler**
 
+* Graduate Teaching Assistant
+* University of Kentucky
+* Department of Philosophy
+* [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
+* ph. 562.230.2920
 
-University of Kentucky
+### Research ###
+**SPECIALIZATION**: Virtue ethics, metaethics
 
-Department of Philosophy
-
-[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
-
-ph. 562.230.2920
-
-
-
-### SPECIALIZATION: ###
-Virtue ethics, metaethics
-
-
-### COMPETENCE: ###
-Philosophy of mind, philosophy of religion
-
+**COMPETENCE:**: Philosophy of mind, philosophy of religion
 
 ### EDUCATION: ###
 
@@ -36,40 +28,15 @@ Philosophy of mind, philosophy of religion
 2014 M.A. Applied Orthodox Theology, University of Lebanon 
 
 2004 B.A. Humanities: History, Biola University 
+
+
+
+### EMPLOYMENT ###
+2014-2016 Part-Time Philosophy Instructor, Asbury University, 
+
  
 
-### TEACHING: ###
-2014 – present  Philosophy Instructor, Asbury University
-
-2012 – present  Graduate Teaching Assistant, University of Kentucky
-
-2004            Teaching Assistant, Biola University
-
-Courses Taught (Asbury University): 
-
-2015    Introduction to Philosophy
-
-2014    Introduction to Philosophy
-
-2014    Introduction to Philosophy
-
-
-### COURSES TAUGHT: ###
-2015    Health Care Ethics (x 2)
-
-2013-15    Introduction to Philosophy (x 6)
-
-2013    Introduction to Morality and Ethics  (x 2)                
-
-2012-13    Introduction to Logic (x 2)
-
-
-2004    Contemporary Philosophy of Science (Biola University)    
-
-
 ### ACADEMIC PRESENTATIONS: ###
-2015    “Nature is Normative: A Presumptive Case”, (accepted) Idaho Philosophy Conference.
-
 2014     “Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October. 
 
 2014    “Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College, July. 
@@ -78,9 +45,26 @@ Courses Taught (Asbury University):
 
 2014    “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February.
 
+### TEACHING: ###
+Wisdom and Virtue, Spring 2016, Asbury University
+
+Introduction to Philosophy: Goodness and Truth, 2014-2016, Asbury University
+
+Health Care Ethics / Bioethics, 2015-2016, University of Kentucky
+
+Introduction to Philosophy: Reality and Knowledge, 2013-2014, University of Kentucky
+
+Introduction to Philosophy: Reality and Knowledge, winter 2014, University of Kentucky
+
+Introduction to Ethics, 2013-2014, University of Kentucky 
+
+Introduction to Logic, 2012-2013, University of Kentucky
+
+Contemporary Philosophy of Science, 2004, Biola University
+
+
 
 ### LEADERSHIP: ###
-
 2013-2014   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
 
 2010-2012   Master Tutor, Torrey Academy, La Mirada CA.
@@ -97,14 +81,13 @@ Courses Taught (Asbury University):
 
 2001        Summer English Teacher, Campus Crusade for Christ (Mongolia) 
 
-### LANGUAGES ###
 
+### LANGUAGES ###
 Ancient Greek (reading)
 
 Spanish  (speaking) 
 
 ### PROFESSIONAL ORGANIZATIONS ###
-
 * American Philosophical Association
 * Society for Medieval & Renaissance Philosophy
 * Society of Orthodox Philosophers in America
@@ -121,7 +104,7 @@ David Bradshaw, Professor of Philosophy, University of Kentucky
 
 dbradsh@uky.edu / (859) 257 7107
 
-John Mark Reynolds, Provost, Houston Baptist University
+John Mark Reynolds, President, St. Constantine School
 
 7502 Fondren Rd., Houston, TX 77074
 
@@ -132,3 +115,10 @@ Joseph Allen, Director, Pittsburgh Theological Seminary
 616 N. Highland Ave., Pittsburgh, PA 15206
 
 theoeduc@aol.com / (201) 784 2501
+
+
+### TALKS ###
+
+1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
+2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
+3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)

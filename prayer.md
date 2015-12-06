@@ -11,13 +11,13 @@ How do we pray? The answer is simple. Just do it. We begin praying and learn as 
 
 
 ## Beginners to Prayer ##
-1. Peter Kreeft, A Beginner's Guide
-2. Anthony Bloom, Beginning to Pray
+1. [Peter Kreeft, *Prayer for Beginners*](http://amzn.to/1NzULMT)
+2. [Anthony Bloom, Beginning to Pray](http://amzn.to/1ONh4Sv)
 
 ## Intermediate Prayer  ##
-3. C. S. Lewis, *Screwtape Letters* (on distractions from prayer)
-4. C. S Lewis, *Letters to Malcom* (on prayer)
+3. [C. S. Lewis, *Screwtape Letters* (on distractions from prayer)](http://amzn.to/1NOBi1o)
+4. [C. S. Lewis, *Letters to Malcom*: Chiefly on Prayer)](http://amzn.to/1ONh3hu)
 
 ## Advanced Prayer Help ##
-1. Brother Laurance, *The Practice of the Presence of God*
-2. *The Way of the Pilgrim*
+1. [Brother Laurance, *The Practice of the Presence of God*](http://amzn.to/1ONgWCC)
+2. [*The Way of the Pilgrim*](http://amzn.to/1m3UsUv)
