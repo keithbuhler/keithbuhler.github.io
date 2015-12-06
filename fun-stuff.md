@@ -8,19 +8,19 @@ title: fun-stuff
 
 A few links to things I care about. Each is a project I am working on or resources for those who might be interested.
 
-### [The Intentional Reading Project](http://www.readingintentionally.com)
+#### [The Intentional Reading Project](http://www.readingintentionally.com)
 
 My self-help blog that guides you to reading more books and better books this year. 
 
 
-###[Inklings](http://circularreason.github.io/2015-10-20-cv)
+####[Inklings](http://circularreason.github.io/2015-10-20-cv)
 
 Resources on all things C. S. Lewis and Inklings
  
-###[Meditation](http://circularreason.github.io/meditation)
+####[Meditation](http://circularreason.github.io/meditation)
 A basic introduction to the how and why of meditation. 
  
-###[Writings](http://circularreason.github.io/writings)
+####[Writings](http://circularreason.github.io/writings)
 Fiction, Non-academic non-fiction, poetry, screenplays, and short stories. 
   
 #### [Philosophy of Science](http://www.philosophyisscience.com)
@@ -42,22 +42,22 @@ A compendium of readings for U. Kentucky graduate students.
 * [xkcd Simpler Writer](https://xkcd.com/simplewriter/)
  
  
-## Even More Fun Stuff
+### Even More Fun Stuff
  
-### [Biography](http://circularreason.github.io/bio) ###
+#### [Biography](http://circularreason.github.io/bio) ###
 
-### [Blog](http://circularreason.github.io./blog) ###
+#### [Blog](http://circularreason.github.io./blog) ###
 
 
-### [Amateur Art](http://circularreason.github.io/art)
+#### [Amateur Art](http://circularreason.github.io/art)
 
-### [Wikipedia edits](http://https://en.wikipedia.org/wiki/User:CircularReason)
+#### [Wikipedia edits](http://https://en.wikipedia.org/wiki/User:CircularReason)
 
-### [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
+#### [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
 
-### [Satire](http://circularreason.github.io/writings)
+#### [Satire](http://circularreason.github.io/writings)
 
-### [Goals & Time Management](http://keithbuhler.com/goals/)
+#### [Goals & Time Management](http://keithbuhler.com/goals/)
 
 How to budget your week hour by hour. 
  

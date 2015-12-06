@@ -1,5 +1,5 @@
-layout: post
-title: Writings
+layout: default
+title: writings
 ---
 
 # Writings #
