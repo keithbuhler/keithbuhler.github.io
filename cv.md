@@ -4,17 +4,13 @@ title: cv
 
 --- 
 
-## Curriculum Vitae 2015 ##
-
-**Keith Buhler**
+## Keith Buhler - Curriculum Vitae 2015 ##
 
 * Graduate Teaching Assistant
-* University of Kentucky
-* Department of Philosophy
+* University of Kentucky, Department of Philosophy
 * [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)
 * ph. 562.230.2920
 
-### Research ###
 **SPECIALIZATION**: Virtue ethics, metaethics
 
 **COMPETENCE:**: Philosophy of mind, philosophy of religion
