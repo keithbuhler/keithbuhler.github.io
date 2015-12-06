@@ -17,7 +17,7 @@ There’s the wide vermilion sky
 >that cradled us before birth,     
 and the sun pours its golden sap    
 to preserve me like His precious insect.   
-≥("Meditatio" by Mary Karr) 
+>("Meditatio" by Mary Karr) 
 
 
 ## My Story  ##
