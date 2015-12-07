@@ -50,22 +50,27 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 ### Some Epic Beards in Fact and Fantasy ###
 
 
-![Whitman](/img/whitman.jpg)
+![Whitman](/img/whitman.jpg | width=500)
 
-![Tolstoy](/img/tolstoy.jpg)
+![Tolstoy](/img/tolstoy.jpg | width=500)
 
-![Lincoln](/img/lincoln.jpg)
+![Lincoln](/img/lincoln.jpg | width=500)
 
 ![Gimli](/img/gimli.jpg)
 
-![Hagrid](/hagrid.jpg)
+![Hagrid](/img/hagrid.jpg)
 
-![](/img/.jpg)
+![Gandalf](/img/gandalf.jpg)
+
+![Douglas](/img/douglas.jpg)
+
+![fyodor](/img/fyodor.jpeg)
+
+![Mechanics](/img/mechanics.jpg)
+
+![onearm](/img/onearm.jpg)
 
 
-<img src="gandalf.jpg" alt="Gandalf" height="500" width="500">
 
+<img src="/img/gandalf.jpg" alt="Gandalf" height="500" width="500">
 
-<img src="douglas.jpg" alt="Drawing" align="center"style="width: 400px;"/>
-
-<img src="whitman.jpg" alt="Drawing" align="center"style="width: 400px;"/>
