@@ -81,9 +81,3 @@ jmnreynolds@hbu.edu / (281) 649 3000
 Joseph Allen, Director, Pittsburgh Theological Seminary  
 616 N. Highland Ave., Pittsburgh, PA 15206  
 theoeduc@aol.com / (201) 784 2501  
-
-
-#### TALKS:
-1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
-2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
-3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
