@@ -4,21 +4,19 @@ title: comps
 
 --- 
 
- http://circularreason.github.io/
 ## Comprehensive Exams
-
 
 
 ### READINGS
  
 #### 1. M&E Comprehensive Exams Readings  
-[M&E Readings.Docx](https://drive.google.com/file/d/0B0CYQDZ8AWu8THZ6bjlqcHMyNGs/view)
-[M&E Readings.pages](https://drive.google.com/file/d/0B0CYQDZ8AWu8blk1b2tKWW9QdVE/view)
-[M&E Readings.markdown](https://drive.google.com/file/d/0B0CYQDZ8AWu8dE90MjN3c1ZUVU0/view)
+* [M&E Readings.Docx](https://drive.google.com/file/d/0B0CYQDZ8AWu8THZ6bjlqcHMyNGs/view)
+* [M&E Readings.pages](https://drive.google.com/file/d/0B0CYQDZ8AWu8blk1b2tKWW9QdVE/view)
+* [M&E Readings.markdown](https://drive.google.com/file/d/0B0CYQDZ8AWu8dE90MjN3c1ZUVU0/view)
  
 #### 2. Value Theory Comp Readings 
-[VT Readings.googledoc](https://docs.google.com/document/d/1DRLqyCxqkVlqse_4mcMkFN8YIPeekcVceMMx1slJCmQ/edit#heading=h.rfi11po7i16i) (first draft, just Aquinas Russeau)
-Please let me know if you can make a compendium of these readings.
+* [VT Readings.googledoc](https://docs.google.com/document/d/1DRLqyCxqkVlqse_4mcMkFN8YIPeekcVceMMx1slJCmQ/edit#heading=h.rfi11po7i16i) (first draft, just Aquinas Russeau)
+* Please let me know if you can make a compendium of these readings.
  
  
  
@@ -28,6 +26,7 @@ Please let me know if you can make a compendium of these readings.
 ###LISTS
 [The official department reading lists for M&E (as of 2013)](https://drive.google.com/file/d/0B0CYQDZ8AWu8cDFLTFRncFpGNzQ/view)
  
+#### The M & E List
 Plato, Meno;  Phaedo;  Republic, Books V-VII; Parmenides 127-135;  
 Theaetetus;  Timaeus 27-52  
 Aristotle, Categories, Chaps. 1-5;  Posterior Analytics I.1-3, II.19;  Physics I.7,   
@@ -66,6 +65,6 @@ Dependence of Self-Consciousness”);  Encyclopedia (Introduction);  The
 Philosophy of History (Introduction);  Lectures on the History of   
 Philosophy, Volume Three, Section Three, Part E (“The Final Result”)Nietzsche, Twilight of the Idols  
  
-### VT List ###
+#### The VT List ###
 
 Please let me know if you have the most recent list. Thanks.
