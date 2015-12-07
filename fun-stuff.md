@@ -17,7 +17,9 @@ A few links to things I care about. Each is a project I am working on or resourc
 
 ####[Meditation](http://circularreason.github.io/meditation)
   
-#### [Should you get a Phd in philosophy?](http://circularreason.github.io/phd)
+#### [Getting a PhD: My ongoing story](http://circularreason.github.io/phd)
+
+#### [Should you get a Phd in philosophy?](http://circularreason.github.io/phd-how-to)
 
 #### [Is philosophy a science?](http://www.philosophyisscience.com)
 
