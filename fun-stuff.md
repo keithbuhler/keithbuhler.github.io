@@ -41,7 +41,7 @@ A few links to things I care about. Each is a project I am working on or resourc
 
 #### [How to Grow a Beard in 3 Easy Steps](http://circularreason.github.io/beard)
 
-#### [My Wikipedia edits](http://https://en.wikipedia.org/wiki/User:CircularReason)
+#### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
 #### [My YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
 
