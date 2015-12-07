@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: Buhler... anyone?
 ---
 
 ## Hi, I'm Keith Buhler.
@@ -9,14 +9,14 @@ I am a philosopher, educator, researcher, and writer.
 
 <img src="/img/face3.jpg" alt="Keith" height="200" width="200">
 
-Currently, I [teach philosophy and ethics](/teaching) at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and [Asbury University](http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges-south). Folks tend to [really like my classes.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+Thanks for visiting. This site introduces my professional work in philosophy and education. It also hosts a few personal projects that might be of interest. 
 
-I'm done with [coursework](/phd) and writing my dissertation. My research explores virtue and practical rationality in Alasdair MacIntre, Philippa Foot, John McDowell, and Robert Adams. 
+As an educator, I teach [philosophy and virtue ethics](/teaching) at Asbury University and Health Care ethics at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226). Folks tend to [really like my classes.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
-I'm also interested in [metaphysics, philosophy of mind, and philosophy of religion.](https://uky.academia.edu/KeithBuhler)
+As a graduate student, I'm writing my [dissertation](/phd) on virtue ethics. My work analyzes the concepts of virtue and practical rationality in five contemporary thinkers: Alasdair MacIntre, Philippa Foot, John McDowell, Rosalind Hursthouse, and Robert Adams. 
 
-I love to [read](http://www.readingintentionally.com) and [write](http://circularreason.github.io/writings). 
+As a researcher, I'm often puzzling about [metaphysics, philosophy of mind, ancient philosophy, and philosophy of religion.](https://uky.academia.edu/KeithBuhler)
 
-This website is the start of a bigger project. In the meantime, enjoy.
+As a creator, I love to [write other things too](http://circularreason.github.io/writings), [to read](http://www.readingintentionally.com/2012/04/readers-are-leaders.html) and to [help others read](http://www.readingintentionally.com). Feel free to explore this site or send me a note. Thanks, 
 
-[Keith](mailto:keithedbuhler@gmail.com)
+-[Keith](mailto:keithedbuhler@gmail.com)
