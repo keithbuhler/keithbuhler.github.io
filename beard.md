@@ -43,11 +43,11 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 **Answer:** But they also break rule #3. If you follow rule #1-2 **and** #3, a beard will eventually appear. Wait, my son. Always two there are. A masterand an apprentice. Hear my words. Wait. 
 
 
--> ### Epic Beards in Fact and Fantasy ###
+### Epic Beards in Fact and Fantasy ###
 
 
-->| Epic Beards |<-
-:----------------:
+| Epic Beards |
+| :----------------:|
 | ![Whitman](/img/whitman.jpg) |
 | ![Tolstoy](/img/tolstoy.jpg)  |
 | ![Lincoln](/img/lincoln.jpg | width=500) |
