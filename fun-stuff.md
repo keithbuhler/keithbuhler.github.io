@@ -23,22 +23,26 @@ A few links to things I care about. Each is a project I am working on or resourc
 
 #### [My PhD research](http://circularreason.github.io/phd)
 
-#### [U.K. Comprehensive Exams](http://circularreason.github.io/comps)
-
-####[How to meditate (and why)](http://circularreason.github.io/meditation)
-
-
-### Even More Fun Stuff
- 
 #### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
 #### [My YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
 
-#### [Facebook](http://www.facebook.com/kedbuhler/) ###
+#### [My Facebook](http://www.facebook.com/kedbuhler/) ###
 
-#### [Twitter](https://twitter.com/Keith_Buhler) ####
+#### [My Twitter](https://twitter.com/Keith_Buhler) ####
 
 #### [You can Paypal me money](https://www.paypal.me/keithbuhler) ####
+
+####[How to meditate (and why)](http://circularreason.github.io/meditation)
+
+
+
+
+### Even More Fun Stuff
+ 
+#### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
+
+#### [U.K. Comprehensive Exam readings](http://circularreason.github.io/comps)
 
 #### [How to get a PhD (and why)](http://circularreason.github.io/phd-how-to) ####
 

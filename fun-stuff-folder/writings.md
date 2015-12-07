@@ -30,18 +30,19 @@ The most important thing I'm writing right now is my [dissertation](http://circu
 
 
 ### Screenplays
-* Aedis Diana  
-* The Hispanola Vampire: Amelia 
-* [The Hispanola Vampire: Bobadilla](https://drive.google.com/open?id=0B0CYQDZ8AWu8dTR2ZzNweGJCSkU)
 * [Misha and Liz](https://drive.google.com/file/d/0B0CYQDZ8AWu8NHRLNWgxMGtMZWM/view) (short film)  
+* Aedis Diana  (feature film)
+* The Hispanola Vampire: Amelia (feature film)
+* [The Hispanola Vampire: Bobadilla](https://drive.google.com/open?id=0B0CYQDZ8AWu8dTR2ZzNweGJCSkU) (feature film)
 * [G8: The Last War](https://drive.google.com/file/d/0B0CYQDZ8AWu8VXY4ejBXVmxPY2s/view) (feature film)
 
 ### Non-Fiction
+* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
 * [Is philosophy a science?](http://www.philosophyisscience.com)
-* [Friends with Holiness: My St Stephen's Residency (in Orthodox Word)](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency)
-* [Review of Rage Against God by Peter Hitchins]() (in Examined Life)]
-* [Who Cares? Learning through discussion (in Examined Life)](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html)
-* [The Courage to Witness: Reflections on martyrdom (in Examined Life)](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html)
+* [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
+* [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
+* [Who Cares? Learning through discussion](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html)(in Examined Life)
+* [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
 * [When My Breath Stops: Lungs and Mortality (forthcoming in St. Katherine Review)](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view)
 
 ### Poetry
@@ -60,5 +61,5 @@ The most important thing I'm writing right now is my [dissertation](http://circu
 [Universal Human Rights](http://keithbuhler.com/rights/)
  
 ### Film and Music Criticism
-[Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)
-[Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)
+[Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
+[Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
