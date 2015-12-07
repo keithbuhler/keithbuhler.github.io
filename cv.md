@@ -3,7 +3,7 @@ layout: default
 
 --- 
 
-### Curriculum Vitae 2015 ##
+### [Curriculum Vitae](http://circularreason.github.io/cv.pdf) 2015
 
 Keith Buhler   
 Graduate Teaching Assistant  
@@ -80,6 +80,3 @@ jmnreynolds@hbu.edu / (281) 649 3000
 Joseph Allen, Director, Pittsburgh Theological Seminary  
 616 N. Highland Ave., Pittsburgh, PA 15206  
 theoeduc@aol.com / (201) 784 2501  
-
-
-[Click here for PDF version.](http://circularreason.github.io/cv.pdf)
