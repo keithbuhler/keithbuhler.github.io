@@ -3,10 +3,10 @@ layout: default
 title: teaching
 ---
 
-"The proper measure of learning is a whole life."   
+**"The proper measure of learning is a whole life."**   
 (Paraphrasing Plato, Republic 450b)
 
-## Resources for current students ##
+## Students ##
 
 My office hours for UK students are M/W 1402 POT. 
 For Asbury students, they are 9:30-10:30 at Kinlaw Library.  
@@ -16,18 +16,13 @@ Contact me at my [School email](keith.buhler@uky.edu) or on [Twitter](https://tw
 
 New students, take the [Get to know you survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web)
 
-
-#### Rate:
-
-If you have enjoyed the class, please let others know on my RateMyProfessors page. Also, let me know by email or in person what I can improve. Thanks!
+If you have enjoyed the class, please let others know on my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) page. Also, let me know by email or in person what I can improve. Thanks!
 
  
 ## For employers ### 
  
 
 #### Sample Syllabi ####
-
-
 * Bioethics (2015) -- coming soon
 * [Introduction to Philosophy (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
 * [Introduction to Philosophy (2014)](https://docs.google.com/document/d/1oDPOnqZxSVDfEcUWWzgqZYorWLYLhYv8FDSUM1MVXNQ/edit)
@@ -36,12 +31,8 @@ If you have enjoyed the class, please let others know on my RateMyProfessors pag
  
 
 #### Official Student Course Evaluation Statistics
-
 +  3.6 out of 4 average in overall teaching quality, University of Kentucky
 +  3.6 out of 4 average in overall teaching quality, Asbury University
- 
-
-
  
 
 #### Teaching Statement
@@ -49,21 +40,10 @@ If you have enjoyed the class, please let others know on my RateMyProfessors pag
 Coming soon.
  
  
-#### Sample Exam & Review Sheet
+#### Sample Exams & Study Guides
 
 Coming soon.
 
- 
- 
-#### Additional Discursive Evaluations
-
-Coming soon.
- 
- 
- 
-#### Additional Syllabi 
-
-Coming soon.
  
  
 #### Discursive Student Evaluations ####
