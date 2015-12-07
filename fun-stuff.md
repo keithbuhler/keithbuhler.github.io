@@ -5,6 +5,8 @@ title: fun-stuff
 
 **Flesh knows; but spirit knows it knows" Charles Williams**
 
+
+
 A few links to things I care about. Each is a project I am working on or resources for those who might be interested.
 
 #### [My blog -- The Intentional Reading Project helps you read more books this year](http://www.readingintentionally.com)
