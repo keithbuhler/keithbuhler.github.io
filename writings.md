@@ -37,6 +37,7 @@ The most important thing I'm writing right now is my [dissertation](http://circu
 * [G8: The Last War](https://drive.google.com/file/d/0B0CYQDZ8AWu8VXY4ejBXVmxPY2s/view) (feature film)
 
 ### Non-Fiction
+* [Is philosophy a science?](http://www.philosophyisscience.com)
 * [Friends with Holiness: My St Stephen's Residency (in Orthodox Word)](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency)
 * [Review of Rage Against God by Peter Hitchins]() (in Examined Life)]
 * [Who Cares? Learning through discussion (in Examined Life)](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html)
