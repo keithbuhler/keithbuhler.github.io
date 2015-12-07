@@ -25,3 +25,11 @@ If you write in Markdown, or want to learn, this site is an easy way to instantl
 This tool helps you convert your current HTML webpage to markdown, or see how other pages would look. 
 
 
+
+## How do you write beautiful papers? ##
+
++ Newbs -- I recommend [Scrivener](https://www.literatureandlatte.com/scrivener.php)  to write in plain text and "compile" (export) to .Docx or PDF. Beautiful. It's $40 and worth $400. 
+
++ Intermediates -- I recommend using [Texts.io](http://www.texts.io/) to code in Markdown, exporting to .docx or PDF. Beautiful. It's free. Requires about 30-90 minutes to learn Markdown syntax and become comfortable with it.  
+
++ L33T h@ckerz: I recommend Sublime Text (3), Pandoc, Bibdesk, and PDFLatex -- all free but requires SOME programming competence. I am working on simple written instructions with accompanying video. Once you get it down it makes beautiful, lovely, amazing, awesomely formatted papers. 
