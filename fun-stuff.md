@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fun-stuff
+title: Fun Stuff
 ---
 
 **Flesh knows; but spirit knows it knows" Charles Williams**

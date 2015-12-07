@@ -1,6 +1,6 @@
 ---
 layout: default
-title: teaching
+title: Teaching
 ---
 
 **"The proper measure of learning is a whole life."**   
