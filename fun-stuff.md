@@ -44,9 +44,9 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [U.K. Comprehensive Exam readings](/comps)
 
-#### [How to get a PhD (and why)](/phd-how-to) ####
+#### [How to get a PhD (and why)](/phd-how-to) 
 
-#### [My new (empty) blog](http://circularreason.github.io./blog) ###
+#### [My new (empty) blog](http://circularreason.github.io./blog)
 
 #### [How to Grow a Beard](/beard)
 
