@@ -11,11 +11,6 @@ University of Kentucky, Department of Philosophy
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 ph. 562.230.2920
 
-#### SPECIALIZATION: ####
-Virtue ethics, metaethics
-
-#### COMPETENCE: 
-Philosophy of mind, philosophy of religion
 
 
 #### EDUCATION: ###
@@ -27,9 +22,14 @@ Philosophy of mind, philosophy of religion
 
 
 #### EMPLOYMENT: ###
-2014-2016 Part-Time Philosophy Instructor, Asbury University, 
+2014-2016 Philosophy Part-Time Instructor, Asbury University
 
- 
+#### SPECIALIZATION: ####
+Virtue ethics, metaethics
+
+#### COMPETENCE: 
+Metaphysics, Philosophy of mind, Philosophy of religion
+
 
 #### ACADEMIC PRESENTATIONS: ###
 2014     “Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October. 
