@@ -50,27 +50,45 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 ### Some Epic Beards in Fact and Fantasy ###
 
 
-![Whitman](/img/whitman.jpg | width=500)
+![Whitman](/img/whitman.jpg)
 
-![Tolstoy](/img/tolstoy.jpg | width=500)
+<img src="/img/whitman.jpg" alt="whitman" height="500" width="500">
+
+
+![Tolstoy](/img/tolstoy.jpg)
+
+<img src="/img/tolstoy.jpg" alt="tolstoy" height="500" width="500">
+
 
 ![Lincoln](/img/lincoln.jpg | width=500)
 
+<img src="/img/lincoln.jpg" alt="lincoln" height="500" width="500">
+
 ![Gimli](/img/gimli.jpg)
+
+<img src="/img/gimli.jpg" alt="gimli" height="500" width="500">
 
 ![Hagrid](/img/hagrid.jpg)
 
+<img src="/img/hagrid.jpg" alt="hagrid" height="500" width="500">
+
 ![Gandalf](/img/gandalf.jpg)
+
+<img src="/img/gandalf.jpg" alt="gandalf" height="500" width="500">
 
 ![Douglas](/img/douglas.jpg)
 
+<img src="/img/douglas.jpg" alt="douglas" height="500" width="500">
+
 ![fyodor](/img/fyodor.jpeg)
+
+<img src="/img/fyodor.jpg" alt="fyodor" height="500" width="500">
 
 ![Mechanics](/img/mechanics.jpg)
 
+<img src="/img/mechanics.jpg" alt="mechanics" height="500" width="500">
+
 ![onearm](/img/onearm.jpg)
 
-
-
-<img src="/img/gandalf.jpg" alt="Gandalf" height="500" width="500">
+<img src="/img/onearm.jpg" alt="onearm" height="500" width="500">
 
