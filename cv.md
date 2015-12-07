@@ -1,16 +1,15 @@
 ---
 layout: default
-title: cv
 
 --- 
 
-### Keith Buhler - Curriculum Vitae 2015 ##
+### Curriculum Vitae 2015 ##
 
+Keith Buhler   
 Graduate Teaching Assistant  
 University of Kentucky, Department of Philosophy  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 ph. 562.230.2920
-
 
 ### EDUCATION: ###
 2017 Ph.D. Philosophy, University of Kentucky (in progress)  
@@ -81,3 +80,6 @@ jmnreynolds@hbu.edu / (281) 649 3000
 Joseph Allen, Director, Pittsburgh Theological Seminary  
 616 N. Highland Ave., Pittsburgh, PA 15206  
 theoeduc@aol.com / (201) 784 2501  
+
+
+[Click here for PDF version.](http://circularreason.github.io/cv.pdf)
