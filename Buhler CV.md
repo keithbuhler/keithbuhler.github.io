@@ -33,15 +33,22 @@ University of Kentucky, Department of Philosophy
 2014  “Socratic Spiritual Direction,” SOPHIA Conference.  
 2014  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
 
-### Teaching
+### Teaching ###
+
+**Instructor, Asbury University**  
 2016        Wisdom and Virtue, Asbury University   
 2014-16     Goodness, Truth, and Beauty, Asbury University  
+
+**Instructor, University of Kentucky**  
 2014-16     Health Care Ethics, University of Kentucky  
 2013-14     Knowledge and Reality, University of Kentucky
-2013-14     Knowledge and Reality, University of Kentucky (winter)    
+2013-14     Knowledge and Reality, University of Kentucky (winter)   
 2013-14      Introduction to Ethics, University of Kentucky   
 2012-13      Introduction to Logic, University of Kentucky   
-2004        Philosophy of Science, Biola University (summer)
+
+**Teaching Assistant**
+2012      Introduction to Logic, University of Kentucky   
+2004      Philosophy of Science, Biola University (summer)
 
 
 ### Leadership
@@ -55,16 +62,12 @@ University of Kentucky, Department of Philosophy
 2001        Summer English Teacher, Campus Crusade Mongolia  
 
 
-### Languages ###
-Ancient Greek (reading)  
-Spanish  (speaking)  
-
-### Associations
+### Affiliations
 American Philosophical Association  
 Society for Medieval & Renaissance Philosophy  
 Society of Orthodox Philosophers in America  
 International Society for MacIntyrean Enquiry  
 
-### Personal
-Married with two children.
-
+### Languages ###
+Ancient Greek (reading)  
+Spanish  (speaking)  

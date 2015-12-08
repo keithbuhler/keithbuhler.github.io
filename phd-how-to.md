@@ -131,7 +131,12 @@ The goal is, when I'm finished, to write a post-op. Possible topics include:
 What was hard  
 What was easy   
 Deciding where to apply  
-Applying  
+
+## Applying   ##
+
+* [How to write a teaching statement](http://chronicle.com/article/How-to-Write-a-Statement-of/45133/)
+* [How to build a CV](https://career.berkeley.edu/PhDs/PhDCVelements)
+
 First year coursework  
 Second year coursework and comprehensive exams  
 Third year coursework  
