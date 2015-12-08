@@ -34,21 +34,21 @@ a:hover {text-decoration: underline; text-color:#3379ff;
 
 
 h1 {
-    font-size: 3em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
-}
-
-h2 {
     font-size: 2.5em;
     font-family:'Garamond', 'Baskerville', 'Serif';
 }
 
-h3 {
+h2 {
     font-size: 2em;
+    font-family:'Garamond', 'Baskerville', 'Serif';
+}
+
+h3 {
+    font-size: 1.5em;
     font-family:'Garamond', 'Baskerville', 'Serif';
 
 h4 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-family:'Garamond', 'Baskerville', 'Serif';
 }
 
@@ -57,9 +57,13 @@ h5 {
     font-family:'Garamond', 'Baskerville', 'Serif';
 }
 
+h5 {
+    font-size: 1em;
+    font-family:'Garamond', 'Baskerville', 'Serif';
+}
 
 p {
-    font-size: 1.2;
+    font-size: 1.5;
     line-height: 1.5em;
     color: #001233;
 }
