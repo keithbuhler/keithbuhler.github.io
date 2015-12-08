@@ -9,7 +9,7 @@ body {
 }
 nav ul, header ul {
     font-family:'Garamond', 'Baskerville', 'Serif';
-    padding: 5px;
+    padding: 2px;
     list-style: none;
     font-weight: bold;
     font-size: 1.4em;
@@ -17,7 +17,7 @@ nav ul, header ul {
 
 nav ul, header ul {
     font-family:'Garamond', 'Baskerville', 'Serif';
-    padding: 5px;
+    padding: 2px;
     list-style: none;
     font-weight: bold;
     font-size: 1.4em;
@@ -32,7 +32,6 @@ a {color: #2a7ae2; text-decoration: none;}
 a:hover {text-decoration: underline; text-color:#3379ff;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 p {
     font-size: 1.2;
@@ -87,6 +86,13 @@ ul.posts li {
 .post-content > * { margin: 20px 0; }
 
 
+.post-header h1 { font-size: 36px; }
+  .post-content h2 { font-size: 28px; }
+  .post-content h3 { font-size: 22px; }
+  .post-content h4 { font-size: 18px; }
+  .post-content blockquote { padding-left: 10px; }
+  .post-content ul,
+  .post-content ol { padding-left: 10px; }
 
 .post-content h2 {
   font-size: 32px;
