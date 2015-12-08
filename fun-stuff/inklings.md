@@ -3,6 +3,8 @@ layout: default
 title: The Inklings
 ---
 
+[Test](/inklings)
+
 
 # The Inklings #
 
@@ -22,11 +24,6 @@ This page is dedicated to the Inklings. This group of Oxford Dons changed the wo
 
 * [C.S. Lewis, Abolition of Man](https://drive.google.com/file/d/0B0CYQDZ8AWu8aHl5M2x5WERmT3M/edit?usp=sharing)
 * [C.S. Lewis, Mere Christianity](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
-
-C.S. Lewis said, of Williams’s Arthurian poems: 
-
-> They seem to me, both for the soaring and gorgeous novelty of their technique and for their profound wisdom, to be among the two or three most valuable books of verse produced in the [twentieth] century.
-
 * [Charles Williams, War in Heaven](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
 * [Charles Williams, Many Dimensions](https://drive.google.com/file/d/0B0CYQDZ8AWu8dDF1TUdsUDVMa28/edit?usp=sharing)
 * [Charles Williams, The Place of the Lion](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
@@ -34,6 +31,10 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 * [Charles Williams, Shadows of Ecstasy](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFJTNjdoa1RsQU0/edit?usp=sharing)
 * [Charles Williams, Descent Into Hell](https://drive.google.com/file/d/0B0CYQDZ8AWu8cnYwclpmMXhoaVk/edit?usp=sharing)
 * [Charles Williams, All Hallow's Eve](https://drive.google.com/file/d/0B0CYQDZ8AWu8RmdUQ1I2RGNZb3M/edit?usp=sharing)
+
+C.S. Lewis said, of Williams’s Arthurian poems: 
+
+> They seem to me, both for the soaring and gorgeous novelty of their technique and for their profound wisdom, to be among the two or three most valuable books of verse produced in the [twentieth] century.
 
 ## Survey
  

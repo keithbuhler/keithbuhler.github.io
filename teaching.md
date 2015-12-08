@@ -23,16 +23,17 @@ If you have enjoyed the class, please let others know on my [RateMyProfessors](h
  
 
 #### Sample Syllabi ####
+* Wisdom and Virtue (2015) -- coming soon
 * Bioethics (2015) -- coming soon
 * [Introduction to Philosophy (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
 * [Introduction to Philosophy (2014)](https://docs.google.com/document/d/1oDPOnqZxSVDfEcUWWzgqZYorWLYLhYv8FDSUM1MVXNQ/edit)
 * [Introduction to Ethics (2014)](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit)
-* Introduction to Logic (2012) -- coming soon
+* Introduction to Logic (2012)
  
 
 #### Official Student Course Evaluation Statistics
-+  3.6 out of 4 average in overall teaching quality, University of Kentucky
-+  3.6 out of 4 average in overall teaching quality, Asbury University
++  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
++  3.6 out of 4, cumulative average in overall teaching quality, Asbury University
  
 
 #### Teaching Statement
