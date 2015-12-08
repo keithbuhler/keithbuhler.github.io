@@ -43,7 +43,7 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
-#### Fun things in development ###
+### Fun things in development ###
 
 
 #### [U.K. Comprehensive Exam readings](/comps)
