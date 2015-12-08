@@ -5,7 +5,7 @@ title: Buhler... anyone?
 
 ### Hi, I'm Keith Buhler.
 
-I am a philosopher, educator, researcher, and writer.
+I am a philosopher, educator, researcher, and writer..
 
 <img src="/img/face3.jpg" alt="Keith" height="200" width="200">
 
