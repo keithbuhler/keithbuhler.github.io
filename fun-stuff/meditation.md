@@ -69,27 +69,23 @@ First thing in the morning and last thing before bed are good times. Avoid medit
 
 ## Objections to Meditating ##
 
-1. Is it just for "religious" or "spiritual" people? 
+Q: Is it just for "religious" or "spiritual" people?   
+A: Meditation is no more religious than laughing, sleeping, dancing, relaxing, or studying the stars. [Atheists](http://www.samharris.org/blog/item/how-to-meditate), agnostics, secular humanists, seekers, scientifically-minded, and spiritual but not religious people enjoy the benefits and peace of meditation. And certainly also Christians, Jews, Buddhists, Hindus, Muslims, Ba'hai, and others practice meditation within their own religion. 
 
-Meditation is no more religious than laughing, sleeping, dancing, relaxing, or studying the stars. [Atheists](http://www.samharris.org/blog/item/how-to-meditate), agnostics, secular humanists, seekers, scientifically-minded, and spiritual but not religious people enjoy the benefits and peace of meditation. And certainly also Christians, Jews, Buddhists, Hindus, Muslims, Ba'hai, and others practice meditation within their own religion. 
+Q: Isn't meditation about "emptying your mind"?   
+A: Not exactly. Meditation is about practicing single focus. You empty your mind of *everything else* but that one thing. That's why one of the most common forms of meditation is *mindfulness*. If you choose to focus on an empty word or phrase, then you are contemplating emptiness and practicing nonthought. If, however, you choose to focus on a powerful word or prayer, then you contemplate that reality and practicing communion.
 
-2. Isn't meditation about "emptying your mind"? 
+Q: Isn't meditation boring?  
+A: Yes and no. Sometimes, after a hectic day, or busy week or month, 20 minutes of being being "bored" is peaceful!
 
-Not exactly. Meditation is about practicing single focus. You empty your mind of *everything else* but that one thing. That's why one of the most common forms of meditation is *mindfulness*. If you choose to focus on an empty word or phrase, then you are contemplating emptiness and practicing nonthought. If, however, you choose to focus on a powerful word or prayer, then you contemplate that reality and practicing communion.
-
-3. Isn't meditation boring? 
-
-Yes and no. Sometimes, after a hectic day, or busy week or month, 20 minutes of being being "bored" is peaceful!
-
-4. Isn't meditation esoteric? 
-
-No, the [military](http://psychcentral.com/news/2010/02/18/mindfulness-training-helpful-for-the-military/11562.html), professional athletes, practice it as well as monks. 
+Q: Isn't meditation esoteric?   
+A: No, the [military](http://psychcentral.com/news/2010/02/18/mindfulness-training-helpful-for-the-military/11562.html), professional athletes, practice it as well as monks. 
 
 ## More Readings ##
 
-1. [Thomas Keating, *Centering Prayer*]
+1. [Thomas Keating, *Centering Prayer*](http://www.centeringprayer.com/)
 2. [John Main, World Community for Christian Meditation](http://wccm-usa.org/)
-3. [Thomas Merton, *Spiritual Direction & Meditation*]
+3. [Thomas Merton, *Spiritual Direction & Meditation*](http://amzn.to/1IBdkV5)
 4. [Robert Puff, *Meditation for Health and Happiness*](http://www.amazon.com/Meditation-Health-Happiness-Robert-Puff-ebook/dp/B005XR4ANS)
 5. [Robert Puff, *Reflections on Meditation: A Guide for Beginners*](http://www.amazon.com/Reflections-Meditation-A-Guide-Beginners-ebook/dp/B005VQUZNU/ref=pd_sim_351_2?ie=UTF8&dpID=41-IouFr2oL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=18YA35XJ68S5PAHZ53XS)
 6. [Some of the 3,000+ scientific studies on the benefits](http://liveanddare.com/benefits-of-meditation/)

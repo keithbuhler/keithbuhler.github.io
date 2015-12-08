@@ -6,25 +6,25 @@ title: Fun Stuff
 **Flesh knows; but spirit knows it knows" Charles Williams**
 
 
-
 This page is devoted to a few of my favorite things. Each is a project I am working on or resources for those who might be interested.
 
-#### [My blog -- The Intentional Reading Project helps you read more books this year](http://www.readingintentionally.com)
+#### ["Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com)
 
 ####[The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun-stuff/inklings)
 
-#### [My art work -- drawings, pumpkins, etc.](http://www.keithbuhler.com/art)
+#### [Art work -- drawings, pumpkins, etc.](http://www.keithbuhler.com/art)
 
-#### [My biography](/bio) ###
+#### [Biography](/bio) ###
 
 #### [My first book on theology and philosophy -- *Sola Scriptura*](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
 
-####[My writings -- fiction, screenplays, verse, and satire](/writings)
+####[Writings -- fiction, screenplays, verse, and satire](/writings)
 
 ####[Meditation -- how to meditate (and why)](/meditation)
 
 #### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
 
+#### [My PhD research](/phd)
 
 
 ### Even More Fun Stuff
@@ -54,8 +54,6 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) ####
 
-
-#### [My PhD research](/phd)
 
 #### [My YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
 

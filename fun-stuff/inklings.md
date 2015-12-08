@@ -1,6 +1,6 @@
 ---
 layout: default
-title: inklings
+title: The Inklings
 ---
 
 
