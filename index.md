@@ -5,7 +5,7 @@ title: Buhler... anyone?
 
 ### Hi, I'm Keith Buhler.
 
-I am a philosopher, educator, researcher, and writer..
+I am a philosopher, educator, researcher, and writer.
 
 <img src="/img/face3.jpg" alt="Keith" height="200" width="200">
 
@@ -17,7 +17,7 @@ As a graduate student, I'm currently writing my [dissertation](/phd) on virtue e
 
 As a researcher, although ethics is my primary focus, I often puzzle about problems in [metaphysics, philosophy of mind, ancient philosophy, and philosophy of religion.](https://uky.academia.edu/KeithBuhler)
 
-As a creator, I run the [Intentional Reading Project](http://www.readingintentionally.com) which aims helps people read more books, and [write other things too](/fun stuff) Feel free to explore this site or send me a note. Thanks, 
+As a creator, I run the [Intentional Reading Project](http://www.readingintentionally.com) which aims helps people read more books, and [write other things too](/fun stuff). Feel free to explore this site or send me a note. Thanks, 
 
 
 -[Keith](mailto:keithedbuhler@gmail.com)
