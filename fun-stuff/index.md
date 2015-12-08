@@ -14,17 +14,17 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [Art work -- drawings, pumpkins, etc.](http://www.keithbuhler.com/art)
 
-#### [Biography](/bio) ###
+#### [Biography](/fun-stuff/bio) ###
 
 #### [My first book on theology and philosophy -- *Sola Scriptura*](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
 
-####[Writings -- fiction, screenplays, verse, and satire](/writings)
+####[Writings -- fiction, screenplays, verse, and satire](/fun-stuff/writings)
 
-####[Meditation -- how to meditate (and why)](/meditation)
+####[Meditation -- how to meditate (and why)](/fun-stuff/meditation)
 
 #### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
 
-#### [My PhD research](/phd)
+#### [My PhD research](/fun-stuff/phd)
 
 
 ### Even More Fun Stuff
