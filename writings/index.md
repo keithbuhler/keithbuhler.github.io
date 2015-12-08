@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: writings
 title: writings
 ---
 
@@ -59,9 +59,9 @@ Below, you can read some of my articles, short stories, fairy tales, screenplays
 [2014 College Budget Completely Cuts Faculty Salary](http://ukcolonel.com/2014-budget-revealed-faculty-salaries-completely-cut/)  
 [College Student Might Give Professor a "2"](http://ukcolonel.com/uk-student-might-rate-professor-as-a-2/)  
 [Woman Finds Man of her Dreams](https://drive.google.com/file/d/0B0CYQDZ8AWu8MXRnaTJza0lTR1k/view)  
-[On Bad Words](http://circularreason.github.io/bad-words)
-[Henry and Janet's Big Day](https://drive.google.com/file/d/0B0CYQDZ8AWu8V2JvZlhTcFNXLXc/view)
-[Universal Human Rights](http://keithbuhler.com/rights/)
+[On Bad Words](http://circularreason.github.io/bad-words)  
+[Henry and Janet's Big Day](https://drive.google.com/file/d/0B0CYQDZ8AWu8V2JvZlhTcFNXLXc/view)  
+[Universal Human Rights](http://keithbuhler.com/rights/)  
  
 ### Film and Music Criticism
 [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
