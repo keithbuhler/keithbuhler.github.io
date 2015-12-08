@@ -1,6 +1,6 @@
 ---
 layout: post
-title: phd
+title: how to get a phd in philosophy
 
 --- 
 

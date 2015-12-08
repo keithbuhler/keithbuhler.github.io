@@ -6,7 +6,7 @@ title: phd
 
 This is how I got my PHD. The next page [gives some advice](http://circularreason.github.io/phd-how-to) to help you decide if you should go for a PhD in philosophy. 
 
-# My Story  #
+### My Story  ###
 
 In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten married in 2010. I was finishing an M.A. in theology. I was working as a high school teacher and she was the admissions department at a new college. I knew for five years I wanted to pursue further graduate training, but now the timing was right.
 
