@@ -18,7 +18,9 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [How to get a PhD (and why)](/phd-how-to) 
 
-####[The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/inklings)
+#### [The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/inklings)
+
+#### [How to Grow a Beard -- 3 easy steps](/beard) ####
 
 
 ### Personal ###
@@ -41,15 +43,16 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
-### Other fun things ###
+#### Fun things in development ###
+
 
 #### [U.K. Comprehensive Exam readings](/comps)
 
 #### [My new (empty) blog](http://circularreason.github.io./blog)
 
-#### [Time Management](http://keithbuhler.com/goals/)
+#### [162 Hours, a time management tool](http://keithbuhler.com/goals/)
  
-#### [A fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0) ####
+#### [80 year lifetimes, a fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0) ####
 
 #### Politics -- coming soon ####
 
@@ -59,10 +62,9 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### Philosophy with Heart ####
 
-#### [Advice to Philosophers](http://www.advicetochristianphilosophers.com) ####
+#### Advice to Philosophers -- coming soon ####
 
 #### [You can Paypal me money(!)](https://www.paypal.me/keithbuhler) ####
 
-#### [How to Grow a Beard](/beard)
 
 #### [Writing tools](/writing-tools)

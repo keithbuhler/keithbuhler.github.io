@@ -18,17 +18,18 @@ ph. 562.230.2920
 2004 B.A. Humanities: History, Biola University 
 
 
+
+### RESEARCH: ###
+**Specialization:** Virtue ethics, metaethics
+**Competence:** Philosophy of Mind, Ancient Philosophy, Philosophy of Religion
+
+
 ### EMPLOYMENT: ###
 Philosophy Part-Time Instructor, Asbury University, 2014-2016 
 
-### SPECIALIZATION: ###
-Virtue ethics, metaethics
-
-### COMPETENCE: 
-Bioethics, Philosophy of Mind, Ancient Philosophy, Philosophy of Religion
 
 ### ACADEMIC PRESENTATIONS: ###
-“Nihilistic Fairy Tales: Post-Christian Myths”, Faith and Film Conference, Baylor University, October, 2014     
+“Nihilistic Fairy Tales: Kung Fu Panda and Wizard of Oz”, Faith and Film Conference, Baylor University, October, 2014     
 “Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College, July, 2014.   
 “Socratic Spiritual Direction,” SOPHIA Conference, February, 2014.   
 “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February, 2014. 
