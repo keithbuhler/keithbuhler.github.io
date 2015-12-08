@@ -1,14 +1,14 @@
 body {
     margin: 70px auto;
     width: 80%;
-    background-color: #fffae5
+    background-color: #fff2e5
 }
 nav ul, header ul {
     font-family:'Garamond', 'Baskerville', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 nav ul, header ul {
@@ -16,7 +16,7 @@ nav ul, header ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.3em;
 
 }
 nav ul li, footer ul li {
