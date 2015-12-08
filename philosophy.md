@@ -4,7 +4,7 @@ title: research
 
 --- 
 
-This page is under construction. 
+*This page is under construction.*
 
 ### Philosophy Bio ###
 
@@ -17,11 +17,11 @@ See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some pap
 
 
 
-## Research Statement ##
+### Research Statement ##
 
 Coming soon.
 
-## Graduate Coursework: 
+### Graduate Coursework: 
 2015 Ethical Naturalism (Dissertation research)  
 2015 Metaethics (Seminar)   
 2014 Ethics of Bodily Autonomy (Seminar)  
@@ -47,46 +47,47 @@ Coming soon.
 3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
 
 
-## References
+### References
 
-David Bradshaw, Professor of Philosophy, University of Kentucky
-1415 Patterson Office Tower, Lexington, KY 40506
-dbradsh@uky.edu / (859) 257 7107
+David Bradshaw, Professor of Philosophy, University of Kentucky   
+1415 Patterson Office Tower, Lexington, KY 40506   
+dbradsh@uky.edu / (859) 257 7107   
 
-John Mark Reynolds, Provost, Houston Baptist University
-7502 Fondren Rd., Houston, TX 77074
-jmnreynolds@hbu.edu / (281) 649 3000
+John Mark Reynolds, Provost, Houston Baptist University   
+7502 Fondren Rd., Houston, TX 77074   
+jmnreynolds@hbu.edu / (281) 649 3000   
 
-Joseph Allen, Director, Pittsburgh Theological Seminary
-616 N. Highland Ave., Pittsburgh, PA 15206
-theoeduc@aol.com / (201) 784 2501
-
-
-
-### Philosophy Resources ###
-* Stanford Encyclopedia
-* Internet Encyclopedia
+Joseph Allen, Director, Pittsburgh Theological Seminary   
+616 N. Highland Ave., Pittsburgh, PA 15206   
+theoeduc@aol.com / (201) 784 2501   
 
 
+## Philosophy Resources ##
+* [Stanford Encyclopedia](http://plato.stanford.edu/)
+* [Internet Encyclopedia](http://www.iep.utm.edu/)
+* [The Great Ideas](http://www.thegreatideas.org/)
+* [The Tao Te Ching](http://www.sacred-texts.com/tao/taote.htm)
+* [Plato, Republic](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168)
+* 
 
 
 
 
 ### Teaching Resources ###
 
-## Discussion
+#### Discussion
 * [How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion) My featured article on Wiki How, viewed 200,000+ times.
 * [Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University](http://www.elon.edu/e-web/academics/teaching/tlconference/makingThinking.xhtml)
 
 
-## Reading Philosophy
+#### Reading Philosophy
 * [David Concepción, "Reading Philosophy with Background Knowledge and Metacognition", Teaching Philosophy, 27:4, December 2004.](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf)
 * [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
 * [How to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
 * [Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.](http://works.bepress.com/clair_morrissey/4/)
 * [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
 
-## The Profession
+#### The Profession
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/)
 * [Phil Events](http://philevents.org/)
 * [Phil Jobs](http://philjobs.org/)

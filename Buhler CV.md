@@ -46,7 +46,7 @@ University of Kentucky, Department of Philosophy
 2013-14      Introduction to Ethics, University of Kentucky   
 2012-13      Introduction to Logic, University of Kentucky   
 
-**Teaching Assistant**
+**Teaching Assistant**  
 2012      Introduction to Logic, University of Kentucky   
 2004      Philosophy of Science, Biola University (summer)
 
