@@ -5,43 +5,40 @@ layout: default
 
 ### [Curriculum Vitae](http://circularreason.github.io/cv.pdf) 2015
 
-Keith Buhler   
+Keith Buhler  
 Graduate Teaching Assistant  
 University of Kentucky, Department of Philosophy  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-ph. 562.230.2920
+562.230.2920
 
 ### EDUCATION: ###
-2017 Ph.D. Philosophy, University of Kentucky (in progress)  
-2015 M.A. Philosophy, University of Kentucky  
-2014 M.A. Applied Orthodox Theology, University of Lebanon  
-2004 B.A. Humanities: History, Biola University 
-
+2017  Ph.D. Philosophy, University of Kentucky (*in progress*)  
+2015  M.A. Philosophy, University of Kentucky
+2014  M.A. Applied Orthodox Theology, University of Lebanon
+2004  B.A. Humanities: History, Biola University
 
 
 ### RESEARCH: ###
-**Specialization:** Virtue ethics, metaethics
-**Competence:** Philosophy of Mind, Ancient Philosophy, Philosophy of Religion
-
+**Specialization:**  Virtue ethics, metaethics  
+**Competence:**      Ancient Philosophy, Philosophy of Religion, Philosophy of Mind 
 
 ### EMPLOYMENT: ###
-Philosophy Part-Time Instructor, Asbury University, 2014-2016 
+2014-present   Philosophy Part-Time Instructor, Asbury University, 2014-2016   
 
 
-### ACADEMIC PRESENTATIONS: ###
-“Nihilistic Fairy Tales: Kung Fu Panda and Wizard of Oz”, Faith and Film Conference, Baylor University, October, 2014     
-“Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College, July, 2014.   
-“Socratic Spiritual Direction,” SOPHIA Conference, February, 2014.   
-“I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference, February, 2014. 
+### PRESENTATIONS: ###
+2014  “Nihilistic Fairy Tales: Kung Fu Panda and Wizard of Oz”, Faith and Film Conference, Baylor University.       
+2014  “Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
+2014  “Socratic Spiritual Direction,” SOPHIA Conference.  
+2014  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
 
 ### TEACHING: ###
-Wisdom and Virtue, Asbury University, Spring 2016    
-Introduction to Philosophy, Asbury University, 2014-2016.    
-Health Care Ethics, University of Kentucky, 2015-2016.  
-Introduction to Philosophy, University of Kentucky, 2013-2014.   
-Introduction to Ethics, University of Kentucky, 2013-2014.  
-Introduction to Logic, University of Kentucky, 2012-2013.     
-Philosophy of Science, Biola University, summer 2004.   
+2016        Wisdom and Virtue, Asbury University   
+2014-15     Introduction to Philosophy, Asbury University  
+2014-15     Health Care Ethics, University of Kentucky  
+2013-14     Introduction to Philosophy, University of Kentucky    2013-14  Introduction to Ethics, University of Kentucky  
+2012-13        Introduction to Logic, University of Kentucky   
+2004        Philosophy of Science, Biola University (summer term)
 
 
 ### LEADERSHIP: ###
@@ -69,15 +66,3 @@ International Society for MacIntyrean Enquiry
 ### PERSONAL:
 Married with two children.
 
-### REFERENCES:
-David Bradshaw, Professor of Philosophy, University of Kentucky  
-1415 Patterson Office Tower, Lexington, KY 40506  
-dbradsh@uky.edu / (859) 257 7107
-
-John Mark Reynolds, President, St. Constantine School  
-7502 Fondren Rd., Houston, TX 77074  
-jmnreynolds@hbu.edu / (281) 649 3000
-
-Joseph Allen, Director, Pittsburgh Theological Seminary  
-616 N. Highland Ave., Pittsburgh, PA 15206  
-theoeduc@aol.com / (201) 784 2501  
