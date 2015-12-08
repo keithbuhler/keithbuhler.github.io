@@ -11,7 +11,7 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [My blog -- The Intentional Reading Project helps you read more books this year](http://www.readingintentionally.com)
 
-####[The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/inklings)
+####[The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun-stuff/inklings)
 
 #### [My art work -- drawings, pumpkins, etc.](http://www.keithbuhler.com/art)
 
