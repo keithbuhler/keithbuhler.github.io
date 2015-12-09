@@ -35,6 +35,7 @@ If you have enjoyed the class, please let others know on my [RateMyProfessors](h
 * "None of his assignments are busy work."
 * "He learned our names very quickly and took time to understand our points in discussion." 
 * "The papers and midterm were effective and helpful with understanding the material for the class."
+*  "I was really blessed by you and your passion in your teaching method. You have challenged me and helped me grow as person."
 
 #### Teaching Statement
 

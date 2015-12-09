@@ -5,7 +5,7 @@ title: Buhler... anyone?
 
 #### Hi! Thanks for visiting. 
 
-<img src="/img/face3.jpg" alt="Keith" align="left" hspace="15" height="200" width="200">
+<img src="/img/face3.jpg" alt="Keith" align="left" hspace="20" height="225" width="225">
 
 I am currently a philosophy instructor Asbury University and ABD graduate student at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226). I teach [introduction to philosophy, health care ethics, and virtue ethics](/teaching). Folks tend to [really like my classes.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) I have more than 14 years of experience teaching high school, college, and adults, and really love what I do. 
 
