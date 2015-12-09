@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-**"The proper measure of learning is a whole life."** (Paraphrasing Plato, Republic 450b)
+<img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 
 #### Sample Syllabi ####
