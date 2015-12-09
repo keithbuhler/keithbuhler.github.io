@@ -1,12 +1,17 @@
 ---
 layout: post
 title: how to get a phd in philosophy
-
 --- 
+
+### My Story  ###
+
+In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten married in 2010. I was finishing an M.A. in theology. I was working as a high school teacher and she was the admissions department at a new college. I knew for five years I wanted to pursue further graduate training, but now the timing was right.
+
+We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my top choice because I wanted to work with David Bradshaw, but the choice was easy. Claremont and University of Chicago offered no funding, no tuition; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. I accepted the offer. 
 
 ## Should you get a PhD in philosophy? #
 
-[The earlier post tells my story.](http://circularreason.github.io/phd) This post gives advice on each stage of the process. 
+[Another page explains my research](http://circularreason.github.io/phd) This post gives advice on each stage of the process. 
 
 1. Do you want to go to graduate school? ##
 
@@ -19,7 +24,6 @@ This is the difficult discernment decision. Why go to grad school? [There are no
 
 [PhDs, in general, get you on the job market in average 7 years.](http://www.nsf.gov/statistics/infbrief/nsf06312/) They often pay you to teach or research along the way. 
 
-
 ### 3. How do you best apply? ##
 
 Your philosophical essay is the most important. Pick your best undergrad or MA essay, re-write it twice, polish it, send it to your favorite and most generous professor, re-write it again, pay some to proof-read it, then print it out, read it aloud with a read pen, re-write it again, THEN include it in your portfolio.
@@ -31,13 +35,10 @@ The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosoph
 
 
 
-### 4. Once you get in, how do you best make progress? ##
-
-
+### 4. Once you get in, how do you best make progress? ###
 At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing)
 
 The list is 33 or so items, broken into 6 (very disproportionally sized) projects: 
-
 
 1. Complete 12 classes.                                                2 years
 

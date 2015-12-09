@@ -6,7 +6,7 @@ title: Teaching
 **"The proper measure of learning is a whole life."**   
 (Paraphrasing Plato, Republic 450b)
 
-## Students ##
+## For students ##
 
 My office hours for UK students are M/W 1402 POT. 
 For Asbury students, they are 9:30-10:30 at Kinlaw Library.  
