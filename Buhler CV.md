@@ -12,16 +12,16 @@ University of Kentucky, Department of Philosophy
 562.230.2920
 
 ### Education
-2017  Ph.D. Philosophy, University of Kentucky (*in progress*)    
-2015  M.A. Philosophy, University of Kentucky  
+2017  Ph.D. Philosophy   (*in progress*)    
+2015  M.A. Philosophy   
 2014  M.A. Applied Orthodox Theology, University of Lebanon  
 2004  B.A. Humanities: History, Biola University  
 
 
 ### Research
-**Specialization:**  Virtue ethics, metaethics  
+Area of Specialization:  Virtue ethics, metaethics  
 
-**Competence:**      Ancient Philosophy, Philosophy of Religion, Philosophy of Mind 
+Areas of Competence:      Ancient Philosophy, Philosophy of Religion, Philosophy of Mind 
 
 ### Employment
 2014-present      Philosophy Part-Time Instructor, Asbury University
@@ -36,18 +36,17 @@ University of Kentucky, Department of Philosophy
 ### Teaching ###
 
 **Instructor, Asbury University**  
-2016        Wisdom and Virtue, Asbury University   
-2014-16     Goodness, Truth, and Beauty, Asbury University  
+2016        Wisdom and Virtue
+2014-16     Introduction to Philosophy: Goodness, Truth, and Beauty
 
 **Instructor, University of Kentucky**  
-2014-16     Health Care Ethics, University of Kentucky  
-2013-14     Knowledge and Reality, University of Kentucky
-2013-14     Knowledge and Reality, University of Kentucky (winter)   
-2013-14      Introduction to Ethics, University of Kentucky   
-2012-13      Introduction to Logic, University of Kentucky   
+2014-16     Health Care Ethics   
+2013-14     Introduction to Philosophy: Knowledge and Reality
+2014     Introduction to Philosophy: Knowledge and Reality (winter)   
+2013-14      Introduction to Ethics    
+2013      Introduction to Logic    
 
-**Teaching Assistant**  
-2012      Introduction to Logic, University of Kentucky   
+**Teaching Assistant, Biola University**   
 2004      Philosophy of Science, Biola University (summer)
 
 
