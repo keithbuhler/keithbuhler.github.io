@@ -82,7 +82,7 @@ Joseph Allen, Director, Pittsburgh Theological Seminary
 ## Teaching Resources ##
 
 #### Discussion
-* [How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion) My featured article on Wiki How, viewed 200,000+ times.
+* [How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion): My featured article on Wiki How, viewed 200,000+ times.
 * [Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University](http://www.elon.edu/e-web/academics/teaching/tlconference/makingThinking.xhtml)
 
 #### Reading Philosophy
