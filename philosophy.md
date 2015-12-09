@@ -6,6 +6,9 @@ title: research
 
 *This page is still under development.*
 
+<img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
+
+
 ### Philosophy Bio ###
 I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
 
