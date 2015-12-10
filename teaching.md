@@ -10,7 +10,7 @@ title: Teaching
 * Wisdom and Virtue (2015) -- coming soon  
 * [Health Care Ethics (2015)](https://drive.google.com/open?id=1nMg-an_7ta_nBuau8q94XZqEu-QHaifAYd-cCsof-_A)
 * [Introduction to Philosophy: Goodness, Truth, and Beauty (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
-* * [Introduction to Philosophy: Knowledge and Reality (2014)](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit#)
+* [Introduction to Philosophy: Knowledge and Reality (2014)](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit#)
 * [Introduction to Ethics (2014)](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit)
 * [Introduction to Logic (2013)](https://docs.google.com/document/d/1SbPHQe6ojQHDEIRkbfvGRMc_24zU1d2Q0RNtn_mbzvA/edit?usp=sharing)
  

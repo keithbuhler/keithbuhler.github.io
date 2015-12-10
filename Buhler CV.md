@@ -38,9 +38,9 @@ Department of Philosophy
 **Instructor, University of Kentucky**  
 2015-16  &nbsp;&nbsp;&nbsp;&nbsp;   Health Care Ethics   
 2013-14  &nbsp;&nbsp;&nbsp;&nbsp;   Introduction to Philosophy: Knowledge and Reality  
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Philosophy: Knowledge and Reality (winter)
+2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Philosophy: Knowledge and Reality (winter)
 2013-14   &nbsp;&nbsp;&nbsp;&nbsp;   Introduction to Ethics    
-2013  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   Introduction to Logic    
+2013  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   Introduction to Logic    
 
 **Teaching Assistant, Biola University**   
 2004 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Philosophy of Science, Biola University (summer)  
