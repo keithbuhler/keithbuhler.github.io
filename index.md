@@ -11,6 +11,6 @@ I am currently a philosophy instructor Asbury University and ABD graduate studen
 
 I'm also plugging away at my [dissertation](/phd) on virtue ethics under the advising of [David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh).  My research explores virtue, practical rationality, and happiness. What exactly is a virtue and what is a vice? Is rationality a virtue? Is happiness just as "natural" as health -- and what do we mean by 'natural' anyway? I'm especially interested in the neo-Aristotelians: Elizabeth Anscombe, Iris Murdoch, Alasdair MacIntre, Philippa Foot, John McDowell, Rosalind Hursthouse, Martha Nussbaum, and Michael Thompson (among others). Although ethics is my primary focus right now, I'm also puzzling through problems in [metaphysics, philosophy of mind, ancient philosophy, and philosophy of religion.](https://uky.academia.edu/KeithBuhler)
 
-My site [Intentional Reading Project](http://www.readingintentionally.com) aims helps people read more books. I also [write other things too](/fun stuff).
+I [write some other things too](/fun stuff). My favorite pet project is [to help people read more books.](http://www.readingintentionally.com)
 
 -[Keith](mailto:keithedbuhler@gmail.com)

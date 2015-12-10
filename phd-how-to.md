@@ -90,8 +90,9 @@ This is simply a matter of doing the reading in your area. Take notes as you go 
 The plan right now is to write one page per day, every day, 7 days a week, until draft 1 is done. "Done" df = 6 chapters, 40 pages each, 12,000 words each, for 72,000 words total and about 280 pages.
 
 
-One good structure idea --  
-+ 4-6 chapters
+One good structure idea:
+
+* 4-6 chapters
 + 30-50 pages each
 + 120-300 pages total. 
 + 8,000 - 12,000 words or so per chapter
@@ -99,20 +100,13 @@ One good structure idea --
 
 This would look like: 
 
-+ Chapter 1: Introduction, thesis, key premises, assumptions, methodology, flow of arguments, and outline of dissertation
++ Chapter 1:  Introduction, thesis, key premises, assumptions, methodology, flow of arguments, and outline of dissertation
 + Chapter 2: Literature review; background on your topic/authors.
 + Chapter 3: Arguments 1
 + Chapter 4: Arguments 2
 + Chapter 5: Arguments 3, etc
-+ Chapter 6: Conclusion
++ Chapter 6: Conclusion - Reminder of thesis, summary of arguments.
 
-#### Each chapter consists of:  ###
-
-+ Introduction --  Chapter thesis, key premises, flow of chapter, transition from last chatper, outline of this chapter.
-+ Section 2: Summary of author/topic you are responding to/critiquing/defending/discussing. (about 1/4 of chapter)
-+ Section 3: Critical discussion, including objections to your author/topic. (about 1/4 of chapter)
-+ Section 4: Your response, including new critiques or new arguments. (about 1/2 of chapter)
-+ Conclusion -- Reminder of thesis, summary of arguments, transition to next chapter. 
 
 
 #### A bit more detail ###
@@ -126,24 +120,23 @@ Example 4 - 300 pages, 8 chapters, 37 pages each, 9,200 words per chapter.
 
 
 #### Retrospective #
-
 The goal is, when I'm finished, to write a post-op. Possible topics include: 
 
-What was hard  
-What was easy   
-Deciding where to apply  
++ What was hard  
++ What was easy   
++ Deciding where to apply  
 
 ## Applying   ##
 
 * [How to write a teaching statement](http://chronicle.com/article/How-to-Write-a-Statement-of/45133/)
 * [How to build a CV](https://career.berkeley.edu/PhDs/PhDCVelements)
 
-First year coursework  
-Second year coursework and comprehensive exams  
-Third year coursework  
-Administrative hoop jumping and paperwork  
-Fourth year research and writing   
-Fifth year dissertating  
-Applying for jobs  
-Finishing and moving  
-Starting new job  
+* First year coursework  
+* Second year coursework and comprehensive exams  
+* Third year coursework  
+* Administrative hoop jumping and paperwork  
+* Fourth year research and writing   
+* Fifth year dissertating  
+* Applying for jobs  
+* Finishing and moving  
+* Starting new job  
