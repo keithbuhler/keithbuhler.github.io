@@ -3,7 +3,7 @@ layout: default
 
 --- 
 
-### [Curriculum Vitae](http://circularreason.github.io/cv.pdf) 2015
+### [Curriculum Vitae](http://circularreason.github.io/Buhler CV.pdf) 2015
 
 Keith Buhler  
 Graduate Teaching Assistant  
@@ -19,12 +19,28 @@ University of Kentucky, Department of Philosophy
 
 
 ### Research
-Area of Specialization:  Virtue ethics, metaethics  
+**Area of Specialization:**  Virtue Ethics, Metaethics  
 
-Areas of Competence:      Ancient Philosophy, Philosophy of Religion, Philosophy of Mind 
+**Areas of Competence:**      Ancient Philosophy, Philosophy of Religion, Philosophy of Mind 
 
 ### Employment
 2014-present      Philosophy Part-Time Instructor, Asbury University
+
+### Teaching ###
+
+**Instructor, Asbury University**   
+2016        Wisdom and Virtue  
+2014-16     Introduction to Philosophy: Goodness, Truth, and Beauty  
+
+**Instructor, University of Kentucky**  
+2014-16     Health Care Ethics   
+2013-14     Introduction to Philosophy: Knowledge and Reality  
+2014     Introduction to Philosophy: Knowledge and Reality (winter)     
+2013-14      Introduction to Ethics    
+2013      Introduction to Logic    
+
+**Teaching Assistant, Biola University**   
+2004      Philosophy of Science, Biola University (summer)
 
 
 ### Talks
@@ -32,23 +48,6 @@ Areas of Competence:      Ancient Philosophy, Philosophy of Religion, Philosophy
 2014  “Against Inductive Arguments for Causal Closure,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014  “Socratic Spiritual Direction,” SOPHIA Conference.  
 2014  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
-
-### Teaching ###
-
-**Instructor, Asbury University**  
-2016        Wisdom and Virtue
-2014-16     Introduction to Philosophy: Goodness, Truth, and Beauty
-
-**Instructor, University of Kentucky**  
-2014-16     Health Care Ethics   
-2013-14     Introduction to Philosophy: Knowledge and Reality
-2014     Introduction to Philosophy: Knowledge and Reality (winter)   
-2013-14      Introduction to Ethics    
-2013      Introduction to Logic    
-
-**Teaching Assistant, Biola University**   
-2004      Philosophy of Science, Biola University (summer)
-
 
 ### Leadership
 2013-2014   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
