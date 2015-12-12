@@ -14,7 +14,7 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) ####
 
-####[Meditation -- how to meditate (and why)](/meditation)
+####[Meditation -- how to meditate (and why)](/fun/meditation)
 
 #### [How to get a PhD (and why)](/fun/phd-how-to) 
 
