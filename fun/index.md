@@ -16,22 +16,22 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 ####[Meditation -- how to meditate (and why)](/meditation)
 
-#### [How to get a PhD (and why)](/phd-how-to) 
+#### [How to get a PhD (and why)](/fun/phd-how-to) 
 
-#### [The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/inklings)
+#### [The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun/inklings)
 
-#### [How to Grow a Beard -- 3 easy steps](/beard) ####
+#### [How to Grow a Beard -- 3 easy steps](/fun/beard) ####
 
-#### [Writing tools](/writing-tools)
+#### [Writing tools](/fun/writing-tools)
 
 
 ### Personal ###
 
-#### [My Biography](/bio)
+#### [My Biography](/fun/bio)
 
-#### [My PhD research](/phd)
+#### [My PhD research](/fun/phd)
 
-#### [My Writings -- fiction, screenplays, verse, and satire](/writings)
+#### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings)
 
 #### [My Art work -- drawings, pumpkins, etc.](http://www.keithbuhler.com/art)
 
@@ -48,7 +48,7 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 ### Other stuff ###
 
-#### [U.K. Comprehensive Exam readings](/comps)
+#### [U.K. Comprehensive Exam readings](/fun/comps)
 
 #### [162 Hours, a time management tool](http://keithbuhler.com/goals/)
  
