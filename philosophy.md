@@ -16,7 +16,7 @@ The Torrey Honors Institute in CA forced me to read the "great books", including
 
 I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
 
- My advisor is David Bradshaw, whose work on Aristotle and Eastern Patristic Fathers.
+ My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
 
 
 ### Research Statement ##
