@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buhler... anyone?
----
+
+--- 
 
 ### Hi! Thanks for visiting. 
 
