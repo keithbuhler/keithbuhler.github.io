@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fun
 title: Fun Stuff
 ---
 
@@ -12,13 +12,13 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### ["Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com)
 
+#### [Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun/inklings)
+
 #### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) ####
 
-####[Meditation -- how to meditate (and why)](/fun/meditation)
+#### [How to meditate (and why)](/fun/meditation)
 
 #### [How to get a PhD (and why)](/fun/phd-how-to) 
-
-#### [The Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun/inklings)
 
 #### [How to Grow a Beard -- 3 easy steps](/fun/beard) ####
 
@@ -58,7 +58,7 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 ### Fun things in development ###
 
-#### [My new (empty) blog](http://circularreason.github.io./blog)
+#### [My new (empty) blog](http://keithbuhler.github.io./blog)
 
 #### Politics -- coming soon ####
 
