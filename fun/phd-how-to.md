@@ -3,6 +3,8 @@ layout: post
 title: how to get a phd in philosophy
 --- 
 
+[Another page explains my research](http://circularreason.github.io/phd) This post gives advice on each stage of the process. 
+
 ### My Story  ###
 
 In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten married in 2010. I was finishing an M.A. in theology. I was working as a high school teacher and she was the admissions department at a new college. I knew for five years I wanted to pursue further graduate training, but now the timing was right.
@@ -11,7 +13,6 @@ We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my to
 
 ## Should you get a PhD in philosophy? #
 
-[Another page explains my research](http://circularreason.github.io/phd) This post gives advice on each stage of the process. 
 
 1. Do you want to go to graduate school? ##
 
@@ -33,12 +34,10 @@ The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosoph
 [Personal statements?](http://leiterreports.typepad.com/blog/2007/09/advice-on-perso.html) Not sure how important they are. No one has ever told me they *make* a candidate; but it seems commonsense that they can *break* a candidate. Play it safe -- just be calm, be yourself, be frank, and say what you want to study. Your aspirations will change; just state what you want to study *today*. 
 
 
-
-
 ### 4. Once you get in, how do you best make progress? ###
 At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing)
 
-The list is 33 or so items, broken into 6 (very disproportionally sized) projects: 
+The list is 35 or so items, broken into 6 (very disproportionally sized) projects: 
 
 1. Complete 12 classes.                                                2 years
 
@@ -56,6 +55,9 @@ The list is 33 or so items, broken into 6 (very disproportionally sized) project
 
 
 ### 5. How do you approach coursework? ##
+
+
+The first step was to complete my coursework. I took 2-3 classes per semester for 2.5 years. 
 
 My approach is to hit hard early, and ease up later. I took three classes (two seminars) the first semester. This was hard, but you adjust to the work load. Manage your time. It's like jumping in a cold pool head first. You adjust quicker. 
 

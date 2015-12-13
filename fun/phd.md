@@ -5,27 +5,19 @@ title: phd
 --- 
 
 
-[Another page gives some advice](http://circularreason.github.io/phd-how-to) to help you decide if you should go for a PhD in philosophy. This page tells my story and presents my research proposals and early drafts of my dissertation research.
-
-## How I got my PHD. 
-
-At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing). The first step was to complete my coursework. I took 2-3 classes per semester for 2.5 years. 
-
-
+[Another page gives some advice](http://keithbuhler.github.io/fun/phd-how-to) to help folks decide whether a PhD in philosophy is right for them. 
 
 ## Research Proposals ##
-The second step was to do my three proposals. 
+
+At U. Kentucky we complete coursework and then make three progressively specific proposals. 
 
 2. The [Area Proposal](https://drive.google.com/file/d/0B0CYQDZ8AWu8eHVtdkY5RVFVbWs/view) explains the sub-discipline within philosophy I find interesting. 
-3. Secondly, after reading quite a bit in my area, I wrote the [Qualifying Exams](https://drive.google.com/file/d/0B0CYQDZ8AWu8Y21MZnVxR1g3cFU/view). These prove I am ready to start researching and writing in that area. 
-4. Thirdly, the [Dissertation Proposal](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view) "pitches" my specific project. With that approved, I began writing. 
-
+3. The [Qualifying Exams](https://drive.google.com/file/d/0B0CYQDZ8AWu8Y21MZnVxR1g3cFU/view) prove I have read quite a bit in my sub-discipline and am ready to start researching and writing in that area. 
+4. The [Dissertation Proposal](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view) "pitches" my specific project. With that approved, I began writing. 
 
 ## Dissertation
 
-These are very early drafts, so please do not share or cite. 
+These are very early drafts. Click and request permission if you're interested in perusing. Please do not share or cite. 
 
-[Chapter 1 - Virtue and Reason in Practice](https://drive.google.com/file/d/0B0CYQDZ8AWu8TUVZWkthNFlGMVE/view) 
-
-
-
+1. [MacIntyre: Virtue and Reason in Practice](https://drive.google.com/file/d/0B0CYQDZ8AWu8TUVZWkthNFlGMVE/view) 
+2. Foot: Virtue as Natural Goodness -- in progress.
