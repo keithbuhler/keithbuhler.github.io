@@ -4,6 +4,11 @@ title: Research Statement
 
 ---
 
+## Draft 1 ##
+
+Now that I have successfully defended my qualitative dissertation on the ethics of virtue and natural teleology, I am starting the next phase of my research, specifically, articulating a defense of natural teleology at the cross-section of three sub-disciplines: the metaphysics of morality, the philosophy of biology, and moral psychology. Thus far I've found that ethical reasoning is not a special, mystical mode of practical reasoning but simply that practical reasoning aims at *living well* tout court, and that "well-being" or human flourishing is a natural state. However, many puzzles arise. Just what conception of "nature" can sustain such a theory of ethics? The answer must foray into metaphysics, as well as biology and psychology. 
+
+I have applied to 
 
 ## Example
 Now that I have successfully defended my qualitative dissertation on video journalism, I

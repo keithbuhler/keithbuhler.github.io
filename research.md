@@ -4,28 +4,7 @@ title: research
 
 --- 
 
-*This page is still under development.*
-
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
-
-### Papers ###
-See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some of my papers. 
-
-### Research Statement ##
-*Coming soon.*
-
-You can [read my dissertation proposal](/fun/phd) here.
-
-
-
-### Philosophy Bio ###
-I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
-
-The Torrey Honors Institute in CA forced me to read the "great books", including philosopy, literature, science, history, theology, and more. So my bias is toward "classics" like Plato's *Republic*, the *Tao Te Ching*, and Aquinas *Summa Theologica*. Of contemporary philosophers, I admire Thomas Nagel, Alasdair MacIntyre, Rosalind Hursthouse, Richard Swinburne, JP Moreland, Alan Gibbard, John McDowell, John Haldane, and Hilary Putnam, among others.
-
-I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
-
-My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
 
 ### Graduate Coursework: 
 2015 Ethical Naturalism (Dissertation research)  
@@ -47,11 +26,31 @@ My advisor is David Bradshaw who works "on the ways that ancient Greek philosoph
 2009 Philosophy of Mind  
 2008 Metaphysics of Substance and Property  
 
+### Dissertation Research ###
+
+You can read about my [dissertation research](/fun/phd) here.
+
+### Papers ###
+See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some of my papers. 
+
+### Research Statement ##
+*Coming soon.*
+
 ### Talks
 1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
 2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
 3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
 
+### Philosophy Bio ###
+I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
+
+The Torrey Honors Institute in CA forced me to read the "great books", including philosopy, literature, science, history, theology, and more. So my bias is toward "classics" like Plato's *Republic*, the *Tao Te Ching*, and Aquinas *Summa Theologica*. Of contemporary philosophers, I admire Thomas Nagel, Alasdair MacIntyre, Rosalind Hursthouse, Richard Swinburne, JP Moreland, Alan Gibbard, John McDowell, John Haldane, and Hilary Putnam, among others.
+
+I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
+
+My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
+
+My research centers on questions of ethics relating to virtue on the one hand and metaphysical naturalism on the other hand. Virtue ethics has a long history, while metaphysical naturalism has only recently attained dominance. Can a metaphysical naturalist be a virtue ethicist? John McDowell is a "relaxed naturalist" but a critic of scientism. 
 
 ### References
 David Bradshaw, Professor of Philosophy, University of Kentucky   
@@ -65,35 +64,3 @@ John Mark Reynolds, Provost, Houston Baptist University
 Joseph Allen, Director, Pittsburgh Theological Seminary   
 616 N. Highland Ave., Pittsburgh, PA 15206   
 [theoeduc@aol.com](emailto:theoeduc@aol.com) / (201) 784 2501   
-
-
-## Philosophy Resources ##
-
-
-#### Encyclopedias
-* [Stanford Encyclopedia](http://plato.stanford.edu/)
-* [Internet Encyclopedia](http://www.iep.utm.edu/)
-* [The Great Ideas](http://www.thegreatideas.org/)
-
-#### Classics
-* [The Tao Te Ching](http://www.sacred-texts.com/tao/taote.htm)
-* [Plato, Republic](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168)
-* [Thomas Aquinas, Summa Theologica](http://www.newadvent.org/summa/)
-* [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
-
-#### Discussion
-* [My featured eHow article (viewed +200,000 times) on How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion)
-* [Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University](http://www.elon.edu/e-web/academics/teaching/tlconference/makingThinking.xhtml)
-
-#### Reading Philosophy
-* [David Concepción, "Reading Philosophy with Background Knowledge and Metacognition", Teaching Philosophy, 27:4, December 2004.](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf)
-* [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
-* [How to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
-* [Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.](http://works.bepress.com/clair_morrissey/4/)
-* [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
-
-#### The Profession
-* [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/)
-* [Phil Events](http://philevents.org/)
-* [Phil Jobs](http://philjobs.org/)
- 
