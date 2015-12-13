@@ -14,7 +14,7 @@ See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some of 
 ### Research Statement ##
 *Coming soon.*
 
-You can [read my dissertation proposal](/phd) here.
+You can [read my dissertation proposal](/fun/phd) here.
 
 
 

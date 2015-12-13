@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fun
 title: The Inklings
 ---
 
@@ -11,18 +11,18 @@ This page is dedicated to the Inklings. This group of Oxford Dons changed the wo
 ## Lists
 
 1. [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/)  
-[The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)  
-[The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)  
-[The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
-[Owen Barfield](http://davidlavery.net/barfield/)  
+2. [The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)  
+3. [The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)  
+4. [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
+5. [The complete works of Owen Barfield](http://davidlavery.net/barfield/)  
  
 
 ## Books ##
 
 * [C.S. Lewis, Abolition of Man](https://drive.google.com/file/d/0B0CYQDZ8AWu8aHl5M2x5WERmT3M/edit?usp=sharing)
 * [C.S. Lewis, Mere Christianity](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
-* [C.S. Lewis - Miracles](/Lewis - Miracles.docx)
-* [C.S. Lewis - Till We Have Faces](Lewis - Till We Have Faces.pdf)
+* [C.S. Lewis - Miracles](/img/Lewis - Miracles.docx)
+* [C.S. Lewis - Till We Have Faces](/img/Lewis - Till We Have Faces.pdf)
 * [Charles Williams, War in Heaven](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
 * [Charles Williams, Many Dimensions](https://drive.google.com/file/d/0B0CYQDZ8AWu8dDF1TUdsUDVMa28/edit?usp=sharing)
 * [Charles Williams, The Place of the Lion](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
@@ -33,13 +33,14 @@ This page is dedicated to the Inklings. This group of Oxford Dons changed the wo
 
 C.S. Lewis said, of Williams’s Arthurian poems: 
 
-> They seem to me, both for the soaring and gorgeous novelty of their technique and for their profound wisdom, to be among the two or three most valuable books of verse produced in the [twentieth] century.
+> *They seem to me, both for the soaring and gorgeous novelty of their technique and for their profound wisdom, to be among the two or three most valuable books of verse produced in the [twentieth] century.*
 
 
 ## Essays ##
 
-* [Lewis, Bulverism](/Lewis - Bulverism.docx)
-* [Lewis, Meditation in a Toolshed](/Lewis - Meditation in a Toolshed.pdf)
+* [Lewis, Bulverism](/img/Lewis - Bulverism.docx)
+* [Lewis, Meditation in a Toolshed](/img/Lewis - Meditation in a Toolshed.pdf)
+* 
 
 
 
