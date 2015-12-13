@@ -22,7 +22,7 @@ to preserve me like His precious insect.
 
 ## My Story  ##
 
-I began meditating in 2004. My [mentor](www.doctorpuff.com/) said, "You seem scattered. Have you tried meditation?" He explained a bit about it; I waited for 2 weeks. The next time I saw him, I requested he show me how. He gave me a quick introduction, like the one written below. 
+I began meditating in 2004. My [mentor](http://www.doctorpuff.com/) said, "You seem scattered. Have you tried meditation?" He explained a bit about it; I waited for 2 weeks. The next time I saw him, I requested he show me how. He gave me a quick introduction, like the one written below. 
 
 He said that [studies](http://liveanddare.com/benefits-of-meditation/) have shown that four years of 20 minute meditations (twice daily) have a dramatic and permanent effect on happiness, compassion, and peacefulness. Being inconsistent, I decided to try 1 minute a day and increase each week for 20 weeks. I did 1 minute meditations twice a day every day for 7 days. Then I did 2 minute meditations twice a day for 7 days, without missing one. At about week 10 I got impatient and started doing the recommend 20 minute meditation twice a day. 
 
