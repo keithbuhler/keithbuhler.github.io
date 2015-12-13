@@ -8,6 +8,15 @@ title: research
 
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
+### Papers ###
+See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some of my papers. 
+
+### Research Statement ##
+*Coming soon.*
+
+You can [read my dissertation proposal](/phd) here.
+
+
 
 ### Philosophy Bio ###
 I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
@@ -16,17 +25,7 @@ The Torrey Honors Institute in CA forced me to read the "great books", including
 
 I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
 
- My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
-
-
-### Research Statement ##
-*Coming soon.*
-
-You can [read my dissertation proposal](/phd) here.
-
-
-### Papers ###
-See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some papers. 
+My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
 
 ### Graduate Coursework: 
 2015 Ethical Naturalism (Dissertation research)  
@@ -69,20 +68,21 @@ Joseph Allen, Director, Pittsburgh Theological Seminary
 
 
 ## Philosophy Resources ##
+
+
+#### Encyclopedias
 * [Stanford Encyclopedia](http://plato.stanford.edu/)
 * [Internet Encyclopedia](http://www.iep.utm.edu/)
 * [The Great Ideas](http://www.thegreatideas.org/)
+
+#### Classics
 * [The Tao Te Ching](http://www.sacred-texts.com/tao/taote.htm)
 * [Plato, Republic](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168)
 * [Thomas Aquinas, Summa Theologica](http://www.newadvent.org/summa/)
 * [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
 
-
-
-## Teaching Resources ##
-
 #### Discussion
-* [How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion): My featured article on Wiki How, viewed 200,000+ times.
+* [My featured eHow article (viewed +200,000 times) on How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion)
 * [Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University](http://www.elon.edu/e-web/academics/teaching/tlconference/makingThinking.xhtml)
 
 #### Reading Philosophy
