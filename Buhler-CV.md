@@ -13,6 +13,10 @@ Department of Philosophy
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 562.230.2920
 
+### Research  
+**Specialization**: Virtue Ethics, Metaethics.  
+**Competence**: Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.   
+
 ### Education
 2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
@@ -34,7 +38,6 @@ Introduction to Ethics (100 level 2013)
 Introduction to Logic (100 level 2013)  
 
 **Teaching Assistant, Biola University**   
-Philosophy of Science, Biola University (100 level, summer 2004)  
 
 ### Other Teaching and Leadership
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
@@ -43,13 +46,10 @@ Philosophy of Science, Biola University (100 level, summer 2004)
 2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA.  
 2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy, Fullerton, CA.   
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
+2004 &nbsp;&nbsp; Teaching Assistant, Philosophy of Science (summer), Biola University, CA.
+
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Long Beach Middle School  
 2001       &nbsp;&nbsp;  Summer English Teacher, Campus Crusade Mongolia  
-
-
-### Research  
-Specialization in Virtue Ethics, Metaethics.  
-Competence in Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.   
 
 ### Talks
 2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and Wizard of Oz”, Faith and Film Conference, Baylor University.       
