@@ -31,9 +31,9 @@ nav ul li, footer ul li {
     width:150px;
     text-align: center;
 }
-a {color: #185cb4; text-decoration: none;}
+a {color: #1e73e1; text-decoration: none;}
 
-a:hover {text-decoration: underline; text-color:#0046cc;
+a:hover {text-decoration: underline; text-color:#185cb4;
 }
 
 
