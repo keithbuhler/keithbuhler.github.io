@@ -11,4 +11,4 @@ I'm Keith Buhler. I currently teach [philosophy, health care ethics, and virtue 
 
 I'm also writing my [dissertation](/research) on virtue ethics. I also puzzle my way through problems in [metaphysics, philosophy of mind, ancient philosophy, and philosophy of religion.](https://uky.academia.edu/KeithBuhler)
 
-For fun, I [write some other things too](/fun/). My favorite pet project is [to help people read more books.](http://www.readingintentionally.com) Feel free to look around or send me a note. Thanks.
+For fun, I [write some other things too](/fun/), like my [Intentional Reading Project](http://www.readingintentionally.com) to help people read more books. Feel free to look around or send me a note. Thanks.
