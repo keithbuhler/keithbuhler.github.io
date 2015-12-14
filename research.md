@@ -6,6 +6,35 @@ title: research
 
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
+### Dissertation Research ###
+
+My dissertation research explores virtue, practical rationality, and happiness. What exactly is a virtue and what is a vice? Is rationality a virtue? Is happiness just as "natural" as health -- and what do we mean by 'natural' anyway? 
+
+I'm especially interested in the neo-Aristotelians: Elizabeth Anscombe, Iris Murdoch, Alasdair MacIntre, Philippa Foot, John McDowell, Rosalind Hursthouse, Martha Nussbaum, and Michael Thompson (among others).
+
+You can read more about my [dissertation research](/fun/phd) here.
+
+
+### Papers ###
+See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some of my papers. 
+
+
+### Research Statement ##
+*Coming soon.*
+
+
+### Philosophy Bio ###
+I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
+
+The Torrey Honors Institute in CA forced me to read the "great books", including philosopy, literature, science, history, theology, and more. So my bias is toward "classics" like Plato's *Republic*, the *Tao Te Ching*, and Aquinas *Summa Theologica*. Of contemporary philosophers, I admire Thomas Nagel, Alasdair MacIntyre, Rosalind Hursthouse, Richard Swinburne, JP Moreland, Alan Gibbard, John McDowell, John Haldane, and Hilary Putnam, among others.
+
+I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
+
+My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
+
+My research centers on questions of ethics relating to virtue on the one hand and metaphysical naturalism on the other hand. Virtue ethics has a long history, while metaphysical naturalism has only recently attained dominance. Can a metaphysical naturalist be a virtue ethicist? John McDowell is a "relaxed naturalist" but a critic of scientism. 
+
+
 ### Graduate Coursework: 
 2015 Ethical Naturalism (Dissertation research)  
 2015 Metaethics (Seminar)   
@@ -26,31 +55,12 @@ title: research
 2009 Philosophy of Mind  
 2008 Metaphysics of Substance and Property  
 
-### Dissertation Research ###
 
-You can read about my [dissertation research](/fun/phd) here.
-
-### Papers ###
-See my [Academia.edu profile](https://uky.academia.edu/KeithBuhler) for some of my papers. 
-
-### Research Statement ##
-*Coming soon.*
 
 ### Talks
 1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
 2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
 3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
-
-### Philosophy Bio ###
-I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
-
-The Torrey Honors Institute in CA forced me to read the "great books", including philosopy, literature, science, history, theology, and more. So my bias is toward "classics" like Plato's *Republic*, the *Tao Te Ching*, and Aquinas *Summa Theologica*. Of contemporary philosophers, I admire Thomas Nagel, Alasdair MacIntyre, Rosalind Hursthouse, Richard Swinburne, JP Moreland, Alan Gibbard, John McDowell, John Haldane, and Hilary Putnam, among others.
-
-I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
-
-My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
-
-My research centers on questions of ethics relating to virtue on the one hand and metaphysical naturalism on the other hand. Virtue ethics has a long history, while metaphysical naturalism has only recently attained dominance. Can a metaphysical naturalist be a virtue ethicist? John McDowell is a "relaxed naturalist" but a critic of scientism. 
 
 ### References
 David Bradshaw, Professor of Philosophy, University of Kentucky   
