@@ -29,11 +29,11 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [My Biography](/fun/bio)
 
-#### [My PhD research](/fun/phd)
+#### [My PhD research proposals and early chapters](/fun/phd)
 
 #### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings)
 
-#### [My Art work -- drawings, pumpkins, etc.](http://www.keithbuhler.com/art)
+#### [My Art work -- drawings, pumpkins, etc.](/fun/art)
 
 #### [My first book: *Sola Scriptura*, a dialogue explores philosophy and theology.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
 

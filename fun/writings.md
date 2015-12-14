@@ -9,7 +9,7 @@ I am a devout amateur. I believe you should write and create lots of different t
 
 My non-academic writings *have* been published on line and in print at MereOrthodoxy, The Examined Life, the London School of Training, The Word, and others. 
 
-The most important thing I'm writing right now is my [dissertation](http://circularreason.github.io/phd). I also created the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
+The most important thing I'm writing right now is my [dissertation](http://keithbuhler.github.io/phd). I also created the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
 
 Below, you can read some of my articles, short stories, fairy tales, screenplays, poems, and satire. 
 
@@ -29,7 +29,7 @@ Below, you can read some of my articles, short stories, fairy tales, screenplays
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view)
 * [The Giving Well: A fairy tale](https://drive.google.com/file/d/0B0CYQDZ8AWu8WE9OODRiRFRkR3c/view)
 * [Fables on Leading & Following](https://drive.google.com/file/d/0B0CYQDZ8AWu8bnd1bE50MGJ0NzA/view)  (fables) 
-* [The Sin of Satan: On the Problem of Evil](http://circularreason.github.io/writings/sin-of-satan) (dialogue)
+* [The Sin of Satan: On the Problem of Evil](http://keithbuhler.github.io/fun/sin-of-satan) (dialogue)
 
 
 ### Screenplays
@@ -59,7 +59,7 @@ Below, you can read some of my articles, short stories, fairy tales, screenplays
 [2014 College Budget Completely Cuts Faculty Salary](http://ukcolonel.com/2014-budget-revealed-faculty-salaries-completely-cut/)  
 [College Student Might Give Professor a "2"](http://ukcolonel.com/uk-student-might-rate-professor-as-a-2/)  
 [Woman Finds Man of her Dreams](https://drive.google.com/file/d/0B0CYQDZ8AWu8MXRnaTJza0lTR1k/view)  
-[On Bad Words](http://circularreason.github.io/writings/bad-words)  
+[On Bad Words](http://keithbuhler.github.io/fun/bad-words)  
 [Henry and Janet's Big Day](https://drive.google.com/file/d/0B0CYQDZ8AWu8V2JvZlhTcFNXLXc/view)  
 [Universal Human Rights](http://keithbuhler.com/rights/)  
  
