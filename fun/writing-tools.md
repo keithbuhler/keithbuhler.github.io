@@ -24,6 +24,8 @@ If you write in Markdown, or want to learn, this site is an easy way to instantl
 
 This tool helps you convert your current HTML webpage to markdown, or see how other pages would look. 
 
+* [Table to Markdown](http://www.tablesgenerator.com/markdown_tables)
+
 
 
 ## How do you write beautiful papers? ##
