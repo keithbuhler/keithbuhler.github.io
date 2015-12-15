@@ -5,10 +5,14 @@ Why pray? The answer is simple: we pray to be happy. We pray because we cannot h
 How do we pray? The answer is simple. Just do it. We begin praying and learn as we go. St. Theresa of Calcutta said, "We are never more free than in prayer."
 
 
+## Beginning to pray ##
+
+[Start here:](http://www.peterkreeft.com/topics/lesson-one.htm)
+
+>Lesson One in Prayer: Let's get very, very basic and very, very practical about prayer. The single most important piece of advice I know about prayer is also the simplest:   Just do it!
 
 ## The Jesus Prayer  ##
 1. Frederica Matthews-Green explains the [Jesus prayer](https://www.youtube.com/watch?v=tIn2QDkr1lU)
-
 
 ## Beginners to Prayer ##
 1. [Peter Kreeft, *Prayer for Beginners*](http://amzn.to/1NzULMT)

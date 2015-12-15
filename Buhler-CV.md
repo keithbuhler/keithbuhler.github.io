@@ -35,9 +35,7 @@ Introduction to Philosophy: Goodness, Truth, and Beauty  (200 level, 2014-16)
 Health Care Ethics   (300 level, 2015-16)  
 Introduction to Philosophy: Knowledge and Reality (100 level, 2013-15)  
 Introduction to Ethics (100 level 2013)  
-Introduction to Logic (100 level 2013)  
-
-**Teaching Assistant, Biola University**   
+Introduction to Logic (100 level 2013)   
 
 ### Other Teaching and Leadership
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
@@ -45,9 +43,8 @@ Introduction to Logic (100 level 2013)
 2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA.  
 2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA.  
 2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy, Fullerton, CA.   
+2004 &nbsp;&nbsp; Teaching Assistant, Philosophy of Science (summer), Biola University, CA.  
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
-2004 &nbsp;&nbsp; Teaching Assistant, Philosophy of Science (summer), Biola University, CA.
-
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Long Beach Middle School  
 2001       &nbsp;&nbsp;  Summer English Teacher, Campus Crusade Mongolia  
 
