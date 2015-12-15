@@ -3,7 +3,7 @@ layout: post
 title: how to get a phd in philosophy
 --- 
 
-[Another page explains my research](http://circularreason.github.io/phd) This post gives advice on each stage of the process. 
+[Another page explains my research.](http://circularreason.github.io/phd) This post gives some advice on each stage of the process. 
 
 ### My Story  ###
 

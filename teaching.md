@@ -7,7 +7,7 @@ title: Teaching
 
 #### Sample Syllabi ####
 * Wisdom and Virtue (2015) -- coming soon  
-* [Health Care Ethics (2015)](http://keithbuhler.github.io/philosophy/PHI-305-S2015)
+* [Health Care Ethics (2015)](http://keithbuhler.github.io/philosophy/PHI305S2015)
 * [Introduction to Philosophy: Goodness, Truth, and Beauty (2015)](https://docs.google.com/document/d/1Him8ByGSgqIVhWto6cstAwxp6Ohh1LtTsBxv590pplU/edit#)
 * [Introduction to Philosophy: Knowledge and Reality (2014)](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit#)
 * [Introduction to Ethics (2014)](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit)
