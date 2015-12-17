@@ -1,7 +1,6 @@
---- 
+---
 layout: default
 title: phl 200 syllabus
-
 ---
 
 # Syllabus, Spring 2015 #

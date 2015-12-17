@@ -1,7 +1,6 @@
---- 
+---
 layout: default
 title: 305 syllabus Spring 2016
-
 ---
 
 # Syllabus, Spring 2016 #
