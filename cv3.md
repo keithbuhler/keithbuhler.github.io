@@ -1,37 +1,41 @@
 ---
 layout: default
-title: Curriculum Vitae 2015
 --- 
 
+
+
 ### [Keith Buhler](http://keithbuhler.github.io/Buhler-CV.pdf)  
+
+Curriculum Vitae 2015  
 Graduate Teaching Assistant  
 University of Kentucky  
 Department of Philosophy  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-[http://www.keithbuhler.com](http://www.keithbuhler.com)  
+[url:http://www.keithbuhler.com](http://www.keithbuhler.com)  
 562.230.2920  
 
 ### Research Interests 
-Specialization in Virtue Ethics, Metaethics.   
-Competence in Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.   
+Specialization in Virtue Ethics, Metaethics; competence in Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.   
 
 ### Education
 2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
-2004  &nbsp;&nbsp; B.A. Humanities, History, Biola University   
+2004  &nbsp;&nbsp; B.A. Humanities: History, Biola University   
 
 ### Employment
 Part-Time Instructor, Philosophy Department, Asbury University, 2014-present.  
 Teaching Assistant, Philosophy Department, University of Kentucky, 2012-present.  
 
-### Teaching Experience
-Wisdom and Virtue (2016, Asbury)  
-Health Care Ethics   (2015-16, UK)  
-Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16, Asbury)  
-Introduction to Philosophy: Knowledge and Reality (2013-15, UK)  
-Introduction to Ethics (2013, UK)  
-Introduction to Logic (2013, UK)   
+### Teaching Experience (Asbury University)  
+Wisdom and Virtue (2015)  
+Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16)  
+
+### Teaching Experience (University of Kentucky)
+Health Care Ethics   (2015-16)  
+Introduction to Philosophy: Knowledge and Reality (2013-15)  
+Introduction to Ethics (2013)  
+Introduction to Logic (2013)   
 
 ### Other Teaching & Leadership Experience
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
@@ -51,21 +55,23 @@ Introduction to Logic (2013, UK)
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
 
 ### Popular Talks & Public Lectures ###
-2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
-2013&nbsp;&nbsp; "Reading for Classical Education", Veritas Christian Academy.  
-2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' Abolition of Man", Torrey Academy.   
-2012 &nbsp;&nbsp; "Is Vanity the same as Pride?", Torrey Academy.  
-2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church men’s group.  
-2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
-2011 &nbsp;&nbsp; "Hope versus the Cycle of Desire", Hope Academy.  
-2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
-2011 &nbsp;&nbsp; "The Study of Angels in the 21st Century", Torrey Academy.  
-2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
-2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy Graduation.   
-2009 &nbsp;&nbsp; "Is Theology the Science of God?", Hope Academy.     
-2009 &nbsp;&nbsp; "The Possibility of Sanctification", Hope Academy.     
-2007 &nbsp;&nbsp; "Learning From Experience -- Initiatives & Reflective Learning", Torrey Honors Freshmen Initiative Day, Biola University.   
-
+"Morality: Rule-following or New Life?", Wesleyan Society, 2014  
+"Reading for Classical Education", Veritas Christian Academy, 2013  
+"The Goodness of Goodness: Lewis' Abolition of Man", Torrey Academy, 2012  
+"Is Vanity the same as Pride?", Torrey Academy, 2012
+"A Philosophy of Pain & Suffering,"  St Barnabas Othodox Church, Adult School, Summer 2011    
+"Pain and Suffering", St Barnabas Orthodox Church men’s group, Summer 2011  
+"Does Love Cover a Multitude of Sins?", Hope Academy, Summer 2011  
+"Hope versus the Cycle of Desire", Hope Academy, Fall 2011   
+"Goodness, Truth, Beauty: Christian Worldview," St. Nicholas Orthodox Church, St George Mission, Summer 2010   
+"The Divided Self", Hephatha Lutheran Church March 2011   
+"The Study of Angels in the 21st Century", Torrey Academy January 2011  
+"The Nihilist Faith", Hope Academy Graduation, Summer 2009   
+"Is Theology the Science of God?", Hope Academy, Spring 2009  
+"The Possibility of Sanctification", Hope Academy, Fall 2009  
+"Learning From Experience: Initiatives & Reflective Learning", April 2007, Biola Torrey Freshmen Initiative Day  
+​"​Group Blogging: trials, benefits, and potential", October 2006, 
+God Blog Conference 2006, Biola University, Dustin Steeve
 
 
 ### Professional Affiliations
