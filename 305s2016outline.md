@@ -1,3 +1,9 @@
+---
+layout: default
+title: 305 syllabus Spring 2016
+---
+
+
 ## Course Outline: 
 
 *Refer to this outline weekly to keep on track with this class.*

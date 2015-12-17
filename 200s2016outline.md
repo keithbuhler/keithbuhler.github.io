@@ -1,4 +1,9 @@
-# Course Outline*
+---
+layout: default
+title: PHL 200 outline Spring 2016
+---
+
+# Course Outline, PHL 200 Spring 2016
 
 ##Week 01: Origins
 **T Aug 18 Nothing due: Syllabus Day**  

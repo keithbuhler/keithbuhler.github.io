@@ -1,3 +1,8 @@
+---
+layout: default
+title: PHL 200 outline
+---
+
 ## Course Outline  ##
 
 *Each line has a date, the reading due, the topic, and lecture notes. Why the lecture notes? Students asked for it. These notes help you prepare for discussion. But also, the only way to prepare is to think.*

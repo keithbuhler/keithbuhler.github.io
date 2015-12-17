@@ -50,7 +50,8 @@ Your grade for the class will depend on your performance in each component, plus
 
 ## Readings
 
-**Required Textbook: **Pierce and Randels, Contemporary Bioethics. Oxford, 2010. First Edition** ($80 new, $25 used, #14 rent,). All Other required readings are posted on Canvas. 
+**Required Textbook:** Pierce and Randels, Contemporary Bioethics. Oxford, 2010. First Edition. ($80 new, $25 used, #14 rent,).  
+All other required readings are posted on Canvas. 
 
 ### Quizzes ###
 Short reading quizzes will assess whether your eyeballs hit the page and whether you comprehended what you read. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you.
@@ -71,7 +72,7 @@ Every student will present do two "critical readings and group presentations." T
 ## Tests: 
 There is a midterm and final. The Study Guide with all the questions is posted on Canvas. The tests will assess (a) your knowledge definitions of key philosophical terms, (b) knowledge of historical facts relevant to health care ethics, (c) your familiarity with major health care theories and (d) your mastery of the arguments for and against these theories.
 
-### Unit Papers:  ###
+## Unit Papers:  ##
 Every student will write six Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. I will not tolerate plagiarism — unintentional or intentional. Be careful to cite your sources correctly. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted on Canvas. 
 
 
@@ -94,7 +95,6 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 
 
 ## Readings of Interest ##
-
-[How Government Killed Health Care](http://www.cato.org/publications/commentary/how-government-killed-medical-profession) The author describes how "coding" diseases and diagnoses  in order to submit reimbursements for medicare lead to a distortion of diagnosis. "One of my colleagues, a noted pulmonologist with over 30 years’ experience, fears that teaching young physicians to follow guidelines and practice protocols discourages creative medical thinking and may lead to a decrease in diagnostic and therapeutic excellence. He laments that “ ‘evidence-based’ means you are not interested in listening to anyone.""
-[Live for ever: scientists aim to extend life "well beyond" 100](http://www.theguardian.com/science/2015/jan/11/-sp-live-forever-extend-life-calico-google-longevity) Google's CA Life Company is working actively on transhumanism.
-[Midwives in America](http://www.midwiferytoday.com/articles/timeline.asp)
+* [How Government Killed Health Care](http://www.cato.org/publications/commentary/how-government-killed-medical-profession) The author describes how "coding" diseases and diagnoses  in order to submit reimbursements for medicare lead to a distortion of diagnosis. "One of my colleagues, a noted pulmonologist with over 30 years’ experience, fears that teaching young physicians to follow guidelines and practice protocols discourages creative medical thinking and may lead to a decrease in diagnostic and therapeutic excellence. He laments that “ ‘evidence-based’ means you are not interested in listening to anyone."
+* [Live for ever: scientists aim to extend life "well beyond" 100](http://www.theguardian.com/science/2015/jan/11/-sp-live-forever-extend-life-calico-google-longevity) Google's CA Life Company is working actively on transhumanism.
+* [Midwives in America](http://www.midwiferytoday.com/articles/timeline.asp)
