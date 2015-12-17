@@ -1,39 +1,44 @@
 ---
 layout: default
-title: Curriculum Vitae 2015
 --- 
 
 ### [Keith Buhler](http://keithbuhler.github.io/Buhler-CV.pdf)  
 Graduate Teaching Assistant  
-University of Kentucky  
 Department of Philosophy  
+University of Kentucky  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 [http://www.keithbuhler.com](http://www.keithbuhler.com)  
 562.230.2920  
 
 ### Research Interests 
 Specialization in Virtue Ethics, Metaethics.   
-Competence in Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.   
+Competence in Ancient Philosophy, Philosophy of Religion, Philosophy of Mind. 
 
 ### Education
 2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
-2004  &nbsp;&nbsp; B.A. Humanities, History, Biola University   
+2004  &nbsp;&nbsp; B.A. Humanities: History, Biola University   
 
-### Employment
+### University Employment
 Part-Time Instructor, Philosophy Department, Asbury University, 2014-present.  
 Teaching Assistant, Philosophy Department, University of Kentucky, 2012-present.  
 
-### Teaching Experience
+### University Teaching
 Wisdom and Virtue (2016, Asbury)  
 Health Care Ethics   (2015-16, UK)  
 Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16, Asbury)  
 Introduction to Philosophy: Knowledge and Reality (2013-15, UK)  
 Introduction to Ethics (2013, UK)  
-Introduction to Logic (2013, UK)   
+Introduction to Logic (2012-13, UK)    
 
-### Other Teaching & Leadership Experience
+### Academic Presentations
+2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University.       
+2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
+2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference.  
+2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
+
+### Other Teaching & Leadership Employment
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
 2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy, La Mirada CA.  
 2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA.  
@@ -44,27 +49,33 @@ Introduction to Logic (2013, UK)
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 2001 (summer) &nbsp;&nbsp; English Teacher, Campus Crusade, Mongolia.  
 
-### Presentations
-2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University.       
-2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
-2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference.  
-2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
 
 ### Popular Talks & Public Lectures ###
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
-2013&nbsp;&nbsp; "Reading for Classical Education", Veritas Christian Academy.  
-2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' Abolition of Man", Torrey Academy.   
-2012 &nbsp;&nbsp; "Is Vanity the same as Pride?", Torrey Academy.  
-2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church men’s group.  
+2013&nbsp;&nbsp; "Reading is Classical Education", Veritas Christian Academy.  
+2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' *Abolition of Man*", Torrey Academy.   
+2012 &nbsp;&nbsp; "Is Vanity the same as pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.  
+2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church.    
 2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
+2011 &nbsp;&nbsp; "How to Lose your Faith: Ten Tips", Hope Academy.
 2011 &nbsp;&nbsp; "Hope versus the Cycle of Desire", Hope Academy.  
 2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
-2011 &nbsp;&nbsp; "The Study of Angels in the 21st Century", Torrey Academy.  
+2011 &nbsp;&nbsp; "The 21st Century Study of Celestials", Torrey Academy.  
 2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
-2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy Graduation.   
+2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
 2009 &nbsp;&nbsp; "Is Theology the Science of God?", Hope Academy.     
 2009 &nbsp;&nbsp; "The Possibility of Sanctification", Hope Academy.     
-2007 &nbsp;&nbsp; "Learning From Experience -- Initiatives & Reflective Learning", Torrey Honors Freshmen Initiative Day, Biola University.   
+2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
+
+### Other Teaching Experience
+Plato on Truth and Being (2012, Torrey Academy)  
+History of Christian Thought (2008-11, Torrey Academy)  
+History of American Thought (2007-11, Torrey Academy)  
+Socratic Logic (2007-11, Torrey Academy)  
+The Inklings (2008-12, Torrey Academy)   
+The Philosophy of Pain and Suffering (2011, St. Barnabas Church)  
+Goodness, Truth, and Beauty: Christian Worldview (2010, St. George Church)  
+
 
 
 
