@@ -56,10 +56,10 @@ Introduction to Logic (100 level 2013)
 
 
 ### Affiliations
-American Philosophical Association  (2014)
-Society for Medieval & Renaissance Philosophy  (2014)
-Society of Orthodox Philosophers in America  
-International Society for MacIntyrean Enquiry  
+American Philosophical Association  (2014)  
+Society for Medieval & Renaissance Philosophy  (2014)  
+Society of Orthodox Philosophers in America  (2014-present)  
+International Society for MacIntyrean Enquiry  (2015-present)  
 
 ### Languages ###
 Ancient Greek (reading)  
