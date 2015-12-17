@@ -36,6 +36,11 @@ In short, our goals are:
 ## Scope and Sequence:
 To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
+
+## Course Outline ##
+
+[Click here for the week-by-week-breakdown.](/PHI-305-S2016-Outline)
+
 ##Grading
 Your grade for the class will depend on your performance in each component, plus tests and applicable extra credit. Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
 
@@ -89,8 +94,6 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 6. For short, quick questions, use Twitter (@keith_buhler)
 7. Disabilities can be accommodated if you are registered with the Disability Resource Center. See http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
 8. Plagiarism has been an issue. Even unintentional plagiarism earns a zero for the assignment and, in intentional or egregious cases, failing the course and receiving a permanent mark on your academic record. You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. 
-
-
 
 
 
