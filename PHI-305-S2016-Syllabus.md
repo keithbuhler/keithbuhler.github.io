@@ -11,7 +11,7 @@ title: 305 syllabus Spring 2016
 **Office Hours**: Wed 11am-12pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
-## Course Description:  
+## Course Description: 
 Health care decisions are some of the hardest we will ever make. Professional physicians, dietitians, nurses, etc. will make such decisions every day. But us laymen will face hard choices about the health of parents, children, relatives, friends, and our own health. This course attempts to help us to think deeply about the issues of life, death, health, and health care. The aim is that we can act well when those hard decisions come. 
 
 Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? In health care, we ask about foundations: what is life? Death? What is the proper allocation of limited resources? Are there moral constraints on research? Is it ever more loving to lie to a patient about the hard truth? Is it ever more compassionate to euthanize an elderly person? Is it worth the emotional and psychological cost to avoid pregnancy by abortion? Is government-provided healthcare a right? 
@@ -56,29 +56,50 @@ Your grade for the class will depend on your performance in each component, plus
 ## Readings
 
 **Required Textbook:** Pierce and Randels, Contemporary Bioethics. Oxford, 2010. First Edition. ($80 new, $25 used, #14 rent,).  
-All other required readings are posted on Canvas. 
+All other required readings are posted online. 
+
+## Reading Tips
+
+* Read ahead. 
+* Give yourself enough time to read carefully. You will get better and faster. 
+* *Try to understand* the book. What is the author’s key terms? The author’s main point? 
+* Dialogue with the book before class. Take notes. Email me. Talk with each other. Talk with other friends. Process your thoughts. 
+* Take notes on: Is the author correct? What confused you? What questions did you have? What does the book mean?
+* The two most important questions for each reading 1. What is the main truth claim? 2. What is the evidence?
+* Pay attention to what confuses you and what you disagree with. Bring your questions to class.
+* Don’t read the introduction for the book (which is often more confusing than the book). If you do want to read it, read it after reading the primary source — that may help. 
+* Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
 
 ### Quizzes ###
 Short reading quizzes will assess whether your eyeballs hit the page and whether you comprehended what you read. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you.
 
-## Participation: ##
-You must take responsibility for your own learning. Participate in three ways: (a) attend, (b) talk or write, and (c) do Critical Reading and Group Presentations. 
-
 ### Attendance
-Attendance is mandatory. You have five (5) “free” absences to use for any reason -- sick days, personal day, or just taking the day off. (Except for a few reasons (serious illness, death in family) I won’t grant extra absences.) After five absences, serious points are deducted from your participation grade. 
+We need you here! Attendance is mandatory. Roll will be taken each class. (Being repeatedly or egregiously late will count as an absence.) 1 to 5 unexcused absences are freebies — no credit lost. 6 or more unexcused absences cause bigger and bigger deductions from your participation grade. (8 is a letter grade) You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
-### Dialogue/writing
-This is an upper-division dialogue-oriented class. Every person must talk in class AND write on the online discussion board. Everyone starts at an 80% for the discussion grade; you can move up from there or down, depending on whether you speak or write once per week, pay attention, and offer helpful contributions. Some "internal processors" will write more online after class; some "external processors" will speak more in class. *You must speak or write a post at least once per week for full points.* Every unit will have 2 lectures and 4 dialogues. Come *prepared*. Read, take notes, think, reflect, and come ready to share your view point, defend it, listen to others' viewpoint, and critique theirs. The amount you learn is directly proportional to the effort you put into participation.  A discussion is more than just sharing opinions; it is a friendly, eager, sincere search for truth. We can't judge each other, but we must judge each other's opinions, and test them for truth. We discuss because it is more interesting; it helps us retain the information; it challenges our own viewpoint; and because philosophy itself is a dialogue. Discussion ground rules are posted on Canvas. 
+## Participation through dialogue/writing:
+
+This is a dialogue-oriented class. Every person is responsible to participate. 
+
+*Speaking Emphasis:* "External processors" emphasize talking. You will be on my “go to” team to talk in class (instead of posting reflections after class).  
+
+*Writing Emphasis:* "Internal procesors" emphasize writing.  to earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+
+Everyone starts at an 80% for the discussion grade; you can move up from there or down, depending on whether you speak or write once per week, pay attention, and offer helpful contributions.
+
+Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs. 
+
+A discussion is more than just sharing opinions; it is a friendly, eager, sincere search for truth. We can't judge each other, but we must judge each other's opinions, and test them for truth. We discuss because it is more interesting; it helps us retain the information; it challenges our own viewpoint; and because philosophy itself is a dialogue. Discussion ground rules are posted online. 
+
 
 ### Critical Reading and Group Presentation
-Every student will present do two "critical readings and group presentations." These are days when your group summarizes the assigned article and presents your analysis. Instructions are posted on Canvas. 
+Every student will present do two "critical readings and group presentations." These are days when your group summarizes the assigned article and presents your analysis. Instructions are posted online. 
 
 
 ## Tests: 
-There is a midterm and final. The Study Guide with all the questions is posted on Canvas. The tests will assess (a) your knowledge definitions of key philosophical terms, (b) knowledge of historical facts relevant to health care ethics, (c) your familiarity with major health care theories and (d) your mastery of the arguments for and against these theories.
+There is a midterm and final. The Study Guide with all the questions is posted online. The tests will assess (a) your knowledge definitions of key philosophical terms, (b) knowledge of historical facts relevant to health care ethics, (c) your familiarity with major health care theories and (d) your mastery of the arguments for and against these theories.
 
 ## Unit Papers:  ##
-Every student will write six Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. I will not tolerate plagiarism — unintentional or intentional. Be careful to cite your sources correctly. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted on Canvas. 
+Every student will write six Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. I will not tolerate plagiarism — unintentional or intentional. Be careful to cite your sources correctly. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
 
 
 ## Extra Credit: 
@@ -86,14 +107,17 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 
 
 ## Miscellany. 
-1. Bring your textbook every day. 
-2. Laptop/tablet users must sit in the front row — and no smartphones allowed. 
-3. Be respectful of others: no teasing, and pay attention when a neighbor is talking. 
-4. If you need to take a text message or phone call, step out, respond, and come back. 
-5. I will read every email but may not respond to every email. If I don’t respond within three (3) business days, email again with the subject “nudge”.
+1. **Bring your** textbook every day. 
+2. **Participate**. Challenge yourself to talk. 
+2. **No smartphones.** If you need to take a text message or phone call, step out, respond, and come back. 
+3. **Laptop/tablet users must sit in the front row.**
+3. **Be respectful of others**: no teasing, and pay attention when a neighbor is talking. Don't pack up early. Don't come late. Don't talk while your neighbor is talking.
+5. **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. If I don’t respond within three (3) business days, email again with the subject “nudge”.
 6. For short, quick questions, use Twitter (@keith_buhler)
 7. Disabilities can be accommodated if you are registered with the Disability Resource Center. See http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
 8. Plagiarism has been an issue. Even unintentional plagiarism earns a zero for the assignment and, in intentional or egregious cases, failing the course and receiving a permanent mark on your academic record. You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. 
+9. **Enjoy philosophy**. We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it. 
+
 
 
 

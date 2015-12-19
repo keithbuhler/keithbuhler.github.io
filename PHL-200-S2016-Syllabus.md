@@ -3,7 +3,7 @@ layout: default
 title: phl 200 syllabus
 ---
 
-# Syllabus, Spring 2015 #
+# Syllabus, Spring 2016 #
 **Introduction to Philosophy: “Goodness, Truth, and Beauty”**
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -11,7 +11,7 @@ title: phl 200 syllabus
 **Office Hours:** Tues/Thurs, 12-1pm @ Kinlaw by C. S. Lewis.
 
 
-## Course Overview: 
+## Course Description: 
 This class is an exercise in a different way of thinking. We will think deeply about our own selves, the world, God, death, science, logic, and language. Along the way, we will learn some facts of history, vocabulary words, philosophical concepts, and big names. But our main task is to *think*.  You may be confused. You will be challenged. 
 
 We will think by discussing, reading, and writing. For thinking clearly, logically, accurately is the master skill. It is useful for academics, for work, and for life. For some, this class will convince you to major or minor in philosophy. For others, it will make you better in your own discipline. For you must think well in any profession: No matter the career, the top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline, which philosophy can help you with.
@@ -61,7 +61,7 @@ D  = 69% - 60%   |  F  < 59%
 
 Buy these ISBNS only, please. (New or used is fine.) Use hard copies please; they are better for notes, and make it easier to stay on the same page in class and when assigning pages. 
 
-**Various handouts              (All provided on Discovery)**
+**Various handouts              (All provided online)**
 
 - Genesis (Chps. 1-5)
 - Bertrand Russell “Free Man’s Worship”
@@ -90,43 +90,43 @@ The primary work if this class will be reading — and trying to understand — 
 A short reading quiz is due almost every class day. These assess whether you read, and how well. They are mandatory and graded. You have 10 minutes for each quiz, and they are due at the beginning of class. 
 
 ### Reading Tips
-- Read ahead. 
-- Give yourself enough time to read carefully. You will get better and faster. 
-- Try to understand the book. What is the author’s key terms? The author’s main point? 
-- Dialogue with the book before class. Take notes. Email me. Talk with each other. Talk with other friends. Process your thoughts. 
-- Take notes on: Is the author correct? What confused you? What questions did you have? What does the book mean?
-- The two most important questions for each reading 1. What is the main truth claim? 2. What is the evidence?
-- Pay attention to what confuses you and what you disagree with. Bring your questions to class.
-- Don’t read the introduction for the book (which is often more confusing than the book). If you do want to read it, read it after reading the primary source — that may help. 
-- Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
+* Read ahead. 
+* Give yourself enough time to read carefully. You will get better and faster. 
+* *Try to understand* the book. What is the author’s key terms? The author’s main point? 
+* Dialogue with the book before class. Take notes. Email me. Talk with each other. Talk with other friends. Process your thoughts. 
+* Take notes on: Is the author correct? What confused you? What questions did you have? What does the book mean?
+* The two most important questions for each reading 1. What is the main truth claim? 2. What is the evidence?
+* Pay attention to what confuses you and what you disagree with. Bring your questions to class.
+* Don’t read the introduction for the book (which is often more confusing than the book). If you do want to read it, read it after reading the primary source — that may help. 
+* Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
 
 ##Attendance:
 We need you here! Attendance is mandatory. Roll will be taken each class. (Being repeatedly or egregiously late will count as an absence.) 1 to 6 unexcused absences are freebies — no credit lost. 7 or more unexcused absences cause bigger and bigger deductions from your participation grade. (8 is a letter grade) You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
 
-##Participation:
-To get the most out of this class, you must take responsibility for your own participation. Participation in this class takes two forms: discussing (external processing) and writing (internal processing). Everyone will participate in these two ways. But you get to pick your emphasis. Are you an internal or external processor? 
+##Participation through dialogue/writing:
 
-*Writing Emphasis:* If you want to emphasize writing, to earn participation points, you will email me class reflections each week. You may elect to speak in class as well, and may be called upon. But your primary participation will be written.  You will forego the end of semester synthesis paper. 
-Email after class once a week.  Meet at end of semester. 
+This is a dialogue-oriented class. Every person is responsible to participate. 
 
-*Speaking Emphasis:* If you want to emphasize talking, you will be on my “go to” team to talk in class (instead of emailing reflections after class). You also have to visit office hours to continue the conversation. At the end of the semester, you will turn in one synthesis paper reflecting on a major theme from the class, and how thinking about it has affected your worldview and your life. Talk in class once a week. Write at end of semester.     
+*Speaking Emphasis:* "External processors" emphasize talking. You will be on my “go to” team to talk in class (instead of posting reflections after class).  
 
-## Discussion:
-Every day will be interactive, but on Thursdays, we will focus on discussing. The goal of discussion is to learn together, which requires you showing up, (a) you talking, (b) saying what you actually think, and (c) being willing to be challenged, to reconsider, to imagine different possibilities, to change your mind, to defend your view. 
+*Writing Emphasis:* "Internal procesors" emphasize writing.  to earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
 
-Each of us has a “growth zone” in between our “comfort zone” and our “panic zone.” That growth zone is sometimes called a challenge, learning, stretching zone. Each of us is either comfortable with all three (showing up, speaking your mind, being challenged), or just the first two (showing up and speaking your mind) or with just showing up and listening. So each of us has to focus on getting out of our comfort zone, without panicking! If you are comfortable just listening, challenge yourself to speak. If you are comfortable speaking, challenge yourself to speak your mind, to be vulnerable. If you are comfortable speaking your mind, be open to having what you say challenged. (If you are already comfortable being challenged, your growth zone will be to challenge others!)
+Everyone starts at an 80% for the discussion grade; you can move up from there or down, depending on whether you speak or write once per week, pay attention, and offer helpful contributions.
 
-You will grow as a person if you engage in discussion. These are not only necessary for doing philosophy, but they happen to be hirable skills.
+Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs. 
+
+A discussion is more than just sharing opinions; it is a friendly, eager, sincere search for truth. We can't judge each other, but we must judge each other's opinions, and test them for truth. We discuss because it is more interesting; it helps us retain the information; it challenges our own viewpoint; and because philosophy itself is a dialogue. Discussion ground rules are posted online. 
+
 
 ## Tests: 
-There are two exams: midterm and final. These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted on Discovery.
+There are two exams: midterm and final. These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted online.
 
 ## Philosophical Disputation Papers: 
-Every 2 weeks or so, you will write a 400+ word disputation. Each disputation is pass/fail and worth approximately 4% of the semester grade. The instructions are posted on Discovery.
+Every 2 weeks or so, you will write a 400+ word disputation. Each disputation is pass/fail and worth approximately 4% of the semester grade. The instructions are posted online.
 
 ## Extra Credit?
-For those who may need or desire to do extra credit, there are three opportunities for extra credit. Instructions are posted on Discovery. 
+For those who may need or desire to do extra credit, there are three opportunities for extra credit. Instructions are posted online. 
 
 ## Miscellany
 1. Bring the book for the day (on paper or computer), a pen or pencil, to every class.
