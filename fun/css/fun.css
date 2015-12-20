@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #fdfdfd;
+    background-image: url("/img/middle-earth.jpg");
+    background-color: #cccccc;
+}
     font-size: 16px;
     line-height: 1.5;
 

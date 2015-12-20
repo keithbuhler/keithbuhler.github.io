@@ -6,7 +6,7 @@ title: Fun Stuff Home
 **Flesh knows; but spirit knows it knows" Charles Williams**
 
 
-This page is devoted to a few of my favorite things. Each is a project I am working on or resources for those who might be interested.
+This page is devoted a few projects I am working on, as well as resources that might interest you.
 
 ## Resources ##
 
@@ -14,15 +14,11 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun/inklings)
 
-#### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) ####
+#### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings)
 
 #### [How to meditate (and why)](/fun/meditation)
 
-#### [How to get a PhD (and why)](/fun/phd-how-to) 
 
-#### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings)
-
-#### [Writing tools](/fun/writing-tools)
 
 ### Personal ###
 
@@ -44,8 +40,14 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
+#### [How to get a PhD (and why)](/fun/phd-how-to) 
 
-## Fun things in development ##
+#### [Writing tools](/fun/writing-tools)
+
+#### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) ####
+
+
+## Fun Stuff in development ##
 
 
 #### [U.K. Comprehensive Exam readings](/fun/comps)
@@ -67,13 +69,3 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 #### Philosophy with Heart ####
 
 #### Advice to Philosophers -- coming soon ####
-
-
-</div><!-- /.container -->
-      <footer>
-      <li><a href="mailto:keithedbuhler@gmail.com">Email</a></li>
-      <li><a href="/fun">Personal</a></li>
-      </footer>
-   </body>
- </html>
-
