@@ -1,7 +1,21 @@
----
-layout: default
-title: Fun Stuff
----
+<!DOCTYPE html>
+ <html>
+   <head>
+      <title>{{ page.title }}</title>
+      <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/fun.css">
+   </head>
+   <body>
+      <nav>
+         <ul>
+               <li><a href="/">Philosophy</a></li>
+            <li><a href="/fun/inklings">Inklings</a></li>
+               <li><a href="http://www.readingintentionally.com/">Intentional Reading Project</a></li>
+               <li><a href="/fun/meditation">Meditation</a></li>
+         </ul>
+      </nav>
+      <div class="container">
+
 
 **Flesh knows; but spirit knows it knows" Charles Williams**
 
@@ -20,14 +34,15 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [How to get a PhD (and why)](/fun/phd-how-to) 
 
-#### [How to Grow a Beard -- 3 easy steps](/fun/beard) ####
-
 #### [Writing tools](/fun/writing-tools)
 
 
 ### Personal ###
 
-#### [My Biography](/fun/bio)
+#### [My Biography](/fun/bio) ####
+
+#### [My Beard -- a how-to guide in 3 easy steps](/fun/beard) ####
+
 
 #### [My PhD research proposals and early chapters](/fun/phd)
 
@@ -69,3 +84,13 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 #### Philosophy with Heart ####
 
 #### Advice to Philosophers -- coming soon ####
+
+
+</div><!-- /.container -->
+      <footer>
+      <li><a href="mailto:keithedbuhler@gmail.com">Email</a></li>
+      <li><a href="/fun">Personal</a></li>
+      </footer>
+   </body>
+ </html>
+
