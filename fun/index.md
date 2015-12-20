@@ -1,20 +1,7 @@
-<!DOCTYPE html>
- <html>
-   <head>
-      <title>fun stuff</title>
-      <!-- link to main stylesheet -->
-    <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/fun.css">
-   </head>
-   <body>
-      <nav>
-         <ul>
-               <li><a href="/">Philosophy</a></li>
-            <li><a href="/fun/inklings">Inklings</a></li>
-               <li><a href="http://www.readingintentionally.com/">Intentional Reading Project</a></li>
-               <li><a href="/fun/meditation">Meditation</a></li>
-         </ul>
-      </nav>
-      <div class="container">
+---
+layout: fun
+title: Fun Stuff Home
+---
 
 **Flesh knows; but spirit knows it knows" Charles Williams**
 
@@ -33,8 +20,9 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [How to get a PhD (and why)](/fun/phd-how-to) 
 
-#### [Writing tools](/fun/writing-tools)
+#### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings)
 
+#### [Writing tools](/fun/writing-tools)
 
 ### Personal ###
 
@@ -42,10 +30,7 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 
 #### [My Beard -- a how-to guide in 3 easy steps](/fun/beard) ####
 
-
 #### [My PhD research proposals and early chapters](/fun/phd)
-
-#### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings)
 
 #### [My Art work -- drawings, pumpkins, etc.](/fun/art)
 
@@ -60,7 +45,8 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 #### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
 
-### Other stuff ###
+## Fun things in development ##
+
 
 #### [U.K. Comprehensive Exam readings](/fun/comps)
 
@@ -69,8 +55,6 @@ This page is devoted to a few of my favorite things. Each is a project I am work
 #### [80 year lifetimes, a fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0) ####
 
 #### [You can Paypal me money(!)](https://www.paypal.me/keithbuhler) ####
-
-### Fun things in development ###
 
 #### [My new (empty) blog](http://keithbuhler.github.io./blog)
 
@@ -91,4 +75,5 @@ This page is devoted to a few of my favorite things. Each is a project I am work
       <li><a href="/fun">Personal</a></li>
       </footer>
    </body>
-</html>
+ </html>
+
