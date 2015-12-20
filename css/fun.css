@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 70%;
     background-color: #fdfdfd;
     font-size: 16px;
     line-height: 1.5;
@@ -8,15 +8,17 @@ body {
 
 }
 nav ul, header ul {
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
     padding: 2px;
+    width: 750px;
+    margin: 0 auto;
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
 }
 
 nav ul, header ul {
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
     padding: 2px;
     list-style: none;
     font-weight: bold;
@@ -26,40 +28,42 @@ nav ul, header ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    width:150px;
+    text-align: center;
 }
-a {color: #2a7ae2; text-decoration: none;}
+a {color: #1e73e1; text-decoration: none;}
 
-a:hover {text-decoration: underline; text-color:#3379ff;
+a:hover {text-decoration: underline; text-color:#185cb4;
 }
 
 
 h1 {
     font-size: 2.5em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 }
 
 h2 {
     font-size: 2em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 }
 
 h3 {
     font-size: 1.5em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 
 h4 {
     font-size: 1.25em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 }
 
 h5 {
     font-size: 1.1em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 }
 
 h5 {
     font-size: 1em;
-    font-family:'Garamond', 'Baskerville', 'Serif';
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 }
 
 p {

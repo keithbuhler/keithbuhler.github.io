@@ -26,21 +26,20 @@ So what exactly is wisdom? How is it different (if at all) from knowledge, scien
 
 In this course, we will read a limited selection of primary sources from ancient, medieval, modern, and contemporary periods that discuss virtue and wisdom. Our investigation will be wide ranging, aiming to avoid a myopic focus on the last 100 years. We will investigate the questions above (and others!). Our aim will be both theoretical and practical; we shall aim to understand what wisdom is and aim to become more wise, with each other’s help and by God’s grace. 
 
+## Course Goals: 
+
 Our governing questions are:
 
-1. What is virtue (and its opposite, vice)? How much do lists of virtue endure or change across cultures?
-2. What is wisdom (and it’s opposite, foolishness)? How does wisdom relate to (other) virtues?
-3. What is so good about virtue and wisdom (and so bad about wickedness folly?) Why should we be virtuous?
-4. How do we become more virtuous and wise? 
+1. What is wisdom (and it’s opposite, foolishness)? Is it “epistemic humility, epistemic accuracy, knowledge, rationality, the fear of God, or a hybrid of these?
+2. How does wisdom relate to (other) virtues?  
+4. How do we become more wise? 
 
-
-##Course Goals: 
-
-Our goals by the end of the semester, then, will be 
+To answer these, our goals are:
 
 * To become familiar with the history of and various meanings of the terms ‘virtue’ and ‘wisdom’;
 * To become familiar with and analyze dominant Greek accounts of virtue in Aristotle and Plato; 
-* To analyze dominant Anglo-American accounts of virtue in Philippa Foot, Peter Geach, Rosalind Hursthouse, and others. 
+* To compare ancient Hebrew, Chinese, and Sumerian ideas of wisdom with the Greek ideas. 
+* To analyze recent Anglo-American accounts of virtue in Philippa Foot, Peter Geach, Rosalind Hursthouse, and others. 
 * To compare and contrast Biblical models of virtue with others; 
 
 Scope and Sequence: To accomplish these goals, this 16-week course is divided into into about 8 units of 2 weeks each.  Unit work consists of three components: (a) readings and class preparation (b) participation in interactive lectures and discussion, and (c) disputation papers. 
