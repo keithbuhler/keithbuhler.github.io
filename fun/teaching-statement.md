@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teaching Statement
+---
+
+
 #Teaching Statement
 
 ## Draft 1 -- 500-100 words goal ##

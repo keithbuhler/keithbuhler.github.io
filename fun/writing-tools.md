@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fun
 title: writing-tools
 ---
 

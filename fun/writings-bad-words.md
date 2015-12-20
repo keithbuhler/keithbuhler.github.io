@@ -1,3 +1,8 @@
+---
+layout: fun
+title: Bad Words
+---
+
 #On Bad Words:
 
 **An Investigation into Cussing, Swearing, Cursing, Profanity, Obscenity, Vulgarity, “Bad Words”, and other Potty Language.**

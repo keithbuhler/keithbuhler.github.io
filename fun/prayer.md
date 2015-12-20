@@ -1,3 +1,8 @@
+---
+layout: fun
+title: Prayer
+---
+
 # Prayer  #
 
 Why pray? The answer is simple: we pray to be happy. We pray because we cannot help but pray. We pray because it is more natural than breathing. We pray because we long for wholeness. We pray because we are lonely and want to be united with God. We pray because we are sinners and want to be holy. We pray because we are blessed and want to give thanks. 

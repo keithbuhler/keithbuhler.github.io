@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: fun
+title: Time Budget
 ---
 
 # Time Budget #

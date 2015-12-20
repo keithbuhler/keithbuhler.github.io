@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fun
 title: how to get a phd in philosophy
 --- 
 

@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: fun
 title: writings
 ---
 
