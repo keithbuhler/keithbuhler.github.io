@@ -17,7 +17,7 @@ There’s the wide vermilion sky
 >that cradled us before birth,     
 and the sun pours its golden sap    
 to preserve me like His precious insect.   
->("Meditatio" by Mary Karr) 
+>-"Meditatio" by [Mary Karr](http://www.marykarr.com/books.php)
 
 
 ## My Story  ##
@@ -36,36 +36,24 @@ I've learned a lot but am still learning. If you'd like to learn more, see below
 
 ## Why to Meditate ##
 
-1. My meditation mentor created [a podcast explaining benefits of meditation, summarizing the latest research, teaching how to meditate, and offering a dozen guided meditations.](http://www.meditationforhealthpodcast.com/)
-
-2. [Herbert Benson, M.D., made meditation scientificaly respectable overnight through his study of the "Relaxation Response". Meditation activates the parasympathetic system *better* than sleep.](https://www.bensonhenryinstitute.org/about/dr-herbert-benson)
+1. It is healthy. My meditation mentor created [a podcast explaining benefits of meditation, summarizing the latest research, teaching how to meditate, and offering a dozen guided meditations.](http://www.meditationforhealthpodcast.com/)
+2. It is relaxing. [Meditation activates the parasympathetic system *better* than sleep. Herbert Benson, M.D., made meditation scientificaly respectable virtually overnight through his study of the "Relaxation Response".](https://www.bensonhenryinstitute.org/about/dr-herbert-benson)
+3. It reduces anxiety, depression, [insomnia](http://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726), [blood pressure](http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#), and more.
+4. It increases awareness, compassion, self-control, peacefulness, and more. 
+5. It feels good. 
  
 ## Quickstart Guide to Meditating ##
 
 1.   **Sit quietly in a comfortable position.**
-
 2.  **Close your eyes.**
- 
 3. **Deeply relax all your muscles, beginning at your feet and progressing up to your face.  Keep them relaxed.**
- 
 4.  **Breathe through your nose.**
 Become aware of your breathing. As you breathe out, say the word, "one" (or another simple, short, melliflous word), silently to yourself. For example, breathe in ... out, "one",- in .. out, "one", etc. Breathe easily and naturally.
- 
 5.  **Continue for 10 to 20 minutes.** 
-
 Keep a clock visible so you can occasionally check the time, or set a gentle alarm, like a bell or chime. When you finish, sit quietly for several minutes, at first with your eyes closed and later with your eyes opened.
-
-6.  **Do not worry about whether you are successful in achieving a deep level of relaxation.** 
-
-Maintain a passive attitude and permit relaxation to occur at its own pace. 
-
-7. **When distracting thoughts occur, try to ignore them by not dwelling upon them and return to repeating "one."**
-
-With practice, the response should come with little effort.  
-
-8. **Practice the technique once or twice daily.**
-
-First thing in the morning and last thing before bed are good times. Avoid meditating within two hours after any meal, since the digestive processes seem to interfere with the elicitation of the Relaxation Response. 
+6.  **Do not worry about whether you are successful in achieving a deep level of relaxation.** Maintain a passive attitude and permit relaxation to occur at its own pace. 
+7. **When distracting thoughts occur, try to ignore them by not dwelling upon them and return to repeating "one."** With practice, the response will come with less and less effort. 
+8. **Practice the technique once or twice daily.** The best times are probably first thing in the morning and last thing before bed. Avoid meditating within two hours after any meal, since the digestive processes seem to interfere with the elicitation of the Relaxation Response. 
 
 ## Objections to Meditating ##
 
@@ -98,4 +86,4 @@ A: No, the [military](http://psychcentral.com/news/2010/02/18/mindfulness-traini
 ## Video ##
 
 ## Prayer ##
-Meditation is not identical to [prayer](www.keithbuhler.com/prayer). But for those of us who pray, it is an excellent precursor. 
+Meditation is not identical to [prayer](http:www.keithbuhler.github.io/fun/prayer). But for those of us who pray, it is an excellent precursor. 
