@@ -5,7 +5,7 @@ title: The Inklings
 
 # The Inklings #
 
-This page is dedicated to the Inklings. This group of Oxford Dons changed the world. 
+This page is dedicated to the [Inklings](https://en.wikipedia.org/wiki/Inklings). This group of Oxford Dons changed the world. Below are lists of their books for reference, e-texts of some books for download, a survey, and a few links. 
 
 
 ## Lists
