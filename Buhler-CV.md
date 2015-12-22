@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-### [Keith Buhler](http://keithbuhler.github.io/Buhler-CV.pdf)  
+### [Keith Buhler](http://keithbuhler.github.io/Buhler-CV.pdf) Curriculum Vitae
 Graduate Teaching Assistant  
 Department of Philosophy  
 University of Kentucky  
@@ -86,14 +86,14 @@ International Society for MacIntyrean Enquiry, 2015-present
 David Bradshaw, Professor of Philosophy, University of Kentucky   
 1415 Patterson Office Tower, Lexington, KY 40506   
 [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / (859) 257 7107   
-
+  
 Joseph Allen, Director, Pittsburgh Theological Seminary   
 616 N. Highland Ave., Pittsburgh, PA 15206   
 [theoeduc@aol.com](emailto:theoeduc@aol.com) / (201) 784 2501   
-
-John Mark Reynolds, President, St. Constantine School
-7502 Fondren Rd., Houston, TX 77074   
-[jmnreynolds@hbu.edu](emailto:jmnreynolds@hbu.edu) / (281) 649 3000 
+  
+John Mark Reynolds, President, St. Constantine School  
+7502 Fondren Rd., Houston, TX 77074    
+[jmnreynolds@hbu.edu](emailto:jmnreynolds@hbu.edu) / (281) 649 3000   
 
 ### Languages ###
 Ancient Greek (reading)  
