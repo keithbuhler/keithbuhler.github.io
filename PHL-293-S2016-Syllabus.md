@@ -67,6 +67,7 @@ D  = 69% - 60%   |  F  < 59%
 
 ## Readings
 (Readings are subject to slight changes.)
+
 ### Books ###
 
 1. [Instructions to Shurappag](http://etcsl.orinst.ox.ac.uk/section5/tr561.htm)
