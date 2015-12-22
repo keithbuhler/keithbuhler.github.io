@@ -12,7 +12,7 @@ title: phl 200 syllabus
 
 
 ## Course Description: 
-This class is an exercise in a different way of thinking. We will think deeply about our own selves, the world, God, death, science, logic, and language. Along the way, we will learn some facts of history, vocabulary words, philosophical concepts, and big names. But our main task is to *think*.  You may be confused. You will be challenged. 
+This class is an exercise in a different way of thinking. We will think deeply about the world, God, death, science, logic, language, and our own selves. Along the way, we will learn some facts of history, vocabulary words, philosophical concepts, and big names. But our main task is to *think*.  You may be confused. You will be challenged. 
 
 We will think by discussing, reading, and writing. For thinking clearly, logically, accurately is the master skill. It is useful for academics, for work, and for life. For some, this class will convince you to major or minor in philosophy. For others, it will make you better in your own discipline. For you must think well in any profession: No matter the career, the top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline, which philosophy can help you with.
 

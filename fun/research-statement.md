@@ -10,6 +10,18 @@ Now that I have successfully defended my qualitative dissertation on the ethics 
 
 I have applied to 
 
+
+## Draft 2 ##
+
+I’m also currently writing my [dissertation](/research) on virtue ethics. I’m especially interested in dialoging with the neo-Aristotelians, such as Alasdair MacIntre, Philippa Foot, John McDowell, Elizabeth Anscombe, Iris Murdoch, Rosalind Hursthouse, Martha Nussbaum, and Michael Thompson (among others). 
+
+My research explores the relation between virtue, practical rationality, and happiness. What exactly is a virtue and what is a vice? Is rationality a virtue? Is happiness just as “natural” as health – and what do we mean by ‘natural’ anyway? Answering these questions demands an analysis of what Foot calls "natural goodness" or natural function. I suspect that a defense of "natural teleology" -- properly defined -- is a key to ethical theorizing and ethical living. 
+
+Virtue ethicists need solid responses to a variety of objections and worries: Harman's objection to the very notion of character traits; the objection that the pursuit of virtue is selfish or egoistic; the objection from Bernard Williams and others that human nature is a "mess" and so the virtues cannot be perfections of our nature; the powerful (if vague) Darwinian objection that there are no biological "natures" anyway; Ruth Millikan's objection that an organism's proper function cannot be read off its capacities but must be known via empirical history; 
+
+Other problems that interest me are those in [philosophy of mind, ancient philosophy, or philosophy of religion.](https://uky.academia.edu/KeithBuhler). I've posted some papers, mostly on philosophy of mind, but one is on metaphysics and one on philosophy of religion. My ultimate goal of doing philosophy is to flourish as a human being in community.
+
+
 ## Example
 Now that I have successfully defended my qualitative dissertation on video journalism, I
 am starting the next phase of my research, specifically, quantitative experimental studies

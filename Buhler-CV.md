@@ -33,10 +33,10 @@ Introduction to Ethics (2013, UK)
 Introduction to Logic (2012-13, UK)    
 
 ### Academic Presentations
-2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University.       
+2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
-2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference.  
-2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy;  Midsouth Philosophy Conference.  
+2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
+2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
 
 ### Other Teaching & Leadership Employment
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Christian Academy, Lexington KY.   
@@ -76,14 +76,24 @@ The Inklings (2008-12, Torrey Academy)
 The Philosophy of Pain and Suffering (2011, St. Barnabas Church)  
 Goodness, Truth, and Beauty: Christian Worldview (2010, St. George Church)  
 
-
-
-
 ### Professional Affiliations
 American Philosophical Association, 2014  
 Society for Medieval & Renaissance Philosophy, 2014  
 Society of Orthodox Philosophers in America, 2014-present  
 International Society for MacIntyrean Enquiry, 2015-present  
+
+### References
+David Bradshaw, Professor of Philosophy, University of Kentucky   
+1415 Patterson Office Tower, Lexington, KY 40506   
+[dbradsh@uky.edu](emailto:dbradsh@uky.edu) / (859) 257 7107   
+
+Joseph Allen, Director, Pittsburgh Theological Seminary   
+616 N. Highland Ave., Pittsburgh, PA 15206   
+[theoeduc@aol.com](emailto:theoeduc@aol.com) / (201) 784 2501   
+
+John Mark Reynolds, President, St. Constantine School
+7502 Fondren Rd., Houston, TX 77074   
+[jmnreynolds@hbu.edu](emailto:jmnreynolds@hbu.edu) / (281) 649 3000 
 
 ### Languages ###
 Ancient Greek (reading)  

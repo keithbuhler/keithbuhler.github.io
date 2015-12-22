@@ -138,7 +138,7 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 **T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue
 **R Jan 14:**     SEP Wisdom, Virtue
 **T Jan 19:**     Instructions to Shuruppak; Tao te Ching
-**R Jan 21:**  Ecclesiastes
+**R Jan 21:**     Ecclesiastes
 
 
 *(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
