@@ -18,20 +18,21 @@ Instructor: Keith Buhler
 Twitter: @keith_buhler
 
 ## Course Description: 
-Many people believe that ‘virtue’ is an obsolete term. Yet in the last 60 years, philosophers have revived an interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). This interest has ranged over both moral and intellectual virtue (Cf. Linda Zagzebski, *Virtues of the Mind*), both of which are themes with roots deep in Greco-Roman civilization, from the time of Aristotle and even before. The revival of interest in virtue and wisdom seems a happy fact, since Biblically, we are commanded to “add to our faith virtue” (2 Pet 1). Virtue theories have a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. 
+For many people, ‘virtue’ is an obsolete term. Yet in the last 60 years, philosophers have revived an interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). But wisdom is widely counted as a virtue. (Plato, *Republic*). So some modern philosophers have discussed moral *and* intellectual virtues (Cf. Linda Zagzebski, *Virtues of the Mind*). 
 
-Furthermore, wisdom is a pervasive theme in faith and culture: Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Job); one of the seven or so Biblical genres is wisdom literature; Luke says that Jesus grew in wisdom and stature (2:52). Historically, philosophers have been closely associated with wisdom — after all, ‘philosophy’ is an English transliteration of the Greek term philosophia which means, roughly, love of wisdom. Much has been written on the theme of wisdom since the inception of western philosophy in Greece. 
+Wisdom and virtue, far from being old-fashioned terms, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Job); one of the seven or so Biblical genres is wisdom literature; Luke says that Jesus grew in wisdom and stature (2:52). Historically, philosophers have been closely associated with wisdom — after all, ‘philosophy’ is an English transliteration of the Greek term philosophia which means, roughly, love of wisdom. The revival of interest in virtue and wisdom seems a happy fact, since Biblically, we are commanded to “add to our faith virtue” (2 Pet 1).
 
 So what exactly is wisdom? How is it different (if at all) from knowledge, science, sophistry, or skill? What is the relation between virtue and wisdom? Is wisdom one intellectual virtue or is it (*phronesis*, practical wisdom) the master virtue? 
 
-In this course, we will read a limited selection of primary sources from ancient, medieval, modern, and contemporary periods that discuss virtue and wisdom. Our investigation will be wide ranging, aiming to avoid a myopic focus on the last 100 years. We will investigate the questions above (and others!). Our aim will be both theoretical and practical; we shall aim to understand what wisdom is and aim to become more wise, with each other’s help and by God’s grace. 
+Much has been written on the theme of wisdom since the inception of western philosophy in Greece. Virtue theories have a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. In this course, we will read and discuss a limited selection of primary sources from ancient and contemporary authors. Our aim will be both theoretical and practical; we shall aim to understand what wisdom is and aim to become more wise, with each other’s help and by God’s grace. 
 
 ## Course Goals: 
 
 Our governing questions are:
 
 1. What is wisdom (and it’s opposite, foolishness)? Is it “epistemic humility, epistemic accuracy, knowledge, rationality, the fear of God, or a hybrid of these?
-2. How does wisdom relate to (other) virtues?  
+2. How does wisdom differ sophistry, skill, science?
+2. How does wisdom relate to (other) moral virtues?  
 4. How do we become more wise? 
 
 To answer these, our goals are:
@@ -62,9 +63,18 @@ B-  = 80% - 83% |   C+ = 77%-79%
 C   = 74% - 76%  |   C-  = 70% -73%
 D  = 69% - 60%   |  F  < 59%  
 
-## Reading (Quizzes & Self-Reports)
 
-The primary work if this class will be reading — and trying to understand — these books and articles. (Readings are subject to change.) This course is inspired by the “Great Books” approach. I am aware that reading primary sources can be more challenging than a textbook; it is also more rewarding. As this is an upper division course, you should plan to be reading about 3-4 hours a week. Read well. Read every assignment entirely. Skimming is sometimes necessary, but don’t skim every week. 
+## Readings
+(Readings are subject to slight changes.)
+### Books ###
+
+1. [Instructions to Shurappag](http://etcsl.orinst.ox.ac.uk/section5/tr561.htm)
+2. [Tao Te Ching]
+3. [Evagrius Pontus]
+4. [Dante, The Banquet]
+5. [Thomas Aquinas]
+
+The primary work if this class will be reading — and trying to understand — these books and articles. This course is inspired by the “Great Books” approach. I am aware that reading primary sources can be more challenging than a textbook; it is also more rewarding. As this is an upper division course, you should plan to be reading about 3-4 hours a week. Read well. Read every assignment entirely. Skimming is sometimes necessary, but don’t skim every week. 
 
 
 ## Reading Tips
@@ -125,39 +135,10 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 
 
 ## Course Outline*
+**T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue
+**R Jan 14:**     SEP Wisdom, Virtue
+**T Jan 19:**     Instructions to Shuruppak; Tao te Ching
+**R Jan 21:**  Ecclesiastes
 
-**T Jan 12 -- Syllabus**    
-**R Jan 14 -- *Sophie’s World*, Garden of Eden, Top Hat, the Myths, Natural Philosophers, Democritus, and Fate: Time and Cause**  
-**T Jan 19 -- Genesis 1-5:      Mythology**  
-**R Jan 21 -- “Truth” and “Goodness” Handouts:    Are truth and goodness objective?**   
-**T Jan 26: Plato, *Eutyphro*; *Sophie’s World*, Socrates, Athens, Plato:   What is Holiness?**
-**R Jan 28 -- Plato, Apology: Is Socrates Guilty?**  
-**T Feb 2 -- Plato, *Phaedo* 116-143: The soul is immortal because opposites come from opposites**  
-**R Feb 4 -- *Phaedo* 143-199: The soul is immortal because we existed before we were born**  
-**T Feb 9 --  *Phaedo* (all): The soul is immortal because it is more like forms than matter.**  
-**R Feb 11 --   “Forms” handout**  
-**T Feb 16 -- “Aristotle” Handout; Sophie’s World, Aristotle: Aristotle and his Four Causes.**   
-**R Feb 18 --    “Lucretius” Handout (10 pages):  Material and Final Causes**  
-**T Feb 23 --    (No reading): Logic**  
-**R Feb 25 --  (No reading): The Logos: Christianity and Nihilism as worldviews**  
-**T Mar 1 -- Toy Story 3 (Pixar Film): How do we survive devouring time?**  
-**R Mar 3 -- MIDTERM EXAM & Toy Story 3 Discussion**  
-**T Mar 8 -- Augustine, *Confessions* chapter 1, 2, 4; Sophie’s World “Two Cultures”, “Middle Ages”**  
-**R Mar 10 --   Augustine, *Confessions* Chapter 6, 7, 9:   Does evil exist?**  
-**T Mar 15 --    Confessions, 10, 11:    Time**   
-**R Mar 17 -- *Confessions* 11, 12:     Creation**  
-**T Mar 22 --   Aquinas Handout: Can God’s existence be proven? (26 pages): Does God exist?** 
-**R Mar 24 -- Aquinas Handout: Is happiness the beatific vision?**
-**T Mar 29 --  Sophie’s World, Renaissance, Baroque, Hume, Enlightenment:  The Enlightenment**  
-**R Mar 31 -- Hume, Enquiry Concerning Human Understanding Sections 1-3:  Impressions**  
-**T Apr 5 --  Hume, Enquiry Sections 5-6:  Cause and Effect**  
-**R Apr 7 -- Hume, Enquiry Sections 7, 8, 10:    Miracles**    
-**T Apr 12 --  Feser Handout: Can we make sense of the world? Is the world intelligible?**   
-**R Apr 14 -- Dawkins Handout:  There is almost certainly no god.**  
-**T Apr 19 --   2001: A Space Odyssey (Stanley Kubrick Film): “Defense of Slow Movies” Handout**
-R Apr 21 --    THANKSGIVING BREAK
-**T Apr 26 --  The Tree of Life (Terrence Mallick Film)**  
-**R Apr 28 --  The Gospel of John (21 pages)**
-**Finals Week** -- Final papers due. No exam. Extra credit due. Reflection paper due. 
 
 *(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
