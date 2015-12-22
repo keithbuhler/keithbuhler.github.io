@@ -29,7 +29,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     width:150px;
-    text-align: center;
+    text-align: left;
 }
 a {color: #1e73e1; text-decoration: none;}
 

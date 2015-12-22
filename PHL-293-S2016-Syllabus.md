@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: noheader
 title: PHL 293 S2016 Syllabus
+---
 
 # Syllabus Spring 2016
 

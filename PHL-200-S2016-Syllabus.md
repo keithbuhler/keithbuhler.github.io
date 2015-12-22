@@ -1,20 +1,19 @@
 ---
-layout: default
+layout: noheader
 title: phl 200 syllabus
 ---
 
 # Syllabus, Spring 2016 #
-**Introduction to Philosophy: “Goodness, Truth, and Beauty”**
+**Introduction to Philosophy: “Goodness, Truth, and Beauty”**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)    
-**Office Hours:** Tues/Thurs, 12-1pm @ Kinlaw by C. S. Lewis.
+**Office Hours:** Tues 3-4, Kinlaw Library by Lewis Corner.
 
 
 ## Course Outline  ##
 
 *Each line has a date, the reading due, the topic, and lecture notes. Why the lecture notes? Students asked for it. These notes help you prepare for discussion. But also, the only way to prepare is to think.*
-
 
 <hr>
 
