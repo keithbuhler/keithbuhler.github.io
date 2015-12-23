@@ -5,6 +5,9 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
+Below are the names and syllabi of classes I have taught, student ratings, and student feedback. 
+
+[Students, click here for philosophy resources](/philosophy/philosophy-resources) 
 
 ### Course Syllabi ### 
 PHL 293: Wisdom and Virtue  (Syllabus coming soon)    
@@ -18,15 +21,6 @@ PHI 120: Introduction to Logic   (syllabus available upon request)
 ### Official Student Course Evaluation Statistics
 +  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
 +  3.6 out of 4, cumulative average in overall teaching quality, Asbury University
-
-
-### For students ###
-
-* All students: contact me via [email](keith.buhler@uky.edu) or [Twitter](https://twitter.com/Keith_Buhler). 
-* New students: take the [Get to know you survey.](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web) 
-* Old students: rate me at [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) so others know how much you enjoyed the class. 
-* Also, let me know by email or in person what I can improve. Thanks!
-* Check out my [personal page](/fun/) for my fiction, some resources, and more fun stuff.
 
  
 ### Student Feedback Highlights ###
@@ -46,6 +40,7 @@ PHI 120: Introduction to Logic   (syllabus available upon request)
 
 * Teaching Statement
 * Sample Exams & Study Guides
+
 * How to Write a Philosophy Paper
 * How to read philosophy
 * How to write a philosophical disputation

@@ -320,13 +320,10 @@ The word of God recreates the cosmos and fulfills it. How does John 1:1-2:1 re-t
 
 T    Disputation 6 Due. 
 
-R      Final Exam  TBA
- 
-Extra Credit (optional) Due
-Reflection Paper OR meeting due
+R Reflection paper due; extra credit (optional) due; Final Exam TBA.  
 
 
 --------
 
 
-*(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
+* (Outline subject to revisions due to snow days, instructor sickness, academic conferences, etc.)

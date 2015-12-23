@@ -4,31 +4,24 @@ title: Philosophy Resources
 
 --- 
 
-
-
-### Philosophy Bio ###
-I discovered philosophy through studying history. While my current research focuses on contemporary analytic virtue ethics, this introduction has left an indelibly mark on my approach to philosophical issues. 
-
-The Torrey Honors Institute in CA forced me to read the "great books", including philosopy, literature, science, history, theology, and more. So my bias is toward "classics" like Plato's *Republic*, the *Tao Te Ching*, and Aquinas *Summa Theologica*. Of contemporary philosophers, I admire Thomas Nagel, Alasdair MacIntyre, Rosalind Hursthouse, Richard Swinburne, JP Moreland, Alan Gibbard, John McDowell, John Haldane, and Hilary Putnam, among others.
-
-I studied Plato for several years with Alfred Geier at the University of Rochester. He, more than anyone else, trained me in dialectical methodology or pedagogy. 
-
-My advisor is David Bradshaw who works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity."
-
-My current research centers on questions of ethics relating to virtue on the one hand and metaphysical naturalism on the other hand. Virtue ethics has a long history, while metaphysical naturalism has only recently attained dominance. Can a metaphysical naturalist be a virtue ethicist? John McDowell is a "relaxed naturalist" but a critic of scientism. 
-
-
-
-
-### Talks
-1. ["Is the Physical Cosmos Closed to Outside Causes"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
-2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
-3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
-
-
-## Philosophy Resources ##
+## Philosophy Resources for Students ##
 
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
+
+
+
+#### Contact and Rate ####
+
+* All students: contact me via [email](keith.buhler@uky.edu) or [Twitter](https://twitter.com/Keith_Buhler). 
+* New students: take the [Get to know you survey.](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web) 
+* Old students: rate me at [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) so others know how much you enjoyed the class. 
+* Also, let me know by email or in person what I can improve. Thanks!
+* Check out my [personal page](/fun/) for my fiction, some resources, and more fun stuff.
+
+#### Talks
+1. ["Is the Physical Cosmos Closed to Outside Causes?"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
+2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
+3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
 
 #### Some of the Best Classics
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
@@ -44,7 +37,6 @@ My current research centers on questions of ethics relating to virtue on the one
 * [Internet Encyclopedia](http://www.iep.utm.edu/)
 * [Mortimer Adler, The Great Ideas](http://www.thegreatideas.org/)
 
-
 #### Discussion
 * [My featured eHow article (viewed +200,000 times) on How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion)
 * [Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University](http://www.elon.edu/e-web/academics/teaching/tlconference/makingThinking.xhtml)
@@ -58,6 +50,6 @@ My current research centers on questions of ethics relating to virtue on the one
 
 #### The Profession
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/)
-* [Phil Events](http://philevents.org/)
-* [Phil Jobs](http://philjobs.org/)
- 
+* [Phil Events -- find upcoming conferences on interesting themes](http://philevents.org/)
+* [Phil Jobs -- scope out the job market in academic philosophy](http://philjobs.org/)
+* [What can a philosophy major do for me?]
