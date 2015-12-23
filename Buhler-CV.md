@@ -11,8 +11,8 @@ University of Kentucky
 562.230.2920  
 
 ### Research Interests 
-Area of Specialization: Virtue Ethics, Metaethics.   
-Areas of Competence: Ancient Philosophy, Philosophy of Religion, Metaphysics and Philosophy of Mind.
+Area of Specialization: Ethics (especially Virtue Ethics and Metaethics).   
+Areas of Competence: Ancient Philosophy, Philosophy of Religion, Metaphysics, and Philosophy of Mind.
 
 ### Education
 2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
