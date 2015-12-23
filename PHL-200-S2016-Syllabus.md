@@ -293,14 +293,18 @@ This question asks not just about the "earth" but the cosmos. Is it "readable", 
 **R Apr 14 -- Dawkins Handout:  There is almost certainly no god.**  
 Dawkins argues that everything god might be invoked to explain can be explained by a combination of the anthropic principle and natural selection. He also argues that religion and science aren’t “separate spheres” of inquiry, each sovereign with their domain. Religion and science have overlapping questions about the origin of the world, the origin of life, the teleology (or purposiveness) of the cosmos, and human nature. What is natural selection? What is the anthropic principle? And how do these two (with luck as a third) explain everything that can be explained? 
 
+*Remember: Watch 2001!*
+
 --------
 
-**T Apr 19 --   2001: A Space Odyssey (Stanley Kubrick Film): “Defense of Slow Movies” Handout**
+**T Apr 19 --   “Defense of Slow Movies” Handout**; 2001: A Space Odyssey (Stanley Kubrick Film)  
 Is humanity evolving into something more than human? 
 
-R Apr 21 --    THANKSGIVING BREAK
+**R Apr 21 -- Disputation Workshop**: Create your own question! 
 
-*Disputation 6: Create your own question. See instructions.
+*Disputation 6 prompt: Create your own question. See instructions.
+
+*Remember: Watch Tree of Life!*
 
 --------
 
