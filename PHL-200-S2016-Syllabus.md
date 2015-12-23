@@ -2,7 +2,7 @@
 layout: noheader
 ---
 
-## [Syllabus, Spring 2016](http://keithbuhler.github.io/PHL-200-S2016-Syllabus.pdf) ##
+###[Syllabus, Spring 2016](http://keithbuhler.github.io/PHL-200-S2016-Syllabus.pdf)
 **Introduction to Philosophy: “Goodness, Truth, and Beauty”**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -12,7 +12,7 @@ layout: noheader
 ## Course Description: 
 This class is an exercise in a different way of thinking. We will think deeply about the world, God, death, science, logic, language, and our own selves. Along the way, we will learn some facts of history, vocabulary words, philosophical concepts, and big names. But our main task is to *think*.  You may be confused. You will be challenged. 
 
-We will think by discussing, reading, and writing. For thinking clearly, logically, accurately is the master skill. It is useful for academics, for work, and for life. For some, this class will convince you to major or minor in philosophy. For others, it will make you better in your own discipline. For you must think well in any profession: No matter the career, the top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline, which philosophy can help you with.
+We will think by discussing, reading, and writing. Thinking clearly, logically, accurately in each of these activities is the master skill. It is useful for academics, for work, and for life. For some, our study will convince you to major or minor in philosophy. For others, it will make you better in your own discipline. For the skills you learn in philosophy apply to any profession: the top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline.
 
 For still others, thinking well will help you in motherhood or the monastery. For all of us, we want to become more connected, integrated, thoughtful, reflective human beings.  The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We are also entering into the Great Conversation with our own, limited (often confused) thoughts, becoming part of the Conversation, and (by it) being forever changed. 
 
@@ -35,11 +35,7 @@ To accomplish these goals, we will work through 10 Units. Each 2 week Unit consi
 You will be graded equally on each component, plus applicable extra credit.
 
 |  Assessment category  |  Percent of semester grade |
-| --------
---------
---- | --------
---------
---- |
+| ------------------ | ------------------- |
 | Readings (Quiz/reports) |         20%   |  
 | Participation (Talking, writing) |   25% |
 | Tests (Midterm, Final)         |  25% |
@@ -172,10 +168,9 @@ Students desiring to appeal a determination of academic dishonesty will follow t
 
 
 **T Jan 12 -- Syllabus**  
-* Class preview: This class will be awesome. It’s a lot of reading, so you have to work hard. But more importantly, you have to think hard. Today we’ll get to know each other and our expectations, how to get an A, etc.. I’ll give you three personal problems philosophy can (maybe) help you with. 
+Class preview: This class will be awesome. It’s a lot of reading, so you have to work hard. But more importantly, you have to think hard. Today we’ll get to know each other and our expectations, how to get an A, etc.. I’ll give you three personal problems philosophy can (maybe) help you with. 
 
 **R Jan 14 -- *Sophie’s World*, Garden of Eden, Top Hat, the Myths, Natural Philosophers, Democritus, and Fate: Time and Cause**  
-
 Sophie is asked by a mysterious stranger two key questions: who are you? Where did the world come from? We will do our best to begin answering those questions by examining two big ideas: Time and causes. Causes answer the question "why?" And time is a condition of all life on earth.
 
 --------
@@ -183,7 +178,7 @@ Sophie is asked by a mysterious stranger two key questions: who are you? Where d
 
 
 **T Jan 19 -- Genesis 1-5:      Mythology**  
-* A myth is not a false story but a likely story. In that sense, Genesis is a myth. We'll analyze it for its presentation of freedom, humanity, goodness, God, sin, and redemption. (Today, we assign groups and “internal/external” processors today as well.)
+A myth is not a false story but a likely story. In that sense, Genesis is a myth. We'll analyze it for its presentation of freedom, humanity, goodness, God, sin, and redemption. (Today, we assign groups and “internal/external” processors today as well.)
 
 **R Jan 21 -- “Truth” and “Goodness” Handouts:    Are truth and goodness objective?**   
 All semester we will be seeking truth. To be successful, we have to know whether truth exists. We'll examine arguments for and against the proposition that truth and goodness are real. We will also discuss the “Tao” to see examples of universal, common morality. (We'll also go over how to do papers.)
@@ -221,7 +216,7 @@ Socrates introduces "forms", real beings like equality or goodness, that explain
 **T Feb 16 -- “Aristotle” Handout; Sophie’s World, Aristotle: Aristotle and his Four Causes.**   
 Aristotle was a "meticulous organizer." He categorized thoughts into logic, knowledge into sciences, and reality into ten categories of beings. His influence extends even to today. The "four causes" of an entity are the four properties that make it what it is. For example, think about a piece of bronze (material) made into a statue of a soldier (form), by a sculpter (efficient), that marks the entrance of the city (final). What are the four causes of a human being?
 
-**R Feb 18 --    “Lucretius” Handout (10 pages):  Material and Final Causes**  
+**R Feb 18 --    "Material Causes" Handout (10 pages):  Material and Final Causes**  
 The material cause is what a thing is made of; the formal cause, its configuration. The final cause is its purpose, function, or end. Aristotle would say that scientific explanations need to give all four causes. But Bacon and Lucretius say that "scientific" explanations only give one or two causes. Descartes caused a massive change in thinking by his famous wax experiment. Are a thing’s form and purpose incidental or essential to what it is? 
 
 
@@ -230,7 +225,7 @@ The material cause is what a thing is made of; the formal cause, its configurati
 **T Feb 23 --    (No reading): Logic**  
 * Logic is the science of inference. We need data to make inferences. The sources of data are observation, memory, testimony, and authority. These data are the premises of arguments. Solid inferences become principles. Principles are the premises of new arguments. The most common kid of argument is a "syllogism." Syllogisms have three statements: a major premise, a minor premise, and a conclusion. There are three kinds of major premise: categorical, hypothetical, and disjunctive. Dilemmas and other forms of argument compound syllogisms. How does logic relate to science? 
 
-**R Feb 25 --  (No reading): The Logos: Christianity and Nihilism as worldviews**  
+**R Feb 25 --  Bertrand Russell, "Free Man's Worship" Handout: Christianity and Nihilism as worldviews**  
 Christ as the Logos is at once creator, redeemer, and our goal. Substitutes for Christ include other gods, worldly pleasures, humans, or nothingness itself. But other gods, pleasure, and other humans are all consumed by nothingness in the end. So there are only two options: Logos or nothingness. Nothingness is mistaken by some as the origin of all things, and the conclusion — the alpha and omega — that which was, is, and ever shall be. 
 
 --------
