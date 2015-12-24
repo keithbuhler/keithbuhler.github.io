@@ -3,6 +3,11 @@ layout: fun
 title: Fun Stuff Home
 ---
 
+
+
+<img src="http://lorempixel.com/image_output/nature-q-c-1000-500-4.jpg" alt="Keith" align="center" hspace="20" height="500" width="1000">
+
+
 **Flesh knows; but spirit knows it knows" Charles Williams**
 
 
