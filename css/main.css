@@ -27,13 +27,22 @@ nav ul, header ul {
 
 
 }
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
+    width:400px;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 10px;
     width:150px;
-    text-align: left;
+    text-align: center;
     font-size: small;
 }
+
 a {color: #06215E; text-decoration: none;}
 
 a:hover {text-decoration: underline; text-color:#06215E;}
