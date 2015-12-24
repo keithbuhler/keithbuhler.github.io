@@ -23,27 +23,16 @@ nav ul, header ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.4em;
-    text-align: left;
-
 
 }
-nav ul li {
+nav ul li, footer ul li {
     display: inline;
-    margin-right: 10px;
-    width:400px;
-    text-align: center;
-    font-size: 1.4em;
-}
-
-footer ul li {
-    display: inline;
-    margin-right: 10px;
+    margin-right: 20px;
     width:150px;
-    text-align: center;
-    font-size: small;
+    text-align: left;
 }
 
-a {color: #06215E; text-decoration: none;}
+a {color: #1e73e1; text-decoration: none;}
 
 a:hover {text-decoration: underline; text-color:#06215E;}
 
