@@ -1,14 +1,14 @@
 ---
 layout: noheader
-title: 305 syllabus Spring 2016
+title: 305 Syllabus Spring 2016
 
 ---
 
-## Syllabus, Spring 2016
+**Syllabus, Spring 2016**
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)    
+**Twitter**: [keith_buhler](http://www.twitter.com/keith_buhler)    
 **Office Hours**: Wed 11am-12pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
@@ -38,22 +38,21 @@ In short, our goals are:
 To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
 
-##Grading
+### Grading
 Your grade for the class will depend on your performance in each component, plus tests and applicable extra credit. Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
 
 
 |  Assessment category  |  Percent of semester grade |
 | ------------------- | ------------------- |
-| Readings (Quiz, Self-reports) |         20%   |  
-| Participation (Talking, writing, presentations) |   20% |
-| Tests (Midterm, Final)         |  30% |
-| Unit Papers (6 papers, pass/fail) |  30% |
+| Readings (quizzes) |         20%   |  
+| Participation (talk, write, present) |   20% |
+| Tests (midterm, final)         |  30% |
+| Unit Papers (6 pass/fail papers) |  30% |
 
 
 ### Readings
 
-**Required Textbook:** Pierce and Randels, Contemporary Bioethics. Oxford, 2010. First Edition. ($80 new, $25 used, #14 rent,).  
-All other required readings are posted online. 
+**Required Textbook:** [Pierce and Randels, *Contemporary Bioethics.* Oxford, 2010. First Edition.](http://amzn.to/1QJ76Fx) (Should be less than $100 new, $60 used, $20 rent,). All other required readings are posted online. 
 
 ### Reading Tips
 
@@ -125,9 +124,6 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 
 ### Course Outline
 
-[Click here for the week-by-week-breakdown.](/PHI-305-S2016-Outline)
-
-
 **W Jan 13 Syllabus**: Today, we get to know each other. We'll identify expectations. Buy your book. We'll form Critical Reading Groups. 
 
 **F  Jan-15 *Bioethics* 1-25, Health Care, Bioethics, and Philosophy**: Study this long introduction. Take this (very long!) quiz. What is the purpose of health care? Philosophy and critical thinking can help. 
@@ -154,7 +150,7 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 
 **W Feb- 3  *Bioethics* 94- 101 (Group 3) Confucian Truth-telling.** Are there any circumstances in which part of the truth, a falsehood, or a mix of true and false are the best way to use speech?
 
-**F Feb- 5  Unit Paper #1 due. *Bioethics* case studies discussion of Patient Responbility**: AMA Fundamental Elements of the Patient- Physician relationship. Do we bear partial or complete responsibility for our own health? How do patient responsibilities derive from autonomy? Are any of the AMA’s list of responsibilities too much? Cases 5- 6: What might be the main objections to Ashley’s treatment? Should Dr. Beckwith write the prescription?
+**F Feb- 5  Unit Paper #1 due. *Bioethics* AMA Fundementals, discussion of Patient Responbility**: Do we bear partial or complete responsibility for our own health? How do patient responsibilities derive from autonomy? Are any of the AMA’s list of responsibilities too much? Cases 5- 6: What might be the main objections to Ashley’s treatment? Should Dr. Beckwith write the prescription?
 
 ------------
 
@@ -182,7 +178,7 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 **F Feb- 26 Unit Paper 2: Euthanasia due. Discussion of sex- selective abortion, and fetal pain**.
 
 ------------
-,                          
+
 **M Feb- 29 *Bioethics* 317- 321 (Group 9), Murray, What are families for?; Kaczor, Artificial Wombs?**: [Unfinished],,     
 
 **W Mar- 2  *Bioethics* 341- 51 (Group 10), Leon Kass, Preventing a Brave New World**: [Unfinished],,     

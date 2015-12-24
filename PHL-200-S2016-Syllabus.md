@@ -56,10 +56,10 @@ D  = 69% - 60%   |  F  < 59%
 
 ## Readings & Quizzes
 
-- Jostein Gaarder, Sophie’s World           ISBN: 0374530718
-- Plato, Last Days of Socrates (Apology, Phaedo)     ISBN: 0140449280
-- Augustine, Confessions              ISBN: 0199537828
-- Hume: Inquiry Concerning Human Understanding:      ISBN: 002353110X  (Not “Treatise”)
+- [Jostein Gaarder, Sophie’s World           ISBN: 0374530718](http://amzn.to/1QJ7mEs)
+- [Plato, Last Days of Socrates (Apology, Phaedo)     ISBN: 0140449280](http://amzn.to/1NMMNB6)
+- [Augustine, Confessions              ISBN: 0199537828](http://amzn.to/1QJ7qEj)
+- [Hume: Inquiry Concerning Human Understanding:      ISBN: 002353110X  (Not “Treatise”)](http://amzn.to/1NMMJRI)
 
 Buy these ISBNS only, please. (New or used is fine.) Use hard copies please; they are better for notes, and make it easier to stay on the same page in class and when assigning pages. 
 
