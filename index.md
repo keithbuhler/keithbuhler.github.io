@@ -4,12 +4,11 @@ title: Anyone?... Buhler...?
 
 --- 
 
-## Hi, Thanks for visiting. 
+## Hi, I'm Keith Buhler 
 
-<img src="/img/face3.jpg" alt="Keith" align="left" hspace="20" height="225" width="225">
+<img src="/img/keithbuhler-golden.jpg" alt="Keith" align="left" hspace="20" height="485" width="300">
 
-I'm Keith Buhler. I currently teach [philosophy, health care ethics, and virtue ethics](/teaching) at Asbury University and at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226). I've been [teaching](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) for about [14 years](/Buhler-CV) and really love what I do.
-
+Thanks for visiting. I currently teach [philosophy, health care ethics, and virtue ethics](/teaching) at Asbury University and at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226). I've been [teaching](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) for about [14 years](/Buhler-CV) and really love what I do.
 
 I’m also currently writing my [dissertation](/research) on virtue ethics. I’m especially interested in dialoging with the neo-Aristotelians, especially Alasdair MacIntre, Philippa Foot, John McDowell, and others. But I'm also reading a lot of Elizabeth Anscombe, Peter Geach, Iris Murdoch, Rosalind Hursthouse, Martha Nussbaum, and Michael Thompson. I've also been enjoying Talbot Brewer, Stephen Brown, and R. Scott Smith. 
 

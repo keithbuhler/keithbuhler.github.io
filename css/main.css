@@ -23,6 +23,8 @@ nav ul, header ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.4em;
+    text-align: left;
+
 
 }
 nav ul li, footer ul li {
@@ -30,11 +32,11 @@ nav ul li, footer ul li {
     margin-right: 20px;
     width:150px;
     text-align: left;
+    font-size: small;
 }
-a {color: #122A60; text-decoration: none;}
+a {color: #06215E; text-decoration: none;}
 
-a:hover {text-decoration: underline; text-color:#06215E;
-}
+a:hover {text-decoration: underline; text-color:#06215E;}
 
 
 h1 {
