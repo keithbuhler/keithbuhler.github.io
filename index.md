@@ -4,7 +4,7 @@ title: Anyone?... Buhler...?
 
 --- 
 
-## Hi, I'm Keith Buhler 
+### Hi, I'm Keith Buhler 
 
 <img src="/img/keithbuhler-golden.jpg" alt="Keith" align="left" hspace="20" height="485" width="300">
 

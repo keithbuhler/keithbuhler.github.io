@@ -20,6 +20,14 @@ to preserve me like His precious insect.
 >-"Meditatio" by [Mary Karr](http://www.marykarr.com/books.php)
 
 
+## Why to Meditate ##
+
+1. It is healthy. My meditation mentor created [a podcast explaining benefits of meditation, summarizing the latest research, teaching how to meditate, and offering a dozen guided meditations.](http://www.meditationforhealthpodcast.com/)
+2. It is relaxing. [Meditation activates the parasympathetic system *better* than sleep. Herbert Benson, M.D., made meditation scientificaly respectable virtually overnight through his study of the "Relaxation Response".](https://www.bensonhenryinstitute.org/about/dr-herbert-benson)
+3. It reduces anxiety, depression, [insomnia](http://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726), [blood pressure](http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#), and more.
+4. It increases awareness, compassion, self-control, peacefulness, and more. 
+5. It feels good. 
+
 ## My Story  ##
 
 I began meditating in 2004. My [mentor](http://www.doctorpuff.com/) said, "You seem scattered. Have you tried meditation?" He explained a bit about it; I waited for 2 weeks. The next time I saw him, I requested he show me how. He gave me a quick introduction, like the one written below. 
@@ -33,14 +41,6 @@ That was about 10 years ago. By the time I got to the four year mark, meditation
 May 2015 marks 11 years of daily practice. I'm still a beginner. 11 years in, I still miss days. I've meditated for at least 10 minutes probably 80% of the approximately 4,000 days. That's meditating about 8,000 times for a total of about 4,000 hours. 
 
 I've learned a lot but am still learning. If you'd like to learn more, see below or send me a line. 
-
-## Why to Meditate ##
-
-1. It is healthy. My meditation mentor created [a podcast explaining benefits of meditation, summarizing the latest research, teaching how to meditate, and offering a dozen guided meditations.](http://www.meditationforhealthpodcast.com/)
-2. It is relaxing. [Meditation activates the parasympathetic system *better* than sleep. Herbert Benson, M.D., made meditation scientificaly respectable virtually overnight through his study of the "Relaxation Response".](https://www.bensonhenryinstitute.org/about/dr-herbert-benson)
-3. It reduces anxiety, depression, [insomnia](http://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726), [blood pressure](http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#), and more.
-4. It increases awareness, compassion, self-control, peacefulness, and more. 
-5. It feels good. 
  
 ## Quickstart Guide to Meditating ##
 
@@ -85,5 +85,3 @@ A: No, the [military](http://psychcentral.com/news/2010/02/18/mindfulness-traini
 
 ## Video ##
 
-## Prayer ##
-Meditation is not identical to [prayer](http:www.keithbuhler.github.io/fun/prayer). But for those of us who pray, it is an excellent precursor. 
