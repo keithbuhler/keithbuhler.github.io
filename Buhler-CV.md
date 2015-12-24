@@ -2,8 +2,7 @@
 layout: default
 --- 
 
-### [Keith Buhler](http://keithbuhler.github.io/Buhler-CV.pdf) Curriculum Vitae
-Graduate Teaching Assistant  
+### Keith Buhler [Curriculum Vitae]((http://keithbuhler.github.io/Buhler-CV.pdf)
 Department of Philosophy  
 University of Kentucky  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
