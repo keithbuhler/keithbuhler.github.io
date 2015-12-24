@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #8799C4;
+    background-color: #FAFAFA;
     font-size: 16px;
     line-height: 1.5;
 
@@ -33,7 +33,7 @@ nav ul li, footer ul li {
 }
 a {color: #122A60; text-decoration: none;}
 
-a:hover {text-decoration: underline; text-color:#081532;
+a:hover {text-decoration: underline; text-color:#06215E;
 }
 
 
