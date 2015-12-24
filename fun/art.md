@@ -3,16 +3,16 @@ layout: fun
 title: art
 ---
 
-[Whither are you going? And whence have you come?](/whither.jpg)
+[Whither are you going? And whence have you come?](/img/whither.jpg)
 
-[Making Gandalf](https://www.youtube.com/watch?v=sPBSyyay428)
+[Making Gandalf](/imghttps://www.youtube.com/watch?v=sPBSyyay428)
 
-[Gandalf](/gandalf.jpg)
+[Gandalf](/img/gandalf.jpg)
 
-[Dante](/dante.jpg)
+[Dante](/img/dante.jpg)
 
-[Pumpkinzilla](/pumpkinzilla.jpg)
+[Pumpkinzilla](/img/pumpkinzilla.jpg)
 
-[Snowmen](/snowmen.jpg)
+[Snowmen](/img/snowmen.jpg)
 
-[St Peter's](/stpeter.jpg)
+[St Peter's](/img/stpeter.jpg)
