@@ -6,7 +6,7 @@ title: Anyone?... Buhler...?
 
 ### Hi, I'm Keith Buhler 
 
-<img src="/img/keithbuhler-golden.jpg" alt="Keith" align="left" hspace="20" height="485" width="300">
+<img src="/img/keithbuhler-golden.png" alt="Keith" align="left" hspace="20" height="485" width="300">
 
 Thanks for visiting. I currently teach [philosophy, health care ethics, and virtue ethics](/teaching) at Asbury University and at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226). I've been [teaching](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) for about [14 years](/Buhler-CV) and really love what I do.
 

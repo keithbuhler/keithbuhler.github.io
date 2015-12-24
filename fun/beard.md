@@ -19,11 +19,11 @@ At this point, your body will begin producing the chemicals needed to grow that 
 "For us, there is only the trying. The rest is not our business."
 
 ### 3. Do. Not. Shave. ###
-This is the hardest step to do This is the first step where you actually *do* something. 
+This is the hardest step to do; this is the first step where you actually *do* something. 
 
 Don't commit beardicide. Don't Destroy the Beard. 
 
-Donn't shave. Also, do not put your chin too close to candles. Do not rub seeds into your beard and fall asleep near a horde of hungry hamsters. 
+Don't shave. Also, do not put your chin too close to candles. Do not rub seeds into your beard and fall asleep near a horde of hungry hamsters. 
 
 If you follow these 3 steps a beard will appear on your face. You will stop avoiding what Nature has so generously gifted you. 
 
@@ -51,7 +51,7 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 
 <img src="/img/lincoln.jpg" alt="lincoln" height="500" width="500">
 
-<img src="/img/gimli.jpg" alt="gimli" height="500" width="500">
+<img src="/img/gimli.jpeg" alt="gimli" height="500" width="500">
 
 <img src="/img/hagrid.jpg" alt="hagrid" height="500" width="500">
 
