@@ -2,7 +2,8 @@
 layout: default
 --- 
 
-### Keith Buhler [Curriculum Vitae]((http://keithbuhler.github.io/Buhler-CV.pdf)
+### Keith Buhler [Curriculum Vitae](http://keithbuhler.github.io/Buhler-CV.pdf)
+
 Department of Philosophy  
 University of Kentucky  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
