@@ -1,5 +1,6 @@
 ---
 layout: noheader
+title: PHL 200 S2016
 ---
 
 ###[Syllabus, Spring 2016](http://keithbuhler.github.io/PHL-200-S2016-Syllabus.pdf)
@@ -34,25 +35,23 @@ To accomplish these goals, we will work through 10 Units. Each 2 week Unit consi
 ## Grading:
 You will be graded equally on each component, plus applicable extra credit.
 
-|  Assessment category  |  Percent of semester grade |
-| ------------------ | ------------------- |
-| Readings (Quiz/reports) |         20%   |  
-| Participation (Talking, writing) |   25% |
-| Tests (Midterm, Final)         |  25% |
-| Disputation Papers (6 papers, pass/fail) |  25% |
-| Extra Credit | 3% (max)|
+|  Assessment category              |  Percent of semester grade |
+| ----------------------------------|----------------------- |
+| Readings (Quiz/reports)           | 20%   |  
+| Participation (Talking, writing)  | 25% |
+| Tests (Midterm, Final)            | 25% |
+| Disputation Papers                | 25% |
+| Extra Credit                      | 3% (max) |
 
 I typically do not round up. So 89.5 is a “B”
 
---------
---------
--------|--------
--------
-A  = 99%-94% |       A- = 90%-93%   
-B+ = 87%-89%   |   B  = 84% - 86%         
-B-  = 80% - 83% |   C+ = 77%-79%
-C   = 74% - 76%  |   C-  = 70% -73%
-D  = 69% - 60%   |  F  < 59%  
+Letter Grade | Percentage
+|------------------|-------------|
+A  = 99%-94%      |       A- = 90%-93%   
+B+ = 87%-89%      |   B  = 84% - 86%         
+B-  = 80% - 83%   |   C+ = 77%-79%
+C   = 74% - 76%   |   C-  = 70% -73%
+D  = 69% - 60%    |  F  < 59%  
 
 ## Readings & Quizzes
 
