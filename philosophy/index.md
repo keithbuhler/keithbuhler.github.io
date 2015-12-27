@@ -4,5 +4,5 @@ layout: default
 ---
 
 - [Philosophy resources](/philosophy/philosophy-resources)
-- Syllabi
-- 
+- [Syllabi](/teaching)
+- [Why Study Philosophy?](/philosophy/philosophy-major-why?)]

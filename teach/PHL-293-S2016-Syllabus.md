@@ -5,18 +5,11 @@ title: PHL 293 S2016 Syllabus
 
 # Syllabus Spring 2016
 
-**PHL 293: Seminar on Wisdom and Virtue**
-**Instructor**: Keith Buhler  
-**Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)    
-**Office Hours:** Tues/Thurs, 12-1pm @ Kinlaw by C. S. Lewis.
-
-
-Instructor: Keith Buhler
-
-[keith.buhler@asbury.edu](emailto:keith.buhler@asbury.edu)
-
-Twitter: @keith_buhler
+**PHL 293: Seminar on Wisdom and Virtue**  
+**Instructor**: Keith Buhler   
+**Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)   
+**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)      
+**Office Hours:** Tues/Thurs, 12-1pm @ Kinlaw by C. S. Lewis.  
 
 ## Course Description: 
 For many people, ‘virtue’ is an obsolete term. Yet in the last 60 years, philosophers have revived an interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). But wisdom is widely counted as a virtue. (Plato, *Republic*). So some modern philosophers have discussed moral *and* intellectual virtues (Cf. Linda Zagzebski, *Virtues of the Mind*). 
@@ -137,10 +130,11 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 
 
 ## Course Outline*
-**T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue
-**R Jan 14:**     SEP Wisdom, Virtue
-**T Jan 19:**     Instructions to Shuruppak; Tao te Ching
-**R Jan 21:**     Ecclesiastes
+**T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue  
+**R Jan 14:**     SEP Wisdom, Virtue  
+**T Jan 19:**     Instructions to Shuruppak; Tao te Ching  
+**R Jan 21:**     Ecclesiastes  
+
 
 
 *(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*

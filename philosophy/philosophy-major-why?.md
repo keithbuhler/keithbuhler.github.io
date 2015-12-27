@@ -4,7 +4,7 @@ University of Kentucky
 keith.buhler@uky.edu  
 http://www.keithbuhler.com  
 
-### Why Study Philosophy?
+### [Why Study Philosophy?](http://www.whystudyphilosophy.com/)
 
 What can I do with a philosophy degree? (Nothing much...except *everything*.)
 
@@ -170,4 +170,4 @@ Then, ask hard questions, read hard books, make hard arguments, and find out whe
 
 - [Edward Tenner](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), Is Philosophy the Most Practical Major, the Atlantic 2011.
 - [University of Idaho](https://www.uidaho.edu/class/philosophy/what-you-can-do)
-- 
+- [Why Study Philosophy?](http://www.whystudyphilosophy.com/)
