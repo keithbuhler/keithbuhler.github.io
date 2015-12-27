@@ -13,7 +13,7 @@ Below are the names and syllabi of classes I have taught, student ratings, and s
 PHL 293: Wisdom and Virtue  ([Syllabus](/teach/PHL-293-S2016))     
 PHI 305: Health Care Ethics ([Syllabus](/teach/PHI-305-S2016-Syllabus))  
 PHL 200: Introduction to Philosophy: Goodness, Truth, and Beauty ([Syllabus](/teach/PHL-200-S2016-Syllabus))
-PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit)
+PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit)  
 PHI 130: Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 PHI 120: Introduction to Logic  
 
