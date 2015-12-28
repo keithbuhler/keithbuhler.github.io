@@ -14,9 +14,10 @@ I’m in the thick of writing a [dissertation](/research) on virtue ethics. In i
 
 Other problems that interest me are those in [philosophy of mind, ancient philosophy, or philosophy of religion.](https://uky.academia.edu/KeithBuhler) My ultimate goal of doing philosophy is to flourish as a human being in community. 
 
-Thanks for visiting; please explore or [send me a note](emailto:keithedbuhler@gmail.com). 
+**Profile links:** 
 
-#### Profile links
-- [U. Kentucky](https://philosophy.as.uky.edu/users/kebu226)
+- [University Kentucky](https://philosophy.as.uky.edu/users/kebu226)
 - [Academia.edu](https://uky.academia.edu/KeithBuhler)
-- [Rate yProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+- [RateMyProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+
+Thanks for visiting; please explore or [send me a note](emailto:keithedbuhler@gmail.com). 
