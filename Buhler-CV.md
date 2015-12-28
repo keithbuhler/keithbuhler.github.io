@@ -11,8 +11,8 @@ University of Kentucky
 562.230.2920  
 
 ### Research Interests 
-Area of Specialization: Ethics (especially Virtue Ethics and Metaethics).   
-Areas of Competence: Ancient Philosophy, Philosophy of Religion, Metaphysics, and Philosophy of Mind.
+*Area of Specialization:* Ethics (especially Virtue Ethics and Metaethics).   
+*Areas of Competence:* Ancient Philosophy, Philosophy of Religion, Metaphysics, and Philosophy of Mind.
 
 ### Education
 2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
@@ -24,7 +24,7 @@ Areas of Competence: Ancient Philosophy, Philosophy of Religion, Metaphysics, an
 Part-Time Instructor, Philosophy Department, Asbury University, 2014-present.  
 Teaching Assistant, Philosophy Department, University of Kentucky, 2012-present.  
 
-### University Teaching Experience
+### Teaching
 Wisdom and Virtue (2016, Asbury)  
 Health Care Ethics   (2015-16, UK)  
 Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16, Asbury)  
@@ -32,13 +32,13 @@ Introduction to Philosophy: Knowledge and Reality (2013-15, UK)
 Introduction to Ethics (2013, UK)  
 Introduction to Logic (2012-13, UK)    
 
-### Academic Presentations
+### Conferences
 2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
 
-### Other Teaching & Leadership Experience
+### Other Teaching and Leadership
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
 2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy, La Mirada CA.  
 2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA.  
@@ -49,8 +49,7 @@ Introduction to Logic (2012-13, UK)
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 2001 (summer) &nbsp;&nbsp; English Teacher, Campus Crusade, Mongolia.  
 
-
-### Professional Affiliations
+### Affiliations
 American Philosophical Association, 2014  
 Society for Medieval & Renaissance Philosophy, 2014  
 Society of Orthodox Philosophers in America, 2014-present  

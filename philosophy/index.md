@@ -16,7 +16,7 @@ title: Philosophy Resources
 
 #### Should I Study Philosophy?
 * [Why Study Philosophy?](http://www.whystudyphilosophy.com)
-* [What can a philosophy major do for me?](/philosophy/philosophy-major-why?)
+* [What can a philosophy major do for me?](/philosophy/what-can-philosophy-do-for-me)
 
 #### What Should I Read Next? 
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
