@@ -1,16 +1,11 @@
 /* Base */
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
 html, body { height: 100%; }
 
 
 body {
     font-family:'Garamond', 'Garamond', 'Baskerville';
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5;
     font-weight: 300;
     margin: 60px auto;
