@@ -6,7 +6,7 @@ title: Philosophy Resources
 
 ## Philosophy Portal ##
 
-<img src="/img/dante2.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
+<img src="/img/fyodoer.jpg" alt="Dosteyevsky" align="right" hspace="20">
 
 #### Students! ####
 
