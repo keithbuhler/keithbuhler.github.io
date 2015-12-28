@@ -19,12 +19,12 @@ Virtue ethicists need solid responses to a variety of objections and worries: Gi
 You can read more about my [dissertation progress](/fun/phd) here.
 
 
-## Other interests ##
+#### Other interests ###
 
 Besides these, other problems that interest me are those in [philosophy of mind, ancient philosophy, or philosophy of religion.](https://uky.academia.edu/KeithBuhler). I've posted some papers, mostly on philosophy of mind, but one is on metaphysics and one on philosophy of religion. My ultimate goal of doing philosophy is to flourish as a human being in community.
 
 
-## Graduate Coursework: 
+#### Graduate Coursework: 
 2015 Ethical Naturalism (Dissertation research)  
 2015 Metaethics (Seminar)   
 2014 Ethics of Bodily Autonomy (Seminar)  

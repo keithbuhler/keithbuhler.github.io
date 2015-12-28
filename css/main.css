@@ -81,11 +81,13 @@ p {
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #d5d5d5;
+  border-bottom: 3px solid #090D5B;
   min-height: 56px;
   background-color: white;
 }
+
+
 
 .site-title,
 .site-title:hover,
