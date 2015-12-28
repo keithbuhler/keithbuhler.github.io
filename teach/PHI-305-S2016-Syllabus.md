@@ -4,7 +4,7 @@ title: 305 Syllabus Spring 2016
 
 ---
 
-**Syllabus, Spring 2016**
+# [Syllabus, Spring 2016](/teach/PHI-305-S2016-Syllabus.pdf)
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  

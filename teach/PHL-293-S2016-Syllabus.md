@@ -3,9 +3,8 @@ layout: noheader
 title: PHL 293 S2016 Syllabus
 ---
 
-# Syllabus Spring 2016
-
-**PHL 293: Seminar on Wisdom and Virtue**  
+# [Syllabus Spring 2016](/teach/PHL-293-S2016-Syllabus.pdf)
+**PHL 293: Wisdom and Virtue**  
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)   
 **Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)      
@@ -129,7 +128,10 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 
 
 
-## Course Outline*
+## Course Outline* ##
+
+<iframe src="https://docs.google.com/spreadsheets/d/17hB4AAS_K7T2vTSn19IXTowU73UFUP_WMnvDWy23fGY/pubhtml?widget=true&amp;headers=false"></iframe>
+
 **T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue  
 **R Jan 14:**     SEP Wisdom, Virtue  
 **T Jan 19:**     Instructions to Shuruppak; Tao te Ching  

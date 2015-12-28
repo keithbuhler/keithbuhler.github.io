@@ -3,7 +3,7 @@ layout: fun
 title: how to get a phd in philosophy
 --- 
 
-[Another page explains my research.](http://keithbuhler.github.io/phd) This post gives some advice on each stage of the process. 
+[Another page explains my research.](/fun/phd) This post gives some advice on each stage of the process. 
 
 ### My Story  ###
 
@@ -11,10 +11,10 @@ In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten
 
 We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my top choice because I wanted to work with David Bradshaw, but the choice was easy. Claremont and University of Chicago offered no funding, no tuition; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. I accepted the offer. 
 
-## Should you get a PhD in philosophy? #
+## Should you get a PhD in philosophy?
 
 
-1. Do you want to go to graduate school? ##
+1. Do you want to go to graduate school?
 
 This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except philosophy. 
 

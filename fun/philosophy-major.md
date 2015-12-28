@@ -19,7 +19,7 @@ What can I do with a philosophy degree? (Nothing much...except *everything*.)
 On the other hand, a philosophy degree has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," and of course -- *all* people by nature desire to know (Aristotle, *Metaphysics* I.1.)
 
 I answer, you should study philosophy for three reasons:   
-(1) philosophy will help you achieve your career goals in law, business, ministry, journalism, counseling, politics, homemaking, education, or academia.   
+(1) philosophy will help you achieve your career goals in law, business, ministry, journalism, counseling, politics, homemaking, education, or academia.  
 (2) philosophy will help you live a successful life and be happy;   
 (3) you love philosophy as an end in itself;  
 
@@ -27,8 +27,10 @@ If one *or more* reasons applies to you, consider a philosophy major or minor. L
 
 
 ## Philosophy as a means to your career goals: 
+3. Since philosophers learn the [“ultimate transferable work skill”](http://www.cep.unt.edu/times.html) they are almost never unemployed.
 1. Philosophy on average [make better money than business majors](http://www.payscale.com/2008-best-colleges/degrees.asp), are [#1 for mid-career growth](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg). 
-3. Since philosophers learn the [“ultimate transferable work skill”](http://www.cep.unt.edu/times.html) they are almost never unemployed. You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you virtually always find fun, challenging, fulfilling jobs, and make plenty doing it — more, in fact, than majors in chemistry, biology, and psychology.
+
+In short, you may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you will always find fun, challenging, fulfilling jobs, and make plenty doing it. — more, in fact, than majors in chemistry, biology, and psychology.
 
 ### SOME RANKINGS OF UNDERGRADUATE DEGREES BY MEDIAN SALARY ###
 
@@ -43,7 +45,7 @@ Communication           |  $ 38,100|  $70,000 |  # 28
 Biology                 |  $38,800 | $64,800  | # 34
 Psychology              |  $35,900 |  $60,400  |   # 39
 
-
+### Philosophy is transferable
 2. Studying philosophy helps you master the most universal and lucrative [job skills]( http://www.forbes.com/2010/02/18/most-important-job-skills-personal-finance-universal.html). Communication, argument, teamwork, creativity, curiosity are the meta-skills — they apply to every discipline and any working professional, including the most important jobs in the world, being a husband or wife, father or mother, lover or friend. 
 - Philosophy study helps you to **communicate**: Good philosophy communicates across languages and cultures across generations, centuries, even millennia. A philosophy major means you have spent hundreds of hours reading, writing, listening to, and making arguments in an attempt to communicate clearly.  
 4. Philosophy helps you to **argue**: [Ideas have consequences.](https://en.wikipedia.org/wiki/Ideas_Have_Consequences) Arguments rule the world — all the practices of government, public policy, business enterprise, scientific advancement, and even religious communities play out in practice the conclusions of good arguments. A philosophy major means you have read and written and understood dozens of dense, complicated, and sophisticated arguments. 
@@ -62,6 +64,8 @@ Psychology              |  $35,900 |  $60,400  |   # 39
 * and Popes (John Paul II)
 
 You can’t say the same for [underwater basket weaving.](https://en.wikipedia.org/wiki/Underwater_basket_weaving) 
+
+### Philosophy is transferable
 
 What other careers is philosophy study good for? 
 
@@ -157,14 +161,14 @@ Moses Znaimer--Owner of CITY-TV and MUCH-MUSIC, Toronto
 
 If you want to play like the best, you have to practice like the best. If one of your heroes is on this list, consider adding a philosophy major or minor to your resume. 
 
-## Philosophy can help you live life and be happy ##
-
 
 ## Philosophy as an end in itself 
 
 Perhaps the most compelling reason to study philosophy is that you are (or think you might be) a philosopher at heart. You can’t help it. 
 
-But that’s not the only reason. You might just need it to launch your career and your life into the direction you’re headed. So go ahead, think about it. Talk to your professor about it. 
+Philosophy can help you live life and be happy. 
+
+So go ahead, think about it. Talk to your professor about it. 
 
 Then, ask hard questions, read hard books, make hard arguments, and find out where it takes you.
 
