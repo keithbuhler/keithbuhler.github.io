@@ -25,7 +25,7 @@ title: Philosophy Portal
 * Practice, practice, practice!   
 
 #### How Do I Get Better at Reading Philosophy? 
-* [Do an "Intentional Reading Project"](http://www.readingintentionally.com)
+* [Do an "Intentional Reading Project"](http://www.readingintentionally.com/p/building-your-list.html)
 * [Learn how to read philosophy](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
 * Read slowly, read over and over, think, and discuss.
 

@@ -130,7 +130,7 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 
 ## Course Outline* ##
 
-<iframe src="https://docs.google.com/spreadsheets/d/17hB4AAS_K7T2vTSn19IXTowU73UFUP_WMnvDWy23fGY/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/17hB4AAS_K7T2vTSn19IXTowU73UFUP_WMnvDWy23fGY/pubhtml?widget=true&amp;headers=false" width="800" height="1200"></iframe>
 
 **T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue  
 **R Jan 14:**     SEP Wisdom, Virtue  
