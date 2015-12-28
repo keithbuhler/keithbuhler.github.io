@@ -1,6 +1,6 @@
 ---
 layout: fun
-title: Speaking Engagement
+title: Speaking Engagements
 ---
 
 ### Need to invite a speaker?  ###
@@ -8,7 +8,6 @@ title: Speaking Engagement
 Keith Buhler would be an excellent speaker at your event. He is a thoughtful, funny, and inspiring communicator who has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and taught middle school, high school, college, and adults. 
 
 [Contact here (subject "speaking engagement info") to learn more.](emailto:keithedbuhler@gmail.com)
-
 
 ### Popular Talks & Public Lectures ###
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   

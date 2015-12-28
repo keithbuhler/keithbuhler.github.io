@@ -8,7 +8,7 @@ title: Anyone?... Buhler...?
 
 <img src="/img/keithbuhler-golden.png" alt="Keith" align="left" hspace="20">
 
-I currently [teach philosophy, health care ethics, and virtue ethics](/teaching) at Asbury University and at the University of Kentucky. I've been an educator for about [14 years](/Buhler-CV) and [really love what I do.](](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+I currently [teach philosophy, health care ethics, and virtue ethics](/teaching) at Asbury University and at the University of Kentucky. I've been an educator for about [14 years](/Buhler-CV) and [really love what I do.]((http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 I’m also currently writing my [dissertation](/research) on virtue ethics. I’m especially interested in dialoging with neo-Aristotelians such as Alasdair MacIntre, Philippa Foot, and John McDowell. I suspect that a defense of "natural teleology" -- properly defined -- is a key to ethical theorizing.
 
