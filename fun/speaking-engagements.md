@@ -1,11 +1,16 @@
 ---
 layout: fun
-title: Speaking
+title: Speaking Engagement
 ---
 
-## Speeches
+### Need to invite a speaker?  ###
 
-### Popular Talks & Public Lectures Delivered ###
+Keith Buhler would be an excellent speaker at your event. He is a thoughtful, funny, and inspiring communicator who has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and taught middle school, high school, college, and adults. 
+
+[Contact here (subject "speaking engagement info") to learn more.](emailto:keithedbuhler@gmail.com)
+
+
+### Popular Talks & Public Lectures ###
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
 2013&nbsp;&nbsp; "Reading is Classical Education", Veritas Christian Academy.  
 2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' *Abolition of Man*", Torrey Academy.   
@@ -21,22 +26,3 @@ title: Speaking
 2009 &nbsp;&nbsp; "Is Theology the 'Science of God'?", Hope Academy.     
 2009 &nbsp;&nbsp; "Sanctification: is it Possible on Earth?", Hope Academy.     
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
-
-
-#### Popular Talks (audio) ####
-
-Coming soon
-
-#### Popular Talks (transcript)
-
-Coming soon
-
-## Speaking Engagements ##
-
-[Need to invite a speaker to your event?](/fun/speaking-engagements)
-
-
-#### Academic Talks (video)
-1. ["Is the Physical Cosmos Closed to Outside Causes?"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
-2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
-3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)

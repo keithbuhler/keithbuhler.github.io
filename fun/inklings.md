@@ -5,6 +5,8 @@ title: The Inklings
 
 <img src="https://goo.gl/photos/m7msWFK4DUJcpZuu6" alt="Inklings">
 
+<img src="/img/gandalf3.jpg" alt="Gandalf Clay">
+
 # The Inklings #
 
 This page is dedicated to the [Inklings](https://en.wikipedia.org/wiki/Inklings). This group of Oxford Dons changed the world. Below are lists of their books for reference, e-texts of some books for download, a survey, and a few links. 

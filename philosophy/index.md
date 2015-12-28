@@ -4,17 +4,15 @@ title: Philosophy Resources
 
 --- 
 
-## Philosophy Resources for Students ##
+## Philosophy Portal ##
 
-<img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
+<img src="/img/dante2.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
 #### Students! ####
 
-* My [email](keith.buhler@uky.edu)
-* My [Twitter](https://twitter.com/Keith_Buhler). 
-* My [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) profile -- let others know how much you enjoyed the class. 
-* An optional ["Get to know you" survey.](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/edit?usp=drive_web) 
-* My [personal page](/fun/) for fiction, art, and more fun stuff.
+- Contact me via [email](keith.buhler@uky.edu), [twitter](https://twitter.com/Keith_Buhler). 
+- Rate me at [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
+- Explore my [personal site](/fun/) for fiction, art, and more fun stuff.
 
 #### Should I Study Philosophy?
 * [Why Study Philosophy?](http://www.whystudyphilosophy.com)
@@ -26,7 +24,8 @@ title: Philosophy Resources
 * [Marcus Aurelius, *Meditations*](http://classics.mit.edu/Antoninus/meditations.1.one.html)
 * [Thomas Aquinas, *Summa Theologica*](http://www.newadvent.org/summa/)
 * [Pascal, *Pensees*](http://www.ccel.org/ccel/pascal/pensees.ii.html)
-* [Thomas Nagel, What Does it All Mean?]()
+* [Thomas Nagel, What Does it All Mean?](http://sjmse-library.sch.ng/E-Books%20Phil/WHAT%20DOES%20IT%20ALL%20MEAN_.pdf)
+* [JP Moreland, The God Question?](https://books.google.com/books?id=o7dGOrvdojUC&pg=PA4&lpg=PA4&dq=the+god+question+moreland&source=bl&ots=wraAQEf13U&sig=U3Ci1yLS92sc7YoM1gCWIgNVKTA&hl=en&sa=X&ved=0ahUKEwj-k_X1jP_JAhVGy2MKHU6bBiMQ6AEISzAG#v=onepage&q=the%20god%20question%20moreland&f=false)
 
 #### What Encyclopedias Should I Refer to?
 * [Stanford Encyclopedia](http://plato.stanford.edu/)

@@ -15,11 +15,20 @@
 2009 &nbsp;&nbsp; "The Possibility of Sanctification", Hope Academy.     
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
-### Other Teaching Experience
-Plato on Truth and Being (2012, Torrey Academy)  
+
+### All classes Taught
+Wisdom and Virtue (2016, Asbury)  
+Health Care Ethics   (2015-16, UK)  
+Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16, Asbury)  
+Introduction to Philosophy: Knowledge and Reality (2013-15, UK)  
+Introduction to Ethics (2013, UK)  
+Introduction to Logic (2012-13, UK)  
+Plato on Truth and Being (2012, Torrey Academy)   
 History of Christian Thought (2008-11, Torrey Academy)  
 History of American Thought (2007-11, Torrey Academy)  
 Socratic Logic (2007-11, Torrey Academy)  
 The Inklings (2008-12, Torrey Academy)   
 The Philosophy of Pain and Suffering (2011, St. Barnabas Church)  
 Goodness, Truth, and Beauty: Christian Worldview (2010, St. George Church)  
+
+

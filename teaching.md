@@ -5,8 +5,6 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
-Below are the names and syllabi of classes I have taught, student ratings, and student feedback. [Students: click here for philosophy resources](/philosophy) 
-
 ### Course Syllabi ### 
 PHL 293: Wisdom and Virtue  ([Syllabus](/teach/PHL-293-S2016))     
 PHI 305: Health Care Ethics ([Syllabus](/teach/PHI-305-S2016-Syllabus))  
@@ -15,11 +13,9 @@ PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://d
 PHI 130: Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 PHI 120: Introduction to Logic  
 
-
 ### Official Student Course Evaluation Statistics
 +  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
 +  3.6 out of 4, cumulative average in overall teaching quality, Asbury University
-
  
 ### Student Feedback Highlights ###
 *  "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
@@ -33,6 +29,9 @@ PHI 120: Introduction to Logic
 * "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
 *  "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
 
+### Philosophy resources ###
+
+[Students, please visit my student portal for philosophy resources.](/philosophy) 
 
 ### Coming soon ###
 
