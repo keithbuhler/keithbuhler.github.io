@@ -10,7 +10,7 @@ title: Philosophy Resources
 
 #### Students! ####
 
-- Contact me via [email](keith.buhler@uky.edu), [twitter](https://twitter.com/Keith_Buhler). 
+- Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 - Rate me at [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
 - Explore my [personal site](/fun/) for fiction, art, and more fun stuff.
 
@@ -33,13 +33,13 @@ title: Philosophy Resources
 * [Mortimer Adler, The Great Ideas Synopticon](http://www.thegreatideas.org/greatideas1.html)
 
 #### How Do I Get Better at Discussing Philosophy?
-* [My featured eHow article (viewed +200,000 times) on How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion)
-* [Making thinking manifest through think alouds, Ann Cahill, Professor of Philosophy, Elon University and Stephen Bloch-Schulman, Associate Professor of Philosophy, Elon University](http://www.elon.edu/e-web/academics/teaching/tlconference/makingThinking.xhtml)
+* [How to Lead a Discussion -- My featured eHow article (viewed +200,000 times)](http://www.wikihow.com/Lead-a-Discussion)
+* [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
 
 #### How Do I Get Better at Reading Philosophy?
+* [How to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
 * [David Concepción, "Reading Philosophy with Background Knowledge and Metacognition", Teaching Philosophy, 27:4, December 2004.](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf)
 * [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
-* [How to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
 * [Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.](http://works.bepress.com/clair_morrissey/4/)
 * [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
 
@@ -49,7 +49,10 @@ title: Philosophy Resources
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, the bad, and the ugly. 
 
-### More Links
+#### Misc Links
 * [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
 
 
+#### I have other questions -- can we talk? ####
+
+I'd love to! Contact me via [email](keith.buhler@uky.edu), or [twitter](https://twitter.com/Keith_Buhler). 
