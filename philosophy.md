@@ -4,12 +4,12 @@ title: Philosophy Portal
 
 --- 
 
-## Philosophy Portal ##
+## Student Portal ##
 
 <img src="/img/fyodor.jpeg" alt="Dosteyevsky" align="right" hspace="20">
 
-#### Students! ####
-- Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
+#### Connect with me! ####
+- Contact via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 - [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
 - Check out my [academic.edu](https://uky.academia.edu/KeithBuhler)
 - Check out my [fiction, art, and more fun stuff](/fun/).
