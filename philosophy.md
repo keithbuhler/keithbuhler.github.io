@@ -6,8 +6,8 @@ title: Philosophy Portal
 
 ## Philosophy Portal ##
 
-#### Studying Philosophy is Good For You
-[I'm glad you're here. Studying philosophy helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major)
+#### Be Glad You're Studying Philosophy
+[It's good for you. It helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major) 
 
 <img src="/img/fyodor.jpeg" alt="Dosteyevsky" align="right" hspace="20">
 
@@ -29,6 +29,11 @@ title: Philosophy Portal
 * [Do an "Intentional Reading Project"](http://www.readingintentionally.com)
 * [Learn how to read philosophy](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
 * Read slowly, read over and over, think, and discuss.
+
+#### How Do I Get Better at Writing Philosophy Papers? ####
+* Learn to argue.
+* Read the instructions for my disputation papers. 
+* Do the opposite of [this](http://www.rinkworks.com/persuasive/)
 
 #### I Just Finished Your Class; What Should I Do? ####
 - Do the Course Evaluation.

@@ -1,24 +1,12 @@
-/* Base */
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html, body { height: 100%; }
-
-
 body {
-    font-family:'Garamond', 'Garamond', 'Baskerville';
-    font-size: 14px;
-    line-height: 1.5;
-    font-weight: 300;
     margin: 60px auto;
     width: 70%;
     background-color: #FAFAFA;
+    font-size: 16px;
+    line-height: 1.5;
+
+
 }
-
-
 nav ul, header ul {
     font-family:'Garamond', 'Garamond', 'Baskerville';
     padding: 2px;
@@ -61,9 +49,10 @@ h2 {
 
 h3 {
     font-size: 1.5em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';}
+    font-family:'Garamond', 'Garamond', 'Baskerville';
 
-h4 {font-size: 1.25em;
+h4 {
+    font-size: 1.25em;
     font-family:'Garamond', 'Garamond', 'Baskerville';
 }
 
@@ -83,43 +72,12 @@ p {
     color: #080D19;
 }
 
-/* Site header */
-
 .site-header {
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: white;
 }
-
-.site-title,
-.site-title:hover,
-.site-title:visited {
-  display: block;
-  color: #333;
-  font-size: 26px;
-  letter-spacing: -1px;
-  float: left;
-  line-height: 56px;
-  position: relative;
-  z-index: 1;
-}
-
-.site-nav {
-  float: right;
-  line-height: 56px;
-}
-
-.site-nav .menu-icon { display: none; }
-
-.site-nav .page-link {
-  margin-left: 20px;
-  color: #727272;
-  letter-spacing: -.5px;
-}
-
-/* Site footer */
-
 
 footer {
     border-top: 1px solid #d5d5d5;
@@ -135,19 +93,11 @@ ul.posts li {
     list-style: none;
 }
 
-/* Page Content styles */
-
 
 .page-content {
   padding: 30px 0;
   background-color: #fff;
 }
-
-/* Page Content styles */
-
-
-
-/* Post styles */
 
 .post-header { margin: 10px 0 30px; }
 
@@ -222,5 +172,3 @@ ul.posts li {
 .post ol { margin-left: 1.35em; }
 
 .post pre code { border: none; }
-
-/* Post styles */

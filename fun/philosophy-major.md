@@ -30,18 +30,18 @@ If one *or more* reasons applies to you, consider a philosophy major or minor. L
 1. Philosophy on average [make better money than business majors](http://www.payscale.com/2008-best-colleges/degrees.asp), are [#1 for mid-career growth](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg). 
 3. Since philosophers learn the [“ultimate transferable work skill”](http://www.cep.unt.edu/times.html) they are almost never unemployed. You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you virtually always find fun, challenging, fulfilling jobs, and make plenty doing it — more, in fact, than majors in chemistry, biology, and psychology.
 
-### SOME RANKINGS OF UNDERGRADUATE DEGREES BY MEDIAN SALARY
-| Degree |        Starting | Mid-Career |         Rank |
----------|------------------|-----------|--------------|
-Chemical Engineering  |  $63,200 | $107,000  |  # 1
-Mathematics           |  $45,400 | $92,400  | # 10
-**Philosophy**            |  **$39,900** | **$81,200**  | **# 16**
-Accounting            |  $46,000 | $77,100  | # 22
-Business Management   |  $43,000 | $72,100 |  # 25
-History               |  $39,200 | $71,000 |  # 27
-Communication         |  $ 38,100|  $70,000 |  # 28
-Biology               |  $38,800 | $64,800  | # 34
-Psychology            |  $35,900 |  $60,400  |   # 39
+### SOME RANKINGS OF UNDERGRADUATE DEGREES BY MEDIAN SALARY ###
+
+| Degree                |        Starting  | Mid-Career |         Rank |
+|-----------------------|------------------|------------|--------------|
+Chemical Engineering    |  $63,200 | $107,000  |  # 1
+Mathematics             |  $45,400 | $92,400  | # 10
+**Philosophy**          |  **$39,900** | **$81,200**  | **# 16**
+Accounting              |  $46,000 | $77,100  | # 22
+Business Management     |  $43,000 | $72,100 |  # 25
+Communication           |  $ 38,100|  $70,000 |  # 28
+Biology                 |  $38,800 | $64,800  | # 34
+Psychology              |  $35,900 |  $60,400  |   # 39
 
 
 2. Studying philosophy helps you master the most universal and lucrative [job skills]( http://www.forbes.com/2010/02/18/most-important-job-skills-personal-finance-universal.html). Communication, argument, teamwork, creativity, curiosity are the meta-skills — they apply to every discipline and any working professional, including the most important jobs in the world, being a husband or wife, father or mother, lover or friend. 
