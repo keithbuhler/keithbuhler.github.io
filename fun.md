@@ -46,7 +46,7 @@ This page is a conglomoration of all the fun projects I'm working on. You can ge
 
 #### [Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun/inklings)
 
-#### [U.K. Comprehensive Exam readings](/philosophy/comps)
+#### [U.K. Comprehensive Exam readings](/philo/uk-comps)
 
 #### [162 Hours, a time management tool](http://keithbuhler.com/goals/)
  

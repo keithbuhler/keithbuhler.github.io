@@ -15,7 +15,7 @@ title: Philosophy Portal
 - Check out my [fiction, art, and more fun stuff](/fun/).
 
 #### Should I Major in Philosophy? ####
-* [What can a philosophy major can do you.](/fun/philosophy-major)
+* [What can a philosophy major can do you.](/philo/philosophy-major)
 * [Why (almost) everyone should study philosophy.](http://www.whystudyphilosophy.com)
 
 #### What Should I Read Next?  ####
