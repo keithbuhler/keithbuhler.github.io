@@ -6,7 +6,7 @@ title: Philosophy Portal
 
 ## Philosophy Portal ##
 
-<img src="/img/fyodor.jpg" alt="Dosteyevsky" align="right" hspace="20">
+<img src="/img/fyodor.jpeg" alt="Dosteyevsky" align="right" hspace="20">
 
 #### Students! ####
 - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
@@ -16,7 +16,7 @@ title: Philosophy Portal
 #### Should I Major in Philosophy? ####
 You should consider it if you love philosophy, or if you want to make more money in business than business majors:  
 
-* [What can a philosophy major do for me?](/philosophy/philosophy-major) Here's my answer.
+* [What can a philosophy major do for me?](/fun/philosophy-major) Here's my answer.
 * [Why Study Philosophy?](http://www.whystudyphilosophy.com) Here's a great big bunch of answers from others.
 
 #### What Should I Read Next?  ####
