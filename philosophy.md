@@ -6,15 +6,38 @@ title: Philosophy Portal
 
 ## Philosophy Portal ##
 
+#### Studying Philosophy is Good For You
+[I'm glad you're here. Studying philosophy helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major)
+
 <img src="/img/fyodor.jpeg" alt="Dosteyevsky" align="right" hspace="20">
+
+#### I Just Joined Your Class; What Should I Do? ####
+* Read the [syllabus](/teaching)
+* Take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
+* Send me an email introducing yourself!
+
+#### I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
+* [Internet Encyclopedia](http://www.iep.utm.edu/) for medium difficulty introductions to a topic, thinker, or school of thought. Much better than just googling it!
+* [Stanford Encyclopedia](http://plato.stanford.edu/) for rigorous, difficult introductions to the same. 
+
+#### I'm In Your Class; How Do I Get Better at Discussing Philosophy? ####
+* [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed +200,000 times)
+* [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
+* Practice, practice, practice!   
+
+#### How Do I Get Better at Reading Philosophy? 
+* [Do an "Intentional Reading Project"](http://www.readingintentionally.com)
+* [Learn how to read philosophy](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
+* Read slowly, read over and over, think, and discuss.
+
+#### I Just Finished Your Class; What Should I Do? ####
+- Do the Course Evaluation.
+- Also, [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
+- [Email me or set up an appointment](emailto:keith.buhler@uky.edu) to share criticism, compliments, or other comments.
 
 #### I Kinda Like Philosophy; Should I Major in it? ####
 * [What a philosophy degree can do for you: a good job, higher salary than business degree, and answers to life's deepest questions](/fun/philosophy-major)
 * [Why (almost) everyone should study philosophy.](http://www.whystudyphilosophy.com)
-
-#### I'm Interested in X; Where Should I Start? ####
-* [Internet Encyclopedia](http://www.iep.utm.edu/) for medium difficulty introductions to a topic, thinker, or school of thought. Much better than just googling it!
-* [Stanford Encyclopedia](http://plato.stanford.edu/) for rigorous, difficult introductions to the same. 
 
 #### I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
@@ -26,22 +49,12 @@ title: Philosophy Portal
 * [JP Moreland, *The God Question*](https://books.google.com/books?id=o7dGOrvdojUC&pg=PA4&lpg=PA4&dq=the+god+question+moreland&source=bl&ots=wraAQEf13U&sig=U3Ci1yLS92sc7YoM1gCWIgNVKTA&hl=en&sa=X&ved=0ahUKEwj-k_X1jP_JAhVGy2MKHU6bBiMQ6AEISzAG#v=onepage&q=the%20god%20question%20moreland&f=false)
 
 
-#### How Do I Get Better at Discussing Philosophy? ####
-* [How to Lead a Discussion](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed +200,000 times)
-* [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
-* Practice, practice, practice!   
-
-#### How Do I Get Better at Reading Philosophy? 
-* [Do an Intentional Reading Project](http://www.readingintentionally.com)
-* [Learn how to read philosophy](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.]
-* Read slowly, read over and over, think, and discuss.
-
-
 #### I'm Serious, I *Really* Love Philosophy; What Should I Read Next? ####
 * [Plato, Parmenides]
 * [Aristotle, Metaphysics]
 * [Thomas Aquinas, *Summa Theologica*](http://www.newadvent.org/summa/)
 * [Kant, Metaphysics of Morals]
+
 
 #### What is It Like to Be a Professional Academic? ####
 * [Here's my story](/fun/phd-how-to) about deciding, applying, and working through graduate school.
@@ -61,7 +74,6 @@ title: Philosophy Portal
 
 #### I have other questions -- can we talk? ####
 - Contact via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
-- [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
 - Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
 - Check out some of my [fiction, nonfiction, art, and more fun stuff](/fun/).
 
