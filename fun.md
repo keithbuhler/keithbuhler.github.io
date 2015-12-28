@@ -14,11 +14,9 @@ This page is a conglomoration of all the fun projects I'm working on. You can ge
 
 #### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings) 
 
-#### [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/fun/speaking)
-
 #### [My Blog -- the "Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com) ####
 
-#### [My inklings.info site -- ebooks, lists, and other resources on the Oxford Dons who changed the world](/fun/inklings) ####
+#### [My "Inklings.info" Site -- ebooks, lists, and other resources on the Oxford Dons who changed the world](/fun/inklings) ####
 
 #### [My Biography](/fun/bio) ####
 
@@ -42,6 +40,8 @@ This page is a conglomoration of all the fun projects I'm working on. You can ge
 
 #### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) ####
 
+#### [What a philosophy degree can do for you](/fun/philosophy-major)
+
 ## Fun Stuff in development ##
 
 
@@ -58,6 +58,8 @@ This page is a conglomoration of all the fun projects I'm working on. You can ge
 #### [My new (empty) blog](http://keithbuhler.github.io./blog) ####
 
 #### [Writing tools](/fun/writing-tools)
+
+#### [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/fun/speaking)
 
 #### Politics -- coming soon ####
 

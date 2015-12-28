@@ -1,4 +1,9 @@
-Keith E. D. Buhler  
+---
+layout: default
+title: What a Philosophy Degree Can Do For You
+---
+
+[Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  
 University of Kentucky  
 keith.buhler@uky.edu  
