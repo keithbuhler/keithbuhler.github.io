@@ -3,7 +3,7 @@ layout: fun
 title: how to get a phd in philosophy
 --- 
 
-[Another page explains my research.](http://circularreason.github.io/phd) This post gives some advice on each stage of the process. 
+[Another page explains my research.](http://keithbuhler.github.io/phd) This post gives some advice on each stage of the process. 
 
 ### My Story  ###
 
@@ -16,14 +16,18 @@ We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my to
 
 1. Do you want to go to graduate school? ##
 
-This is the difficult discernment decision. Why go to grad school? [There are no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except philosophy. 
+This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except philosophy. 
+
+Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for all kinds of interests and abilities, but you don't want to kid yourself. 
+
+Some study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university. 
 
 
 ### 2. If so, MA or PHD? ##
 
-[MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  But they extend your total time to job market from average 7 years to average 9 years. 
+[MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  But they extend your total time to job market from average 7 years to average 9 years. The end goal is to learn a lot, hone your writing, get good recommendations (for PhD applications) or move on to your career. 
 
-[PhDs, in general, get you on the job market in average 7 years.](http://www.nsf.gov/statistics/infbrief/nsf06312/) They often pay you to teach or research along the way. 
+[PhDs, in general, get you on the job market in average 7 years.](http://www.nsf.gov/statistics/infbrief/nsf06312/) They often pay you to teach or research along the way. The end goal is to become a professor and/or researcher at a university. 
 
 ### 3. How do you best apply? ##
 
@@ -119,6 +123,8 @@ Example 2 - 200 pages, 5 chapters, 40 pages each, 10,000 words per chapter.
 Example 3 - 300 pages, 5 chapters, 60 pages each, 15,000 words per chapter. 
 Example 4 - 300 pages, 8 chapters, 37 pages each, 9,200 words per chapter.
 
+
+## Coming soon ##
 
 
 #### Retrospective #
