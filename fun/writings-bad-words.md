@@ -10,7 +10,8 @@ title: Bad Words
 ## Introduction
 
 "When I was a kid, I was fascinated by bad words." -Everyone
-Two Questions
+
+### Two Questions
 
 I used to be fascinated by bad words. Not so much anymore. Part of the fascination of bad words is the transgressive nature of using them. They are forbidden, therefore interesting. Now, no one much cares if one uses bad words, though it can lower people's opinion of you. But still a few puzzling questions remain. What puzzled me as a child and puzzles me now is two questions: what makes the Big Bad Words worse than others? And what property or properties makes bad words bad?
 
@@ -18,7 +19,7 @@ Take the first question: Why is “crap” a marginally bad word, absolutely for
 
 Take the second question: There are a range of ways we use bad words: what (if anything) is the difference between cussing, swearing, cursing, making an oath, profanity, obscenity, vulgarity, and just plain ol’ bad language? In my youth, these verbs and nouns were used interchangably. Or, perhaps, at the time, I was not sensitive to the subtle distinctions. But even now I hear people use them synonymously, as if saying the S Word is swearing, cussing, and cursing, and profane. What is extension of each concept, and do they overlap? If so, where?
 
-## An Apology
+### An Apology
 
 First, I must apologize for even writing this essay. Now, to us moderns an “apology” means admitting wrong and expressing your sorrow.
 
@@ -28,12 +29,12 @@ But classically, an apologia means asserting you are right and defending your po
 
 So here goes: There are two puzzles that have bothered me when I think about bad language. If there is a question worth asking, it’s a question worth answering, even if it drags us a bit through the linguistic mud. Is this a question worth answering? I hope you will keep reading before you decide. I want to offer a speculative answer as to the different types of bad word (vulgarities, profanities, etc.). As for what makes bad words bad, I will offer a few thoughts, but really it demands a much richer and more complex study of anthropology, philology, lingustics, culture, and history.
 
-## A bit of background
+### A bit of background
 
 Those who will take up with interest an essay on bad words may not demand that I admit wrongdoing. Those who take it up with disgust (but continue reading for some reason) may ignore any philosophical justification and speculate as to my psychological motives. (They might posit, for instance, that the present writer suffers from a juvenile and puerile sense of humor. And they would be right.) But they might also posit a debased and desensitised imagination that does not even see the impropriety of discussing, with a pseudo-scientific detachment, potty language. They would be wrong. In order to forestall such armchair psychoanalysis, I will psychoanalyze myself to a minimal extent. I grew up in a white, Anglo-Saxon, Protestant household in which my father never cussed. Once I heard my dad utter the word “damn” while under great stress, and the moment is burned into my memory. I thought perhaps the world was ending. My mom did not bide rude words like “that sucks” or “shut up” or even “oh my God.” Eventually “crap” was permitted by the sheer force of our using it, though she would frown with disapproval. In our house, words for body parts were politely medical: boys had penises, women had breasts and vaginas. My dad included the occasionally risque joke (which he called “earthy”) within his endless stream of jokes, but they were always drowned out by other cleaner jokes. We never watched the dirtiest of movies, told the dirtiest of jokes, or used foul language freely. My six siblings and I were mostly schooled at home. This limited the inevitable exposure to dirty words and concepts that results from prolonged exposure to one’s peers. My brothers, more than my schoolmates, taught me what “bad words” I knew. And the “bad words” on our sacred list of bad words was short. (Perhaps “profane list”.) With that said, I hope my little discussion can attain some scientific objectivity and achieve some scientific results.
 
 
-## Bad Words
+### Bad Words
 
 First, how many bad words are there? There are lots of bad words: rude synonyms for for feces, for coitus, for flatuation, as well as insults, curses, or racial slurs of all kinds. But I am especially interested in what is typically called “cussing”.
 
@@ -69,7 +70,7 @@ The other plausible answer is that bad words are “aesthetically bad.” They a
 The best guess I can offer to make sense of this is that bad words are first and foremost bad aesthetically. Bad words, cuss words, are ugly words. They are useful for ugly purposes (like exclaiming, cursing, or shocking) but they cannot gracefully adorn gentle and noble purposes. Secondly, bad words can be bad morally and reflect the badness of the speaker. The relation between aesthetic ugliness and moral badness is a complex one. A dingy, disgusting drug dealer’s den is both dirty and despicable… but some beautiful things are wicked (billboards) and some ugly things are noble (wrinkly old women).
 
 
-## Cussing versus Swearing, and more
+### Cussing versus Swearing, and more
 
 Now I shall offer an analysis of different activities that need to be distinguished.
 

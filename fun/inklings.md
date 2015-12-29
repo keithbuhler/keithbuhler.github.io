@@ -3,13 +3,13 @@ layout: fun
 title: The Inklings
 ---
 
-<img src="https://goo.gl/photos/m7msWFK4DUJcpZuu6" alt="Inklings">
+<img src="https://s-media-cache-ak0.pinimg.com/originals/1d/bb/8c/1dbb8ca335236ef015d7fa82fb9ed79f.jpg" alt="Inklings">
 
-<img src="/img/gandalf3.jpg" alt="Gandalf Clay">
+<img src="https://keithbuhler.github.io/img/gandalf3.jpg" alt="Gandalf Clay">
 
 # The Inklings #
 
-This page is dedicated to the [Inklings](https://en.wikipedia.org/wiki/Inklings). This group of Oxford Dons changed the world. Below are lists of their books for reference, e-texts of some books for download, a survey, and a few links. 
+This page (under construction) is dedicated to the [Inklings](https://en.wikipedia.org/wiki/Inklings). This group of Oxford Dons changed the world. Below are lists of their books for reference, e-texts of some books for download, a survey, and a few links. 
 
 ## Intro ##
 
@@ -69,14 +69,18 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 
 
 ## Influences ##
-
-
 George MacDonald ([Father of Inklings](http://fatheroftheinklings.com/))
+
 G.K. Chesterton
+
 Plato
+
 Dante
+
 Norse Mythology
+
 [Lewis' Favorite Books](http://www.scriptoriumnovum.com/l/books.html)
+
 [Books the Inklings read](http://www.sonic.net/mary/DejaLew-dir/rants/syl-books.htm)
 
 ## Survey
@@ -90,45 +94,37 @@ There are lots of good materials on the Inklings. These are a few of my favorite
 * [Peter Kreeft's writings on the Inklings](http://www.peterkreeft.com/featured-writing.htm)
 * [Malcom Guite's excellent lecture series on the Inklings as prophets](https://malcolmguite.wordpress.com/2011/11/04/the-inklings-fantasists-or-prophets-the-complete-set/)
 * [My lecture on Dorothy Sayers' *Gaudy Night* and the vice of "Vainglory"](https://www.dropbox.com/s/baq7fde4kavyvb5/CL%20Keith%20Buhler-Harriet%20Vane-Glory.mp3?dl=0) and [Q&A](https://www.dropbox.com/s/95yi0s2yjzdbgdz/CL%20Keith%20Buhler-Harriet%20Vane-Glory%20%28Q%26A%29.mp3?dl=0)
-* Inklings Hub name brainstorm
 
-## Name Brainstorm
-Inklings Source
-Hub for Inklings 
-Source For Inklings
-The Inklings Hub
-The Inklings Thinkings
 
-The Thinking Inkling
-
-The Inklings Resource
-
-Resource Inklings
-
-Guide to Inklings
-
-the-oxford-inklings
-
-WarddrobeInklings
-MiddleEarthInklings
-
+## Inklings Societies
 [Charles Williams Society](http://www.charleswilliamssociety.org.uk/)
+
 [The Oddest Inkling](https://theoddestinkling.wordpress.com/about/)
+
 [CS Lewis Foundation](http://www.cslewis.org/)
+
 [CS Lewis Society](https://sites.google.com/site/lewisinoxford/aboutthesociety)
+
 [Mythpoeic Society](http://www.mythsoc.org/)
+
 [Inklings Study](https://inklings-studies.org/)
+
 [Narnia.com]( https://www.narnia.com/us)
+
 [American Chesterton Society](http://www.chesterton.org/)
 
 
 ### Second tier ###
-[Inkling Books](http://www.inklingbooks.com/inklingbooks/cslewis/cslewis.html) A miniature indepednet publisher
+[Inkling Books](http://www.inklingbooks.com/inklingbooks/cslewis/cslewis.html) A miniature indepedent publisher
 
 ## Books about ##
 
 [J.R.R. Tolkein, Author of the Century](http://amzn.to/1OQTAcI)
-[http://amzn.to/1OQVFFD]
+
+[The Oxford Inklings](http://amzn.to/1OQVFFD)
+
 [Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/)
+
 [CS Lewis and his Circle](http://amzn.to/1OQW2Qv)
+
 [Rowan Williams, The Lion's World: A Journey Into the Heart of Narnia](http://amzn.to/1PqmYLw) Former Archbishop of Canterbury Rowan Williams offers fascinating insight into The Chronicles of Narnia, the popular series of novels by one of the most influential Christian authors of the modern era, C. S. Lewis.

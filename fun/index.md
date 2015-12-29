@@ -5,7 +5,7 @@ title: Keith Buhler's Personal Website
 
 *Flesh knows; but spirit knows it knows" Charles Williams*
 
-<img src="http://lorempixel.com/image_output/nature-q-c-800-4500-4.jpg" alt="nature shot" align="center" hspace="20">
+<img src="http://lorempixel.com/image_output/nature-q-c-800-450-8.jpg" alt="Trees" align="center" hspace="20">
 
 Welcome to my personal home page. I'm Keith Buhler, [a philosopher](/) at Asbury University and the University of Kentucky. 
 
@@ -27,10 +27,9 @@ This site is a conglomoration of all the fun projects I'm working on. You can ge
 * [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
 * [What a philosophy degree can do for you](/fun/philosophy-major)
 
-## Fun Stuff in development ##
+## In Development ##
 
 * [My Beard -- a 3-step how-to guide](/fun/beard)
-* [U.K. Comprehensive Exam readings](/fun/uk-comps)
 * [162 Hours, a time management tool](http://keithbuhler.com/goals/)
 * [80 year lifetimes, a fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0)
 * [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
