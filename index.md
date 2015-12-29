@@ -4,11 +4,11 @@ title: Anyone?... Buhler...?
 
 --- 
 
-### Hi, I'm Keith Buhler
+### Keith Buhler's Professional Philosophy Page
 
 <img src="/img/keithbuhler-golden.png" alt="Keith" align="left" hspace="20">
 
-I currently [teach philosophy and ethics](/teaching) at Asbury University and at the University of Kentucky. I've been an educator for about [14 years](/Buhler-CV) and really love what I do. (Students, please visit the [philosophy portal](/philosophy).)
+Hi, I'm Keith Buhler. I currently [teach philosophy and ethics](/teaching) at Asbury University and at the University of Kentucky. I've been an educator for about [14 years](/Buhler-CV) and really love what I do. (Students, please visit the [philosophy portal](/philosophy).)
 
 I’m in the thick of writing a [dissertation](/research) on virtue ethics. In it I argue for and against the neo-Aristotelian virtue ethicists such as Alasdair MacIntre, Philippa Foot, and John McDowell. I suspect that a successful defense of "natural teleology" -- properly defined -- is a key to ethical theorizing.
 
