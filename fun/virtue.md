@@ -61,14 +61,39 @@ For various reasons -- some historical, some sociological -- many are simply una
 
 For other reasons -- some philosophically robust and quite difficult, others merely prejudicial -- some academics deny the truth of my view and are opposed to it. For such, a detailed presentation of their objections and discussion of the merits of the view 
 
+## In more detail ##
+
+
+### What is Virtue?  ###
+In this section I discuss a few prominent accounts of virtue before supplying my own. 
+
+### What is practical reason? ###
+In this section, I discuss a few prominent controversies about practical reason and rationality and supply my own answer. 
+
+### What is happiness? ###
+In this section, I discuss a few controversies surrounding the notion of happiness and supply a plausible answer. 
+
+### What is our telos? ###
+Building on the previous section, in this section I clear away misconceptions about 'natural teleology', building a novel account that draws on philosophy, biology, cosmology, and psychology. 
 
 
 ### Objections ###
 
-1. There are no virtues, because there are no stable character traits (Gilbert Harman).
- 
+#### There are no virtues, because there are no stable character traits (Gilbert Harman).
+
+**Objection:**
+
 >The most recent objection (vii) to virtue ethics claims that work in “situationist” social psychology shows that there are no such things as character traits and thereby no such things as virtues for virtue ethics to be about (Doris 1998; Harman 1999). But virtue ethicists claim in response that the social psychologists' studies are irrelevant to the multi-track disposition (see above) that a virtue is supposed to be (Sreenivasan 2002). Mindful of just how multi-track it is, they agree that it would be reckless in the extreme to ascribe a demanding virtue such as charity to people of whom they know no more than that they have exhibited conventional decency; this would indeed be “a fundamental attribution error.” There have been other responses as well (summarized helpfully in Prinz 2009), notably that of Adams, echoing Merritt (Merritt 2000; Adams 2006). Adams steers a middle road between “no character traits at all” and the exacting standard of the Aristotelian conception of virtue which, because of its emphasis on phronesis, requires a high level of character integration. On his conception, character traits may be “frail and fragmentary” but still virtues, and not uncommon. But giving up the idea that practical wisdom is the heart of all the virtues, as Adams has to do, is a substantial sacrifice, as Kamtekar (2010) argues. 
 > Even though the “situationist challenge” has left traditional virtue ethicists unmoved, it has generated a healthy engagement with empirical psychological literature amongst them (Russell 2009 Part III; Annas 2011), which has also been fuelled by the growing literature on Foot's Natural Goodness and, quite independently, an upsurge of interest in character education (see below).[@sepvirtue]
+
+**Answer:**
+Aristotle's psychology: 
+>"Next we must consider what virtue is. Since things that are found in the soul are of three kinds- passions, faculties, states of character, virtue must be one of these. By passions I mean appetite, anger, fear, confidence, envy, joy, friendly feeling, hatred, longing, emulation, pity, and in general the feelings that are accompanied by pleasure or pain; by faculties the things in virtue of which we are said to be capable of feeling these, e.g. of becoming angry or being pained or feeling pity; by states of character the things in virtue of which we stand well or badly with reference to the passions, e.g. with reference to anger we stand badly if we feel it violently or too weakly, and well if we feel it moderately; and similarly with reference to the other passions. 
+Now neither the virtues nor the vices are passions, because we are not called good or bad on the ground of our passions, but are so called on the ground of our virtues and our vices, and because we are neither praised nor blamed for our passions (for the man who feels fear or anger is not praised, nor is the man who simply feels anger blamed, but the man who feels it in a certain way), but for our virtues and our vices we are praised or blamed. 
+Again, we feel anger and fear without choice, but the virtues are modes of choice or involve choice. Further, in respect of the passions we are said to be moved, but in respect of the virtues and the vices we are said not to be moved but to be disposed in a particular way. 
+For these reasons also they are not faculties; for we are neither called good nor bad, nor praised nor blamed, for the simple capacity of feeling the passions; again, we have the faculties by nature, but we are not made good or bad by nature; we have spoken of this before. If, then, the virtues are neither passions nor faculties, all that remains is that they should be states of character."[@aristotle NE II.5]
+
+Virtue is not a passion nor a faculty but a state of character. 
 
 2. The pursuit of virtue is selfish or egoistic (Hursthouse, citing?); 
 "-(vi) The egoism objection has a number of sources. One is a simple confusion. Once it is understood that the fully virtuous agent characteristically does what she should without inner conflict, it is triumphantly asserted that “she is only doing what she wants to do and is hence being selfish.” So when the generous person gives gladly, as the generous are wont to do, it turns out she is not generous and unselfish after all, or at least not as generous as the one who greedily wants to hang on to everything she has but forces herself to give because she thinks she should! A related version ascribes bizarre reasons to the virtuous agent, unjustifiably assuming that she acts as she does because she believes that acting thus on this occasion will help her to achieve eudaimonia. But “the virtuous agent” is just “the agent with the virtues” and it is part of our ordinary understanding of the virtue terms that each carries with it its own typical range of reasons for acting. The virtuous agent acts as she does because she believes that someone's suffering will be averted, or someone benefited, or the truth established, or a debt repaid, or ... thereby."
@@ -86,21 +111,3 @@ For other reasons -- some philosophically robust and quite difficult, others mer
 11. The notion of a "human telos" is facistic. 
 12. The notion of virtue is inherently racist, sexist, classist, and elitist. 
 13. Virtue accounts are culturally relative (MacIntyre responds; Solomon responds, Nussbaum responds;)
-
-
-## In more detail ##
-
-
-### What is Virtue?  ###
-In this section I discuss a few prominent accounts of virtue before supplying my own. 
-
-### What is practical reason? ###
-In this section, I discuss a few prominent controversies about practical reason and rationality and supply my own answer. 
-
-### What is happiness? ###
-In this section, I discuss a few controversies surrounding the notion of happiness and supply a plausible answer. 
-
-### What is our telos? ###
-Building on the previous section, in this section I clear away misconceptions about 'natural teleology', building a novel account that draws on philosophy, biology, cosmology, and psychology. 
-
-
