@@ -11,7 +11,7 @@ title: PHL 293 S2016 Syllabus
 **Office Hours:** Tues 3-4, Kinlaw Library by Lewis Corner.
 
 ### Course Description: 
-For many people, ‘virtue’ is an obsolete term. Yet in the last 60 years, philosophers have revived an interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). But wisdom is widely counted as a virtue. (Plato, *Republic*). So some modern philosophers have discussed moral *and* intellectual virtues (Cf. Linda Zagzebski, *Virtues of the Mind*). 
+For many people, ‘virtue’ is an obsolete term. Yet in the last 60 years, philosophers have revived interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). But wisdom is widely counted as a virtue. (Plato, *Republic*). So some modern philosophers have discussed moral *and* intellectual virtues (Cf. Linda Zagzebski, *Virtues of the Mind*). 
 
 Wisdom and virtue, far from being old-fashioned terms, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Job); one of the seven or so Biblical genres is wisdom literature; Luke says that Jesus grew in wisdom and stature (2:52). Historically, philosophers have been closely associated with wisdom — after all, ‘philosophy’ is an English transliteration of the Greek term philosophia which means, roughly, love of wisdom. The revival of interest in virtue and wisdom seems a happy fact, since Biblically, we are commanded to “add to our faith virtue” (2 Pet 1).
 
@@ -39,7 +39,10 @@ To answer these, our goals are:
 Scope and Sequence: To accomplish these goals, this 16-week course is divided into into about 8 units of 2 weeks each.  Unit work consists of three components: (a) readings and class preparation (b) participation in interactive lectures and discussion, and (c) disputation papers. 
 
 
-### Course Outline (online)
+### Course Outline (online) ###
+
+*(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
+
 
 <iframe src="https://docs.google.com/spreadsheets/d/17hB4AAS_K7T2vTSn19IXTowU73UFUP_WMnvDWy23fGY/pubhtml?widget=true&amp;headers=false" width="1000" height="1000"></iframe>
 
@@ -62,12 +65,18 @@ C   = 74% - 76%  |   C-  = 70% -73%
 D  = 69% - 60%   |  F  < 59%  
 
 
-### Readings
-(Readings are subject to slight changes.)
+### Books
+*(Readings are subject to slight changes.)*
 
+1. [Aristotle, *Nicomachena Ethics*](http://amzn.to/22wHa3T)
+2. [Hursthouse, *On Virtue Ethics*](http://amzn.to/22wHhMI)
+3. [Crisp and Slote, Virtue Ethics (Oxford)](http://amzn.to/1mopfvb)
+
+
+### [Handouts](https://drive.google.com/folderview?id=0B0CYQDZ8AWu8c1VxY1ZkelhHdms&usp=sharing)
 1. [Instructions to Shurappag](http://etcsl.orinst.ox.ac.uk/section5/tr561.htm)
-2. [Tao Te Ching]
-3. [Evagrius Pontus]
+2. [Tao Te Ching](https://drive.google.com/open?id=0B0CYQDZ8AWu8QUxtdnNGUHBfWlk)
+3. [Evagrius Pontus, Eight Deadly Thoughts]
 4. [Dante, The Banquet]
 5. [Thomas Aquinas]
 
@@ -128,14 +137,3 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 7. **Make up work** is not accepted after the due date. It must be submitted within a week of an excused absence, with written consent. Let me know if you are going to be absent for any reason.
 9. **Enjoy philosophy**. We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it. 
 8. Plagiarism has been an issue. Even unintentional plagiarism earns a zero for the assignment and, in intentional or egregious cases, failing the course and receiving a permanent mark on your academic record. You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. 
-
-
-
-**T Jan 12:**     Syllabus; Discussion of OED Wisdom, Virtue  
-**R Jan 14:**     SEP Wisdom, Virtue  
-**T Jan 19:**     Instructions to Shuruppak; Tao te Ching  
-**R Jan 21:**     Ecclesiastes  
-
-
-
-*(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*

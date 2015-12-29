@@ -5,7 +5,7 @@ title: The Inklings
 
 <img src="https://s-media-cache-ak0.pinimg.com/originals/1d/bb/8c/1dbb8ca335236ef015d7fa82fb9ed79f.jpg" alt="Inklings">
 
-<img src="https://keithbuhler.github.io/img/gandalf3.jpg" alt="Gandalf Clay">
+<img src="/User/KEDB/Documents/keithbuhler.github.io/img/gandalf3.JPG" alt="Gandalf Clay">
 
 # The Inklings #
 
