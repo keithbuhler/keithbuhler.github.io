@@ -5,7 +5,7 @@ title: Fun Stuff Home
 
 *Flesh knows; but spirit knows it knows" Charles Williams*
 
-<img src="http://lorempixel.com/image_output/nature-q-c-1000-500-4.jpg" alt="Keith" align="center" hspace="20" height="500" width="1000">
+<img src="http://lorempixel.com/image_output/nature-q-c-800-4500-4.jpg" alt="nature shot" align="center" hspace="20">
 
 Welcome to my personal home page. I'm Keith Buhler, [a philosopher](/) at Asbury University and the University of Kentucky. 
 
