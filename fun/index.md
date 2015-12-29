@@ -1,71 +1,45 @@
 ---
 layout: fun
-title: Fun Stuff Home
+title: Keith Buhler's Personal Website
 ---
 
-<img src="http://lorempixel.com/image_output/nature-q-c-1000-500-4.jpg" alt="Keith" align="center" hspace="20" height="500" width="1000">
+*Flesh knows; but spirit knows it knows" Charles Williams*
 
+<img src="http://lorempixel.com/image_output/nature-q-c-800-4500-4.jpg" alt="nature shot" align="center" hspace="20">
 
-**Flesh knows; but spirit knows it knows" Charles Williams**
+Welcome to my personal home page. I'm Keith Buhler, [a philosopher](/) at Asbury University and the University of Kentucky. 
 
-This page is a conglomoration of all the fun projects I'm working on. You can get to know me, read some writings, or explore other resources you might find of interest. 
+This site is a conglomoration of all the fun projects I'm working on. You can get to know me, read some of my nonfiction, fiction, screenplays, humor, and explore other resources you might find of interest. 
 
-## Fun Stuff ##
-
-#### [My Writings -- fiction, screenplays, verse, and satire](/fun/writings) 
-
-#### [My Speeches -- graduations, public talks, etc. ](/fun/speaking)
-
-#### [My blog -- the "Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com)
-
-#### [My Biography](/fun/bio) ####
-
-#### [My Beard -- a 3-step how-to guide](/fun/beard) ####
-
-#### [My PhD research proposals and early chapters](/fun/phd)
-
-#### [My Art work -- drawings, pumpkins, etc.](/fun/art)
-
-#### [My book -- *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
-
-#### [My YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
-
-#### [My Facebook](http://www.facebook.com/kedbuhler/)
-
-#### [My Twitter](https://twitter.com/Keith_Buhler) 
-
-#### [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
-
-#### [How to get a PhD (and why)](/fun/phd-how-to)  ####
-
-#### [How to meditate (and why)](/fun/meditation)
-
-#### [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) ####
+* [My Writings -- fiction, screenplays, verse, and satire](/fun/writings) 
+* [My Blog -- the "Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com)
+* [My Inklings site -- ebooks, lists, and other resources on the Oxford Dons who changed the world](/fun/inklings) 
+* [My Biography](/fun/bio)
+* [My PhD research proposals and early chapters](/fun/phd)
+* [My Art work -- drawings, pumpkins, etc.](/fun/art)
+* [My book -- *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
+* [How to meditate (and why)](/fun/meditation)
+* [How to get a PhD (and why)](/fun/phd-how-to) 
+* [My Facebook](http://www.facebook.com/kedbuhler/)
+* [My Twitter](https://twitter.com/Keith_Buhler) 
+* [My YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
+* [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
+* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
+* [What a philosophy degree can do for you](/fun/philosophy-major)
 
 ## Fun Stuff in development ##
 
-#### [Inklings -- ebooks, lists of books, and other resources on the Oxford Dons who changed the world](/fun/inklings)
-
-#### [U.K. Comprehensive Exam readings](/fun/comps)
-
-#### [162 Hours, a time management tool](http://keithbuhler.com/goals/)
- 
-#### [80 year lifetimes, a fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0) ####
-
-#### [You can Paypal me money(!)](https://www.paypal.me/keithbuhler) ####
-
-#### [My new (empty) blog](http://keithbuhler.github.io./blog) ####
-
-#### [Writing tools](/fun/writing-tools)
-
-#### Politics -- coming soon ####
-
-#### Classical Education -- coming soon ####
-
-#### Attention Span Project -- how long is your attention span?
-
-#### Philosophy with Heart
-
-#### Advice to Philosophers
-
-#### Philosophy is science 
+* [My Beard -- a 3-step how-to guide](/fun/beard)
+* [U.K. Comprehensive Exam readings](/fun/uk-comps)
+* [162 Hours, a time management tool](http://keithbuhler.com/goals/)
+* [80 year lifetimes, a fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0)
+* [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
+* [My new (empty) blog](http://keithbuhler.github.io./blog)
+* [Writing tools](/fun/writing-tools)
+* [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/fun/speaking)
+* Politics
+* Classical Education
+* Attention Span Project -- how long is your attention span?
+* Philosophy with Heart
+* Advice to Philosophers
+* Philosophy is Science 
