@@ -3,19 +3,15 @@ layout: fun
 title: The Inklings
 ---
 
+# The Inklings #
 <img src="https://s-media-cache-ak0.pinimg.com/originals/1d/bb/8c/1dbb8ca335236ef015d7fa82fb9ed79f.jpg" alt="Inklings">
 
-<img src="/User/KEDB/Documents/keithbuhler.github.io/img/gandalf3.JPG" alt="Gandalf Clay">
+This page (under construction) is dedicated to the [Inklings](https://en.wikipedia.org/wiki/Inklings). This group of Oxford Dons changed the world. They were an informal literary group during the 1930s-50s who knew the significance of narrative, fiction, and imagination. 
 
-# The Inklings #
+Below are lists of their books for reference, e-texts of some books for download, a survey, and a few links. 
 
-This page (under construction) is dedicated to the [Inklings](https://en.wikipedia.org/wiki/Inklings). This group of Oxford Dons changed the world. Below are lists of their books for reference, e-texts of some books for download, a survey, and a few links. 
 
-## Intro ##
-
-The Inklings was a literary discussion group associated with the University of Oxford, England. Its members, mostly academics at the university, met between the 1930s and the 1950s.
-
-The Inklings were literary enthusiasts who praised the value of narrative in fiction, and encouraged the writing of fantasy. Contrary to what has been said about the Inklings, it was not an exclusively Christian club. Although Christian values are notably reflected in their work, there were atheists, Anthroposophists and/or occultists among the members of the discussion group.
+<img src="https://github.com/keithbuhler/keithbuhler.github.io/blob/master/img/gandalf3.JPG?raw=true" alt="Gandalf Clay">
 
 ## Books ##
 
@@ -23,6 +19,8 @@ The Inklings were literary enthusiasts who praised the value of narrative in fic
 * [C.S. Lewis, Mere Christianity](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
 * [C.S. Lewis - Miracles](/img/Lewis - Miracles.docx)
 * [C.S. Lewis - Till We Have Faces](/img/Lewis - Till We Have Faces.pdf)
+
+
 * [Charles Williams, War in Heaven](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
 * [Charles Williams, Many Dimensions](https://drive.google.com/file/d/0B0CYQDZ8AWu8dDF1TUdsUDVMa28/edit?usp=sharing)
 * [Charles Williams, The Place of the Lion](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
@@ -58,8 +56,8 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 
 ## The Major Inklings ##
 
-1. J.R.R. Tolkien
 2. C.S. Lewis
+3. 1. J.R.R. Tolkien
 3. Owen Barfield
 4. Charles Williams
 
@@ -68,24 +66,18 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 2. Hugo Dyson
 
 
-## Influences ##
-George MacDonald ([Father of Inklings](http://fatheroftheinklings.com/))
+## Books by Inklings Influences ##
+* George MacDonald ([Father of Inklings](http://fatheroftheinklings.com/))
+* G.K. Chesterton
+* Plato
+* Dante
+* Norse Mythology
+* [Lewis' Favorite Books](http://www.scriptoriumnovum.com/l/books.html)
+* [Books the Inklings read](http://www.sonic.net/mary/DejaLew-dir/rants/syl-books.htm)
 
-G.K. Chesterton
-
-Plato
-
-Dante
-
-Norse Mythology
-
-[Lewis' Favorite Books](http://www.scriptoriumnovum.com/l/books.html)
-
-[Books the Inklings read](http://www.sonic.net/mary/DejaLew-dir/rants/syl-books.htm)
-
-## Survey
  
-This is a survey I designed for fun. [C. S. Lewis' Influence Survey - Take and view!](https://docs.google.com/forms/d/1c-p0E_XkEKblJ7wnoWkCL88yugPeg4_6hSWvW0MTxoM/viewform?usp=send_form)
+
+
 
 ## External Resources ##
 
@@ -94,6 +86,20 @@ There are lots of good materials on the Inklings. These are a few of my favorite
 * [Peter Kreeft's writings on the Inklings](http://www.peterkreeft.com/featured-writing.htm)
 * [Malcom Guite's excellent lecture series on the Inklings as prophets](https://malcolmguite.wordpress.com/2011/11/04/the-inklings-fantasists-or-prophets-the-complete-set/)
 * [My lecture on Dorothy Sayers' *Gaudy Night* and the vice of "Vainglory"](https://www.dropbox.com/s/baq7fde4kavyvb5/CL%20Keith%20Buhler-Harriet%20Vane-Glory.mp3?dl=0) and [Q&A](https://www.dropbox.com/s/95yi0s2yjzdbgdz/CL%20Keith%20Buhler-Harriet%20Vane-Glory%20%28Q%26A%29.mp3?dl=0)
+
+
+
+## Books about Inklings ##
+
+[J.R.R. Tolkein, Author of the Century](http://amzn.to/1OQTAcI)
+
+[The Oxford Inklings](http://amzn.to/1OQVFFD)
+
+[Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/)
+
+[CS Lewis and his Circle](http://amzn.to/1OQW2Qv)
+
+[Rowan Williams, The Lion's World: A Journey Into the Heart of Narnia](http://amzn.to/1PqmYLw) Former Archbishop of Canterbury Rowan Williams offers fascinating insight into The Chronicles of Narnia, the popular series of novels by one of the most influential Christian authors of the modern era, C. S. Lewis.
 
 
 ## Inklings Societies
@@ -114,17 +120,8 @@ There are lots of good materials on the Inklings. These are a few of my favorite
 [American Chesterton Society](http://www.chesterton.org/)
 
 
-### Second tier ###
-[Inkling Books](http://www.inklingbooks.com/inklingbooks/cslewis/cslewis.html) A miniature indepedent publisher
 
-## Books about ##
+### Misc Links ###
 
-[J.R.R. Tolkein, Author of the Century](http://amzn.to/1OQTAcI)
-
-[The Oxford Inklings](http://amzn.to/1OQVFFD)
-
-[Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/)
-
-[CS Lewis and his Circle](http://amzn.to/1OQW2Qv)
-
-[Rowan Williams, The Lion's World: A Journey Into the Heart of Narnia](http://amzn.to/1PqmYLw) Former Archbishop of Canterbury Rowan Williams offers fascinating insight into The Chronicles of Narnia, the popular series of novels by one of the most influential Christian authors of the modern era, C. S. Lewis.
+* [Inkling Books](http://www.inklingbooks.com/inklingbooks/cslewis/cslewis.html) A miniature independent publisher that 
+* [C. S. Lewis' Influence Survey - A survey I designed for fun. Take and view!](https://docs.google.com/forms/d/1c-p0E_XkEKblJ7wnoWkCL88yugPeg4_6hSWvW0MTxoM/viewform?usp=send_form)
