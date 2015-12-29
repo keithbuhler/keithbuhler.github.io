@@ -33,9 +33,7 @@ For still others, thinking well will help you in motherhood or the monastery. Fo
 
 *Each line has a date, the reading due, the topic, and lecture notes. Why the lecture notes? Students asked for it. These notes help you prepare for discussion. But also, the only way to prepare is to think.*
 
-
 --------
-
 
 **T Jan 12 -- Syllabus**  
 Class preview: This class will be awesome. It’s a lot of reading, so you have to work hard. But more importantly, you have to think hard. Today we’ll get to know each other and our expectations, how to get an A, etc.. I’ll give you three personal problems philosophy can (maybe) help you with. 
@@ -44,8 +42,6 @@ Class preview: This class will be awesome. It’s a lot of reading, so you have 
 Sophie is asked by a mysterious stranger two key questions: who are you? Where did the world come from? We will do our best to begin answering those questions by examining two big ideas: Time and causes. Causes answer the question "why?" And time is a condition of all life on earth.
 
 --------
-
-
 
 **T Jan 19 -- Genesis 1-5:      Mythology**  
 A myth is not a false story but a likely story. In that sense, Genesis is a myth. We'll analyze it for its presentation of freedom, humanity, goodness, God, sin, and redemption. (Today, we assign groups and “internal/external” processors today as well.)

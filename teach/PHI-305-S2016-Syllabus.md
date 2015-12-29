@@ -4,7 +4,7 @@ title: 305 Syllabus Spring 2016
 
 ---
 
-## [Syllabus, Spring 2016](/teach/PHI-305-S2016-Syllabus.pdf)
+### [Syllabus, Spring 2016](/teach/PHI-305-S2016-Syllabus.pdf)
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -37,7 +37,7 @@ In short, our goals are:
 ### Scope and Sequence:
 To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
-### Course Outline
+## Course Outline
 
 **W Jan 13 Syllabus**: Today, we get to know each other. We'll identify expectations. Buy your book. We'll form Critical Reading Groups. 
 

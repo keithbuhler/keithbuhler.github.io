@@ -3,6 +3,14 @@ layout: default
 title: Teaching Statement
 ---
 
+## Applicaitons ##
+
+• Letter of application 1
+• Curriculum vitae  2 done
+• Research statement 3
+• Teaching portfolio 4
+• Writing sample 5
+• Three letters of recommendation 6
 
 #Teaching Statement
 
