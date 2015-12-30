@@ -73,12 +73,20 @@ D  = 69% - 60%   |  F  < 59%
 3. [Crisp and Slote, Virtue Ethics (Oxford)](http://amzn.to/1mopfvb)
 
 
-### [Handouts](https://drive.google.com/folderview?id=0B0CYQDZ8AWu8c1VxY1ZkelhHdms&usp=sharing)
+### [Handouts](https://drive.google.com/folderview?id=0B0CYQDZ8AWu8c1VxY1ZkelhHdms&usp=sharing) ###
+
 1. [Instructions to Shurappag](http://etcsl.orinst.ox.ac.uk/section5/tr561.htm)
 2. [Tao Te Ching](https://drive.google.com/open?id=0B0CYQDZ8AWu8QUxtdnNGUHBfWlk)
-3. [Evagrius Pontus, Eight Deadly Thoughts]
+3. [Ecclesiastes](https://drive.google.com/open?id=0B0CYQDZ8AWu8WGtyeU5rN1Y2WFU)
+3. [Plato, Alcibiades I](https://drive.google.com/open?id=0B0CYQDZ8AWu8NnZBMWpvSmdnWGM)
+4. [Evagrius Pontus, Eight Deadly Thoughts](https://drive.google.com/open?id=0B0CYQDZ8AWu8Rkg4ZGVpRUk0a2s)
 4. [Dante, The Banquet]
+5. [SEP Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8MDFCU3JNblZYbjA)
+6. [SEP Virtue](https://drive.google.com/open?id=0B0CYQDZ8AWu8dzk0MFlFN0I0cXc)
 5. [Thomas Aquinas]
+6. [Kekes, Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8SkE1cTFOaUctbkk)
+7. [Almond, Seeking Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8bF9fRW9VTlZZRzg)
+8. [Jay Wood, "Prudence"]()
 
 The primary work if this class will be reading — and trying to understand — these books and articles. This course is inspired by the “Great Books” approach. I am aware that reading primary sources can be more challenging than a textbook; it is also more rewarding. As this is an upper division course, you should plan to be reading about 3-4 hours a week. Read well. Read every assignment entirely. Skimming is sometimes necessary, but don’t skim every week. 
 
