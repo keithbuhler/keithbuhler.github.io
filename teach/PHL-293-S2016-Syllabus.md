@@ -11,13 +11,17 @@ title: PHL 293 S2016 Syllabus
 **Office Hours:** Tues 3-4, Kinlaw Library by Lewis Corner.
 
 ### Course Description: 
-For many people, ‘virtue’ is an obsolete term. Yet in the last 60 years, philosophers have revived interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). But wisdom is widely counted as a virtue. (Plato, *Republic*). So some modern philosophers have discussed moral *and* intellectual virtues (Cf. Linda Zagzebski, *Virtues of the Mind*). 
+For many people, ‘virtue’ is an obsolete term. Yet the last 60 years have seen a revival of philosophical and popular interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). 
 
-Wisdom and virtue, far from being old-fashioned terms, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Job); one of the seven or so Biblical genres is wisdom literature; Luke says that Jesus grew in wisdom and stature (2:52). Historically, philosophers have been closely associated with wisdom — after all, ‘philosophy’ is an English transliteration of the Greek term philosophia which means, roughly, love of wisdom. The revival of interest in virtue and wisdom seems a happy fact, since Biblically, we are commanded to “add to our faith virtue” (2 Pet 1).
+The "classical" or cardinal Greek virtues are justice, moderation, courage, and wisdom (Aristotle, *Nicomachean Ethics*, Plato, *Republic*). Notice that the first three seem to us "moral" while the last seems more "intellectual. Part of the re-invigorated conversation about virtue centers on the just such "intellectual virtues" (Cf. Linda Zagzebski, *Virtues of the Mind*). 
 
-So what exactly is wisdom? How is it different (if at all) from knowledge, science, sophistry, or skill? What is the relation between virtue and wisdom? Is wisdom one intellectual virtue or is it (*phronesis*, practical wisdom) the master virtue? 
+This revival of interest is fitting, since philosophy has been closely associated with wisdom — φιλοσοφια (philosophia) means *love of wisdom* -- and Peter commands Christians “add to your faith virtue” (2 Pet 1). 
 
-Much has been written on the theme of wisdom since the inception of western philosophy in Greece. Virtue theories have a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. In this course, we will read and discuss a limited selection of primary sources from ancient and contemporary authors. Our aim will be both theoretical and practical; we shall aim to understand what wisdom is and aim to become more wise, with each other’s help and by God’s grace. 
+Wisdom and virtue, far from being old-fashioned terms, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Proverbs, Job); one of the seven Biblical genres is "wisdom literature". played a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. 
+
+So what exactly is wisdom? How is it different (if at all) from knowledge, science, sophistry, or skill? What is the relation between virtue and wisdom, between the excellence of heart and mind? Is wisdom one intellectual virtue or is it (*phronesis*, practical wisdom) the master virtue? 
+
+In this course, we will attempt to answer these questions through a careful reading and discussion of primary sources from ancient and contemporary authors. Our aim will be both theoretical and practical; we shall aim to understand what wisdom is and aim to become more wise, with each other’s help and by God’s grace. 
 
 ### Course Goals: 
 
