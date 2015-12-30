@@ -45,9 +45,9 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 ------------
 
-**M   Jan-18   Plato’s *Apology* handout.**: 'Devouring time' is the condition of our life. Socrates' death is upon him. He teaches we should care more for our soul than our body. *The Apology* is a dramatic introduction to the importance of philosophy, and a persuasive defense of “soul care”. How is Health care ethics is about caring for the body but also involves psychology, politics, and religion. 
+**M   Jan-18   Plato’s *Apology* handout.**:  Socrates' death is upon him. He teaches we should care more for our soul than our body. *The Apology* is a dramatic introduction to the importance of philosophy, and a persuasive defense of “soul care”. Health care ethics is about caring for the body but also involves psychology, politics, and religion. 'Devouring time' is the condition of our life.
 
-**W Jan-20 "Truth" handout**: The problem of disagreement arises when we notice that people disagree about what is true, real, good, or beautiful. Is there any right answer? What is truth? Even though people disagree, is it objective? Since we are seeking truth all semester, we must consider the best arguments for and against the existence of objective truth.
+**W Jan-20 "Truth" handout**: This handout is in "disputation" format which can be confusing. Peter Kreeft's thesis is that truth is objective. However, he *begins* with "objections" which argue the opposite of his thesis. So consider these arguments. The problem of disagreement arises when we notice that people disagree about what is true, real, good, or beautiful. Is there any right answer? What is truth? Even though people disagree, is it objective? Since we are seeking truth all semester, we must consider the best arguments for and against the existence of objective truth.
 
 **F Jan- 22 "Goodness" Handout**: Critical Reading assignments. The "Tao". Is morality relative to culture? To tradition? To perspective? Not unless all truth is. We'll examine arguments for and against. For this semester, our hypothesis is that some moral laws are binding and objective.
 
@@ -198,6 +198,12 @@ Your grade for the class will depend on your performance in each component, plus
 ### Readings
 
 **Required Textbook:** [Pierce and Randels, *Contemporary Bioethics.* Oxford, 2010. First Edition.](http://amzn.to/1QJ76Fx) (Should be less than $100 new, $60 used, $20 rent,). All other required readings are posted online. 
+
+**Handouts:** 
+1. Plato, Apology
+2. Peter Kreeft, Truth.
+3. Peter Kreeft, Goodness.
+4. Midwifery in the US.
 
 ### Reading Tips
 

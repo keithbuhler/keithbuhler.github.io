@@ -13,11 +13,11 @@ title: PHL 293 S2016 Syllabus
 ### Course Description: 
 For many people, ‘virtue’ is an obsolete term. Yet the last 60 years have seen a revival of philosophical and popular interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). 
 
-The "classical" or cardinal Greek virtues are justice, moderation, courage, and wisdom (Aristotle, *Nicomachean Ethics*, Plato, *Republic*). Notice that the first three seem to us "moral" while the last seems more "intellectual. Part of the re-invigorated conversation about virtue centers on the just such "intellectual virtues" (Cf. Linda Zagzebski, *Virtues of the Mind*). 
+The "classical" or cardinal Greek virtues are justice, moderation, courage, and wisdom (Aristotle, *Nicomachean Ethics*, Plato, *Republic*). Notice that the first three seem to us "moral" while the last seems more "intellectual". For this reason, part of the re-invigorated conversation about virtue centers on the "intellectual virtues" (Cf. Linda Zagzebski, *Virtues of the Mind*). 
 
 This revival of interest is fitting, since philosophy has been closely associated with wisdom — φιλοσοφια (philosophia) means *love of wisdom* -- and Peter commands Christians “add to your faith virtue” (2 Pet 1). 
 
-Wisdom and virtue, far from being old-fashioned terms, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Proverbs, Job); one of the seven Biblical genres is "wisdom literature". played a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. 
+Wisdom and virtue, far from being old-fashioned or obselete, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Proverbs, Job); one of the seven Biblical genres is "wisdom literature". Wisdom and virtue talk has played a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. 
 
 So what exactly is wisdom? How is it different (if at all) from knowledge, science, sophistry, or skill? What is the relation between virtue and wisdom, between the excellence of heart and mind? Is wisdom one intellectual virtue or is it (*phronesis*, practical wisdom) the master virtue? 
 
