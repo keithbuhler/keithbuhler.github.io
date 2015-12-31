@@ -146,7 +146,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **W Apr- 13 *Bioethics* 556- 564 (Group 7) Animal Research**: What is your view on the moral status of animals? How would you characterize DeGrazia’s own view? How does your view compare with DeGrazia’s? How is the debate about animal research similar to and different from the debate about stem cell research?      
 
-**F Apr- 15 Unit Paper 4 Medical Research due. Ethical issues in Stem Cell Research**: Consider these Jewish, Muslim, Christian, and other testimonies on stem cell research. Where do the various religions agree? Where do they disagree? Which (if any) of these considerations are applicable to public policy?      
+**F Apr- 15 Unit Paper 4 Medical Research due. Discussion of ethical issues in Stem Cell Research**: Consider these Jewish, Muslim, Christian, and other testimonies on stem cell research. Where do the various religions agree? Where do they disagree? Which (if any) of these considerations are applicable to public policy?      
 
 ------------
 
