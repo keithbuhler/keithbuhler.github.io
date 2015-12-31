@@ -9,7 +9,7 @@ title: Philosophy Portal
 #### Be Glad You're Studying Philosophy
 [Studying philosophy helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major) 
 
-<img src="/img/aristotle.bmp" alt="Rembrandt bust of homer" align="right" hspace="10">
+<img src="/img/aristotle.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 
 #### I Just Joined Your Class; What Should I Do? ####
 * Take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
