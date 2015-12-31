@@ -15,7 +15,7 @@ For many people, ‘virtue’ is an obsolete term. Yet the last 60 years have se
 
 The "classical" or cardinal Greek virtues are justice, moderation, courage, and wisdom (Aristotle, *Nicomachean Ethics*, Plato, *Republic*). Notice that the first three seem to us "moral" while the last seems more "intellectual". For this reason, part of the re-invigorated conversation about virtue centers on the "intellectual virtues" (Cf. Linda Zagzebski, *Virtues of the Mind*). 
 
-This revival of interest is fitting, since philosophy has been closely associated with wisdom — φιλοσοφια (philosophia) means *love of wisdom* -- and Peter commands Christians “add to your faith virtue” (2 Pet 1). 
+This revival of interest is fitting, since philosophy has been closely associated with wisdom — φιλοσοφία (philosophίa) means *love of wisdom* -- and Peter commands Christians “add to your faith virtue” (2 Pet 1). 
 
 Wisdom and virtue, far from being old-fashioned or obselete, are immortal. Some of the oldest surviving pieces of human civilization are books of wisdom (*Instructions to Shuruppak*, Proverbs, Job); one of the seven Biblical genres is "wisdom literature". Wisdom and virtue talk has played a central role in ancient, medieval, early modern, and now contemporary discussions of how to live well. 
 
@@ -27,8 +27,8 @@ In this course, we will attempt to answer these questions through a careful read
 
 Our governing questions are:
 
-1. What is wisdom (and it’s opposite, foolishness)? Is it “epistemic humility, epistemic accuracy, knowledge, rationality, the fear of God, or a hybrid of these?
-2. How does wisdom differ sophistry, skill, science?
+1. What is wisdom (and it’s opposite, foolishness)? Is it “epistemic humility, epistemic accuracy, knowledge, rationality," the fear of God, or a hybrid of these?
+2. How does wisdom differ from sophistry or false wisdom? How does it differ from skill, and science?
 2. How does wisdom relate to (other) moral virtues?  
 4. How do we become more wise? 
 
@@ -92,7 +92,7 @@ D  = 69% - 60%   |  F  < 59%
 7. [Almond, Seeking Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8bF9fRW9VTlZZRzg)
 8. [Jay Wood, "Prudence"]()
 
-The primary work if this class will be reading — and trying to understand — these books and articles. This course is inspired by the “Great Books” approach. I am aware that reading primary sources can be more challenging than a textbook; it is also more rewarding. As this is an upper division course, you should plan to be reading about 3-4 hours a week. Read well. Read every assignment entirely. Skimming is sometimes necessary, but don’t skim every week. 
+The primary work if this class will be to read, understand, and critique these books and articles. This course is inspired by the “Great Books” approach. I am aware that reading primary sources can be more challenging than a textbook; it is also more rewarding. As this is an upper division course, you should plan to be reading about 3-4 hours a week. Read well. Read every assignment entirely. Skimming is sometimes necessary, but don’t skim every week. 
 
 
 ### Reading Tips
