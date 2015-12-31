@@ -154,15 +154,14 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 ------------
 
 **M Apr-25    *Bioethics* 661-667 (Group 10), Wendell Berry, Health is membership**: Barry argues that health is not a possession of individuals but of communities. And not just communities. The health of soil, animal, and human is inextricably bound together in one whole. He argues against the mechanistic analogy of the heart as “a pump” and the mind as “a computer”,  and shows how the false assumption harms patients in hospitals. Food and rest are essential to health yet are ignored in hospital settings. Berry ends with a series of questions. Try your best to think about the answers.
-    
 
-**W Apr-27    *Bioethics* 681-690, Pierce, New Ways of thinking about Bioethics: Today we discuss some of the deeper ecological ethics of climate change, green energy, and communitarian values.                         
+**W Apr-27    *Bioethics* 681-690, Pierce, New Ways of thinking about Bioethics:** Today we discuss some of the deeper ecological ethics of climate change, green energy, and communitarian values.                         
 
 **F Apr-29 Unit Paper 5 — Revised Health Care Cord Workshop. Discussion of transhumanism.** World population control, the scope of physicians’ care, Asthma inhalers — oh my! Our last discussion ranges over some important and broad-reaching issues. 
 
 ------------
 
-**M May-2  No class. **Unit Paper 5 — Revised Health Care Code due.**
+**M May-2  No class. Unit Paper 5 — Revised Health Care Code due.**
 
 **W May-4  No class. Reflection Paper Due**
 
