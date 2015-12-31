@@ -5,6 +5,9 @@ title: bio
 
 # Bio #
 
+<img src="/img/dante3.jpg" alt="Dante showing italy" align="right" hspace="10">
+
+
 Thanks for reading. My academic quest in life is to become wise. Along the way, I want to expose errors in reasoning wherever I find them, in my enemies, my friends, and myself. 
 
 I'm the youngest of seven kids. I was born in Los Alamitos, CA and grew up in [greater Los Angeles and Orange County](https://screen.yahoo.com/californians-drama-off-405-000000032.html). I was homeschooled for many years, attending some high school until I went to college a year early. 
