@@ -5,8 +5,6 @@ title: Keith Buhler's Personal Website
 
 *Flesh knows; but spirit knows it knows" Charles Williams*
 
-<img src="http://lorempixel.com/image_output/nature-q-c-800-450-8.jpg" alt="Trees" align="center" hspace="20">
-
 Hi, I'm Keith Buhler. Welcome to my personal home page. I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). My [philosophy site](/) gathers academic resources and information about me. 
 
 This personal site gathers a bunch of fun things. It is a conglomoration of various projects I'm working on. 
