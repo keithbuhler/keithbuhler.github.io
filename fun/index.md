@@ -7,9 +7,15 @@ title: Keith Buhler's Personal Website
 
 <img src="http://lorempixel.com/image_output/nature-q-c-800-450-8.jpg" alt="Trees" align="center" hspace="20">
 
-Welcome to my personal home page. I'm Keith Buhler, [a philosopher](/) at Asbury University and the University of Kentucky. 
+Hi, I'm Keith Buhler. Welcome to my personal home page. I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). My [philosophy site](/) gathers academic resources and information about me. 
 
-This site is a conglomoration of all the fun projects I'm working on. You can get to know me, read some of my nonfiction, fiction, screenplays, humor, and explore other resources you might find of interest. 
+This personal site gathers a bunch of fun things. It is a conglomoration of various projects I'm working on. 
+
+Here you can get to know me. You can read some of [my nonfiction, fiction, screenplays, and satire](/fun/writings). You can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](/fun/inklings), and learn how to [meditate](/fun/meditation). 
+
+There are a few more projects in development as well. Enjoy!
+
+## Index
 
 * [My Writings -- fiction, screenplays, verse, and satire](/fun/writings) 
 * [My Blog -- the "Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com)

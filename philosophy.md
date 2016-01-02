@@ -7,7 +7,7 @@ title: Philosophy Portal
 ## Philosophy Portal ##
 
 #### Be Glad You're Studying Philosophy
-[Studying philosophy helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major) 
+[Studying philosophy is a very good idea. It helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major) 
 
 <img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 
@@ -79,12 +79,10 @@ title: Philosophy Portal
 - Also, [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
 - [Email me or set up an appointment](emailto:keith.buhler@uky.edu) to share criticism, compliments, or other comments.
 
+#### I want to hear more about your research and thoughts
+- Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
+- Check out some of my [fiction, nonfiction, art, and more fun stuff](/fun/) at my personal site.
+- Contact me and let's set up a time to talk.
 
 #### I have other questions -- can we talk? ####
-- Contact via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
-- Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
-- Check out some of my [fiction, nonfiction, art, and more fun stuff](/fun/).
-
-
-
-
+- Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 

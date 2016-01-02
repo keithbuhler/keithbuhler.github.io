@@ -4,11 +4,11 @@ title: Anyone?... Buhler...?
 
 --- 
 
-### Keith Buhler's Professional Philosophy Page
+### Keith Buhler's Philosophy Site
 
 <img src="/img/keithbuhler-golden.png" alt="Keith" align="left" hspace="20"> 
 
-Hi, I'm Keith Buhler. I currently [teach philosophy and ethics](/teaching) at Asbury University and at the University of Kentucky. I've been an educator for about [14 years](/Buhler-CV) and really love what I do. (Students, please visit the [philosophy portal](/philosophy).)
+Hi, thanks for visiting. I currently [teach philosophy and ethics](/teaching) at Asbury University and at the University of Kentucky. I've been an educator for about [14 years](/Buhler-CV) and really love what I do. (Students, please visit the [philosophy portal](/philosophy).)
 
 I’m in the thick writing my [dissertation](/research) on the virtue ethics of Alasdair MacIntyre, Philippa Foot, and John McDowell. My research explores the relation between virtue, practical rationality, and happiness. I suspect that a defense of "natural teleology" -- properly defined -- is a key to ethical theorizing and ethical living. 
 
@@ -16,4 +16,4 @@ Other problems that interest me are those in [philosophy of mind, ancient philos
 
 Online profiles: [University Kentucky,](https://philosophy.as.uky.edu/users/kebu226) [PhilPapers,](http://philpapers.org/profile/47267) [Academia.edu,](https://uky.academia.edu/KeithBuhler) and [RateMyProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771). / 
 
-Thanks for visiting. Please explore or [send me a note](emailto:keithedbuhler@gmail.com). 
+Please explore or [send me a note](emailto:keithedbuhler@gmail.com). 

@@ -183,10 +183,11 @@ Your grade for the class will depend on your performance in each component, plus
 
 ### Readings
 
-**Required Textbook:** [Pierce and Randels, *Contemporary Bioethics.* Oxford, 2010. First Edition.](http://amzn.to/1QJ76Fx) (Should be less than $100 new, $60 used, $20 rent). All other required readings are posted online. 
+**Required Textbook:** [Pierce and Randels, *Contemporary Bioethics.*](http://amzn.to/1QJ76Fx) Oxford, 2010. First Edition. (Should be less than $100 new, $60 used, $20 rent).
 
-**Handouts:** 
-1. Plato, Apology
+**Handouts:** (All posted online)
+
+1. Plato, Apology.
 2. Peter Kreeft, Truth.
 3. Peter Kreeft, Goodness.
 4. Midwifery in the US.
@@ -195,11 +196,7 @@ Your grade for the class will depend on your performance in each component, plus
 
 * Read ahead. 
 * Give yourself enough time to read carefully. You will get better and faster. 
-* *Try to understand* the book. What is the author’s key terms? The author’s main point? 
-* Dialogue with the book before class. Take notes. Email me. Talk with each other. Talk with other friends. Process your thoughts. 
-* Take notes on: Is the author correct? What confused you? What questions did you have? What does the book mean?
-* The two most important questions for each reading 1. What is the main truth claim? 2. What is the evidence?
-* Pay attention to what confuses you and what you disagree with. Bring your questions to class.
+* Try to *understand* the book. What is the author’s key terms? The author’s main point? Are they correct? What objections do you have? Email me. Take notes. Talk with each other. 
 * Don’t read the introduction for the book (which is often more confusing than the book). If you do want to read it, read it after reading the primary source -- that may help. 
 * Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
 
