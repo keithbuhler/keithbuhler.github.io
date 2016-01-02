@@ -7,7 +7,7 @@ title: PHL 200 S2016
 **Introduction to Philosophy: “Goodness, Truth, and Beauty”**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: [keith_buhler](http://www.twitter.com/keith_buhler)    
+**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)    
 **Office Hours:** Tues 3-4, Kinlaw Library by Lewis Corner.
 
 ### Course Description: 

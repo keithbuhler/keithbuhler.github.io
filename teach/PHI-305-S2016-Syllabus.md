@@ -8,7 +8,7 @@ title: 305 Syllabus Spring 2016
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: [keith_buhler](http://www.twitter.com/keith_buhler)    
+**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)    
 **Office Hours**: Wed 11am-12pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
@@ -37,6 +37,8 @@ In short, our goals are:
 To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
 ## Course Outline
+
+------------
 
 **W Jan 13 Syllabus**: Today, we get to know each other. We identify expectations. We form Critical Reading Groups. Please buy your book. 
 

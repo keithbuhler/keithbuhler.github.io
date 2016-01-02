@@ -7,7 +7,7 @@ title: PHL 293 S2016 Syllabus
 **PHL 293: Wisdom and Virtue**  
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)   
-**Twitter**: [keith_buhler](http://www.twitter.com/keith_buhler)      
+**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)      
 **Office Hours:** Tues 3-4, Kinlaw Library by Lewis Corner.
 
 ### Course Description: 
@@ -84,10 +84,10 @@ D  = 69% - 60%   |  F  < 59%
 3. [Ecclesiastes](https://drive.google.com/open?id=0B0CYQDZ8AWu8WGtyeU5rN1Y2WFU)
 3. [Plato, Alcibiades I](https://drive.google.com/open?id=0B0CYQDZ8AWu8NnZBMWpvSmdnWGM)
 4. [Evagrius Pontus, Eight Deadly Thoughts](https://drive.google.com/open?id=0B0CYQDZ8AWu8Rkg4ZGVpRUk0a2s)
-4. [Dante, The Banquet]
+4. [Dante, The Banquet]()
 5. [SEP Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8MDFCU3JNblZYbjA)
 6. [SEP Virtue](https://drive.google.com/open?id=0B0CYQDZ8AWu8dzk0MFlFN0I0cXc)
-5. [Thomas Aquinas]
+5. [Thomas Aquinas]()
 6. [Kekes, Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8SkE1cTFOaUctbkk)
 7. [Almond, Seeking Wisdom](https://drive.google.com/open?id=0B0CYQDZ8AWu8bF9fRW9VTlZZRzg)
 8. [Jay Wood, "Prudence"]()
