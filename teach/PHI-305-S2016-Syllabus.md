@@ -13,6 +13,7 @@ title: 305 Syllabus Spring 2016
 **Office**: Patterson Office Tower, 14th floor.   
 
 ### Course Description: 
+
 Health care decisions are some of the hardest we will ever make. Professional physicians, dietitians, nurses, etc. will make such decisions every day. But us laymen will face hard choices about the health of parents, children, relatives, friends, and our own health. This course attempts to help us to think deeply about the issues of life, death, health, and health care. The aim is that we can act well when those hard decisions come. 
 
 Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? In health care, we ask about foundations: what is life? Death? What is the proper allocation of limited resources? Are there moral constraints on research? Is it ever more loving to lie to a patient about the hard truth? Is it ever more compassionate to euthanize an elderly person? Is it worth the emotional and psychological cost to avoid pregnancy by abortion? Is government-provided healthcare a right? 
@@ -59,7 +60,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **W Jan-27 *Bioethics* 49-63 (Group 1 presents) Matthew Wynia, Medical Professionalism**: In the doctor-patient relationship, what are the doctor’s obligations? The patient’s obligations? Does a doctor have “power” and if so how should it be wielded? Is cosmetic surgery within the purview of medicine?  
 
-**F Jan-29 *Bioethics* case studies Discussion**: Read the "case studies 1, 2, and 4" at the end of the *Bioethics* chapter.
+**F Jan-29 Unit Paper 1 Due: Health Care Code. Also *Bioethics* case studies Discussion**: Read the "case studies 1, 2, and 4" at the end of the *Bioethics* chapter.
 
 ------------
 
@@ -67,7 +68,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **W Feb-3  *Bioethics* 94-101 (Group 3) Confucian Truth-telling.** Are there any circumstances in which part of the truth, a falsehood, or a mix of true and false are the best way to use speech?
 
-**F Feb-5  Unit Paper 1: Health Care Code due. *Bioethics* AMA Fundamentals, discussion of Patient Responsibility**: Do we bear partial or complete responsibility for our own health? How do patient responsibilities derive from autonomy? Are any of the AMA’s list of responsibilities too much? Cases 5-6: What might be the main objections to Ashley’s treatment? Should Dr. Beckwith write the prescription?
+**F Feb-5  Unit Paper 2 due: Deception. *Bioethics* AMA Fundamentals, discussion of Patient Responsibility**: Do we bear partial or complete responsibility for our own health? How do patient responsibilities derive from autonomy? Are any of the AMA’s list of responsibilities too much? Cases 5-6: What might be the main objections to Ashley’s treatment? Should Dr. Beckwith write the prescription?
 
 ------------
 
@@ -91,7 +92,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 **M Feb-22 *Bioethics* 247-263, Abortion and the beginning of life**: Read this excellent introduction to a difficult topic. I will lead a lecture and discussion through some of the legal and moral issues, including the history of abortion law, the definition of “soul”, and the concept of human personhood.             
 **W Feb-24 *Bioethics* 265-290 (Group 8) Thomson, Defense of Abortion**: Many pro-lifers assume that if a fetus is a human being, then abortion is wrong. Thomson assumes a fetus is a human and argues that abortion can still be acceptable. Would it be morally acceptable to unplug yourself from the violinist? Does the duration of time matter? Are Tomson’s analogies really analogous to pregnancy? 
 
-**F Feb-26 Unit Paper 2 Euthanasia due. Discussion of sex-selective abortion, and fetal pain**.
+**F Feb-26 Unit Paper 3 Euthanasia due. Discussion of sex-selective abortion, and fetal pain**.
 
 ------------
 
@@ -128,7 +129,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 **M Mar-28 *Bioethics* 412-419 (Group 4), James Dwyer, Illegal Immigrants, Social Responsibility**: Dwyer argues that our attitude toward and treatment of illegal or undocumented immigrants should not be viewed through the lense of desert nor professional ethics, but “social responsibility”. Is desert the appropriate material criterion of justice for access to healthcare? Would California's proposition 187 justly or unjustly denied healthcare to illegal immigrants? Is social ethics easily distinguishable from bioethics? What is the social responsibility of United States regarding illegal immigrants?                            
 
 **W Mar-30 *Bioethics* 460-464 (Group 5), Barbro Bjorkman, Donate but not sell?**: Barbro Bjorkman observes that we intuitively judge it to be wrong to sell our organs, but right to donate them. She offers an explanation based on reflection of what the virtuous person would do — the person who is courageous and generous. 1. Do the arguments supporting organ sales correlate with your moral intuitions? 2. Is it possible to be a virtuous person and not being organ donor? 3. Are there any situations where virtuous person might sell rather than donate organs? 4. What can be done to increase your society's sense of virtue? What is the probability that such projects will be successful?           
-**F Apr-1  Unit Paper 3 Universal Health Care due. Discussion of getting health care and allocation**: Discussion of Living the Mission, Early Harvest, Removing Organs.
+**F Apr-1  Unit Paper 4 Universal Health Care due. Discussion of getting health care and allocation**: Discussion of Living the Mission, Early Harvest, Removing Organs.
 
 ------------
 
@@ -143,7 +144,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **W Apr-13 *Bioethics* 556-564 (Group 7) Animal Research**: What is your view on the moral status of animals? How would you characterize DeGrazia’s own view? How does your view compare with DeGrazia’s? How is the debate about animal research similar to and different from the debate about stem cell research?      
 
-**F Apr-15 Unit Paper 4 Medical Research due. Discussion of ethical issues in Stem Cell Research**: Consider these Jewish, Muslim, Christian, and other testimonies on stem cell research. Where do the various religions agree? Where do they disagree? Which (if any) of these considerations are applicable to public policy?      
+**F Apr-15 Unit Paper 5 Medical Research due. Discussion of ethical issues in Stem Cell Research**: Consider these Jewish, Muslim, Christian, and other testimonies on stem cell research. Where do the various religions agree? Where do they disagree? Which (if any) of these considerations are applicable to public policy?      
 
 ------------
 
@@ -159,11 +160,11 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **W Apr-27    *Bioethics* 681-690, Pierce, New Ways of thinking about Bioethics:** Today we discuss some of the deeper ecological ethics of climate change, green energy, and communitarian values.                         
 
-**F Apr-29 Unit Paper 5 — Revised Health Care Cord Workshop. Discussion of transhumanism.** World population control, the scope of physicians’ care, Asthma inhalers — oh my! Our last discussion ranges over some important and broad-reaching issues. 
+**F Apr-29 Unit Paper 6 — Revised Health Care Cord Workshop. Discussion of transhumanism.** World population control, the scope of physicians’ care, Asthma inhalers — oh my! Our last discussion ranges over some important and broad-reaching issues. 
 
 ------------
 
-**M May-2  No class. Unit Paper 5 — Revised Health Care Code due.**
+**M May-2  No class. Unit Paper 6 — Revised Health Care Code due.**
 
 **W May-4  No class. Reflection Paper Due**
 
@@ -180,7 +181,7 @@ Your grade for the class will depend on your performance in each component, plus
 | Readings (quizzes) |         20%   |  
 | Participation (talk, write, present) |   20% |
 | Tests (midterm, final)         |  30% |
-| Unit Papers (5 pass/fail papers) |  30% |
+| Unit Papers (pass/fail) |  30% |
 
 
 ### Readings
@@ -229,7 +230,7 @@ Every student will present do two "critical readings." These are days when your 
 There is a midterm and final. The Study Guide with all the questions is posted online. The tests will assess (a) your knowledge definitions of key philosophical terms, (b) knowledge of historical facts relevant to health care ethics, (c) your familiarity with major health care theories and (d) your mastery of the arguments for and against these theories.
 
 ### Unit Papers:  
-Every student will write five Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. I will not tolerate plagiarism — unintentional or intentional. Be careful to cite your sources correctly. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
+Every student will write 5-6 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. I will not tolerate plagiarism — unintentional or intentional. Be careful to cite your sources correctly. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
 
 
 ### Extra Credit: 
