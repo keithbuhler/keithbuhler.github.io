@@ -14,7 +14,7 @@ As a devout amateur, I am often creating art. I like to draw, paint, and sculpt,
 
 ## Sculpture
 
-<img src="/img/gandalf2.jpg" alt="GANDALF">
+<img src="/img/gandalf2.jpg" alt="GANDALF" >
 
 Gandalf (Oil clay)
 
@@ -25,8 +25,7 @@ Gandalf (Oil clay)
 Dante (Oil clay)
 
 
-
-<img src="https://goo.gl/photos/S3unVFRyA5gUWCCK8" alt="Tiger box">
+<img src="tiger-box" alt="Tiger box">
 
 Tiger Box, sculpted in water clay, fired, and painted with acrylic
 
@@ -35,27 +34,30 @@ Tiger Box, sculpted in water clay, fired, and painted with acrylic
 
 ## Photography
 
-<img src="/img/peters.jpg" alt="St Peters Basilica" height="800" width="500">
+<img src="/img/peters.jpg" alt="St Peters Basilica" height="900" width="500">
 
 St Peter's Basilica 1
 
-<img src="/img/peters2.png" alt="St Peters Basilica2" height="500" width="500">
+<img src="/img/peters2.png" alt="St Peters Basilica2" height="400" width="500">
+
 St Peter's Basilica 2
 
 <img src="/img/peters1.png" alt="St Peters Basilica3" height="400" width="500">
+
 St Peter's Basilica 3
 
-<img src="/img/italy.jpg" alt="Getting directions in Italy" height="400" width="500">
+<img src="/img/italy.jpg" alt="Getting directions in Italy" height="380" width="500">
+
 Americans getting directions in Italy
 
-<img src="/img/bethany-heimbigner.jpg" alt="Painting based off my photograph" height="500" width="500">
+<img src="/img/bethany-heimbigner-small.jpg" alt="Painting based off my photograph" height="250" width="500">
 
 Bethany painted this based off a photograph I took of a fall day in Paso Robles, CA.
 
 
 ## Experimental fun stuff
 
-<img src="/img/pumpkin-harry.jpg" alt="pumpkin-harry" height="400" width="500">
+<img src="/img/pumpkin-harry.jpg" alt="pumpkin-harry" height="350" width="500">
 
 Harry Potter (pumpkin)
 
@@ -64,19 +66,23 @@ Harry Potter (pumpkin)
 Godzilla Pumpkin
 
 <img src="/img/pumpkin-jabba.JPG" alt="Jabba the Hutt Pumpkin" height="380" width="500">
+
 Jabba the Hutt Pumpkin
 
 <img src="/img/snowman-2015.jpg" alt="Snow" height="400" width="500">
+
 Snowdog snowwalk
 
+
+<img src="/img/thomas.jpg" alt="Thomas the Train">
+
+Thomas the Tank Engine
 
 
 
 Desert
 
 Silly Putty
-
-Scultpture
 
 Painting
 
