@@ -7,10 +7,12 @@ title: art
 As a devout amateur, I am often creating art. I like to draw, paint, and sculpt, but also like to explore different media like pumpkins, snow, or Silly Putty. I encourage everyone to create, and even to present their creations to family and friends, even if that is not "their thing."
 
 
-<img src="/img/withermedium.jpg" alt="whither are you going?" height="50%">
+<img src="/img/withermedium.jpg" alt="whither are you going?">
 
 "Wither are you going? And Whence have you come?" (Graphite)
 
+
+<img src="/img/gandalf2.jpg" alt="GANDALF">
 
 Gandalf (Oil clay)
 
@@ -24,22 +26,28 @@ Dante (Oil clay)
 
 Harry Potter (pumpkin)
 
-<img src="/img/pumpkinzilla.jpg" alt="pumpkinzilla" height="400" width="500">
+<img src="/img/pumpkinzilla.jpg" alt="pumpkinzilla" height="35000" width="500">
 
-Winning Pumpkin design
+Godzilla Pumpkin
 
-<img src="/img/pumpkin-jabba.JPG" alt="Jabba the Hutt Pumpkin" height="400" width="500">
-
+<img src="/img/pumpkin-jabba.JPG" alt="Jabba the Hutt Pumpkin" height="380" width="500">
+Jabba the Hutt Pumpkin
 
 <img src="/img/snowman-2015.jpg" alt="Snow" height="400" width="500">
+Snowdog snowwalk
 
-<img src="/img/peters.jpg" alt="St Peters Basilica" height="700" width="500">
 
-<img src="/img/peters2.png" alt="St Peters Basilica2" height="600" width="500">
+## Photography
+<img src="/img/peters.jpg" alt="St Peters Basilica" height="800" width="500">
+St Peter's Basilica 1
+<img src="/img/peters2.png" alt="St Peters Basilica2" height="500" width="500">
+St Peter's Basilica 2
 
-<img src="/img/peters1.png" alt="St Peters Basilica3" height="500" width="500">
+<img src="/img/peters1.png" alt="St Peters Basilica3" height="400" width="500">
+St Peter's Basilica 3
 
-<img src="/img/italy.jpg" alt="Getting directions in Italy" height="500" width="500">
+<img src="/img/italy.jpg" alt="Getting directions in Italy" height="400" width="500">
+Americans getting directions in Italy
 
 <img src="/img/bethany-heimbigner.jpg" alt="Painting based off my photograph" height="500" width="500">
 
