@@ -11,10 +11,7 @@ In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten
 
 We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my top choice because I wanted to work with David Bradshaw, but the choice was easy. Claremont and University of Chicago offered no funding, no tuition; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. I accepted the offer. 
 
-## Should you get a PhD in philosophy?
-
-
-1. Do you want to go to graduate school?
+## Do you want to go to graduate school?
 
 This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except philosophy. 
 
@@ -119,9 +116,13 @@ This would look like:
 A bit more detail: Your dissertation will be between 150-300 pages long. It will be minimum 4 chapters, maximum probably 8. Each chapter will be minimum 20 pages, maximum 80 pages. Each chapter will be minimum 10,000 words, maximum 20,000 words. Then you are done. 
 
 Example 1 - 250 pages, 6 chapters, 41 pages each, 10,020 words per chapter. 
+
 Example 2 - 200 pages, 5 chapters, 40 pages each, 10,000 words per chapter.
+
 Example 3 - 300 pages, 5 chapters, 60 pages each, 15,000 words per chapter. 
+
 Example 4 - 300 pages, 8 chapters, 37 pages each, 9,200 words per chapter.
+
 
 
 ## Coming soon ##
@@ -135,10 +136,8 @@ The goal is, when I'm finished, to write a post-op. Possible topics include:
 + Deciding where to apply  
 
 ## Applying   ##
-
 * [How to write a teaching statement](http://chronicle.com/article/How-to-Write-a-Statement-of/45133/)
 * [How to build a CV](https://career.berkeley.edu/PhDs/PhDCVelements)
-
 * First year coursework  
 * Second year coursework and comprehensive exams  
 * Third year coursework  

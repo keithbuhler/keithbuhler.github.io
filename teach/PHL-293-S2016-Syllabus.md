@@ -45,7 +45,7 @@ Scope and Sequence: To accomplish these goals, this 16-week course is divided in
 
 ### Course Outline (online) ###
 
-*(Subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
+*(Outline subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/17hB4AAS_K7T2vTSn19IXTowU73UFUP_WMnvDWy23fGY/pubhtml?widget=true&amp;headers=false" width="1000" height="1000"></iframe>

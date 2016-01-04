@@ -6,11 +6,13 @@ title: art
 <img src="/img/keith-getty.jpg" alt="Getty"> 
 As a devout amateur, I am often creating art. I like to draw, paint, and sculpt, but also like to explore different media like pumpkins, snow, or Silly Putty. I encourage everyone to create, and even to present their creations to family and friends, even if that is not "their thing."
 
+## Drawings
 
 <img src="/img/withermedium.jpg" alt="whither are you going?">
 
 "Wither are you going? And Whence have you come?" (Graphite)
 
+## Sculpture
 
 <img src="/img/gandalf2.jpg" alt="GANDALF">
 
@@ -22,24 +24,21 @@ Gandalf (Oil clay)
 
 Dante (Oil clay)
 
-<img src="/img/pumpkin-harry.jpg" alt="pumpkin-harry" height="400" width="500">
 
-Harry Potter (pumpkin)
 
-<img src="/img/pumpkinzilla.jpg" alt="pumpkinzilla" height="35000" width="500">
+<img src="https://goo.gl/photos/S3unVFRyA5gUWCCK8" alt="Tiger box">
 
-Godzilla Pumpkin
+Tiger Box, sculpted in water clay, fired, and painted with acrylic
 
-<img src="/img/pumpkin-jabba.JPG" alt="Jabba the Hutt Pumpkin" height="380" width="500">
-Jabba the Hutt Pumpkin
 
-<img src="/img/snowman-2015.jpg" alt="Snow" height="400" width="500">
-Snowdog snowwalk
 
 
 ## Photography
+
 <img src="/img/peters.jpg" alt="St Peters Basilica" height="800" width="500">
+
 St Peter's Basilica 1
+
 <img src="/img/peters2.png" alt="St Peters Basilica2" height="500" width="500">
 St Peter's Basilica 2
 
@@ -53,8 +52,23 @@ Americans getting directions in Italy
 
 Bethany painted this based off a photograph I took of a fall day in Paso Robles, CA.
 
-<img src="https://goo.gl/photos/fEYxtAvhEhZLurGw9" alt="Tiger box">
-Tiger Box, sculpted in water clay, fired, and painted with acrylic
+
+## Experimental fun stuff
+
+<img src="/img/pumpkin-harry.jpg" alt="pumpkin-harry" height="400" width="500">
+
+Harry Potter (pumpkin)
+
+<img src="/img/pumpkinzilla.jpg" alt="pumpkinzilla" height="350" width="500">
+
+Godzilla Pumpkin
+
+<img src="/img/pumpkin-jabba.JPG" alt="Jabba the Hutt Pumpkin" height="380" width="500">
+Jabba the Hutt Pumpkin
+
+<img src="/img/snowman-2015.jpg" alt="Snow" height="400" width="500">
+Snowdog snowwalk
+
 
 
 

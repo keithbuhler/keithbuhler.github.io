@@ -133,7 +133,8 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 ------------
 
-**M Apr-4  *Bioethics* 487-504, Clinical Research Introduction**: Clinical research is a key part of biomedical advances to cure or prevent diseases and improve people’s quality of life. The “cost” of such research is more than dollars. People, animals, stem cells are the objects of most controversial clinical research. Today, we explore the landscape of clinical research and the bioethical boundaries. We research on (1) humans, (2) human stem cells, and (3) animals. What are the limits on research and the benefits?                       
+**M Apr-4  *Bioethics* 487-504, Clinical Research Introduction**: Clinical research is a key part of biomedical advances to cure or prevent diseases and improve people’s quality of life. The “cost” of such research is more than dollars. People, animals, stem cells are the objects of most controversial clinical research. Today, we explore the landscape of clinical research and the bioethical boundaries. We research on (1) humans, (2) human stem cells, and (3) animals. What are the limits on research and the benefits?       
+
 **W Apr-6  *Bioethics* 507-515, Nuremberg Code, Belmont Report**: The Nuremberg Code came out of the Nuremberg trials of Nazi doctors. It is like the Belmont Report, which initiated a new era of biomedical or health care ethics. Is this document on the right track? Completely right? In need of correction? Completely off? How does the report distinguish between practice and research? Why is the first principle formulated as “respect for persons” and not “respect for autonomy”? What two moral rules are embedded in the principle of beneficence? 4. How would you describe the methodological framework of the Report (refer to chapter 1 in this text for help)?
 
 **F Apr-8  *Bioethics* 572-576, Discussion of medical research**: Is Medicare coercive? Can animals feel and express empathy? Do pharmaceutical companies have moral obligations to research some diseases? We’ll discuss the first 3 or 4 cases on these pages.       
@@ -156,9 +157,9 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 ------------
 
-**M Apr-25    *Bioethics* 661-667 (Group 10), Wendell Berry, Health is membership**: Barry argues that health is not a possession of individuals but of communities. And not just communities. The health of soil, animal, and human is inextricably bound together in one whole. He argues against the mechanistic analogy of the heart as “a pump” and the mind as “a computer”,  and shows how the false assumption harms patients in hospitals. Food and rest are essential to health yet are ignored in hospital settings. Berry ends with a series of questions. Try your best to think about the answers.
+**M Apr-25    *Bioethics* 661-667 (Group 9), Wendell Berry, Health is membership**: Barry argues that health is not a possession of individuals but of communities. And not just communities. The health of soil, animal, and human is inextricably bound together in one whole. He argues against the mechanistic analogy of the heart as “a pump” and the mind as “a computer”,  and shows how the false assumption harms patients in hospitals. Food and rest are essential to health yet are ignored in hospital settings. Berry ends with a series of questions. Try your best to think about the answers.
 
-**W Apr-27    *Bioethics* 681-690, Pierce, New Ways of thinking about Bioethics:** Today we discuss some of the deeper ecological ethics of climate change, green energy, and communitarian values.                         
+**W Apr-27    *Bioethics* 681-690 (Group 10), Pierce, New Ways of thinking about Bioethics:** Today we discuss some of the deeper ecological ethics of climate change, green energy, and communitarian values.                         
 
 **F Apr-29 Unit Paper 6 — Revised Health Care Cord Workshop. Discussion of transhumanism.** World population control, the scope of physicians’ care, Asthma inhalers — oh my! Our last discussion ranges over some important and broad-reaching issues. 
 
