@@ -25,7 +25,7 @@ Gandalf (Oil clay)
 Dante (Oil clay)
 
 
-<img src="tiger-box" alt="Tiger box">
+<img src="/img/tiger-box" alt="Tiger box">
 
 Tiger Box, sculpted in water clay, fired, and painted with acrylic
 
@@ -74,7 +74,7 @@ Jabba the Hutt Pumpkin
 Snowdog snowwalk
 
 
-<img src="/img/thomas.jpg" alt="Thomas the Train">
+<img src="/img/thomas.jpg" alt="Thomas the Train" height="500" width="500">>
 
 Thomas the Tank Engine
 
