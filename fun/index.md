@@ -3,33 +3,32 @@ layout: fun
 title: Keith Buhler's Personal Website
 ---
 
-*Flesh knows; but spirit knows it knows" Charles Williams*
+<a href='http://behappy.me/flesh-knows-but-spirit-knows-it-knows-842915/'><img src='https://behapy.s3.amazonaws.com/29/15/842915/share.jpg'/></a>
 
-Hi, I'm Keith Buhler. Welcome to my personal home page. I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). My [philosophy site](/) gathers academic resources and information about me. 
+Hi, I'm Keith Buhler. Welcome to my personal site, where you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](/fun/inklings), and learn how to [meditate](/fun/meditation), or enjoy some of [my nonfiction, fiction, screenplays, and satire](/fun/writings). 
 
-This personal site gathers a bunch of fun things. It is a conglomoration of various projects I'm working on. 
+I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) Check out my [philosophy site](/) for academic resources and information about my work. 
 
-Here you can get to know me. You can read some of [my nonfiction, fiction, screenplays, and satire](/fun/writings). You can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](/fun/inklings), and learn how to [meditate](/fun/meditation). 
+This site is a somewhat random collection of fun things. Some are complete, others in development. Enjoy! 
 
-There are a few more projects in development as well. Enjoy!
 
 ## Index
 
-* [My Writings -- fiction, screenplays, verse, and satire](/fun/writings) 
-* [My Blog -- the "Intentional Reading Project" helps you read more books this year](http://www.readingintentionally.com)
-* [My Inklings site -- ebooks, lists, and other resources on the Oxford Dons who changed the world](/fun/inklings) 
-* [My Biography](/fun/bio)
-* [My PhD research proposals and early chapters](/fun/phd)
-* [My Art work -- drawings, pumpkins, etc.](/fun/art)
-* [My book -- *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
+* [My Writings](/fun/writings): Fiction, screenplays, verse, and satire. 
+* [My Blog](http://www.readingintentionally.com): the "Intentional Reading Project" helps you read more books this year.
+* [My Inklings site](/fun/inklings): Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
+* [My book](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
+* [My Art work](/fun/art): Drawings, sculptures, pumpkins, and more.
 * [How to meditate (and why)](/fun/meditation)
-* [How to get a PhD (and why)](/fun/phd-how-to) 
-* [My Facebook](http://www.facebook.com/kedbuhler/)
-* [My Twitter](https://twitter.com/Keith_Buhler) 
-* [My YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
-* [My Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
-* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
+* [My Bio](/fun/bio): A little bit about me.
+* [My PhD research](/fun/phd): What I'm working on in philosophy. 
 * [What a philosophy degree can do for you](/fun/philosophy-major)
+* [How to get a PhD (and why)](/fun/phd-how-to) 
+* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
+* [Facebook](http://www.facebook.com/kedbuhler/)
+* [Twitter](https://twitter.com/Keith_Buhler) 
+* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
+* [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
 ## In Development ##
 
