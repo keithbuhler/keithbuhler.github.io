@@ -9,8 +9,6 @@ As a devout amateur, I am often creating. I encourage everyone to create, especi
 
 I like to draw, paint, and sculpt. I also like to explore different media like pumpkins, snow, or Silly Putty. You can see some highlights below.
 
-<img src="/img/keith-getty2.jpg" alt="Getty"> 
-
 ## Drawings
 
 <img src="/img/withermedium.jpg" alt="whither are you going?">
@@ -84,6 +82,7 @@ Snowdog snowwalk (frozen water)
 Thomas the Tank Engine (cake)
 
 
+
 ## Coming soon
 
 Desert photos
@@ -93,3 +92,5 @@ Silly Putty art
 Paintings
 
 More graphite drawings
+
+<img src="/img/keith-getty3.jpg" alt="Leaning on invisible wall at the Getty"> 
