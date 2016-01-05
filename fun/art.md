@@ -3,8 +3,13 @@ layout: fun
 title: Art
 ---
 
-<img src="/img/keith-getty.jpg" alt="Getty"> 
-As a devout amateur, I am often creating art. I like to draw, paint, and sculpt, but also like to explore different media like pumpkins, snow, or Silly Putty. I encourage everyone to create, and even to present their creations to family and friends, even if that is not "their thing."
+# Art
+
+As a devout amateur, I am often creating. I encourage everyone to create, especially if they are not professionals. I encourage everyone to present their creations to family and friends, even if that is not "their thing."
+
+I like to draw, paint, and sculpt. I also like to explore different media like pumpkins, snow, or Silly Putty. You can see some highlights below.
+
+<img src="/img/keith-getty2.jpg" alt="Getty"> 
 
 ## Drawings
 
@@ -27,7 +32,7 @@ Dante (Oil clay)
 
 <img src="/img/tiger-box.jpg" alt="Tiger box" height="500" width="500">
 
-Tiger Box, sculpted in water clay, fired, and painted with acrylic
+Tiger Box (water clay, acrylic paint)
 
 
 
