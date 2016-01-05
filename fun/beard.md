@@ -45,7 +45,12 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 
 ### Epic Beards in Fact and Fantasy ###
 
-<img src="/img/whitman.jpg" alt="whitman" height="600" width="500">
+
+
+<figure>
+<img src="http:keithbuhler.github.io/img/whitman.jpg" alt="whitman" height="600" width="500">
+  <figcaption>Walt Whitman's Beard</figcaption>
+</figure>
 
 <img src="/img/tolstoy.jpg" alt="tolstoy" height="600" width="500">
 
@@ -55,11 +60,11 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 
 <img src="/img/hagrid.jpg" alt="hagrid" height="400" width="500">
 
-<img src="/img/gandalfphoto.jpg" alt="gandalf" height="400" width="500">
+<img src="/img/gandalfphoto.jpg" alt="gandalf" height="380" width="500">
 
-<img src="/img/douglas.jpg" alt="douglas" height="600" width="500">
+<img src="/img/douglas.jpg" alt="douglas" height="700" width="500">
 
-<img src="/img/fyodor.jpeg" alt="fyodor" height="500" width="500">
+<img src="/img/fyodor.jpeg" alt="fyodor" height="400" width="500">
 
-<img src="/img/mechanics.jpg" alt="mechanics" height="400" width="500">
+<img src="/img/mechanics.jpg" alt="mechanics" height="300" width="500">
 
