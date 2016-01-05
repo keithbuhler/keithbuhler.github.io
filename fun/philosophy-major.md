@@ -13,26 +13,24 @@ http://www.keithbuhler.com
 
 Nothing much...except *everything*.
 
-1. Some assume you can’t “do” anything with a philosophy degree. Some tease that you'll work in a coffee shop asking people *why* they want creme with that. 
+1. Some assume you can’t “do” anything with a philosophy degree. "You'll work in a coffee shop asking people *why* they want creme with that."
 2. Some think philosophy is a waste of time. Arthur Koestler said it is "the systematic abuse of a terminology specially invented for that purpose." If it's just sharing your opinion -- who cares?
+3. Others have no idea what philosophy is. 
 
-On the other hand, a philosophy degree has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," and of course -- *all* people by nature desire to know (Aristotle, *Metaphysics* I.1.)
+On the other hand, a philosophy degree has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," because philosophy majors excel in the job market and earn more money than business majors. Furthermore, *all* people by nature desire to know (Aristotle, *Metaphysics* I.1.)
 
 I answer, you should consider philosophy for three reasons:   
 (1) philosophy helps you achieve your career goals in law, business, ministry, journalism, counseling, politics, homemaking, education, or academia.  
 (2) philosophy helps you live a successful life and be happy;   
 (3) philosophy is a fun, fulfilling, human activity -- an end in itself. 
 
-If one *or more* of these reasons applies to you, consider a philosophy major or minor. Let's look at each in a bit more detail. 
+Consider a philosophy major or minor if one or more of these reasons applies to you. Let's look at each in a bit more detail. 
 
-## Philosophy as a means to your career goals: 
-1. Philosophy on average [make better money than business majors](http://www.payscale.com/2008-best-colleges/degrees.asp), are [#1 for mid-career growth](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg). 
+## Philosophy will help you earn more money: 
+Philosophy majors on average [make better money than business majors](http://www.payscale.com/2008-best-colleges/degrees.asp). They earn more than biologists, psychology, and communication majors. They are [#1 for mid-career growth](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg). 
 
-You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you will always find fun, challenging, fulfilling jobs, and make plenty doing it. — more, in fact, than majors in chemistry, biology, and psychology.
-
-### SOME RANKINGS OF UNDERGRADUATE DEGREES BY MEDIAN SALARY ###
-
-| Degree                |        Starting  | Mid-Career |         Rank |
+**Median Salary Data**
+| Degree                |        Starting salary  | Mid-Career Salary |         Rank |
 |-----------------------|------------------|------------|--------------|
 Chemical Engineering    |  $63,200 | $107,000  |  # 1
 Mathematics             |  $45,400 | $92,400  | # 10
@@ -43,17 +41,33 @@ Communication           |  $ 38,100|  $70,000 |  # 28
 Biology                 |  $38,800 | $64,800  | # 34
 Psychology              |  $35,900 |  $60,400  |   # 39
 
-### Philosophy is transferable ###
+You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you will always find fun, challenging, fulfilling jobs, and make plenty doing it. — more, in fact, than majors in chemistry, biology, and psychology.
 
-3. Since philosophers learn the [“ultimate transferable work skill”](http://www.cep.unt.edu/times.html) they are almost never unemployed.
-2. Studying philosophy helps you master the most universal and lucrative [job skills]( http://www.forbes.com/2010/02/18/most-important-job-skills-personal-finance-universal.html). Communication, argument, teamwork, creativity, curiosity are the meta-skills — they apply to every discipline and any working professional, including the most important jobs in the world, being a husband or wife, father or mother, lover or friend. 
-- Philosophy study helps you to **communicate**: Good philosophy communicates across languages and cultures across generations, centuries, even millennia. A philosophy major means you have spent hundreds of hours reading, writing, listening to, and making arguments in an attempt to communicate clearly.  
-- Philosophy helps you to **argue**: [Ideas have consequences.](https://en.wikipedia.org/wiki/Ideas_Have_Consequences) Arguments rule the world — all the practices of government, public policy, business enterprise, scientific advancement, and even religious communities play out in practice the conclusions of good arguments. A philosophy major means you have read and written and understood dozens of dense, complicated, and sophisticated arguments. 
-- Philosophy helps you acclimate to high-level **teamwork**: Every employer, company, family — virtually every human group — lives and breathes cooperative collaboration. A philosophy major means you have engaged in hundreds of hours of careful conversation, problem-solving, and verbal interaction especially in a group. 
-- **Creativity**: Innovation drives business, law, science, and medicine. While employers are increasingly desperate for it, many educational practices actually stifle our native creativity. A philosophy major means you have spent years encouraging (nay, demanding) the acquisition of the invaluable habit of [thinking outside the box.]( "To Beat the Market, Hire a Philosopher", New York Times.s)
-- **Curiosity**: As children, everyone philosophizes. Somewhere along the way, most of us lose that curiosity. Einstein or somebody said “Never lose a holy curiosity.” A philosophy major means you have cultivated this innate germ, however small, into a disciplined, reliable skill you can apply to any area of life. 
 
-2. Philosophy majors excel in a [wide variety of careers](http://www.guardian.co.uk/education/2007/nov/20/choosingadegree.highereducation). Who majored in philosophy? Your professors. But not *just* your professors. I mean, if studying philosophy is good enough for Han Solo, it’s good enough for you.
+## Philosophy will help you get the right job:
+Since philosophers learn the [“ultimate transferable work skill”](http://www.cep.unt.edu/times.html) they are almost never unemployed.
+
+
+##Studying philosophy helps you master universal [job skills:]( http://www.forbes.com/2010/02/18/most-important-job-skills-personal-finance-universal.html). 
+Communication, argument, teamwork, creativity, curiosity are the meta-skills — they apply to every discipline and any working professional, including the most important jobs in the world, being a husband or wife, father or mother, lover or friend. 
+
+## Philosophy study helps you to **communicate:** 
+Good philosophy communicates across languages and cultures across generations, centuries, even millennia. A philosophy major means you have spent hundreds of hours reading, writing, listening to, and making arguments in an attempt to communicate clearly.  
+
+## Philosophy helps you to **argue**: 
+[Ideas have consequences.](https://en.wikipedia.org/wiki/Ideas_Have_Consequences) Arguments rule the world — all the practices of government, public policy, business enterprise, scientific advancement, and even religious communities play out in practice the conclusions of good arguments. A philosophy major means you have read and written and understood dozens of dense, complicated, and sophisticated arguments. 
+
+## Philosophy helps you acclimate to high-level **teamwork**: 
+Every employer, company, family — virtually every human group — lives and breathes cooperative collaboration. A philosophy major means you have engaged in hundreds of hours of careful conversation, problem-solving, and verbal interaction especially in a group. 
+
+## Philosophy develops **Creativity**: 
+Innovation drives business, law, science, and medicine. While employers are increasingly desperate for it, many educational practices actually stifle our native creativity. A philosophy major means you have spent years encouraging (nay, demanding) the acquisition of the invaluable habit of [thinking outside the box.]( "To Beat the Market, Hire a Philosopher", New York Times.s)
+
+## Philosophy develops **Curiosity**: 
+As children, everyone philosophizes. Somewhere along the way, most of us lose that curiosity. Einstein or somebody said “Never lose a holy curiosity.” A philosophy major means you have cultivated this innate germ, however small, into a disciplined, reliable skill you can apply to any area of life. 
+
+## Philosophy majors excel in a [wide variety of careers](http://www.guardian.co.uk/education/2007/nov/20/choosingadegree.highereducation): 
+Who majored in philosophy? Your professors. But not *just* your professors. I mean, if studying philosophy is good enough for Han Solo, it’s good enough for you.
 
 Philosophy departments have churned out a one or two people you may have heard of, including: 
 * U.S. Presidents (Thomas Jefferson)
@@ -84,14 +98,19 @@ Government: Have an eye on office? Check out the list of folks who started in Ph
 If you want to play like the best, you have to practice like the best. If one of your heroes is on this list, consider adding a philosophy major or minor to your resume. 
 
 
-
-
 ## Philosophy as an end in itself 
-
-Philosophy can help you live life and be happy. 
 
 But perhaps the most compelling reason to study philosophy is that you are a philosopher at heart. You can’t help it. You love it. You are one of us. 
 
+Philosophy can help you live life and be happy. It can help make you more human. Philosophy is an academic discipline and also [a way of life](http://www.iep.utm.edu/hadot/#SH4b). 
+
+According to Pierre Hadot (as summarized by Matthew Sharpe): 
+
+> ... philosophy involves the individual’s love of and search for wisdom... this wisdom involve[s] “first and foremost . . . a state of perfect peace of mind,” as well as a comprehensive view of the nature of the whole and humanity’s place within it... attaining to such *Sophia*, or wisdom, was the highest Good for human beings... by contrast, most people live unwise lives most of the time.
+
+Some people are possessed with the insatiable desire for knowledge. Philosophical training, and/or scientific and mathematical training, is one of the best ways to exercise this desire. 
+
+## Conclusion
 
 So go ahead, think about it. Talk to your professor about it. 
 
