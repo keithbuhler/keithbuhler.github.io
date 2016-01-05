@@ -57,7 +57,7 @@ Bethany painted this based off a photograph I took of a fall day in Paso Robles,
 
 ## Experimental fun stuff
 
-<img src="/img/pumpkin-harry.jpg" alt="pumpkin-harry" height="350" width="500">
+<img src="/img/pumpkin-harry.jpg" alt="pumpkin-harry" height="380" width="500">
 
 Harry Potter (pumpkin)
 
