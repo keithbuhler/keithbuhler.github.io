@@ -25,7 +25,7 @@ Gandalf (Oil clay)
 Dante (Oil clay)
 
 
-<img src="/img/tiger-box.jpg" alt="Tiger box">
+<img src="/img/tiger-box.jpg" alt="Tiger box" height="500" width="500">
 
 Tiger Box, sculpted in water clay, fired, and painted with acrylic
 
@@ -52,7 +52,7 @@ Americans getting directions in Italy
 
 <img src="/img/bethany-heimbigner-small.jpg" alt="Painting based off my photograph" height="250" width="500">
 
-Bethany painted this based off a photograph I took of a fall day in Paso Robles, CA.
+My friend [Bethany](https://www.freelanced.com/freelancers/portfolio/slides.aspx?freelancerid=120056&sampleid=296661) did an amazing painting inspired by a photograph I took of a fall day in Paso Robles, CA.
 
 
 ## Experimental fun stuff
@@ -63,27 +63,28 @@ Harry Potter (pumpkin)
 
 <img src="/img/pumpkinzilla.jpg" alt="pumpkinzilla" height="350" width="500">
 
-Godzilla Pumpkin
+Pumpkinzilla (pumpkin)
 
 <img src="/img/pumpkin-jabba.JPG" alt="Jabba the Hutt Pumpkin" height="380" width="500">
 
-Jabba the Hutt Pumpkin
+Pumpkin the Hutt (pumpkin)
 
 <img src="/img/snowman-2015.jpg" alt="Snow" height="400" width="500">
 
-Snowdog snowwalk
+Snowdog snowwalk (frozen water)
 
 
 <img src="/img/thomas.jpg" alt="Thomas the Train" height="500" width="500">>
 
-Thomas the Tank Engine
+Thomas the Tank Engine (cake)
 
 
+## Coming soon
 
-Desert
+Desert photos
 
-Silly Putty
+Silly Putty art
 
-Painting
+Paintings
 
-Graphite
+More graphite drawings
