@@ -1,6 +1,6 @@
 ---
 layout: fun
-title: art
+title: Art
 ---
 
 <img src="/img/keith-getty.jpg" alt="Getty"> 
