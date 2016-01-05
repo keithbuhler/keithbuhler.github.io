@@ -108,14 +108,7 @@ The primary work if this class will be to read, understand, and critique these b
 * Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
 
 ### Quizzes
-A short reading quiz is due almost every class day. These assess whether you read, and how well. They are mandatory and graded. You have 10 minutes for each quiz, and they are due at the beginning of class. 
-
-### Participation:
-To get the most out of this class, you must take responsibility for your own participation. Participation in this class takes two forms: discussing (external processing) and writing (internal processing). Everyone will participate in these two ways. But you get to pick your emphasis. Are you an internal or external processor? 
-
-*Writing Emphasis:* If you want to emphasize writing, to earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
-
-*Speaking Emphasis:* If you want to emphasize talking, you will be on my “go to” team to talk in class (instead of posting reflections after class).  
+I may post short reading quizzes to assess whether you read and how well. 
 
 ### Attendance:
 We need you here! Attendance is mandatory. Roll will be taken each class. (Being repeatedly or egregiously late will count as an absence.) 1 to 6 unexcused absences are freebies — no credit lost. 7 or more unexcused absences cause bigger and bigger deductions from your participation grade. (8 is a letter grade) You are paying for this education including this class, so why wouldn’t you make the most of it?  
@@ -124,15 +117,23 @@ We need you here! Attendance is mandatory. Roll will be taken each class. (Being
 
 This is a dialogue-oriented class. Every person is responsible to participate. 
 
-*Speaking Emphasis:* "External processors" emphasize talking. You will be on my “go to” team to talk in class (instead of posting reflections after class).  
+Participation in this class takes two forms: discussing (external processing) and writing (internal processing). Everyone will participate in these two ways. Class discussions will be lead by me and by students. Everyone will lead the discussion about 1-2 during the semester. 
 
-*Writing Emphasis:* "Internal procesors" emphasize writing.  to earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+Everyone will write short, argumentative synthesis papers. These will be assigned throughout the semester. 
+
+That said, you get to pick your emphasis. Are you an internal or external processor? 
+
+*Writing Emphasis:* If you want to emphasize writing, to earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+
+*Speaking Emphasis:* If you want to emphasize talking, you will be on my “go to” team to talk in class (instead of posting reflections after class).  
 
 Everyone starts at an 80% for the discussion grade; you can move up from there or down, depending on whether you speak or write once per week, pay attention, and offer helpful contributions.
 
 Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs. 
 
 A discussion is more than just sharing opinions; it is a friendly, eager, sincere search for truth. We can't judge each other, but we must judge each other's opinions, and test them for truth. We discuss because it is more interesting; it helps us retain the information; it challenges our own viewpoint; and because philosophy itself is a dialogue. Discussion ground rules are posted online. 
+
+
 
 ### Philosophical Disputation Papers: 
 At midterm and end of term, you will write a philosophical paper arguing a thesis and defending it against objections. Each paper is worth 25% of the semester grade. The instructions for these assignments are on Discovery.
