@@ -48,23 +48,46 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 
 
 <figure>
-<img src="http:keithbuhler.github.io/img/whitman.jpg" alt="whitman" height="600" width="500">
+<img src="/img/whitman.jpg" alt="whitman" height="600" width="500">
   <figcaption>Walt Whitman's Beard</figcaption>
 </figure>
 
+<figure>
 <img src="/img/tolstoy.jpg" alt="tolstoy" height="600" width="500">
+<figcaption>Leo</figcaption>
+</figure>
 
+<figure>
 <img src="/img/lincoln.jpg" alt="lincoln" height="500" width="500">
+<figcaption>Abe</figcaption>
+</figure>
 
+<figure>
 <img src="/img/gimli.jpeg" alt="gimli" height="500" width="500">
+<figcaption>Gimli</figcaption>
+</figure>
 
+<figure>
 <img src="/img/hagrid.jpg" alt="hagrid" height="400" width="500">
+<figcaption>Hagrid</figcaption>
+</figure>
 
+<figure>
 <img src="/img/gandalfphoto.jpg" alt="gandalf" height="380" width="500">
+<figcaption>Gandalf the Grey</figcaption>
+</figure>
 
+<figure>
 <img src="/img/douglas.jpg" alt="douglas" height="700" width="500">
+<figcaption>Douglas</figcaption>
+</figure>
 
+<figure>
 <img src="/img/fyodor.jpeg" alt="fyodor" height="400" width="500">
+<figcaption>Dosteyevsky</figcaption>
+</figure>
 
+<figure>
 <img src="/img/mechanics.jpg" alt="mechanics" height="300" width="500">
-
+<figcaption>Rembrandt Mechanics</figcaption>
+</figure>
