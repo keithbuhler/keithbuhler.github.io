@@ -25,7 +25,7 @@ Gandalf (Oil clay)
 Dante (Oil clay)
 
 
-<img src="/img/tiger-box" alt="Tiger box">
+<img src="/img/tiger-box.jpg" alt="Tiger box">
 
 Tiger Box, sculpted in water clay, fired, and painted with acrylic
 
