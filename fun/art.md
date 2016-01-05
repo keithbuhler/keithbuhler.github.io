@@ -14,7 +14,7 @@ As a devout amateur, I am often creating art. I like to draw, paint, and sculpt,
 
 ## Sculpture
 
-<img src="/img/gandalf2.jpg" alt="GANDALF" >
+<img src="/img/gandalf4.jpg" alt="GANDALF" >
 
 Gandalf (Oil clay)
 
