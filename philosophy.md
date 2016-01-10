@@ -11,8 +11,13 @@ title: Philosophy Portal
 
 <img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 
+#### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
+* Yes, because of [what a philosophy degree can do for you: namely, a good job, higher salary than business degree, and answers to life's deepest questions](/fun/philosophy-major)
+* Also, [(almost) everyone should study some philosophy.](http://www.whystudyphilosophy.com)
+
 #### I Just Joined Your Class; What Should I Do? ####
 * Take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
+* Have your mind blown: Open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 * Send me an email introducing yourself!
 
 #### I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
@@ -35,10 +40,6 @@ title: Philosophy Portal
 * Do the opposite of [this.](http://www.rinkworks.com/persuasive/)
 
 
-#### I Kinda Like Philosophy; Should I Major in it? ####
-* [What a philosophy degree can do for you: a good job, higher salary than business degree, and answers to life's deepest questions](/fun/philosophy-major)
-* [Why (almost) everyone should study philosophy.](http://www.whystudyphilosophy.com)
-
 #### I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
 * [Plato, *Alcibiades I*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168)
@@ -49,13 +50,10 @@ title: Philosophy Portal
 * [JP Moreland, *The God Question*](https://books.google.com/books?id=o7dGOrvdojUC&pg=PA4&lpg=PA4&dq=the+god+question+moreland&source=bl&ots=wraAQEf13U&sig=U3Ci1yLS92sc7YoM1gCWIgNVKTA&hl=en&sa=X&ved=0ahUKEwj-k_X1jP_JAhVGy2MKHU6bBiMQ6AEISzAG#v=onepage&q=the%20god%20question%20moreland&f=false)
 
 
-#### I'm Serious. I *Really* Like Philosophy; What Should I Read Next? ####
-* [Plato, *Republic*]
-* [Aristotle, *Metaphysics*]
-* [Thomas Aquinas, *Summa Theologica*](http://www.newadvent.org/summa/)
-* [Nietzsche, Geneaology of Morals]
-* [Kant, *Metaphysics of Morals*]
-
+#### No, Seriously, I *Really* Like Philosophy; What Should I Do? ####
+* Read [Plato, *Republic*], [Aristotle, *Metaphysics*], [Thomas Aquinas, *Summa Theologica*](http://www.newadvent.org/summa/), [Nietzsche, Geneaology of Morals], and [Kant, *Metaphysics of Morals*], if you haven't yet.
+* Talk to your professors. 
+* Read about what it's like to be a professional academic. 
 
 #### What's It Like to Be a Professional Academic? ####
 * [Here's my story](/fun/phd-how-to) about deciding, applying, and working through graduate school.
@@ -65,14 +63,6 @@ title: Philosophy Portal
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, the bad, and the ugly. 
 
 
-
-#### Misc Links
-* [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
-* [Mortimer Adler, The Great Ideas](http://www.thegreatideas.org/greatideas1.html) for a quick summary of the 102 biggest ideas in Western thought. 
-* [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
-* [Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.](http://works.bepress.com/clair_morrissey/4/)
-* [Learn more about how to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
-* [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
 
 #### I Just Finished Your Class; What Should I Do? ####
 - Do the Course Evaluation.
@@ -86,3 +76,11 @@ title: Philosophy Portal
 
 #### I have other questions -- can we talk? ####
 - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
+
+#### Misc Links
+* [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
+* [Mortimer Adler, The Great Ideas](http://www.thegreatideas.org/greatideas1.html) for a quick summary of the 102 biggest ideas in Western thought. 
+* [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
+* [Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.](http://works.bepress.com/clair_morrissey/4/)
+* [Learn more about how to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
+* [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)

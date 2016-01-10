@@ -1,0 +1,55 @@
+---
+layout: fun
+title: Three Distinctives of Classical Education
+---
+
+Have you ever noticed that God doesn’t give us a task because we’re worthy of it? He gives us a task because it needs to get done, and he gives us grace to do it. Parenting is like this. We're not up for the task, but it needs to be done. Education is like this. Classical education is simply a commitment to do what has worked in our own time. In that sense, "Classical education" is a diverse set of best practices. 
+
+in my experience, has three distinctives: Great Books, Great Conversation, Great Hearts. What we learn is different; how we learn is different; and *why* we learn is different. 
+
+
+## Three Distinctives of Classical Education
+
+
+### Great Books 
+
+Number one is the "great books."" What we study is unique. You'll never study a textbook that was written by committee of secular eductators, or professional educators in on Capitol Hill who are trying to decide how to put everything politically correctly and feed it to the to the children in schools as young as possible. 
+
+You may find textbooks written by classical educators like Martin Cothran or Christopher Perrin, but you'll also find books themselves. The Holy Bible; the Republic of Plato; the city of God by Augustine; we read not only modern classics like CS Lewis and J.R.R. Tolkien's *the Hobbit*, but we read old books. The *Tao te Ching* which influence CS Lewis not a Christian book, but it's a good book. Not completely true, it's not inspired, but it's very worth reading. Beowulf, which influenced JR Tolkien, and so on.
+
+What makes a great book great? This is a hard question. But here are a few reflections. 
+
+Suppose there's a normal scale of quality from 1-100. Maybe someon recommends a book and it's a 60 or 80 out of 100. Maybe your favorite book of all time is in the 90s or 95s. 
+
+The book we read in high school that you can't reread ever since that is a big 80 of 100. 
+
+The great books are like anywhere between 99.95 and 99.99 in terms of the quality. 
+
+The impact, the power, these are books that before the printing press people took the time to recopy and so we just read those.  Why not start there? There's nothing magical about old books; if you get the best books from the future we would take that!  The old books have taken time to be whittled out. It's like watching the 10 best TV shows of the last what, 60 years. 
+
+How long is TV that around identity and TV  some shows preventing is TV in principle but there's so much crap on their every good show you Australian good episode. Mr. Wade through 100 there a waste of your time or detrimental. So what if in 500 years we could gather all the best shows from the 1950s to 2013 and maybe it's watch and maybe all the rest of it falls away and show that two people for entertainment for some instruction.
+
+
+Also, because God wrote a Holy Book. If God made the Holy Movie maybe we’d study more films. Not just books, but Great Texts. Wherever goodness, truth, and beauty can be found, that’s we’re going to discuss. We do study a couple of films in the Inklings. 
+
+
+### Great Conversation 
+The second distinctive is discussion oriented education called Socratic discussion called it interactive classroom college dialogue. There's something consistently look at classical schools and even some charter schools are doing this now and small colleges naturally build their classrooms around discussion. This requires smaller class sizes, which is one of the limitations it only gets me students into a room with an educator, expect there to have it. Expect them to have a discussion, so why discussion, the research shows that whatever you teach me you remember. So if I'm teach new material I remember it you listening are you remember all discussions away of you teaching me students teach the teachers I commend the class of the question. I may or may not know the answer to if I don't know the answer then it's because I want to learn it I want the students to learn it with me. I do know the answer is because I want to see what the students think and test my own answer because they may have a better one. So when I asked the question the students begin teaching me is a great organization called philosophy for kids that's created a second grade curriculum of many great books really good picture books and stories and they have discussions with the second graders and you can see these eight-year-olds seven-year-olds is a six-year-old teaching the teacher about ethics because they get and really driving home points but I'm certain her last them for years to come if not the rest of your life and making arguments engaging in logical discourse. They may not have my philosophy grad student vocabulary but they have some of my philosophy grad student ideas and so when we take the great books put them in front of you and you read them and I read them and your parents read them. We cannot talk about. We're all dying to talk about. So when adjusted in the classroom in a more focused and disciplined way. Like I've spent 1000 hours learning how to lead a discussion and I'm still a beginner. It's disciplined and yet there's always something to learn and I'm always making basic mistakes in trying to correct myself and my ninth-grade students with cocaine say that discussion was no good and I'll say great why and I'll say we wasted too much time and I'll say you're right, all the better. How are you can help and we'll talk about it. It's a group project because it's careful it's disciplined or not your sharing our opinions. It's going somewhere and yet it's real life role coming to this book, trying to understand.
+
+Socratic dialogue: Studies show that students retain 5 times more (50% instead of 10%) that they learn in an interactive environment. 
+We come to know each other and ourselves in dialogue. We come to be friends, co-learners, for a lifetime. 
+
+
+
+### Great Hearts
+The third distinction is the motivation for education itself. 
+
+Why do we do education if you have someone why they're going to school you realize the motivation has been lost. Why are you going to school so I can go to more school is basically answer why are you going to this high school so I can get into a good college but then why get into a good college psyching get a good job will I get a good job so I can have lots of money. Why have lots of money so I can afford to send my kids to a good school. This doesn't make sense and also if you're getting an education just to get a good job. There's 100 more efficient ways to do so right how many of you were working by the time you're 16 and it just turns out that's a better way to prepare for your job. Where were headed is character formation and it's not just character formation, its character transformation because Jesus Christ was a human being and he was God. Jesus Christ is fully divine and fully human, and we are called the walk in his footsteps. So to remain merely human is not her calling, but Paul as Paul says to grope the full stature to be sons of God to be united to Christ in our education. Yes at the kindergarten in the prekindergarten level at the high school level at the college level at the graduate school level at the level of working in your career and continuing education is about answering that calling. It's about not just learning some new fax but overcoming my sins overcoming my ignorance I God's grace and that starts with knowledge of ignorance that starts with repentance and so school and church and family work in harmony to produce the same goal parents what you want, except for a student, a child who grows up to be mature, loving, caring, compassionate, responsible in a word, a virtuous human being and what church are we therefore yes to pay God is due to worship God to follow God to obey God what is God tell us to do P holy as my father in heaven is holy or in Paul's words be like Christ as I am like Christ. And so in school were not detracting from that purpose. God forbid, were not training people to disbelieve the tenets of the faith were not training people to do whatever they want or not passing out tools that no high school student who's not married should touch in the name of education were advancing the calling that we've been given by God. The responsibility individually and corporately that we've been given to pursue his son and to become like his son and don't ask me how it happened but it it happens when we sit around a book of Plato and have a hard discussion, it happens. We sit around the gospel of John, and have a hard discussion is only one part of the People's part of the puzzle but it's an important part in it something that you can be a part of is your chill child reads virtual in Lawrenceville Roman history and as they learn how to learn which will take them on into adulthood and treat them well. 
+
+
+### One More Story
+One more story as a close and that is about CS Lewis, who was shipped off to boarding school is a nice young British boy when he was about 12 years old and from Ireland to England and met his tutor to his dad always said was a really nice fellow good friend who turned out to be an ironfisted ruler of education and speeds books before Lewis was a Christian, he converted much later in life under the influence of his friend you are talking among others by learning Greek books and Latin books by reading Homer and audit and Virgil, a young age the world opened up to him the best art the best architecture the best science the best music and in that air. One can only be a non-Christian for so long and as one who is passionate about the truth and who had the honor to follow the argument wherever it led into stick to his own promises. He eventually found they found the Anglican Christian expression that was so out of fashion in his time and Jack as he was known to his friends. Dr. Lewis Prof. Lewis started swimming against the stream and he got nothing for it. He lost friends he lost jobs. He was insulted. He was ill reputed in his little college and he wrote a few books that have been made into movies called the Chronicles of Narnia and the first three or four films so far have grossed $1 billion all over the world to this man's intellect which was so passionately Christian, so powerfully intelligent these persuaded thousands to the faith driving them back to the Bible, back to the son of God the gamut that ironfisted educator in England foreseeable learn history paradigms against his will so hold out hope. There's a lot to this were not perfect, but we see what we could have ever going for it
+
+## Conclusion
+
+So as we all pursue her continuing education if the kingdom. May help us to become better students, better disciples,  better Christians in the service of his gospel, for of all his people Christian or non-Christian, until we come to see the good, the true the beautiful itself, Jesus Christ our Lord.

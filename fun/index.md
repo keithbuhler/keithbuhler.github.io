@@ -3,7 +3,7 @@ layout: fun
 title: Keith Buhler's Personal Website
 ---
 
-<a href='/img/charles-williams-quote.png'/></a>
+<a href="/img/charles-williams-quote.png"></a>
 
 Hi, I'm Keith Buhler. Welcome to my personal site, where you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](/fun/inklings), and learn how to [meditate](/fun/meditation), or enjoy some of [my nonfiction, fiction, screenplays, and satire](/fun/writings). 
 

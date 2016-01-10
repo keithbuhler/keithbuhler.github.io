@@ -8,7 +8,7 @@ title: Research
 
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
-I’m also currently writing my [dissertation](/fun/phd) on the virtue ethics of Alasdair MacIntyre, Philippa Foot, John McDowell and others. 
+I’m currently writing my [dissertation](/fun/phd) on the virtue ethics of Alasdair MacIntyre, Philippa Foot, John McDowell and others. 
 
 My research explores the relation between virtue, practical rationality, and happiness. What exactly is a virtue and what is a vice? Is rationality a virtue? Is happiness just as “natural” as health – and what do we mean by ‘natural’ anyway? Answering these questions demands an analysis of what Foot calls "natural goodness" or natural function, and a serious dialogue with metaphysical naturalism. I suspect that a defense of "natural teleology" -- properly defined -- is a key to ethical theorizing and ethical living.
 

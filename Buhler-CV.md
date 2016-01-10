@@ -2,8 +2,8 @@
 layout: default
 --- 
 
-### Keith Buhler [Curriculum Vitae](http://keithbuhler.github.io/Buhler-CV.pdf)
-
+### [Curriculum Vitae](http://keithbuhler.github.io/Buhler-CV.pdf)
+Keith Buhler  
 Department of Philosophy  
 University of Kentucky  
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -11,7 +11,7 @@ University of Kentucky
 562.230.2920  
 
 ### Research Interests 
-*Area of Specialization:* Ethics (especially Virtue Ethics and Metaethics).   
+*Area of Specialization:* Ethics (Virtue Ethics and Metaethics).   
 *Areas of Competence:* Ancient Philosophy, Philosophy of Religion, Metaphysics, and Philosophy of Mind.
 
 ### Education
@@ -40,18 +40,18 @@ Introduction to Logic (2012-13, UK)
 
 ### Other Teaching and Leadership
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
-2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy, La Mirada CA.  
+2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy.    
 2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA.  
-2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy, Fullerton, CA.   
+2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy.  
 2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA.  
+2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy.  
 2004 (summer) &nbsp;&nbsp; Teaching Assistant, Philosophy of Science, Biola University, CA.  
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 2001 (summer) &nbsp;&nbsp; English Teacher, Campus Crusade, Mongolia.  
 
 ### Affiliations
-American Philosophical Association, 2014  
-Society for Medieval & Renaissance Philosophy, 2014  
+American Philosophical Association, 2014-present  
 Society of Orthodox Philosophers in America, 2014-present  
 International Society for MacIntyrean Enquiry, 2015-present  
 

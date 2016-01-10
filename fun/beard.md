@@ -1,14 +1,14 @@
 ---
 layout: fun
-title: beard
+title: How to Grow a Beard
 ---
 
 # How to grow a beard in 3 easy steps #
 
 ### 1. Be Born a Male. ###
-This is the first and in many ways the easiest step. Your parents do all the work by having sex. Your part is simply to implant in the uterine wall, gestate for a lunar year, and descend out of your mother’s body. 
+This is the first and in many ways the easiest step. Your parents do all the work. Your job is simply to implant in the uterine wall, gestate for a lunar year, and descend out of your mother’s body. 
 
-This step is also the easiest to mess up. If you are born a female, steps 2-3 just won’t work for you. There are *other* ways of getting a beard but... give up now. 
+This step is also the most treacherous. For example, if you are born a female, steps 2-3 won’t work for you without *a lot* of additional labor. It is possible to learn this power... but not from a Jedi.
 
 ### 2. Go through Puberty. ###
 This step is hard. It is not hard technically to *do*. Puberty is something done to you by benevolent but pitiless hand of Father God and Mother Nature. 
@@ -91,3 +91,8 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 <img src="/img/mechanics.jpg" alt="mechanics" height="300" width="500">
 <figcaption>Rembrandt Mechanics</figcaption>
 </figure>
+
+
+## Beards of Philosophers
+
+> As historian John Sellars puts it, Epictetus "affirmed the philosopher's beard as something almost sacred...to express the idea that philosophy is no mere intellectual hobby but rather a way of life that, by definition, transforms every aspect of one's behavior, including one's shaving habits. If someone continues to shave in order to look the part of a respectable Roman citizen, it is clear that they have not yet embraced philosophy conceived as a way of life and have not yet escaped the social customs of the majority...the true philosopher will only act according to reason or according to nature, rejecting the arbitrary conventions that guide the behavior of everyone else."
