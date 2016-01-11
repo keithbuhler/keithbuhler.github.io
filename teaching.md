@@ -13,6 +13,10 @@ PHI 130: Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1
 PHI 120: Introduction to Logic  
 PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit))  
 
+
+<img src="/img/mechanics.png" alt="propermeasure" align="center" hspace="15">
+
+
 ### Official Student Course Evaluation Statistics
 +  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
 +  3.6 out of 4, cumulative average in overall teaching quality, Asbury University
