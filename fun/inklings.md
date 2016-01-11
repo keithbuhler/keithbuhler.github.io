@@ -6,18 +6,19 @@ title: The Inklings
 # The Inklings #
 <img src="https://s-media-cache-ak0.pinimg.com/originals/1d/bb/8c/1dbb8ca335236ef015d7fa82fb9ed79f.jpg" alt="Inklings">
 
-The vision of the Inklings.info is to be the one-stop web shop for free information about the Inklings, and for free books, essays by the Inklings.  
+The vision of the Inklings.info is to be the one-stop hub for free writings by the Inklings and free information about the Inklings.
 
-Our mission is to gather comprehensive lists of the major Inklings (Lewis, Tolkein, Williams, and Barfield) and link to their major works. 
+Our mission is to gather exhaustive information about each major Inkling (Lewis, Tolkein, Williams, and Barfield) and link to their major works. 
 
 Our specific goals are:  
 
 * to list all the major and minor Inklings (and link to more information)
-* for each major Inkling, to list names of all their books, essays, plays, and other writings
+* for each major Inkling, to list **all** their works
 * to list all the free e-books available online (and link to them)
-* to list all the books available for purchase (and link to them)
-* to list all their major influences, such as George MacDonald, G. K. Chesterton, Dante, the Bible, etc. (link to them)
-* to list all those whom they majorly influenced (movies, mentees, books about them)
+* to link to all the books available for purchase
+* to link to more information about **all** their major influences, such as George MacDonald, G. K. Chesterton, Dante, the Bible, etc. 
+* to link to more information about those whom they majorly influenced (movies, mentees, books about them)
+* to curate the **best** online Inklings resources
 
 
 ## The Major Inklings
@@ -36,6 +37,7 @@ The major Inklings are:
 ## Writings for download ##
 
 Lewis
+
 * [C.S. Lewis, Abolition of Man](https://drive.google.com/file/d/0B0CYQDZ8AWu8aHl5M2x5WERmT3M/edit?usp=sharing)
 * [C.S. Lewis, Mere Christianity](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
 * [C.S. Lewis - Miracles](/img/Lewis - Miracles.docx)
@@ -47,6 +49,7 @@ Tolkien
 * [Tolkein, The Pearl]
 
 Williams
+
 * [Charles Williams, War in Heaven](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
 * [Charles Williams, Many Dimensions](https://drive.google.com/file/d/0B0CYQDZ8AWu8dDF1TUdsUDVMa28/edit?usp=sharing)
 * [Charles Williams, The Place of the Lion](https://drive.google.com/file/d/0B0CYQDZ8AWu8TlBQTWpBWGdIQUU/edit?usp=sharing)
@@ -73,19 +76,28 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 
 
 
-## Lists Of 
+## Complete works lists 
+
+4. [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
+
+[The Complete Works of J.R.R. Tolkein](pending)
 
 3. [The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)  
-4. [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
+
+
 5. [The complete works of Owen Barfield](http://davidlavery.net/barfield/)  
-6.
+
 
 
 ## Books for purchase
 1. Lewis
 2. Tolkein
 3. Williams
-4. Barfield, [Barfield, History of English Words](http://amzn.to/1Pqhoc6); [Barfield, Poetic Diction](http://amzn.to/1PqhrVx)
+4. Barfield
+
+[Barfield, History of English Words](http://amzn.to/1Pqhoc6); 
+
+[Barfield, Poetic Diction](http://amzn.to/1PqhrVx)
 
 
 
@@ -95,7 +107,6 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 
 ## Books about Inklings ##
 
-[The Oxford Inklings](http://amzn.to/1OQVFFD)
 
 
 Lewis
@@ -116,13 +127,16 @@ Williams
 
 Barfield
 
+All
+
+[The Oxford Inklings](http://amzn.to/1OQVFFD)
 
 
 
 
 
 
-## Inklings Societies
+## Inklings Society
 
 Lewis
 
@@ -149,9 +163,11 @@ Other
 
 
 
-## Web Resources
+## Curated Web Resources
 
 Lewis
+
+[Narnia.com]( https://www.narnia.com/us)
 
 Tolkein
 
@@ -160,7 +176,7 @@ Williams
 [The Oddest Inkling](https://theoddestinkling.wordpress.com/about/)
 
 Barfield 
-[Narnia.com]( https://www.narnia.com/us)
+
 
 
 
@@ -168,6 +184,13 @@ Barfield
 1. Warren Lewis (Lewis' brother)
 2. Hugo Dyson
 3. Doug Greshem (Lewis son)
+4. Christopher Tolkien (Tolkein's son)
+5. Roger Lancelyn Green
+6. Adam Fox
+7. Robert Havard
+8. J. A. W. Bennett
+9. Lord David Cecil
+10. Nevill Coghill
 
 
 ## Honorary Inklings
@@ -178,10 +201,8 @@ Barfield
 
 ## Major Influences on Inklings
 
-* George MacDonald ([Father of Inklings](http://fatheroftheinklings.com/))
-* G.K. Chesterton.
-* [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/)  
-* [The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)  
+* George MacDonald, the ([Father of Inklings](http://fatheroftheinklings.com/))
+* G.K. Chesterton -- [The Complete Works of G.K. Chesterton (e-books)](http://www.cse.dmu.ac.uk/~mward/gkc/books/); * [The Complete Works of G. K. Chesterton (bibligography)](http://www.gkc.org.uk/gkc/books/bib.html)  
 * Plato
 * Dante
 * Norse Mythology
