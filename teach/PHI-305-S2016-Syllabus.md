@@ -251,8 +251,9 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 9. **Enjoy philosophy**. We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it. 
 
 
-### Readings of Interest
+### Links to Readings of Interest
 * [How Government Killed Health Care](http://www.cato.org/publications/commentary/how-government-killed-medical-profession) The author describes how "coding" diseases and diagnoses  in order to submit reimbursements for medicare lead to a distortion of diagnosis. "One of my colleagues, a noted pulmonologist with over 30 years’ experience, fears that teaching young physicians to follow guidelines and practice protocols discourages creative medical thinking and may lead to a decrease in diagnostic and therapeutic excellence. He laments that “ ‘evidence-based’ means you are not interested in listening to anyone."
 * [Live for ever: scientists aim to extend life "well beyond" 100](http://www.theguardian.com/science/2015/jan/11/-sp-live-forever-extend-life-calico-google-longevity) Google's CA Life Company is working actively on transhumanism.
 * [Midwives in America](http://www.midwiferytoday.com/articles/timeline.asp)
+* [Friends are good for your health](http://m.livescience.com/53315-how-friendships-are-good-for-your-health.html)
 

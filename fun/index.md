@@ -39,6 +39,7 @@ This site is a somewhat random collection of fun things. Some are complete, othe
 * [My new (empty) blog](http://keithbuhler.github.io./blog)
 * [Writing tools](/fun/writing-tools)
 * [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/fun/speaking)
+* [Star Wars - When R2-D2 Saves the Galaxy](/fun/R2-D2-Saves-the-Galaxy)
 * Politics
 * Classical Education
 * Attention Span Project -- how long is your attention span?
