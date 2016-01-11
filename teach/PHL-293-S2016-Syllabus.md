@@ -7,8 +7,8 @@ title: PHL 293 S2016 Syllabus
 **PHL 293: Wisdom and Virtue**  
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)   
-**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)      
-**Office Hours:** Tues 3-4, Kinlaw Library by Lewis Corner.
+**Twitter**: keith_buhler  
+**Office Hours:** Tues 12-1, Kinlaw Library by Lewis Corner.
 
 ### Course Description: 
 For many people, ‘virtue’ is an obsolete term. Yet the last 60 years have seen a revival of philosophical and popular interest in virtue ethics (Cf. Rosalind Hursthouse, *On Virtue Ethics*). 

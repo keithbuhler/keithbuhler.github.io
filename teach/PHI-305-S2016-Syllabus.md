@@ -4,11 +4,11 @@ title: 305 Syllabus Spring 2016
 
 ---
 
-### [Syllabus, Spring 2016](/teach/PHI-305-S2016-Syllabus.pdf)
+### [305 Syllabus, Spring 2016](/teach/PHI-305-S2016-Syllabus.pdf)
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: [@keith_buhler](http://www.twitter.com/keith_buhler)    
+**Twitter**: keith_buhler  
 **Office Hours**: Wed 11am-12pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
@@ -96,9 +96,9 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 ------------
 
-**M Feb-29 *Bioethics* 317-321 (Group 9), Murray, What are families for?; Kaczor, Artificial Wombs?**: [Unfinished]      
+**M Feb-29 *Bioethics* 317-321 (Group 9), Murray, What are families for?; Kaczor, Artificial Wombs?**   
 
-**W Mar-2  *Bioethics* 341-51 (Group 10), Leon Kass, Preventing a Brave New World**: [Unfinished]      
+**W Mar-2  *Bioethics* 341-51 (Group 10), Leon Kass, Preventing a Brave New World**  
 
 **F Mar-4  *Bioethics* 367-9, Discussion of personhood, human nature, cloning**: Read cases "Person No Matter How Small?" and "Free to be me again"       
 
@@ -199,10 +199,10 @@ Your grade for the class will depend on your performance in each component, plus
 ### Reading Tips
 
 * Read ahead. 
-* Give yourself enough time to read carefully. You will get better and faster. 
-* Try to *understand* the book. What is the author’s key terms? The author’s main point? Are they correct? What objections do you have? Email me. Take notes. Talk with each other. 
-* Don’t read the introduction for the book (which is often more confusing than the book). If you do want to read it, read it after reading the primary source -- that may help. 
-* Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
+* Read carefully. You will get faster, but start slow and careful. 
+* Try to read *and understand* the book. What is the main thesis? Is it true? 
+* Read actively: Take notes. Talk with each other before class. 
+* More tips available online.
 
 ### Quizzes ###
 Short reading quizzes will assess whether your eyeballs hit the page and whether you comprehended what you read. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading --focus on what confuses you.
@@ -212,7 +212,7 @@ We need you here! Attendance is mandatory. Roll will be taken each class. (Being
 
 ### Participation through dialogue/writing:
 
-This is a dialogue-oriented class. Every person is responsible to participate. You are expected to participate once per week at minimum.
+This is a dialogue-oriented class. Every person is responsible to participate. You are expected to participate once per week at minimum, either by writing or speaking or both.
 
 *Writing Emphasis:* "Internal procesors" emphasize writing. To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
 
@@ -231,11 +231,11 @@ Every student will present do two "critical readings." These are days when your 
 There is a midterm and final. The Study Guide with all the questions is posted online. The tests will assess (a) your knowledge definitions of key philosophical terms, (b) knowledge of historical facts relevant to health care ethics, (c) your familiarity with major health care theories and (d) your mastery of the arguments for and against these theories.
 
 ### Unit Papers:  
-Every student will write 5-6 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. I will not tolerate plagiarism — unintentional or intentional. Be careful to cite your sources correctly. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
+Every student will write 5-6 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so folllow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
 
 
 ### Extra Credit: 
-Those who opt for extra credit may either (a) volunteer to do extra research preparation for one class discussion and help me to lead the discussion that day by presenting your research; or (b) volunteer to do extra research on a particular topic and write an extra paper on that topic presenting your research. Instructions are posted online. 
+Those who opt for extra credit may do so. Instructions are posted online. 
 
 
 ### Miscellany:
@@ -245,8 +245,8 @@ Those who opt for extra credit may either (a) volunteer to do extra research pre
 3. **Laptop/tablet users must sit in the front row.**
 3. **Be respectful of others**: no teasing, and pay attention when a neighbor is talking. Don't pack up early. Don't come late. Don't talk while your neighbor is talking.
 5. **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. If I don’t respond within three (3) business days, email again with the subject “nudge”.
-6. For short, quick questions, use Twitter (@keith_buhler)
-7. Disabilities can be accommodated if you are registered with the Disability Resource Center. See http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
+6. For short, quick questions, use Twitter (keith_buhler)
+7. Disabilities can be accommodated if you are registered with the Disability Resource Center. See  http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
 8. Plagiarism has been an issue. Even unintentional plagiarism earns a zero for the assignment and, in intentional or egregious cases, failing the course and receiving a permanent mark on your academic record. You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. 
 9. **Enjoy philosophy**. We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it. 
 
