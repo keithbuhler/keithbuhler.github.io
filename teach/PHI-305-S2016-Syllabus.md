@@ -37,7 +37,10 @@ In short, our goals are:
 
 To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
-## Course Outline
+### Course Outline
+
+*The online version is always up to date. Any paper version is subject to minor changes due to weather, illness, etc. Each date tells you the reading due and the topic. Each date also includes detailed lecture notes because students asked for them to help prepare.*
+
 
 ------------
 
@@ -171,9 +174,8 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **F May-6  Final Exam** (Date and time TBA)
 
-------------
 
-### Grading
+## Grading
 Your grade for the class will depend on your performance in each component, plus tests and applicable extra credit. Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
 
 
