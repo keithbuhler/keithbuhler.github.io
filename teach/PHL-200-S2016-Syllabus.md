@@ -69,6 +69,7 @@ Plato's *Phaedo* shows Socrates' last days. Should we grieve when our friends di
 **R Feb 4 -- *Phaedo* 143-199: The soul is immortal because we existed before we were born**  
 Without the help of Scripture or revelation, Socrates argues the soul is immortal. He also warns against “misology” a hatred of argument that leads to skepticism and laziness. Hating the logos is perhaps a danger we begin facing at this point in the semester, too. Is the “argument from recollection” a good one? Why or why not? 
 
+
 --------
 
 **T Feb 9 --  *Phaedo* (all): The soul is immortal because it is more like forms than matter.**  
@@ -96,6 +97,7 @@ The material cause is what a thing is made of; the formal cause, its configurati
 **R Feb 25 --  Bertrand Russell, "Free Man's Worship" Handout: Christianity and Nihilism as worldviews**  
 Christ as the Logos is at once creator, redeemer, and our goal. Substitutes for Christ include other gods, worldly pleasures, humans, or nothingness itself. But other gods, pleasure, and other humans are all consumed by nothingness in the end. So there are only two options: Logos or nothingness. Nothingness is mistaken by some as the origin of all things, and the conclusion — the alpha and omega — that which was, is, and ever shall be. 
 
+
 --------
 
 **T Mar 1 -- Toy Story 3 (Pixar Film): How do we survive devouring time?**  
@@ -104,73 +106,74 @@ This is a movie about devouring time. How is Andy’s relationship to Woody and 
 **R Mar 3 -- MIDTERM EXAM & Toy Story 3 Discussion**  
 After the midterm, we will discuss the salvation of the toys. Who saves them, and why? Is it salvation from devouring time? What do you make of this salvation? How does Andy’s relationship to Woody and Buzz change and how does it remain?
 
-*Disputation 3: Do forms (universals) exist in reality or only in our minds? Are forms things and concepts or just concepts?*
-
---------
-
-**T Mar 8 -- Augustine, *Confessions* chapter 1, 2, 4; Sophie’s World “Two Cultures”, “Middle Ages”**  
-We transition to medieval philosophy. The union of Athens and Jerusalem after the resurrection of Jesus created a new civilization: Christendom. Augustine was a key leader in this civilization. The *Confessions* details Augustine's personal and intellectual struggles. It tells his conversion story and honors his mom, Monica. It concludes with philosophical explorations of time, memory, and creation. Augustine's early error was thinking God was physical. What does this mean? Why is it an error? And how did he get corrected?
-
-**R Mar 10 --   Augustine, *Confessions* Chapter 6, 7, 9:   Does evil exist?**  
-A major theme of the *Confessions* is sin and evil. Evil for both platonists and Christians and atheists is an essential component of their worldview. What is evil? Augustine's presuppositions make this question difficult. They force him into a dilemma. God made everything that exists. Evil exists. Therefore God made it. Or Evil exists. God did not make evil. Therefore God did not make everything. Those options are intolerable. He settles on the view that evil does not actually exist. What does this mean? What is a "privation" of good? Does this notion make sense and does it make sense of active evil and suffering in our world?
-
---------
-
-**T Mar 15 --    Confessions, 10, 11:    Time**   
-Augustine says he knows what time is as long as you don't ask him what it is. When you ask him, he doesn't know. What is the relation of time to eternity? What is time? Also, how are we to interpret Genesis in light of our philosophical understanding of time? Time is a big idea. What exactly is it? Three notions of time from Augustine, Plato, Kant. Also some poems on time.  
-
-**R Mar 17 -- *Confessions* 11, 12:     Creation**  
-Augustine interprets Genesis 1. What is Moses' intent? What range of interpretations will the text support? What range does it encourage? 
-
-*Disputation 4 Prompt: Does evil existence as a substance or only as a property?*
 
 --------
 
 
-**T Mar 22 --   Aquinas Handout: Can God’s existence be proven? (26 pages): Does God exist?** 
+T Mar 8 -- **Aquinas Handout: Can God’s existence be proven? (26 pages): Does God exist?** 
 
 Aquinas is the most influential medieval philosopher. He cites Aristotle (and Plato) and Augustine almost as much as the Bible. He wrote numerous books, but his Summa Theologica is his masterpiece. He argues, in a little over 600 topics, about 3,000 disputations. The questions cover God, man, creation, evil, angels, theology, church, and the end of the world. In this first discussion we will look at his arguments for whether God's existence can be proven -- he thinks so -- and the five ways of doing so. 
 
-**R Mar 24 -- Aquinas Handout: Is happiness the beatific vision?**
+R Mar 10 -- **Aquinas Handout: Is happiness the beatific vision?**
 Today we examine Aquinas’ definition of happiness, which is the vision of the divine essence. Aristotle argued that human happiness is one object for the whole species, even though people are very different. Aquinas builds on this argument. 
 
 --------
 
+**T Mar 15 --  Spring Break**
 
-**T Mar 29 --  Sophie’s World, Renaissance, Baroque, Hume, Enlightenment:  The Enlightenment**  
+**R Mar 17 -- Spring Break** 
+
+--------
+
+**T Mar 22 --  Augustine, *Confessions* chapter 1, 2, 4; Sophie’s World “Two Cultures”, “Middle Ages”**  
+We continue our transition to medieval philosophy. The union of Athens and Jerusalem after the resurrection of Jesus created a new civilization: Christendom. Augustine was a key leader in this civilization. The *Confessions* details Augustine's personal and intellectual struggles. It tells his conversion story and honors his mom, Monica. It concludes with philosophical explorations of time, memory, and creation. Augustine's early error was thinking God was physical. What does this mean? Why is it an error? And how did he get corrected?
+
+**R Mar 24 -- Augustine, *Confessions* Chapter 6, 7, 9:   Does evil exist?**  
+A major theme of the *Confessions* is sin and evil. Evil for both platonists and Christians and atheists is an essential component of their worldview. What is evil? Augustine's presuppositions make this question difficult. They force him into a dilemma. God made everything that exists. Evil exists. Therefore God made it. Or Evil exists. God did not make evil. Therefore God did not make everything. Those options are intolerable. He settles on the view that evil does not actually exist. What does this mean? What is a "privation" of good? Does this notion make sense and does it make sense of active evil and suffering in our world?
+
+*Disputation 3 Prompt: Does evil existence as a substance or only as a property?*
+
+--------
+
+
+**T Mar 29 --  **R Mar 24 --  *Confessions*, 10, 11:    Time**   
+Augustine says he knows what time is as long as you don't ask him what it is. When you ask him, he doesn't know. What is the relation of time to eternity? What is time? Also, how are we to interpret Genesis in light of our philosophical understanding of time? Time is a big idea. What exactly is it? Three notions of time from Augustine, Plato, Kant. Also some poems on time.  
+
+
+**R Mar 31 -- Sophie’s World, Renaissance, Baroque, Hume, Enlightenment:  The Enlightenment**  
 Now we transition to the modern world. The Enlightenment defines America and through the U.S. much of the developed world. The core idea to help you understand the Enlightenment and counter-enlightenment is a tradition. Alasdair MacIntyre defines a tradition as “a socially-embedded argument extended through time”. Modernity is a tradition of empiricism, rationalism, skepticism, increasing atheism. Today we will work on distinguishing the Enlightenment tradition from the medieval tradition (which resembles the counter-Enlightenment) What makes Hume a modern? 
 
-**R Mar 31 -- Hume, Enquiry Concerning Human Understanding Sections 1-3:  Impressions**  
+--------
+
+**T Apr 5 --  Hume, Enquiry Concerning Human Understanding Sections 1-3:  Impressions**  
 The foundation of Hume's work is that knowledge is either impressions (from the present) or impressions from the past (ideas). The source of all knowledge is impressions, sensory, empirical, input from the world through our five senses, then modified by the mind and imagination in various ways to result in all our thoughts. Any thought that does not originate directly from a sensory impression is nonsense, fantasy. The upshot of this view is radical -- much of our supposed knowledge is fantasy.
 
---------
 
-**T Apr 5 --  Hume, Enquiry Sections 5-6:  Cause and Effect**  
+**R Apr 7 -- Hume, Enquiry Sections 5-6:  Cause and Effect**  
 Relations of ideas (necessary, analytic truths) and matters of fact (contingent, synthetic truths) are all the kinds of truth there is. Cause and effect is contingent. We do not observe causation itself, but only the constant conjunction of A and B. Our supposed "knowledge" of cause-effect, including science and everyday matters, rests on a custom, a habit, an imaginary connection. It turns out that the notion of causation -- so important to Plato and Aristotle -- does not come from an impression. We only see the conjunction of two events, not the cause of one by the other. 
 
-**R Apr 7 -- Hume, Enquiry Sections 7, 8, 10:    Miracles**    
-Hume's famous argument concludes that even if miracles ever occur, we can never know that they occur. How does this argument work, and is it true? What kind of testimony (against our experience) would be sufficient to overturn our experience? Do we have experience of miracles?
-
-*Disputation 5 Prompt: Does the idea of God arise from impressions or recollection?* 
+*Disputation 4 Prompt: Does the idea of God arise from impressions, or recollection?* 
 
 --------
 
-**T Apr 12 --  Feser Handout: Can we make sense of the world? Is the world intelligible?**   
-This question asks not just about the "earth" but the cosmos. Is it "readable", able to be understood? If so, then perhaps we can understand reality, the cosmos. If not, then all of our attempts to understand it are ultimately just constructions of our own imagination. Feser argues that there are six possible positions on this question, and only two make any sense. Of those two, one is superior to the other. Why? There are brute facts, but why not think the laws of nature are brute facts? Because they are contingent, and brute facts are most likely necessary facts. 
+**T Apr 12 --  Hume, Enquiry Sections 7, 8, 10:    Miracles**    
+Hume's famous argument concludes that even if miracles ever occur, we can never know that they occur. How does this argument work, and is it true? What kind of testimony (against our experience) would be sufficient to overturn our experience? Do we have experience of miracles?
+
 
 **R Apr 14 -- Dawkins Handout:  There is almost certainly no god.**  
 Dawkins argues that everything god might be invoked to explain can be explained by a combination of the anthropic principle and natural selection. He also argues that religion and science aren’t “separate spheres” of inquiry, each sovereign with their domain. Religion and science have overlapping questions about the origin of the world, the origin of life, the teleology (or purposiveness) of the cosmos, and human nature. What is natural selection? What is the anthropic principle? And how do these two (with luck as a third) explain everything that can be explained? 
 
-*Remember: Watch 2001!*
+
+*Watch 2001: A Space Odyssey!*
 
 --------
 
-**T Apr 19 --   “Defense of Slow Movies” Handout**; 2001: A Space Odyssey (Stanley Kubrick Film)  
+**T Apr 19 -- “Defense of Slow Movies” Handout; 2001: A Space Odyssey (Stanley Kubrick Film)**    
 Is humanity evolving into something more than human? 
 
 **R Apr 21 -- Disputation Workshop**: Create your own question! 
 
-*Disputation 6 prompt: Create your own question. See instructions.
+*Disputation 5 prompt: Create your own question. See instructions.*
 
 *Remember: Watch Tree of Life!*
 
@@ -188,7 +191,7 @@ The word of God recreates the cosmos and fulfills it. How does John 1:1-2:1 re-t
 
 T    Disputation 6 Due. 
 
-R Reflection paper due; extra credit (optional) due; Final Exam TBA.  
+R  Reflection paper due; extra credit (optional) due; Final Exam TBA.  
 
 
 --------
