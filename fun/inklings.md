@@ -38,15 +38,16 @@ The major Inklings are:
 
 Lewis
 
-* [C.S. Lewis, Abolition of Man](https://drive.google.com/file/d/0B0CYQDZ8AWu8aHl5M2x5WERmT3M/edit?usp=sharing)
-* [C.S. Lewis, Mere Christianity](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
-* [C.S. Lewis - Miracles](/img/Lewis - Miracles.docx)
-* [C.S. Lewis - Till We Have Faces](/img/Lewis - Till We Have Faces.pdf)
+* [C.S. Lewis, *Abolition of Man*](https://drive.google.com/file/d/0B0CYQDZ8AWu8aHl5M2x5WERmT3M/edit?usp=sharing)
+* [C.S. Lewis, *Mere Christianity*](https://drive.google.com/file/d/0B0CYQDZ8AWu8T1FLbHNCLWkzYnc/edit?usp=sharing)
+* [C.S. Lewis - *Miracles*](/img/Lewis - Miracles.docx)
+* [C.S. Lewis - *Till We Have Faces*](/img/Lewis - Till We Have Faces.pdf)
 
 Tolkien
 
-* [Tolkein, Lord of the Rings]
-* [Tolkein, The Pearl]
+* [Tolkein, *Lord of the Rings*]
+* [Tolkein, *The Pearl*]
+* 
 
 Williams
 

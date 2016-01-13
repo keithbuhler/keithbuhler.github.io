@@ -6,14 +6,13 @@ title: Teaching
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
 ### Course Syllabi ### 
-PHL 293: Wisdom and Virtue  ([Syllabus](/teach/PHL-293-S2016-Syllabus))     
-PHI 305: Health Care Ethics ([Syllabus](/teach/PHI-305-S2016-Syllabus))  
-PHL 200: Introduction to Philosophy: Goodness, Truth, and Beauty ([Syllabus](/teach/PHL-200-S2016-Syllabus))  
-PHI 130: Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-PHI 120: Introduction to Logic  
+S2016 PHL 293: Wisdom and Virtue  ([Syllabus](/teach/PHL-293-S2016-Syllabus))     
+F2015 PHI 305: Health Care Ethics ([Syllabus](/teach/PHI-305-S2016-Syllabus))  
+F2014 PHL 200: Introduction to Philosophy: Goodness, Truth, and Beauty ([Syllabus](/teach/PHL-200-S2016-Syllabus))  
+F2013 PHI 130: Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
+S2013 PHI 120: Introduction to Logic  
 PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit))  
 
-<img src="/img/mechanics.jpg" alt="mechanics" align="center" hspace="15">
 
 ### Official Student Course Evaluation Statistics
 +  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
@@ -34,6 +33,8 @@ PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://d
 ### Philosophy resources ###
 
 [Students, please visit my student portal for philosophy resources.](/philosophy) 
+
+<img src="/img/mechanics.jpg" alt="mechanics" align="center" hspace="15">
 
 ### Coming soon ###
 

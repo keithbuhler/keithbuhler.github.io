@@ -193,9 +193,9 @@ Your grade for the class will depend on your performance in each component, plus
 
 **Handouts:** (All posted online)
 
-1. Plato, Apology.
-2. Peter Kreeft, Truth.
-3. Peter Kreeft, Goodness.
+1. [Plato, Apology.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/)
+2. [Peter Kreeft, Truth.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp)
+3. [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 4. Midwifery in the US.
 
 ### Reading Tips
