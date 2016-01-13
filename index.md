@@ -16,6 +16,4 @@ Other problems that interest me are those in [philosophy of mind, ancient philos
 
 Other profiles: [University Kentucky,](https://philosophy.as.uky.edu/users/kebu226) [PhilPapers,](http://philpapers.org/profile/47267) [Academia.edu,](https://uky.academia.edu/KeithBuhler) and [RateMyProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771). 
 
-Please explore or [**contact** me and say hello.](emailto:keithedbuhler@gmail.com). 
-
-<img src="/img/uk-chapel.jpg" alt="University of Kentucky" align="left" hspace="20"> 
+Please explore or [**contact** me and say hello.](emailto:keithedbuhler@gmail.com).  
