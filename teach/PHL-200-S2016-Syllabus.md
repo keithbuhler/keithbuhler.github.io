@@ -51,7 +51,7 @@ A myth is not a false story but a likely story. In that sense, Genesis is a myth
 **R Jan 21 -- “Truth” and “Goodness” Handouts:    Are truth and goodness objective?**   
 All semester we will be seeking truth. To be successful, we have to know whether truth exists. We'll examine arguments for and against the proposition that truth and goodness are real. We will also discuss the “Tao” to see examples of universal, common morality. (We'll also go over how to do papers.)
 
-*Disputation Paper 1 will be due next Tuesday by 11:59. Please carefully review the “Disputation Paper” instructions online.*
+*Disputation Paper 1 will be due next Tuesday by 11:55pm. Please carefully review the “Disputation Paper” instructions online.*
 
 --------
 
@@ -97,6 +97,7 @@ The material cause is what a thing is made of; the formal cause, its configurati
 **R Feb 25 --  Bertrand Russell, "Free Man's Worship" Handout: Christianity and Nihilism as worldviews**  
 Christ as the Logos is at once creator, redeemer, and our goal. Substitutes for Christ include other gods, worldly pleasures, humans, or nothingness itself. But other gods, pleasure, and other humans are all consumed by nothingness in the end. So there are only two options: Logos or nothingness. Nothingness is mistaken by some as the origin of all things, and the conclusion — the alpha and omega — that which was, is, and ever shall be. 
 
+*Watch Toy Story 3!*
 
 --------
 
@@ -135,8 +136,7 @@ A major theme of the *Confessions* is sin and evil. Evil for both platonists and
 
 --------
 
-
-**T Mar 29 --  **R Mar 24 --  *Confessions*, 10, 11:    Time**   
+**T Mar 29 --  *Confessions*, 10, 11:    Time**   
 Augustine says he knows what time is as long as you don't ask him what it is. When you ask him, he doesn't know. What is the relation of time to eternity? What is time? Also, how are we to interpret Genesis in light of our philosophical understanding of time? Time is a big idea. What exactly is it? Three notions of time from Augustine, Plato, Kant. Also some poems on time.  
 
 
@@ -189,7 +189,7 @@ The word of God recreates the cosmos and fulfills it. How does John 1:1-2:1 re-t
 
 **Finals Week**
 
-T    Disputation 6 Due. 
+T    Disputation 5 Due. 
 
 R  Reflection paper due; extra credit (optional) due; Final Exam TBA.  
 
