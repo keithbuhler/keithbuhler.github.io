@@ -3,11 +3,11 @@ layout: fun
 title: sin-of-satan
 ---
 
-## The Sin of Satan
+# The Sin of Satan
 
 by Keith Buhler
 
-### Introduction:
+## Introduction:
 
 The problem of evil is the hardest problem for theists to solve. It is the best rational reason not to believe in the Christian God, the father of Jesus Christ. It is “the one serious objection to the existence of God.” (Kreeft, “The Problem of Evil”).
 
@@ -23,9 +23,11 @@ The second spiritual evil is angelic evil. The fall of Satan is the most bewilde
 
 To believers, we say that the explanation of evil lies in humanity (and humanity's freedom), then the next question is obviously why we exercised our freedom poorly. The answer to that is that Satan tempted Eve and Adam. So the follow up question is why did Satan tempt them? Why did he become a tempter, an accuser? To nonbelievers, Satan is, as a literary character, of great interest and importance. Of course, I think Satan is real. But he is also a character, as Judas Iscarito is both a real historical figure and a literary character (so is Christopher Columbus, Ronald Ragan, Michelangelo, etc.). But as a character at least he is, according to Christians (and to Christ, for what it's worth) the author of evil even before man. So the problem of evil (if you wish to criticize specifically the notion of and belief in the Christian God) is much deeper than human free will.
 
-Furthermore, if the Christian God is at least possibly real, then Satan stands to him in starkest contrast. The devil is not a "rival god" for the devil too is a creature.But he does represent the fullest possible departure from God's design and desire for his creatures. There is, in relation to God as Christians understand him, only two choices -- Satan or Michael; Peter or Judas. To stand against the Christian God is to stand with the one whom Christians call Satan. When historical Christians have called unbelievers (or worse yet, heretics) the "spawn of Satan" this was not merely an insult. It was an attempt at an accurate description. Even Jesus used the phrase, describing certain religious believers as sons of Satan, meaning that they took Satan as their guide, their leader, their progenitor (John 8:44).
+Furthermore, if the Christian God is at least possibly real, then Satan stands to him in starkest contrast. The devil is not a "rival god" (for the devil too is created) but he departed most fully from God's design. As Christians understand the situation, Satan represents one of two choices every rational agent can take: for or against God. We can be Satan or Michael; Peter or Judas. There is no middle way. To stand against the Christian God is to stand with the one whom Christians call Satan. 
 
-If this is true, it is a very important truth to know. Thankfully, Jesus let those religious people know that they were not in fact at home in the house of God (as they presumably wished to be) but at home in the house of Satan. Now, they had the opportunity to run away from home. They had the option of divorce, or estrangement, choice to request adoption into a new family. But before such a momentous decision can be made they had to know where they stood. So likewise with you. If you reject the Christian notion of God, if you find the concept of God incoherent or the character of that God reprehensible or the people of God radically mistaken in their ethics, beliefs, politics, and way of life, then you ought to know where (from their perspective at least) you stand. Some indeed have recognized this and allied with Satan as a literary character at least. Philip Zimbardo is a recent example, but there are others. So, to both believers (Christian or otherwise) and nonbeleivers, I offer this dialogue to introduce, recapitulate, and hopefully progress the conversation. May God grant us mercy.
+When historical Christians have called unbelievers (or worse yet, heretics) the "spawn of Satan" this was not merely an insult. It was an attempt at an accurate description. Even Jesus used the phrase, describing certain religious believers as sons of Satan, meaning that they took Satan as their guide, their leader, their progenitor (John 8:44).
+
+If this were true, it would be a very important truth to know. Thankfully, Jesus let some religious people know they were sons of Satan. They presumably wished to be sons of God in the house of God but were sons of satan in the house of Satan. Now, even though they were the sons of Satan, they had the opportunity to run away from home. Though they were in Satan's "family," they had the option of estrangement, abdication, adoption. But before such a momentous decision can be made they had to know where they stood. So likewise with you. If you reject the Christian notion of God, if you find the concept of God incoherent or the character of that God reprehensible or the people of God radically mistaken in their ethics, beliefs, politics, and way of life, then you ought to know where (from their perspective at least) you stand. Some indeed have recognized this and allied with Satan as a literary character at least. [Philip Zimbardo](http://www.lucifereffect.com/about_synopsis.htm) is a recent example, but there are others. So, to both believers (Christian or otherwise) and nonbeleivers, I offer this dialogue to introduce, recapitulate, and hopefully progress the conversation. May God grant us mercy.
 
 I offer my preliminary reflections on the sin of Satan below. Unfortunately, these reflection do not amount to an answer. They do not even aim to quell the anger of an atheist who demands that God explain (in person) his actions, or that the devil explain (in person) why he chose to rebel. Rather, these reflections are for believers who believe and also want to understand. To get some likely guesses is the best we can hope for in response to some questions. Or they are for non-believers who do not believe but genuinely want to understand.
 
@@ -33,16 +35,16 @@ However tentative, these reflections contribute, I hope, to a conversation of in
 
 ## The Sin of Satan, a Dialogue ##
 
-Setting: *Zach and Lucy, brother and sister, are reading on a Sunday summer afternoon. *
+*Setting: Zach and Lucy, brother and sister, are reading on a Sunday summer afternoon.*
 
 
 Zach: Look it up, O Light One.
 
 Lucy: Why, O Lame One?
 
-I'm trying to read.
+Z: I'm trying to read.
 
-But Zach, I want to know whether God the Father is humble.
+L: But Zach, I want to know whether God the Father is humble.
 
 I think so... but just look it up.
 
