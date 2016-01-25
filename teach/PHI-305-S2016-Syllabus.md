@@ -59,7 +59,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
  
 ------------
 
-**M Jan-25 *Bioethics* 29-49 Howard Markel, the Hippocratic Oath** (Sample Group Presentation): Critical Reading assignments.  The Hippocratic Oath has been and still is an importance piece of the medical profession. How do the old and the new versions relate? What rules should be discarded and what retained?  
+**M Jan-25 *Bioethics* 29-49 Introduction & Howard Markel, the Hippocratic Oath** (Sample Group Presentation): Critical Reading assignments.  The Hippocratic Oath has been and still is an importance piece of the medical profession. How do the old and the new versions relate? What rules should be discarded and what retained?  
 
 **W Jan-27 *Bioethics* 49-63 (Group 1 presents) Matthew Wynia, Medical Professionalism**: In the doctor-patient relationship, what are the doctor’s obligations? The patient’s obligations? Does a doctor have “power” and if so how should it be wielded? Is cosmetic surgery within the purview of medicine?  
 
