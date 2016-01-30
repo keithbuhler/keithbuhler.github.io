@@ -41,5 +41,3 @@ PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://d
 * Teaching Statement
 * Sample Exams & Study Guides
 * How to write a philosophical disputation
-* How to Read Philosophy
-* How to Discuss

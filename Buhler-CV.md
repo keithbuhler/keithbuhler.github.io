@@ -9,9 +9,9 @@ University of Kentucky
 [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 [http://www.keithbuhler.com](http://www.keithbuhler.com)  
 
-### Research Areas 
-*Specialization:* Ethics (Virtue Ethics and Metaethics).   
-*Competence:* Ancient Philosophy, Philosophy of Religion, Metaphysics, and Philosophy of Mind.
+### Research  
+Specialization in Ethics (especially Virtue Ethics and Metaethics).   
+Competence in Ancient Philosophy, Metaphysics, Philosophy of Religion, and Philosophy of Mind.  
 
 ### Education
 2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
@@ -20,10 +20,20 @@ University of Kentucky
 2004  &nbsp;&nbsp; B.A. Humanities: History, Biola University   
 
 ### Employment
-2014 - present &nbsp;&nbsp;Part-Time Instructor, Philosophy Department, Asbury University
-2012-present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky
+2014 - present &nbsp;&nbsp;Part-Time Instructor, Philosophy Department, Asbury University  
+2012-present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
+2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
+2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy    
+2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA  
+2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy  
+2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA  
+2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy.  
+2004 (summer) &nbsp;&nbsp; Teaching Assistant, Philosophy of Science, Biola University, CA.  
+2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
+2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
+2001 (summer) &nbsp;&nbsp; English Teacher, Campus Crusade, Mongolia.
 
-### Teaching
+### Courses
 Wisdom and Virtue Seminar (2016, Asbury)  
 Health Care Ethics   (2015-16, UK)  
 Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16, Asbury)  
@@ -33,27 +43,16 @@ Introduction to Logic (2012-13, UK)
 20th Century British Literature and Philosophy (2013, Veritas Academy)   
 Plato Seminar (2011, Torrey Academy)   
 Aristotelian Logic (2010-2012, Torrey Academy)  
-Western Civilization: American Thoguht (2009-2012, Torrey Academy)  
+Western Civilization: American Thought (2009-2012, Torrey Academy)  
 Western Civilization: Ancient and Medieval Thought (2008-2012, Torrey Academy)  
 Western Civilization: 20th Century British Thought (2007-2012, Torrey Academy)  
 
-### Conference Talks
+### Talks
 2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
-
-### Other Teaching and Leadership
-2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
-2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy.    
-2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA.  
-2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy.  
-2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA.  
-2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy.  
-2004 (summer) &nbsp;&nbsp; Teaching Assistant, Philosophy of Science, Biola University, CA.  
-2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
-2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
-2001 (summer) &nbsp;&nbsp; English Teacher, Campus Crusade, Mongolia.  
+  
 
 ### Affiliations
 American Philosophical Association, 2014-present  
