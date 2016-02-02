@@ -69,7 +69,7 @@ To accomplish these goals, our study will unfold in 8 units of 1-2 weeks each. E
 
 **M Feb-1  *Bioethics* 87-94 (Group 2) Groopman, the Patient's Work**: Also, the patient’s responsibility is equally important but different. What is a patient’s responsibility?     
 
-**W Feb-3  *Bioethics* 68-72 (Group 3) Confucian Truth-telling.** Are there any circumstances in which part of the truth, a falsehood, or a mix of true and false are the best way to use speech?
+**W Feb-3  *Bioethics* 68-72 (Group 3) Confucian View of Truth-telling in Medicine.** Are there any circumstances in which part of the truth, a falsehood, or a mix of true and false are the best way to use speech?
 
 **F Feb-5  Unit Paper 2 due: Deception. *Bioethics* AMA Fundamentals, discussion of Patient Responsibility**: Do we bear partial or complete responsibility for our own health? How do patient responsibilities derive from autonomy? Are any of the AMA’s list of responsibilities too much? Cases 5-6: What might be the main objections to Ashley’s treatment? Should Dr. Beckwith write the prescription?
 
