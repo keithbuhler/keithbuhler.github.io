@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: fun
 title: Heraclitus: An Interpretation
 
---- 
+---
 
 # Heraclitus: An Interpretation #
 
