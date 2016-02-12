@@ -1,8 +1,20 @@
+---
+layout: default
+title: Heraclitus: An Interpretation
+
+--- 
+
+# Heraclitus: An Interpretation #
+
+The original Fragments of Heraclitus are powerful and puzzling. No one is sure of the original order, context, or meaning. No one is sure how complete our set of fragments is. All I've done in this intepretation is build them into a coherent unity. 
+
+First, I used [this translation](http://classicpersuasion.org/pw/heraclitus/herpate.htm) and replaced "reason" with the Greek "Logos". Second, I tried to organize them thematically into sets of four. Third, if a sentence was too long I paraphrased it down or, if a sentence was missing, I invented it (the only lines I wrote are in italics.)
+
 ## I
 
 The God whose oracle is at Delphi neither speaks plainly 
 nor conceals, but indicates by signs.
-There is only one supreme Wisdom. 
+There is only one supreme Wisdom:
 It wills and wills not to be called by the name of Zeus.
 
 Nature loves to conceal herself.
@@ -13,7 +25,7 @@ reaches with her voice over a thousand years, because of the God.
 For humans do not understanding, but the divine does.
 The thoughtless man understands the voice of the Deity 
 as little as the child understands the man.
-Yet it pertains to all men to know themselves. 
+*Yet* it pertains to all men to know themselves. 
 
 Although the Law of Logos is common, 
 Most people live as though wisdom were their own.
@@ -23,12 +35,12 @@ to confess that all things are one.
 
 ## II
 
-Hesiod was a teacher of the masses but knew not day and night. 
-Homer, Archilochus, Xenphanes all deserved to be exiled and flogged.
+*Hesiod was a teacher of the masses but knew not day and night.* 
+Homer, *Archilochus, Xenphanes all deserved to be exiled and flogged.*
 Pythagoras? He made a wisdom of his own--much learning and bad art.
 Much learning does not teach one to have understanding, 
 
-Things men consider mysteries, they celebrate sacrilegiously.
+*Things men consider mysteries*, they celebrate sacrilegiously.
 Night-roamers, Magians, bacchanals, revelers in wine, the initiated,
 They pray to images and prattle much but know nothing of gods or heroes.
 Hades and Dionysus, for whom they rave in bacchic frenzy, are the same.
@@ -41,7 +53,7 @@ but it is hard to conceal in relaxation and over wine.
 Let us not draw conclusions rashly about the greatest things;
 Dogs, also, bark at what they do not know.
 He who wishes to be good shall often err
-But presumption must be quenched even more than a fire,
+*But* presumption must be quenched even more than a fire,
 
 
 ## III
@@ -54,7 +66,7 @@ But one who knows that wisdom is apart from all is worth a thousand.
 The Ephesians deserve, man for man, to be hung, 
 For they banished Hermodorus, the worthiest man among them.
 "Let no one of us excel, but let him go elsewhere and among other people."
-There is one wisdom: to understand the Logos of all. 
+There is one wisdom: *to understand the Logos of all.*
 
 To this universal Logos which I unfold, 
 although it always exists, men make themselves insensible, 
@@ -64,7 +76,7 @@ and when they have heard it for the first time.
 Though the Law of Logos is common, 
 the majority live as though they alone were wise.
 Though all things happen according to this Logos, 
-men act as though they had never heard of it. 
+men act *as though they had never heard of it.*
 
 
 ## IV
@@ -102,14 +114,22 @@ It is a harmony of oppositions, as with the bow and of the lyre.
 Unite whole and part, agreement and disagreement, 
 accordant and discordant; from all comes one, and from one all.
 
+And some men are as ignorant of what they do when awake 
+as they are forgetful of what they do when asleep.
+Death is what we see waking. 
+What we see in sleep is a dream.
+
+Cold becomes warm, and warm, cold; 
+wet becomes dry, and dry, wet.
+It disperses and gathers, it comes and goes.
+All things arise by universal strife. 
+
+## VI
+
 In thirty years a man may become a grandfather.
 Being born, they will only to live and die, 
 or rather to find rest, and they leave children
 who likewise are to die.
-
-
-
-## VI
 
 The most approved of those who are of repute knows how to cheat. 
 Nevertheless, justice will catch the makers and witnesses of lies.
@@ -126,10 +146,8 @@ living in their death and dying in their life.
 Man, as a light at night, is lighted and extinguished.
 Corpses are more worthless than excrement.
 
-Cold becomes warm, and warm, cold; 
-wet becomes dry, and dry, wet.
-It disperses and gathers, it comes and goes.
-All things arise by universal strife. 
+
+
 
 ## VII ##
 
