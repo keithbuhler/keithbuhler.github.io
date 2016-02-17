@@ -31,16 +31,19 @@ Philosophy majors on average [make better money than business majors](http://www
 
 **Median Salary Data**
 
-| Degree             | Starting salary  | Mid-Career  |        Rank  |
-|--------------------|------------------|-------------|--------------|
-Chemical Engineering |  $63,200         | $107,000    |  # 1
-Mathematics          |  $45,400         | $92,400     | # 10
-**Philosophy**       | **$39,900**      | **$81,200** | **# 16**
-Accounting           |  $46,000         | $77,100     | # 22
-Business Management  |  $43,000         | $72,100     |  # 25
-Communication        |  $ 38,100        |  $70,000    |  # 28
-Biology              |  $38,800         | $64,800     | # 34
-Psychology           |  $35,900         |  $60,400    |   # 39
++------+----------------------+----------+------------+
+| Rank | Degree               | Starting | Mid-career |
++------+----------------------+----------+------------+
+| #1   | Chemical Engineering | $63k     | $107k      |
++------+----------------------+----------+------------+
+| #10  | Mathematics          | $45k     | $92k       |
++------+----------------------+----------+------------+
+| #16  | Philosophy           | $39k     | $81k       |
++------+----------------------+----------+------------+
+| #25  | Business Management  | $43k     | $72k       |
++------+----------------------+----------+------------+
+| #39  | Psychology           | $35k     | $60k       |
++------+----------------------+----------+------------+
 
 You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you will always find fun, challenging, fulfilling jobs, and make plenty doing it. — more, in fact, than majors in chemistry, biology, and psychology.
 
@@ -71,6 +74,7 @@ As children, everyone philosophizes. Somewhere along the way, most of us lose th
 Who majored in philosophy? Your professors. But not *just* your professors. I mean, if studying philosophy is good enough for Han Solo, it’s good enough for you.
 
 Philosophy departments have churned out a one or two people you may have heard of, including: 
+
 * U.S. Presidents (Thomas Jefferson)
 * filmmakers (Wes Anderson)
 * musicians (Philip Glass)
@@ -125,3 +129,18 @@ Then, ask hard questions, read hard books, make hard arguments, and find out whe
 - [Edward Tenner](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), Is Philosophy the Most Practical Major, the Atlantic 2011.
 - [University of Idaho](https://www.uidaho.edu/class/philosophy/what-you-can-do)
 - [Why Study Philosophy?](http://www.whystudyphilosophy.com/)
+
+
+[How does your degree stack up?](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg)
+
+
+| Degree             | Starting salary  | Mid-Career  |        Rank  |
+|--------------------|------------------|-------------|--------------|
+Chemical Engineering |  $63,200         | $107,000    |  # 1
+Mathematics          |  $45,400         | $92,400     | # 10
+**Philosophy**       | **$39,900**      | **$81,200** | **# 16**
+Accounting           |  $46,000         | $77,100     | # 22
+Business Management  |  $43,000         | $72,100     |  # 25
+Communication        |  $ 38,100        |  $70,000    |  # 28
+Biology              |  $38,800         | $64,800     | # 34
+Psychology           |  $35,900         |  $60,400    |   # 39
