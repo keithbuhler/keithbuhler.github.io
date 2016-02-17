@@ -30,16 +30,17 @@ Consider a philosophy major or minor if one or more of these reasons applies to 
 Philosophy majors on average [make better money than business majors](http://www.payscale.com/2008-best-colleges/degrees.asp). They earn more than biologists, psychology, and communication majors. They are [#1 for mid-career growth](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg). 
 
 **Median Salary Data**
-| Degree                |        Starting salary  | Mid-Career Salary |         Rank |
-|-----------------------|------------------|------------|--------------|
-Chemical Engineering    |  $63,200 | $107,000  |  # 1
-Mathematics             |  $45,400 | $92,400  | # 10
-**Philosophy**          |  **$39,900** | **$81,200**  | **# 16**
-Accounting              |  $46,000 | $77,100  | # 22
-Business Management     |  $43,000 | $72,100 |  # 25
-Communication           |  $ 38,100|  $70,000 |  # 28
-Biology                 |  $38,800 | $64,800  | # 34
-Psychology              |  $35,900 |  $60,400  |   # 39
+
+| Degree             | Starting salary  | Mid-Career  |        Rank  |
+|--------------------|------------------|-------------|--------------|
+Chemical Engineering |  $63,200         | $107,000    |  # 1
+Mathematics          |  $45,400         | $92,400     | # 10
+**Philosophy**       | **$39,900**      | **$81,200** | **# 16**
+Accounting           |  $46,000         | $77,100     | # 22
+Business Management  |  $43,000         | $72,100     |  # 25
+Communication        |  $ 38,100        |  $70,000    |  # 28
+Biology              |  $38,800         | $64,800     | # 34
+Psychology           |  $35,900         |  $60,400    |   # 39
 
 You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you will always find fun, challenging, fulfilling jobs, and make plenty doing it. — more, in fact, than majors in chemistry, biology, and psychology.
 
