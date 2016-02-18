@@ -4,7 +4,10 @@ title: The Inklings
 ---
 
 # The Inklings #
+
 <img src="https://s-media-cache-ak0.pinimg.com/originals/1d/bb/8c/1dbb8ca335236ef015d7fa82fb9ed79f.jpg" alt="Inklings">
+
+## What is Inklings.info?
 
 The vision of the Inklings.info is to be the one-stop hub for free writings by the Inklings and free information about the Inklings.
 
@@ -34,7 +37,7 @@ The major Inklings are:
 
 <img src="https://github.com/keithbuhler/keithbuhler.github.io/blob/master/img/gandalf3.JPG?raw=true" alt="Gandalf Clay" height="300" width="350">
 
-## Writings for download ##
+## Downloadable Books ##
 
 Lewis
 
@@ -70,23 +73,22 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 > *They seem to me, both for the soaring and gorgeous novelty of their technique and for their profound wisdom, to be among the two or three most valuable books of verse produced in the [twentieth] century.*
 
 
-## Essays for download ##
+## Downloadable Essays ##
 
 * [Lewis, Bulverism](/img/Lewis - Bulverism.docx)
 * [Lewis, Meditation in a Toolshed](/img/Lewis - Meditation in a Toolshed.pdf)
+* [Tolkein]
+* [Williams]
+* [Barfield]
 
 
 
-## Complete works lists 
+## Complete Works Lists 
 
-4. [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
-
-[The Complete Works of J.R.R. Tolkein](pending)
-
+1. [The Complete Works of C. S. Lewis](https://docs.google.com/spreadsheets/d/1ePf79HMM1LbP8dOHWV2_kUAmw8ZhqOah2VXo4CtQJ5U/edit?usp=sharing)  
+2. [The Complete Works of J.R.R. Tolkein](pending)
 3. [The Complete Works of Charles Williams (paper books)](http://www.charleswilliamssociety.org.uk/category/books/)  
-
-
-5. [The complete works of Owen Barfield](http://davidlavery.net/barfield/)  
+4. [The complete works of Owen Barfield](http://davidlavery.net/barfield/)  
 
 
 
@@ -95,42 +97,26 @@ C.S. Lewis said, of Williams’s Arthurian poems:
 2. Tolkein
 3. Williams
 4. Barfield
-
-[Barfield, History of English Words](http://amzn.to/1Pqhoc6); 
-
-[Barfield, Poetic Diction](http://amzn.to/1PqhrVx)
-
-
-
-
+* [Barfield, History of English Words](http://amzn.to/1Pqhoc6); 
+* [Barfield, Poetic Diction](http://amzn.to/1PqhrVx)
 
 
 
 ## Books about Inklings ##
 
-
-
-Lewis
-
-[CS Lewis and his Circle](http://amzn.to/1OQW2Qv)
-
-[Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/)
-
-[Rowan Williams, The Lion's World: A Journey Into the Heart of Narnia](http://amzn.to/1PqmYLw) Former Archbishop of Canterbury Rowan Williams offers fascinating insight into The Chronicles of Narnia, the popular series of novels by one of the most influential Christian authors of the modern era, C. S. Lewis.
-
-
-Tolkein
-
-
-[J.R.R. Tolkein, Author of the Century](http://amzn.to/1OQTAcI)
-
-Williams
-
-Barfield
-
-All
-
-[The Oxford Inklings](http://amzn.to/1OQVFFD)
+1. Lewis
+   - [Rowan Williams, The Lion's World: A Journey Into the Heart of Narnia](http://amzn.to/1PqmYLw) Former Archbishop of Canterbury Rowan Williams offers fascinating insight into The Chronicles of Narnia, the popular series of novels by one of the most influential Christian authors of the modern era, C. S. Lewis.
+2. Tolkein
+   - [J.R.R. Tolkein, Author of the Century](http://amzn.to/1OQTAcI)
+3. Williams
+   - Test
+4. Barfield
+   - Test
+   
+Books about all the Inklings
+   - [The Oxford Inklings](http://amzn.to/1OQVFFD)
+   - [CS L ewis and his Circle](http://amzn.to/1OQW2Qv)
+   - [Review of CS Lewis and his Circle](http://literaryinklings.com/2015/10/c-s-lewis-and-his-circle/)
 
 
 
@@ -139,64 +125,43 @@ All
 
 ## Inklings Society
 
-Lewis
+1. Lewis
+   - [CS Lewis Foundation](http://www.cslewis.org/)
+   - [CS Lewis Society](https://sites.google.com/site/lewisinoxford/aboutthesociety)
 
-[CS Lewis Foundation](http://www.cslewis.org/)
-
-[CS Lewis Society](https://sites.google.com/site/lewisinoxford/aboutthesociety)
-
-Tolkein
-
-
-Williams
-
-[Charles Williams Society](http://www.charleswilliamssociety.org.uk/)
+2. Tolkein
+   - [Mythpoeic Society](http://www.mythsoc.org/)
 
 
-Barfield
+3. Williams
+   - [Charles Williams Society](http://www.charleswilliamssociety.org.uk/)
 
-Other
-[Mythpoeic Society](http://www.mythsoc.org/)
 
-[American Chesterton Society](http://www.chesterton.org/)
+4. Barfield
+   - Please let me know if you know of one. 
 
-[Inklings Study](https://inklings-studies.org/)
+
+5. Related
+   - [American Chesterton Society](http://www.chesterton.org/)
+   - [Inklings Study](https://inklings-studies.org/)
 
 
 
 ## Curated Web Resources
 
-Lewis
+1. Lewis
+   - [Narnia.com]( https://www.narnia.com/us)
 
-[Narnia.com]( https://www.narnia.com/us)
+2. Tolkien
 
-Tolkein
+3. Williams
+   - [The Oddest Inkling](https://theoddestinkling.wordpress.com/about/)
 
-Williams
+4. Barfield 
 
-[The Oddest Inkling](https://theoddestinkling.wordpress.com/about/)
-
-Barfield 
-
-
+5. All 
 
 
-## The Minor Inklings ##
-1. Warren Lewis (Lewis' brother)
-2. Hugo Dyson
-3. Doug Greshem (Lewis son)
-4. Christopher Tolkien (Tolkein's son)
-5. Roger Lancelyn Green
-6. Adam Fox
-7. Robert Havard
-8. J. A. W. Bennett
-9. Lord David Cecil
-10. Nevill Coghill
-
-
-## Honorary Inklings
-1. Dorothy Sayers
-2. 
 
 
 
@@ -217,82 +182,28 @@ Barfield
 * [Peter Kreeft's writings on the Inklings](http://www.peterkreeft.com/featured-writing.htm)
 * [Malcom Guite's excellent lecture series on the Inklings as prophets](https://malcolmguite.wordpress.com/2011/11/04/the-inklings-fantasists-or-prophets-the-complete-set/)
 
+
+## The Minor Inklings ##
+1. Warren Lewis (Lewis' brother)
+2. Hugo Dyson
+3. Doug Greshem (Lewis son)
+4. Christopher Tolkien (Tolkein's son)
+5. Roger Lancelyn Green
+6. Adam Fox
+7. Robert Havard
+8. J. A. W. Bennett
+9. Lord David Cecil
+10. Nevill Coghill
+
+
+## Honorary Inklings
+1. Dorothy Sayers
+2. G. K. 
+
+
 ## External Resources ##
 
 There are lots of good materials on the Inklings. These are a few of my favorites:
 
 * [Keith Buhler's lecture on Dorothy Sayers' *Gaudy Night* and the vice of "Vainglory"](https://www.dropbox.com/s/baq7fde4kavyvb5/CL%20Keith%20Buhler-Harriet%20Vane-Glory.mp3?dl=0) and [Q&A](https://www.dropbox.com/s/95yi0s2yjzdbgdz/CL%20Keith%20Buhler-Harriet%20Vane-Glory%20%28Q%26A%29.mp3?dl=0)
 * [A C. S. Lewis' Influence Survey - A survey I designed for fun. Take and view!](https://docs.google.com/forms/d/1c-p0E_XkEKblJ7wnoWkCL88yugPeg4_6hSWvW0MTxoM/viewform?usp=send_form)
-
-
-
-
-## Structure
-
-## Short Introduction
-
-## Major Inklings
-
-
-## E-Books for download
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
-
-## Essays for download
-
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
-
-## Complete works list
-
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
-
-## Books for purchase
-
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
-
-## Books about
-
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
-
-## Societies about
-
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
-
-## Minor Inklings
-
-## Honorary Inklings
-
-## Major Influences on Inklings
-
-## Inklings Major Influence On...
-
-## Misc links
-
-
-* Lewis
-* Tolkien
-* Barfield
-* Williams
