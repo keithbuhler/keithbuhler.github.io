@@ -7,12 +7,12 @@ title: Philosophy Portal
 ## Philosophy Portal ##
 
 #### Be Glad You're Studying Philosophy
-[Studying philosophy is a very good idea. It helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/fun/philosophy-major) 
+[Studying philosophy is a very good idea. It helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/philosophy-major) 
 
 <img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
-* Yes, because of [what a philosophy degree can do for you: namely, a good job, higher salary than business degree, and answers to life's deepest questions](/fun/philosophy-major)
+* Yes, because of [what a philosophy degree can do for you: namely, a good job, higher salary than business degree, and answers to life's deepest questions](/philosophy-major)
 * Also, [(almost) everyone should study some philosophy.](http://www.whystudyphilosophy.com)
 
 #### I Just Joined Your Class; What Should I Do? ####
@@ -56,7 +56,7 @@ title: Philosophy Portal
 * Read about what it's like to be a professional academic. 
 
 #### What's It Like to Be a Professional Academic? ####
-* [Here's my story](/fun/phd-how-to) about deciding, applying, and working through graduate school.
+* [Here's my story](/phd-how-to) about deciding, applying, and working through graduate school.
 * [The Leiter Report](http://www.leiterreport.com) is a great blog for many aspects of the profession.
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
@@ -71,7 +71,7 @@ title: Philosophy Portal
 
 #### I want to hear more about your research and thoughts
 - Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
-- Check out some of my [fiction, nonfiction, art, and more fun stuff](/fun/) at my personal site.
+- Check out some of my [fiction, nonfiction, art, and more fun stuff](/) at my personal site.
 - Contact me and let's set up a time to talk.
 
 #### I have other questions -- can we talk? ####
