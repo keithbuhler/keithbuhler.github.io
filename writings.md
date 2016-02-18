@@ -26,7 +26,7 @@ Below, you can read some of my articles, short stories, fairy tales, screenplays
 * [Gorge and the Ice God](https://drive.google.com/file/d/0B0CYQDZ8AWu8MWFFa09BZmViOUU/view) (sci-fi)
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
 * [The Giving Well](https://drive.google.com/file/d/0B0CYQDZ8AWu8WE9OODRiRFRkR3c/view) (fairy tale)
-* [Fables on Leading & Following](https://drive.google.com/file/d/0B0CYQDZ8AWu8bnd1bE50MGJ0NzA/view)  (fables) 
+* [Fables on Leading & Following](/fables.pages)  (fables) 
 * [The Sin of Satan: On the Problem of Evil](http://keithbuhler.github.io/writings-sin-of-satan) (dialogue)
 
 
