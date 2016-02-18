@@ -6,9 +6,9 @@ title: Teaching
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
 ### Course Syllabi ### 
-S2016 PHL 293: Wisdom and Virtue  ([Syllabus](/teach/PHL-293-S2016-Syllabus))     
-F2015 PHI 305: Health Care Ethics ([Syllabus](/teach/PHI-305-S2016-Syllabus))  
-F2014 PHL 200: Introduction to Philosophy: Goodness, Truth, and Beauty ([Syllabus](/teach/PHL-200-S2016-Syllabus))  
+S2016 PHL 293: Wisdom and Virtue  ([Syllabus](/PHL293))     
+F2015 PHI 305: Health Care Ethics ([Syllabus](/PHI305))  
+F2014 PHL 200: Introduction to Philosophy: Goodness, Truth, and Beauty ([Syllabus](/PHL200))  
 F2013 PHI 130: Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 S2013 PHI 120: Introduction to Logic  
 PHI 100: Introduction to Philosophy: Knowledge and Reality ([Syllabus](https://docs.google.com/document/d/1Lg8bPrq9D5AjrWgL_2x5TkQJY41GAiPSud26e5pdvdc/edit))  

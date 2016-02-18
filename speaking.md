@@ -33,7 +33,7 @@ Coming soon
 
 ## Speaking Engagements ##
 
-[Need to invite a speaker to your event?](/fun/speaking-engagements)
+[Need to invite a speaker to your event?](/speaking-engagements)
 
 
 #### Academic Talks (video)
