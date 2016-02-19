@@ -1,5 +1,5 @@
 ---
-layout: fun
+layout: posts
 title: Heraclitus: An Interpretation
 
 ---

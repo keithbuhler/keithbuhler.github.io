@@ -1,12 +1,15 @@
 ---
-layout: posts
+layout: post
 title: Blog
 
 ---
 
-### Blog under construction ###
-
 {% for post in site.posts %}
-{{ post.date | date_to_string }} Â» {{ post.title }}
+
+{{ post.date | date_to_string }} 
+
+{{ post.title }} 
+
 {% endfor %}
+
 

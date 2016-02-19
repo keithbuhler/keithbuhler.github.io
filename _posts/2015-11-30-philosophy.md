@@ -1,3 +1,8 @@
+---
+layout: post
+title: philosophy test
+---
+
 <h2>
  Draft 1, Nov. 2015 -- comments welcome!</h2>
  
