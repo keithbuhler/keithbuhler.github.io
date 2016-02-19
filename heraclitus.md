@@ -7,28 +7,34 @@ title: Heraclitus: An Interpretation
 
 # Heraclitus: An Interpretation #
 
-The original [Fragments of Heraclitus](https://en.wikipedia.org/wiki/Heraclitus#Logos) are powerful and puzzling. No one is sure of the original order, context, or meaning. No one is sure how complete our set of fragments is. All I've done in this intepretation is build them into a coherent unity. 
+The original [Fragments of Heraclitus](https://en.wikipedia.org/wiki/Heraclitus#Logos) are powerful and puzzling. No one is sure of the original or meaning. No one is sure of the original order, context, and complete set. Hence, *any* presentation of the fragments, must make choices. Any choice will present some, not others, in a particular order, and thus will interpret Heraclitus. 
 
-First, I used [this translation](http://classicpersuasion.org/pw/heraclitus/herpate.htm) and replaced "reason" with the Greek "Logos". Second, I tried to organize them thematically into sets of four. Third, if a sentence was too long I paraphrased it down or, if a sentence was missing, I invented it (the only lines I wrote are in italics.) The result is a semi-coherent poem that "flows" in a way certainly unlike Heraclitus' original, but offers a look at what a coherent version of Heraclitus' fragments might have looked like. 
+Since interpretation is inevitable, each editor will interpret, and each reader will interpret; this interpretive effort is usually reserved and cautious. 
+
+I thought it would be interesting exercise to go whole hog. In this intepretation I have freely interpreted the fragments we have in order to construct a (purely hypothetical) coherent unity. The result is quite obviously *not* a reconstruction of "Heraclitus," but a kind of "found poem" of my own using Heraclitian fragments as raw material. The result is, we might say, inspired by Heraclitus. Though it stands a chance to falsify the spirit of the author, my hope is that such an exercise stands an equal chance of resonating with the spirit of the author. 
+
+My strategy was simple. First, I used [this translation](http://classicpersuasion.org/pw/heraclitus/herpate.htm) and replaced "reason" with the Greek "Logos" to bring out the unity of a central concept. Second, I tried to organize the fragments thematically. I imposed a four-line form on them, organizing lines into sets of four. Third, if a sentence was too long I paraphrased it down. Fourth, and most brashly, I supplied by invention new lines if a sentence was lacking (the invented are noted by *italics*).
+
+The result is an original poem. It "flows" in a way certainly unlike Heraclitus' original, but offers a look at what a coherent version of Heraclitus' fragments *might* have looked like. 
 
 
 
 ## I
 
 Although the Law of Logos is common,   
-Most people live as though wisdom were their own.  
+the majority live as though they alone were wise.   
 It is wise for those who hear, not me, but the universal Logos,   
-to confess that all things are one.  
+to confess that all things are one.   
+
+Although the Law of Logos is common,    
+the majority live as though they alone were wise.   
+Alhough all things happen according to this Logos,    
+men act *as though they had never heard of it.*
 
 The God whose oracle is at Delphi neither speaks plainly   
 nor conceals, but indicates by signs.  
 There is only one supreme Wisdom:  
-It wills and wills not to be called by the name of Zeus.  
-
-Nature loves to conceal herself.  
-Gold-seekers dig over much earth and find little gold.  
-But the raging Sibyl uttering things solemn, rude and unadorned,   
-reaches with her voice over a thousand years, because of the God.  
+It wills and wills not to be called by the name of Zeus. 
 
 For humans do not understanding, but the divine does.  
 The thoughtless man understands the voice of the Deity   
@@ -37,11 +43,10 @@ as little as the child understands the man.
 
 
 
-
 ## II
 
-*Hesiod was a teacher of the masses but knew not day and night.*   
-Homer, *Archilochus, Xenphanes all deserved to be exiled and flogged.*  
+*Hesiod was a "teacher" of the masses but knew not day and night.*   
+Homer, *Archilochus, Xenphanes? They should be exiled and flogged.*  
 Pythagoras? He made a wisdom of his own--much learning and bad art.  
 Much learning does not teach one to have understanding,   
 
@@ -57,8 +62,8 @@ but it is hard to conceal in relaxation and over wine.
 
 Let us not draw conclusions rashly about the greatest things;  
 Dogs, also, bark at what they do not know.  
-He who wishes to be good shall often err  
-*But* presumption must be quenched even more than a fire,  
+He who wishes to be good shall often err,  
+*But* presumption must be quenched even more than a fire.   
 
 
 ## III
@@ -66,7 +71,7 @@ He who wishes to be good shall often err
 To me, one is ten thousand if he be the best.  
 In Priene there lived Bias, son of Teutamus,   
 whose word was worth more than that of others.  
-But one who knows that wisdom is apart from all is worth a thousand.  
+*One who knows that* wisdom is apart from all is worth a thousand.  
 
 The Ephesians deserve, man for man, to be hung,   
 For they banished Hermodorus, the worthiest man among them.  
@@ -78,23 +83,20 @@ although it always exists, men make themselves insensible,
 both before they have heard it    
 and when they have heard it for the first time.    
 
-Though the Law of Logos is common,    
-the majority live as though they alone were wise.   
-Though all things happen according to this Logos,    
-men act *as though they had never heard of it.*   
+Nature loves to conceal herself.  
+Gold-seekers dig over much earth and find little gold.  
+But the raging Sibyl uttering things solemn, rude and unadorned,   
+reaches with her voice over a thousand years, because of the God.  
+
+   
 
 
 ## IV
 
+Though the eyes are more exact witnesses than the ears,    
 Whatever concerns seeing, hearing, and learning, I particularly honor.   
-But the eyes are more exact witnesses than the ears.   
-Eyes and ears are bad witnesses to men having rude souls.   
+Even eyes and ears are bad witnesses to men having rude souls.    
 They understand neither how to hear nor how to speak.   
-
-The majority of people have no understanding    
-of the things with which they daily meet,    
-nor, when instructed, do they have any right knowledge of them,    
-although to themselves they seem to have.   
 
 To those who are awake, there is one common world,    
 but of those who are asleep, each is in his own private world.   
@@ -106,30 +108,13 @@ Of them the proverb says: "Present, they are absent."
 They are at variance with that with which    
 they are in most continual association.   
 
-
-## V
-
-The Law of Understanding is common to all.    
-By its incredibility, it escapes their knowledge.   
-Every animal is driven by blows.   
-A stupid man loves to be puzzled by every Logos.   
-
-They do not understand: what separates unites with itself.    
-It is a harmony of oppositions, as with the bow and of the lyre.   
-Unite whole and part, agreement and disagreement,    
-accordant and discordant; from all comes one, and from one all.   
-
 And some men are as ignorant of what they do when awake    
 as they are forgetful of what they do when asleep.   
 Death is what we see waking.    
 What we see in sleep is a dream.   
 
-Cold becomes warm, and warm, cold;    
-wet becomes dry, and dry, wet.   
-It disperses and gathers, it comes and goes.   
-All things arise by universal strife.    
 
-## VI
+## V
 
 In thirty years a man may become a grandfather.   
 Being born, they will only to live and die,    
@@ -152,6 +137,28 @@ Man, as a light at night, is lighted and extinguished.
 Corpses are more worthless than excrement.   
 
 
+## VI
+
+The majority of people have no understanding    
+of the things with which they daily meet,    
+nor, when instructed, do they have any right knowledge of them,    
+although to themselves they seem to have.   
+
+The Law of Understanding is common to all.    
+By its incredibility, it escapes their knowledge.   
+Every animal is driven by blows.   
+A stupid man loves to be puzzled by every Logos.   
+
+They do not understand: what separates unites with itself.    
+It is a harmony of oppositions, as with the bow and of the lyre.   
+Unite whole and part, agreement and disagreement,    
+accordant and discordant; from all comes one, and from one all.   
+
+Cold becomes warm, and warm, cold;    
+wet becomes dry, and dry, wet.   
+It disperses and gathers, it comes and goes.   
+All things arise by universal strife.    
+
 
 
 ## VII ##
@@ -166,15 +173,15 @@ To fishes it is drinkable and healthful,
 to men it is hurtful and unfit to drink.   
 Hogs wash themselves in mud and doves in dust.   
 
-Asses would choose stubble rather than gold.   
-The straight and crooked way of the woolcarders is one and the same.   
-*Fools revel in their ignorance*    
-And pigs revel in dirt.   
+Asses would choose stubble rather than gold.     
+The straight and crooked way of the woolcarders is one and the same.    
+*Most people revel in their ignorance*    
+*Just as* and pigs revel in dirt.   
 
-If you do not hope, you will not win that which is not hoped for,    
+If you do not hope, you will not win that which is not hoped for,     
 since it is unattainable and inaccessible.   
-Greater fates gain greater rewards.   
-Gods and men honor those slain in war.   
+Greater fates gain greater rewards.    
+Gods and men honor those slain in war.     
 
 
 
@@ -192,7 +199,7 @@ and of the sea, half is earth, and half the lightning flash.
 
 Into the same river you could not step twice,    
 for other waters are flowing.   
-Into the same river we both step and do not step.    
+Into the same river we both step and do not step.      
 We both are and are not.   
 
 The sea is poured out and measured    
@@ -204,13 +211,13 @@ Lightning rules all.
 ## IX
 
 One day is like all.   
-The sun is new every day.   
+The sun is new every day.    
 The way upward and downward are one and the same.   
 The beginning and end are common.   
 
 *We cannot escape the sun yet we mistake it for new*   
-*It is so bright we do not see it.*   
-Attend to words and works as I am now relating,    
+*Though it is the most bright, we see it the least.*   
+*Attend to* words and works as I am now relating,    
 describing each thing according to its nature.   
 
 The limits of the evening and morning are the Bear,    
@@ -254,7 +261,7 @@ and has produced some as gods and some as men,
 and has made some slaves and some free.   
 
 They would not know the name of justice,    
-were it not for these things.   
+were it not for these things.    
 For there could be no harmony without sharps and flats,    
 nor living beings without male and female which are contraries.   
 
@@ -272,7 +279,7 @@ Good and evil are the same.
 ## XII ##
 
 I have inquired of myself.   
-The limits of the soul you would not find out,    
+The limits of the soul you would not find out    
 though you should traverse every way.   
 A man's character is his daemon.   
 
@@ -283,7 +290,7 @@ Sickness makes health pleasant and good; hunger, satiety; weariness, rest.
 
 Most men follow minstrels and take the multitude for a teacher,    
 not knowing that many are bad and few good.    
-But the best men choose one thing above all--immortal glory among mortals;    
+But the best men choose one thing above all -- immortal glory --  
 While the masses stuff themselves like cattle.   
 
 Self-control is the highest virtue,    
