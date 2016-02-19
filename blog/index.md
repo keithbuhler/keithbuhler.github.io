@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: fun
 title: Blog
 
 ---
