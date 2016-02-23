@@ -51,12 +51,21 @@ Me: Now you're beginning to understand how I feel about you.
 3. [3](https://www.youtube.com/watch?v=Zpe29GtQuF8)
 4. [4](https://www.youtube.com/watch?v=MKH6PAoUuD0)
 5. [5](https://www.youtube.com/watch?v=Nj7lZ-tAYXg)
+6. [6](https://www.youtube.com/watch?v=6UkkoCNe29Q)
+7. [7](https://www.youtube.com/watch?v=J7Wp41IN0pw)
+8. [8](https://www.youtube.com/watch?v=dJMHPYKp5Zs)
+9. [9](https://www.youtube.com/watch?v=EajmIe1p35o)
+10.[10](https://www.youtube.com/watch?v=zwefchCvvmo)
 6. [11](https://www.youtube.com/watch?v=2Y_4aa8vhXw)
+7. [12](https://www.youtube.com/watch?v=AWgw95hpFzI)
 6. [13](https://www.youtube.com/watch?v=gNWl2ihvDGk)
+7. [14](https://www.youtube.com/watch?v=ifO8aACpBsM)
 6. [15](https://www.youtube.com/watch?v=s0Tn8WFMvQU)
 6. [16](https://www.youtube.com/watch?v=JY4Ct-eRoB0)
 6. [17](https://www.youtube.com/watch?v=zDkxJu8WiE4)
 
+[New Hampshire Victory Speech](https://www.youtube.com/watch?v=Ss7Pg7Zx_Rs)
+[South Carolina Victory Speech](https://www.youtube.com/watch?v=YVpTKIRgZwA)
 
 ## Trump Links
 
