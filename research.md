@@ -8,7 +8,7 @@ title: Research
 
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
-I’m currently writing my [dissertation](/fun/phd) on the virtue ethics of Alasdair MacIntyre, Philippa Foot, John McDowell and others.[^1]
+I’m currently writing my [dissertation](/phd) on the virtue ethics of Alasdair MacIntyre, Philippa Foot, John McDowell and others.[^1]
 
 [^1]:I’m especially interested in dialoguing with neo-Aristotelians but I'm also reading a lot of Elizabeth Anscombe, Peter Geach, Iris Murdoch, Rosalind Hursthouse, Martha Nussbaum, and Michael Thompson, not to mention Talbot Brewer, Stephen R. Brown, and R. Scott Smith.
 
@@ -24,7 +24,7 @@ As part of defending my answers, I attempt solid responses to a variety of objec
 * Ruth Millikan's objection that an organism's proper function cannot be read off its capacities but must be known via empirical history; 
 * the objection from Rehg, Lenman, and others that neo-Aristotelian virtue ethics is not "naturalistic", and more.
 
-You can read more about my [dissertation progress](/fun/phd) here.
+You can read more about my [dissertation progress](/phd) here.
 
 #### Other interests ###
 
