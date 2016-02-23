@@ -1,3 +1,8 @@
+---
+layout:default
+title: Trump links
+---
+
 # Trump
 
 ## An imaginary dialogue
@@ -41,6 +46,16 @@ Me: Now you're beginning to understand how I feel about you.
 
 ## Trump Videos
 
+1. [Can't Stump the Trump 1](https://www.youtube.com/watch?v=XimwGe0ThbA)
+2. [Can't Stump the Trump 2](https://www.youtube.com/watch?v=vJhoLUgeIhc)
+3. [3](https://www.youtube.com/watch?v=Zpe29GtQuF8)
+4. [4](https://www.youtube.com/watch?v=MKH6PAoUuD0)
+5. [5](https://www.youtube.com/watch?v=Nj7lZ-tAYXg)
+6. [11](https://www.youtube.com/watch?v=2Y_4aa8vhXw)
+6. [13](https://www.youtube.com/watch?v=gNWl2ihvDGk)
+6. [15](https://www.youtube.com/watch?v=s0Tn8WFMvQU)
+6. [16](https://www.youtube.com/watch?v=JY4Ct-eRoB0)
+6. [17](https://www.youtube.com/watch?v=zDkxJu8WiE4)
 
 
 ## Trump Links
