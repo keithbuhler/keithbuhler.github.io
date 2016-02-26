@@ -29,6 +29,7 @@ Consider a philosophy major or minor if one or more of these reasons applies to 
 ## Philosophy will help you earn more money: 
 Philosophy majors on average [make better money than business majors](http://www.payscale.com/2008-best-colleges/degrees.asp). They earn more than biologists, psychology, and communication majors. They are [#1 for mid-career growth](https://dl.dropboxusercontent.com/u/10224324/Website/philosophy-income.jpg). 
 
+
 **Median Salary Data**
 
 +------+----------------------+----------+------------+

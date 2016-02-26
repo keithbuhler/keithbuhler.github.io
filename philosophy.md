@@ -71,7 +71,7 @@ title: Philosophy Portal
 
 #### I want to hear more about your research and thoughts
 - Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
-- Check out some of my [fiction, nonfiction, art, and more fun stuff](/) at my personal site.
+- Check out some of my [fiction, nonfiction, art, and more fun stuff](/fun) at my personal site.
 - Contact me and let's set up a time to talk.
 
 #### I have other questions -- can we talk? ####

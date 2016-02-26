@@ -48,6 +48,7 @@ Western Civilization: Ancient and Medieval Thought (2008-2012, Torrey Academy)
 Western Civilization: 20th Century British Thought (2007-2012, Torrey Academy)  
 
 ### Talks
+2016 &nbsp;&nbsp; "The Cosmic Question": Teleology without Theology in Thomas Nagel's *Mind and Cosmos*  San Diego, CA.   
 2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  

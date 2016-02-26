@@ -3,7 +3,40 @@ layout:default
 title: Trump links
 ---
 
-# Trump
+# Donald J. Trump
+
+
+## Trump's character negatives
+1. Racist
+2. Narcissistic
+3. Sexist
+4. Xenophobe
+5. Islamophobe
+6. Loutish
+7. Bully, brash
+8. He inherited his wealth.[^1]
+9. If he put it in the stock market, it'd be bigger.
+10. He invests in vulgarities, like WWE, reality TV, and gambling.
+11. Loves eminent domain
+12. Braggart
+13. Winner
+14. ["Biggest balls" alpha male](http://www.dailywire.com/news/3411/case-trump-trump-has-balls-voters-balls-ben-shapiro)
+
+## Trump's character positives
+1. Tells it like it is
+2. Funny
+3. Successful
+4. Tough
+5. 
+
+## Trump's policies
+1. Not conservative
+2. Pro-choice
+3. Big government
+4. Single-payer health care
+
+[^1]: http://www.nationalreview.com/article/430137/donald-trump-conservative-movement-menace?utm_source=taboola&utm_medium=referral
+
 
 ## An imaginary dialogue
 
@@ -22,27 +55,6 @@ You: Wow, your political views betray your evil character.
 Me: Now you're beginning to understand how I feel about you.
 
 
-## Trump's character
-1. Racist
-2. Narcissistic
-3. Sexist
-4. Xenophobe
-5. Islamophobe
-6. Loutish
-7. Bully, brash
-8. He inherited his wealth.[^1]
-9. If he put it in the stock market, it'd be bigger.
-10. He invests in vulgarities, like WWE, reality TV, and gambling.
-11. Loves eminent domain
-12. Braggart
-
-## Trump's policies
-1. Not conservative
-2. Pro-choice
-3. Big government
-4. Single-payer health care
-
-[^1]: http://www.nationalreview.com/article/430137/donald-trump-conservative-movement-menace?utm_source=taboola&utm_medium=referral
 
 ## Trump Videos
 
@@ -66,8 +78,15 @@ Me: Now you're beginning to understand how I feel about you.
 
 [New Hampshire Victory Speech](https://www.youtube.com/watch?v=Ss7Pg7Zx_Rs)
 [South Carolina Victory Speech](https://www.youtube.com/watch?v=YVpTKIRgZwA)
+[Nevada Victory Speech](https://www.youtube.com/watch?v=ngk6tg8sWJw)
+
 
 ## Trump Links
+
+### 2011
+
+1. [Daily Beast: Wayne Barrett, 26 May 2011, Inside Donald Trump's Empire: Why he didn't run for president in 2012](http://www.thedailybeast.com/articles/2011/05/26/inside-donald-trumps-empire-why-he-wont-run-for-president.html)
+
 
 ### 2015
 
@@ -96,3 +115,17 @@ Me: Now you're beginning to understand how I feel about you.
 17. [3/4 of SC Voters Support Trump's Temporary Muslim Ban](http://www.breitbart.com/big-government/2016/02/20/three-quarters-of-sc-voters-support-trumps-temporary-muslim-ban/)
 17. [86% of Republicans think Donald Trump can Win General Election, Breitbart, 21 Feb 2016](http://www.breitbart.com/big-government/2016/02/21/ap-poll-86-republicans-think-donald-trump-can-win-general-election/)
 18. [AP: Time is Running out for Donald's Trump's Rivals to Stop Him, 21 Feb 2016](http://www.breitbart.com/big-journalism/2016/02/21/ap-time-running-out-for-donald-trumps-rivals-to-stop-him/)
+19. [Federalist: Take Hilary over Trump, by Tom Nichols](http://thefederalist.com/2016/02/24/ill-take-hillary-clinton-over-donald-trump/)
+20. [Federalist: Imagine Donald Trump versus Bernie Sanders in 2016](http://thefederalist.com/2015/08/31/just-think-donald-trump-versus-bernie-sanders-in-2016/)
+21. [Federalist: Why Donald Trump can't Win the White House 22 Feb 2016](http://thefederalist.com/2016/02/22/why-donald-trump-cant-win-the-white-house/)
+22. [NR: Charles Cook, It's Time for an Anti-Trump Manhattan Project, 22 Feb 2016](http://www.nationalreview.com/article/431858/donald-trump-2016-campaign-must-be-stopped)
+23. [NR: Brenand Bordelon 24 Feb 2016, Clinton Supporters worry about Trump's Dominance](http://www.nationalreview.com/article/431892/clinton-supporters-worry-about-trumps-dominance)
+24. [Fox, 24 2016, Rubio and Cruz say they'll stop Trump](http://www.foxnews.com/politics/2016/02/24/rubio-and-cruz-say-theyll-stop-trump-kasich-and-carson-vow-to-stay-in-race-at-fox-forum.html?intcmp=hpbt1)
+25. [Democrats No Longer View Donald Trump as a Joke, 24 Feb 2016, HuffPost](http://www.huffingtonpost.com/entry/harry-reid-donald-trump_us_56ce0d37e4b041136f193f19?utm_hp_ref=politics)
+26. [HuffPo: 24 Feb 2016, The Republican Party is Broken](http://www.vox.com/2016/2/24/11103704/the-republican-party-is-broken)
+27. [HuffPo: Donald Trump just got 2 Congressional Endorsements, 24 Feb 2016](http://www.vox.com/2016/2/24/11109900/donald-trump-polls-endorsements-win)
+28. [Vox: WHy the Republican race is looking more and more like Donald Trump vs. Marco Rubio](http://www.vox.com/2016/2/20/11081032/south-carolina-results-donald-trump-marco-rubio)
+29. [Fox: 17 Feb 2016, Limbaugh says Political Philosophy won't beat Trump's talk](http://video.foxnews.com/v/4761142380001/limbaugh-political-philosophy-wont-beat-trumps-talk/?intcmp=obnetwork#sp=show-clips)
+30. [Dana Loesch, Why Trump is Not My Guy](http://danaloeschradio.com/how-i-came-to-my-opinion-on-donald-trump)
+31. [The Daily Beast, 25 Feb 2016, We can still beat Donald Trump](http://www.thedailybeast.com/articles/2016/02/25/we-can-still-beat-donald-trump-and-here-s-how.html)
+32. [The Daily Beast, 24 Feb 2016, Math Says Trump is unstoppable](http://www.thedailybeast.com/articles/2016/02/24/a-trump-win-is-looking-inevitable.html?AID=7236)
