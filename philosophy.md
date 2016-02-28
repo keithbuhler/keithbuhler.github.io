@@ -7,7 +7,7 @@ title: Philosophy Portal
 ## Philosophy Portal ##
 
 #### Be Glad You're Studying Philosophy
-[Studying philosophy is a very good idea. It helps you to find a good job, earn a higher salary than business degree, become fully human, and answer life's deepest questions.](/philosophy-major) 
+[Studying philosophy is a very good idea. It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-major) 
 
 <img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 

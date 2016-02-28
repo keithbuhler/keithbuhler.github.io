@@ -9,7 +9,7 @@ title: bio
 
 Thanks for reading. My academic quest in life is to become wise. By reflecting on my own life and the life of others, I want to expose any and all rational or moral errors in myself, in my enemies, and in my friends. 
 
-I'm the youngest of seven kids, born and raised in [greater Los Angeles area.](https://screen.yahoo.com/californians-drama-off-405-000000032.html). I was home-schooled for many years before entering college early. 
+I'm the youngest of seven kids, born and raised in [greater Los Angeles area.](https://screen.yahoo.com/californians-drama-off-405-000000032.html) I was home-schooled for many years before entering college early. 
 
 The Torrey Honors Institute at Biola University exposed me to the "great books" of western tradition. There I acquired a broad base in art and psychology, before majoring in Humanities with an emphasis in History. I am grateful for my time there in which I was invited to read philosophy, literature, history, theology, poetry, science, and more. I learned most most studying Plato with John Mark Reynolds and with Al Geier of Rochester University ([Zeus in human form](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=190830)). Geier's method of dialectical exercise most of all has formed my pedagogy in my own classes. I also earned a minor in Biblical Studies. 
 

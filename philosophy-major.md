@@ -34,6 +34,7 @@ Philosophy majors on average [make better money than business majors](http://www
 
  
 | Rank | Degree               | Starting | Mid-career |
+
 * #1   | Chemical Engineering | $63k     | $107k      |
 * #10  | Mathematics          | $45k     | $92k       |
 * #16  | Philosophy           | $39k     | $81k       |
@@ -48,8 +49,9 @@ You may never beat the salary of a surgeon, Hollywood star, or best-selling auth
 Since philosophers learn the [“ultimate transferable work skill”](http://www.cep.unt.edu/times.html) they are almost never unemployed.
 
 
-##Studying philosophy helps you master universal [job skills:]( http://www.forbes.com/2010/02/18/most-important-job-skills-personal-finance-universal.html). 
-Communication, argument, teamwork, creativity, curiosity are the meta-skills — they apply to every discipline and any working professional, including the most important jobs in the world, being a husband or wife, father or mother, lover or friend. 
+## Studying philosophy helps you master universal job skills:
+
+Communication, argument, teamwork, creativity, curiosity are the universal [job skills:]( http://www.forbes.com/2010/02/18/most-important-job-skills-personal-finance-universal.html) that apply to every discipline and any working professional, including the most important jobs in the world, being a husband or wife, father or mother, lover or friend. 
 
 ## Philosophy study helps you to **communicate:** 
 Good philosophy communicates across languages and cultures across generations, centuries, even millennia. A philosophy major means you have spent hundreds of hours reading, writing, listening to, and making arguments in an attempt to communicate clearly.  

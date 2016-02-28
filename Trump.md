@@ -5,6 +5,19 @@ title: Trump links
 
 # Donald J. Trump
 
+## Reading Level 
+BUHLER
+Kinkaid score 42
+Readability score (12th grade)
+
+TRUMP
+Kinkaid score 83
+Readibility score (4th grade)
+
+CRUZ
+Kinkaid Score 63
+Readability (7th grade)
+
 
 ## Trump's character negatives
 1. Racist
@@ -94,10 +107,13 @@ Me: Now you're beginning to understand how I feel about you.
 2. [Donald Trump is a huge embarrassment for America](http://www.cnn.com/2015/12/09/opinions/ghitis-world-views-on-trump/)
 3. [If Trump wins the nomination, prepare for the end of the conservative party, by George Will, 23 Dec 2015](https://www.washingtonpost.com/opinions/a-conservative-party-jeopardized-by-trump/2015/12/23/3335339c-a8e2-11e5-8058-480b572b4aae_story.html)
 4. [Donald Trump Boasts about a lot of things. This time he is 100% right.](https://www.washingtonpost.com/blogs/plum-line/wp/2015/12/21/donald-trump-boasts-about-a-lot-of-things-this-time-he-is-100-right/?tid=a_inl)
+5. [Rush Limbaugh, 08 Dec 2016: To understand Trump's exageration, read the art o the deal.](http://www.rushlimbaugh.com/daily/2015/12/08/trump_supporter_read_the_art_of_the_deal_to_understand_what_he_s_doing)
 
 
 ### Jan/Feb 2016
-2. [The GOP Created Donald Trump, by Nicholas Kristoff, Feb 11 2016](http://www.nytimes.com/2016/02/11/opinion/the-gop-created-donald-trump.html?_r=0)
+2.[NyPost, 09 Jan 2016, Nomination two people Americans hate:](http://nypost.com/2016/01/09/parties-are-about-to-nominate-two-candidates-americans-hate/)
+3. [Federalist, 22 Jan 2016: Trump, Cruz, and Rubio: Paths to Nomination](http://thefederalist.com/2016/01/22/paths-to-the-nomination-trump-cruz-and-rubio/)
+3. [The GOP Created Donald Trump, by Nicholas Kristoff, Feb 11 2016](http://www.nytimes.com/2016/02/11/opinion/the-gop-created-donald-trump.html?_r=0)
 3. [Is Trump Unstoppable?, NYT 11 Feb 2016](http://www.nytimes.com/2016/02/21/opinion/is-there-any-stopping-donald-trump.html?&moduleDetail=section-news-3&action=click&contentCollection=Opinion&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article&mtrref=www.nytimes.com&gwh=691F7D8C8F52A9B4713565162623D0AA&gwt=pay&assetType=opinion)
 4. [Burn it all Down is Not the Answer, Trump Fans, by David French National Review 22 Feb 2016](http://www.nationalreview.com/article/431720/donald-trump-voters-want-destroyer)
 5. [Stop Defending Trump's Poisonous 'Middle Finger Politics', by Jonah Goldberg, National Review 20 Feb 2016](http://www.nationalreview.com/article/431631/donald-trump-middle-finger-politics-toxic?target=author&tid=897)
@@ -129,3 +145,5 @@ Me: Now you're beginning to understand how I feel about you.
 30. [Dana Loesch, Why Trump is Not My Guy](http://danaloeschradio.com/how-i-came-to-my-opinion-on-donald-trump)
 31. [The Daily Beast, 25 Feb 2016, We can still beat Donald Trump](http://www.thedailybeast.com/articles/2016/02/25/we-can-still-beat-donald-trump-and-here-s-how.html)
 32. [The Daily Beast, 24 Feb 2016, Math Says Trump is unstoppable](http://www.thedailybeast.com/articles/2016/02/24/a-trump-win-is-looking-inevitable.html?AID=7236)
+33. [Trump restores “lost” voters](http://news.yahoo.com/many-lost-voters-found-candidate-trump-180551756.html?nf=1)
+34. http://theweek.com/articles/599577/how-obscure-adviser-pat-buchanan-predicted-wild-trump-campaign-1996

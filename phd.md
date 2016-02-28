@@ -19,10 +19,10 @@ These are very early drafts; please do not share or cite.
 
 As drafts are available, the titles below will become links. To request permission to peruse, click the chapter title.
 
-1. Preface
-2. Ethics of Human Nature: The Project of Neo-Aristotelian Naturlism
+1. [Preface](/janpreface)
+2. [The Project of Neo-Aristotelian Naturalism](janethicalnaturalism)
 3. The Traits all Humans Need
-4. Excellence Character Traits
+4. Excellenct Character Traits
 5. Practical Reason and Practical Wisdom
-6. Happiness, the Human *Telos*
+6. Realizing our Human *Telos*
 7. Conclusions
