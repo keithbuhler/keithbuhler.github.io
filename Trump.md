@@ -18,6 +18,15 @@ CRUZ
 Kinkaid Score 63
 Readability (7th grade)
 
+## Endorsements
+
+1. Chris Christi
+2. Sean Hannity
+3. Bill O'Reilly
+4. Jeff Sessions
+5. Ann Coulter
+6. Milo Yiannopoulos
+7. Mike Huckabee (sort of)
 
 ## Trump's character negatives
 1. Racist
@@ -40,7 +49,9 @@ Readability (7th grade)
 2. Funny
 3. Successful
 4. Tough
-5. 
+5. A good negotiator.
+6. A delegator. 
+7. 
 
 ## Trump's policies
 1. Not conservative
@@ -49,6 +60,21 @@ Readability (7th grade)
 4. Single-payer health care
 
 [^1]: http://www.nationalreview.com/article/430137/donald-trump-conservative-movement-menace?utm_source=taboola&utm_medium=referral
+
+## What is he good at? 
+
+“Donald was such a promoter,” Res says. “There’s nobody like him. Nobody.”
+
+"Of all the things he's developed, the biggest thing he's developed is that image," said Jeffrey Sonnenfeld of the Yale School of Business Management.
+
+"He never was just a real estate genius. He was always a star," Maples said. "That's a whole part of how he worked his business and manipulates in the world in that way."
+
+## What do people like about him?
+
+RAND Corporation found that GOP voters who agree with the statement that “people like me don’t have any say about what the government does” were 86 percent more likely to support Trump than any other candidate.
+
+Read more: http://www.politico.com/story/2016/03/5-myths-about-trump-supporters-220158#ixzz41sc7lBj5
+
 
 
 ## An imaginary dialogue
@@ -67,6 +93,9 @@ You: Wow, your political views betray your evil character.
 
 Me: Now you're beginning to understand how I feel about you.
 
+## The Case Against Trump
+
+If you reject the Donald it is probably because... You think he is a liar, fraud, womanizing, amoral, sociopathic bloviating millionaire playing a billionaire on TV. He does nothing but lie to "sell" his way to the highest office in our nation (and the world), by billing himself as a conservative when he is clearly a Democrat and perhaps even a left-leaning liberal one. He appears to have almost no actual positions or principles or moral scruples that can't be changed for convenience and self-advancement, and those that he does have he cannot articulate except in monosyllabic platitudes. His "conservative" positions include big government Republican positions like a huge military, hawkish foreign policy, a tax policy that favors corporations, and big dumb patriotism. His other conservative alleged positions like closing the border, increasing American jobs by "bringing jobs back" from China, Mexico, Japan, ceasing to support Planned Parenthood on abortions, etc. are either directly contradicted by his own hypocritical business dealings , contradicted by his previous statements and donations, or rendered completely unreliable by his status as a liar and a fraud. An Easter/Christmas "Christian" who does not understand the Gospel, he is really a narcissistic vulgarian, unrepentant and self-assured in his hubris. Those who support him are either racists, anti-Semites, white nationalists, poor, uneducated, vulgar  -- or they are well-meaning evangelicals and Southerners and independents who are nevertheless tainted by uniting themselves to his vulgar, immoral, unAmerican, and unChristian character.  His supporters are either stupid and gullible (not to see his lies), power-worshippers, or sycophants who want something from him when he is the king of the hill. He is unelectable and will hand the White House to Hilary Clinton, and thus will guarantee Cruz or Rubio doesn't get a chance to restore conservative principles to the White House.  However, if in some nightmare he were elected all who supported him would be complicit in whatever happens next. And what would happen? We can't be sure but we can make reasonable bets that it would be something like this: he would immediately break all his promises and rationalize away his betrayal of the very people who elected him. He would then initiate a series of potential disasters for our nation: appointing liberal judges to the Supreme Court for life, violating the constitution, restricting free speech and freedom of the press, expanding Obama's executive tyranny, and disrupting relations with other nations, debasing American civil life, not to mention potentially bankrupting the economy with foolish trade deals and offensive statements, causing internal strife within the White House, committing war crimes, harming the poor and middle class. Unlike those clients and partners whom he screwed over before declaring bankruptcy, the American people cannot sue him and declare bankruptcy and start over. If he was in power, it would be quite simply the worst thing to happen on U.S. soil since the Civil War. You think, therefore, on the basis of his depraved moral character, non-existent or disastrous policies, and the likelihood of the devastating consequences to our Republic, that he supporting him is unconscionable, irrational, and bordering on insane.
 
 
 ## Trump Videos
@@ -92,6 +121,7 @@ Me: Now you're beginning to understand how I feel about you.
 [New Hampshire Victory Speech](https://www.youtube.com/watch?v=Ss7Pg7Zx_Rs)
 [South Carolina Victory Speech](https://www.youtube.com/watch?v=YVpTKIRgZwA)
 [Nevada Victory Speech](https://www.youtube.com/watch?v=ngk6tg8sWJw)
+[Super Tuesday Victory Speech]()
 
 
 ## Trump Links
@@ -100,6 +130,8 @@ Me: Now you're beginning to understand how I feel about you.
 
 1. [Daily Beast: Wayne Barrett, 26 May 2011, Inside Donald Trump's Empire: Why he didn't run for president in 2012](http://www.thedailybeast.com/articles/2011/05/26/inside-donald-trumps-empire-why-he-wont-run-for-president.html)
 
+### 2014
+1. [Jeff Lord, Yes Trump can Win, They said the same things about Reagan. 14 July 2014](http://spectator.org/articles/63436/yes-trump-can-win)
 
 ### 2015
 
@@ -147,3 +179,7 @@ Me: Now you're beginning to understand how I feel about you.
 32. [The Daily Beast, 24 Feb 2016, Math Says Trump is unstoppable](http://www.thedailybeast.com/articles/2016/02/24/a-trump-win-is-looking-inevitable.html?AID=7236)
 33. [Trump restores “lost” voters](http://news.yahoo.com/many-lost-voters-found-candidate-trump-180551756.html?nf=1)
 34. http://theweek.com/articles/599577/how-obscure-adviser-pat-buchanan-predicted-wild-trump-campaign-1996
+35. Murdoch: "As predicted, Trump reaching out to make peace with Republican "establishment".  If he becomes inevitable party would be mad not to unify." Tweet 2 Mar 2016. 
+36. [Politico, 03 March 2016, Scott Bland, 5 Myths about Trump Supporters](http://www.politico.com/story/2016/03/5-myths-about-trump-supporters-220158)
+37. [Law Newz, Dan Abrams, What Trump's Taxes might be hiding 03 March 2016](http://lawnewz.com/important/why-donald-trump-might-be-really-afraid-to-release-his-taxes/)
+38. [Pascal-Emmanuel Gobry, 29 Feb 2016, Why Trump's Broken English is his Scret Weapon](http://theweek.com/articles/608702/why-donald-trumps-broken-english-actually-secret-weapon)
