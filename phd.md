@@ -2,7 +2,7 @@
 layout: fun
 title: phd
 
---- 
+---
 
 
 ### Research Proposals ###
@@ -19,10 +19,10 @@ These are very early drafts; please do not share or cite.
 
 As drafts are available, the titles below will become links. To request permission to peruse, click the chapter title.
 
-1. [Preface](/janpreface)
-2. [Neo-Aristotelian Naturalism](janethicalnaturalism)
-3. Naturalism for Rational Animals
-4. Excellent Traits
-5. Practical Reason
+1. [Introduction](/janpreface)
+2. [Nature: Neo-Aristotelian Naturalism](janethicalnaturalism)
+3. [Human Nature: Naturalism for Rational Animals](janhumannature)
+4. Virtue: Excellent Traits
+5. Practical Reason: 
 6. Realizing our Human *Telos*
 7. Conclusions
