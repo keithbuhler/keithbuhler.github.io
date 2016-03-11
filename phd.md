@@ -20,9 +20,9 @@ These are very early drafts; please do not share or cite.
 As drafts are available, the titles below will become links. To request permission to peruse, click the chapter title.
 
 1. [Introduction](/janpreface)
-2. [Nature: Neo-Aristotelian Naturalism](janethicalnaturalism)
-3. [Human Nature: Naturalism for Rational Animals](janhumannature)
-4. Virtue: Excellent Traits
-5. Practical Reason: 
-6. Realizing our Human *Telos*
+2. [Nature: Virtue in Neo-Aristotelian Naturalism](janethicalnaturalism)
+3. [Human Nature: Virtue in Rational Animals](janhumannature)
+4. Excellence: Virtue as Excellent Traits
+5. Practical Reason: Virtue as Practical Wisdom
+6. Eudaimonia: Virtue as Realization our Natural Human Telos  
 7. Conclusions
