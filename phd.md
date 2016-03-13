@@ -1,5 +1,5 @@
 ---
-layout: fun
+layout: default
 title: phd
 
 ---
