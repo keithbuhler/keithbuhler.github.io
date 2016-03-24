@@ -7,13 +7,13 @@ title: Philosophy Portal
 ## Philosophy Portal ##
 
 #### Be Glad You're Studying Philosophy
-[Studying philosophy is a very good idea. It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-major) 
+[Studying philosophy is a very good idea.](/philosophy-major) It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
 <img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
-* Yes, because of [what a philosophy degree can do for you: namely, a good job, higher salary than business degree, and answers to life's deepest questions](/philosophy-major)
-* Also, [(almost) everyone should study some philosophy.](http://www.whystudyphilosophy.com)
+* Yes, because [a philosophy degree can help you find a good job, earn higher salary than business degree, and answers to life's deepest questions](/philosophy-major)
+* Yes, because [(almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com)
 
 #### I Just Joined Your Class; What Should I Do? ####
 * Take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
@@ -22,9 +22,9 @@ title: Philosophy Portal
 
 #### I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
 * Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it!
-* Read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/) article for rigorous, difficult introductions to the same. 
+* If you want a more rigorous version of the same, read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/). 
 
-#### I'm In Your Class; How Do I Get Better at Discussing Philosophy? ####
+#### IHow Do I Get Better at Discusion ####
 * [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed +200,000 times)
 * [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
 * Practice, practice, practice!   
@@ -35,10 +35,7 @@ title: Philosophy Portal
 * Read slowly, read over and over, think, and discuss.
 
 #### How Do I Get Better at Writing Philosophy Papers? ####
-* Learn to argue.
-* Read the instructions for my disputation papers. 
-* Do the opposite of [this.](http://www.rinkworks.com/persuasive/)
-
+* Learn to argue by doing the opposite of [this.](http://www.rinkworks.com/persuasive/)
 
 #### I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
@@ -57,6 +54,8 @@ title: Philosophy Portal
 
 #### What's It Like to Be a Professional Academic? ####
 * [Here's my story](/phd-how-to) about deciding, applying, and working through graduate school.
+* [A sober look at the future of professional philosophy.](http://chronicle.com/blogs/conversation/2014/07/16/wanted-a-future-for-philosophy/)
+* [A sober look at the cost of professionalizing philosophy](http://opinionator.blogs.nytimes.com/2016/01/11/when-philosophy-lost-its-way/)
 * [The Leiter Report](http://www.leiterreport.com) is a great blog for many aspects of the profession.
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
