@@ -46,6 +46,17 @@ Lewis
 * [C.S. Lewis - *Miracles*](/img/Lewis - Miracles.docx)
 * [C.S. Lewis - *Till We Have Faces*](/img/Lewis - Till We Have Faces.pdf)
 
+Public Domain (in Canada)
+* [C.S. Lewis - The Problem of Pain](http://www.gutenberg.ca/ebooks/lewiscs-problemofpain/lewiscs-problemofpain-00-h.html)
+* [Screwtape Letters](http://www.gutenberg.ca/ebooks/lewiscs-screwtapeletters/lewiscs-screwtapeletters-00-h.html)
+* [Transposition and other essays](http://www.gutenberg.ca/ebooks/lewiscs-transposition/lewiscs-transposition-00-h.html)
+* [Four Loves](http://www.gutenberg.ca/ebooks/lewiscs-fourloves/lewiscs-fourloves-00-h.html)
+* [Grief Observed](http://www.gutenberg.ca/ebooks/lewiscs-agriefobserved/lewiscs-agriefobserved-00-h.html)
+* [Surprised by Joy](http://www.gutenberg.ca/ebooks/lewiscs-surprisedbyjoy/lewiscs-surprisedbyjoy-01-h.html)
+* [Out of the Silent Planet](http://www.gutenberg.ca/ebooks/lewiscs-outofthesilentplanet/lewiscs-outofthesilentplanet-00-h.html)
+* [Perelandra](http://www.gutenberg.ca/ebooks/lewiscs-perelandra/lewiscs-perelandra-00-h.html)
+* [That Hideous Strength](http://www.gutenberg.ca/ebooks/lewiscs-thathideousstrength/lewiscs-thathideousstrength-00-h.html)
+
 Tolkien
 
 * [Tolkein, *Lord of the Rings*]

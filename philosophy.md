@@ -60,6 +60,7 @@ title: Philosophy Portal
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, the bad, and the ugly. 
+* [Why some women leave philosophy (and why others stay)](http://quod.lib.umich.edu/p/phimp/3521354.0016.006/1)
 
 
 

@@ -3,21 +3,20 @@ layout: noheader
 title: PHL 200 S2016
 ---
 
-### [Syllabus, Spring 2016](http://keithbuhler.github.io/teach/PHL-200-S2016-Syllabus.pdf)
+# [Syllabus, Fall 2016](/phl200fall.pdf)
 **Introduction to Philosophy: “Goodness, Truth, and Beauty”**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: keith_buhler  
-**Office Hours:** Tues 12-1, Kinlaw Library by Lewis Corner.
+**Office Hours:** Mondays 12-1, Kinlaw Library by Lewis Corner.
 
 ### Course Description: 
-This class is an exercise in a different way of thinking. We will think slowly, carefully, methodically, and deeply about important things. It is also an introduction to big ideas. We will think deeply about the world, God, death, science, logic, language, and our own selves. 
+This class is an exercise in a different way of thinking. We will think deeply about the world, God, death, science, logic, language, and our own selves. We will learn some facts of history, vocabulary words, philosophical concepts, and big names. 
 
-Along the way, we will learn some facts of history, vocabulary words, philosophical concepts, and big names. But our main task is to *think*.  At times, you might be confused. You will certainly be challenged. 
+But our main task is to *think*. We will think slowly, carefully, methodically, and deeply about important things. At times, you might be confused. You will certainly be challenged. 
 
-Our method is to read, discuss, and write every week. Active reading, logical discussion, and careful writing are master skills. Thinking is useful for academics, for work, and for life. For some, our study will convince you to major or minor in philosophy. For others, it will make you better in your own discipline. For the skills you learn in philosophy apply to any profession: the top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline.
+Every week we will read, write about, and discuss a primary source from western history. You will get better at reading actively,  discussing intentionally and writing logically. These skills are not just useful for philosophy. They will make you better in computer programming or chemistry, better in motherhood or the ministry. (The top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline.)
 
-For still others, thinking well will help you in motherhood or the monastery. For all of us, we want to become more connected, integrated, thoughtful, reflective human beings.  The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We are also entering into the Great Conversation with our own, limited (often confused) thoughts, becoming part of the Conversation, and (by it) being forever changed. 
+Most importantly, this new way of thinkig will help us love God with all our minds. We will become more connected, integrated, thoughtful, reflective human beings.  The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We are also entering into the Great Conversation with our own, often confused thoughts, becoming part of the Conversation, and being forever changed. 
 
 **Our goals then are:**
 
@@ -29,11 +28,16 @@ For still others, thinking well will help you in motherhood or the monastery. Fo
 * To become more thoughtful human beings in the pursuit of goodness, truth, and beauty.
 
 
+
 ### Course Outline
 
-*The online version is always up to date. Any paper version is subject to minor changes due to weather, illness, etc. Each date tells you the reading due and the topic. Each date also includes detailed lecture notes because students asked for them to help prepare.*
+*Subject to minor changes. The online version is always up to date. Each date tells you the reading due, topic, and provides detailed notes to help you prepare.*
+
+
 
 --------
+
+1
 
 **T Jan 12 -- Syllabus**  
 Class preview: This class will be awesome. It’s a lot of reading, so you have to work hard. But more importantly, you have to think hard. Today we’ll get to know each other and our expectations, how to get an A, etc.. I’ll give you three personal problems philosophy can (maybe) help you with. 
@@ -42,6 +46,7 @@ Class preview: This class will be awesome. It’s a lot of reading, so you have 
 Sophie is asked by a mysterious stranger two key questions: who are you? Where did the world come from? We will do our best to begin answering those questions by examining two big ideas: Time and causes. Causes answer the question "why?" And time is a condition of all life on earth.
 
 --------
+2
 
 **T Jan 19 -- Genesis 1-5:      Mythology**  
 A myth is not a false story but a likely story. In that sense, Genesis is a myth. We'll analyze it for its presentation of freedom, humanity, goodness, God, sin, and redemption. (Today, we assign groups and “internal/external” processors today as well.)
@@ -52,6 +57,7 @@ All semester we will be seeking truth. To be successful, we have to know whether
 *Disputation Paper 1 will be due next Tuesday by 11:55pm. Please carefully review the “Disputation Paper” instructions online.*
 
 --------
+3
 
 **T Jan 26: Plato, *Eutyphro*; *Sophie’s World*, Socrates, Athens, Plato:   What is Holiness?**
 The best way to be introduced to philosophy is to be introduced to Socrates, his character, his conversation, his way of life. How do you react to him? Socrates begs a priest, Euthyphro, to explain what piety is. Socrates is on trial for impiety, so his life is on the line.  Euthpyhro can't answer. Can you?
@@ -60,6 +66,7 @@ The best way to be introduced to philosophy is to be introduced to Socrates, his
 Is Socrates' way of life meaningful or meaningless -- obedient to God or dangerous? Socrates does not "apologize" but "defends" himself (*apologia*, like apologetics). All of Athens, and all of history, is the jury. Is he guilty? Is philosophy a great subversive evil for the city or a great good?
 
 --------
+4
 
 **T Feb 2 -- Plato, *Phaedo* 116-143: The soul is immortal because opposites come from opposites**  
 Plato's *Phaedo* shows Socrates' last days. Should we grieve when our friends die? Is the soul immortal? Socrates argues that the soul lives on when the body dies. The first of three arguments builds off the natural opposites, cold from hot, big from small, life from death. Is this a good argument? Why or why not? 
@@ -69,6 +76,7 @@ Without the help of Scripture or revelation, Socrates argues the soul is immorta
 
 
 --------
+5
 
 **T Feb 9 --  *Phaedo* (all): The soul is immortal because it is more like forms than matter.**  
 Socrates introduces "forms", real beings like equality or goodness, that explain properties. Forms are contrasted with individuals, like chairs or horses. The soul is supposed to be more like forms than particulars. Is this a good argument? Why or why not? 
@@ -79,6 +87,7 @@ Socrates introduces "forms", real beings like equality or goodness, that explain
 *Disputation 2 Prompt:   Does the soul live on after bodily death?*
 
 --------
+6
 
 **T Feb 16 -- “Aristotle” Handout; Sophie’s World, Aristotle: Aristotle and his Four Causes.**   
 Aristotle was a "meticulous organizer." He categorized thoughts into logic, knowledge into sciences, and reality into ten categories of beings. His influence extends even to today. The "four causes" of an entity are the four properties that make it what it is. For example, think about a piece of bronze (material) made into a statue of a soldier (form), by a sculpter (efficient), that marks the entrance of the city (final). What are the four causes of a human being?
@@ -88,6 +97,7 @@ The material cause is what a thing is made of; the formal cause, its configurati
 
 
 --------
+7
 
 **T Feb 23 --    (No reading): Logic**  
 * Logic is the science of inference. We need data to make inferences. The sources of data are observation, memory, testimony, and authority. These data are the premises of arguments. Solid inferences become principles. Principles are the premises of new arguments. The most common kid of argument is a "syllogism." Syllogisms have three statements: a major premise, a minor premise, and a conclusion. There are three kinds of major premise: categorical, hypothetical, and disjunctive. Dilemmas and other forms of argument compound syllogisms. How does logic relate to science? 
@@ -98,6 +108,7 @@ Christ as the Logos is at once creator, redeemer, and our goal. Substitutes for 
 *Watch Toy Story 3!*
 
 --------
+8
 
 **T Mar 1 -- Toy Story 3 (Pixar Film): How do we survive devouring time?**  
 This is a movie about devouring time. How is Andy’s relationship to Woody and Buzz changing. Also, Lotso is clearly evil. But what is his vice, or his sin? Does it have to do with his rejection of devouring time?
@@ -108,6 +119,7 @@ After the midterm, we will discuss the salvation of the toys. Who saves them, an
 
 --------
 
+9
 
 T Mar 8 -- **Aquinas Handout: Can God’s existence be proven? (26 pages): Does God exist?** 
 
@@ -192,7 +204,24 @@ T    Disputation 5 Due.
 R  Reflection paper due; extra credit (optional) due; Final Exam TBA.  
 
 
---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Scope and Sequence:
 To accomplish our goals, we will work through 10 Units. Each 2 week Unit consists of (1) readings and quizzes, (2) participation through talking and writing, (3) and a disputation paper. There is a midterm and final exam.
@@ -320,3 +349,7 @@ Faculty will address suspected occurrences of academic dishonesty as follows:
 The faculty member will meet with the student individually to discuss the incident. At the faculty member’s discretion, the department chair will either be notified of the meeting or be asked to be present for it. The student will be informed of the department chair’s involvement. At the faculty member’s discretion the student will receive a lowered grade, an F or 0% on the assignment in question. The faculty member will report the incident in writing to the Registrar who will maintain a record of academic integrity violations.If the incident is the student’s second offense of academic dishonesty as verified by the Registrar, the student will meet with the Dean of the college or school where the most recent incident occurred. At the Dean’s discretion, the student will receive an F in the course. If the incident is the student’s third offense, the student will be suspended from Asbury University. 
 
 Students desiring to appeal a determination of academic dishonesty will follow the ‘Academic Appeals Procedure’ found in the Probation, Suspension, and Appeals section of the Asbury University Bulletin, specifically item 1. A.
+
+
+
+
