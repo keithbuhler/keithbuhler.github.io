@@ -18,4 +18,4 @@ Other profiles: [University Kentucky,](https://philosophy.as.uky.edu/users/kebu2
 
 Please explore or [**introduce yourself**.](emailto:keithedbuhler@gmail.com)  
 
-[^1]:[As Rosalind Hursthouse explains: "The proponents of neo-Aristotelian ethical naturalism (henceforth ``Aristotelian naturalism'' for short) include Foot (2001), Geach (1956, 1977), Hursthouse (1999), McDowell (1995), MacIntyre (1999), Nussbaum (1993, 1995), and Thompson (1995); and also Anscombe because her work has influenced so many others. (Gaut [1997, 2002] should also be known as a significant contributor.)"]
+[^1]:As Rosalind Hursthouse explains: "The proponents of neo-Aristotelian ethical naturalism (henceforth ``Aristotelian naturalism'' for short) include Foot (2001), Geach (1956, 1977), Hursthouse (1999), McDowell (1995), MacIntyre (1999), Nussbaum (1993, 1995), and Thompson (1995); and also Anscombe because her work has influenced so many others. (Gaut [1997, 2002] should also be known as a significant contributor.)"
