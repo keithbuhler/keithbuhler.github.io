@@ -1,7 +1,8 @@
 ---
-title: Lawman, People of the Math
-layout: noheader
----
+layout: Lawmen, People of the Math
+title: preface
+
+--- 
 
 # People of the Math
 
