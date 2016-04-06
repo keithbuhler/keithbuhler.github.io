@@ -4,7 +4,8 @@ title: preface
 
 --- 
 
-# People of the Math
+
+# People of the Math, by [Josh Lawman](http://joshlawman.com/)
 
 ## I. The Failure of the Utilitarian Approach to Mathematics  
 
