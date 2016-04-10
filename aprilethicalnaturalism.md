@@ -1,3 +1,10 @@
+---
+layout: fun
+title: ethical naturalism
+
+--- 
+
+
 # Neo-Aristotelian Ethical Naturalism
 
 *“Not everything that is last claims to be an end, but only that which is best.”* \

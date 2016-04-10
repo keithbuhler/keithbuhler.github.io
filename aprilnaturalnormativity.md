@@ -1,3 +1,10 @@
+---
+layout: fun
+title: ethical naturalism
+
+--- 
+
+
 # The Normativity of Nature^[Alternate title: Natural, Organic, and Practical Teleology: Natural Norms and Human Nature]
 
 *"Biology cannot, or at least in practice does not, eliminate functions and purposes."* \

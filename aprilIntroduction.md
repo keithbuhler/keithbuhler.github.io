@@ -1,3 +1,10 @@
+---
+layout: fun
+title: ethical naturalism
+
+--- 
+
+
 # Introduction: Virtue, Reason, and Flourishing
 
 *"Men need virtues as bees need stings."* \
