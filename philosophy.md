@@ -24,7 +24,7 @@ title: Philosophy Portal
 * Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it!
 * If you want a more rigorous version of the same, read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/). 
 
-#### IHow Do I Get Better at Discusion ####
+#### How Do I Get Better at Discussion? ####
 * [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed +200,000 times)
 * [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
 * Practice, practice, practice!   
@@ -48,7 +48,11 @@ title: Philosophy Portal
 
 
 #### No, Seriously, I *Really* Like Philosophy; What Should I Do? ####
-* Read [Plato, *Republic*], [Aristotle, *Metaphysics*], [Thomas Aquinas, *Summa Theologica*](http://www.newadvent.org/summa/), [Nietzsche, Geneaology of Morals], and [Kant, *Metaphysics of Morals*], if you haven't yet.
+* Read [Plato, *Republic*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168), 
+* [Aristotle, *Metaphysics*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052), 
+* [Thomas Aquinas, *Summa Theologica*](http://www.newadvent.org/summa/), 
+* [Nietzsche, Geneaology of Morals](http://www.inp.uw.edu.pl/mdsie/Political_Thought/GeneologyofMorals.pdf), and 
+* [Kant, *Metaphysics of Morals*](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf).
 * Talk to your professors. 
 * Read about what it's like to be a professional academic. 
 
