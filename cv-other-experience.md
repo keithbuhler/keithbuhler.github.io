@@ -1,6 +1,6 @@
 ### Popular Talks & Public Lectures ###
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
-2013&nbsp;&nbsp; "Reading is Classical Education", Veritas Christian Academy.  
+2013&nbsp;&nbsp; "Reading as Classical Education", Veritas Christian Academy.  
 2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' *Abolition of Man*", Torrey Academy.   
 2012 &nbsp;&nbsp; "Is Vanity the same as pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.  
 2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church.    
@@ -11,7 +11,7 @@
 2011 &nbsp;&nbsp; "The 21st Century Study of Celestials", Torrey Academy.  
 2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
 2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
-2009 &nbsp;&nbsp; "Is Theology the Science of God?", Hope Academy.     
+2009 &nbsp;&nbsp; "Is Theology a Science?", Hope Academy.     
 2009 &nbsp;&nbsp; "The Possibility of Sanctification", Hope Academy.     
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
@@ -32,3 +32,6 @@ The Philosophy of Pain and Suffering (2011, St. Barnabas Church)
 Goodness, Truth, and Beauty: Christian Worldview (2010, St. George Church)  
 
 
+### Affiliations
+
+National Association of Scholars, 2016-present   
