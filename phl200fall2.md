@@ -19,35 +19,36 @@ Buy these books right away. Use these ISBNS only, please. Please, no Kindle unle
 
 **Handouts & Films, provided online**
 
-- Genesis (Chps. 1-2)
+- Genesis 1-2.
 - Peter Kreeft, “Is truth objective?”
 - Peter Kreeft, “Is there a real moral law?”
-- Aristotle's “Four Causes”
-- Aristotle "Happiness"
+- Peter Kreeft, "Are final causes natural?"
 - Peter Kreeft, “Are universals real?”
 - Bertrand Russell “Free Man’s Worship”
 - Aquinas, “God and Happiness”
 - Edward Feser, “Can We Make Sense of the World?”
 - Richard Dawkins, “Why there is almost certainly no god”
 - Dargis, “In Defense of Slow Movies”
-- The Gospel of John (without chapters, verses, or cross-references)   
+- The Gospel of John (plain text, no chapters or verses)
 - Toy Story 3
 - The Matrix 
 - 2001: A Space Odyssey
 - Tree of Life
 
 
-
 ### Course Description: 
-Who are you? Where does the world come from? This course is an exercise in a different way of thinking. We will work to answer such deep questions by thinking deeply about the world, God, death, science, logic, language, and our own selves.  
 
-We will also learn some facts of history, vocabulary words, philosophical concepts, and big names. But our main task is to *think*. We will think slowly, carefully, methodically, and deeply about important things, such as our own identity, the existence of God, the structure of the cosmos, and the moral law. At times, you will *probably* be confused. You will *certainly* be challenged. You *may* be changed forever.
+This course is an introduction to the western philosophical history, to three great philosophers. More importantly, this course is an opportunity for you to practice *thinking philosophically*. 
 
-Every week we will read, write about, and discuss a primary source from western history. Your goal is to read, think, and digest. You will get better at this. 
+There is a wide variety in the eleven main topics: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles, the Cosmos, and the Tree of Life. Some of these are more abstract than others. All of them are windows into a deeper reality than we tend to think about in our day-to-day consciousness. The texts we will read include history, Scripture, drama, film, non-fiction, fiction, biography. 
 
-You should aim to read actively, discuss intentionally and write logically. These skills are not just useful for philosophy. They will make you better in computer programming or chemistry, better in motherhood or the ministry. (The top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline.)
+As you can see, this class will be eclectic. Enjoy the ride. The one thing uniting all these topics is *conversation*. You will discuss these topics in class and outside of class. Be confused. Ask questions. Get frustrated. Draw connections. Converse with me; don't just sit back waiting to be programmed. 
 
-Most importantly, this new way of thinking will help us love God with all our minds. We will become more connected, integrated, thoughtful, reflective human beings.  The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We are also entering into the Great Conversation with our own, often confused thoughts, becoming part of the Conversation, and being forever changed. 
+The first question we will ask is simple: "Who are you?" This may sound easy to answer, but it is not. We will also wonder about whether God exists, what he is like, and how we can know such things. 
+
+If we don't know who we are, how can we get better? If we don't know who we are, how can we give ourselves as a living sacrifice? If we don't know who we are, how can we set goals and live our lives? 
+
+By asking who we are, and discussing these topics together, this class is an opportunity to enter into the "Great Conversation" and become better people. 
 
 **Our goals then are:**
 
@@ -76,10 +77,9 @@ You will be graded equally on each component, plus applicable extra credit.
 
 |  Assessment category              |  Percent of semester grade |
 | ----------------------------------|----------------------- |
-| Readings (Quizes)                 | 25%  |  
-| Participation (Talking, writing)  | 25% |
-| Tests (Midterm, Final)            | 25% |
-| Disputation Papers                | 25% |
+| Readings (Quizes)                 | 30%  |  
+| Participation (Talking, writing)  | 35% |
+| Disputation Papers                | 35% |
 | Extra Credit                      | 3% (max) |
 
 I typically do not round up. So 89.5 is a “B”
