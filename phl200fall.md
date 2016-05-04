@@ -114,7 +114,7 @@ We need you here! Attendance is mandatory. 1 to 3 "Personal absences" are freebi
 1 = -0  
 2 = -0  
 3 = -0  
-4 = -2% 
+4 = -2%  
 5 = -4%  
 6 = -6%  
 7 = -8%  
