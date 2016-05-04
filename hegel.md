@@ -1,12 +1,6 @@
 ---
-author:     Keith Buhler
-title:      Term Paper
-class:      Post-Kantian Ethics 
-teacher:        Dan Breazeale
-semester:       Spring 2016
-
----
-
+layout: default
+--- 
 
 "...This naturally depends on the numbers concerned." --Hegel, *Philosophy of Right*, § 270.
 
