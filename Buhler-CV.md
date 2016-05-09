@@ -9,11 +9,11 @@ Philosophy Dept., University of Kentucky
 [http://www.keithbuhler.com](http://www.keithbuhler.com)  \  
 
 ### RESEARCH
-AREAS OF SPECIALIZATION: Normative and Applied Ethics, Virtue Ethics, Metaethics       
-AREAS OF COMPETENCE: Plato and Aristotle, Medieval, Philosophy of Religion, Philosophy of Mind, Bioethics  
+AREAS OF SPECIALIZATION: Virtue Ethics, Metaethics       
+AREAS OF COMPETENCE: Plato and Aristotle, Philosophy of Religion, Philosophy of Mind, Bioethics  
 
 ### DISSERTATION
-Title: *Becoming a Human Being: Virtue, Reason, and Natural Teleology in Recent Neo-Aristotelians*    
+Title: *Virtue, Reason, and Teleology in Recent Neo-Aristotelianism*    
 Chair: David Bradshaw.   
 
 
@@ -37,6 +37,30 @@ Chair: David Bradshaw.
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
 
+
+### COURSES TAUGHT 
+
+**University of Kentucky**  
+2016 &nbsp;&nbsp; Business Ethics (Upper division)
+2015-16 &nbsp;&nbsp; Health Care Ethics (Upper division)       
+2013-14 &nbsp;&nbsp; Introduction to Philosophy  
+2013 &nbsp;&nbsp; Introduction to Ethics   
+2012-13 &nbsp;&nbsp; Introduction to Logic 
+
+**Asbury University**  
+2016 &nbsp;&nbsp; Philosophy of CS Lewis (Seminar)  
+2016 &nbsp;&nbsp; Philosophy of Religion (Directed Study)  
+2016 &nbsp;&nbsp; Wisdom and Virtue (Seminar)    
+2014-2016 &nbsp;&nbsp; Introduction to Philosophy: Goodness, Truth, and Beauty   
+
+**High School Courses**  
+2013 &nbsp;&nbsp; 20th Century British Literature and Philosophy  
+2011 &nbsp;&nbsp; Plato Seminar 
+2010 &nbsp;&nbsp; Aristotelian Logic
+2009 &nbsp;&nbsp; Western Civilization: American Thought (2009-2012 Torrey Academy)  
+2008 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought
+2007 &nbsp;&nbsp; Western Civilization: 20th Century British Thought
+
 ### OTHER TEACHING POSITIONS
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
 2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy    
@@ -48,22 +72,6 @@ Chair: David Bradshaw.
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 2001 (summer) &nbsp;&nbsp; English Teacher (Summer), Biola University Abroad, Mongolia.
-
-### COURSES TAUGHT
-Wisdom and Virtue (Seminar, 2016 Asbury)  
-Health Care Ethics   (2015-16 UK)  
-Introduction to Philosophy: Goodness, Truth, and Beauty  (2014-16 Asbury)  
-Introduction to Philosophy: Knowledge and Reality (2013-15 UK)  
-Introduction to Ethics (2013 UK)  
-Introduction to Logic (2012-13 UK)  
-20th Century British Literature and Philosophy (2013 Veritas Academy)   
-Plato Seminar (2011 Torrey Academy)   
-Aristotelian Logic (2010-2012 Torrey Academy)  
-Western Civilization: American Thought (2009-2012 Torrey Academy)  
-Western Civilization: Ancient and Medieval Thought (2008-2012 Torrey Academy)  
-Western Civilization: 20th Century British Thought (2007-2012 Torrey Academy)  
-
-
 
 ### INVITED PUBLIC LECTURES
 2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
