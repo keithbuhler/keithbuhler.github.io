@@ -73,18 +73,20 @@ title: Philosophy Portal
 - Also, [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
 - [Email me or set up an appointment](emailto:keith.buhler@uky.edu) to share criticism, compliments, or other comments.
 
-#### I want to hear more about your research and thoughts
-- Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
-- Check out some of my [fiction, nonfiction, art, and more fun stuff](/fun) at my personal site.
-- Contact me and let's set up a time to talk.
 
-#### I have other questions -- can we talk? ####
-- Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
-
-#### Misc Links
+#### Misc Philosophy Links
 * [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
 * [Mortimer Adler, The Great Ideas](http://www.thegreatideas.org/greatideas1.html) for a quick summary of the 102 biggest ideas in Western thought. 
 * [Reading philosophy series](http://www.wiley.com/WileyCDA/Section/id-404050.html)
 * [Clair Morrissey, Kelsey Palghat, "Engaging Reading", Teaching Philosophy 37:1, March 2014.](http://works.bepress.com/clair_morrissey/4/)
 * [Learn more about how to read philosophy papers](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-read)
 * [Teaching Students to Read Philosophy](http://www.pdcnet.org/collection/show?id=teachphil_2004_0027_0004_0351_0368&file_type=pdf)
+
+
+#### I want to talk about something else
+- Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
+- Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
+- Check out some of my [personal site](/fun) for fiction, nonfiction, art, and more fun stuff
+
+<a href="https://twitter.com/Keith_Buhler" class="twitter-follow-button" data-show-count="false">Follow @Keith_Buhler</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
