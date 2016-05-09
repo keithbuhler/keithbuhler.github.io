@@ -20,6 +20,7 @@ Thanks for visiting.
 
 Online profiles: 
 
-* [University Kentucky,](https://philosophy.as.uky.edu/users/kebu226) [PhilPapers,](http://philpapers.org/profile/47267) 
+* [University Kentucky,](https://philosophy.as.uky.edu/users/kebu226) 
+* [PhilPapers,](http://philpapers.org/profile/47267) 
 * [Academia.edu,](https://uky.academia.edu/KeithBuhler) 
 * [RateMyProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771). 
