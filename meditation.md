@@ -27,6 +27,7 @@ to preserve me like His precious insect.
 3. It reduces anxiety, depression, [insomnia](http://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726), [blood pressure](http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#), and more.
 4. It increases awareness, compassion, self-control, peacefulness, and more. 
 5. It feels good. 
+6. Every religious tradition practices meditation-- including Christianity -- and atheists and agnostics do too. It's like laughing or studying the stars: it's human.
 
 ## My Story  ##
 

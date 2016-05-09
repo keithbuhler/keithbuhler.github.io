@@ -1,3 +1,9 @@
+---
+layout: fun
+title: Abolish Insurance
+---
+
+
 # Abolish Insurance
 
 ## Mission
