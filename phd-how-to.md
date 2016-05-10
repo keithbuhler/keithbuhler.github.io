@@ -3,7 +3,7 @@ layout: fun
 title: how to get a phd in philosophy
 --- 
 
-[Another page explains my research.](/fun/phd) This post gives some advice on each stage of the process. 
+[Another page explains my research.](/phd) This post gives some advice on each stage of the process. 
 
 ### My Story  ###
 
@@ -28,7 +28,7 @@ Some study philosophy and go on to other things. Some get a B.A. or even an M.A.
 
 ### 3. How do you best apply? ##
 
-Your philosophical essay is the most important. Pick your best undergrad or MA essay, re-write it twice, polish it, send it to your favorite and most generous professor, re-write it again, pay some to proof-read it, then print it out, read it aloud with a read pen, re-write it again, THEN include it in your portfolio.
+Your philosophical essay is the most important. Pick your best undergrad or MA essay, re-write it twice, polish it, send it to your favorite and most generous professor, re-write it again, pay someone to proof-read it for you, make the corrections, then print it out and read it aloud with a red pen. Find errors in grammar, typing, or thinking, and re-write it again...  THEN include it in your portfolio.
 
 The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosophers tend to do well on the math. But you should study harder for the verbal and writing, as this counts more than math. (Math is more important for, say, engineering grad students). 
 
@@ -36,7 +36,7 @@ The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosoph
 
 
 ### 4. Once you get in, how do you best make progress? ###
-At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing)
+At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list.](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing)
 
 The list is 35 or so items, broken into 6 (very disproportionally sized) projects: 
 
@@ -78,7 +78,7 @@ Comprehensive exams are required at U. Kentucky but the practice is fading. I st
 
 ### 7. How do you decide on an Area? ##
 
-Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like U.Kentucky does. We do an Area, then Qualifying Exams, then Proposal -- THEN start the dissertation.
+Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like U. K. does. We do an Area, then Qualifying Exams, then Proposal -- THEN start the dissertation.
 
 
 ### 8. How do you pass the Qualifying Exams? ##
@@ -123,6 +123,9 @@ Example 3 - 300 pages, 5 chapters, 60 pages each, 15,000 words per chapter.
 
 Example 4 - 300 pages, 8 chapters, 37 pages each, 9,200 words per chapter.
 
+Example 5 - 180 pages, 10 chapters, 18 pages each, 4,500 words per chapter.
+
+Example 6 - 200 pages, 10 chapters, 20 pages each, 5,000 words per chapter
 
 
 ## Coming soon ##
