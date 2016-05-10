@@ -5,27 +5,28 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
-Before teaching at university, I taught high school for many years. You can see a complete list of classes on my [CV](/Buhler-CV.pdf). I have served as a Master Tutor and a Director of High School Studies at two different schools. I created curricula and helped train teachers. 
+Before teaching at university, I taught high school for many years. You can see a complete list of classes on my [CV](/Buhler-CV.pdf). I have served as a Master Tutor and a Director of High School Studies at two different schools, where I created curricula and helped train teachers. 
 
-Over the last four years, I have taught seven distinct university preps (13 sections total). The courses and sample syllabi are:
+At universities, I have taught seven distinct preps. The courses and sample syllabi are:
 
 ### Course Syllabi
 F2016 Business Ethics (coming soon)  
 F2016 Philosophy of CS Lewis (coming soon)  
-S2016  Wisdom and Virtue  ([Syllabus](/PHL293))  
+S2016 Wisdom and Virtue  ([Syllabus](/PHL293))  
 S2016 Health Care Ethics ([Syllabus](/PHI305))    
-F2015 Health Care Ethics   
-S2015 Introduction to Philosophy ([Syllabus](/PHL200))  
-F2014 Introduction to Philosophy 
+F2015 Health Care Ethics ([Syllabus](/PHI305))       
+S2015 Introduction to Philosophy ([Syllabus](/PHL200))   
+F2014 Introduction to Philosophy ([Syllabus](/PHL200))    
 F2013 Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-S2013 Introduction to Logic
+S2013 Introduction to Logic (coming soon)  
 
 ### Official Student Evaluation Stats
 +  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
 +  3.6 out of 4, cumulative average in overall teaching quality, Asbury University
  
 ### Student Feedback Highlights ###
-*  "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
+* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
+* "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
 *  "You have challenged me and helped me grow as person." (PHI305, 2015)
 *  "I was really surprised that readings, lectures and discussions could change the opinion of my stubborn self." (PHI305, 2015)
 *  It is sometimes hard to respect the other side, but as I have learned this semester, you may not always agree but you have to respect it." (PHI305, 2015) 
@@ -45,9 +46,9 @@ S2013 Introduction to Logic
 
 ### Teaching Statement (in progress)
 
-My teaching is Socratic and inspirational. I try to engage students to think for themselves but also provide them a vision of how big ideas can alter one's life. Lectures present rigorous, exciting, and challenging ideas, while group discussions make space for students to grow as independent reasoners.  
+My teaching is Socratic and inspirational. "Socratic" because I engage students to give an account of their thoughts by asking them tough questions. "Inspirational" because I also provide them a vision of how big ideas can alter one's life. These two methods together produce results: group discussions make space for students to grow as independent reasoners, while lectures present rigorous, exciting, and challenging ideas.
 
-Serious interest in philosophy is more caught than taught. In a proper learning environment, students of all aptitudes, ethnic backgrounds, prior education levels, personalities, and career ambitions will not just enjoy their philosophy class but “catch” an interest in philosophical learning. They will “catch” the excitement of self-reflection, the challenge of thinking clearly, and will forge new friendships with fellow learners. 
+Serious interest in philosophy is more caught than taught. In a proper learning environment, students of all aptitudes, backgrounds, and career ambitions will not just enjoy their philosophy class but “catch” an interest in philosophical learning. They will “catch” the excitement of self-reflection, the challenge of thinking clearly, and will forge new friendships with fellow learners. 
 
 Creating a proper environment for such interest is a two-way activity. For example, the #1 student priority is that teachers make learning enjoyable;  the #1 one teacher priority is that students take responsibility for their own learning. This difference of priorities creates tension that can be a liability or an asset. 
 

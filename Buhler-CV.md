@@ -41,25 +41,26 @@ Chair: David Bradshaw.
 ### COURSES TAUGHT 
 
 **University of Kentucky**  
-2016 &nbsp;&nbsp; Business Ethics (Upper division)
-2015-16 &nbsp;&nbsp; Health Care Ethics (Upper division)       
+2016 &nbsp;&nbsp; Upper Division Business Ethics
+2015-16 &nbsp;&nbsp; Upper Division Health Care Ethics         
 2013-14 &nbsp;&nbsp; Introduction to Philosophy  
+2013 (winter) &nbsp;&nbsp; Introduction to Philosophy
 2013 &nbsp;&nbsp; Introduction to Ethics   
 2012-13 &nbsp;&nbsp; Introduction to Logic 
 
 **Asbury University**  
-2016 &nbsp;&nbsp; Philosophy of CS Lewis (Seminar)  
-2016 &nbsp;&nbsp; Philosophy of Religion (Directed Study)  
-2016 &nbsp;&nbsp; Wisdom and Virtue (Seminar)    
-2014-2016 &nbsp;&nbsp; Introduction to Philosophy: Goodness, Truth, and Beauty   
+2016 (summer) &nbsp;&nbsp; Upper division Philosophy of Religion  
+2016 &nbsp;&nbsp; Seminar: Philosophy of CS Lewis  
+2016 &nbsp;&nbsp; Semianr: Wisdom and Virtue    
+2014-2016 &nbsp;&nbsp; Introduction to Philosophy
 
 **High School Courses**  
 2013 &nbsp;&nbsp; 20th Century British Literature and Philosophy  
-2011 &nbsp;&nbsp; Plato Seminar 
-2010 &nbsp;&nbsp; Aristotelian Logic
-2009 &nbsp;&nbsp; Western Civilization: American Thought (2009-2012 Torrey Academy)  
-2008 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought
-2007 &nbsp;&nbsp; Western Civilization: 20th Century British Thought
+2011 &nbsp;&nbsp; Plato Seminar  
+2010 &nbsp;&nbsp; Aristotelian Logic  
+2009 &nbsp;&nbsp; Western Civilization: American Thought   
+2008 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought  
+2007 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
 ### OTHER TEACHING POSITIONS
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
@@ -68,10 +69,10 @@ Chair: David Bradshaw.
 2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy  
 2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA  
 2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy.  
-2004 &nbsp;&nbsp; Teaching Assistant (Summer), Philosophy of Science, Biola University, CA.  
+2004 (summer)&nbsp;&nbsp; Teaching Assistant , Philosophy of Science, Biola University, CA.  
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
-2001 (summer) &nbsp;&nbsp; English Teacher (Summer), Biola University Abroad, Mongolia.
+2001 (summer) &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.
 
 ### INVITED PUBLIC LECTURES
 2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
