@@ -41,26 +41,25 @@ Chair: David Bradshaw.
 ### COURSES TAUGHT 
 
 **University of Kentucky**  
-2016 &nbsp;&nbsp; Upper Division Business Ethics
+2016 &nbsp;&nbsp; Upper Division Business Ethics  
 2015-16 &nbsp;&nbsp; Upper Division Health Care Ethics         
 2013-14 &nbsp;&nbsp; Introduction to Philosophy  
-2013 (winter) &nbsp;&nbsp; Introduction to Philosophy
+2013 (winter) &nbsp;&nbsp; Introduction to Philosophy  
 2013 &nbsp;&nbsp; Introduction to Ethics   
-2012-13 &nbsp;&nbsp; Introduction to Logic 
+2012-13 &nbsp;&nbsp; Introduction to Logic  
 
 **Asbury University**  
 2016 (summer) &nbsp;&nbsp; Upper division Philosophy of Religion  
 2016 &nbsp;&nbsp; Seminar: Philosophy of CS Lewis  
-2016 &nbsp;&nbsp; Semianr: Wisdom and Virtue    
+2016 &nbsp;&nbsp; Seminar: Wisdom and Virtue    
 2014-2016 &nbsp;&nbsp; Introduction to Philosophy
 
 **High School Courses**  
-2013 &nbsp;&nbsp; 20th Century British Literature and Philosophy  
 2011 &nbsp;&nbsp; Plato Seminar  
-2010 &nbsp;&nbsp; Aristotelian Logic  
-2009 &nbsp;&nbsp; Western Civilization: American Thought   
-2008 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought  
-2007 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+2009-2010 &nbsp;&nbsp; Aristotelian Logic  
+2009-2012 &nbsp;&nbsp; Western Civilization: American Thought   
+2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought  
+2007-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
 ### OTHER TEACHING POSITIONS
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
