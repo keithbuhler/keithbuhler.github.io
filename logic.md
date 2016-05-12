@@ -5,16 +5,19 @@ title: Logic 101
 
 # Logic 101
 
+*This presentation is a mash-up of material from Peter Kreeft and others, with some original material.*
+
 ## Structure of a Proof
 
-###Premise and Conclusion
+### Premise and Conclusion
 Every argument has two basic parts: the premises and the conclusion.  The conclusion is the truth claim. (For example: "Obama is the 44th president" can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: "Obama won the presidential election" and "there were 43 U.S. Presidents before 2004.")
 
 ### Clear Terms
-Both premises and conclusions are expressed in sentences. In logic, we call sentences "propositions".  Propositions are made up of terms. Although human words can do many things: express, praise, sing, blame, and so on, the importance for arguing well is that terms express *concepts*. 
+Both premises and conclusions are expressed in words and sentences. Although human words can do many things: express, praise, sing, blame, and so on, the importance of words for arguing well is that they express *concepts*. 
 
-The mind acquires concepts from "apprehension" or conception. "Simple apprehension" is a technical term. It means basically "conceiving," "understanding," or "comprehending" one object of thought, one concept, such as 'mortal' or 'man' or 'triangle' or 'triangle with unequal angles.' Animals apparently cannot perform this act of understanding; if they can, they do not express it in words. Computers certainly cannot do this; a computer no more understands what you program into it than a library building understands the information in the books you put into it.
+Kreeft says: 
 
+>The mind acquires concepts from "apprehension" or conception. "Simple apprehension" is a technical term. It means basically "conceiving," "understanding," or "comprehending" one object of thought, one concept, such as 'mortal' or 'man' or 'triangle' or 'triangle with unequal angles.' Animals apparently cannot perform this act of understanding; if they can, they do not express it in words. Computers certainly cannot do this; a computer no more understands what you program into it than a library building understands the information in the books you put into it.
 
 The two basic kinds of concept in logic are "subjects" and "predicates." Subjects are what the proposition is about ("Obama") and predicates are anything being claimed about the subject ("is the 44th president").
 
@@ -25,9 +28,7 @@ Propositions relate two concepts. Take "Fido" and "dog". "Fido is a dog" affirms
 
 Propositions can either affirm or deny. "Fido is not a dog" is a denial." This activity is also called "judgement" or the activity of "Judging" -- not evaluating but simply affirming or denying. 
 
-True premises are propositions we already know to be true or that we are reasonably confident are true. 
-
-True beliefs originate from four main sources: experience, memory, testimony, and authority.  
+True premises are propositions we already know to be true or that we are reasonably confident are true. True beliefs originate from five main sources: experience, memory, testimony, authority, and reason. 
 
 * Experience. 1st-person observation, experience, insight in the present;
 * Memory. 1st-person observation, experience, insight from the past;
@@ -36,14 +37,21 @@ True beliefs originate from four main sources: experience, memory, testimony, an
 All other true beliefs are inferred validly from premises derived from one of these sources.
 
 
+Some truths are self-evident foundations of thinking. For example, the classical "laws of thought":
+
+1. Every thing is identical to itself (A=A)
+2. No thing can be A and not A at the same time in the same respect. (X cannot be A and not-A)
+3. Every affirmation is either true or false. (A=true or A=false)
+
+
 ### A Valid Inference
 A argument or proof is composed of premises (propositions which are themselves composed of terms) that prove a conclusion (a proposition that one hopes is true). 
 
 What is the "support" or "proof" relationship between premises and conclusions? That is the mysterious move we call *inference*. This is moving from the known to the unknown. 
 
-An argument where the premises necessarily entail the conclusion is called **valid**. Validity, in the technical sense, is not the same as truth. Some true arguments are invalid, and some false arguments are valid. 
+An argument where the premises necessarily entail the conclusion is called **valid**. 
 
-For example, “all penguins have feathers; my dog has fur, therefore Greenland is an island” consists of all true statements, but the inference is invalid. Likewise, “If my grandmother is a duck, then she can fly. My grandmother is a duck. Therefore, she can fly,” is a valid inference, but the argument is false since the second premise is false (obviously). 
+Validity, in the technical sense, is not the same as truth. Some true arguments are invalid, and some false arguments are valid.  For example, “all penguins have feathers; my dog has fur, therefore Greenland is an island” consists of all true statements, but the inference is invalid. Likewise, “If my grandmother is a duck, then she can fly. My grandmother is a duck. Therefore, she can fly,” is a valid inference, but the argument is false since the second premise is false (obviously). 
 
 But if an inference is valid, then it is impossible for the premises to be true and the conclusion false. 
 
@@ -84,42 +92,40 @@ Therefore not X.’               So a global nuclear war has not occurred.
 
 ## All of Logic in 2 pages, by Peter Kreeft
 
-The ancient philosophers defined Man as the "rational animal." To be human is (among other things) to reason, to give reasons for believing things to be true. We can see common forms, or structures, in all human reasoning, no matter what the contents, or objects, that we reason about. Logic studies those structures.
+> The ancient philosophers defined Man as the "rational animal." To be human is (among other things) to reason, to give reasons for believing things to be true. We can see common forms, or structures, in all human reasoning, no matter what the contents, or objects, that we reason about. Logic studies those structures.
 
-The fundamental structure of all reasoning is the movement of the mind from premises to a conclusion. The conclusion is what you are trying to prove to be true; the premises are the reasons or evidence for the truth of the conclusion.
+>The fundamental structure of all reasoning is the movement of the mind from premises to a conclusion. The conclusion is what you are trying to prove to be true; the premises are the reasons or evidence for the truth of the conclusion.
 
-The two basic kinds of reasoning are *inductive* and *deductive*. Inductive reasoning reasons from particular premises (e.g. "I' m mortal" and "You're mortal" and "He's mortal" and "She's mortal"), usually to a more general or universal conclusion (e.g. "All men are mortal"). 
+>The two basic kinds of reasoning are *inductive* and *deductive*. Inductive reasoning reasons from particular premises (e.g. "I' m mortal" and "You're mortal" and "He's mortal" and "She's mortal"), usually to a more general or universal conclusion (e.g. "All men are mortal"). 
 
-Deductive reasoning reasons from at least one general, or universal premise (e.g. "All men are mortal") usually to a more particular conclusion (e.g. "I am mortal"). Inductive reasoning yields only probability, not certainty. (It is not certain that all men are mortal merely on the basis that four men, or 4 million, are.) Deductive reasoning, when correct, yields certainty. (It is certain that if all men are mortal, and if I am a man, then I am mortal.)
+> Deductive reasoning reasons from at least one general, or universal premise (e.g. "All men are mortal") usually to a more particular conclusion (e.g. "I am mortal"). Inductive reasoning yields only probability, not certainty. (It is not certain that all men are mortal merely on the basis that four men, or 4 million, are.) Deductive reasoning, when correct, yields certainty. (It is certain that if all men are mortal, and if I am a man, then I am mortal.)
 
-A deductive argument succeeds in proving its conclusion to be true if and only if three conditions are met. **These are the three check points of any deductive argument.**
+> A deductive argument succeeds in proving its conclusion to be true if and only if three conditions are met. **These are the three check points of any deductive argument.**
 
-(1) **First, all the terms must be clear and unambiguous.** If a term is
+> (1) **First, all the terms must be clear and unambiguous.** If a term is
 ambiguous, it should be defined, to make it clear. Otherwise, the two parties to the argument may think they are talking about the same thing when they are not.
 (2) **Second, all the premises must be true.** You can (seem to) "prove" anything from false premises: e.g. "All Martians are infallible, and I am a Martian, therefore I am infallible."
 (3) **Third, the argument must be logically valid.** That is, the conclusion
 must necessarily follow from the premises, so that if 'the premises are true, then the conclusion must be true.
 
 
-(1) A "term" in logic is the subject or the predicate of a proposition (a
+> (1) A "term" in logic is the subject or the predicate of a proposition (a
 declarative sentence). Terms are either clear or unclear. Terms cannot be either true or false. E.g. "mortal" is neither true nor false. The proposition "All men are mortal" is true, and the proposition "Some men are not mortal" is false. 
-
 (2) Propositions are declarative sentences. They are either true or false.
 "True," in commonsense usage, means "corresponding to reality," and "false" means the opposite. There is no one simple and infallible way of telling whether any proposition is true or false.
-
 (3 ) There is, however, a fairly simple and truly infallible way of telling whether an argument is valid or invalid: the laws of logic, which you will learn in this book. 
 
-A deductive argument is logically valid if its conclusion necessarily follows from its premises, invalid if it does not. There are various forms of argument, and each form has its own inherent rules for validity.
+>A deductive argument is logically valid if its conclusion necessarily follows from its premises, invalid if it does not. There are various forms of argument, and each form has its own inherent rules for validity.
 
-All the rules for each form of argument are natural to that form of argument and to the human mind. If at any point in this book you think that any of its logical laws contradict what you already implicitly know by innate common sense, please stop and check; for you must be misunderstanding either the laws of logic or what you think common sense tells you, for logic does nothing more than make explicit the rules everyone knows innately by common sense. Arguments are made up of propositions (premises and a conclusion), and propositions are made up of terms (subject and predicate). Terms are either clear or unclear. 
+>All the rules for each form of argument are natural to that form of argument and to the human mind. If at any point in this book you think that any of its logical laws contradict what you already implicitly know by innate common sense, please stop and check; for you must be misunderstanding either the laws of logic or what you think common sense tells you, for logic does nothing more than make explicit the rules everyone knows innately by common sense. Arguments are made up of propositions (premises and a conclusion), and propositions are made up of terms (subject and predicate). Terms are either clear or unclear. 
 
-Propositions (whether premises or the conclusion) are either true or false. Arguments are either logically valid or invalid. Only terms can be clear or unclear; only propositions can be true or false; only arguments can be logically valid or invalid. **So the three questions you should habitually ask of yourself** when writing or speaking, and of others when you are reading or listening to them, are: 
+>Propositions (whether premises or the conclusion) are either true or false. Arguments are either logically valid or invalid. Only terms can be clear or unclear; only propositions can be true or false; only arguments can be logically valid or invalid. **So the three questions you should habitually ask of yourself** when writing or speaking, and of others when you are reading or listening to them, are: 
 
-**(1) Are the terms all clear and unambiguous?**
+>**(1) Are the terms all clear and unambiguous?**
 **(2) Are the premises all true?**
 **(3) Is the reasoning all logically valid?**
 
-If the answer to all three of these questions is Yes, then the conclusion of the argument must be true. **So in order to disagree with any conclusion, you must show that there is either (1) an ambiguous term, or (2) a false premise, or (3) a logical fallacy in the argument such that the conclusion does not necessarily follow from the premises.** (You will soon learn the rules  for judging that.) If you cannot do any of these three things, then honesty demands that you admit that the conclusion has been proved to be true. (All this applies to deductive arguments only; inductive arguments do not claim certainty.)
+>If the answer to all three of these questions is Yes, then the conclusion of the argument must be true. **So in order to disagree with any conclusion, you must show that there is either (1) an ambiguous term, or (2) a false premise, or (3) a logical fallacy in the argument such that the conclusion does not necessarily follow from the premises.** (You will soon learn the rules  for judging that.) If you cannot do any of these three things, then honesty demands that you admit that the conclusion has been proved to be true. (All this applies to deductive arguments only; inductive arguments do not claim certainty.)
 
 
 ## Fallacies: Your Argument is invalid
