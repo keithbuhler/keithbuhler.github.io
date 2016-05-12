@@ -13,11 +13,11 @@ title: Logic 101
 Every argument has two basic parts: the premises and the conclusion.  The conclusion is the truth claim. (For example: "Obama is the 44th president" can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: "Obama won the presidential election" and "there were 43 U.S. Presidents before 2004.")
 
 ### Clear Terms
-Both premises and conclusions are expressed in words and sentences. Although human words can do many things: express, praise, sing, blame, and so on, the importance of words for arguing well is that they express *concepts*. 
+Both premises and conclusions are expressed in words and sentences. Although human words can do many things -- express, praise, sing, blame, and so on -- the importance of words for arguing well is that they express *concepts*. 
 
-Kreeft says: 
+Concepts are the basic units of rational thought. Where do we get our concepts? Concept-acquisition is an interesting process. People disagree about how it works. A basic version is that the mind acquires concepts by a process called "apprehension". Here's a description from from Peter Kreeft: 
 
->The mind acquires concepts from "apprehension" or conception. "Simple apprehension" is a technical term. It means basically "conceiving," "understanding," or "comprehending" one object of thought, one concept, such as 'mortal' or 'man' or 'triangle' or 'triangle with unequal angles.' Animals apparently cannot perform this act of understanding; if they can, they do not express it in words. Computers certainly cannot do this; a computer no more understands what you program into it than a library building understands the information in the books you put into it.
+>"Simple apprehension" is a technical term. It means basically "conceiving," "understanding," or "comprehending" one object of thought, one concept, such as 'mortal' or 'man' or 'triangle' or 'triangle with unequal angles.' Animals apparently cannot perform this act of understanding; if they can, they do not express it in words. Computers certainly cannot do this; a computer no more understands what you program into it than a library building understands the information in the books you put into it.
 
 The two basic kinds of concept in logic are "subjects" and "predicates." Subjects are what the proposition is about ("Obama") and predicates are anything being claimed about the subject ("is the 44th president").
 

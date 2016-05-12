@@ -35,7 +35,9 @@ title: Philosophy Portal
 * Read slowly, read over and over, think, and discuss.
 
 #### How Do I Get Better at Writing Philosophy Papers? ####
-* Learn to argue by doing the opposite of [this.](http://www.rinkworks.com/persuasive/)
+* Learn to [argue well.](/logic)
+* The [disputation](/philosophy-tips) format works well for my classes.
+* But in general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1)
 
 #### I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
