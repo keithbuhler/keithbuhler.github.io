@@ -131,7 +131,7 @@ Example 6 - 200 pages, 10 chapters, 20 pages each, 5,000 words per chapter
 ## Coming soon ##
 
 
-#### Retrospective #
+#### Retrospective
 The goal is, when I'm finished, to write a post-op. Possible topics include: 
 
 + What was hard  
@@ -150,3 +150,7 @@ The goal is, when I'm finished, to write a post-op. Possible topics include:
 * Applying for jobs  
 * Finishing and moving  
 * Starting new job  
+
+#### Writing
+
+
