@@ -78,7 +78,23 @@ Comprehensive exams are required at U. Kentucky but the practice is fading. I st
 
 ### 7. How do you decide on an Area? ##
 
-Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like U. K. does. We do an Area, then Qualifying Exams, then Proposal -- THEN start the dissertation.
+Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like U. K. does. We do an Area Proposal, then Qualifying Exams, then a Dissertation Proposal, each of which must be written and orally defended before the committee. 
+
+My area proposal was the product of much soul-searching. When I applied to graduate school, I had intended to study Plato. However, my favorite themes in contemporary ethics and metaethics kept cropping up. Every semester I wrote a term paper or three for my courses. In these papers, I noticed that I kept gravitating towards attacking or defending metaphysical naturalism, ethical naturalism, and so on. 
+
+I asked my advisor if I should go ahead and make the switch from AOS (area of speciality) Ancient Philosophy to AOS Ethics. He agreed. At that point, I started writing-to-discover. I wrote several drafts of potential area proposals for my eyes only. I narrowed down my interests and honed my arguments. I read widely about naturalism in its various forms, and about the controversies between naturalists and non-naturalists in ethics. 
+
+### 7b How do you write the Area Proposal? 
+
+I asked several friends for copies of their successfully defended Area Proposals and also downloaded some random examples from the web. They were all quite different. I decided to go ahead and attempt a draft of a formal, complete proposal. 
+
+After several iterations, in conversation with my advisor, I had a complete draft. Looking back, I see that it wasn't very good -- I still didn't have a grasp of how slippery some of the vocabulary is: terms like "objective", "naturalism", "metaethics", and so on have a wide range of nuanced and sometimes competing meanings. But I had the Area, and that's the point. 
+
+Now I was able to begin researching in my area in order to pass the "qualifying exams" 
+
+## 7c Research
+
+I started reading in force. I downloaded articles from PhilPapers or JSTOR and purchased or checked out books by a few of my favorite authors: John McDowell, Philippa Foot, Alasdair MacIntyre, Iris Murdoch, Rosalind Hursthouse, Alan Gibbard, Michael Thompson, and so on. I read, took notes, and occassionaly attempted the foolhardy task of writing a whole chapter draft. These drafts were pretty universally junk, but writing them helped me think things through. 
 
 
 ### 8. How do you pass the Qualifying Exams? ##
@@ -126,6 +142,35 @@ Example 4 - 300 pages, 8 chapters, 37 pages each, 9,200 words per chapter.
 Example 5 - 180 pages, 10 chapters, 18 pages each, 4,500 words per chapter.
 
 Example 6 - 200 pages, 10 chapters, 20 pages each, 5,000 words per chapter
+
+### Boot Camp!
+
+
+16 May 2016.  My university began hosting a "Boot Camp" writing retreat. We have a private dorm room on campus, unlimited snacks (both healthy and unhealthy snacks, woo hoo!), an endless supply of coffee and soda, and the comforting presence of a  community of 40 or so fellow writers. 
+
+The Boot Camp is two weeks long. We each commit to write at least 4 hours a day, Monday through Friday, for those two weeks. It's a time to write, revise, struggle, get confused, commiserate, write more, take breaks, and break through. 
+
+It's been awesome. Though tomorrow is the last day. Sad!
+
+Here's what I've gotten done: 
+
+My process is rather messy. Each chapter goes through a stage: (1) draft, (2) revised draft, (3) polished draft, (4) submitted to advisor and approved or revised again. 
+
+Chapters 1 and 2 were already at stage (4), approved by advisor. 
+
+Chapter 3 was revised and is now polished.
+Chapter 4 was drafted and is now revised.
+Chapter 5 was drafted and is now revised.
+Chapter 6 was drafted and is now revised. 
+Chapter 7 is drafted and I'm revising today and tomorrow. 
+
+After that, I only have one more chapter (plus the conclusion)! 
+
+Then I will go back and polish 4-8. Then I will submit 4-8 one by one to my advisor, and revise some more.
+
+
+
+
 
 
 ## Coming soon ##
