@@ -1,11 +1,11 @@
-
 ---
 layout: default
-title: Hate Speech?
+title: Hate Speech
 
---- 
+---
 
-## The Incoherence of Hate Speech Restrictions
+
+# The Incoherence of New Hate Speech Restrictions
 
 Why you should reject [Facebook/YouTube/Twitter/EU's new Orwellian speech restrictions, in four quick reasons:](http://abcnews.go.com/topics/business/european-union.htm) 
 
@@ -13,7 +13,10 @@ Why you should reject [Facebook/YouTube/Twitter/EU's new Orwellian speech restri
 2. The new rules are either redundant or unjust. 
 3. Prohibiting ugly speech is wrong. And 
 4. to hate what is hateful is healhty. 
+5. A better means to the same end would be to target Islamic extremists. 
 
+
+## Detail on each reason
 
 1. Hate speech is not a thing. 
 
@@ -32,6 +35,6 @@ Call criticism, mockery, and insults "ugly speech." Ugly speech receives just re
 The attempt to prohibit criticism is itself a criticism. Therefore, prohibiting criticism is hypocritical, incoherent, and insane. If criticism is bad, then we must criticize the critic. If hate-speech perpetrators are despicable, then we must hate the haters. Outlawing mockery and criticism therefore undercuts the ability to mock and criticize mockers and critics. We can't have it both ways. 
 
 
-### A solution
+5. A better solution would be to target Islamic extremists. 
 
-If the EU and Facebook, Twitter, et. al., want to crack down on online terrorist agitators, they must practice intelligent profiling and target those who are likely to foment terrorism. 
+If the EU and Facebook, Twitter, et. al., want to crack down on online terrorist agitators, they must practice intelligent profiling and target those who are likely to foment terrorism: Islamic extremists. 
