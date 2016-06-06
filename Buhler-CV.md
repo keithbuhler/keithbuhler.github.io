@@ -4,9 +4,8 @@ layout: default
 
 ### [Curriculum Vitae](/Buhler-CV.pdf)
 Keith Buhler  
-Philosophy Dept., University of Kentucky    
-[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-[http://www.keithbuhler.com](http://www.keithbuhler.com)  \  
+Philosophy Dept., University of Kentucky \
+
 
 ### RESEARCH
 AREAS OF SPECIALIZATION: Virtue Ethics, Metaethics       
@@ -19,7 +18,8 @@ Chair: David Bradshaw.
 
 ### EDUCATION
 
-2015-2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
+#### 2015-2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
+
 2012-2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2008-2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2000-2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
