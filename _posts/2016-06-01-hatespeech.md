@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Hate Speech
+tags: politics
 
 ---
 
