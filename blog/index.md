@@ -6,13 +6,13 @@ title: Buhler Report
 
 # Welcome to the Buhler Report
 
-This blog is under construction. 
+{% for post in paginator.posts %}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-        {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+<div class="post">
+    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
+    <div class="post-content">{{ post.content }}</div>
+    </div>
+</div>
+
+{% endfor %}
