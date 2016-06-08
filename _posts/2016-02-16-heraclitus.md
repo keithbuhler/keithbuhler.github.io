@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Heraclitus: An Interpretation
+title: Heraclitus Defragmented
 
 ---
 
@@ -18,6 +18,7 @@ My strategy was simple. First, I used [this translation](http://classicpersuasio
 The result is an original poem. It "flows" in a way certainly unlike Heraclitus' original, but offers a look at what a coherent version of Heraclitus' fragments *might* have looked like. 
 
 
+# Heraclitus: Defragmented
 
 ## I
 
