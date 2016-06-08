@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: main
 title: The Incompleteness of Physics
 ---
 
