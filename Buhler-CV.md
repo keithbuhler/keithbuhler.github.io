@@ -4,21 +4,23 @@ layout: default
 
 ### [Curriculum Vitae](/Buhler-CV.pdf)
 Keith Buhler  
-Philosophy Dept., University of Kentucky \
+Philosophy Dept., University of Kentucky   
+1415 Patterson Office Tower   
+Lexington, KY 40504
+305 Woodspointe Way    
+Wilmore, KY 40390  
+562-230-2920  
 
 
 ### RESEARCH
-AREAS OF SPECIALIZATION: Virtue Ethics, Metaethics       
-AREAS OF COMPETENCE: Plato and Aristotle, Philosophy of Religion, Philosophy of Mind, Bioethics  
+AREAS OF SPECIALIZATION: Ethics, Virtue Ethics, Metaethics       
+AREAS OF COMPETENCE: Plato and Aristotle, Philosophy of Religion, Metaphysics, Philosophy of Mind, Bioethics   
 
-### DISSERTATION
-Title: *Virtue, Reason, and Teleology in Recent Neo-Aristotelianism*    
-Chair: David Bradshaw.   
+DISSERTATION: "Virtue, Reason, and Teleology in Recent Neo-Aristotelianism"   
+CHAIR:: David Bradshaw.   
 
 
 ### EDUCATION
-
-#### 2015-2017  &nbsp;&nbsp; Ph.D. Philosophy, University of Kentucky   (*in progress*)  
 
 2012-2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2008-2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
@@ -26,11 +28,13 @@ Chair: David Bradshaw.
 
 
 ### ACADEMIC POSITIONS
+
 2014 - present &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
 2012 - present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
 
 
 ### PRESENTATIONS
+
 2016 &nbsp;&nbsp; "The Cosmic Question": Teleology without Theology in Thomas Nagel's *Mind and Cosmos*  San Diego, CA.   
 2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Kung Fu Panda and the Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
@@ -38,7 +42,7 @@ Chair: David Bradshaw.
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
 
 
-### COURSES TAUGHT 
+### TEACHING
 
 **University of Kentucky**  
 2016 &nbsp;&nbsp; Upper Division Business Ethics  
@@ -46,9 +50,9 @@ Chair: David Bradshaw.
 2013-14 &nbsp;&nbsp; Introduction to Philosophy  
 2013 (winter) &nbsp;&nbsp; Introduction to Philosophy  
 2013 &nbsp;&nbsp; Introduction to Ethics   
-2012-13 &nbsp;&nbsp; Introduction to Logic  
+2012-13 &nbsp;&nbsp; Introduction to Logic  (TA)
 
-**Asbury University**  
+**Asbury University**   
 2016 (summer) &nbsp;&nbsp; Upper division Philosophy of Religion  
 2016 &nbsp;&nbsp; Seminar: Philosophy of CS Lewis  
 2016 &nbsp;&nbsp; Seminar: Wisdom and Virtue    
@@ -61,7 +65,7 @@ Chair: David Bradshaw.
 2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought  
 2007-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
-### OTHER TEACHING POSITIONS
+**Other Teaching and Leadership**  
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
 2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy    
 2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA  
@@ -72,6 +76,50 @@ Chair: David Bradshaw.
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 2001 (summer) &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.
+
+
+
+### RECOMMENDATIONS
+* David Bradshaw, Professor of Philosophy, University of Kentucky   
+1415 Patterson Office Tower, Lexington, KY 40506   
+[dbradsh@uky.edu](emailto:dbradsh@uky.edu) / (859) 257 7107
+* Anita Superson, Proffesor of Philosophy, University of Kentucky
+* Dan Breazeale, Proffesor of Philosophy, University of Kentucky
+* Clare Batty, Proffesor of Philosophy, University of Kentucky
+
+
+#### GRADUATE COURSES
+
+*Ethics*
+S2016  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right, Dan Breazeale.
+2015 Ethical Naturalism (Dissertation research)  
+S2014 Seminar on the Ethics of Bodily Autonomy, Anita Superson.
+S2014 Ethical Naturalism (Independent study)  
+F2012 Ethics from Hobbes to Feminism, Anita Superson. 
+F2015 Seminar on Metaethics and Motivation, Anita Superson.
+F2014 Virtue and After Virtue (Independent study), David Bradshaw.   
+ 
+
+*Ancient Philosophy*
+S2016 Seminar on the Death of God: Plato's Forms (audit), Eric Sanday
+S2014 Seminar on Plato: Philebus and Timaeus, Eric Sanday.  
+S2013 Seminar on Plato’s Parmenides, Eric Sanday.
+S2013 Aristotle and Aristotelians on Mind (Independent study), David Bradshaw.
+F2012 Ancient Greek Metaphysics, Eric Sanday.    
+
+*Philosophy of Mind*
+F2013 Seminar on Mind and Imagination, Clare Batty.  
+S2009 Philosophy of Mind, JP Moreland.
+
+*Metaphysics, Epistemology, other.*  
+S2013 Seminar on Language & Normativity, Tim Sundell.   
+F2013 Seminar on Metaphysical Naturalism, David Bradshaw.
+F2012 Seminar on Kantian Idealism, Stefan Bird-Pollan.  
+S2013 Philosophy of Religion, David Bradshaw.   
+F2013 Symbolic Logic, Tim Sundell.   
+F2008 Metaphysics of Substance and Property, JP Moreland.
+
+
 
 ### INVITED PUBLIC LECTURES
 2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
@@ -98,14 +146,7 @@ Society of Orthodox Philosophers in America, 2014-present
 International Society for MacIntyrean Enquiry, 2015-present 
 
 
+### Course Evaluations
 
-### REFERENCES
-* David Bradshaw, Professor of Philosophy, University of Kentucky   
-1415 Patterson Office Tower, Lexington, KY 40506   
-[dbradsh@uky.edu](emailto:dbradsh@uky.edu) / (859) 257 7107
-* Joseph Allen, Director, Pittsburgh Theological Seminary   
-616 N. Highland Ave., Pittsburgh, PA 15206   
-[theoeduc@aol.com](emailto:theoeduc@aol.com) / (201) 784 2501
-* John Mark Reynolds, President, St. Constantine School  
-7502 Fondren Rd., Houston, TX 77074    
-[jmnreynolds@hbu.edu](emailto:jmnreynolds@hbu.edu) / (281) 649 3000   
+### Dissertation Abstract
+

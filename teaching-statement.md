@@ -3,90 +3,57 @@ layout: default
 title: Teaching Statement
 ---
 
-## Applicaitons ##
+## Applications ##
 
 • Letter of application 1
 • Curriculum vitae  2 done
 • Research statement 3
-• Teaching portfolio 4
+• Teaching statement 4
 • Writing sample 5
 • Three letters of recommendation 6
 
-#Teaching Statement
 
-## Draft 1 -- 500-100 words goal ##
 
-Philosophy is better "caught" than "taught." My philosophical method is the attempt to instantiate the Platonic dialectic, which I take to be the compresence of three features: (1) friendliness rather than enmity, (2) pursuit of truth rather than pursuit of "victory", and (3) consideration of a hypothesis and counter-hypothesis. 
+Keith Buhler
 
-For this reason, each unit of my classes is 1/3 discussion and 2/3 lecture (for introduction classes); 2/3 discussion with 1/3 lecture for upper division. Texts are most often primary texts. At the beginning of the semester, I give students 10 "ground rules" for discussion. I present for their consideration our ultimate purpose in dialogue: to find true answers to tough questions, if possible. And we argue both sides of each issue we address. 
+Teaching Statement
 
-For example, my introduction to ethics class followed a M/W/F pattern of lecture/ lecture/discussion, while my health care ethics class was M/W/F lecture/discussion/discussion. At the end of each unit, students then wrote "disputation" format papers to synthesize their thoughts and present arguments from opposing sides of one issue. 
+Draft 1
 
-Students report being comfortable disagreeing with each other. They enjoy finding out what the "other side" thinks. They often report learning the most from learning the arguments opposing their own view. 
-
-While Platonic dialectic is a lofty goal for any philosopher, let alone undergraduates, I find that it is easy to begin. Students already want to know the truth -- they just need to "catch" the philosophical spirit through practice. 
+2016
 
 
 
-## Instructions
-* wide general good—> Philosophy is better "caught" than "taught."
-* teaching strategies that manifest this good –> My classes are 1/3 discussion and 2/3 lecture (for introduction classes) and 2/3 discussion with 1/3 lecture (for upper division). 
-* examples from specific classes —> For example, my introduction to ethics class followed a pattern of lecture, lecture, discussion while my health care ethics class was lecture, followed by two student-lead presentations. 
-* evidence that the strategies were effective –> Students reported
-* conclusion
+### Goals
 
-## Instructions
-Hi I'm Keith. My research, my teaching. I'm working on ethics, etc. tell a story but make it a preview. 
+My goal in teaching is to build an immersive environment of rigorous philosophical thinking in which students can grow intellectually. From the first day, I invite students to think about new ideas in new ways. I understand that taking the invitation is a risk. So I give them the space, the tools, the inspiration and they need to take that risk. 
 
-Then the next page paragraph dissertation abstract explains it in new and different ways.
+In my experience, creating a proper environment for such interest is a two-way activity: On my first day, I promise to make the course as enjoyable as possible and ask students to take responsibility for their own learning. My high expectations elicit high performance. Clear expectations give them the best chance of being invigorated by philosophical arguments and becoming self-motivated to read, write, and discuss. Furthermore, by getting to know students and listening to them, I earn their respect. One student said: “He learned our names very quickly and took time to understand our points in discussion.” (PHI305, 2015) 
 
-Then research statement , actually show movements  of dissertation and show how things lead from here. Publications plans what journals or ideas.
+### Strategies
 
+I approach introductory classes a bit differently than upper division classes or seminars. For example, 100+ level classes allow young men and women of a variety of backgrounds and aptitudes to discover the potential benefits of a philosophy major, since these students may not have firm plans.
 
-## Experience ##
+In introductory classes, class time is 2/3rds interactive lecture, with Google Slideshows available before and during class. The remaining 1/3rd of classtime is teacher-lead discussion that accustoms students to the normal aporetic feelings of confusion and vertigo that come from doing hard philosophical work, and encourages them to press on to genuine insight. Materials are mainly historical primary sources, such as Plato, Augustine, and Hume, and I coach them on reading well, comprehending, and questioning the texts. We also discuss films like the Matrix, Toy Story 3, and Tree of Life. I try to always be mindful that though many students are just "going through the motions", there is always a chance that these classes can permanently alter a person's life for the better. 
 
-      The first rule of thumb is "to focus not so much on what courses you've taught, but on how it is you go about teaching," he says. "Don't make the mistake of recapitulating what's already in your CV."
+200+ level classes should allow students with a variety of majors and career plans to discover the potential benefits of a philosophy minor, including the fact that the creativity and problem-solving skills they learn in philosophy are statistically correlated with a higher salary in many fields. 
 
+In these classes, class time is only 1/3rd interactive lecture, with 2/3rds cooperative discussion or student-lead presentations. Materials still include primary sources but include some excellent secondary sources, such Oxford Handbooks, or monographs from philosophers like Thomas Nagel and Rosalind Hursthouse. 
 
-## What kind of students you've taught. 
+Students understand and appreciate that assignments are not just for the grade but are geared to philosphical thinking. One student said:  “None of the assignments are busy work." (PHL200, 2014) Philosophical papers follow a disputation format: stating one's view, arguing for that view, stating reasonable objections, and responding to objections. 
 
-Athletes, prep school entitled students, first generation students, excite students who know nothing of philosophy, older students,
+### Results
 
-      "If you say you work to encourage collaboration in the classroom, then explain how you do that, or if you're a new teacher, how you would do that," she says. "It's easy to say, 'I want to encourage collaboration in the classroom,' or 'I want to get students to think more critically' and leave it at that. But who doesn't want to do that?"
+Students consistently report enjoying my classes: Over four years, I've earned average scores of 3.5 (out of 4) overall course quality and 3.7 overall in teaching quality. I also tend to recruit about 2 out of every 30 students to a philosophy major or minor. One student, Stephanie, did not think of herself as a "philosopher." But after a course on virtue ethics, she realized that studying music was not employing her gift for philosophy, so she switched majors. 
 
-## How I incorporate history ##
-Don't Make Empty Statements
+Each component of my teaching strategy is being slowly improved. For example, my first year of teaching, I required everyone to speak in class to earn participation points. Students complained that the class was "geared toward external processors" so I changed this requirement. Now my participation points are assessed by both verbal participation in class and written discussion online after class. This allows talkative students extra time to speak without punishing quieter students who need time to process. One student said: "I am more of a internal processor so at first the class seemed intimidating to me, but as time went on it was not as bad and I enjoyed that internal processors had other options as well." (PHI100, 2015)
 
-      Good statements and bad statements frequently start the same (with a broad philosophical declaration), but good ones anchor the general in something concrete (in an example that one can visualize), Ms. Petrites says. Anyone can talk about teaching in an idyllic sense; you need to give examples.
+Although classroom discussions can be slow and difficult, they are often rewarding. One student said: "I was really surprised that readings, lectures and discussions could change the opinion of my stubborn self." (PHI305, 2015) The positive effect of co-operative discussion has real-world benefits as well: One business major said that the  philosophical dialogue skills he learned saved his relationship with his significant other, with whom he did not know how to disagree and converse. 
 
-## How I teach contemporary stuff ##
-
-      New teachers often devote their statements to showing that they can be innovative or that they can incorporate sophisticated concepts in a classroom, but they seldom mention how students reacted to those innovations and concepts, says Ms. Petrites of Chicago. "It's important to present a picture of yourself in a classroom with students. Otherwise readers may ask, 'Was this all about you or the students?'"
+Students consistently report that writing disputation papers is their favorite part of class because they had to learn their opponent's view. For example, one medical ethics student wrote: "I loved writing the papers. It helped me look past the surface and see my true position on each subject/topic." (PHL200 2015) 
 
 
+### Conclusion
 
-## How you solve problems
-      Specific problems, presented, problems solved, wide range of abilities,
-One semester, 
+My teaching strategy is focused on finding creative ways to elicit student participation in an immersive philosophical dialogue. While dialogue is challenging, I aim to provide the encouragement that inspires students to grow. A warm and friendly enviroment of inclusivity, respect, and personal responsibility allows each student to maximize their own learning in a safe space. Every component, from reading, to writing, to discussion, opens their eyes to a new way of thinking and invites them to continue growing, either by studying more philosophy or by studying their chosen speciality more philosophically. 
 
-
-## Lessons I've learned
-Good teaching comes from years of trial and error, so a little humility is in order. "I'd rather read statements from candidates who talk about their mistakes and go on from there to describe how they learned from them to become better teachers," says Mr. Pannapacker.
-
-
-
-## Pedagogy ##
-
-"Breaking down that broad question into component parts -- for example, 
-What do you believe about teaching? 
-
-What do you believe about learning? Why?
-
-How is that played out in your classroom? How does student identity and background make a difference in how you teach? What do you still struggle with in terms of teaching and student learning? -- is often easier," he says. "Those more concrete questions get you thinking, and then you can decide what you want to expand on."
-
-
-
-## Letter from Director, Tim, maybe Mark, maybe outsider. 
-2 about research directly. 
-1 meh. 
-1 teaching for sure.
