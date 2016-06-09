@@ -5,24 +5,25 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
-Before teaching at university, I taught high school for many years. You can see a complete list of classes on my [CV](/Buhler-CV.pdf). I have served as a Master Tutor and a Director of High School Studies at two different schools, where I created curricula and helped train teachers. 
-
-At universities, I have taught seven distinct preps. The courses and sample syllabi are:
+I have been teaching at the high school or college level for fifteen years, including three years as Master Tutor or Director of High School at classical academies. At universities, I have taught eight different courses: 
 
 ### Course Syllabi
-F2016 Business Ethics (coming soon)  
-F2016 Philosophy of CS Lewis (coming soon)  
+F2016 Business Ethics ([Syllabus](/334))  
+F2016 Philosophy of CS Lewis ([Syllabus](/251))  
+S2016 Philosophy of Religion ([Syllabus](/554))
 S2016 Wisdom and Virtue  ([Syllabus](/PHL293))  
 S2016 Health Care Ethics ([Syllabus](/PHI305))    
 F2015 Health Care Ethics ([Syllabus](/PHI305))       
 S2015 Introduction to Philosophy ([Syllabus](/PHL200))   
 F2014 Introduction to Philosophy ([Syllabus](/PHL200))    
 F2013 Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-S2013 Introduction to Logic (coming soon)  
+S2013 Introduction to Logic   
+
+You can see a complete list of courses taught on my [CV](/Buhler-CV.pdf). 
 
 ### Official Student Evaluation Stats
-+  3.6 out of 4, cumulative average in overall teaching quality, University of Kentucky
-+  3.6 out of 4, cumulative average in overall teaching quality, Asbury University
++  3.68 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)
++  3.5 out of 4, cumulative average in overall course quality
  
 ### Student Feedback Highlights ###
 * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
@@ -47,20 +48,37 @@ S2013 Introduction to Logic (coming soon)
 
 ### Teaching Statement (in progress)
 
-My teaching is Socratic and inspirational. "Socratic" because I engage students to give an account of their thoughts by asking them tough questions. "Inspirational" because I also provide them a vision of how big ideas can alter one's life. These two methods together produce results: group discussions make space for students to grow as independent reasoners, while lectures present rigorous, exciting, and challenging ideas.
+My goal in teaching is to build an immersive environment of rigorous philosophical thinking in which students can grow intellectually. From the first day, I invite students to think about new ideas in new ways. I understand that taking the invitation is a risk. So I give them the space, the tools, the inspiration and they need to take that risk. 
 
-Serious interest in philosophy is more caught than taught. In a proper learning environment, students of all aptitudes, backgrounds, and career ambitions will not just enjoy their philosophy class but “catch” an interest in philosophical learning. They will “catch” the excitement of self-reflection, the challenge of thinking clearly, and will forge new friendships with fellow learners. 
+In my experience, creating a proper environment for such interest is a two-way activity: On my first day, I promise to make the course as enjoyable as possible and ask students to take responsibility for their own learning. My high expectations elicit high performance. Clear expectations give them the best chance of being invigorated by philosophical arguments and becoming self-motivated to read, write, and discuss. Furthermore, by getting to know students and listening to them, I earn their respect. One student said: “He learned our names very quickly and took time to understand our points in discussion.” (PHI305, 2015) 
 
-Creating a proper environment for such interest is a two-way activity. For example, the #1 student priority is that teachers make learning enjoyable;  the #1 one teacher priority is that students take responsibility for their own learning. This difference of priorities creates tension that can be a liability or an asset. 
+### Strategies
 
-My job is to turn that tension into an asset. The first day, as we go over the syllabus,  I assure my students I will do my part to make the class enjoyable and challenging and rewarding. I ask them very clearly to do their part, to take responsibility for their own learning. By college, students may not be psychologically and neuro-physiologically mature but they are legal and emotional adults.  My high expectations of them elicit high performance.
+I approach introductory classes a bit differently than upper division classes or seminars. For example, 100+ level classes allow young men and women of a variety of backgrounds and aptitudes to discover the potential benefits of a philosophy major, since these students may not have firm plans.
 
-**Introductory classes:** Introductory classes require a careful strategy. 
-These classes should show students of varying backgrounds, abilities, and ambitions -- both men and women -- the potential benefits of a philosophy major. These classes should give each student at least a small taste of the joy of working hard in a group to understand and critique big ideas. My introductory classes are 2/3 lecture (usually with a slideshow, made available before class), and 1/3 discussion, because the studies show that discussion increase his retention by almost 50%.[^1] Even so, lectures are interactive, with a 40/10 ratio of minutes spent lecturing and minutes spent in Q&A. Class discussions should accustom students to normal aporetic feelings of impatience, vertigo, and confusion and equip them to work through these feelings into confidence, diligence, and genuine insight. 
+In introductory classes, class time is 2/3rds interactive lecture, with Google Slideshows available before and during class. The remaining 1/3rd of classtime is teacher-lead discussion that accustoms students to the normal aporetic feelings of confusion and vertigo that come from doing hard philosophical work, and encourages them to press on to genuine insight. Materials are mainly historical primary sources, such as Plato, Augustine, and Hume, and I coach them on reading well, comprehending, and questioning the texts. We also discuss films like the Matrix, Toy Story 3, and Tree of Life. I try to always be mindful that though many students are just "going through the motions", there is always a chance that these classes can permanently alter a person's life for the better. 
 
-**Upper division classes**: These classes should show students the potential benefits of a philosophy minor, (including statistically higher salary in their chosen field relative to non-philosophy minor counterparts, developing master skills such as teamwork, creativity, problem-solving, sharp reading comprehension, and excellent persuasive writing). These classes give each student a full and satisfying experience of thinking deeply about life-altering topics in groups. Class time is 1/3 lecture and 2/3 discussion, including student-lead presentations or discussion starters. Discussions should allow students to develop the "mental muscle" of leading their own learning, initiating questions, cutting of tangents, and practicing co-operative dialogue. 
+200+ level classes should allow students with a variety of majors and career plans to discover the potential benefits of a philosophy minor, including the fact that the creativity and problem-solving skills they learn in philosophy are statistically correlated with a higher salary in many fields. 
 
-Upper division classes coursework exposes students to equal parts primary and excellent secondary sources (from an Oxford Handbook or other like textbook). I give students background before encouraging competency in the state–of-the-discipline conversations in the relevant field (in bioethics, business ethics,  virtue ethics, etc.) Paper assignments allow more play for research outside of class texts, and follow the traditional philosophy paper format, including introduction and conclusion. Students are graded primarily (60%) on participation and papers, with a smaller portion (40%) of the grade reserved for reading quizzes and tests. 
+In these classes, class time is only 1/3rd interactive lecture, with 2/3rds cooperative discussion or student-lead presentations. Materials still include primary sources but include some excellent secondary sources, such Oxford Handbooks, or monographs from philosophers like Thomas Nagel and Rosalind Hursthouse. 
+
+Students understand and appreciate that assignments are not just for the grade but are geared to philosphical thinking. One student said:  “None of the assignments are busy work." (PHL200, 2014) Philosophical papers follow a disputation format: stating one's view, arguing for that view, stating reasonable objections, and responding to objections. 
+
+### Results
+
+Students consistently report enjoying my classes: Over four years, I've earned average scores of 3.5 (out of 4) overall course quality and 3.7 overall in teaching quality. I also tend to recruit about 2 out of every 30 students to a philosophy major or minor. One student, Stephanie, did not think of herself as a "philosopher." But after a course on virtue ethics, she realized that studying music was not employing her gift for philosophy, so she switched majors. 
+
+Each component of my teaching strategy is being slowly improved. For example, my first year of teaching, I required everyone to speak in class to earn participation points. Students complained that the class was "geared toward external processors" so I changed this requirement. Now my participation points are assessed by both verbal participation in class and written discussion online after class. This allows talkative students extra time to speak without punishing quieter students who need time to process. One student said: "I am more of a internal processor so at first the class seemed intimidating to me, but as time went on it was not as bad and I enjoyed that internal processors had other options as well." (PHI100, 2015)
+
+Although classroom discussions can be slow and difficult, they are often rewarding. One student said: "I was really surprised that readings, lectures and discussions could change the opinion of my stubborn self." (PHI305, 2015) The positive effect of co-operative discussion has real-world benefits as well: One business major said that the  philosophical dialogue skills he learned saved his relationship with his significant other, with whom he did not know how to disagree and converse. 
+
+Students consistently report that writing disputation papers is their favorite part of class because they had to learn their opponent's view. For example, one medical ethics student wrote: "I loved writing the papers. It helped me look past the surface and see my true position on each subject/topic." (PHL200 2015) 
+
+
+### Conclusion
+
+My teaching strategy is focused on finding creative ways to elicit student participation in an immersive philosophical dialogue. While dialogue is challenging, I aim to provide the encouragement that inspires students to grow. A warm and friendly enviroment of inclusivity, respect, and personal responsibility allows each student to maximize their own learning in a safe space. Every component, from reading, to writing, to discussion, opens their eyes to a new way of thinking and invites them to continue growing, either by studying more philosophy or by studying their chosen speciality more philosophically. 
+
 
 
 ### Coming soon ###
