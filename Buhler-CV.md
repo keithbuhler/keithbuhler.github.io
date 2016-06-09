@@ -1,36 +1,38 @@
 ---
 layout: default
+
+
 --- 
 
-### [Curriculum Vitae](/Buhler-CV.pdf)
-Keith Buhler  
+### [Keith Buhler](/Buhler-CV.pdf)  
+----------------------
+
+### CONTACT
 Philosophy Dept., University of Kentucky   
 1415 Patterson Office Tower   
 Lexington, KY 40504
 305 Woodspointe Way    
 Wilmore, KY 40390  
 562-230-2920  
+[keith.buhler@gmail.com](emailto:keith.buhler@gmail.com)
+[keithbuhler.com](http://www.keithbuhler.com)
 
 
 ### RESEARCH
 AREAS OF SPECIALIZATION: Ethics, Virtue Ethics, Metaethics       
-AREAS OF COMPETENCE: Plato and Aristotle, Philosophy of Religion, Metaphysics, Philosophy of Mind, Bioethics   
+AREAS OF COMPETENCE: Ancient Philosophy, Philosophy of Mind, Philosophy of Religion, Bioethics, Business Ethics    
 
-DISSERTATION: "Virtue, Reason, and Teleology in Recent Neo-Aristotelianism"   
-CHAIR:: David Bradshaw.   
+### DISSERTATION
+"Virtue, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
+
 
 
 ### EDUCATION
 
-2012-2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
-2008-2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
-2000-2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
-
-
-### ACADEMIC POSITIONS
-
-2014 - present &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
-2012 - present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
+2017 &nbsp;&nbsp;  PH.D. Philosophy, University of Kentucky (expected completion January, 2017)
+2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
+2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
+2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
 
 
 ### PRESENTATIONS
@@ -40,6 +42,13 @@ CHAIR:: David Bradshaw.
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Against Inductive Arguments,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC;  Midsouth Philosophy Conference, MI.  
+
+
+
+### ACADEMIC POSITIONS
+
+2014 - present &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
+2012 - present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
 
 
 ### TEACHING
@@ -90,34 +99,34 @@ CHAIR:: David Bradshaw.
 
 #### GRADUATE COURSES
 
-*Ethics*
-S2016  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right, Dan Breazeale.
-2015 Ethical Naturalism (Dissertation research)  
-S2014 Seminar on the Ethics of Bodily Autonomy, Anita Superson.
-S2014 Ethical Naturalism (Independent study)  
-F2012 Ethics from Hobbes to Feminism, Anita Superson. 
-F2015 Seminar on Metaethics and Motivation, Anita Superson.
-F2014 Virtue and After Virtue (Independent study), David Bradshaw.   
+*Ethics*  
+S2016  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right, Dan Breazeale.  
+2015 Ethical Naturalism (Dissertation research)   
+S2014 Seminar on the Ethics of Bodily Autonomy, Anita Superson.  
+S2014 Ethical Naturalism (Independent study)    
+F2012 Ethics from Hobbes to Feminism, Anita Superson.   
+F2015 Seminar on Metaethics and Motivation, Anita Superson.  
+F2014 Virtue and After Virtue (Independent study), David Bradshaw.     
  
 
-*Ancient Philosophy*
-S2016 Seminar on the Death of God: Plato's Forms (audit), Eric Sanday
-S2014 Seminar on Plato: Philebus and Timaeus, Eric Sanday.  
-S2013 Seminar on Plato’s Parmenides, Eric Sanday.
-S2013 Aristotle and Aristotelians on Mind (Independent study), David Bradshaw.
-F2012 Ancient Greek Metaphysics, Eric Sanday.    
+*Ancient Philosophy*  
+S2016 Seminar on the Death of God: Plato's Forms (audit), Eric Sanday  
+S2014 Seminar on Plato: Philebus and Timaeus, Eric Sanday.    
+S2013 Seminar on Plato’s Parmenides, Eric Sanday.  
+S2013 Aristotle and Aristotelians on Mind (Independent study), David Bradshaw.  
+F2012 Ancient Greek Metaphysics, Eric Sanday.      
 
 *Philosophy of Mind*
 F2013 Seminar on Mind and Imagination, Clare Batty.  
-S2009 Philosophy of Mind, JP Moreland.
+S2009 Philosophy of Mind, JP Moreland.  
 
-*Metaphysics, Epistemology, other.*  
-S2013 Seminar on Language & Normativity, Tim Sundell.   
-F2013 Seminar on Metaphysical Naturalism, David Bradshaw.
-F2012 Seminar on Kantian Idealism, Stefan Bird-Pollan.  
-S2013 Philosophy of Religion, David Bradshaw.   
-F2013 Symbolic Logic, Tim Sundell.   
-F2008 Metaphysics of Substance and Property, JP Moreland.
+*Metaphysics, Epistemology, other.*    
+S2013 Seminar on Language & Normativity, Tim Sundell.    
+F2013 Seminar on Metaphysical Naturalism, David Bradshaw.  
+F2012 Seminar on Kantian Idealism, Stefan Bird-Pollan.    
+S2013 Philosophy of Religion, David Bradshaw.    
+F2013 Symbolic Logic, Tim Sundell.    
+F2008 Metaphysics of Substance and Property, JP Moreland.  
 
 
 
@@ -125,8 +134,7 @@ F2008 Metaphysics of Substance and Property, JP Moreland.
 2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
 2013&nbsp;&nbsp; "Reading as Classical Education", Veritas Academy.  
 2012 &nbsp;&nbsp;"The Goodness of Goodness: Lewis' *Abolition of Man*", Torrey Academy.   
-2012 &nbsp;&nbsp; "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.  
-2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church.    
+2012 &nbsp;&nbsp; "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.     
 2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
 2011 &nbsp;&nbsp; "Hope and the Cycle of Desire", Hope Academy.  
 2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
