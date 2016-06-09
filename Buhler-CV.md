@@ -4,32 +4,28 @@ layout: default
 
 --- 
 
-### [Keith Buhler](/Buhler-CV.pdf)  
-----------------------
-
-### CONTACT
+### [Keith Buhler](/Buhler-CV.pdf)
 Philosophy Dept., University of Kentucky   
-1415 Patterson Office Tower   
-Lexington, KY 40504
-305 Woodspointe Way    
-Wilmore, KY 40390  
-562-230-2920  
-[keith.buhler@gmail.com](emailto:keith.buhler@gmail.com)
+1415 Patterson Office Tower, Lexington, KY 40506
+305 Woodspointe Way, Wilmore, KY 40390    
+562.230.2920  
+[keith.buhler@gmail.com](emailto:keith.buhler@gmail.com)  
 [keithbuhler.com](http://www.keithbuhler.com)
 
+----------------------
 
 ### RESEARCH
 AREAS OF SPECIALIZATION: Ethics, Virtue Ethics, Metaethics       
 AREAS OF COMPETENCE: Ancient Philosophy, Philosophy of Mind, Philosophy of Religion, Bioethics, Business Ethics    
 
 ### DISSERTATION
-"Virtue, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
+"The Point of Virtue: Nature, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
 
 
 
 ### EDUCATION
 
-2017 &nbsp;&nbsp;  PH.D. Philosophy, University of Kentucky (expected completion January, 2017)
+2017 &nbsp;&nbsp;  PH.D. Philosophy, University of Kentucky (expected completion January, 2017)  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
@@ -53,51 +49,65 @@ AREAS OF COMPETENCE: Ancient Philosophy, Philosophy of Mind, Philosophy of Relig
 
 ### TEACHING
 
-**University of Kentucky**  
-2016 &nbsp;&nbsp; Upper Division Business Ethics  
-2015-16 &nbsp;&nbsp; Upper Division Health Care Ethics         
-2013-14 &nbsp;&nbsp; Introduction to Philosophy  
-2013 (winter) &nbsp;&nbsp; Introduction to Philosophy  
-2013 &nbsp;&nbsp; Introduction to Ethics   
-2012-13 &nbsp;&nbsp; Introduction to Logic  (TA)
 
-**Asbury University**   
-2016 (summer) &nbsp;&nbsp; Upper division Philosophy of Religion  
+*University of Kentucky*  
+2016 &nbsp;&nbsp; Business Ethics, Upper Division  
+2015-16 &nbsp;&nbsp; Health Care Ethics, Upper Division           
+2013-14 &nbsp;&nbsp; Introduction to Philosophy   
+2013  &nbsp;&nbsp; Introduction to Philosophy, Winter course  
+2013 &nbsp;&nbsp; Introduction to Ethics    
+2012-13 &nbsp;&nbsp; Introduction to Logic  (Teaching assistant)  
+
+*Asbury University*   
+2016 &nbsp;&nbsp; Philosophy of Religion, Upper Divison Summer course  
 2016 &nbsp;&nbsp; Seminar: Philosophy of CS Lewis  
 2016 &nbsp;&nbsp; Seminar: Wisdom and Virtue    
-2014-2016 &nbsp;&nbsp; Introduction to Philosophy
+2014-2016 &nbsp;&nbsp; Introduction to Philosophy  
 
-**High School Courses**  
-2011 &nbsp;&nbsp; Plato Seminar  
-2009-2010 &nbsp;&nbsp; Aristotelian Logic  
-2009-2012 &nbsp;&nbsp; Western Civilization: American Thought   
-2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought  
+*Biola University*
+2004 &nbsp;&nbsp; Philosophy of Science (Teaching assistant)
+
+*High School Courses*    
+2011 &nbsp;&nbsp; Plato Seminar   
+2009-2010 &nbsp;&nbsp; Aristotelian Logic   
+2009-2012 &nbsp;&nbsp; Western Civilization: American Thought    
+2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought   
 2007-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+ 
+*Other Teaching and Leadership*    
+2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy    
+2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy     
+2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA    
+2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
+2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy   
+2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy     
 
-**Other Teaching and Leadership**  
-2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy, Lexington KY.   
-2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy    
-2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA  
-2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy  
-2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA  
-2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy.  
-2004 (summer)&nbsp;&nbsp; Teaching Assistant , Philosophy of Science, Biola University, CA.  
 2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
 2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
-2001 (summer) &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.
+2001 &nbsp;&nbsp; Summer English Teacher, Biola University Abroad, Mongolia. 
 
-
-
+ 
+ 
 ### RECOMMENDATIONS
-* David Bradshaw, Professor of Philosophy, University of Kentucky   
-1415 Patterson Office Tower, Lexington, KY 40506   
-[dbradsh@uky.edu](emailto:dbradsh@uky.edu) / (859) 257 7107
-* Anita Superson, Proffesor of Philosophy, University of Kentucky
-* Dan Breazeale, Proffesor of Philosophy, University of Kentucky
-* Clare Batty, Proffesor of Philosophy, University of Kentucky
+
+David Bradshaw, Professor of Philosophy
+University of Kentucky, 1415 Patterson Office Tower
+[dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107  
+
+Anita Superson, Profesor of Philosophy  
+University of Kentucky, 1433 Patterson Office Tower  
+[superson@uky.edu](emailto:superson@uky.edu) / 859.257.4186  
+
+Daniel Breazeale, Profesor of Philosophy, 
+University of Kentucky, 1417 Patterson Office Tower 
+[breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376
+
+Clare Batty, Assistant Profesor of Philosophy  
+University of Kentucky, 1415 Patterson Office Tower    
+[clare.batty@uky.edu](emailto:clare.batty@uky.edu) / 859.257.7109.  
 
 
-#### GRADUATE COURSES
+### GRADUATE COURSES
 
 *Ethics*  
 S2016  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right, Dan Breazeale.  
@@ -116,9 +126,11 @@ S2013 Seminar on Plato’s Parmenides, Eric Sanday.
 S2013 Aristotle and Aristotelians on Mind (Independent study), David Bradshaw.  
 F2012 Ancient Greek Metaphysics, Eric Sanday.      
 
-*Philosophy of Mind*
-F2013 Seminar on Mind and Imagination, Clare Batty.  
-S2009 Philosophy of Mind, JP Moreland.  
+*Philosophy of Mind*  
+F2013 Seminar on Mind and Imagination, Clare Batty.   
+S2009 Philosophy of Mind, JP Moreland.   
+
+
 
 *Metaphysics, Epistemology, other.*    
 S2013 Seminar on Language & Normativity, Tim Sundell.    
