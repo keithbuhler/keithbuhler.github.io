@@ -36,6 +36,7 @@ S2013 Introduction to Logic (coming soon)
 * "He learned our names very quickly and took time to understand our points in discussion." (PHI305, 2015)
 * "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
 *  "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
+*  [More student feedback (good and bad)](/student-feedback)
 
 ### Philosophy resources ###
 
