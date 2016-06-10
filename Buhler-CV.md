@@ -16,10 +16,7 @@ Philosophy Dept., University of Kentucky
 
 ### RESEARCH
 AREAS OF SPECIALIZATION: Virtue Ethics, Metaethics       
-AREAS OF COMPETENCE: Ancient Philosophy, Philosophy of Mind, Philosophy of Religion, Bioethics, Business Ethics    
-
-### DISSERTATION
-"The Point of Virtue: Nature, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
+AREAS OF COMPETENCE: Ancient Philosophy, Philosophy of Mind, Philosophy of Religion, Bioethics
 
 
 
@@ -43,11 +40,11 @@ AREAS OF COMPETENCE: Ancient Philosophy, Philosophy of Mind, Philosophy of Relig
 
 ### ACADEMIC POSITIONS
 
-2014 - present &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
-2012 - present &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
+2014-16 &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
+2012-16 &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
 
 
-### TEACHING
+### COURSES TAUGHT
 
 
 *University of Kentucky*  
@@ -165,7 +162,7 @@ Society of Orthodox Philosophers in America, 2014-present
 International Society for MacIntyrean Enquiry, 2015-present 
 
 
-### Course Evaluations
+### EVALUATIONS
 
 +  3.7 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)
 +  3.5 out of 4, cumulative average in overall course quality
@@ -173,6 +170,8 @@ International Society for MacIntyrean Enquiry, 2015-present
 
 
 
-### Dissertation Abstract
 
-Recent Neo-Aristotelian virtue ethicists are united on several points, including these: the good person is the virtuous person; virtues are human goods; human goods are in some way natural. They are divided on other points: is virtue "natural" to human beings in virtue of their being rational beings unlike others in the animal kingdom or in virtue of their being organisms like any other? Given that human beings are biological and rational creatures, what is the relationship between rationality and biology? Put differently, what is the relationship between normativity and nature? Philippa Foot represents the physical, organic aspect of this division; John McDowell represents the normative, rational aspect. Biological naturalism blocks cultural relativism while "second nature" naturalism seems more aligned to the scientific view of nature. Who has the upper hand? My dissertation attempts to bolster the argument that virtues are human goods pertaining to our nature as practical, rational primates and to give some reasons to believe that Foot is right, contra McDowell, that our very biology is teleological, while McDowell is right that some some virtue is a kind of knowledge.  I argue that virtue is the excellence of rational practices and practical reasoning. In light of this definition of virtue, I defend a conception of practical reasoning according to which one's success or failure in pursuit of the good life for humans is the definitive criterion by which to judge a human being. I also provide an outline of a secular, humanistic conception of flourishing according to which becoming wise is the natural telos of practical rational animals, even though they may individually die and (one day) go extinct. 
+### DISSERTATION
+*Title:* "The Point of Virtue: Nature, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
+
+*Abstract:* Recent Neo-Aristotelian virtue ethicists are united on several points, including these: the good person is the virtuous person; virtues are human goods; human goods are in some way natural. They are divided on other points: is virtue "natural" to human beings in virtue of their being rational beings unlike others in the animal kingdom or in virtue of their being organisms like any other? Given that human beings are biological and rational creatures, what is the relationship between rationality and biology? Put differently, what is the relationship between normativity and nature? Philippa Foot represents the physical, organic aspect of this division; John McDowell represents the normative, rational aspect. Biological naturalism blocks cultural relativism while "second nature" naturalism seems more aligned to the scientific view of nature. Who has the upper hand? My dissertation attempts to bolster the argument that virtues are human goods pertaining to our nature as practical, rational primates and to give some reasons to believe that Foot is right, contra McDowell, that our very biology is teleological, while McDowell is right that some some virtue is a kind of knowledge.  I argue that virtue is the excellence of rational practices and practical reasoning. In light of this definition of virtue, I defend a conception of practical reasoning according to which one's success or failure in pursuit of the good life for humans is the definitive criterion by which to judge a human being. I also provide an outline of a secular, humanistic conception of flourishing according to which becoming wise is the natural telos of practical rational animals, even though they may individually die and (one day) go extinct. 

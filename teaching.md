@@ -22,7 +22,7 @@ S2013 Introduction to Logic
 You can see a complete list of courses taught on my [CV](/Buhler-CV.pdf). 
 
 ### Official Student Evaluation Stats
-+  3.68 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)
++  3.7 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)
 +  3.5 out of 4, cumulative average in overall course quality
  
 ### Student Feedback Highlights ###
@@ -66,7 +66,7 @@ Students understand and appreciate that assignments are not just for the grade b
 
 ### Results
 
-Students consistently report enjoying my classes: Over four years, I've earned average scores of 3.5 (out of 4) overall course quality and 3.7 overall in teaching quality. I also tend to recruit about 2 out of every 30 students to a philosophy major or minor. One student, Stephanie, did not think of herself as a "philosopher." But after a course on virtue ethics, she realized that studying music was not employing her gift for philosophy, so she switched majors. 
+Students consistently report enjoying my classes: Over four years, I've earned average scores of 3.5 (out of 4) overall course quality and 3.7 overall in teaching quality. I also tend to recruit about 2 out of every 30 students to a philosophy major or minor. One student did not think of herself as a "philosopher," but after a course on virtue ethics, she realized that studying music was not employing her gift for philosophy, so she switched majors. 
 
 Each component of my teaching strategy is being slowly improved. For example, my first year of teaching, I required everyone to speak in class to earn participation points. Students complained that the class was "geared toward external processors" so I changed this requirement. Now my participation points are assessed by both verbal participation in class and written discussion online after class. This allows talkative students extra time to speak without punishing quieter students who need time to process. One student said: "I am more of a internal processor so at first the class seemed intimidating to me, but as time went on it was not as bad and I enjoyed that internal processors had other options as well." (PHI100, 2015)
 
