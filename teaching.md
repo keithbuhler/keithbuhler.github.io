@@ -62,7 +62,7 @@ In introductory classes, class time is 2/3rds interactive lecture, with Google S
 
 In these classes, class time is only 1/3rd interactive lecture, with 2/3rds cooperative discussion or student-lead presentations. Materials still include primary sources but include some excellent secondary sources, such Oxford Handbooks, or monographs from philosophers like Thomas Nagel and Rosalind Hursthouse. 
 
-Students understand and appreciate that assignments are not just for the grade but are geared to philosphical thinking. One student said:  “None of the assignments are busy work." (PHL200, 2014) Philosophical papers follow a disputation format: stating one's view, arguing for that view, stating reasonable objections, and responding to objections. 
+Students understand and appreciate that assignments are not just for the grade but are geared to philosophical thinking. One student said:  “None of the assignments are busy work." (PHL200, 2014) Philosophical papers follow a disputation format: stating one's view, arguing for that view, stating reasonable objections, and responding to objections. 
 
 ### Results
 
