@@ -7,9 +7,9 @@ title: Anyone?... Buhler...?
 <img src="/img/keithbuhler-golden.png" alt="Keith Buhler" align="left" hspace="10"> 
 I am currently a philosophy instructor at Asbury University and a doctoral candidate at the University of Kentucky. 
 
-My [dissertation](/research) clarifies and defends a version of neo-Aristotelian virtue ethics (drawn from Philippa Foot, John McDowell, and Alasdair MacIntyre). And my other philosophical interests include [Plato (especially the *Philebus*), hylomorphic metaphysics, religion, physicalism, and science.](https://uky.academia.edu/KeithBuhler) 
+My [dissertation](/research) is a defense of neo-Aristotelian virtue ethics (especially that of Philippa Foot). My other philosophical interests include [Plato (especially the *Philebus*), hylomorphic metaphysics, religion, physicalism, and science.](https://uky.academia.edu/KeithBuhler) 
 
-I been [teaching](/teaching) for 15 years and love what I do.  My aim in philosophical activity is flourishing as a human being in community and helping [students](/philosophy) flourish as well. 
+I have been [teaching](/teaching) for more than 15 years and love what I do.  My goal in philosophy is not only to contribute to the professional discipline, but to flourish as a human being in community and to help [students](/philosophy) flourish as well. 
 
 Some other profiles: 
 
