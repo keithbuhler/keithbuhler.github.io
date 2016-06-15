@@ -15,17 +15,18 @@ The University of Kentucky asks graduate students to make three increasingly spe
 
 ### Dissertation
 
-My dissertation is tentatively titled: *The Point of Virtue: Excellence, Wisdom, and Flourishing in the Recent Neo-Aristotelians.*
+My dissertation is tentatively titled: *The Point of Virtue: Excellence, Practical Reason, and Natural Teleology in a few Recent Neo-Aristotelians.*
 
 Below are very early chapter drafts; please do not share or cite. As each becomes available, the titles below will become links. To request permission to peruse, click the chapter title.
 
 1. [Introduction](/janpreface)
-2. [Neo-Aristotelian Ethical Naturalism](/janethicalnaturalism)
-3. [Natural Norms: Organic Teleology](/jannaturalnormativity)
-3. [Natural Human Norms: Practical, Rational Animals](/phdrequest)
-4. [Virtue: Virtue as Excellent Traits Humans Need](/phdrequest)
-5. [Wisdom: Virtue as Excellence of Practical Reason](/phdrequest)
-6. Flourishing: Virtue as Partly Constituting Human Success
-7. Conclusions
+2. [Natural Norms: Organic Teleology](/phdrequest)
+3. [Natural Human Norms: Practical Primates](/phdrequest)
+4. [Virtue and Vice: Rational and Irrational Practices](/phdrequest)
+5. [Practical Reasoning](/phdrequest)
+6. [Natural Reasoning](/phdrequest)
+7. [Traditional Reasoning](/phdrequest)
+8. [Wisdom and Death](/phdrequest)
 
-Whole Dissertation Link (coming soon)
+
+[Whole Dissertation Link (coming soon)](/phdrequest)
