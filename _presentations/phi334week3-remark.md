@@ -1,20 +1,29 @@
----
-title: Business Ethics Week 3 Utilitarianism
-author: Keith Buhler
-date: 2016
-output: revealjs::revealjs_presentation
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Utilitarianism
 
 ---
-
-<section><!--Begin Utilitarianism Intro-->
-<section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
-
-# Utilitarianism: Business Ethics Week 3
-
-
-
-</section>
-<section>
 
 
 # Utilitarinaism: All the points!
@@ -28,18 +37,14 @@ output: revealjs::revealjs_presentation
 7. Utilitarianism has two main forms: act and rule. 
 8. Utilitarianism is criticized for being unjust, impractical, and amoral. 
 
-</section>
-<section>
-
+---
 
 ## 1. The best moral action is one that maximizes "utility"
 
 What is good in itself? What is an intrinsic good? 
 
 
-</section>
-<section>
-
+---
 ## 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
 
@@ -54,9 +59,7 @@ What is good in itself? What is an intrinsic good?
 
 Utilitarians say: do whatever maximizes happiness. 
 
-</section>
-<section>
-
+---
 ## 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
 
@@ -68,9 +71,7 @@ Should rollercoasters be made illegal?  Do they cause pleasure or pain? Consider
 >Pros: Rollercoasters are fun. 1 in 300 million chance of dying. 
 >Cons: Galaxyland Amusement Park (West Edmonton Mall), Edmonton, Alberta, “Mindbender”, June 1986: The world’s largest triple-loop indoor roller coaster crashed when four bolts came loose, allowing a wheel assembly to fall off the roller coaster. Dozens suffered minor injuries, one person had his legs crushed in the accident and three people lost their lives.
 
-</section>
-<section>
-
+---
 ## Utilitarianism was founded by Jeremy Bentham
 
 * Jeremy Bentham published An Introduction to the Principles of Morals and Legislation in 1789. 
@@ -80,9 +81,7 @@ Should rollercoasters be made illegal?  Do they cause pleasure or pain? Consider
 * The goal was fairness. To create a society with laws and norms that do not harm the majority while only benefitting the minority but benefit all or most. 
 
 
-</section>
-<section>
-
+---
 ##4. Utilitarianism was updated by John Stuart Mill.
 
 
@@ -93,42 +92,28 @@ Should rollercoasters be made illegal?  Do they cause pleasure or pain? Consider
 * The goal is to live a life of cultivated pleasure, balancing intellectual and physical satisfaction. 
 
 
-</section>
-<section>
-
+---
 ##Utilitarianism has ancient roots in Epicurus.
 
 
-</section>
-<section>
-
+---
 ##Utilitarianism is a form of consequentialism
 
 
-</section>
-<section>
+---
 
-
-</section>
-<section>
-
+---
 ##Utilitarianism has two main forms: act and rule
 
 
-</section>
-<section>
+---
 
 
-
-</section>
-<section>
-
+---
 ## Objections to utilitarianism include injustice, impractical, amoral
 
 
-</section>
-<section>
-
+---
 ---
 
 Future slideshows
@@ -176,3 +161,12 @@ M       Dec-12  Final Exams- Final Paper/project due on December 16th by 11:59PM
 W       Dec-16  Finals UK  
 F       Dec-18  Grades Due UK  
 
+
+   </textarea>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
