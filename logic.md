@@ -1,9 +1,20 @@
 ---
 layout: noheader
 title: Logic 101
+author: Keith Buhler
+
 ---
 
-# Logic 101
+|                              | 
+|------------------------------|-----------------------------------------|
+| University of Kentucky       |                              |
+| Department of Philosophy     | 562.230.2920                            |
+| 1415 Patterson Office Tower, Lexington, KY 40506        | 305 Woodspointe Way, Wilmore, KY, 40390 |
+| [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu) | keithedbuhler@gmail.com
+
+
+
+### Logic 101
 
 *This presentation is a mash-up of material from Peter Kreeft and others, with some original material.*
 
@@ -13,7 +24,7 @@ title: Logic 101
 Every argument has two basic parts: the premises and the conclusion.  The conclusion is the truth claim. (For example: "Obama is the 44th president" can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: "Obama won the presidential election" and "there were 43 U.S. Presidents before 2004.")
 
 ### Clear Terms
-Both premises and conclusions are expressed in words and sentences. Although human words can do many things -- express, praise, sing, blame, and so on -- the importance of words for arguing well is that they express *concepts*. 
+Both premises and conclusions are expressed in *words*. Human words can do many things: they can praise, sing, blame, declare, persuade and so on. The importance of words for arguing well is that they express *concepts*. 
 
 Concepts are the basic units of rational thought. Where do we get our concepts? Concept-acquisition is an interesting process. People disagree about how it works. A basic version is that the mind acquires concepts by a process called "apprehension". Here's a description from from Peter Kreeft: 
 
@@ -93,21 +104,15 @@ Therefore not X.’               So a global nuclear war has not occurred.
 ## All of Logic in 2 pages, by Peter Kreeft
 
 > The ancient philosophers defined Man as the "rational animal." To be human is (among other things) to reason, to give reasons for believing things to be true. We can see common forms, or structures, in all human reasoning, no matter what the contents, or objects, that we reason about. Logic studies those structures.
-
 >The fundamental structure of all reasoning is the movement of the mind from premises to a conclusion. The conclusion is what you are trying to prove to be true; the premises are the reasons or evidence for the truth of the conclusion.
-
 >The two basic kinds of reasoning are *inductive* and *deductive*. Inductive reasoning reasons from particular premises (e.g. "I' m mortal" and "You're mortal" and "He's mortal" and "She's mortal"), usually to a more general or universal conclusion (e.g. "All men are mortal"). 
-
 > Deductive reasoning reasons from at least one general, or universal premise (e.g. "All men are mortal") usually to a more particular conclusion (e.g. "I am mortal"). Inductive reasoning yields only probability, not certainty. (It is not certain that all men are mortal merely on the basis that four men, or 4 million, are.) Deductive reasoning, when correct, yields certainty. (It is certain that if all men are mortal, and if I am a man, then I am mortal.)
-
 > A deductive argument succeeds in proving its conclusion to be true if and only if three conditions are met. **These are the three check points of any deductive argument.**
-
 > (1) **First, all the terms must be clear and unambiguous.** If a term is
 ambiguous, it should be defined, to make it clear. Otherwise, the two parties to the argument may think they are talking about the same thing when they are not.
 (2) **Second, all the premises must be true.** You can (seem to) "prove" anything from false premises: e.g. "All Martians are infallible, and I am a Martian, therefore I am infallible."
 (3) **Third, the argument must be logically valid.** That is, the conclusion
 must necessarily follow from the premises, so that if 'the premises are true, then the conclusion must be true.
-
 
 > (1) A "term" in logic is the subject or the predicate of a proposition (a
 declarative sentence). Terms are either clear or unclear. Terms cannot be either true or false. E.g. "mortal" is neither true nor false. The proposition "All men are mortal" is true, and the proposition "Some men are not mortal" is false. 
