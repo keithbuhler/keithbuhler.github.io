@@ -1,9 +1,6 @@
 ---
 title: Business Ethics Week 3 Utilitarianism
-author: Keith Buhler
-date: 2016
-output: revealjs::revealjs_presentation
-
+layout: presentation
 ---
 
 <section><!--Begin Utilitarianism Intro-->
