@@ -4,9 +4,7 @@ layout: default
 
 --- 
 
-### CURRICULUM VITAE 2016
-
-### [KEITH BUHLER](/Buhler-CV.pdf)
+### [KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf)
 
 |                              | 
 |------------------------------|-----------------------------------------|
@@ -27,20 +25,20 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind
 
 ### EDUCATION
 
-2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky (expected completion in Spring 2017)  
+2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky (expected graduation in Spring 2017)  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
 
 
-### CONFERENCE PRESENTATIONS AND COMMENTARY
+### CONFERENCE PRESENTATIONS
 
 2016 &nbsp;&nbsp; "The Cosmic Question": Teleology without Theology in Thomas Nagel's *Mind and Cosmos*, Society of Christian Philosophers,  San Diego, CA.   
 2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Analyzing the Empty Hero in Kung Fu Panda and Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Inductive Arguments Can't Show It,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC; and Midsouth Philosophy Conference, MI.  
-2014 &nbsp;&nbsp; Comments
+
 
 
 ### ACADEMIC APPOINTMENTS
@@ -49,7 +47,9 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind
 2012-16 &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
 
 
-### COURSES TAUGHT, UNIVERSITY OF KENTUCKY
+### COURSES TAUGHT 
+
+### University of Kentucky
 
 2016 &nbsp;&nbsp; Business Ethics (upper division)  
 2015-16 &nbsp;&nbsp; Health Care Ethics (upper division)  
@@ -58,7 +58,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind
 2013 &nbsp;&nbsp; Introduction to Ethics    
 2012-13 &nbsp;&nbsp; Introduction to Logic  (Teaching assistant) 
 
-### COURSES TAUGHT, ASBURY UNIVERSITY
+### Asbury University 
 2016 &nbsp;&nbsp; Philosophy of Religion (upper division, summer course)    
 2016 &nbsp;&nbsp; Philosophy of C.S. Lewis  (upper division)  
 2016 &nbsp;&nbsp; Wisdom and Virtue    (upper division seminar)  
@@ -68,7 +68,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind
 2004 &nbsp;&nbsp; Philosophy of Science (Teaching assistant) 
 
 
-### COURSES TAUGHT, SECONDARY SCHOOL
+### COURSES TAUGHT, TORREY ACADEMY
 
 2011 &nbsp;&nbsp; Plato Seminar   
 2009-2010 &nbsp;&nbsp; Aristotelian Logic   

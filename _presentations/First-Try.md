@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: My First Slide Show
 theme: league
 ---

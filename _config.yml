@@ -1,3 +1,53 @@
-name: Keith Buhler
-markdown: kramdown
-source: 
+# Site settings
+title:          "keithbuhler.com"
+author:         "Keith Buhler"
+email:          ""
+description:    "The personal website of Keith Buhler"
+baseurl:        ""
+url:            "http://www.keithbuhler.com"
+paginate:       10
+paginate_path:  "/page:num"
+
+# lunr_search:
+#   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
+
+# Build settings
+markdown:       pandoc
+pandoc:
+    extensions:
+        - smart
+        - bibliography="C:\\Users\\KEDB\\Documents\\Latex\\bibliography.bib"
+        - csl="C:\\Users\\KEDB\\Documents\\Latex\\default.csl"
+        - mathjax
+markdown_ext:   markdown,mkdown,mkdn,mkd,md
+permalink:      /blog/:year-:month-:day-:title
+encoding:       utf-8
+
+collections:
+  papers:
+    output: true
+  share:
+    output: true
+  teaching:
+    output: true
+  presentations:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post" # overrides previous default layout
+  -
+    scope:
+      path: ""
+      type: "presentations"
+    values:
+      layout: "presentation"
