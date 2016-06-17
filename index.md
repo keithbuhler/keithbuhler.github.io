@@ -4,7 +4,14 @@ title: Anyone?... Buhler...?
 
 --- 
 
-<body background="https://pitchenginelive.blob.core.windows.net/dev/042a2300-470f-4c84-8e68-2203877dac2f.jpg">
+<style>
+img {
+    opacity: 0.2;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+</style>
+
+<body background="/img/abbey.jpg">
 
 
 
