@@ -4,11 +4,14 @@ title: Buhler Report
 
 --- 
 
-# Welcome to the Buhler Report
+# Welcome to...
 
 <img src="/img/TheBuhlerReport1.png" align="center">
 
-Dialogue on academic philosophy, the Christianity, modern science, and conservative politics. 
+<center>
+Thoughtful dialogue about philosophy, Christianity, science, and politics. 
+
+</center>
 
 
 
@@ -20,9 +23,4 @@ Dialogue on academic philosophy, the Christianity, modern science, and conservat
 {% endfor %}
 
 
-#### Draft 1 Philosophy, science, politics, and religion from the perspective of calm reason and vibrant faith. 
-
-#### Draft 2 Logical, light-hearted, enlightening. 
-
------
 
