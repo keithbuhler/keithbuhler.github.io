@@ -5,12 +5,10 @@ title: Anyone?... Buhler...?
 --- 
 
 
-<body background="/img/abbey.jpg">
-
-
-
 ### welcome to www.keithbuhler.com
+
 <img src="/img/keithbuhler-golden.png" alt="Keith Buhler" align="left" hspace="10"> 
+
 I am currently a philosophy instructor at Asbury University and a doctoral candidate at the University of Kentucky. 
 
 My [dissertation](/research) is a defense of neo-Aristotelian virtue ethics (especially that of Philippa Foot). My other philosophical interests include [Plato, hylomorphism, physicalism, religion, and science.](https://uky.academia.edu/KeithBuhler) 

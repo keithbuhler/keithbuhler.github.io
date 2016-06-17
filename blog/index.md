@@ -4,16 +4,19 @@ title: Buhler Report
 
 --- 
 
+<center>
+
 # Welcome to...
 
 <img src="/img/TheBuhlerReport1.png" align="center">
 
-<center>
 Thoughtful dialogue about philosophy, Christianity, science, and politics. 
 
 </center>
 
 
+
+## Partial Index
 
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -23,4 +26,8 @@ Thoughtful dialogue about philosophy, Christianity, science, and politics.
 {% endfor %}
 
 
+
+<p>
+<p>
+<p>
 
