@@ -4,12 +4,6 @@ title: Anyone?... Buhler...?
 
 --- 
 
-<style>
-img {
-    opacity: 0.2;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-}
-</style>
 
 <body background="/img/abbey.jpg">
 
