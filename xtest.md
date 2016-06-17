@@ -1,7 +1,7 @@
 ---
 title: My First Slide Show
 theme: league
-layout: slide
+layout: slides
 ---
 
 <section>
