@@ -8,7 +8,7 @@ title: Buhler Report
 
 <img src="/img/TheBuhlerReport1.png" align="center">
 
-Dialogue on academic philosophy, the Christian religion, modern science, and conservative politics. 
+Dialogue on academic philosophy, the Christianity, modern science, and conservative politics. 
 
 
 

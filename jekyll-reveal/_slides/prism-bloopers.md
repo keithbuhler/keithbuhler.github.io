@@ -1,6 +1,0 @@
----
-title: Example
----
-
-## Surveillance lols
-

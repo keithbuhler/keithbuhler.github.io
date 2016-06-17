@@ -7,8 +7,8 @@ title: Teaching Statement
 
 • Letter of application 1
 • Curriculum vitae  2 done
+• Teaching statement 4 done
 • Research statement 3
-• Teaching statement 4
 • Writing sample 5
 • Three letters of recommendation 6
 

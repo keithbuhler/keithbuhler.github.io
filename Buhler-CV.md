@@ -145,7 +145,7 @@ F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property, JP Moreland.
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
 
-### LANGUAGES ###
+### LANGUAGES
 Ancient Greek (proficient reading knowledge)  
 Spanish  (fluent speaking knowledge)  
 
@@ -158,20 +158,9 @@ International Society for MacIntyrean Enquiry, 2015-present
 
 ### EVALUATIONS
 
-3.7 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)  
+3.6 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)  
 3.5 out of 4, cumulative average in overall course quality  
-
-
-
 
 
 ### DISSERTATION
 *Working Title:* "The Point of Virtue: Nature, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
-
-*Abstract (draft):* Recent Neo-Aristotelian virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre are united on several beliefs: the good person is the virtuous person; virtues are human goods; and human goods are in some way "natural". They are divided on other questions: is virtue "natural" to humans because humans are rational animals, distinct from others in the animal kingdom or because humans are organisms, fundamentally continuous with all others in evolutionary tree of life? Humans exhibit normal biological processes as well as abstract and practical reasoning. So more generally, how are we to understand the relationship between rationality and biology?
-
-Foot emphasizes the natural, biological aspect of virtue ethics (where virtues and vices are "natural goodness and defect"); John McDowell emphasizes the normative, rational aspect, where virtues are intersubjective, cultural forms of knowledge. Each has its advantages and drawbacks. Biological naturalism blocks cultural relativism but seems to require teleological realism.  "Second nature" naturalism seems more aligned to the scientific view of nature but makes it difficult to explain how to criticize injustice in other cultures and how make social progress within one's own. 
-
-Recent neo-Aristotelians have run aground of this difficult matter because, as Julia Annas explains, it reflects a broader perennial question about the relationship between normativity and nature, or between ethics and science. Even within the confines of scientific naturalism and agnosticism, I bolster the argument that virtues are human goods pertaining to our nature as practical, rational primates. And I give reasons to believe that Foot is right, contra McDowell, that scientific realists should (probably) also be teleological realists. 
-
-Accordingly, my dissertation systematically analyzes the related concepts of nature, virtue, practical reason, and teleology in several recent neo-Aristotelian writers and offers a novel account of how they fit together. In brief,  I argue that virtue is the excellence of rational practices and practical reasoning that enables and partly constitutes the realization of one's human life form. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans. I also provide an outline of a secular, humanistic conception of flourishing according to which becoming wise is the natural telos of practical rational animals, even though they may individually die and (one day) go extinct. 
