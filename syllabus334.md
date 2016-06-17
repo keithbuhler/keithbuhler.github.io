@@ -204,10 +204,10 @@ To earn participation points, you will voluntarily share your thoughts in discus
 **Sep-26  M       "Film: Inside Job Parts I-III.** The ""Inside Job"" documentary is about the 2008 housing crisis. Everyone felt the effects of this terrible financial meltdown. What caused it?  
 **Sep-28  W       "Film: Inside Job Parts I-IV"**: 
 **Sep-30  F       "Film: Inside Job Part V and discussion"**
-Oct-3   M       "Business Ethics, Methods of Business Ethics"
-Oct-5   W       "Business Ethics, the Place of Ethical Theory"
-Oct-7   F       "Discussion"
-Oct-10  M       "Competitive Markets, Ideal of Capitalism"
+**Oct-3   M       "Business Ethics, Methods of Business Ethics"**:  
+**Oct-5   W       "Business Ethics, the Place of Ethical Theory"**: 
+**Oct-7   F       "Discussion"**:  
+**Oct-10  M       "Competitive Markets, Ideal of Capitalism"**:   
 Oct-12  W       "Competitive Markets, Corporate Responsibility"
 Oct-14  F       "Discussion"
 Oct-17  M       "Economic Justice, Executive Compensation"
