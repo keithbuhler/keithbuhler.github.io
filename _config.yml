@@ -13,20 +13,11 @@ paginate_path:  "/page:num"
 
 # Build settings
 markdown:       kramdown
-pandoc:
-    extensions:
-        - smart
-        - bibliography="C:\\Users\\KEDB\\Documents\\Latex\\bibliography.bib"
-        - csl="C:\\Users\\KEDB\\Documents\\Latex\\default.csl"
-        - mathjax
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
-permalink:      /blog/:year-:month-:day-:title
 encoding:       utf-8
 
 collections:
   papers:
-    output: true
-  share:
     output: true
   teaching:
     output: true
