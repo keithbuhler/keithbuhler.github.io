@@ -1,7 +1,7 @@
 ---
 title: Business Ethics Week 3 Utilitarianism
 theme: league
-layout: presentation
+layout: slides
 ---
 
 <section><!--Begin Utilitarianism Intro-->
