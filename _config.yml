@@ -12,7 +12,7 @@ paginate_path:  "/page:num"
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
 # Build settings
-markdown:       pandoc
+markdown:       kramdown
 pandoc:
     extensions:
         - smart
