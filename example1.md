@@ -4,13 +4,18 @@ layout: presentation
 theme: black
 ---
 
+
+<div markdown="1" class="fragment">
+
+
+
 <section><!--Begin Utilitarianism Intro-->
 <section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
 
 
 # Utilitarianism: Business Ethics Week 3
 
-
+</div>
 
 </section>
 <section>
