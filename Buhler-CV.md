@@ -16,10 +16,10 @@ layout: default
 
 
 ### AREAS OF SPECIALIZATION: 
-Virtue Ethics, Metaethics       
+Virtue Ethics, Metaethics.       
 
 ### AREAS OF COMPETENCE
-Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind 
+Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.  
 
 
 
@@ -64,11 +64,11 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind
 2016 &nbsp;&nbsp; Wisdom and Virtue    (upper division seminar)  
 2014-2016 &nbsp;&nbsp; Introduction to Philosophy   
 
-### COURSES TAUGHT, BIOLA UNIVERSITY 
+### Biola University
 2004 &nbsp;&nbsp; Philosophy of Science (Teaching assistant) 
 
 
-### COURSES TAUGHT, TORREY ACADEMY
+### Torrey Academy
 
 2011 &nbsp;&nbsp; Plato Seminar   
 2009-2010 &nbsp;&nbsp; Aristotelian Logic   
@@ -104,32 +104,32 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind
 
 ### GRADUATE COURSES IN ETHICS
 
-S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right, Dan Breazeale.  
-F2015 &nbsp;&nbsp;  Metaethics (Dissertation research)   
-S2014 &nbsp;&nbsp;  Seminar on Ethics: Bodily Autonomy, Anita Superson.  
-S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study), David Bradshaw.      
-F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism, Anita Superson.   
-F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation, Anita Superson.  
-F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study), David Bradshaw.     
+S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
+F2015 &nbsp;&nbsp;  Metaethics (Dissertation research).    
+S2014 &nbsp;&nbsp;  Seminar on Ethics: Bodily Autonomy. Anita Superson.  
+S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study). David Bradshaw.      
+F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.   
+F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson.  
+F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study). David Bradshaw.     
 
 ### GRADUATE COURSES IN ANCIENT PHILOSOPHY
-S2016 &nbsp;&nbsp;  Seminar on the Death of God: Plato's Forms (audit), Eric Sanday  
-S2014 &nbsp;&nbsp;  Seminar on Plato: Philebus and Timaeus, Eric Sanday.    
-S2013 &nbsp;&nbsp;  Seminar on Plato’s Parmenides, Eric Sanday.  
-S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study), David Bradshaw.  
-F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics, Eric Sanday.     
+S2016 &nbsp;&nbsp;  Seminar on the Death of God: Plato's Forms (audit). Eric Sanday  
+S2014 &nbsp;&nbsp;  Seminar on Plato: Philebus and Timaeus. Eric Sanday.    
+S2013 &nbsp;&nbsp;  Seminar on Plato’s Parmenides. Eric Sanday.  
+S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
+F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.     
 
 ### GRADUATE COURSES PHILOSOPHY OF MIND
-F2013 &nbsp;&nbsp;  Seminar on Mind: Imagination, Clare Batty.   
-S2009 &nbsp;&nbsp;  Philosophy of Mind, JP Moreland.  
-F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism, David Bradshaw.  
-F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism, Stefan Bird-Pollan.    
+F2013 &nbsp;&nbsp;  Seminar on Mind: Imagination. Clare Batty.   
+S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.  
+F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.  
+F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
 
 ### GRADUATE COURSES, METAPHYSICS, EPISTEMOLOGY, OTHER    
-S2013 &nbsp;&nbsp;  Philosophy of Religion, David Bradshaw.    
-S2013 &nbsp;&nbsp;  Seminar on Language & Normativity, Tim Sundell.    
-F2013 &nbsp;&nbsp;  Symbolic Logic, Tim Sundell.    
-F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property, JP Moreland.  
+S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
+S2013 &nbsp;&nbsp;  Seminar on Language & Normativity. Tim Sundell.    
+F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
+F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland.  
 
 
 ### INVITED PUBLIC LECTURES
@@ -156,7 +156,7 @@ Society of Orthodox Philosophers in America, 2014-present
 International Society for MacIntyrean Enquiry, 2015-present 
 
 
-### EVALUATIONS
+### TEACHING EVALUATIONS
 
 3.6 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)  
 3.5 out of 4, cumulative average in overall course quality  
