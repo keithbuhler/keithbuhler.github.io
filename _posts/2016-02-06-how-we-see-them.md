@@ -1,5 +1,5 @@
 ---
-layout: fun
+layout: posts
 title: How we See your Candidate
 ---
 

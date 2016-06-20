@@ -5,14 +5,13 @@ email:          ""
 description:    "The personal website of Keith Buhler"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
-paginate:       10
-paginate_path:  "/page:num"
+
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
 # Build settings
-markdown:       pandoc
+markdown:       kramdown
 pandoc:
     extensions:
         - smart
@@ -51,4 +50,3 @@ defaults:
       type: "presentations"
     values:
       layout: "presentation"
-Status API Training Shop Blog About

@@ -1,7 +1,6 @@
 ---
 layout: fun
-title: Wikipedia: Getting to Philosophy
-
+title: Wikipedia - Getting to Philosophy
 --- 
 
 [Wikipedia](http://www.wikipedia.com) is an encyclopedia. It is one of the largest encyclopedia ever created. Encyclopedias attempt to aggregate all knowledge in one place. They are a [western tradition](http://www.iep.utm.edu/mac-over/).

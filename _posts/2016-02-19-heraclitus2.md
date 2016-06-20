@@ -1,6 +1,6 @@
 ---
-layout: fun
-title: Heraclitus: An Interpretation
+layout: posts
+title: Heraclitus - An Interpretation
 
 ---
 

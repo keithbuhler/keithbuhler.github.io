@@ -19,12 +19,13 @@ title: Papers
         md
     </a>
 
-  | Paper version: 
-   <a class="pdf-link" href="{{ paper.path | remove: 'C:/Users/Dan/Dropbox/dansheffler/_papers/' | prepend: '/pdfs/' | remove: '.md' | append: '.pdf' }}">
-  pdf
-   </a>
-   | Permalink: 
-   <a class="permalink" href="{{ paper.url | prepend: site.baseurl }}">       html
-   </a>
+    | Paper version: 
+    <a class="pdf-link" href="{{ paper.path | remove: 'C:/Users/Dan/Dropbox/dansheffler/_papers/' | prepend: '/pdfs/' | remove: '.md' | append: '.pdf' }}">
+        pdf
+    </a>
+    | Permalink: 
+    <a class="permalink" href="{{ paper.url | prepend: site.baseurl }}">
+        html
+    </a>
 </div>
 {% endfor %}

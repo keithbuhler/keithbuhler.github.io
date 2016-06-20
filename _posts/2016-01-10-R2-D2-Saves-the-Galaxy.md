@@ -1,5 +1,5 @@
 ---
-layout: fun
+layout: posts
 title: 17 Times R2-D2 Saves the Galaxy
 ---
 

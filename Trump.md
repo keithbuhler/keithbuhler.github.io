@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: Trump links
 ---
 
@@ -178,7 +178,7 @@ If you reject the Donald it is probably because... You think he is a liar, fraud
 31. [The Daily Beast, 25 Feb 2016, We can still beat Donald Trump](http://www.thedailybeast.com/articles/2016/02/25/we-can-still-beat-donald-trump-and-here-s-how.html)
 32. [The Daily Beast, 24 Feb 2016, Math Says Trump is unstoppable](http://www.thedailybeast.com/articles/2016/02/24/a-trump-win-is-looking-inevitable.html?AID=7236)
 33. [Trump restores “lost” voters](http://news.yahoo.com/many-lost-voters-found-candidate-trump-180551756.html?nf=1)
-34. http://theweek.com/articles/599577/how-obscure-adviser-pat-buchanan-predicted-wild-trump-campaign-1996
+34. [Pat Buchanan advisor predicted Trump](http://theweek.com/articles/599577/how-obscure-adviser-pat-buchanan-predicted-wild-trump-campaign-1996)
 35. Murdoch: "As predicted, Trump reaching out to make peace with Republican "establishment".  If he becomes inevitable party would be mad not to unify." Tweet 2 Mar 2016. 
 36. [Politico, 03 March 2016, Scott Bland, 5 Myths about Trump Supporters](http://www.politico.com/story/2016/03/5-myths-about-trump-supporters-220158)
 37. [Law Newz, Dan Abrams, What Trump's Taxes might be hiding 03 March 2016](http://lawnewz.com/important/why-donald-trump-might-be-really-afraid-to-release-his-taxes/)
