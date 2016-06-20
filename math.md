@@ -1,6 +1,6 @@
 ---
-layout: Lawmen, People of the Math
-title: preface
+layout: default
+title: Lawmen, People of the Math
 
 --- 
 

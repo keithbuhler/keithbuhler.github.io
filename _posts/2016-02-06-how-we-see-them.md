@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: post
+type: posts
 title: How we See your Candidate
 ---
 

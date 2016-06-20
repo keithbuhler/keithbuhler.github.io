@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: post
+type: posts
 title: Hate Speech
 tags: politics
 
