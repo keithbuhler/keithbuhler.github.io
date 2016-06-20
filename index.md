@@ -13,7 +13,7 @@ I am currently a philosophy instructor at Asbury University and a doctoral candi
 
 My [dissertation](/research) is a defense of neo-Aristotelian virtue ethics (especially that of Philippa Foot). My other philosophical interests include [Plato, hylomorphism, physicalism, religion, and science.](https://uky.academia.edu/KeithBuhler) 
 
-I have been [teaching](/teaching1) for more than 15 years and love what I do.  My goal in philosophy is not only to contribute to the professional discipline, but to flourish as a human being in community and to help [students](/philosophy) flourish as well. 
+I have been [teaching](/teaching) for more than 15 years and love what I do.  My goal in philosophy is not only to contribute to the professional discipline, but to flourish as a human being in community and to help [students](/philosophy) flourish as well. 
 
 Some other profiles: 
 

@@ -12,14 +12,21 @@ paginate_path:  "/page:num"
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
 # Build settings
-markdown:       kramdown
+markdown:       pandoc
+pandoc:
+    extensions:
+        - smart
+        - bibliography="C:\\Users\\Dan\\Dropbox\\Jabref\\mybib.bib"
+        - csl="C:\\Users\\Dan\\Dropbox\\Pandoc\\default.csl"
+        - mathjax
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
+permalink:      /blog/:year-:month-:day-:title
 encoding:       utf-8
-
-
 
 collections:
   papers:
+    output: true
+  share:
     output: true
   teaching:
     output: true
@@ -44,3 +51,4 @@ defaults:
       type: "presentations"
     values:
       layout: "presentation"
+Status API Training Shop Blog About
