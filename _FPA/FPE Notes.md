@@ -18,3 +18,28 @@ Click website
 Attendees Pod - create this so I know who's in class
 
 For presentations, promote to presenter. 
+
+Poll pods are popular. 
+
+Q&A Pod during class can only be seen by me. 
+
+Chat pod can be seen by all. 
+
+You can create Layouts, Powerpoint Layout, Discussion Layout, etc. 
+
+Extensions can be added to the share pod. YouTube Videos pod. 
+
+Creating Breakoutrooms. This pod allows people to work with each other. 
+
+Meeting> end meeting. 
+
+
+---
+
+5 hours of work, per week, on average
+
+Mr. O'Neill's class
+
+Jr/Sr level class.
+
+This is the top of what they do. 
