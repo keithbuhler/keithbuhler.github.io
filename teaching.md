@@ -8,14 +8,14 @@ title: Teaching
 I have been teaching at the high school or college level for fifteen years, including three years as Master Tutor or Director of High School at classical academies. At universities, I have taught eight different courses: 
 
 ### Course Syllabi
-F2016 Business Ethics ([Syllabus](/334))  
-F2016 Philosophy of CS Lewis ([Syllabus](/251))  
-S2016 Philosophy of Religion ([Syllabus](/554))
-S2016 Wisdom and Virtue  ([Syllabus](/PHL293))  
-S2016 Health Care Ethics ([Syllabus](/PHI305))    
-F2015 Health Care Ethics ([Syllabus](/PHI305))       
-S2015 Introduction to Philosophy ([Syllabus](/PHL200))   
-F2014 Introduction to Philosophy ([Syllabus](/PHL200))    
+F2016 Business Ethics ([Syllabus](/syllabus334))  
+F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+S2016 Philosophy of Religion ([Syllabus](/syllabus545))
+S2016 Wisdom and Virtue  ([Syllabus](/syllabus S2015 293 wisdom))  
+S2016 Health Care Ethics ([Syllabus](/syllabus S2016 305 health care))    
+F2015 Health Care Ethics ([Syllabus](/syllabus S2016 305 health care))       
+S2015 Introduction to Philosophy ([Syllabus](/syllabus200))   
+F2014 Introduction to Philosophy ([Syllabus](/syllabus200))    
 F2013 Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 S2013 Introduction to Logic   
 
