@@ -10,7 +10,7 @@ theme: black
 
 
 <section><!--Begin Utilitarianism Intro-->
-<section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
+<section data-background="http://www.thefamouspeople.com/profiles/thumbs/john-stuart-mill-8.jpg">
 
 <section data-markdown>
 <script type="text/template">
@@ -28,6 +28,7 @@ theme: black
 
 # Utilitarinaism: All the points!
 
+<ul>
 1. Utilitarianism  is the thesis that “the best moral action is one that maximizes ‘utility’ — pleasure, well-being.” (definition)
 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 3. Utilitarianism was founded by Jeremy Bentham
@@ -36,6 +37,8 @@ theme: black
 6. Utilitarianism is a form of consequentialism, where right and wrong are determined by the consequences of one’s action or character, not the action or character itself. 
 7. Utilitarianism has two main forms: act and rule. 
 8. Utilitarianism is criticized for being unjust, impractical, and amoral. 
+
+<ul> 
 
 </section>
 <section>
