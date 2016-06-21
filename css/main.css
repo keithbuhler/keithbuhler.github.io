@@ -7,7 +7,7 @@ html, body { height: 100%; }
 
 body {
     font-family: "Times New Roman", Times, serif;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.6;
     font-weight: 300;
     margin: 100px auto;
@@ -91,16 +91,19 @@ p {
   background-color: white;
 }
 
-
-
-background-repeat: repeat|repeat-x|repeat-y|no-repeat|initial|inherit;
-
-
+<head>
+<style>
 body {
-background-color: #ffffff;
-background-image:url:"/img/kentucky.jpg";
-background-repeat: no-repeat;
-background-position: top center;
+    background-image: url('http://www.kylandsales.com/1545MundysLanding/Sunrise.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 10% 80%; 
+
+}
+</style>
+</head>
+
+
 }
 #container {
 width: 940px;
@@ -156,7 +159,7 @@ ul.posts li {
 
 
 .page-content {
-  padding: 40px 0;
+  padding: 30px 0;
   background-color: #ffffff;
 }
 

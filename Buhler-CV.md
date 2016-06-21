@@ -103,7 +103,9 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 | University of Kentucky, 1417 Patterson Office Tower         | University of Kentucky, 1415 Patterson Office Tower                |
 | [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clare.batty@uky.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
 
-### GRADUATE COURSES IN ETHICS
+### GRADUATE COURSES 
+
+### Ethics
 
 S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
 F2015 &nbsp;&nbsp;  Metaethics (Dissertation research).    
@@ -113,20 +115,20 @@ F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.
 F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson.  
 F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study). David Bradshaw.     
 
-### GRADUATE COURSES IN ANCIENT PHILOSOPHY
+### Ancient 
 S2016 &nbsp;&nbsp;  Seminar on the Death of God: Plato's Forms (audit). Eric Sanday  
 S2014 &nbsp;&nbsp;  Seminar on Plato: Philebus and Timaeus. Eric Sanday.    
 S2013 &nbsp;&nbsp;  Seminar on Plato’s Parmenides. Eric Sanday.  
 S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
 F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.     
 
-### GRADUATE COURSES PHILOSOPHY OF MIND
+### Philosophy of Mind 
 F2013 &nbsp;&nbsp;  Seminar on Mind: Imagination. Clare Batty.   
 S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.  
-F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.  
 F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
 
-### GRADUATE COURSES, METAPHYSICS, EPISTEMOLOGY, OTHER    
+### Metaphysics, Epistemology, etc.
+F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.  
 S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
 S2013 &nbsp;&nbsp;  Seminar on Language & Normativity. Tim Sundell.    
 F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
