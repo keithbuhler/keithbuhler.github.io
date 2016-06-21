@@ -29,8 +29,7 @@ nav ul, header ul {
     font-weight: bold;
     font-size: 1.2em;
     padding: 2px;
-    background-color: #008B8B;
-    color: #fffff0;
+    background-color: #AA8439;
   }
 
 
@@ -40,6 +39,7 @@ nav ul, header ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.4em;
+    color: #061539;
 
 }
 
