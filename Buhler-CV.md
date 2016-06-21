@@ -4,10 +4,11 @@ layout: default
 
 ### [KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf)
 
-|                    |   |------------------------------|-----------------------------------------|
-| University of Kentucky       | Home                             |
-| Department of Philosophy     | 562.230.2920                            |
-| 1415 Patterson Office Tower, Lexington, KY.        | 305 Woodspointe Way, Wilmore, KY. |
+|------------------------------|------------------------------------------|
+| University of Kentucky       | Home                                     |
+| Department of Philosophy     | 562.230.2920                             |
+| 1415 Patterson Office Tower  | 305 Woodspointe Way, Wilmore, KY       |
+|Lexington, KY, 40506          | Wilmore, KY 40390                      |
 | [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu) | [keithedbuhler@gmail.com](emailto:keithedbuhler@gmail.com)
 
 
@@ -22,7 +23,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### EDUCATION
 
-2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky (expected graduation in Spring 2017)  
+2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky (in progress: expected completion in early 2017)  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   

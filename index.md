@@ -14,4 +14,4 @@ title: Anyone?... Buhler...?
 
 
 |------------------|-----------------|---------------|--------------|
-|<img src="/img/seal-biola.png" alt="Biola" height="25" width="25"> |<img src="/img/seal-thi.png" alt="Torrey Honors" height="25" width="25"> |<img src="/img/seal-balamand.png" alt="Balamand" height="25" width="25"> |<img src="/img/seal-uk.gif" alt="Kentucky" height="25" width="25"> 
+|<img src="/img/seal-biola.png" alt="Biola" height="50" width="50"> |<img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50"> |<img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50"> |<img src="/img/seal-uk.gif" alt="Kentucky" height="50" width="50"> 
