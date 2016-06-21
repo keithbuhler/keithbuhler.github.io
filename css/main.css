@@ -6,11 +6,11 @@ html, body { height: 100%; }
 
 body {
     font-family: "Times New Roman", Times, serif;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 1.6;
     font-weight: 300;
-    margin: 100px auto;
-    width: 75%;
+    margin: 200px auto;
+    width: 100%;
     background-color: white;
     background-image: url("https://s3.amazonaws.com/gd-images.gooddata.com/Assets/common2/headers/thin/thin_header_blue.png");
     background-repeat: no-repeat;
