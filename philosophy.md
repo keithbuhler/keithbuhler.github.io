@@ -74,6 +74,7 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 - Also, [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
 - [Email me or set up an appointment](emailto:keith.buhler@uky.edu) to share criticism, compliments, or other comments.
 
+<img src="/img/keith-magic.jpg" alt="Philosophy is magic" align="right" hspace="10" height="50%">
 
 #### Misc Philosophy Links
 * [David Lewis, (almost) Complete Works](http://www.andrewmbailey.com/dkl/)
