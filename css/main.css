@@ -10,9 +10,9 @@ body {
     line-height: 1.6;
     font-weight: 300;
     margin: 200px auto;
-    width: 100%;
+    width: 50%;
     background-color: white;
-    background-image: url("https://s3.amazonaws.com/gd-images.gooddata.com/Assets/common2/headers/thin/thin_header_blue.png");
+    background-image: url("tm");
     background-repeat: no-repeat;
     background-position: top;
 }
@@ -26,8 +26,14 @@ nav ul, header ul {
     margin: 0 auto;
     list-style: none;
     font-weight: bold;
-    font-size: 1.5em;
-    padding: 12px;
+    font-size: 1.2em;
+    padding: 2px;
+  }
+
+/* Bar Color */
+#nav, #nav-inner, .nav-list, .nav-list-item a {
+background-color: #008B8B;
+color: #fffff0;
 }
 
 nav ul, header ul {
