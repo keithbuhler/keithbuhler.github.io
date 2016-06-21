@@ -113,10 +113,10 @@ W       Dec-7   Film
 F       Dec-9   Last day UK  
 
 M       Dec-12  Finals Week UK 
-W       Dec-16  Paper Due by 11:59PM online.
+W       Dec-16  Paper Due by 11:59PM online.  
 F       Dec-18  Grades Due UK  
 
-
+##
 **Structure**:  To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
 **Grading**: Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
@@ -184,7 +184,7 @@ To earn participation points, you will voluntarily share your thoughts in discus
 
 ### Detailed Outline
 
-**Aug-24  W       Syllabus day.**Realistic expectations for this class. How to get an ""A"".     
+**Aug-24  W       Syllabus day.** Realistic expectations for this class. How to get an "A".     
 **Aug-26  F       Introduction to Business Ethics.** What is business ethics? What is an ethical business? Philosophy, in general, is a search for causes. Philosophers aim to prove what things are and why they are that way. Ethical philosophy is a search for the good. Ethicists aim to prove what ought to be done, and what avoided, and why. Science is the process of mapping the order of being; ethics is the process of mapping the ""practical order"", the order of doing.   
 **Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondance to reality. Other alleged definitions of truth presuppose the correspondance definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
 **Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism. He proves that the moral law is objective and knowable, like mathematical and logical laws. "  
@@ -201,38 +201,38 @@ To earn participation points, you will voluntarily share your thoughts in discus
 
 **Online Exam Quarter 1**
 
-**Sep-26  M       "Film: Inside Job Parts I-III.** The ""Inside Job"" documentary is about the 2008 housing crisis. Everyone felt the effects of this terrible financial meltdown. What caused it?  
+**Sep-26  M       "Film: Inside Job Parts I-III.** The "Inside Job" documentary is about the 2008 housing crisis. Everyone felt the effects of this terrible financial meltdown. What caused it?  
 **Sep-28  W       "Film: Inside Job Parts I-IV"**: 
 **Sep-30  F       "Film: Inside Job Part V and discussion"**
 **Oct-3   M       "Business Ethics, Methods of Business Ethics"**:  
 **Oct-5   W       "Business Ethics, the Place of Ethical Theory"**: 
 **Oct-7   F       "Discussion"**:  
-**Oct-10  M       "Competitive Markets, Ideal of Capitalism"**:   
-Oct-12  W       "Competitive Markets, Corporate Responsibility"
-Oct-14  F       "Discussion"
-Oct-17  M       "Economic Justice, Executive Compensation"
-Oct-19  W       "Economic Justice, Just Access to Health Care"
-Oct-21  F       "Discussion"
-Oct-24  M       "Universal Norms"
-Oct-26  W       "Universal Norms"
-Oct-28  F       "Discussion"
-Oct-31  M       "Information"
-Nov-2   W       "Information"
-Nov-4   F       "Discussion"
-Nov-7   M       "Incentives and Influence"
-Nov-9   W       "Incentives and Influence"
-Nov-11  F       "Discussion"
-Nov-14  M       "Employee Rights"
-Nov-16  W       "Employee Rights"
-Nov-18  F       "Discussion"
-Nov-21  M       "Safety, Risk, Harm"
-Nov-23  W       "Safety, Risk, Harm"
-Nov-25  F       "Creating Moral Organizations"
-Nov-28  M       "“Environmental Ethics and Business”"
-Nov-30  W       Thanksgiving Break - No class
-Dec-2   F       Thanksgiving Break - No class
-Dec-5   M       Film viewing and discussion
-Dec-7   W       Film viewing and discussion
-Dec-9   F       Last day UK
-Dec-12  M       Final Exams
-Dec-18  F       Grades Due UK
+**Oct-10  M       "Competitive Markets, Ideal of Capitalism"**:    
+**Oct-12  W       "Competitive Markets, Corporate Responsibility"**:  
+**Oct-14  F       "Discussion"**:   
+**Oct-17  M       "Economic Justice, Executive Compensation"**:    
+**Oct-19  W       "Economic Justice, Just Access to Health Care"**:  
+**Oct-21  F       "Discussion"**  
+**Oct-24  M       "Universal Norms"**  
+**Oct-26  W       "Universal Norms"**  
+**Oct-28  F       "Discussion"**  
+**Oct-31  M       "Information"**  
+**Nov-2   W       "Information"**  
+**Nov-4   F       "Discussion"**  
+**Nov-7   M       "Incentives and Influence"**  
+**Nov-9   W       "Incentives and Influence"**  
+**Nov-11  F       "Discussion"**  
+**Nov-14  M       "Employee Rights"**  
+**Nov-16  W       "Employee Rights"**  
+**Nov-18  F       "Discussion"**  
+**Nov-21  M       "Safety, Risk, Harm"**  
+**Nov-23  W       "Safety, Risk, Harm"**  
+**Nov-25  F       "Creating Moral Organizations"**  
+**Nov-28  M       “Environmental Ethics and Business”**  
+**Nov-30  W       Thanksgiving Break - No class**  
+**Dec-2   F       Thanksgiving Break - No class**  
+**Dec-5   M       Film viewing and discussion**  
+**Dec-7   W       Film viewing and discussion**  
+**Dec-9   F       Last day UK**  
+**Dec-12  M       Final Exams**  
+**Dec-18  F       Grades Due UK**  

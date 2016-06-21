@@ -4,13 +4,25 @@ title: 305 Syllabus Spring 2016
 
 ---
 
-### [305 Syllabus, Spring 2016](/syllabus S2016 305 health care.pdf)
+**[305 Syllabus, Spring 2016](/syllabus S2016 305 health care.pdf)**
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  
 **Office Hours**: Wed 11am-12pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
+
+### Readings
+
+**Required Textbook:** [Pierce and Randels, *Contemporary Bioethics.*](http://amzn.to/1QJ76Fx) Oxford, 2010. First Edition. (Should be less than $100 new, $60 used, $20 rent).
+
+**Handouts:** (All posted online)
+
+1. [Plato, Apology.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/)
+2. [Peter Kreeft, Truth.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp)
+3. [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
+4. Midwifery in the US.
+
 
 ### Course Description: 
 
@@ -212,16 +224,6 @@ Your grade for the class will depend on your performance in each component, plus
 | Unit Papers (pass/fail) |  30% |
 
 
-### Readings
-
-**Required Textbook:** [Pierce and Randels, *Contemporary Bioethics.*](http://amzn.to/1QJ76Fx) Oxford, 2010. First Edition. (Should be less than $100 new, $60 used, $20 rent).
-
-**Handouts:** (All posted online)
-
-1. [Plato, Apology.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/)
-2. [Peter Kreeft, Truth.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp)
-3. [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
-4. Midwifery in the US.
 
 ### Reading Tips
 

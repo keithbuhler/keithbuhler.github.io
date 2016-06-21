@@ -4,8 +4,7 @@ title: Philosophy of C. S. Lewis (PHL 251) Fall 2016
 
 ---
 
-## [PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)
-
+**[PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)**
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith\_buhler  

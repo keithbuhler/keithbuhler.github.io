@@ -5,24 +5,24 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
-I have been teaching at the high school or college level for fifteen years, including three years as Master Tutor or Director of High School at classical academies. At universities, I have taught eight different courses: 
+Over the last four years, I have taught eight courses at the University of Kentucky and at Asbury University.: 
 
 ### Course Syllabi
 F2016 Business Ethics ([Syllabus](/syllabus334))  
 F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-S2016 Philosophy of Religion ([Syllabus](/syllabus545))
-S2016 Wisdom and Virtue  ([Syllabus](/syllabus S2015 293 wisdom))  
+S2016 Philosophy of Religion    
+S2016 Wisdom and Virtue  ([Syllabus](/syllabus S2015 293 wisdom))   
 S2016 Health Care Ethics ([Syllabus](/syllabus S2016 305 health care))    
-F2015 Health Care Ethics ([Syllabus](/syllabus S2016 305 health care))       
+F2015 Health Care Ethics          
 S2015 Introduction to Philosophy ([Syllabus](/syllabus200))   
-F2014 Introduction to Philosophy ([Syllabus](/syllabus200))    
+F2014 Introduction to Philosophy   
 F2013 Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 S2013 Introduction to Logic   
 
-You can see a complete list of courses taught on my [CV](/Buhler-CV.pdf). 
+I have been teaching at the high school or college level for fifteen years. In secondary schools, I served as Master Tutor for two years and Director of High School Studies for one year. You can see a complete list of courses taught on my [CV](/Buhler-CV.pdf). 
 
 ### Official Student Evaluation Stats
-+  3.7 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)
++  3.6 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)
 +  3.5 out of 4, cumulative average in overall course quality
  
 ### Student Feedback Highlights ###
