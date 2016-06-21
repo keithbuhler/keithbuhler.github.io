@@ -12,7 +12,7 @@ body {
     margin: 100px auto;
     width: 75%;
     background-color: white;
-    background-image: url("http://media.moddb.com/images/games/1/45/44051/cropped-Space-Art-Header.jpg");
+    background-image: url("https://stormideaswus.blob.core.windows.net/headerjunction/2014/91/58e2c9c9-917c-487b-8aa2-b205be7a76a9.jpg");
     background-repeat: no-repeat;
     background-position: top;
 }
@@ -152,7 +152,7 @@ ul.posts li {
 
 .page-content {
   padding: 30px 0;
-  background-color: #ffffff;
+  background-color: white;
 }
 
 /* Page Content styles */
@@ -222,7 +222,7 @@ ul.posts li {
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
-  background-color: #eef;
+  background-color: white;
   padding: 8px 1px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
