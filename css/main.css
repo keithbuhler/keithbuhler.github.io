@@ -3,15 +3,14 @@
 html, body { height: 100%; }
 
 
-
 body {
     color: #333;
     font-family: "Times New Roman", Times, serif;
     font-size: 1.75;
     line-height: 1.5em;
     font-weight: 300;
-    background: #fdfdfd;
-    margin: 150px auto;
+    background: #ffffff;
+    margin: 50px auto;
     width: 75%;
     background-image: url("tm");
     background-repeat: no-repeat;
@@ -28,20 +27,11 @@ nav ul, header ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.2em;
-    padding: 2px;
-    background-color: #AA8439;
+    background-color: #000066;
+    font-color: ffffff;
   }
 
 
-nav ul, header ul {
-    font-family: "Times New Roman", Times, serif;
-    padding: 2px;
-    list-style: none;
-    font-weight: bold;
-    font-size: 1.4em;
-    color: #AA8439;
-
-}
 
 nav ul li, footer ul li {
     font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
