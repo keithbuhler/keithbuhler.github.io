@@ -39,11 +39,10 @@ I have been teaching at the high school or college level for fifteen years. The 
 
 ### Philosophy resources ###
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Athens_Plato_Academy_Archaeological_Site_2.jpg/1920px-Athens_Plato_Academy_Archaeological_Site_2.jpg" alt="plato's academy" align="right" hspace="10">
-
 * [Students, please visit my student portal for philosophy resources.](/philosophy) 
 * [Teaching statement](/teaching-statement)
 * [How to write a philosophical disputation](/disputations)
 
-[^1]: Costa ML, Van Rensburg L, Rushton N. Does teaching style matter? A randomised trial of group discussion versus lectures in orthopaedic undergraduate teaching. Medical education. 2007 Feb 1;41(2):214-7.
  
+The archeological site of Plato's Academy: 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Athens_Plato_Academy_Archaeological_Site_2.jpg/1920px-Athens_Plato_Academy_Archaeological_Site_2.jpg" alt="plato's academy" width="500" height="500" align="center" hspace="10">

@@ -74,8 +74,8 @@ h5 {
 }
 
 p {
-    font-size: 1.5;
-    line-height: 1.5;
+    font-size: 14px;
+    line-height: 1.8;
     color: #080D19;
 }
 
@@ -207,11 +207,11 @@ ul.posts li {
 .post code {
   border: 1px solid #d5d5e9;
   background-color: #eef;
-  padding: 8px 12px;
+  padding: 8px 1px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .post code { padding: 1px 5px; }
