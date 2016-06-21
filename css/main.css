@@ -17,17 +17,20 @@ body {
 
 
 nav ul, header ul {
-    font-family:'Garamond', 'Garamond', 'Baskerville';
+    font-family: "Times New Roman", Times, serif;
     padding: 2px;
     width: 750px;
     margin: 0 auto;
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
+    border-top: 4px solid #d5d5d5;
+    border-bottom: 4px solid #d5d5d5;
+    border-style: solid;
 }
 
 nav ul, header ul {
-    font-family:'Garamond', 'Garamond', 'Baskerville';
+    font-family: "Times New Roman", Times, serif;
     padding: 2px;
     list-style: none;
     font-weight: bold;
@@ -133,6 +136,7 @@ margin: 0 auto;
 footer {
     border-top: 4px solid #d5d5d5;
     font-size: 1em;
+    border-style: solid;
 }
 
 ul.posts { 
@@ -159,6 +163,8 @@ ul.posts li {
 /* Post styles */
 
 .post-header { margin: 10px 0 30px; }
+
+
 
 .post-header h1 {
   font-size: 42px;
