@@ -28,6 +28,9 @@ nav ul, header ul {
     border-bottom: 2px solid #d5d5d5;
     border-left: 2px solid #d5d5d5;
     border-right: 2px solid #d5d5d5;
+    padding-left: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 nav ul, header ul {
