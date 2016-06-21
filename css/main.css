@@ -28,7 +28,7 @@ nav ul, header ul {
     font-weight: bold;
     font-size: 1.2em;
     background-color: #000066;
-    font-color: ffffff;
+    padding: 2px;
   }
 
 
@@ -119,7 +119,7 @@ margin: 0 auto;
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
-  margin-left: 20px;
+  margin-left: 10px;
   color: #727272;
   letter-spacing: -.5px;
 }
