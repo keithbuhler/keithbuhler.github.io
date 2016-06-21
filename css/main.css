@@ -24,9 +24,10 @@ nav ul, header ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
-    border-top: 4px solid #d5d5d5;
-    border-bottom: 4px solid #d5d5d5;
-    border-style: solid;
+    border-top: 2px solid #d5d5d5;
+    border-bottom: 2px solid #d5d5d5;
+    border-left: 2px solid #d5d5d5;
+    border-right: 2px solid #d5d5d5;
 }
 
 nav ul, header ul {
@@ -136,7 +137,6 @@ margin: 0 auto;
 footer {
     border-top: 4px solid #d5d5d5;
     font-size: 1em;
-    border-style: solid;
 }
 
 ul.posts { 
