@@ -7,10 +7,10 @@ html, body { height: 100%; }
 
 body {
     font-family: "Times New Roman", Times, serif;
-    font-size: 16px;
-    line-height: 2;
+    font-size: 18px;
+    line-height: 1.6;
     font-weight: 300;
-    margin: 200px auto;
+    margin: 100px auto;
     width: 60%;
     background-color: #ffffff;
 }
