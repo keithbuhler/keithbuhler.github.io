@@ -4,33 +4,32 @@ html, body { height: 100%; }
 
 
 
-
 body {
     font-family: "Times New Roman", Times, serif;
     font-size: 17px;
     line-height: 1.6;
     font-weight: 300;
-    margin: 100px auto;
+    margin: 90px auto;
     width: 60%;
-    background-color: #ffffff;
+    background-color: white;
+    background-image: url("https://c1.staticflickr.com/7/6133/5965501646_52f7f63752_b.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
+
+
 
 
 nav ul, header ul {
     font-family: "Times New Roman", Times, serif;
-    padding: 2px;
     width: 750px;
     margin: 0 auto;
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
-    border-top: 2px solid #d5d5d5;
     border-bottom: 2px solid #d5d5d5;
-    border-left: 2px solid #d5d5d5;
-    border-right: 2px solid #d5d5d5;
-    padding-left: 25px;
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding: 12px;
 }
 
 nav ul, header ul {
