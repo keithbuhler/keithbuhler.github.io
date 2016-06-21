@@ -5,13 +5,14 @@ html, body { height: 100%; }
 
 
 body {
+    color: #333;
     font-family: "Times New Roman", Times, serif;
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 1.75;
+    line-height: 1.5em;
     font-weight: 300;
-    margin: 200px auto;
-    width: 50%;
-    background-color: white;
+    background: #fdfdfd;
+    margin: 150px auto;
+    width: 75%;
     background-image: url("tm");
     background-repeat: no-repeat;
     background-position: top;
@@ -28,13 +29,10 @@ nav ul, header ul {
     font-weight: bold;
     font-size: 1.2em;
     padding: 2px;
+    background-color: #008B8B;
+    color: #fffff0;
   }
 
-/* Bar Color */
-#nav, #nav-inner, .nav-list, .nav-list-item a {
-background-color: #008B8B;
-color: #fffff0;
-}
 
 nav ul, header ul {
     font-family: "Times New Roman", Times, serif;
