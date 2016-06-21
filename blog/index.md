@@ -4,9 +4,9 @@ title: Buhler Report
 
 --- 
 
-<center>
-
 # Welcome to...
+
+<center>
 
 <img src="/img/TheBuhlerReport1.png" align="center">
 

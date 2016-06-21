@@ -29,6 +29,7 @@ This site is a somewhat random collection of fun things. Some are complete, othe
 * [Twitter](https://twitter.com/Keith_Buhler) 
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q)
 * [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
+* [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com)
 
 ## In Development ##
 
@@ -36,7 +37,7 @@ This site is a somewhat random collection of fun things. Some are complete, othe
 * [162 Hours, a time management tool](http://keithbuhler.com/goals/)
 * [80 year lifetimes, a fun way to think about History](https://docs.google.com/spreadsheets/d/1ZitnTtYNZLmUsKcQ0vu_cdzm_Plj5nupiyDrJEn4VV0/edit#gid=0)
 * [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
-* [My new (empty) blog](/blog)
+* [The Buhler Report](/blog)
 * [Writing tools](/writing-tools)
 * [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/speaking)
 * [Star Wars - When R2-D2 Saves the Galaxy](/R2-D2-Saves-the-Galaxy)
@@ -44,5 +45,4 @@ This site is a somewhat random collection of fun things. Some are complete, othe
 * Classical Education
 * Attention Span Project -- how long is your attention span?
 * Philosophy with Heart
-* Advice to Philosophers
 * Philosophy is Science 

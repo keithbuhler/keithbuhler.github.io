@@ -1,17 +1,14 @@
 ---
 layout: default
-
-
 --- 
 
 ### [KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf)
 
-|                              | 
-|------------------------------|-----------------------------------------|
-| University of Kentucky       |                              |
+|                    |   |------------------------------|-----------------------------------------|
+| University of Kentucky       | Home                             |
 | Department of Philosophy     | 562.230.2920                            |
-| 1415 Patterson Office Tower, Lexington, KY 40506        | 305 Woodspointe Way, Wilmore, KY, 40390 |
-| [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu) | keithedbuhler@gmail.com
+| 1415 Patterson Office Tower, Lexington, KY.        | 305 Woodspointe Way, Wilmore, KY. |
+| [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu) | [keithedbuhler@gmail.com](emailto:keithedbuhler@gmail.com)
 
 
 
@@ -34,7 +31,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 ### CONFERENCE PRESENTATIONS
 
 2016 &nbsp;&nbsp; "The Cosmic Question": Teleology without Theology in Thomas Nagel's *Mind and Cosmos*, Society of Christian Philosophers,  San Diego, CA.   
-2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Analyzing the Empty Hero in Kung Fu Panda and Great and Powerful Oz”, Faith and Film Conference, Baylor University, TX.       
+2014 &nbsp;&nbsp;   “Nihilistic Fairy Tales: Analyzing the Empty Hero in Kung Fu Panda and Great and Powerful Oz”, Faith & Film Conference, Baylor University, TX.       
 2014 &nbsp;&nbsp;  “Is the Cosmos Causally Closed? Inductive Arguments Can't Show It,” Oxford University, Ian Ramsey Center, St. Anne’s College.  
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC; and Midsouth Philosophy Conference, MI.  
@@ -61,7 +58,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 ### Asbury University 
 2016 &nbsp;&nbsp; Philosophy of Religion (upper division, summer course)    
 2016 &nbsp;&nbsp; Philosophy of C.S. Lewis  (upper division)  
-2016 &nbsp;&nbsp; Wisdom and Virtue    (upper division seminar)  
+2016 &nbsp;&nbsp; Wisdom & Virtue    (upper division seminar)  
 2014-2016 &nbsp;&nbsp; Introduction to Philosophy   
 
 ### Biola University
@@ -74,7 +71,10 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2009-2010 &nbsp;&nbsp; Aristotelian Logic   
 2009-2012 &nbsp;&nbsp; Western Civilization: American Thought    
 2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought   
-2007-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+2007-2012 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+
+### Veritas Academy
+2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
 ### OTHER LEADERSHIP AND TEACHING POSITIONS 
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy     
