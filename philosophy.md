@@ -6,38 +6,18 @@ title: Philosophy Portal
 
 ## Philosophy Portal ##
 
-#### Be Glad You're Studying Philosophy
-[Studying philosophy is a very good idea.](/philosophy-major) It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
+#### [Studying Philosophy is a Very Good Idea](/philosophy-major)
+It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
 <img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
 
-#### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
-* Yes, because [a philosophy degree can help you find a good job, earn higher salary than business degree, and answers to life's deepest questions](/philosophy-major)
-* Yes, because [(almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com)
-
 #### I Just Joined Your Class; What Should I Do? ####
-* Take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
-* Have your mind blown: Open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 * Send me an email introducing yourself!
+* Then, take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
+* If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 
-#### I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
-* Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it!
-* If you want a more rigorous version of the same, read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/). 
-
-#### How Do I Get Better at Discussion? ####
-* [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed +200,000 times)
-* [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
-* Practice, practice, practice!   
-
-#### How Do I Get Better at Reading Philosophy? 
-* [Do an "Intentional Reading Project"](http://www.readingintentionally.com/p/building-your-list.html)
-* [Learn how to read philosophy](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
-* Read slowly, read over and over, think, and discuss.
-
-#### How Do I Get Better at Writing Philosophy Papers? ####
-* Learn to [argue well.](/logic)
-* The [disputation](/philosophy-tips) format works well for my classes.
-* But in general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1)
+#### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
+* Yes. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major)
 
 #### I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
@@ -47,6 +27,25 @@ title: Philosophy Portal
 * [Dosteyevsky, *Brothers Karamasov*](http://www.gutenberg.org/files/28054/28054-h/28054-h.html)
 * [Thomas Nagel, *What Does it All Mean*?](http://sjmse-library.sch.ng/E-Books%20Phil/WHAT%20DOES%20IT%20ALL%20MEAN_.pdf)
 * [JP Moreland, *The God Question*](https://books.google.com/books?id=o7dGOrvdojUC&pg=PA4&lpg=PA4&dq=the+god+question+moreland&source=bl&ots=wraAQEf13U&sig=U3Ci1yLS92sc7YoM1gCWIgNVKTA&hl=en&sa=X&ved=0ahUKEwj-k_X1jP_JAhVGy2MKHU6bBiMQ6AEISzAG#v=onepage&q=the%20god%20question%20moreland&f=false)
+
+
+#### I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
+* Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it! (If you want a more rigorous version of the same, read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/).) 
+
+#### How Do I Get Better at Discussion? ####
+* Practice, practice, practice!   
+* [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed almost +300,000 times)
+* Read [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
+
+#### How Do I Get Better at Reading Philosophy? 
+* Read slowly, read over and over, and think about what you've read.
+* [Try an "Intentional Reading Project"](http://www.readingintentionally.com/p/building-your-list.html)
+* Read ["how to read philosophy"](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
+
+#### How Do I Get Better at Writing Philosophy Papers? ####
+* Learn to [argue well.](/logic)
+* The [disputation](/disputation) format works well for my classes.
+* But in general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1)
 
 
 #### No, Seriously, I *Really* Like Philosophy; What Should I Do? ####

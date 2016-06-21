@@ -4,7 +4,7 @@ title: Philosophy of C. S. Lewis (PHL 251) Fall 2016
 
 ---
 
-**[PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)**
+**[PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith\_buhler  
@@ -16,18 +16,8 @@ title: Philosophy of C. S. Lewis (PHL 251) Fall 2016
 -   [*The Four Loves*. ISBN: 978-0156329309.](http://amzn.to/1RAw4Tj)
 -   [*Perelandra*. ISBN: 978-0743234917](http://amzn.to/1RAw71E)
 -   [*Experiment in Criticism. ISBN:978-1107604728*](http://amzn.to/1MEYb78)
--   [*C. S. Lewis Signature Classics*. ISBN:  978-0060653026.](http://amzn.to/1TlVPvm), which contains several books you may purchase individually or in this set:
-    -    *Mere Christianity*
-    -    *Problem of Pain*
-    -    *Abolition of Man*
-    -    *Miracles*
-    -    *Great Divorce*. 
-
-Other readings are available on Discovery.
-
-  - ["Meditations on a Toolshed", CS Lewis](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg)
-  - "Weight of Glory", CS Lewis
-  - ["Is Truth Objective?", Peter Kreeft](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
+-   [*C. S. Lewis Signature Classics*. ISBN:  978-0060653026.](http://amzn.to/1TlVPvm), which contains several books you may purchase individually or in this set: (*Mere Christianity*, *Problem of Pain*, *Abolition of Man*, *Miracles*, *Great Divorce*).
+-   Other readings are available on Discovery: ["Meditations on a Toolshed", CS Lewis](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg); "Weight of Glory", CS Lewis, ["Is Truth Objective?", Peter Kreeft](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
    
 
 ### Course Description and Learning Outcomes
@@ -62,7 +52,7 @@ To accomplish these goals, each 2 week unit will consist of readings from Lewis 
 
 ### Grading:
 
-The class work consists of four components: reading, participating, and
+The class work consists of three components: reading, participating, and
 writing. You will be graded on each component.
 
 
@@ -115,7 +105,7 @@ Roll will be taken each class by marking a 3x5 card.  You may check your absence
 
 ### Participation through dialogue/writing:
 
-**Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
+The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
 We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
 

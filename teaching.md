@@ -5,7 +5,7 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
-Over the last four years, I have taught eight courses at the University of Kentucky and at Asbury University.: 
+Over the last four years, I have taught eight courses at the University of Kentucky and at Asbury University: 
 
 ### Course Syllabi
 F2016 Business Ethics ([Syllabus](/syllabus334))  
