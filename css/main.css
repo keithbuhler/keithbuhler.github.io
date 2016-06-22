@@ -30,9 +30,13 @@ max-width:33em;
 
 /* links*/
 
-a {color: #1e73e1; text-decoration: none;}
-a:hover {text-decoration: underline; text-color:#06215E;}
-a:visited { color: #205caa; }
+a{ color: #205caa; text-decoration:none;}
+a:visited{ color: navy; }
+a:hover{ color: navy; }
+a:active{ color:#0645ad; }
+a:focus{ outline: thin dotted; }
+a:hover, a:active{ outline: 0; }
+
 
 
 /* Headings*/

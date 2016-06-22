@@ -12,6 +12,6 @@ title: Buhler... Anyone?
 
 <p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/img/seal-biola.png" alt="Biola" height="50" width="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/img/seal-uk.png" alt="Kentucky" height="50" width="50">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/img/seal-biola.png" alt="Biola" height="50" width="50"> &nbsp;&nbsp; <img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50"> &nbsp;&nbsp; <img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50">  &nbsp;&nbsp; <img src="/img/seal-uk.png" alt="Kentucky" height="50" width="50">
 
 </p>
