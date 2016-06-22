@@ -24,44 +24,13 @@ body {
 
 /* Site header */ 
 
-ul li, header ul {
+ul li {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: white;
 }
-
-li {
-    float: center;
-}
-
-li a {
-    display: block;
-    color: #6699cc;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-
-/* Change the link color to #cc6600 (orange) on hover */
-li a:hover {
-    background-color: orange;
-}
-
-li a:hover:not(.active) {
-    background-color: orange;
-}
-
-.active {
-    background-color: #cc6600;
-
-.site-nav {
-  float: center;
-  line-height: 56px;
-}
-
 
 /* Site footer */ 
 
