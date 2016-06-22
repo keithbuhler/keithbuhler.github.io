@@ -1,7 +1,9 @@
 /* Base */
+/* ----------------------------------------------------------*/
 
 html, body { height: 100%; }
 
+/* body */ 
 
 body {
     color: #333;
@@ -17,112 +19,29 @@ body {
     background-position: top;
 }
 
-/* Utility */
-
-
-/* Layout styles */
-
-/* Site header */ 
-
-nav ul, header ul {
-    font-family: "Helvetica", Arial, sans-serif;
-    width: 750px;
-    margin: 0 auto;
-    list-style: none;
-    font-weight: bold;
-    font-size: 1.5em;
-    padding: 0px;
-    border-bottom: 4px solid #d5d5d5;
-    min-height: 56px;
-    background-color: white;
-}
-
-
-.site-title,
-.site-title:hover,
-.site-title:visited {
-  display: block;
-  color: #333;
-  font-size: 26px;
-  letter-spacing: -1px;
-  float: left;
-  line-height: 56px;
-  position: relative;
-  z-index: 1;
-}
-
-.site-nav {
-  float: center;
-  line-height: 56px;
-}
-
-.site-nav .menu-icon { display: none; }
-
-.site-nav .page-link {
-  margin-left: 10px;
-  color: #727272;
-  letter-spacing: -.5px;
-}
-
-/* Site footer */ 
-
-
-nav ul li, footer ul li {
-    font-family: Helvetica, Arial, sans-serif; 
-    display: inline;
-    margin-right: 20px;
-    margin-bottom: 15px;
-    width:150px;
-    text-align: left;
-}
+/* links*/
 
 a {color: #1e73e1; text-decoration: none;}
-
 a:hover {text-decoration: underline; text-color:#06215E;}
+a:visited { color: #205caa; }
 
 
-h1 {
-    font-size: 2em;
-    font-family: Helvetica, Arial, sans-serif;
-}
+/* Headings*/
 
-h2 {
-    font-size: 1.5em;
-    font-family: Helvetica, Arial, sans-serif;
-}
 
-h3 {
-    font-size: 1.25em;
-    font-family: Helvetica, Arial, sans-serif;
+h1 {font-size: 2em;}
+h2 {font-size: 1.5em;}
+h3 {font-size: 1.25em;}
+h4 {font-size: 1.1em;}
+h5 {font-size: 1em;}
+h5 {font-size: 1em;}
 
-h4 {font-size: 1.1em;
-    font-family: Helvetica, Arial, sans-serif;
-}
+/* Normal text*/
 
-h5 {
-    font-size: 1em;
-    font-family: Helvetica, Arial, sans-serif;
-}
+p {font-size: 16px; line-height: 1.8;color: #080D19;}
 
-h5 {
-    font-size: 1em;
-    font-family: Helvetica, Arial, sans-serif;
-}
 
-p {
-    font-size: 16px;
-    line-height: 1.8;
-    color: #080D19;
-}
-
-/* Site header */
-
-.site-header {
-  border-bottom: 3px solid #090D5B;
-  min-height: 56px;
-  background-color: white;
-}
-
+/* Lists */
 
 
 }
@@ -135,23 +54,39 @@ margin: 0 auto;
 
 
 
+/* Layout styles */
+
+/* ----------------------------------------------------------*/
 
 
+/* Site header */ 
+
+.site.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: 4CAF50;
 
 
+/* Site footer */ 
 
 
-
-
-/* Site footer */
-
-
-footer {
-    border-top: 4px solid #d5d5d5;
-    font-size: 1em;
-    width: 750px;
+nav ul li, footer ul li {
+    font-family: Helvetica, Arial, sans-serif; 
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align: left;
+    color: #6699cc;
+        border-top: 4px solid #d5d5d5;
 
 }
+
+
+/* Posts */ 
+
 
 ul.posts { 
     margin: 20px auto 40px; 
