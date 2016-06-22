@@ -26,15 +26,12 @@ body {
 
 nav header ul {
     font-family: "Garamond", Arial, sans-serif;
-    width: 30px;
-    margin: 0 auto;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #dddddd;
     border: 1px solid #d5d5d5;
-    position: fixed;
 }
 
 li {
