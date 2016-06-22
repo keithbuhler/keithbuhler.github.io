@@ -2,7 +2,6 @@
 
 html, body { height: 100%; }
 
-
 body {
     color: #333;
     font-family: Helvetica, Arial, sans-serif;
@@ -17,35 +16,43 @@ body {
     background-position: top;
 }
 
-<style>
-
 /* Utility */
-
 
 /* Layout styles */
 
 /* Site header */ 
 
+
+<head>
+<style>
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    color: black;
+    background-color: white;
 }
 
+li {
+    float: left;
+}
 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
 li a:hover:not(.active) {
-    background-color: gray;
+    background-color: #111;
 }
 
 .active {
-    background-color: #ff9933;
+    background-color: #4CAF50;
 }
-
-
-
 </style>
 </head>
 
@@ -102,13 +109,6 @@ p {
     color: #080D19;
 }
 
-/* Site header */
-
-.site-header {
-  border-bottom: 3px solid #090D5B;
-  min-height: 56px;
-  background-color: white;
-}
 
 
 
