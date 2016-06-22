@@ -26,14 +26,14 @@ body {
 
 nav ul, header ul {
     font-family: "Garamond", Arial, sans-serif;
-    width: 500px;
+    width: 30px;
     margin: 0 auto;
     list-style: none;
     font-weight: normal;
     font-size: 16px;
     padding: 1px;
     border: 1px solid #d5d5d5;
-    min-height: 56px;
+    min-height: 45px;
     background-color: #dddddd;
     position: fixed;
     height: 3%;
