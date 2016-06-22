@@ -2,6 +2,48 @@
 
 html, body { height: 100%; }
 
+<style>
+
+/* Utility */
+
+
+/* Layout styles */
+
+/* Site header */ 
+
+ul li, header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: gray;
+}
+
+.active {
+    background-color: orange;
+}
+
+
+
+</style>
+</head>
 
 body {
     color: #333;
@@ -15,21 +57,6 @@ body {
     background-image: url("tm");
     background-repeat: no-repeat;
     background-position: top;
-}
-
-/* Utility */
-
-
-/* Layout styles */
-
-/* Site header */ 
-
-ul li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: white;
 }
 
 /* Site footer */ 
@@ -110,7 +137,7 @@ margin: 0 auto;
 
 
 
-
+</body>
 
 /* Site footer */
 
