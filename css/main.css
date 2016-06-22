@@ -32,16 +32,29 @@ nav ul, header ul {
     font-weight: normal;
     font-size: 16px;
     padding: 0px;
-    border-bottom: 4px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
     min-height: 56px;
     background-color: #dddddd;
-    position: fixed;
+    position: top;
     height: 5%;
 }
 
 li {
     float: right;
 }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #727272;
+}
+
 
 .site-title,
 .site-title:hover,
