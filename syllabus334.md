@@ -43,9 +43,134 @@ The bottom line is always to think hard about hard questions, to discard wrong a
 2. [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 
 
-## Course Outline (short)
+## Course Outline
 
 *Each date tells you the reading due and the topic. Each date also includes detailed lecture notes because students asked for them to help prepare. Subject to minor changes due to weather, illness, etc. The online version is always up to date.*
+
+
+**Aug-24  W       Syllabus day.** Realistic expectations for this class. How to get an "A".     
+**Aug-26  F       Introduction to Business Ethics.** What is business ethics? What is an ethical business? Philosophy, in general, is a search for causes. Philosophers aim to prove what things are and why they are that way. Ethical philosophy is a search for the good. Ethicists aim to prove what ought to be done, and what avoided, and why. Science is the process of mapping the order of being; ethics is the process of mapping the ""practical order"", the order of doing.   
+**Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondance to reality. Other alleged definitions of truth presuppose the correspondance definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
+**Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism. He proves that the moral law is objective and knowable, like mathematical and logical laws. "   
+**Sep-2   F       "Basic Ethics: Religion & Reason:** Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
+**Sep-5   M       Labor Day -- no class**  
+**Sep-7   W       Basic Ethics: Utilitarianism.** John Stuart Mill and Jeremy Bentham resurrected a modern version of the ancient doctrine of Epicurus: that the only instrinsic good is pleasure. Hence, the one objective moral rule is that we ought to maximize pleasure. Make as many people happy as possible. Make everyone as happy as possible.  Alternately, reduce pain as much as possible.   
+**Sep-9   F       Discussion:** What is right about utilitarianism or consequentialism? What is wrong with it?
+**Sep-12  M       "Basic Ethics: Kantian Deontology.** Immanual Kant resurrected a modern version of the ancient doctrine of Stoicism: the only good is conformity to the moral law. The good will always wills the good. What is the good? Your duty. Always do your duty. How do you know your duty, what command or imperative should you obey?  Kant's ""imperative"" was a formal principle that should always be obeyed by rational creatures. It is categorical, not hypothetical. There are three expressions of his Categorical Imperative. Kantianism has come to be known as "deontology", the moral theory grounded in duty.  
+**Sep-14  W       "Basic Ethics: Deontology cont'd"**
+**Sep-16  F       "Discussion:** What is right about Kantianism? What is wrong?"
+**Sep-19  M       "Basic Ethics: Virtue Ethics:** Elizabeth Anscombe, Philippa Foot, Bernard Williams, and others resurrected a modern version of the ancient doctrine of Aristotle: that the good person is the virtuous person. Moral virtue is a mean between extremes of too much and too little,  while intellectual virtue is a consistency in knowing truth. "
+**Sep-21  W       "Basic Ethics: Virtue Ethics"**
+**Sep-23  F       "Review of Ethical Theories for Exam"** What is right about virtue ethics? What is wrong?"
+
+**Online Exam Quarter 1**
+
+**Sep-26  M       "Film: Inside Job Parts I-III.** The "Inside Job" documentary is about the 2008 housing crisis. Everyone felt the effects of this terrible financial meltdown. What caused it?  
+**Sep-28  W       "Film: Inside Job Parts I-IV"**: 
+**Sep-30  F       "Film: Inside Job Part V and discussion"**
+**Oct-3   M       "Business Ethics, Methods of Business Ethics"**:  
+**Oct-5   W       "Business Ethics, the Place of Ethical Theory"**: 
+**Oct-7   F       "Discussion"**:  
+**Oct-10  M       (76-96) Gaus, "Competitive Markets, Ideal of Capitalism" 1**: What is capitalism? Can capitalism be ethical? Can it be unethical?    
+**Oct-12  W       Gaus, "Competitive Markets, Ideal of Capitalism" 2**:    
+**Oct-14  F       "Discussion"**:   
+**Oct-17  M       "Economic Justice, Executive Compensation"**:    
+**Oct-19  W       "Economic Justice, Just Access to Health Care"**:  
+**Oct-21  F       "Discussion"**  
+**Oct-24  M       "Universal Norms"**  
+**Oct-26  W       "Universal Norms"**  
+**Oct-28  F       "Discussion"**  
+**Oct-31  M       "Information"**  
+**Nov-2   W       "Information"**  
+**Nov-4   F       "Discussion"**  
+**Nov-7   M       "Incentives and Influence"**  
+**Nov-9   W       "Incentives and Influence"**  
+**Nov-11  F       "Discussion"**  
+**Nov-14  M       "Employee Rights"**  
+**Nov-16  W       "Employee Rights"**  
+**Nov-18  F       "Discussion"**  
+**Nov-21  M       "Safety, Risk, Harm"**  
+**Nov-23  W       "Safety, Risk, Harm"**  
+**Nov-25  F       "Creating Moral Organizations"**  
+**Nov-28  M       “Environmental Ethics and Business”**  
+**Nov-30  W       Thanksgiving Break - No class**  
+**Dec-2   F       Thanksgiving Break - No class**  
+**Dec-5   M       Film viewing and discussion**  
+**Dec-7   W       Film viewing and discussion**  
+**Dec-9   F       Last day UK**  
+**Dec-12  M       Final Exams**  
+**Dec-18  F       Grades Due UK**  
+
+
+
+## Details
+
+**Structure**:  To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
+
+**Grading**: Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
+
+
+|  Assessment category  |  Percent of semester grade |
+| -----------------------| -----------------------|
+| Readings (quizzes) |         20%   |  
+| Participation (talk, write, present) |   20% |
+| Tests (midterm, final)         |  30% |
+| Unit Papers    |  30% |
+
+
+
+
+**Reading Tips:** Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips available online.
+
+**Quizzes:**Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
+
+**Attendance**: We need you here! Attendance is mandatory. Roll will be taken each class. (Repeated tardies count as absences.) 1 to 3 absences are "freebies" -- the first four are excused no matter what. No credit lost. After the 3rd absence, I will need an excuse or else points will be deducted. 4-7 absences cause major deductions to the semester grade; 8 is a full letter grade deduction. You are paying for this education including this class, so why wouldn’t you make the most of it?  
+
+**Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
+
+We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
+
+*You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
+
+Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) Other discussion ground rules are posted online. 
+
+To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal processors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+
+
+
+**Critical Reading**: Every student will present two group "critical readings." Your group of 2-3 people must meet ahead of time to read and discuss the assignment more thoroughly than your normal reading. You will then summarize the reading, analyze it, and present your own opinions. One or all of you will present your summary to the class. Instructions are posted online. 
+
+**Tests:** There is a Quarter 1 and Quarter 3 exams. The "Study Guide" with all the questions will be posted online. 
+
+**Unit Papers:** Every student will write about 5 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
+
+**Extra Credit:** Those who opt for extra credit may do so. Instructions are posted online. 
+
+
+### Miscellany:
+
+1. **Bring your textbook** to every class. 
+2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
+3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
+4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
+4.  **Laptop/tablet users:** You must request permission, and if approved, sit in the front row.
+5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
+6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
+7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
+8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Discovery “news”. Section related announcements will be made on Discovery “news” and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
+6. Disabilities can be accommodated if you are registered with the Disability Resource Center. See  http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
+7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
+8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](/ukplagiarism %).
+9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
+
+
+
+### Links to Readings of Interest
+
+[Coming soon]
+
+
+### Short outline
 
 W       Aug-24  Syllabus day  
 F       Aug-26  Introduction to Business Ethics  
@@ -115,124 +240,3 @@ F       Dec-9   Last day UK
 M       Dec-12  Finals Week UK 
 W       Dec-16  Paper Due by 11:59PM online.  
 F       Dec-18  Grades Due UK  
-
-##
-**Structure**:  To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
-
-**Grading**: Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
-
-
-|  Assessment category  |  Percent of semester grade |
-| -----------------------| -----------------------|
-| Readings (quizzes) |         20%   |  
-| Participation (talk, write, present) |   20% |
-| Tests (midterm, final)         |  30% |
-| Unit Papers    |  30% |
-
-
-
-
-**Reading Tips:** Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips available online.
-
-**Quizzes:**Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
-
-**Attendance**: We need you here! Attendance is mandatory. Roll will be taken each class. (Repeated tardies count as absences.) 1 to 3 absences are "freebies" -- the first four are excused no matter what. No credit lost. After the 3rd absence, I will need an excuse or else points will be deducted. 4-7 absences cause major deductions to the semester grade; 8 is a full letter grade deduction. You are paying for this education including this class, so why wouldn’t you make the most of it?  
-
-**Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
-
-We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
-
-*You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
-
-Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) Other discussion ground rules are posted online. 
-
-To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal processors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
-
-
-
-**Critical Reading**: Every student will present two group "critical readings." Your group of 2-3 people must meet ahead of time to read and discuss the assignment more thoroughly than your normal reading. You will then summarize the reading, analyze it, and present your own opinions. One or all of you will present your summary to the class. Instructions are posted online. 
-
-**Tests:** There is a Quarter 1 and Quarter 3 exams. The "Study Guide" with all the questions will be posted online. 
-
-**Unit Papers:** Every student will write about 5 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
-
-**Extra Credit:** Those who opt for extra credit may do so. Instructions are posted online. 
-
-
-### Miscellany:
-
-1. **Bring your textbook** to every class. 
-2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
-3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
-4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
-4.  **Laptop/tablet users:** You must request permission, and if approved, sit in the front row.
-5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
-6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
-7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
-8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Discovery “news”. Section related announcements will be made on Discovery “news” and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
-6. Disabilities can be accommodated if you are registered with the Disability Resource Center. See  http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
-7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
-8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](/ukplagiarism %).
-9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
-
-
-
-### Links to Readings of Interest
-
-[Coming soon]
-
-
-### Detailed Outline
-
-**Aug-24  W       Syllabus day.** Realistic expectations for this class. How to get an "A".     
-**Aug-26  F       Introduction to Business Ethics.** What is business ethics? What is an ethical business? Philosophy, in general, is a search for causes. Philosophers aim to prove what things are and why they are that way. Ethical philosophy is a search for the good. Ethicists aim to prove what ought to be done, and what avoided, and why. Science is the process of mapping the order of being; ethics is the process of mapping the ""practical order"", the order of doing.   
-**Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondance to reality. Other alleged definitions of truth presuppose the correspondance definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
-**Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism. He proves that the moral law is objective and knowable, like mathematical and logical laws. "   
-**Sep-2   F       "Basic Ethics: Religion & Reason:** Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
-**Sep-5   M       Labor Day -- no class**  
-**Sep-7   W       Basic Ethics: Utilitarianism.** John Stuart Mill and Jeremy Bentham resurrected a modern version of the ancient doctrine of Epicurus: that the only instrinsic good is pleasure. Hence, the one objective moral rule is that we ought to maximize pleasure. Make as many people happy as possible. Make everyone as happy as possible.  Alternately, reduce pain as much as possible.   
-**Sep-9   F       Discussion:** What is right about utilitarianism or consequentialism? What is wrong with it?
-**Sep-12  M       "Basic Ethics: Kantian Deontology.** Immanual Kant resurrected a modern version of the ancient doctrine of Stoicism: the only good is conformity to the moral law. The good will always wills the good. What is the good? Your duty. Always do your duty. How do you know your duty, what command or imperative should you obey?  Kant's ""imperative"" was a formal principle that should always be obeyed by rational creatures. It is categorical, not hypothetical. There are three expressions of his Categorical Imperative. Kantianism has come to be known as "deontology", the moral theory grounded in duty.  
-**Sep-14  W       "Basic Ethics: Deontology cont'd"**
-**Sep-16  F       "Discussion:** What is right about Kantianism? What is wrong?"
-**Sep-19  M       "Basic Ethics: Virtue Ethics:** Elizabeth Anscombe, Philippa Foot, Bernard Williams, and others resurrected a modern version of the ancient doctrine of Aristotle: that the good person is the virtuous person. Moral virtue is a mean between extremes of too much and too little,  while intellectual virtue is a consistency in knowing truth. "
-**Sep-21  W       "Basic Ethics: Virtue Ethics"**
-**Sep-23  F       "Review of Ethical Theories for Exam"** What is right about virtue ethics? What is wrong?"
-
-**Online Exam Quarter 1**
-
-**Sep-26  M       "Film: Inside Job Parts I-III.** The "Inside Job" documentary is about the 2008 housing crisis. Everyone felt the effects of this terrible financial meltdown. What caused it?  
-**Sep-28  W       "Film: Inside Job Parts I-IV"**: 
-**Sep-30  F       "Film: Inside Job Part V and discussion"**
-**Oct-3   M       "Business Ethics, Methods of Business Ethics"**:  
-**Oct-5   W       "Business Ethics, the Place of Ethical Theory"**: 
-**Oct-7   F       "Discussion"**:  
-**Oct-10  M       "Competitive Markets, Ideal of Capitalism"**:    
-**Oct-12  W       "Competitive Markets, Corporate Responsibility"**:  
-**Oct-14  F       "Discussion"**:   
-**Oct-17  M       "Economic Justice, Executive Compensation"**:    
-**Oct-19  W       "Economic Justice, Just Access to Health Care"**:  
-**Oct-21  F       "Discussion"**  
-**Oct-24  M       "Universal Norms"**  
-**Oct-26  W       "Universal Norms"**  
-**Oct-28  F       "Discussion"**  
-**Oct-31  M       "Information"**  
-**Nov-2   W       "Information"**  
-**Nov-4   F       "Discussion"**  
-**Nov-7   M       "Incentives and Influence"**  
-**Nov-9   W       "Incentives and Influence"**  
-**Nov-11  F       "Discussion"**  
-**Nov-14  M       "Employee Rights"**  
-**Nov-16  W       "Employee Rights"**  
-**Nov-18  F       "Discussion"**  
-**Nov-21  M       "Safety, Risk, Harm"**  
-**Nov-23  W       "Safety, Risk, Harm"**  
-**Nov-25  F       "Creating Moral Organizations"**  
-**Nov-28  M       “Environmental Ethics and Business”**  
-**Nov-30  W       Thanksgiving Break - No class**  
-**Dec-2   F       Thanksgiving Break - No class**  
-**Dec-5   M       Film viewing and discussion**  
-**Dec-7   W       Film viewing and discussion**  
-**Dec-9   F       Last day UK**  
-**Dec-12  M       Final Exams**  
-**Dec-18  F       Grades Due UK**  

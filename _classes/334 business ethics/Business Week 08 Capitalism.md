@@ -3,22 +3,28 @@ title: Capitalism
 layout: presentation
 ---
 
+
 <section><!--Begin Capitalism Intro-->
 <section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
 
+[American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
+
+
+
 # Business Ethics Week 08 Capitalism
 
-
-Who owns all the things? 
+*Who owns all the things?*
 
 </section> 
 <section>
 
-# Idea and Ideal of Capitalism
+# Gaus, "Idea and Ideal of Capitalism"
 
 
-* Business ethics and medical ethics
-* Private property, private businesses
+* Capitalism
+* Private property
+* Markets
+* Profit-maximizating firms
 * Context: *capitalism*
 
 </section>
@@ -29,13 +35,15 @@ Who owns all the things?
 
 Many who have taught business ethics in universities are uncomfortable with or opposed to capitalism in its present form. 
 
-Marxists
+Marxists are few in the U.S., but many in academia.
 
 </section>
 <section>        
 
 
-# What is "capitalism"?
+# 1. Capitalism
+
+## What is "capitalism"? 
 
 Google: "an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state."
 
@@ -70,7 +78,7 @@ Communism: "(in Marxist theory) a transitional social state between the overthro
 <section>        
  
 
-# Private Property
+# 2. Private Property
 
 Communism is the "positive abolition of private property" -- Marx. (75)
 
@@ -120,20 +128,20 @@ Bob owns some property P.
 
 
 
-#
+# 3. Markets
 
 </section>
 <section>        
 
 
-#
+# 4. Profit-maximizating firms
+
 
 </section>
 <section>        
+   
 
-
-
-# Pro / con 
+# Before you go
 
 Is capitalism justifiable? 
 
@@ -145,9 +153,7 @@ Is capitalism justifiable?
 
 
 </section>
-<section>        
-
-# Before you go
+<section>     
 
 * Questions?
 * Write a short response
@@ -159,8 +165,5 @@ Is capitalism justifiable?
 <section>        
 
 
-# Business Ethics Week 07 Place of Ethical Theory
 
-American flag with businesses: 
-http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg
 
