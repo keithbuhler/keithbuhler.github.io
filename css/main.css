@@ -35,8 +35,8 @@ max-width:33em;
 /* links*/
 
 a{ color: #205caa; text-decoration:none;}
-a:visited{ color: navy; }
-a:hover{ color: navy; }
+a:visited{ color: #cc6600; }
+a:hover{ color: #cc6600; }
 a:active{ color:#0645ad; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
@@ -93,7 +93,6 @@ header.site-header {
   left: 0px;
   background: white;
   height: 2em;
-  border-bottom: 2px navy;
   width: 100%;
 }
 
@@ -125,12 +124,14 @@ header.site-header .wrap {
 nav ul li, footer ul li {
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     display: inline;
-    margin-right: 20px;
-    margin-bottom: 15px;
     width:100%;
     text-align: left;
     color: #6699cc;
-    border-top: 4px solid #d5d5d5;
+    border-bottom: 3px solid #cc6600;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: white;
 
 }
 
