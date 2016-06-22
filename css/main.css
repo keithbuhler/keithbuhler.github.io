@@ -26,17 +26,17 @@ body {
 
 nav ul, header ul {
     font-family: "Helvetica", Arial, sans-serif;
-    width: 750px;
+    width: 100%;
     margin: 0 auto;
     list-style: none;
     font-weight: normal;
     font-size: 16px;
-    padding: 0px;
-    border-bottom: 1px solid #d5d5d5;
+    padding: 1px;
+    border: 1px solid #d5d5d5;
     min-height: 56px;
     background-color: #dddddd;
-    position: top;
-    height: 5%;
+    position: fixed;
+    height: 3%;
 }
 
 li {
@@ -90,7 +90,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     margin-bottom: 15px;
-    width:150px;
+    width:100%;
     text-align: left;
     color: #6699cc;
 }
