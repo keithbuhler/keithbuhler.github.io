@@ -93,7 +93,7 @@ header.site-header {
   left: 0px;
   background: white;
   height: 2em;
-  border-bottom: 2px solid navy;
+  border-bottom: 2px navy;
   width: 100%;
 }
 
@@ -122,7 +122,17 @@ header.site-header .wrap {
 .site-nav .trigger a:hover{ color: teal; }
 .site-title:hover{ color: navy; }
 
+nav ul li, footer ul li {
+    font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align: left;
+    color: #6699cc;
+    border-top: 4px solid #d5d5d5;
 
+}
 
 
 
@@ -135,18 +145,6 @@ header.site-header .wrap {
 
 /* Site footer */ 
 
-
-nav ul li, footer ul li {
-    font-family: Helvetica, Arial, sans-serif; 
-    display: inline;
-    margin-right: 20px;
-    margin-bottom: 15px;
-    width:100%;
-    text-align: left;
-    color: #6699cc;
-        border-top: 4px solid #d5d5d5;
-
-}
 
 
 /* Posts */ 
