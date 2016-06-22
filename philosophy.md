@@ -9,8 +9,6 @@ title: Philosophy Portal
 #### [Studying Philosophy is a Very Good Idea](/philosophy-major)
 It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
-<img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
-
 #### I Just Joined Your Class; What Should I Do? ####
 * Send me an email introducing yourself!
 * Then, take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
@@ -18,6 +16,9 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
 * Yes. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major)
+
+<img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
+
 
 #### I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)

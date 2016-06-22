@@ -1,6 +1,9 @@
 /* Base */
+/* ----------------------------------------------------------*/
 
 html, body { height: 100%; }
+
+/* body */ 
 
 body {
     color: #333;
@@ -16,45 +19,54 @@ body {
     background-position: top;
 }
 
-/* Utility */
+/* links*/
+
+a {color: #1e73e1; text-decoration: none;}
+a:hover {text-decoration: underline; text-color:#06215E;}
+a:visited { color: #205caa; }
+
+
+/* Headings*/
+
+
+h1 {font-size: 2em;}
+h2 {font-size: 1.5em;}
+h3 {font-size: 1.25em;}
+h4 {font-size: 1.1em;}
+h5 {font-size: 1em;}
+h5 {font-size: 1em;}
+
+/* Normal text*/
+
+p {font-size: 16px; line-height: 1.8;color: #080D19;}
+
+
+/* Lists */
+
+
+}
+#container {
+width: 940px;
+margin: 0 auto;
+}
+
+
+
+
 
 /* Layout styles */
 
+/* ----------------------------------------------------------*/
+
+
 /* Site header */ 
 
-
-<head>
-<style>
-ul {
+.site.header {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    color: black;
-    background-color: white;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #111;
-}
-
-.active {
-    background-color: #4CAF50;
-}
-</style>
-</head>
+    background-color: 4CAF50;
 
 
 /* Site footer */ 
@@ -68,77 +80,13 @@ nav ul li, footer ul li {
     width:100%;
     text-align: left;
     color: #6699cc;
-}
-
-a {color: #1e73e1; text-decoration: none;}
-
-a:hover {text-decoration: underline; text-color:#06215E;}
-
-
-h1 {
-    font-size: 2em;
-    font-family: Helvetica, Arial, sans-serif;
-}
-
-h2 {
-    font-size: 1.5em;
-    font-family: Helvetica, Arial, sans-serif;
-}
-
-h3 {
-    font-size: 1.25em;
-    font-family: Helvetica, Arial, sans-serif;
-
-h4 {font-size: 1.1em;
-    font-family: Helvetica, Arial, sans-serif;
-}
-
-h5 {
-    font-size: 1em;
-    font-family: Helvetica, Arial, sans-serif;
-}
-
-h5 {
-    font-size: 1em;
-    font-family: Helvetica, Arial, sans-serif;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.8;
-    color: #080D19;
-}
-
-
-
+        border-top: 4px solid #d5d5d5;
 
 }
-#container {
-width: 940px;
-margin: 0 auto;
-}
 
 
+/* Posts */ 
 
-
-
-
-
-
-
-
-
-</body>
-
-/* Site footer */
-
-
-footer {
-    border-top: 4px solid #d5d5d5;
-    font-size: 1em;
-    width: 800px;
-
-}
 
 ul.posts { 
     margin: 20px auto 40px; 
