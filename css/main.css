@@ -86,6 +86,22 @@ header.site-header .wrap {
   padding-top: 0.2em;
 }
 
+.site-title,.site-title:visited {
+  display: inline;
+  color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Site footer */ 
 
