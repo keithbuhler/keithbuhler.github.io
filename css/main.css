@@ -92,6 +92,19 @@ header.site-header .wrap {
 }
 
 
+.site-nav {display: inline; }
+
+.site-nav .trigger {
+    display: inline;
+    float: right;
+    padding: 0 0.5em;
+    color: #333;
+}
+
+.site-nav .trigger a{ color: #333; }
+.site-nav .trigger a:hover{ color: teal; }
+.site-title:hover{ color: navy; }
+
 
 
 

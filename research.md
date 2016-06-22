@@ -6,7 +6,9 @@ title: Research
 
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
-I’m currently writing my [dissertation](/phd) on recent Neo-Aristotelian virtue ethics.
+I’m currently writing my [dissertation](/phd) on recent Neo-Aristotelian virtue ethics. 
+
+My other philosophical interests (in no particular order) include [Plato, hylomorphism, the imagination, physicalism, feminism, religion, and science.](https://uky.academia.edu/KeithBuhler) My non-philosophical interests include [clay sculpture](/art), YouTubing, and [composing lists of non-philosophical interests.](/)
 
 ### Dissertation abstract
 
@@ -22,6 +24,4 @@ In brief,  I argue that virtue is the excellence of rational practices and pract
 
 You can read more about my [dissertation progress](/phd) here. 
 
-### Other interests
 
-Besides these, other topics I am working on include [Plato, philosophy of religion, physicalism, philosophy of science, feminism and social justice issues, and the relation between philosophy and popular culture.](https://uky.academia.edu/KeithBuhler)
