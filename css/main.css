@@ -3,11 +3,28 @@
 html, body { height: 100%; }
 
 
+body {
+    color: #333;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 300;
+    background: #ffffff;
+    margin: 50px auto;
+    width: 60%;
+    background-image: url("tm");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+/* Utility */
+
+
 /* Layout styles */
 
 /* Site header */ 
 
-nav ul li, header ul li {
+ul li, header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -27,15 +44,14 @@ li a {
     text-decoration: none;
 }
 
-</style>
 
 /* Change the link color to #cc6600 (orange) on hover */
 li a:hover {
-    background-color: #cc6600;
+    background-color: orange;
 }
 
 li a:hover:not(.active) {
-    background-color: #111;
+    background-color: orange;
 }
 
 .active {
@@ -45,8 +61,6 @@ li a:hover:not(.active) {
   float: center;
   line-height: 56px;
 }
-
-
 
 
 /* Site footer */ 
