@@ -35,7 +35,7 @@ max-width:33em;
 /* links*/
 
 a{ color: #205caa; text-decoration:none;}
-a:visited{ color: #cc6600; }
+a:visited{ color: #0645ad; }
 a:hover{ color: #cc6600; }
 a:active{ color:#0645ad; }
 a:focus{ outline: thin dotted; }
@@ -124,14 +124,12 @@ header.site-header .wrap {
 nav ul li, footer ul li {
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     display: inline;
+    margin-right: 20px;
+    margin-bottom: 20px;
     width:100%;
     text-align: left;
     color: #6699cc;
-    border-bottom: 3px solid #cc6600;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    background: white;
+    border-bottom: 2px solid #cc6600;
 
 }
 
