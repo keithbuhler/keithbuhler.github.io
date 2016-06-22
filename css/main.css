@@ -3,40 +3,43 @@
 html, body { height: 100%; }
 
 
-body {
-    color: #333;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
-    font-weight: 300;
-    background: #ffffff;
-    margin: 50px auto;
-    width: 60%;
-    background-image: url("tm");
-    background-repeat: no-repeat;
-    background-position: top;
-}
-
-/* Utility */
-
-
 /* Layout styles */
 
 /* Site header */ 
 
-ul {
+nav ul li, header ul li {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: white;
 }
 
+li {
+    float: center;
+}
 
-/* Change the link color to #111 (black) on hover */
+li a {
+    display: block;
+    color: #6699cc;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+</style>
+
+/* Change the link color to #cc6600 (orange) on hover */
 li a:hover {
+    background-color: #cc6600;
+}
+
+li a:hover:not(.active) {
     background-color: #111;
 }
+
+.active {
+    background-color: #cc6600;
 
 .site-nav {
   float: center;
