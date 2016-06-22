@@ -1,14 +1,12 @@
-# circularreason.github.io
+# keithbuhler.github.io 
+
+This is my personal website. 
+
+I first tried to make a site on Web Zyro's automatic builder. It was not great. Then I tried Blogger. Google is great, efficient, simple, but ultimately I like more control over content and style. So Dan Sheffler (dansheffler.github.io) got me started installing Jekyll and using Sublime to make the website using Markdown files in my root folder. Over Christmas break 2015 I worked compulsively on making the content and organization the data. 
 
 This is my *seventh* try to create my personal website. 
 
-I made keithbuhler.com using Web Zyro's automatic site builder which was... not great. 
-
-I also started a couple of blogs using Blogger. Google is here, as in all things, efficient and simple. But ultimately I'd like more control over the blogs. 
-
-Thanks to dansheffler.github.io for the help installing Jekyll and using Sublime to make the website using Markdown files in my root folder. 
-
-This website is: 
+The site is: 
 
 * written in<a href="https://daringfireball.net/projects/markdown/syntax">Markdown </a> 
 * after instructions from [Dan Sheffler](http://www.dansheffler.com) got me started, then
