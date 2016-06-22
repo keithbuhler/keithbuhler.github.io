@@ -24,4 +24,4 @@ You can read more about my [dissertation progress](/phd) here.
 
 ### Other interests
 
-Besides these, other topics I am working on include [Plato, philosophy of religion, physicalism, philosophy of science, feminism and social justice issues, and the relation between philosophy and popular culture.](https://uky.academia.edu/KeithBuhler). 
+Besides these, other topics I am working on include [Plato, philosophy of religion, physicalism, philosophy of science, feminism and social justice issues, and the relation between philosophy and popular culture.](https://uky.academia.edu/KeithBuhler)

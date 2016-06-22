@@ -32,7 +32,7 @@ nav ul, header ul {
     font-weight: bold;
     font-size: 1.5em;
     padding: 0px;
-    border-bottom: 3px solid #090D5B; 
+    border-bottom: 4px solid #d5d5d5;
     min-height: 56px;
     background-color: white;
 }
