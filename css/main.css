@@ -24,19 +24,17 @@ body {
 
 /* Site header */ 
 
-nav ul, header ul {
+nav header ul {
     font-family: "Garamond", Arial, sans-serif;
     width: 30px;
     margin: 0 auto;
-    list-style: none;
-    font-weight: normal;
-    font-size: 16px;
-    padding: 1px;
-    border: 1px solid #d5d5d5;
-    min-height: 45px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: #dddddd;
+    border: 1px solid #d5d5d5;
     position: fixed;
-    height: 3%;
 }
 
 li {
