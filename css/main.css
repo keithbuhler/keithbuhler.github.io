@@ -93,10 +93,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     margin-bottom: 20px;
-    top: 0px;
-    left: 0px;
-    background: white;
-    height: 2em;
     width:100%;
     text-align: left;
     color: #6699cc;
@@ -105,6 +101,14 @@ nav ul li, footer ul li {
 }
 
 
+
+header.site-header {
+  top: 0px;
+  left: 0px;
+  background: white;
+  height: 2em;
+  width: 100%;
+}
 
 header.site-header .wrap {
   max-width: 33em;
