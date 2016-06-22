@@ -7,12 +7,12 @@ html, body { height: 100%; }
 
 body {
     color:#333;
-font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-font-size:1.75em;
-line-height:1.5em;
-background:#fdfdfd;
-text-rendering: optimizeLegibility;
--webkit-font-smoothing: antialiased;
+    font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    font-size:1.5em;
+    line-height:1.5em;
+    background:#fdfdfd;
+    text-rendering: optimizeLegibility; 
+    -webkit-font-smoothing: antialiased;
     background-image: url("tm");
     background-repeat: no-repeat;
     background-position: top;
@@ -70,12 +70,21 @@ margin: 0 auto;
 
 /* Site header */ 
 
-.site.header {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: 4CAF50;
+header.site-header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: white;
+  height: 2em;
+  border-bottom: 2px solid navy;
+  width: 100%;
+}
+
+header.site-header .wrap {
+  max-width: 33em;
+  margin: 0px auto;
+  padding-top: 0.2em;
+}
 
 
 /* Site footer */ 
