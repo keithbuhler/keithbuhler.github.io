@@ -1,87 +1,156 @@
+/* Base */
+
+html, body { height: 100%; }
+
+
 body {
-    margin: 60px auto;
-    width: 70%;
-    background-color: #fdfdfd;
+    color: #333;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
-    line-height: 1.5;
-
-
+    line-height: 1.5em;
+    font-weight: 300;
+    background: #ffffff;
+    margin: 50px auto;
+    width: 60%;
+    background-image: url("tm");
+    background-repeat: no-repeat;
+    background-position: top;
 }
+
+/* Utility */
+
+
+/* Layout styles */
+
+/* Site header */ 
+
 nav ul, header ul {
-    font-family:'Garamond', 'Garamond', 'Baskerville';
-    padding: 2px;
+    font-family: "Helvetica", Arial, sans-serif;
     width: 750px;
     margin: 0 auto;
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
+    padding: 0px;
+    border-bottom: 4px solid #d5d5d5;
+    min-height: 56px;
+    background-color: white;
 }
 
-nav ul, header ul {
-    font-family:'Garamond', 'Garamond', 'Baskerville';
-    padding: 2px;
-    list-style: none;
-    font-weight: bold;
-    font-size: 1.4em;
 
+.site-title,
+.site-title:hover,
+.site-title:visited {
+  display: block;
+  color: #333;
+  font-size: 26px;
+  letter-spacing: -1px;
+  float: left;
+  line-height: 56px;
+  position: relative;
+  z-index: 1;
 }
+
+.site-nav {
+  float: center;
+  line-height: 56px;
+}
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link {
+  margin-left: 10px;
+  color: #727272;
+  letter-spacing: -.5px;
+}
+
+/* Site footer */ 
+
+
 nav ul li, footer ul li {
+    font-family: Helvetica, Arial, sans-serif; 
     display: inline;
     margin-right: 20px;
+    margin-bottom: 15px;
     width:150px;
-    text-align: center;
+    text-align: left;
 }
+
 a {color: #1e73e1; text-decoration: none;}
 
-a:hover {text-decoration: underline; text-color:#185cb4;
-}
+a:hover {text-decoration: underline; text-color:#06215E;}
 
 
 h1 {
-    font-size: 2.5em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';
+    font-size: 2em;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h2 {
-    font-size: 2em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';
+    font-size: 1.5em;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h3 {
-    font-size: 1.5em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';
-
-h4 {
     font-size: 1.25em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';
-}
+    font-family: Helvetica, Arial, sans-serif;
 
-h5 {
-    font-size: 1.1em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';
+h4 {font-size: 1.1em;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h5 {
     font-size: 1em;
-    font-family:'Garamond', 'Garamond', 'Baskerville';
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h5 {
+    font-size: 1em;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 p {
-    font-size: 1.5;
-    line-height: 1.5;
-    color: #001233;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #080D19;
 }
 
+/* Site header */
+
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 3px solid #090D5B;
   min-height: 56px;
   background-color: white;
 }
 
+
+
+}
+#container {
+width: 940px;
+margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Site footer */
+
+
 footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    border-top: 4px solid #d5d5d5;
+    font-size: 1em;
+    width: 750px;
+
 }
 
 ul.posts { 
@@ -93,13 +162,23 @@ ul.posts li {
     list-style: none;
 }
 
+/* Page Content styles */
+
 
 .page-content {
   padding: 30px 0;
-  background-color: #ffffff;
+  background-color: white;
 }
 
+/* Page Content styles */
+
+
+
+/* Post styles */
+
 .post-header { margin: 10px 0 30px; }
+
+
 
 .post-header h1 {
   font-size: 42px;
@@ -109,12 +188,12 @@ ul.posts li {
 }
 
 .post-header .meta {
-  font-size: 15px;
+  font-size: 20px;
   color: #818181;
-  margin-top: 5px;
+  margin-top: 1px;
 }
 
-.post-content { margin: 0 0 30px; }
+.post-content { margin: 0 0 40px; }
 
 .post-content > * { margin: 20px 0; }
 
@@ -158,12 +237,12 @@ ul.posts li {
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
-  background-color: #eef;
-  padding: 8px 12px;
+  background-color: white;
+  padding: 8px 1px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .post code { padding: 1px 5px; }
@@ -172,3 +251,5 @@ ul.posts li {
 .post ol { margin-left: 1.35em; }
 
 .post pre code { border: none; }
+
+/* Post styles */

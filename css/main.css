@@ -29,8 +29,8 @@ nav ul, header ul {
     width: 750px;
     margin: 0 auto;
     list-style: none;
-    font-weight: bold;
-    font-size: 1.5em;
+    font-weight: normal;
+    font-size: 1em;
     padding: 0px;
     border-bottom: 4px solid #d5d5d5;
     min-height: 56px;
@@ -74,6 +74,7 @@ nav ul li, footer ul li {
     margin-bottom: 15px;
     width:150px;
     text-align: left;
+    color: #6699cc;
 }
 
 a {color: #1e73e1; text-decoration: none;}
@@ -149,6 +150,8 @@ margin: 0 auto;
 footer {
     border-top: 4px solid #d5d5d5;
     font-size: 1em;
+    width: 750px;
+
 }
 
 ul.posts { 
