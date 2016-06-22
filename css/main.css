@@ -34,9 +34,14 @@ nav ul, header ul {
     padding: 0px;
     border-bottom: 4px solid #d5d5d5;
     min-height: 56px;
-    background-color: white;
+    background-color: #dddddd;
+    position: fixed;
+    height: 100%;
 }
 
+li {
+    float: right;
+}
 
 .site-title,
 .site-title:hover,
