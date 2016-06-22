@@ -2,6 +2,21 @@
 
 html, body { height: 100%; }
 
+
+body {
+    color: #333;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 300;
+    background: #ffffff;
+    margin: 50px auto;
+    width: 60%;
+    background-image: url("tm");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
 <style>
 
 /* Utility */
@@ -16,7 +31,7 @@ ul li, header ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: black;
 }
 
 
@@ -45,19 +60,6 @@ li a:hover:not(.active) {
 </style>
 </head>
 
-body {
-    color: #333;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
-    font-weight: 300;
-    background: #ffffff;
-    margin: 50px auto;
-    width: 60%;
-    background-image: url("tm");
-    background-repeat: no-repeat;
-    background-position: top;
-}
 
 /* Site footer */ 
 
