@@ -5,10 +5,7 @@ layout: default
 ### [KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf)
 
 |------------------------------|------------------------------------------|
-| University of Kentucky       | Department of Philosophy |
-| 1415 Patterson Office Tower  | Lexington, KY, 40506                |
-| [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu) |   |
-|[  305 Woodspointe Way, Wilmore, KY, 40390. keithedbuhler@gmail.com](emailto:keithedbuhler@gmail.com)        |
+| University of Kentucky, Department of Philosophy. 1415 Patterson Office Tower. Lexington, KY, 40506. [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)             | [  305 Woodspointe Way, Wilmore, KY, 40390. keithedbuhler@gmail.com](emailto:keithedbuhler@gmail.com) |
 
 
 
