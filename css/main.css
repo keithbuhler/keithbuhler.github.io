@@ -6,17 +6,26 @@ html, body { height: 100%; }
 /* body */ 
 
 body {
-    color: #333;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
-    font-weight: 300;
-    background: #ffffff;
-    margin: 50px auto;
-    width: 60%;
+    color:#333;
+font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+font-size:1.75em;
+line-height:1.5em;
+background:#fdfdfd;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;
     background-image: url("tm");
     background-repeat: no-repeat;
     background-position: top;
+}
+
+
+#content-wrapper {
+margin:4em auto;
+max-width:33em;
+}
+
+.shift-left {
+    padding-right: 12em;
 }
 
 /* links*/
