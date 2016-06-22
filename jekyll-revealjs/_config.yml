@@ -1,52 +1,23 @@
+# Your presentation title
+title: Jekyll and Reveal.js
 
-# Dependencies
-markdown:             redcarpet
-highlighter:          pygments
+# The Reveal theme
+reveal_theme: black.css
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:            pretty
-relative_permalinks:  true
+# The Reveal transition
+reveal_transition: default
 
-# Setup
-title:                utilitarianism
-reveal_theme:       default.css
-tagline:              'write slides in markdown'
-description:          "A <a href='http://jekyllrb.com'>Jekyll</a> template for quickly writing slides in markdown. Based on <a href='https://github.com/mdo'>mdo</a>'s <a href='http://lanyon.getpoole.com/'>Lanyon</a> theme and <a href='https://github.com/hakimel'>hakimel</a>'s <a href='http://lab.hakim.se/reveal-js'>reveal.js</a> HTML presentation framework. <br><br> Made by <a href='https://github.com/ngoldman'>ngoldman</a>."
-url:                  /jekyll-reveal
-baseurl:              '/jekyll-reveal'
-paginate:             5
+# Path to the used theme (defaults to the Reveal.js standard theme path)
+reveal_theme_path: reveal.js/css/theme/ 
 
-# About/contact
-author:
-  name:               'Keith Buhler'
-  url:                https://keithbuhler.com
+# Embed Server-side speaker notes?
+reveal_notes_server: false
 
-# Custom vars
-version:              1.0.0
+# Additional reveal.js options
+reveal_options: 
 
-github:
-  repo:               https://github.com/keithbuhler/keithbuhler.github.io
+# Additional reveal.js dependencies
+reveal_dependencies: 
 
-# Extra
-safe:                 true # replicate gh-pages env
-timezone:             America/Los_Angeles
-encoding:             utf-8
-
-# fix for weird travis-ci build error
-# http://www.markcampbell.me/jekyll/heroku/2013/05/18/how-to-set-up-jekyll-on-heroku.html
-exclude:              ['vendor']
-
-collections:
-  slides:
-    permalink: /:path/
-    output: true
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'slides'
-    values:
-      layout: 'slides'
+# Reveal.js subdirectory
+reveal_path: reveal.js/
