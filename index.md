@@ -4,9 +4,7 @@ title: Anyone?... Buhler...?
 
 --- 
 
-
 <h1 id="welcome-to-keithbuhlercom" style="text-align: center;">Welcome to keithbuhler.com</h1>
-
 
 |                                                                                        |         |
 |----------------------------------------------------------------------------------------|---------|
@@ -14,6 +12,6 @@ title: Anyone?... Buhler...?
 
 <p>
 
-&nbsp;&nbsp; <img src="/img/seal-biola.png" alt="Biola" height="50" width="50">  <img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50">  <img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50">   <img src="/img/seal-uk.gif" alt="Kentucky" height="50" width="50">
+&nbsp;&nbsp; <img src="/img/seal-biola.png" alt="Biola" height="50" width="50">  <img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50">  <img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50">   <img src="/img/seal-uk.png" alt="Kentucky" height="50" width="50">
 
 </p>

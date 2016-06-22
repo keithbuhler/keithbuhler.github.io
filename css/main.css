@@ -11,7 +11,7 @@ body {
     font-weight: 300;
     background: #ffffff;
     margin: 50px auto;
-    width: 75%;
+    width: 60%;
     background-image: url("tm");
     background-repeat: no-repeat;
     background-position: top;
@@ -25,15 +25,14 @@ body {
 /* Site header */ 
 
 nav ul, header ul {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Helvetica", Arial, sans-serif;
     width: 750px;
     margin: 0 auto;
     list-style: none;
     font-weight: bold;
-    font-size: 1.2em;
-    padding: 2px;
-    border-top: 5px solid #333;
-    border-bottom: 1px solid #e8e8e8;
+    font-size: 1.5em;
+    padding: 0px;
+    border-bottom: 3px solid #090D5B; 
     min-height: 56px;
     background-color: white;
 }
@@ -53,7 +52,7 @@ nav ul, header ul {
 }
 
 .site-nav {
-  float: right;
+  float: center;
   line-height: 56px;
 }
 
@@ -65,12 +64,14 @@ nav ul, header ul {
   letter-spacing: -.5px;
 }
 
+/* Site footer */ 
 
 
 nav ul li, footer ul li {
-    font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif; 
     display: inline;
     margin-right: 20px;
+    margin-bottom: 15px;
     width:150px;
     text-align: left;
 }
@@ -82,30 +83,30 @@ a:hover {text-decoration: underline; text-color:#06215E;}
 
 h1 {
     font-size: 2em;
-    font-family: "Times New Roman", 'Times', 'serif';
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h2 {
     font-size: 1.5em;
-    font-family: "Times New Roman", 'Times', 'serif';
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h3 {
     font-size: 1.25em;
-    font-family: "Times New Roman", 'Times', 'serif';
+    font-family: Helvetica, Arial, sans-serif;
 
 h4 {font-size: 1.1em;
-    font-family: "Times New Roman", 'Times', 'serif';
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h5 {
     font-size: 1em;
-    font-family: "Times New Roman", 'Times', 'serif';
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h5 {
     font-size: 1em;
-    font-family: "Times New Roman", 'Times', 'serif';
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 p {
@@ -185,9 +186,9 @@ ul.posts li {
 }
 
 .post-header .meta {
-  font-size: 15px;
+  font-size: 20px;
   color: #818181;
-  margin-top: 5px;
+  margin-top: 1px;
 }
 
 .post-content { margin: 0 0 40px; }
