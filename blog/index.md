@@ -14,7 +14,7 @@ Thoughtful dialogue about philosophy, Christianity, science, and politics.
 
 </center>
 
-## Recent
+## Posts
 
 <ul>
   {% for post in site.posts %}
@@ -23,18 +23,6 @@ Thoughtful dialogue about philosophy, Christianity, science, and politics.
     </li>
   {% endfor %}
 </ul>
-
-
-
-
-## Archive
-
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}    
-  <li><span class="time">{{ post.date | date: "%Y-%m-%d" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-
-{% endfor %}
 
 
 

@@ -17,10 +17,10 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
 * Yes. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major)
 
-<img src="/img/aristotle50.bmp" alt="Rembrandt bust of homer" align="right" hspace="10" height="50%">
+<img src="/img/morpheus.jpg" alt="morpheous major" align="right" hspace="10" height="50%">
 
 
-#### I Really Like Philosophy; What Should I Read Next?  ####
+#### But I Really Like Philosophy; What Should I Read Next?  ####
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
 * [Plato, *Alcibiades I*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168)
 * [Marcus Aurelius, *Meditations*](http://classics.mit.edu/Antoninus/meditations.1.one.html)
@@ -37,6 +37,11 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * Practice, practice, practice!   
 * [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed almost +300,000 times)
 * Read [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
+
+
+<img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" hspace="5" height="50%">
+
+
 
 #### How Do I Get Better at Reading Philosophy? 
 * Read slowly, read over and over, and think about what you've read.
@@ -57,6 +62,9 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * [Kant, *Metaphysics of Morals*](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf).
 * Talk to your professors. 
 * Read about what it's like to be a professional academic. 
+
+<img src="/img/wonka-metaphysics.jpg" alt="condescending wonka philosopher " align="left" hspace="10">
+
 
 #### What's It Like to Be a Professional Academic? ####
 * [Here's my story](/phd-how-to) about deciding, applying, and working through graduate school.
