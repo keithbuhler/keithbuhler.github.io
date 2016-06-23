@@ -2,12 +2,18 @@
 layout: default
 --- 
 
-### [KEITH BUHLER - CV](/Buhler-CV.pdf)
+<center>
 
+[KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf) </h3>
+Doctoral Candidate  
 Deptartment of Philosophy   
 University of Kentucky  
 Lexington, KY, 40506.   
-[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)             
+[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)       
+
+</center>
+
+
 
 ### AREAS OF SPECIALIZATION
 Virtue Ethics, Metaethics.       

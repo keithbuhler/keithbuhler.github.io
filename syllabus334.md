@@ -380,8 +380,6 @@ Bob owns some property P.
 </section>
 <section>        
 
-
-
 # 3. Markets
 
 </section>

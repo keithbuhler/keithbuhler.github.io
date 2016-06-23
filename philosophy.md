@@ -16,6 +16,10 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 
 <img src="/img/morpheus.jpg" alt="morpheous major" align="right" hspace="10" height="50%">
 
+![Morpheous](/img/morpheus.jpg)
+
+![Test 2](http://octodex.github.com/images/minion.png)
+
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
 * Yes. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major)
 

@@ -30,12 +30,24 @@ These are the three kinds of bias you can't avoid.
 3. "Spin" (expression bias?) -- using certain words to suggest a particular claim on reality without making the claim explicitly. 
 
 
-## 2 strategies for overcome bias
+For example, here are two ways to tell the story of 9/11 WITHOUT LYING. 
+
+1. On September 11, 2001, after years of imperialist military intervention by foreign power, a group of Middle Eastern patriots sent a clear message to the U.S.: Stop invading us. These brave soldiers sacrified their lives to leave a mark on a great symbol of U.S. greed and capitalism. Using American airplanes instead of bombs, they hit the World Trade Center towers in New York, and left a scar on the American Empire that may never heal. 
+2. On September 11, 2001, Islamist terrorism's hatred of western civilization reached a new and terrible low. A group of Islamic supremecists hijacked three airplanes, and flew them into the World Trade Center (among others), murdering thousands of innocent people. They stirred the patriotic fervor of a nation, and initiated a decades long war on terror that continues to this day. 
+
+Which is right? #2 is right, but you can't fully *understand* the truth if you only know one side of the story before you judge. (There is some truth to the idea of "blowback", for instance.)
+
+So the strategy for overcoming bias has to do with hearing both sides.
+
+## 2 strategies for overcoming bias
 
 1. Compare equal and opposite biases.  
 
-Red and white together, not pink.  Twitter, Facebook are echo chambers! You can't get the other side there. "[A clear thinker] has kept [contradictions] side by side like two strong colours, red and white, like the red and white upon the shield of St. George. It has always had a healthy hatred of pink. It hates that combination of two colours which is the feeble expedient of the philosophers."([Chesterton, Orthodoxy](http://www.leaderu.com/cyber/books/orthodoxy/ch6.html))
-2. Reflect on your own selection, framing, and spin. What is noteworthy to you? What would you have put in, left out? What do you really want to know? 
+Study the conservative and liberal sources in their brightest expressions. Twitter, Facebook are echo chambers. You can't get the other side there.
+
+Look at red and white together, not pink.   "[A clear thinker] has kept [contradictions] side by side like two strong colours, red and white, like the red and white upon the shield of St. George. It has always had a healthy hatred of pink. It hates that combination of two colours which is the feeble expedient of the philosophers."([Chesterton, Orthodoxy](http://www.leaderu.com/cyber/books/orthodoxy/ch6.html))
+
+And reflect on your own selection, framing, and spin. What is noteworthy to you? What would you have put in, left out? What do you really want to know? 
 
 
 2. Read all 4 categories. 
@@ -51,4 +63,12 @@ So, read all four.
 
 You could also read the centrist sources: Google News, Yahoo News. Sure, Fox is a mainstream rightist source, but you'll get everything right-leaning from categories 1 and 3. And sure, CNN, MSNBC, ABC, CBS are mainstream leftist sources, but you'll get everything left leaning from categories 2 and 4. 
 
-How do you read the news?
+I know, I know, [Breitbart/HuffPo] is just a [conservative/liberal] rag that propogates its own biased viewpoint. They are so [right-wing/leftist] that it's not worth considering their argument. That's the point.
+
+So, how do you read the news?
+
+
+P.S. Zuckerberg's comment about media bias on Facebook "Trending" news:
+
+>I want to share some thoughts on the discussion about Trending Topics.
+>Facebook stands for giving everyone a voice. We believe the world is better when people from different backgrounds and with different ideas all have the power to share their thoughts and experiences. That's what makes social media unique. We are one global community where anyone can share anything -- from a loving photo of a mother and her baby to intellectual analysis of political events... [(more)](https://www.facebook.com/zuck?fref=nf)
