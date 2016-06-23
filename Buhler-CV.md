@@ -2,16 +2,14 @@
 layout: default
 --- 
 
-<center>
 
-[KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf) </h3>
-Doctoral Candidate  
-Deptartment of Philosophy   
-University of Kentucky  
-Lexington, KY, 40506.   
-[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)       
 
-</center>
+### [KEITH BUHLER - CURRICULUM VITAE 2016](/Buhler-CV.pdf)
+Doctoral Candidate   
+Deptartment of Philosophy    
+University of Kentucky   
+Lexington, KY, 40506.    
+[keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)        
 
 
 

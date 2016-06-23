@@ -1,7 +1,7 @@
 ---
 layout: posts
 type: posts
-title: how to read the news
+title: How to read the news
 ---
 
 # How to read the news
