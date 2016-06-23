@@ -14,10 +14,11 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * Then, take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
 * If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 
+<img src="/img/morpheus.jpg" alt="morpheous major" align="right" hspace="10" height="50%">
+
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
 * Yes. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major)
 
-<img src="/img/morpheus.jpg" alt="morpheous major" align="right" hspace="10" height="50%">
 
 
 #### But I Really Like Philosophy; What Should I Read Next?  ####
@@ -54,6 +55,8 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * But in general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1)
 
 
+<img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher " align="left" hspace="10">
+
 #### No, Seriously, I *Really* Like Philosophy; What Should I Do? ####
 * Read [Plato, *Republic*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168), 
 * [Aristotle, *Metaphysics*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052), 
@@ -63,7 +66,6 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * Talk to your professors. 
 * Read about what it's like to be a professional academic. 
 
-<img src="/img/wonka-metaphysics.jpg" alt="condescending wonka philosopher " align="left" hspace="10">
 
 
 #### What's It Like to Be a Professional Academic? ####
