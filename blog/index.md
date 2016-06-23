@@ -14,9 +14,20 @@ Thoughtful dialogue about philosophy, Christianity, science, and politics.
 
 </center>
 
+## Recent
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
-## Partial Index
+
+
+## Archive
 
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
