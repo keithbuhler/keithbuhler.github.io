@@ -14,12 +14,10 @@ layout: noheader
 - [Plato, *Last Days of Socrates* (Euthyphro, Apology, Phaedo) ISBN: 0140449280](http://amzn.to/1NMMNB6)
 
 
-Buy these books right away. Use these ISBNS only, please. Please, no Kindle unless cost is prohibitive, since paper books are better for taking notes, and make it easier to stay on the same page. New or used is fine.
+**Other texts provided online**
 
-**Other texts**
-
-- [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
+- [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
 - [Keith Buhler, "Logic 101"](/logic)
 - [Peter Kreeft, “Are universals real?”](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
@@ -56,18 +54,17 @@ There are no *easy* answers; instead, we will find hard answers, if we work at i
 
 <iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="600"></iframe>
 
-
 **Scope and Sequence:** This course focuses on an ecclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
 
 **Grading:** You will be graded equally on each component, plus applicable extra credit.
 
 |  Assessment category              |  Percent of semester grade |
-| ----------------------------------|----------------------- |
-| Reading quizzes                  | 25%  |  
-| Participation (Talking, writing)  | 25% |
-| Tests (Q1, Q3)                    | 25% |
-| Disputations                       | 25% |
-| Extra Credit                      | 5% (max) |
+| --------------------------------------|----------------------- |
+| Reading/quizzes                       | 25%  |  
+| Participation (Talking, writing)      | 25% |
+| Tests (Q1, Q3)                        | 25% |
+| Disputations                          | 25% |
+| Extra Credit                          | 5% (max) |
 
 
 Letter Grade | Percentage
@@ -80,25 +77,13 @@ Letter Grade | Percentage
 
 I typically do not round up. So 89.5 is a “B”. Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Papers according to the given instructions.
 
-**Readings:** The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on
+**Readings:** The primary work of this class is reading and thinking about these books, essays, and films. It will take about 5 hours per week of reading and writing. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on
 what you’ve read. Bring to class a question from the reading -- focus on
 what confuses you. Reading tips are online. 
 
 Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes at 9am when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
 
-**Attendance:** We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  You may check your absences at any time by requesting to see your card. (Being repeatedly or egregiously late will count as an absence.) I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
-
-That said, I give everyone up to 3 "Personal absences". You may use them for sickness, sports, or sleep.  These are freebies with no points lost. After that, absences must be excused. A 4th absence, if unexcused, reduces the semester grade by 2% each *per absence*. 8 unexcused absences is a letter grade and 9 will cause you to fail the class. 
-
-1 = -0  
-2 = -0  
-3 = -0  
-4 = -2%   
-5 = -4%   
-6 = -6%  
-7 = -8%  
-8 = -10%  (a letter grade)  
-9 = -50%  
+**Attendance:** We need you here! Attendance is mandatory. 
 
 **Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
@@ -125,13 +110,10 @@ Other discussion ground rules are posted online.
 1. **Bring your textbook** to every class. 
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
 3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
-4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
-4.  **Laptop/tablet users:** You must request permission, and if approved, sit in the front row.
 5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
-6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
-7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
-8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Discovery “news”. Section related announcements will be made on Discovery “news” and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
-6. I can accommodate you: If you have a documented disability that might require academic accommodation, please make sure you are registered with the Academic Support Program. Contact Pam Downing (pamela.downing@asbury.edu / (859) 858-3511 x2283.
+6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu email.
+7.  **Contact**. For short, quick questions, use Twitter (@keith\_buhler)
+8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Canvas announcements. Section related announcements will be made on Canvas and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
-8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the Asbury University academic community. Cite your sources. [See also the Asbury academic integrity appendix](/plagiarism).
+8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the academic community. Cite your sources. 
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.

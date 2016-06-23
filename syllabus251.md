@@ -37,20 +37,12 @@ to communicate difficult philosophical thoughts in clear, concise
 prose. 
 - to connect the Lewis’s writing with ones own faith.
 
-### Course Outline (online)
-
-*(Outline subject to revisions due to snow days, instructor sickness,
-academic conferences, etc.)*
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/1wGQ8vaNnRiZKsE9iRKCFPky65W1mUqJhsDjhkk_m9UM/pubhtml?widget=true&amp;headers=false" width="600" height="800"></iframe>
-
 
 ### Scope and Sequence
 
 To accomplish these goals, each 2 week unit will consist of readings from Lewis (including short reading quizzes due online), 2 interactive lectures, 2 student presentations, and 2 focussed discussions, and a unit paper. There are term papers. There is no midterm or final. 
 
-### Grading:
+### Grading
 
 The class work consists of three components: reading, participating, and
 writing. You will be graded on each component.
@@ -120,18 +112,18 @@ Everyone starts at an 80% (B-) for the participation grade. You will move up or 
 Every student will present two “critical readings.” These are days when you (or a group) summarize the assigned reading and presents your analysis. You then present your critical reading to the class. Instructions are posted online.
 
 
-### Unit Papers:
+### Unit Papers
 Every 2 weeks, you will write a short unit paper reflecting on a major theme from that Unit's readings. 
 
 In addition, every student will write two Term Papers (midterm and finals week). These term Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. Plagiarism – intentional or unintentional – will result in a a zero for the assignment, and jeopordizes your standing in the class. Instructions are posted online.
 
 
 
-### Extra Credit:
+### Extra Credit
 
 Those who opt for extra credit may do so. Instructions are posted online.
 
-### Miscellany:
+### Miscellany
 
 1. **Bring your textbook** to every class. 
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
@@ -146,3 +138,123 @@ Those who opt for extra credit may do so. Instructions are posted online.
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
 8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the Asbury University academic community. Cite your sources. [See also the Asbury academic integrity appendix](/plagiarism).
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
+
+
+
+### Course Outline (online)
+
+(Outline subject to revisions due to snow days, instructor sickness,
+academic conferences, etc.)
+
+<iframe src="https://docs.google.com/spreadsheets/d/1wGQ8vaNnRiZKsE9iRKCFPky65W1mUqJhsDjhkk_m9UM/pubhtml?widget=true&amp;headers=false" width="600" height="800"></iframe>
+
+
+
+
+M       Aug-15  Syllabus Day    What are realistic expectations for this class? What are ambitious goals? 
+
+W       Aug-17  Meditations in a Toolshed       What are the two ways of looking at things? What is the difference between looking at and looking along?
+
+F       Aug-19  Peter Kreeft, Truth     Is truth objective?
+
+M       Aug-22  Mere Christianity I: Right and Wrong as Clue    Is the moral law objective? If so, what does it have to do with Christianity? 
+
+W       Aug-24  MC II: Belief   Lewis argues that, of the rival conceptions of God, only one fits the facts of morality and history. How does Jesus fit into this conception of God? What objections do you have to his argument?
+
+F       Aug-26  Discussion      
+
+M       Aug-29  MC III: Behavior        What is "the great sin" and why is it unique? What is faith -- or what are the two kinds of faith?
+
+W       Aug-31  Mere Christianity Book IV       Is Christianity hard or easy? Why isn't it about becoming nice people?
+
+F       Sep-2   Discussion      
+
+M       Sep-5   No Class, Labor Day     
+
+W       Sep-7   Four Loves, Introduction, Likings       Why four kinds of love? Understand the distinction between "need-love" and "gift-love"?  What characterizes "storge" love -- empathy, familiarity, fondness? Are there any objections to this view?
+
+F       Sep-9   Four Loves, Affection   
+
+M       Sep-12  Four Loves, Friendship  Why isn't friendship a need-love? Why do moderns "ignore" friendship love?
+
+W       Sep-14  Four Loves, Charity     What characterizes Agape? Is all agape gift-love?
+
+F       Sep-16  Discussion      
+
+M       Sep-19  Problem of Pain, part I Why is pain, animal pain especially, a particular problem for Christians? What strategies does Lewis use to solve it?
+
+#### W       Sep-21  Problem of Pain, part II    
+
+Question set 1. 
+
+Passage: " It is mere nonsense to put pain among the discoveries of science. Lay down this book and reflect for five minutes on the fact that all the great religions were first preached, and long practised, in a world without chloroform. At all times, then, an inference from the course of events in this world to the goodness and wisdom of the Creator would have been equally preposterous; and it was never made. Religion has a different origin... In all developed religion we find three strands or elements, and in Christianity one more. The first of these is what Professor Otto calls the experience of the Numinous."
+
+Question 1      In light of 1
+
+F       Sep-23  Discussion      
+
+M       Sep-26  Abolition of Man 1, 2   What is the "Tao"? Why does it matter for education. 
+
+W       Sep-28  Abolition of Man 3      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?
+
+F       Sep-30  Discussion / Paper Workshop     
+
+M       Oct-3   Pan's Labrynth (film) 1st half  
+
+W       Oct-5   Pan's Labrynth (film) 2nd half  
+
+F       Oct-7   Midterm 
+
+M       Oct-10  Miracles, part I        What is NOT a miracle? How could one prove a miracle? 
+
+W       Oct-12  Miracles, part II       
+
+
+F       Oct-14  No Class, Fall Break    
+
+M       Oct-17  Miracles, part III      What is the Grand Miracle and why does it matter? Any objections? 
+
+W       Oct-19  Miracles, part IV       
+
+F       Oct-21  Discussion      
+
+M       Oct-24  Miracles, part V (chs. 12-14)   
+
+W       Oct-26  Miracles, part VI (chs. 15-16)  
+F       Oct-28  Discussion      
+
+M       Oct-31  Experiment in Criticism ch. 1   
+
+W       Nov-2   Experiment in Criticism, 3, 11, epilogue.       
+F       Nov-4   Discussion      
+M       Nov-7   Great Divorce chs. 1-7  
+
+W       Nov-9   Great Divorce chs. 8-12 
+
+F       Nov-11  Discussion      
+
+M       Nov-14  Perelandra 1-3  
+
+W       Nov-16  Perelandra 4-6  
+
+F       Nov-18  Discussion      
+
+M       Nov-21  Perelandra 7-9  
+
+W       Nov-23  Perelandra 10-12        
+
+F       Nov-25  Discussion      
+
+M       Nov-28  Perelandra 13-15        
+
+
+W       Nov-30  Perelandra 16-17        
+
+F       Dec-2   Weight of Glory 
+
+M       Dec-5   Solaryis (film) Final papers due
+
+W       Dec-7           
+
+
+

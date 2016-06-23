@@ -1,12 +1,18 @@
 ---
-layout: posts
+layout: fun
 type: posts
-title: R2-D2 Saves the Galaxy
+title: Star Wars
 ---
 
-## 17 Times R2D2 Saves the universe
+# Star Wars
+
+## Did Episode VII Suck? 
 
 
+
+
+
+## More Fun stuff: 17 Times R2D2 Saves the universe
 
 **Episode I**
 
