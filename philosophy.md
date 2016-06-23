@@ -75,14 +75,14 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * [The Leiter Report](http://www.leiterreport.com) is a great blog for many aspects of the profession.
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
-* [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, the bad, and the ugly. 
-* [Why some women leave philosophy (and why others stay)](http://quod.lib.umich.edu/p/phimp/3521354.0016.006/1)
+* [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, and the bad. 
+* [Why women stay (or leave) philosophy](http://quod.lib.umich.edu/p/phimp/3521354.0016.006/1)
 
 
 
 #### I Just Finished Your Class; What Should I Do? ####
 - Do the Course Evaluation.
-- Also, [Rate my class](http://www.ratemyprofessors.com/ShowRatingsjsp?tid=1822771) to let others know how you had a great time.
+- Also, [Rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.
 - [Email me or set up an appointment](emailto:keith.buhler@uky.edu) to share criticism, compliments, or other comments.
 
 
