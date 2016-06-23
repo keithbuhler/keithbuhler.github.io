@@ -7,7 +7,7 @@ title: Keith Buhler's Personal Website
 
 Hi, I'm Keith Buhler. I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) Welcome to my personal site. 
 
-This site hosts a blog and a collection of fun things to help you on your life journy. For example, you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](http://www.inklings.info/), learn how to [meditate](/meditation), or enjoy some of [my nonfiction writings](/writings). (Check out my [philosophy site](/) for my work in academic philosophy.)
+This site hosts a blog and a collection of fun things to help you on your life journey. For example, you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](http://www.inklings.info/), learn how to [meditate](/meditation), or enjoy some of [my nonfiction writings](/writings). (Check out my [philosophy site](/) for my work in academic philosophy.)
 
 This site is a somewhat random collection of fun things. Some are complete, others in development. Enjoy! 
 
