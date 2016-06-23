@@ -72,5 +72,4 @@ I know, I know, [Breitbart/HuffPo] is just a [conservative/liberal] rag that pro
 So, how do you read the news?
 
 
-[^1]: Zuckerberg's comment about media bias on Facebook "Trending" news:
-"I want to share some thoughts on the discussion about Trending Topics. Facebook stands for giving everyone a voice. We believe the world is better when people from different backgrounds and with different ideas all have the power to share their thoughts and experiences. That's what makes social media unique. We are one global community where anyone can share anything -- from a loving photo of a mother and her baby to intellectual analysis of political events..." [(more)](https://www.facebook.com/zuck?fref=nf)
+[^1]: Zuckerberg's comment about media bias on Facebook "Trending" news: I want to share some thoughts on the discussion about Trending Topics. Facebook stands for giving everyone a voice. We believe the world is better when people from different backgrounds and with different ideas all have the power to share their thoughts and experiences. That's what makes social media unique. We are one global community where anyone can share anything -- from a loving photo of a mother and her baby to intellectual analysis of political events..." [(more)](https://www.facebook.com/zuck?fref=nf)
