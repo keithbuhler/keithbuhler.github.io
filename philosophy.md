@@ -15,8 +15,8 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 
 
-<a target="_blank" href="morpheus.jpg">
-  <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="400" height="300">
+<a target="_blank" href="https://imgflip.com/i/16b9qw">
+  <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%">
 </a>
 
 
