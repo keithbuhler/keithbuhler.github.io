@@ -8,8 +8,6 @@ title: Research
 
 I’m currently writing my [dissertation](/phd) on recent Neo-Aristotelian virtue ethics. 
 
-My other philosophical interests (in no particular order) include [Plato, hylomorphism, the imagination, physicalism, feminism, religion, and science.](https://uky.academia.edu/KeithBuhler) My non-philosophical interests include [clay sculpture](/art), YouTubing, and [composing lists of non-philosophical interests.](/)
-
 ### Dissertation abstract
 
 Recent virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre are united on several beliefs: the good person is the virtuous person; virtues are human goods; and human goods are in some way "natural". They are divided on other questions: is virtue "natural" to humans because humans are rational animals, distinct from others in the animal kingdom or because humans are organisms, fundamentally continuous with all others in the evolutionary tree of life? 
@@ -23,5 +21,9 @@ My dissertation systematically analyzes a set of related concepts: nature, virtu
 In brief,  I argue that virtue is the excellence of rational practices and practical reasoning that enables and partly constitutes the realization of one's human life form. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans. I also provide an outline of a secular, humanistic conception of flourishing according to which becoming wise is the natural telos of practical rational animals, even though they may individually die and (one day) go extinct. 
 
 You can read more about my [dissertation progress](/phd) here. 
+
+### Other research
+
+My other philosophical interests (in no particular order) include [Plato, hylomorphism, the imagination, physicalism, feminism, religion, and science.](https://uky.academia.edu/KeithBuhler) My non-philosophical interests include [clay sculpture](/art), YouTubing, and [composing lists of non-philosophical interests.](https://en.wikipedia.org/wiki/Recursion)
 
 

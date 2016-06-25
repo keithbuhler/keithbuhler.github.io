@@ -14,9 +14,11 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * Then, take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
 * If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 
+<div align="right">
 
 ![Morpheous](/img/morpheus.jpg "Morpheus Major")
 
+</div>
 
 #### I Kinda Like Philosophy; Should I Consider a Major/Minor? ####
 * Yes. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major)
@@ -37,13 +39,14 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it! (If you want a more rigorous version of the same, read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/).) 
 
 #### How Do I Get Better at Discussion? ####
+* Learn to make valid arguments. 
+<img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" hspace="5" height="50%">
+
 * Practice, practice, practice!   
 * [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed almost +300,000 times)
 * Read [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
-* Learn to make valid arguments. 
 
 
-<img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" hspace="5" height="50%">
 
 
 

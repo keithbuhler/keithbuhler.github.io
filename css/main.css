@@ -14,6 +14,7 @@ body {
     line-height:1.5em;
     background:#fdfdfd;
     margin: 50px auto;
+    margin-top: 50px;
     width: 60%;
     text-rendering: optimizeLegibility; 
     -webkit-font-smoothing: antialiased;
@@ -100,6 +101,7 @@ header.site-header .wrap {
   max-width: 33em;
   margin: 0px auto;
   padding-top: 0.2em;
+  padding-bottom: 0.5em;
 }
 
 .site-title,.site-title:visited {
@@ -168,6 +170,17 @@ ul.posts li {
 
 /* Page Content styles */
 
+a {
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+a:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
 
 
 /* Post styles */
