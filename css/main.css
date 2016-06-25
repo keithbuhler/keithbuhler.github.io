@@ -18,7 +18,7 @@ body {
     width: 60%;
     text-rendering: optimizeLegibility; 
     -webkit-font-smoothing: antialiased;
-    background-image: url("tm");
+    background-image: url("/img/spiral.png");
     background-repeat: no-repeat;
     background-position: top;
 }

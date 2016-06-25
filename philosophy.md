@@ -15,7 +15,7 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 
 
-<a target="_blank" href="https://imgflip.com/i/16b9qw">
+<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/">
   <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%">
 </a>
 
@@ -40,7 +40,10 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 
 #### How Do I Get Better at Discussion? ####
 * Learn to make valid arguments. 
-<img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" hspace="5" height="50%">
+
+<a target="_blank" href="http://www.rinkworks.com/persuasive/">
+  <img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" width="50%">
+</a>
 
 * Practice, practice, practice!   
 * [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed almost +300,000 times)
@@ -61,7 +64,11 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * But in general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1)
 
 
-<img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher " align="left" hspace="10">
+<a target="_blank" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D7%3Asection%3D1028a
+/">
+  <img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" align="left" width="50%">
+</a>
+
 
 #### No, Seriously, I *Really* Like Philosophy; What Should I Do? ####
 * Read [Plato, *Republic*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168), 
