@@ -64,11 +64,14 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * But in general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1)
 
 
-<a target="_blank" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D7%3Asection%3D1028a
-/">
+<a target="_blank" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D7%3Asection%3D1028a">
   <img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" align="left" width="50%">
 </a>
 
+
+<p></p>
+<p></p>
+<p></p>
 
 #### No, Seriously, I *Really* Like Philosophy; What Should I Do? ####
 * Read [Plato, *Republic*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168), 
