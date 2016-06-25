@@ -266,11 +266,16 @@ layout: presentation
 
 # Gaus, "Idea and Ideal of Capitalism"
 
+Goal: to describe the ideal of capitalism as a free exchange of people's private property for the mutual benefit of all, and to overcome common objections. 
 
-* 1. Capitalism
-* 2. Private property
-* 3. Markets
-* 4. Profit-maximizating firms
+"Maximally extensive property rights, efficient markets employing such rights, and hierarchical firms run in the interest of th eowners." (95)
+
+Means: Four sections
+
+* 1. Capitalism - what is it?
+* 2. Private property - what can be owned?
+* 3. Markets - how do people trade?
+* 4. Profit-maximizating firms - what are businesses for?
 
 </section>
 <section>        
@@ -382,40 +387,104 @@ Bob owns some property P.
 
 # 3. Markets
 
+Do the markets create mutual benefit? 
+
+The case of solar panels (81)
+
+1. Thesis: People can freely trade to their own mutual benefit.
+2. Objection: There are barriors to mutual benefit, though. For example,  without governemental oversight, people freely trading can destroy the environment or destroy the less fortunate.
+3. Response: Extensive rights can allow both parties (farmers and polysilicon factories) to come to a mutually beneficial solution to the harm. 
+
+"If markets are to approach efficient outcomes in which people  are compensated for externalities, people must have extensive rights to make agreements." (83)
+
+</section>
+<section>    
+
+# 3. Markets
+
+Zero-sum vs. wealth creation. 
+
+How much money is in the economy? Is it static? 
+
+Example: celebrity signatures. 
+
+Example: the cure for cancer (1 trillion?); the water combustion engine (50 trillion?)
+
 </section>
 <section>        
 
+# Asymmetric bargaining power
+
+* Coercion
+* The only watering hole
+
+</section>
+<section>  
+
+# Series of transactions
+
+"A series of market transactions, each of which is unobjectionable, may have an outcome in which some have no real choices." (85)
+
+Z can only marry Z' or remain unmarried. Is Z free?
+
+Example: The Yanomamo tribe and the New Yorker (86)
+
+</section>
+<section>  
+
+# Conflicting aims
+
+When two aims conflict, they need to mesh. They need rules of conduct and knowledge. (87)
+
+Problem: We don't have such knowledge
+Solution: Put a price on it. 
+
+Prices quantify the value of knowledge and the strength of the need. 
+
+
+# Commodofication
+
+Is anything priceless? 
+
+1. Use: lower value, tradable, monetary, quantifiable
+2. Non-use: higher value, non-tradable, intrinsic, qualifiable
+
+</section>
+<section>  
 
 # 4. Profit-maximizating firms
 
+* Master and servant: who owns the farm, the farmers or the lord? Who owns the factory, the workers or the entrepreneuer? (90)
+* Worker cooperatives movement basically died with Mill
+* Master-servent hierarchies have better central coordination
+* "The Hierarchy is an engine of efficiency"
 
 </section>
 <section>        
    
+# 4. Profit-maximizating firms
+
+A business exists to maximize profits. 
+
+* What is profit? 
+* Is profit different from use?
+* Is profit opposed to the benefit of the user? Zero-sum vs. positive sum
+* 
+
+</section>
+<section>        
+
 
 # Before you go
 
 Is capitalism justifiable? 
 
-“History suggests only that capitalism is a necessary condition for political freedom. Clearly it is not a sufficient condition.“ 
-—Milton Friedman, Capitalism and Freedom (1962)
-
 “[C]apitalism works better than it sounds, while socialism sounds better than it works.“ 
 —Richard M. Nixon, Beyond Peace (1994)
-
-
-</section>
-<section>     
 
 * Questions?
 * Write a short response
 * Read for next time
 
-
-
 </section>
 <section>        
-
-
-
-

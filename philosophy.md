@@ -40,6 +40,7 @@ It helps you to find a good job, earn a higher salary than a business degree, be
 * Practice, practice, practice!   
 * [Read "How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion): my featured eHow article (viewed almost +300,000 times)
 * Read [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
+* Learn to make valid arguments. 
 
 
 <img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" hspace="5" height="50%">

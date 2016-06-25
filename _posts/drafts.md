@@ -112,3 +112,16 @@ https://beckmw.wordpress.com/2013/04/15/how-long-is-the-average-dissertation/
 3. Not trained in philosophy mainly
 4. Willing to talk to the masses
 5. Irritating to critics
+
+# STEM and Sexism
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583786/#%21po=7.14286
+
+
+# Evangelistic Leftism
+
+Certain ideologies on the left -- Marxism, liberalism, political correctness -- have to expand. They are the "interfere with others" schools of thought. Like religious Christians, they have an obligation to spread the good news. Unlike religious Buddhists, they cannot simply be at peace and enjoy their own wisdom. 
+
+This is why the fundamental divide in the west right now is not between religious and secular forces, but between "interfere" and "don't interfere." 
+
+Consider LGBT rights movements. Because of the State's rights, the U.S. could easily allow some states (MA? CA?) to adopt more progressive policies on gay rights, including marriage, sodomy laws, public displays of affection, work place hiring requirements, private business practices, and so on. States with traditional sexual moralities could continue preserving the value of male-female marriage, reproduction, monogamy, and fidelity. 
