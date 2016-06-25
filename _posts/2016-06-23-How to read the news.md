@@ -2,6 +2,8 @@
 layout: posts
 type: posts
 title: How to read the news
+tags: politics
+
 ---
 
 # How to read the news

@@ -10,7 +10,7 @@ title: Buhler Report
 
 <img src="/img/TheBuhlerReport1.png" align="center">
 
-Thoughtful dialogue about philosophy, Christianity, science, and politics. 
+Thoughtful dialogue about philosophy, religion, science, and politics -- especially, but not only, about Star Wars. 
 
 </center>
 

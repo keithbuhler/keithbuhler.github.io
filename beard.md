@@ -63,6 +63,12 @@ If you follow these 3 steps a beard will appear on your face. You will stop avoi
 </figure>
 
 <figure>
+<img src="/img/obi.png" alt="Obi Wan" height="450" width="500">
+<figcaption>Abe</figcaption>
+</figure>
+
+
+<figure>
 <img src="/img/gimli.jpeg" alt="gimli" height="500" width="500">
 <figcaption>Gimli</figcaption>
 </figure>

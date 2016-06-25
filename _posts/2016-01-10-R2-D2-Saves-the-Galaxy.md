@@ -2,6 +2,7 @@
 layout: posts
 type: posts
 title: R2-D2 Saves the Galaxy
+tags: culture, star wars
 ---
 
 ## 17 Times R2D2 Saves the universe

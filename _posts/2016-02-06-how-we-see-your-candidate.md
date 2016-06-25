@@ -1,7 +1,8 @@
 ---
 layout: posts
 type: posts
-title: How we See your Candidate
+title: How We See Your Candidate -- Empathy-Building Chart
+tags: politics, philosophy, news
 ---
 
 <img src="/img/How We See Them Top 4 Presidential Candidates.png" alt="How We See the Top 4 Presidential Candidates 2016" align="Center" hspace="10">

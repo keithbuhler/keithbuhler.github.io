@@ -2,6 +2,7 @@
 layout: posts
 type: posts
 title: Heraclitus Defragmented
+tags: philosophy
 
 ---
 

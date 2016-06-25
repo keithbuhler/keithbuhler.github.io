@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Time Budget
+tags: personal development, philosophy
 ---
 
 # Time Budget #

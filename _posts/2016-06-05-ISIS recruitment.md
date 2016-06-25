@@ -2,6 +2,8 @@
 layout: posts
 type: posts
 title: How ISIS recruits
+tags: politics, religion
+
 ---
 
 [This is the kind of thing the Orlando Gunman listened to just this month.](https://www.youtube.com/watch?v=BOtIX_4D-sg)
