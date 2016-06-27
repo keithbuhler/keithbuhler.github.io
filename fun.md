@@ -3,28 +3,44 @@ layout: fun
 title: Keith Buhler's Site
 ---
 
+# Keith Buhler's Fun Things
+
 <img src="/img/midair.jpg" alt="Mid-air" align="right" width="25%">
 
 
-Hi! Welcome to my personal site. I'm Keith Buhler, a husband, father, [philosopher](/), [educator](/teaching), speaker, [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura).  
+Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura).  
 
 [The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. 
 
-This site also hosts a collection of fun things to help you on your life journey. I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
+Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
 
 ## External Links to Projects
 
-* [ReadingIntentionally.com](http://www.readingintentionally.com): the "Intentional Reading Project" helps you read more books this year.
-* [Inklings.info](/inklings): Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
-* [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
-* [My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
-* How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
+
+
+<a target="_blank" href="http://www.readingintentionally.com">
+<img src="/img/books.ico" alt="books" align="left">
+</a> 
+
+the "Intentional Reading Project" helps you read more books this year.
+
+<a target="_blank" href="http://www.inklings.info">
+<img src="/img/lewis.jpg" align="center">
+</a>
+
+Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
+
+<a target="_blank" href="http://www.advicetochristianphilosophers.com">
+<img src="/img/plantinga.jpg" align="right">
+</a>
+
 
 
 ## Site Index
 
 * [The Buhler Report](/blog)
+* How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
 * [My other writings](/writings): Fiction, screenplays, verse, and satire. 
 * [My Art work](/art): Drawings, sculptures, pumpkins, and more.
 * [How to meditate (and why)](/meditation)
@@ -45,3 +61,13 @@ This site also hosts a collection of fun things to help you on your life journey
 * Attention Span Project -- how long is your attention span?
 * Philosophy is Science 
 * [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
+
+
+
+* [Inklings.info](/inklings): 
+
+* [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
+
+
+
+[My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
