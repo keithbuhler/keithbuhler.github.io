@@ -1,3 +1,9 @@
+---
+title: The Humdrum Rebellion Manifesto
+layout: posts
+tags: politics
+---
+
 # The Humdrum Rebellion: A Call to Arms.
 
 *“Yes, things are bad in the world…. But let us rejoice, let us have hope,  because while they can take everything from us, they cannot rob us of our  death.”* - An anonymous monk.
