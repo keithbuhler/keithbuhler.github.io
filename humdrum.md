@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: noheader
 title: The Humdrum Rebellion Manifesto
 ---
 
