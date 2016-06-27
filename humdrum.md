@@ -1,6 +1,6 @@
 ---
-title: The Humdrum Rebellion Manifesto
 layout: default
+title: The Humdrum Rebellion Manifesto
 ---
 
 # The Humdrum Rebellion: A Call to Arms.
