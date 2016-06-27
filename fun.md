@@ -1,13 +1,14 @@
 ---
 layout: fun
-title: Keith Buhler's Personal Website
+title: Keith Buhler's Site
 ---
 
-<img src="https://goo.gl/photos/9MXzAVsxuzS1ugff9" align="right">
+<img src="/img/midair" alt="Mid-air" align="right">
+
 
 Hi! Welcome to my personal site. I'm Keith Buhler, a husband, father, [philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) 
 
-[The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, serious, & the politically charged -- but I would rather discuss intelligently than agree. 
+[The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. 
 
 This site also hosts a collection of fun things to help you on your life journey. I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings). Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
