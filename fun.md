@@ -5,7 +5,7 @@ title: Keith Buhler's Site
 
 # Keith Buhler's Fun Things
 
-<img src="/img/midair.jpg" alt="Mid-air" align="right" width="25%">
+<img src="/img/midair.jpg" alt="Mid-air" hspace="5" align="right" width="40%">
 
 
 Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura).  
@@ -14,38 +14,41 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
-
-## External Links to Projects
-
-
+## The "Intentional Reading Project"
 
 <a target="_blank" href="http://www.readingintentionally.com">
-<img src="/img/books.ico" alt="books" align="left">
+<img src="/img/books.ico" alt="books" hspace="5" align="left">
 </a> 
 
-The "Intentional Reading Project" helps you read more books this year.
+To help you read more books this year.
 
+
+## Inklings.Info
 <a target="_blank" href="http://www.inklings.info">
 <img src="/img/lewis.jpg" align="left" width="50%">
 </a>
 
-[Inklings.info](/inklings): Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
+[Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info)
 
-
-
-
+## Advice to Christian Philosophers
 <a target="_blank" href="http://www.advicetochristianphilosophers.com">
 <img src="/img/plantinga.jpg" align="left">
 </a>
 
-[Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
+[Interviews with big name philosophers.]((http://www.advicetochristianphilosophers.com) )
+
+
+## The Buhler Report 
+<a target="_blank" href="http://www.keithbuhler.com/blog">
+<img src="/favicon.ico" align="left">
+</a>
+
 
 
 
 
 ## Site Index
 
-* [The Buhler Report](/blog)
 * How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
 * [My other writings](/writings): Fiction, screenplays, verse, and satire. 
 * [My Art work](/art): Drawings, sculptures, pumpkins, and more.
