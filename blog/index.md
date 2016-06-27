@@ -3,23 +3,25 @@ layout: fun
 title: Buhler Report
 --- 
 
+# Welcome to ... 
+
 <img src="/img/TheBuhlerReport1.png" align="center">
 
-</center>
+
+<center>
 
 <i>Thoughtful dialogue on timeless philosophy and current events.</i>
 
 </center>
 
 
-<div class="home">
 
 {% for post in paginator.posts %}
     <div class="post">
     <h2><a class="post-link" href="{{ post.url}}">{{ post.title }}</a></h2>
       <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
       <div class="post-content">{{ post.content }}</div>
-     </div> 
+      </div>
 
 {% endfor %}
 
