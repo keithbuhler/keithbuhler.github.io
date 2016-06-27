@@ -255,8 +255,6 @@ layout: presentation
 
 [American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
 
-
-
 # Business Ethics Week 08 Capitalism
 
 *Who owns all the things?*
@@ -485,6 +483,43 @@ Is capitalism justifiable?
 * Questions?
 * Write a short response
 * Read for next time
+
+</section>
+<section>        
+
+
+
+
+
+---
+title: Compensation
+layout: presentation
+---
+
+
+<section><!--Begin Compensation Intro-->
+
+<section data-background="http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg">
+
+# Business Ethics Week 08 Capitalism
+
+*Who owns all the things?*
+
+</section> 
+<section>
+
+# Gaus, "Idea and Ideal of Capitalism"
+
+Goal: to describe the ideal of capitalism as a free exchange of people's private property for the mutual benefit of all, and to overcome common objections. 
+
+"Maximally extensive property rights, efficient markets employing such rights, and hierarchical firms run in the interest of th eowners." (95)
+
+Means: Four sections
+
+* 1. Capitalism - what is it?
+* 2. Private property - what can be owned?
+* 3. Markets - how do people trade?
+* 4. Profit-maximizating firms - what are businesses for?
 
 </section>
 <section>        
