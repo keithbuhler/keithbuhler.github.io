@@ -3,27 +3,39 @@ layout: fun
 title: Buhler Report
 --- 
 
-# Welcome to...
-
-<center>
-
 <img src="/img/TheBuhlerReport1.png" align="center">
-
-Constant streams of philosophical dialogue. Occasional bursts of Star Wars.
 
 </center>
 
+<i>Constant streams of philosophy. Occasional bursts of Star Wars.</i>
+
+</center>
+
+
+<div class="home">
 
 {% for post in paginator.posts %}
     <div class="post">
     <h2><a class="post-link" href="{{ post.url}}">{{ post.title }}</a></h2>
       <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-        <div class="post-content">{{ post.content }}</div>
-        </div>
-      </div>
+      <div class="post-content">{{ post.content }}</div>
+     </div> 
 
 {% endfor %}
 
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page ==1 %}
+      <a href="{{ site.url }}" class="previous">Newer Posts</a>
+    {% else %}
+      <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
+    {% endif %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
+  {% endif %}
+</div>
 
 
 ## Posts
@@ -35,10 +47,3 @@ Constant streams of philosophical dialogue. Occasional bursts of Star Wars.
     </li>
   {% endfor %}
 </ul>
-
-
-
-<p>
-<p>
-<p>
-
