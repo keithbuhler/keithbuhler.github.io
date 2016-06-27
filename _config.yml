@@ -32,13 +32,13 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
-      type: "post"
+      path: "/Users/KEDB/Documents/keithbuhler/com/_posts"
+      type: "posts"
     values:
-      layout: "post" # overrides previous default layout
+      layout: "posts" # overrides previous default layout
   -
     scope:
-      path: ""
+      path: "/Users/KEDB/Documents/keithbuhler/com/_presentations"
       type: "presentations"
     values:
       layout: "presentation"
