@@ -14,20 +14,26 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
+----
 
-|Reading Intentionally.com |Inklings.Info|  Advice to Christian Philosophers.com |
-|------------------|-------------------------|---------------------|
-|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="200px" height="280px"> </a> [Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
-
-
-| The Buhler Report |        My Book |
-|--------------------|----------------|
-| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a> Thoughtful dialogue on timeless issues and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12?ie=UTF8&*Version*=1*entries*=0"> <img src="/sola.jpg" ></a> Thoughtful dialogue on timeless issues and current events.[Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. |
+|Reading Intentionally |     Inklings     |  Advice to Christian Philosophers |
+|----------------------|-------------------------|---------------------|
+|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="200px" height="280px"> </a> [Ebooks, lists, inof on the Oxford Dons.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
 
 
-## Site Index
+----
 
-* How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
+| The Buhler Report  |        My Book       |      Discussion        |
+|--------------------|----------------------|------------------------|
+| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a> Thoughtful dialogue on timeless issues and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler/dp/1475270860/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=><img src="/sola.jpg" ></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/discussion.jpg"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
+
+
+
+
+-------
+
+## Projects
+
 * [My other writings](/writings): Fiction, screenplays, verse, and satire. 
 * [My Art work](/art): Drawings, sculptures, pumpkins, and more.
 * [How to meditate (and why)](/meditation)
@@ -35,17 +41,13 @@ Also, I help people [read intentionally](http://www.readingintentionally.com), g
 * Professional philosophy -- [What a philosophy degree can do for you](/philosophy-major), [How to get a PhD (and why)](/phd-how-to), and [How I go about PhD research](/phd): What I'm working on in philosophy. 
 * [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/speaking)
 * [Writing tools](/writing-tools)
-
-
-
-## In Development ##
 * [My YouTube channel](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q) with argumentative fallacies, silly videos, and philosophy talks.
 * [Facebook](http://www.facebook.com/kedbuhler/)
 * [Twitter](https://twitter.com/Keith_Buhler) 
 * [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 * Politics
-* Classical Education Resources
-* Attention Span Project -- how long is your attention span?
+* Classical Education Resources -- coming soon
+* Attention Span Project -- how long is your attention span? -- coming soon
 * Philosophy is Science 
 * [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
 
