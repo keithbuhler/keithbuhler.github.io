@@ -3,11 +3,13 @@ layout: fun
 title: Keith Buhler's Personal Website
 ---
 
-<a href="/img/charles-williams-quote.png"></a>
+<img src="https://goo.gl/photos/9MXzAVsxuzS1ugff9" align="right">
 
-Hi, I'm Keith Buhler. I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) Welcome to my personal site. 
+Hi! Welcome to my personal site. I'm Keith Buhler, a husband, father, [philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) 
 
-This site hosts my [blogs](/blog) and a collection of fun things to help you on your life journey. For example, you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](http://www.inklings.info/), learn how to [meditate](/meditation), or enjoy some of [my nonfiction writings](/writings). Some are complete, others in development. (Or check out my [philosophy site](/) for my work in academic philosophy.)
+[The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, serious, & the politically charged -- but I would rather discuss intelligently than agree. 
+
+This site also hosts a collection of fun things to help you on your life journey. I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings). Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
 
 ## External Links to Projects
@@ -17,7 +19,6 @@ This site hosts my [blogs](/blog) and a collection of fun things to help you on 
 * [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
 * [My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
 * [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
-
 
 
 ## Site Index
