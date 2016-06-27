@@ -1,7 +1,6 @@
 ---
 layout: fun
 title: Buhler Report
-
 --- 
 
 # Welcome to...
@@ -10,7 +9,7 @@ title: Buhler Report
 
 <img src="/img/TheBuhlerReport1.png" align="center">
 
-Thoughtful dialogue about philosophy, news, religion, science, and Star Wars. 
+Thoughtful philosophical dialogue. Occasional bursts of Star Wars.
 
 </center>
 
@@ -18,12 +17,13 @@ Thoughtful dialogue about philosophy, news, religion, science, and Star Wars.
 <div class="home">
 
 {% for post in paginator.posts %}
+
 <div class="post">
     <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
     <div class="post-content">{{ post.content }}</div>
     <div class="source">Source: 
-        <a class="source-link" href="{{ post.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/' }}">
+        <a class="source-link" href="{{ post.path | remove: '/Users/KEDB/Documents/keithbuhler.com/' | prepend: 'https://raw.githubusercontent.com/keithbuhler/keithbuhler.com/' }}">
             md
         </a>
         | Permalink: 
@@ -33,6 +33,9 @@ Thoughtful dialogue about philosophy, news, religion, science, and Star Wars.
     </div>
 
 </div>
+
+{% endfor %}
+
 
 ## Posts
 
