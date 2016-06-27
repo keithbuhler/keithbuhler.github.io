@@ -5,6 +5,7 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
+paginate: 3
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
