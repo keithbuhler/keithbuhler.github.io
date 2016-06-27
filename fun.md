@@ -7,25 +7,20 @@ title: Keith Buhler's Personal Website
 
 Hi, I'm Keith Buhler. I'm [a philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) Welcome to my personal site. 
 
-This site hosts a blog and a collection of fun things to help you on your life journey. For example, you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](http://www.inklings.info/), learn how to [meditate](/meditation), or enjoy some of [my nonfiction writings](/writings). (Check out my [philosophy site](/) for my work in academic philosophy.)
-
-This site is a somewhat random collection of fun things. Some are complete, others in development. Enjoy! 
+This site hosts my [blogs](/blog) and a collection of fun things to help you on your life journey. For example, you can learn how to [read intentionally](http://www.readingintentionally.com), learn about the Oxford [Inklings](http://www.inklings.info/), learn how to [meditate](/meditation), or enjoy some of [my nonfiction writings](/writings). Some are complete, others in development. (Or check out my [philosophy site](/) for my work in academic philosophy.)
 
 
-## Projects (External links)
+## External Links to Projects
 
 * [ReadingIntentionally.com](http://www.readingintentionally.com): the "Intentional Reading Project" helps you read more books this year.
 * [Inklings.info](/inklings): Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
 * [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
 * [My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
-* [My YouTube channel](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q) with argumentative fallacies, silly videos, and philosophy talks.
 * [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion)
-* [Facebook](http://www.facebook.com/kedbuhler/)
-* [Twitter](https://twitter.com/Keith_Buhler) 
-* [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 
 
-## Projects (hosted here)
+
+## Site Index
 
 * [The Buhler Report](/blog)
 * [My other writings](/writings): Fiction, screenplays, verse, and satire. 
@@ -39,6 +34,10 @@ This site is a somewhat random collection of fun things. Some are complete, othe
 
 
 ## In Development ##
+* [My YouTube channel](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q) with argumentative fallacies, silly videos, and philosophy talks.
+* [Facebook](http://www.facebook.com/kedbuhler/)
+* [Twitter](https://twitter.com/Keith_Buhler) 
+* [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 * Politics
 * Classical Education Resources
 * Attention Span Project -- how long is your attention span?
