@@ -23,17 +23,23 @@ Also, I help people [read intentionally](http://www.readingintentionally.com), g
 <img src="/img/books.ico" alt="books" align="left">
 </a> 
 
-the "Intentional Reading Project" helps you read more books this year.
+The "Intentional Reading Project" helps you read more books this year.
 
 <a target="_blank" href="http://www.inklings.info">
-<img src="/img/lewis.jpg" align="center">
+<img src="/img/lewis.jpg" align="left" width="50%">
 </a>
 
-Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
+[Inklings.info](/inklings): Ebooks, lists, and other resources on the Oxford Dons who changed the world. 
+
+
+
 
 <a target="_blank" href="http://www.advicetochristianphilosophers.com">
-<img src="/img/plantinga.jpg" align="right">
+<img src="/img/plantinga.jpg" align="left">
 </a>
+
+[Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
+
 
 
 
@@ -64,9 +70,7 @@ Ebooks, lists, and other resources on the Oxford Dons who changed the world.
 
 
 
-* [Inklings.info](/inklings): 
 
-* [Advice to Christian Philosophers](http://www.advicetochristianphilosophers.com) with interviews with big name philosophers.
 
 
 
