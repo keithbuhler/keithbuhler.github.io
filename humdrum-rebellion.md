@@ -1,7 +1,6 @@
 ---
 title: The Humdrum Rebellion Manifesto
-layout: posts
-tags: politics
+layout: default
 ---
 
 # The Humdrum Rebellion: A Call to Arms.
