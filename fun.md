@@ -32,7 +32,7 @@ To help you read more books this year.
 
 ## Inklings.Info
 <a target="_blank" href="http://www.inklings.info">
-<img src="/img/lewis.jpg" align="left" width="50%">
+<img src="/img/lewis.jpg" align="left" width="50px" height="100px">
 </a>
 
 [Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info)
