@@ -3,12 +3,10 @@ layout: fun
 title: Keith Buhler's Site
 ---
 
-# Keith Buhler's Fun Things
+# keithbuhler.com/fun
 
 |--------------------------|------------------------|
-| Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura).  | <img src="/img/midair.jpg" alt="Mid-air" hspace="5" align="right" width="40%">| 
-| [The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. | |
-|Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.) | |
+| Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). <p>The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. </p>  <p>Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)</p> | <img src="/img/midair.jpg" alt="Mid-air" hspace="5" align="right" width="40%">|
 
 
 ----
@@ -33,22 +31,17 @@ title: Keith Buhler's Site
 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [Art](/art): Drawings, sculptures, pumpkins, and more.
-* [How to meditate (and why)](/meditation)
+* [Meditation](/meditation): How to meditate (and why)
 * [Bio](/bio): A little bit about me.
-* Professional philosophy -- [What a philosophy degree can do for you](/philosophy-major), [How to get a PhD (and why)](/phd-how-to), and [How I go about PhD research](/phd): What I'm working on in philosophy. 
-* [Lectures](/speaking)
-* [Writing tools](/writing-tools)
-* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q) with argumentative fallacies, silly videos, and philosophy talks.
+* [Philosophy Major](/philosophy-major): What a philosophy degree can do for you
+* [Proffessional Philosophy](/phd-how-to): How to get a PhD (and why)
+* [Lectures](/speaking): public speeches, conferences, and classes.
+* [Writing tools](/writing-tools): Markdown, word count, and more
+* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, silly videos, and philosophy talks
 * [Facebook](http://www.facebook.com/kedbuhler/)
 * [Twitter](https://twitter.com/Keith_Buhler) 
 * [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
-* Classical Education Resources -- coming soon
-* Attention Span Project -- how long is your attention span? -- coming soon
 * [Philosophy is Science](http://www.philosophyisscience): some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
 * [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
-
-
-
-
-
-
+* Classical Education Resources -- coming soon
+* Attention Span Project -- how long is your attention span? -- coming soon
