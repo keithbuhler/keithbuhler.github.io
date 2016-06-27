@@ -8,47 +8,17 @@ title: Keith Buhler's Site
 <img src="/img/midair.jpg" alt="Mid-air" hspace="5" align="right" width="40%">
 
 
-Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura).  
+Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura).  
 
 [The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. 
 
 Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
-<br>
-<br>
-<br>
 
+# Project Index
 
-## The "Intentional Reading Project"
-
-<a target="_blank" href="http://www.readingintentionally.com">
-<img src="/img/books.ico" alt="books" hspace="5" align="left">
-</a> 
-
-To help you read more books this year.
-
-<br>
-
-
-## Inklings.Info
-<a target="_blank" href="http://www.inklings.info">
-<img src="/img/lewis.jpg" align="left" width="50px" height="100px">
-</a>
-
-[Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info)
-
-<br>
-
-<br>
-
-<br>
-
-## Advice to Christian Philosophers
-<a target="_blank" href="http://www.advicetochristianphilosophers.com">
-<img src="/img/plantinga.jpg" align="left">
-</a>
-
-[Interviews with big name philosophers.]((http://www.advicetochristianphilosophers.com) )
+|------------------|-------------------------|---------------------|
+| <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. | Inklings.Info <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="100px" height="180px"> </a> [Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info) |  Advice to Christian Philosophers <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
 
 
 ## The Buhler Report 
@@ -62,7 +32,14 @@ Thoughtful dialogue on timeless issues and current events.
 <br>
 <br>
 <br>
+<br>
 
+<br>
+
+
+
+
+* [My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
 
 
 ## Site Index
@@ -94,5 +71,3 @@ Thoughtful dialogue on timeless issues and current events.
 
 
 
-
-[My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
