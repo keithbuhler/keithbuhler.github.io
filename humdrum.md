@@ -17,7 +17,7 @@ title: The Humdrum Rebellion Manifesto
 
 
 
-<img src="https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689" alt="heart" width="25%"/>
+<img src="https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689" alt="heart" align="center"  width="100%"/>
 
 
 
@@ -25,7 +25,10 @@ title: The Humdrum Rebellion Manifesto
 
 It is becoming increasingly clear that we live in strange, monumental, and volatile times. With the advent of social media, our world is constantly getting smaller and larger simultaneously. We are aware in newer, faster, broader ways of the events currently taking place around the globe. Thus, there are few of us who have not heard at least something of the Libyan victory over tyranny, of the European economic crises, of the brutalities committed against the Christian population of Egypt, or of the abduction and use of children as soldiers by a madman in Uganda. This is not even to mention the disquiet being experienced on the home front. Unemployment in the United States is still near its highest peak reached in 2008-09, and many are fed up with the current financial elite of our country, as well as with the lack of government involvement in controlling that sector of the economy (or with the overabundance of it, depending on who one asks). For the past decade, legislation being signed into law has increasingly been pushing us toward the prospect of a police state; away from liberty and toward security, conformity, and control. On both sides of the political fence, more and more of the people of this country are becoming disenchanted with the workings and decisions of our government. 
 
-![Humdrum 2](https://gp1.wac.edgecastcdn.net/802892/production_public/Artist/1049315/image/banner.jpg)
+
+
+<img src="https://gp1.wac.edgecastcdn.net/802892/production_public/Artist/1049315/image/banner.jpg" alt="humdrum rebellion" width="50%"/>
+
 
 
 ## What is Wrong With the World?
@@ -102,7 +105,9 @@ We are the vanguard of the unseen resistance of the human heart. Join us.
 -- [The Humdrum Rebellion](https://www.youtube.com/watch?v=TLRRlPvJPB0)  
 February 2012 AD  
 
-![Know thyself](https://upload.wikimedia.org/wikipedia/commons/a/a5/Roman-mosaic-know-thyself.jpg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Roman-mosaic-know-thyself.jpg" alt="know thyself" width="50%"/>
+
 
 ### Notes
 
@@ -120,7 +125,7 @@ February 2012 AD
 
 [^6]:  You know the one. The one narrated by the man with the silky, disarming voice who might be mistaken for Santa Claus. He pleads with you for an amount of money that resembles a fraction of the amount we spend on our daily Starbucks each month so the emaciated little girl standing next to him can eat. 
 
-[^7]:  The unfortunate situation of the Occupy movements prompts us to ask these questions. Aside from the obvious hypocrisy of those who participate in the movement against corporate greed while drinking Starbucks and wearing Abercrombie clothing, there are far more serious problems that face the protesters. First off, because they have opted to remain anonymous and leaderless, they find themselves without a voice that can speak authoritatively for the movement. Since this is the case, the media (which is far faster and much more pervasive than the movement could ever hope to be) can make them say or look like anything they wish, as they are already doing. Secondly, if, as they claim, Washington is controlled largely by the interests of the financial sector, there is nothing to stop the bankers from enacting legislation that, while appearing to satisfy the “demands” of the movement, allows the financial sector to go about mostly business as usual. For a truly brilliant analysis of the predetermined failure of the movement, see the blog The Last Psychiatrist, “You are the 98" (http://thelastpsychiatrist.com/2011/10/you_are_the_98.html#more). 
+[^7]:  The unfortunate situation of the [Occupy movements](https://en.wikipedia.org/wiki/Occupy_movement) prompts us to ask these questions. Aside from the obvious hypocrisy of those who participate in the movement against corporate greed while drinking Starbucks and wearing Abercrombie clothing, there are far more serious problems that face the protesters. First off, because they have opted to remain anonymous and leaderless, they find themselves without a voice that can speak authoritatively for the movement. Since this is the case, the media (which is far faster and much more pervasive than the movement could ever hope to be) can make them say or look like anything they wish, as they are already doing. Secondly, if, as they claim, Washington is controlled largely by the interests of the financial sector, there is nothing to stop the bankers from enacting legislation that, while appearing to satisfy the “demands” of the movement, allows the financial sector to go about mostly business as usual. For a truly brilliant analysis of the predetermined failure of the movement, see the blog The Last Psychiatrist, “You are the 98" (http://thelastpsychiatrist.com/2011/10/you_are_the_98.html#more). 
 
 [^8]:  In fact, the claim that bankers and politicians are corrupt, coupled with the expectation we have that some other bankers and politicians are going to correct the problem seems to border on insanity. 
 

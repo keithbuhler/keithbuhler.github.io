@@ -1,7 +1,7 @@
 # Site settings
 title:          "keithbuhler.com"
 author:         "Keith Buhler"
-email:          ""
+email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
@@ -32,13 +32,13 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "/Users/KEDB/Documents/keithbuhler/com/_posts"
+      path: "posts"
       type: "posts"
     values:
       layout: "posts" # overrides previous default layout
   -
     scope:
-      path: "/Users/KEDB/Documents/keithbuhler/com/_presentations"
+      path: "presentations"
       type: "presentations"
     values:
       layout: "presentation"
