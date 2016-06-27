@@ -10,12 +10,15 @@ title: The Humdrum Rebellion Manifesto
 
 <i>“Yes, things are bad in the world…. But let us rejoice, let us have hope,  because while they can take everything from us, they cannot rob us of our  death.”</i> 
 
+</center> 
+
 -[An anonymous monk](https://en.wikipedia.org/wiki/Eastern_Christian_monasticism)
 
 
-![The Heart](https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689)
 
-</center> 
+
+<img src="https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689" alt="heart" width="25%"/>
+
 
 
 ## Introduction
