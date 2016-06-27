@@ -3,19 +3,26 @@ layout: noheader
 title: The Humdrum Rebellion Manifesto
 ---
 
-# The Humdrum Rebellion: A Call to Arms.
-
 <center> 
 
-*“Yes, things are bad in the world…. But let us rejoice, let us have hope,  because while they can take everything from us, they cannot rob us of our  death.”* - An anonymous monk.
+<h1> The Humdrum Rebellion: A Call to Arms.</h1> 
+
+
+<i>“Yes, things are bad in the world…. But let us rejoice, let us have hope,  because while they can take everything from us, they cannot rob us of our  death.”</i> 
+
+-[An anonymous monk](https://en.wikipedia.org/wiki/Eastern_Christian_monasticism)
+
+
+![The Heart](https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689)
 
 </center> 
 
-![The Heart](https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689)
 
 ## Introduction
 
 It is becoming increasingly clear that we live in strange, monumental, and volatile times. With the advent of social media, our world is constantly getting smaller and larger simultaneously. We are aware in newer, faster, broader ways of the events currently taking place around the globe. Thus, there are few of us who have not heard at least something of the Libyan victory over tyranny, of the European economic crises, of the brutalities committed against the Christian population of Egypt, or of the abduction and use of children as soldiers by a madman in Uganda. This is not even to mention the disquiet being experienced on the home front. Unemployment in the United States is still near its highest peak reached in 2008-09, and many are fed up with the current financial elite of our country, as well as with the lack of government involvement in controlling that sector of the economy (or with the overabundance of it, depending on who one asks). For the past decade, legislation being signed into law has increasingly been pushing us toward the prospect of a police state; away from liberty and toward security, conformity, and control. On both sides of the political fence, more and more of the people of this country are becoming disenchanted with the workings and decisions of our government. 
+
+![Humdrum 2](https://gp1.wac.edgecastcdn.net/802892/production_public/Artist/1049315/image/banner.jpg)
 
 
 ## What is Wrong With the World?
@@ -30,7 +37,7 @@ There are certainly quite a few possible options being proffered as answers. Eve
 We all operate under the assumption that if everyone just listened to me, lived in accordance with the policies or party lines to which I ascribe, and finally stopped listening to that other idiot, the world would be a much better place. But deep down, we know that’s not true, don’t we? History has proved to us that, though empires rise and fall, systems of government change, and kings and czars have been  exchanged for presidents and prime ministers, animosity between people has mostly stayed the same. War has remained a constant force in human existence throughout more recent years, despite our having become “more civilized.” The presence of war has become even stronger in our more enlightened world. In the past century alone, tens of millions of people have been slaughtered to satisfy our thirst for wealth and power.[^1]   Our entire system of government is built upon the idea that the infringement upon our personal space by our neighbors is one of the greatest evils—thus we have a Bill of Rights designed to allow us to keep the neighbor at bay, should we desire to do so. Many of us do just this. How many of the friendships we still keep in “the real world” go anywhere beyond our favorite sports teams or bands? How many of the ties between us remain once we’ve stripped away our favorite movies or television shows? How many people know who we are apart from what is listed on our Facebook profiles?[^2]  How many of us keep the world and everyone in it at arm’s length, and fill our lives with enough stuff to convince us that we are content, fulfilled, happy? 
 
 
-## Tiresome Old Revolt
+## Revolt: Tiresome Status Quo
 
 It is for these reasons that these times are both increasingly strange and increasingly estranged. If we are not careful, we can easily find ourselves becoming abstracted, living less and less in reality, and more and more in virtual reality. There is no distance on the internet. Even now, I am connected with hundreds of people, many of whom do not inhabit even the same continent as I am. While this can be a great good, we must take care lest we become so abstracted that it is difficult for us to conceive our own local environments as the places we actually inhabit, full of the people with whom we actually interact. While it is true that we ought to care for our fellow human beings throughout the world, the sad irony about this abstraction is that if we are unable to properly relate to the places in which we actually live and to the people we actually see daily, how can we truly care about those places and people we’ve never seen, whose names we’ve never heard, and whose pains we’ve never experienced?[^3]  It’s easy to be an advocate for change when all that is required of us is signing an online petition, when it requires no more personal sacrifice than the time it takes me to click my mouse. It’s easy to claim that the government ought to devote more resources to this or that social program, or the rich more resources to philanthropy. But what about when I see a homeless man begging for money at the side of the freeway off-ramp? What about when I find the man next door has suffered a debilitating injury, leaving him, his wife, and his children without the means to pay their bills? What about when I clearly have the ability to care for my neighbor, and yet I do nothing? Do not my protests then appear to be empty words? Our tolerance for others generally does not approach actual compassion.[^4]       
 
@@ -42,7 +49,9 @@ More and more the evidence suggests that, when we speak of social ills and their
 
 In any case, what is it we hope to accomplish in our political action—our voting, our protests?[^7]:  Perhaps it is true that the system is screwed up, that bankers run the world, that politicians are corrupt, and that (insert your least favorite political inclination here) is running our country into the ground. How in the world is simply being pissed off about it going to help the situation? How is voting for the other guy going to change things for the better, when so many of our politicians have proven they are untrustworthy by their voting records?[^8] How is shouting disgust from the rooftops going to “increase awareness” when *everyone already knows things are bad*? The only hope we have of success in such social endeavors hinges upon persuading those in power, whether political or economic, to give up the affluence afforded to them by that power, based solely on the vague appeal to a morality that we’ve beensocially and metaphysically undermining for the past several centuries.[^9] The chances of such action achieving its desired effects are slim at best, and we would be insane to trust in that alone. Besides, as we know again from history, even if by some miracle we succeeded in changing the system, it would prove to be of little value in the long run. Corrupt people beget corruption, and a system of government or control cannot change that fact. At best, a system, or lack thereof—be it social, political, economic, or otherwise—can only limit the effectual spread of the actions of corrupt people. Unless we would prefer a system that *prohibits action altogether*,[^10] it would only be a matter of time before we started seeing the same sorts of problems popping up once again.  
 
-## A True Revolution
+## Humdrum: The True Revolution
+
+![The Humdrum](https://a2-images.myspacecdn.com/images03/30/11137e6c816e4985b36f6a04a3146d3c/300x300.jpg)
 
 On the other hand, I do have the ability to change myself. I have been given the power to become good, regardless of what laws or policies or brutalities are enforced upon or against me. I can care for my neighbors. I have the ability to help the elderly, or sit with a grieving widow. I am able to comfort a struggling friend, or feed a homeless man or woman. I can choose to seek the good of others over my own. I can choose to treat those who offend me or persecute me with respect and compassion, even in the face of ridicule, or violence, or even death.[^11] I have it within my power to repay evil with good, no matter what is inflicted upon me. 
 
@@ -90,6 +99,7 @@ We are the vanguard of the unseen resistance of the human heart. Join us.
 -- [The Humdrum Rebellion](https://www.youtube.com/watch?v=TLRRlPvJPB0)  
 February 2012 AD  
 
+![Know thyself](https://upload.wikimedia.org/wikipedia/commons/a/a5/Roman-mosaic-know-thyself.jpg)
 
 ### Notes
 
