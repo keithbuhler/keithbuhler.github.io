@@ -7,7 +7,7 @@ title: Buhler Report
 
 </center>
 
-<i>Constant streams of philosophy. Occasional bursts of Star Wars.</i>
+<i>Thoughtful dialogue on timeless philosophy and current events.</i>
 
 </center>
 
