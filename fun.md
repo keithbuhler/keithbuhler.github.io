@@ -3,7 +3,7 @@ layout: fun
 title: Keith Buhler's Site
 ---
 
-<img src="/img/midair" alt="Mid-air" align="right">
+<img src="/img/midair.jpg" alt="Mid-air" align="right">
 
 
 Hi! Welcome to my personal site. I'm Keith Buhler, a husband, father, [philosopher](/), [educator](/teaching), and [author.](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) 
