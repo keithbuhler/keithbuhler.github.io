@@ -15,14 +15,14 @@ title: Keith Buhler's Site
 
 |Reading Intentionally |     Inklings     |  Advice to Christian Philosophers |
 |----------------------|-------------------------|---------------------|
-|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="180px" height="250px"> </a> [Ebooks, lists, inof on the Oxford Dons.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
+|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="170px" height="240px"> </a> [Ebooks, lists, inof on the Oxford Dons.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
 
 
 ----
 
 | The Buhler Report  |        My Book       |      Discussion        |
 |--------------------|----------------------|------------------------|
-| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a> Thoughtful dialogue on timeless issues and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12><img src="/img/sola.jpg" ></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/discussion.jpg"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
+| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a> Thoughtful dialogue on timeless issues and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/sola.jpg" width=" 40%"></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/discussion.jpg" width="80%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
 
 
 
@@ -31,21 +31,20 @@ title: Keith Buhler's Site
 
 ## Projects
 
-* [My other writings](/writings): Fiction, screenplays, verse, and satire. 
-* [My Art work](/art): Drawings, sculptures, pumpkins, and more.
+* [Writings](/writings): Fiction, screenplays, verse, and satire. 
+* [Art](/art): Drawings, sculptures, pumpkins, and more.
 * [How to meditate (and why)](/meditation)
-* [My Bio](/bio): A little bit about me.
+* [Bio](/bio): A little bit about me.
 * Professional philosophy -- [What a philosophy degree can do for you](/philosophy-major), [How to get a PhD (and why)](/phd-how-to), and [How I go about PhD research](/phd): What I'm working on in philosophy. 
-* [My Talks -- public lectures, conference presentations, graduation speeches, etc. ](/speaking)
+* [Lectures](/speaking)
 * [Writing tools](/writing-tools)
-* [My YouTube channel](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q) with argumentative fallacies, silly videos, and philosophy talks.
+* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q) with argumentative fallacies, silly videos, and philosophy talks.
 * [Facebook](http://www.facebook.com/kedbuhler/)
 * [Twitter](https://twitter.com/Keith_Buhler) 
 * [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
-* Politics
 * Classical Education Resources -- coming soon
 * Attention Span Project -- how long is your attention span? -- coming soon
-* Philosophy is Science 
+* [Philosophy is Science](http://www.philosophyisscience): some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
 * [You can Paypal me money(!)](https://www.paypal.me/keithbuhler)
 
 
