@@ -5,8 +5,13 @@ title: The Humdrum Rebellion Manifesto
 
 # The Humdrum Rebellion: A Call to Arms.
 
+<center> 
+
 *“Yes, things are bad in the world…. But let us rejoice, let us have hope,  because while they can take everything from us, they cannot rob us of our  death.”* - An anonymous monk.
 
+</center> 
+
+![The Heart](https://i.scdn.co/image/282e4ab25e773e8265b8e46a0ce764b75dbe4689)
 
 ## Introduction
 
@@ -82,7 +87,7 @@ We are The Humdrum Rebellion.
 
 We are the vanguard of the unseen resistance of the human heart. Join us. 
 
---The Humdrum Rebellion  
+-- [The Humdrum Rebellion](https://www.youtube.com/watch?v=TLRRlPvJPB0)  
 February 2012 AD  
 
 
