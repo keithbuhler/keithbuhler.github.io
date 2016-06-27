@@ -492,7 +492,7 @@ Is capitalism justifiable?
 
 
 ---
-title: Compensation
+title: CEO Salaries
 layout: presentation
 ---
 
@@ -501,25 +501,47 @@ layout: presentation
 
 <section data-background="http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg">
 
-# Business Ethics Week 08 Capitalism
+# Business Ethics Week 09 CEO Salaries
 
-*Who owns all the things?*
+*How much pay is just?*
 
 </section> 
 <section>
 
-# Gaus, "Idea and Ideal of Capitalism"
+# Boatright, "Executive Compensation: Unjust or Just Right?"
 
-Goal: to describe the ideal of capitalism as a free exchange of people's private property for the mutual benefit of all, and to overcome common objections. 
-
-"Maximally extensive property rights, efficient markets employing such rights, and hierarchical firms run in the interest of th eowners." (95)
-
+Goal: 
 Means: Four sections
 
-* 1. Capitalism - what is it?
-* 2. Private property - what can be owned?
-* 3. Markets - how do people trade?
-* 4. Profit-maximizating firms - what are businesses for?
+* 1. Background
+* 2. Objections
+* 3. Economic Framework
+* 4. Compensating Entrepreneurs
 
 </section>
 <section>        
+
+
+# 1. Background
+
+
+</section>
+<section>  
+
+# 2. Objections
+
+
+</section>
+<section>  
+
+# 3. Economic Framework
+
+
+</section>
+<section>  
+
+# 4. Compensating Entrepreneurs
+
+
+</section>
+<section>  
