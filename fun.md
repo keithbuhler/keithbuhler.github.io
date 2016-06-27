@@ -14,6 +14,11 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.)
 
+<br>
+<br>
+<br>
+
+
 ## The "Intentional Reading Project"
 
 <a target="_blank" href="http://www.readingintentionally.com">
@@ -22,6 +27,8 @@ Also, I help people [read intentionally](http://www.readingintentionally.com), g
 
 To help you read more books this year.
 
+<br>
+
 
 ## Inklings.Info
 <a target="_blank" href="http://www.inklings.info">
@@ -29,6 +36,12 @@ To help you read more books this year.
 </a>
 
 [Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info)
+
+<br>
+
+<br>
+
+<br>
 
 ## Advice to Christian Philosophers
 <a target="_blank" href="http://www.advicetochristianphilosophers.com">
@@ -43,7 +56,12 @@ To help you read more books this year.
 <img src="/favicon.ico" align="left">
 </a>
 
+Thoughtful dialogue on timeless issues and current events.
 
+
+<br>
+<br>
+<br>
 
 
 
