@@ -17,29 +17,14 @@ Also, I help people [read intentionally](http://www.readingintentionally.com), g
 
 # Project Index
 
+|<h2>Reading Intentionally.com</h2>|<h2>Inklings.Info</h2>|  <h2> Advice to Christian Philosophers.com </h2> |
 |------------------|-------------------------|---------------------|
-| <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. | Inklings.Info <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="100px" height="180px"> </a> [Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info) |  Advice to Christian Philosophers <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
+|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" hspace="5" align="left"> </a>  To help you read more books this year. |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="left" width="200px" height="300px"> </a> [Ebooks, lists, and other resources on the Oxford Dons who changed the world.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="left"> </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
 
 
-## The Buhler Report 
-<a target="_blank" href="http://www.keithbuhler.com/blog">
-<img src="/favicon.ico" align="left">
-</a>
-
-Thoughtful dialogue on timeless issues and current events.
-
-
-<br>
-<br>
-<br>
-<br>
-
-<br>
-
-
-
-
-* [My book about Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition.
+| The Buhler Report |        My Book |
+|--------------------|----------------|
+| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a> Thoughtful dialogue on timeless issues and current events. | [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. |
 
 
 ## Site Index
