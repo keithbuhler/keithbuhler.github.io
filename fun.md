@@ -6,8 +6,17 @@ title: Fun Stuff Home
 # keithbuhler.com/fun
 
 |--------------------------|------------------------|
-| Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.) | <img src="/img/midair.jpg" alt="Mid-air" hspace="2" width="80%"> |
+| Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). [The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.) | <img src="/img/midair.jpg" alt="Mid-air" hspace="2" width="80%"> |
 
+
+----
+
+<div>
+<div style="width: 25%; text-align: center;"><img src="fun-lewis.jpg"></div>
+<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" align="top" hspace="5"> </a></div>
+<div style="width: 25%; text-align: center;"><img src="img3.jpg"></div>
+<div style="width: 25%; text-align: center;"><img src="img4.jpg"></div>
+</div>
 
 ----
 
@@ -20,7 +29,7 @@ title: Fun Stuff Home
 
 | The Buhler Report  |        My Book       |      Discussion        |
 |--------------------|----------------------|------------------------|
-| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Thoughtful dialogue on timeless issues and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/sola.jpg" align="top"  width=" 40%"></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/discussion.jpg" align="top"  width="90%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
+| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Thoughtful dialogue on timeless truths and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/sola.jpg" align="center"  width=" 80%"></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/discussion.jpg" align="top"  width="90%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
 
 
 
@@ -36,7 +45,7 @@ title: Fun Stuff Home
 * [Paypal](https://www.paypal.me/keithbuhler): Through the magic of the internet, you can send me money(!) 
 * [Philosophy Major](/philosophy-major): What a philosophy degree can do for you
 * [Proffessional Philosophy](/phd-how-to): How to get a PhD (and why)
-* [Philosophy is Science](http://www.philosophyisscience): some provocative thoughts on 
+* [Philosophy is Science](http://www.philosophyisscience): Some provocative thoughts on 
 with argumentative fallacies, silly videos, and philosophy talks
 * Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 

@@ -510,7 +510,16 @@ layout: presentation
 
 # Boatright, "Executive Compensation: Unjust or Just Right?"
 
-Goal: 
+Goal: High CEO pay is justifiable if the bargain is arms-length (and assuming capitalism)
+
+1. "The principles of compensation in a free market capitalist system are easily identified and widely accepted." (162)
+2. "There are prudential grounds, but not moral reasons, for objecting to high levels of CEO pay that result from imperfect markets" (162)
+3. "CEOs are usually worth what they are paid and ... their pay really is in the shareholders' interest [when] CEOs are able to bring greater shareholder returns by explointing new opportunities"
+4. "A main driver of high executive compensation is the power that shareholders have in corporate governance."
+
+"Arms length" df="the parties to a transaction are independent and on an equal footing."
+
+
 Means: Four sections
 
 * 1. Background
@@ -523,6 +532,23 @@ Means: Four sections
 
 
 # 1. Background
+
+- CEO Compensation is set by "compensation committee of the board of directors."
+- Base salary, annual bonus, stocks, and long-term incentive plans
+- "Golden handshakes" are perks such as retirment, housing, medical care, transportation
+- "Golden parachutes" are severance packages
+
+</section>
+<section>  
+
+### Base Salary
+
+- Determined by comparison of similar sized companies. 
+- Rarely exceed $1mil
+- Congress intended to reduce top salaries by removing tax deductions at or beyond $1m salary; the actual result was to increase stock option bonuses
+
+### Bonuses
+
 
 
 </section>
