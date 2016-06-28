@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: student
 title: What a Philosophy Degree Can Do For You
 ---
 
@@ -9,15 +9,15 @@ University of Kentucky
 keith.buhler@uky.edu  
 http://www.keithbuhler.com  
 
-### [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
+---
+
+# [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
 
 Nothing much...except *everything*.
 
-1. Some assume you can’t “do” anything with a philosophy degree. "You'll work in a coffee shop asking people *why* they want creme with that."
-2. Some think philosophy is a waste of time. Arthur Koestler said it is "the systematic abuse of a terminology specially invented for that purpose." If it's just sharing your opinion -- who cares?
-3. Others have no idea what philosophy is. 
+Some people assume you can’t “do” anything with a philosophy degree. "You'll work in a coffee shop asking people *why* they want creme with that." Others think philosophy is a waste of time. Arthur Koestler said it is "the systematic abuse of a terminology specially invented for that purpose." If it's just sharing your opinion -- who cares? Still others (like Bill Nye) have no idea what philosophy is. 
 
-On the other hand, a philosophy degree has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," because philosophy majors excel in the job market and earn more money than business majors. Furthermore, *all* people by nature desire to know (Aristotle, *Metaphysics* I.1.)
+Despite the appearances, [(almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major) Philosophy has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," because philosophy majors excel in the job market and earn more money than business majors. Furthermore, *all* people by nature desire to know (Aristotle, *Metaphysics* I.1.)
 
 I answer, you should consider philosophy for three reasons:   
 (1) philosophy helps you achieve your career goals in law, business, ministry, journalism, counseling, politics, homemaking, education, or academia.  

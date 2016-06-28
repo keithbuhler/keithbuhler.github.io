@@ -31,6 +31,12 @@ title: Fun Stuff Home
 |--------------------|----------------------|------------------------|
 | <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Thoughtful dialogue on timeless truths and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg" align="center"  width=" 80%"></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/fun-discussion.jpg" align="top"  width="90%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
 
+<div id="thumbs">
+    <a id="single_image1" href="#"><img src="/img/fun-sola.jpg" alt="Sola Scriptura"/></a>
+    <a id="single_image2" href="#"><img src="http://dummyimage.com/150x150/444/fff" alt=""/></a>
+    <a id="single_image3" href="#"><img src="http://dummyimage.com/150x150/444/fff" alt=""/></a>
+    <span class="stretch"></span>
+</div>​
 
 
 

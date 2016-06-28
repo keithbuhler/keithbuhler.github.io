@@ -1,5 +1,5 @@
 ---
-layout: noheader
+layout: student
 title: Philosophy Tips
 ---
 
@@ -30,8 +30,6 @@ The more you put in, the more you get out. To have a great experience in a philo
 7. Don’t compare yourself to others.
 8. Silence is OK, too.
 9. Follow the argument wherever it goes; trust the process.
-
-
 
 
 ## Writing Tips
