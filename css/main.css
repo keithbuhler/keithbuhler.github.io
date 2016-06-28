@@ -78,8 +78,8 @@ margin: 0 auto;
 
 
 #thumbs {   
-    width: 540px;
-    margin-top:90px;
+    width: 440px;
+    margin-top:80px;
     margin-left: auto; 
     margin-right: auto;
      text-align: justify;
@@ -90,7 +90,7 @@ margin: 0 auto;
 #thumbs a {
     vertical-align: top;
     display: inline-block;
-    display: inline;
+    *display: inline;
     zoom: 1;
 }
 .stretch {
