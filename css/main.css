@@ -157,60 +157,26 @@ border: 2px solid black;
 
 /* Site header */ 
 
-header{
-  background-color: gray;
-  color: teal;
-}
-
-header.site-header {
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  bottom: 5px;
-  background: #003399;
-  height: 4em;
-  width: 100%;
-}
-
-header.site-header .wrap {
-  max-width: 33em;
-  margin: 5px auto;
-  padding-top: 0.2em;
-  padding-bottom: 8em;
-}
-
-
-
-.site-title,.site-title:visited {
-  display: inline;
-  color: #333;
-}
-
-
-.site-nav {display: inline; }
-
-.site-nav .trigger {
-    display: inline;
-    float: right;
-    padding: 0 0.5em;
-    color: #333;
-}
-
-.site-nav .trigger a{ color: #333; }
-.site-nav .trigger a:hover{ color: teal; }
-.site-title:hover{ color: navy; }
-
-nav ul li, footer ul li {
-    font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-    display: inline;
-    margin-right: 20px;
-    margin-bottom: 40px;
-    width:100%;
+header {
+    background-color: gray;
+    color: white;
     text-align: center;
-    color: #6699cc;
-    font-size: 18px;
-    border-bottom: 2px solid #cc6600;
+    padding: 5px;
+}
 
+nav {
+    line-height:30px;
+    background-color: navy;
+color: white;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+section {
+    width:350px;
+    float:left;
+    padding:15px;
 }
 
 
