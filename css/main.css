@@ -86,6 +86,7 @@ margin: 0 auto;
     -ms-text-justify: distribute-all-lines;
     text-justify: distribute-all-lines;
 }
+
 #thumbs a {
     vertical-align: top;
     display: inline-block;
