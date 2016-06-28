@@ -12,7 +12,7 @@ body {
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     font-size:1em;
     line-height:1.5em;
-    background:#fdfdfd;
+    background:#ffffff;
     margin: 50px auto;
     margin-top: 50px;
     width: 60%;
@@ -157,7 +157,7 @@ header.site-header {
   position: fixed;
   top: 0px;
   left: 0px;
-  background: white;
+  background: #003399;
   height: 2em;
   width: 100%;
 }
@@ -230,7 +230,7 @@ ul.posts li {
 
 .page-content {
   padding: 30px 0;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 /* Page Content styles */
@@ -300,7 +300,7 @@ ul.posts li {
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
-  background-color: white;
+  background-color: #ffffff;
   padding: 8px 1px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
