@@ -88,8 +88,12 @@ text-align: left;
 }
 
 #container {
-width: 940px;
+width: 800px;
 margin: 0 auto;
+background: #ffffff;
+position: relative;
+border: 2px solid black;
+
 }
 
 #left-container{
@@ -201,15 +205,16 @@ nav ul li, footer ul li {
 }
 
 
-
-
-
-
-
-
-
-
 /* Site footer */ 
+
+
+
+
+
+
+
+
+
 
 
 
