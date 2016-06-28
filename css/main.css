@@ -71,6 +71,22 @@ text-align: left;
 
 
 }
+
+/* Outline and body of pages*/
+
+#outline{
+  background: #ffffff;
+  opacity: 0.95;
+  margin: 0 auto 0;
+  padding-top: 0px;
+  height: 1000px;
+  width: 800px;
+  border-bottom-color: gray; 
+  position: relative;
+  z-index: 1;
+
+}
+
 #container {
 width: 940px;
 margin: 0 auto;
