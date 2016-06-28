@@ -157,10 +157,16 @@ border: 2px solid black;
 
 /* Site header */ 
 
+header{
+  background-color: gray;
+  color: teal;
+}
+
 header.site-header {
   position: fixed;
   top: 0px;
   left: 0px;
+  bottom: 5px;
   background: #003399;
   height: 4em;
   width: 100%;
@@ -172,6 +178,8 @@ header.site-header .wrap {
   padding-top: 0.2em;
   padding-bottom: 8em;
 }
+
+
 
 .site-title,.site-title:visited {
   display: inline;
@@ -207,7 +215,12 @@ nav ul li, footer ul li {
 
 /* Site footer */ 
 
-
+footer{
+  background-color: gray;
+  color: teal;
+  text-align: center;
+  padding: 5px;
+}
 
 
 
