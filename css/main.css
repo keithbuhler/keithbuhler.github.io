@@ -75,7 +75,7 @@ text-align: left;
 /* Outline and body of pages*/
 
 #outline{
-  background: #ffffff;
+  background: #fdfdfd;
   opacity: 0.95;
   margin: 0 auto 0;
   padding-top: 0px;
@@ -158,15 +158,15 @@ header.site-header {
   top: 0px;
   left: 0px;
   background: #003399;
-  height: 2em;
+  height: 4em;
   width: 100%;
 }
 
 header.site-header .wrap {
   max-width: 33em;
-  margin: 0px auto;
+  margin: 5px auto;
   padding-top: 0.2em;
-  padding-bottom: 2em;
+  padding-bottom: 8em;
 }
 
 .site-title,.site-title:visited {
@@ -192,7 +192,7 @@ nav ul li, footer ul li {
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     display: inline;
     margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     width:100%;
     text-align: left;
     color: #6699cc;
