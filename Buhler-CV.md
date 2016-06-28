@@ -14,10 +14,10 @@ Lexington, KY, 40506.
 
 
 ### AREAS OF SPECIALIZATION
-Virtue Ethics, Metaethics.       
+Ethics, Metaethics.       
 
 ### AREAS OF COMPETENCE
-Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.  
+Bioethics, Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.  
 
 
 
