@@ -249,7 +249,6 @@ title: Capitalism
 layout: presentation
 ---
 
-
 <section><!--Begin Capitalism Intro-->
 <section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
 
@@ -548,13 +547,48 @@ Means: Four sections
 - Congress intended to reduce top salaries by removing tax deductions at or beyond $1m salary; the actual result was to increase stock option bonuses
 
 ### Bonuses
-
+- Long-term bonuses (3-5 years)
+- Stock options incentivize increasing company stock price
 
 
 </section>      
 <section>  
 
+### Evolution of CEO pay
+
+- 1940-1960: company growth, incentivize stability and new hires
+- 1970s: the "modern industrial revolution" (Michael Jensen)
+- 1973: the "oil shock" caused companies to downsize
+- From CEO beurocrat (lead risk-reducer) to CEO entrepreneur (lead risk-taker)
+- 1980: stock prices began to rise again
+- 1990s: shift to stock-based compensation
+- 1993 average = less than $4m
+- Bull market in 1995-2000 = $17m
+
+### TL;DR 
+Should CEOs be compensated for managing a large enterprise or creating new value?
+
+</section>      
+<section>  
+
 # 2. Objections
+
+1. How big is too big?
+2. The pay is unrelated to performance. 
+3. There is too high a ratio of CEO pay to worker pay. 
+4. There is too high a ratio increase in CEO pay to increase in worker pay.
+5. Not the right incentive. 
+        - CEOs don't need that much money as incentive; if they did, they must be lazy.
+        - Pay is not an effective motivator: power, prestige, satisfaction
+6. Pay is too effective; people focus on nothing else, includin gmorality
+7. CEOs have improper power in the pay-setting process (selecting board members, for instance)
+8. "Windfall" -- Stocks can and do increase in bull markets, regardless of CEO performance
+9. CEOs are greedy. 
+
+1. How big is too big? Is mere size a problem?
+2. It's not just how well the company does, but the "sensitivity" of the pay package. 
+3. Ratio was 30 to 1 in 1970; today it's anywhere between 90 to 1 to 400 to 1. Peter Drucker suggested 20 to 1 ratio would be just; Ben & Jerry chose 7 to 1. 
+4. 
 
 
 </section>
