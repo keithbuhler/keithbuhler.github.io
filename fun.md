@@ -9,21 +9,6 @@ title: Fun Stuff Home
 | Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). [The Buhler Report](/blog) is my new blog offering thoughtful dialogue on timeless philosophical ideas and recent current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree. Also, I help people [read intentionally](http://www.readingintentionally.com), get to know the Oxford [Inklings](http://www.inklings.info/), practice peaceful [meditation](/meditation), or I just tell [stories.](/writings) Some of these projects are complete, but others are in development. (You can check out my [philosophy site](/) for my academic work.) | <img src="/img/midair.jpg" alt="Mid-air" hspace="2" width="80%"> |
 
 
-1. The Buhler Report: Thoughtful dialogue on timeless truths and current events.
-2. Reading Intentionally: How to read more books
-
-How to lead a discussion (video)
-
-
-Inklings Info
-
-Interviews with big name philosophers.
-
-: Ebooks, lists, and info on the Oxford Dons.
-
-Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism and Orthodoxy
-
-
 
 ----
 
@@ -45,8 +30,14 @@ Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism 
 </div>​
 
 
+-------
 
-
+1. The Buhler Report: Thoughtful dialogue on timeless truths and current events.
+2. Reading Intentionally: How to read more books
+3. How to lead a discussion (video)
+4. Inklings Info: Ebooks, lists, and info on the Oxford Dons.
+5. Advice to Philosophers Interviews with big name philosophers.
+6. Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism and Orthodoxy
 
 
 -------
@@ -61,13 +52,11 @@ Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism 
 * [Paypal](https://www.paypal.me/keithbuhler): Through the magic of the internet, you can send me money(!) 
 * [Philosophy Major](/philosophy-major): What a philosophy degree can do for you
 * [Proffessional Philosophy](/phd-how-to): How to get a PhD (and why)
-* [Philosophy is Science](http://www.philosophyisscience): Some provocative thoughts on 
-with argumentative fallacies, silly videos, and philosophy talks
+* [Philosophy is Science](http://www.philosophyisscience.com): Some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
 * Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [Writing tools](/writing-tools): Markdown, word count, and more
 * [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
-the relationship (identity) between philosophy and other formal and natural sciences. 
-* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel 
+* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
 * Attention Span Project -- how long is your attention span? -- coming soon
