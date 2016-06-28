@@ -5,6 +5,8 @@ title: Professional Philosophy
 
 # Professional Philosophy
 
+Being a professional academic is not for everyone. Is it for you? 
+
 * [Here's my story](/phd-how-to) about deciding, applying, and working through graduate school.
 * [A sober look at the future of professional philosophy.](http://chronicle.com/blogs/conversation/2014/07/16/wanted-a-future-for-philosophy/)
 * [A sober look at the cost of professionalizing philosophy](http://opinionator.blogs.nytimes.com/2016/01/11/when-philosophy-lost-its-way/)

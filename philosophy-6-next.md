@@ -24,7 +24,7 @@ Here are some good, accessible yet challenging classics.
 
 
 <a target="_blank" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D7%3Asection%3D1028a">
-  <img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" align="left" width="50%">
+  <img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" hspace="5" align="left" width="50%">
 </a>
 
 OK, OK! Try these. Cut your teeth on Aristotle or Kant and you'll get the burn that only philosophy can give you.

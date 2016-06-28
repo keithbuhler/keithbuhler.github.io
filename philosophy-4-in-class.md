@@ -17,7 +17,7 @@ So, to succeed, you need to learn how to do each of these activities. Don't worr
 ![Dory](/img/dory.jpg)
 
 
-##(A) How Do I Get Better at Reading Philosophy? 
+## (A) How Do I Get Better at Reading Philosophy? 
 * Read ahead, slowly, re-read, and think about what you've read.
 * Read ["how to read philosophy"](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
 * Read how to read a book, by Mortimer Adler.
