@@ -206,8 +206,9 @@ nav ul li, footer ul li {
     margin-right: 20px;
     margin-bottom: 40px;
     width:100%;
-    text-align: left;
+    text-align: center;
     color: #6699cc;
+    font-size: 18px;
     border-bottom: 2px solid #cc6600;
 
 }
@@ -216,10 +217,11 @@ nav ul li, footer ul li {
 /* Site footer */ 
 
 footer{
-  border-top: 2px solid #cc6600;
+  border-top: 1px solid #cc6600;
   background-color: 6699cc;
-  color: white;
-  padding: 0px;
+  color: navy;
+  padding-top: 10px;
+  padding-bottom: 0px;
 }
 
 
