@@ -12,24 +12,24 @@ title: Fun Stuff Home
 ----
 
 <div>
-<div style="width: 25%; text-align: center;"><img src="fun-lewis.jpg"></div>
-<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" align="top" hspace="5"> </a></div>
-<div style="width: 25%; text-align: center;"><img src="img3.jpg"></div>
-<div style="width: 25%; text-align: center;"><img src="img4.jpg"></div>
+<div style="width: 25%; text-align: center;"><img src="/img/fun-lewis.jpg"></div>
+<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top" hspace="5"> </a></div>
+<div style="width: 25%; text-align: center;"><img src="fun-sola.jpg"></div>
+<div style="width: 25%; text-align: center;"><img src="fun-plantinga.jpg"></div>
 </div>
 
 ----
 
 | Reading Intentionally |    Inklings.Info     |  Advice to Christian Philosophers |
 |----------------------|-------------------------|---------------------|
-|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" align="top" hspace="5"> </a>  Read more books |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/lewis.jpg" align="top" width="170px" height="240px"> </a> [Ebooks, lists, info on the Oxford Dons.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/plantinga.jpg" align="top" > </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
+|  <a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" align="top" hspace="5"> </a>  Read more books |  <a target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="top" width="170px" height="240px"> </a> [Ebooks, lists, info on the Oxford Dons.](http://www.inklings.info) | <a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" align="top" > </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com) |
 
 
 ----
 
 | The Buhler Report  |        My Book       |      Discussion        |
 |--------------------|----------------------|------------------------|
-| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Thoughtful dialogue on timeless truths and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/sola.jpg" align="center"  width=" 80%"></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/discussion.jpg" align="top"  width="90%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
+| <a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Thoughtful dialogue on timeless truths and current events. | <a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg" align="center"  width=" 80%"></a> [Scripture, tradition, protestantism and Orthodoxy](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. | <a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/fun-discussion.jpg" align="top"  width="90%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws)
 
 
 
