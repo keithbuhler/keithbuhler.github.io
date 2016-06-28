@@ -28,9 +28,9 @@ Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism 
 ----
 
 <div id="thumbs">
-    <a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> 
-    <a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top" hspace="5"> </a>  
-   <a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg"> </a> 
+    <a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Buhler Report
+    <a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  Reading Intentionally
+   <a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a> Leading Discussions
     <span class="stretch"></span>
 </div>​
 
