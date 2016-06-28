@@ -12,23 +12,23 @@ title: Fun Stuff Home
 ----
 
 <div>
-<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Thoughtful dialogue on timeless truths and current events.</div>
+<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> The Buhler Report: Thoughtful dialogue on timeless truths and current events.</div>
 </div>
 
-<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.ico" alt="books" align="top" hspace="5"> </a>  Read intentionally 
+<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.readingintentionally.com"> <img src="/img/books.jpg" alt="books" align="top" hspace="5"> </a>  Reading Intentionally: How to read more books
 </div>
 
-<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="top" width="170px" height="240px"> </a> [Ebooks, lists, info on the Oxford Dons.](http://www.inklings.info) 
+<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> Inklings Info: Ebooks, lists, and info on the Oxford Dons.
 </div>
 
-<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" align="top" > </a>  [Interviews with big name philosophers.](http://www.advicetochristianphilosophers.com)
+<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" > </a>  Interviews with big name philosophers.
 </div>
 
 
-<div style="width: 25%; text-align: center;"><a target="_blank" href="http://www.wikihow.com/Lead-a-Discussion"> <img src="/img/fun-discussion.jpg" align="top"  width="90%"> </a> How to lead a discussion -- [text](http://www.wikihow.com/Lead-a-Discussion) and [video](https://www.youtube.com/watch?v=yU9_t1sS6ws) 
+<div style="width: 25%; text-align: center;"><a target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg"> </a> How to lead a discussion (video)
 </div>
 
-<div style="width: 25%; text-align: center;"><a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg" align="center"  width=" 80%"></a> [Scripture, tradition, protestantism and Orthodoxy](https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12): *Sola Scriptura* is a philosophical dialogue exploring scripture and tradition. 
+<div style="width: 25%; text-align: center;"><a target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism and Orthodoxy
 </div>
 
 </div

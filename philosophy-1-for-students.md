@@ -4,23 +4,17 @@ title: Student Portal
 
 --- 
 
-## Student Portal ##
+# Student Portal
 
-<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/">
-<img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%">
-</a>
-
+Most people that don't go to college will never study philosophy. But everyone has thoughts about life, death, the afterlife, reality, the self, science, religion, and beauty. 
 
 ### So, You're in Philosophy, eh?
 
 Most people that go to college will take exactly *one* philosophy class: introduction to philosophy. [So make the most of it.](/philosophy-2-portal)
 
-Most people that don't go to college will never study philosophy. But everyone has thoughts about life, death, the afterlife, reality, the self, science, religion, and beauty. 
+<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%"> </a>
 
-
-### The Next Step
-
-Most people that do take a class find philosophy surprisingly interesting (depending on the professor, of course. A bad professor can make sex ed boring.) 
+Most people that do take a class find philosophy surprisingly interesting (depending on the professor, of course. A bad professor can make rock climbing boring.) 
 
 A percentage those will take some more philosophy classes. 
 

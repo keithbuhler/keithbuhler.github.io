@@ -1,10 +1,10 @@
 ---
-layout: noheader
+layout: student
 title: Discussion 101
 ---
 
 
-# Following the Logos: Discussion Ground rules
+# Discussion 101: Ground Rules for Following the Logos
 
 “All humans by nature desire knowledge.” (Aristotle, *Metaphysics* I). The ways we gain the knowledge we desire are: observation, scientific research, experience, reading literature, talking to friends, listening to experts, and a few other ways. Why discussion? 
 
@@ -33,28 +33,36 @@ Here are 10 discussion “ground rules” to help us be productive.
 9. Follow the argument wherever it goes; trust the process.
 
 
-###Say what you think.
+### Say what you think
+
 We are going to be discussing some big “hypothetical” topics. Don’t be fooled. We can only grow if we put ourselves on the line. 
 
-###Listen to your neighbor. 
+###Listen to your neighbor
+
 Some people are easy to listen to. Some are hard. Practice listening to both. If a person is crazy, annoying, loud, quiet, irrational, or irritatingly rational, listen anyway. At some point in this class, you will be hard to listen to — but you want others to listen anyway. 
 
-###Ask your question. 
+###Ask your question
+
 There is an opportunity to become someone new in this class. You can become someone you’ve never been, to ascend new vistas. If you challenge yourself, you will scale new heights, uncover unknown breadths, and plumb uncharted depths. But if you hide your real question, your vulnerable, dangerous, trembling, shy question, then none of this will happen. You will stay comfortable, but at what cost? 
 
-###Truth hurts; be kind. 
+### Truth hurts; be kind
+
 We can hurt each other and still be friends. You have hurt and been hurt by your family and you’re still family, aren’t you? But we don’t want to intentionally hurt each other with insults, teasing, and mocking. Sometimes the truth hurts. We have to say the truth. So sometimes we have to hurt each other. Try not to hurt your neighbor unless it is for this reason. 
 
-### Proving your neighbor wrong is loving; argue with each other.
+### Proving your neighbor wrong is loving; argue with each other
+
 If the truth is life to us, and falsehood death, then helping each other out of error and falsehood is not optional — it is obligatory. It is not a debate tactic, a “gotcha” move, oppression, verbal abuse, hateful, or aggressive — it is loving. Of course, both parties in a philosophical argument have to (a) want the truth and (b) love each other.
 
-### Proving yourself wrong is wise; seek out your own mistakes. 
+### Proving yourself wrong is wise; seek out your own mistakes
+
 If truth is life to us, and falsehood death, then you don’t have time to bother with just your neighbor’s errors — focus on your own. Seeing our blindspots is so difficult it is almost impossible. You will have to work harder on seeing your mistakes than working out and staying fit. It’s harder to learn your errors than to get an “A” in class. It’s harder to see yourself than to travel the world. 
 
-### Don’t compare yourself to others. 
+### Don’t compare yourself to others
+
 One of us is the dumbest person in the room. Would it be such a nightmare if that turned out to be you? Wouldn’t it be a good thing to be surrounded by your intellectual superiors? Statistically, we are each different in life experiences, skills, languages, and, of course, IQs. If you are the quickest person in the room, great, help us. If you are the slowest, great, learn. Don’t be either haughty or hopeless; be humble and helpful. 
 
-### Silence is OK, too. 
+### Silence is OK, too
+
 Just because it’s a “discussion day” doesn’t mean we have to discuss the whole period. We need time to digest, to think, to process, to formulate, to ponder, or just to rest. If I am not talking, then you are free to. If I am talking, you are free to interrupt and ask for a minute to think. 
 
 ###Follow the argument wherever it goes; trust the process.  
@@ -62,7 +70,8 @@ Just because it’s a “discussion day” doesn’t mean we have to discuss the
 Human reason is not infallible, but it is reliable. Trust the argument, even if it leads to unexpected, surprising, painful, or implausible conclusions. If the conclusion we are lead to is in error, use the argument to expose that error. If not, then take courage, have faith, and change your mind (and if need be, change your life). 
 
 
-## How to Lead Discussion:
+## How to Lead Discussion
+
 As we get better at discussion, some of  you will try your hand at leading. Here are some tips. 
 
 **BEFORE**
