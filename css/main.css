@@ -216,10 +216,10 @@ nav ul li, footer ul li {
 /* Site footer */ 
 
 footer{
-  background-color: gray;
-  color: teal;
+  background-color: navy;
+  color: white;
   text-align: center;
-  padding: 5px;
+  padding: 2px;
 }
 
 
