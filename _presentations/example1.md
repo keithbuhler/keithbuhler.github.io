@@ -6,9 +6,9 @@ theme: black
 
 <section><!--Begin Utilitarianism Intro-->
 <section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
+<section data-markdown>
 
 # Utilitarianism: Business Ethics Week 3
-
 
 
 </section>
@@ -126,6 +126,8 @@ Should rollercoasters be made illegal?  Do they cause pleasure or pain? Consider
 
 </section>
 <section>
+</section> 
+</section>
 
 ---
 

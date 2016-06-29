@@ -151,21 +151,21 @@ academic conferences, etc.)
 
 
 
-M       Aug-15  Syllabus Day    What are realistic expectations for this class? What are ambitious goals? 
+**M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals? 
 
-W       Aug-17  Meditations in a Toolshed       What are the two ways of looking at things? What is the difference between looking at and looking along?
+**W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?
 
-F       Aug-19  Peter Kreeft, Truth     Is truth objective?
+**F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
 
-M       Aug-22  Mere Christianity I: Right and Wrong as Clue    Is the moral law objective? If so, what does it have to do with Christianity? 
+**M       Aug-22  Mere Christianity I: Morality and God**    Is the moral law objective? If so, what does it have to do with Christianity? 
 
-W       Aug-24  MC II: Belief   Lewis argues that, of the rival conceptions of God, only one fits the facts of morality and history. How does Jesus fit into this conception of God? What objections do you have to his argument?
+**W       Aug-24  MC II: Belief**   Lewis argues that, of the rival conceptions of God, only one fits the facts of morality and history. How does Jesus fit into this conception of God? What objections do you have to his argument?
 
 F       Aug-26  Discussion      
 
-M       Aug-29  MC III: Behavior        What is "the great sin" and why is it unique? What is faith -- or what are the two kinds of faith?
+**M       Aug-29  MC III: Behavior**        What is "the great sin" and why is it unique? What is faith -- or what are the two kinds of faith?
 
-W       Aug-31  Mere Christianity Book IV       Is Christianity hard or easy? Why isn't it about becoming nice people?
+**W       Aug-31  MC IV: Theology**       Is Christianity hard or easy? Why isn't it about becoming nice people?
 
 F       Sep-2   Discussion      
 
