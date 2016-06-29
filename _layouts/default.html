@@ -1,14 +1,17 @@
 <!DOCTYPE html>
  <html>
  	{% include head.html %}
-  <body>      
-        <div class="container">
+    <body>
+    <div id="content-wrapper">
+        {% include header.html %}
+
+    <div class="page-content">
+
  		    {{ content }}
   	   </div><!-- /.container -->
+       </div>
  		   <footer>
-    <br>
  		<p>©2016 | Rights reserved. | <i><a href="/siteinfo"> Site Info</a> </i> | <a emailto="keithedbuhler@gmail.com"> Contact </a> |
     </footer>
  	</body>
-
  </html>
