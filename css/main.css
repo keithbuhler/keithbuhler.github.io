@@ -13,9 +13,9 @@ body {
     font-size:1em;
     line-height:1.5em;
     background:#ffffff;
-    margin: 50px auto;
-    margin-top: 50px;
-    width: 60%;
+    margin: 25px auto;
+    margin-top: 25px;
+    width: 70%;
     text-rendering: optimizeLegibility; 
     -webkit-font-smoothing: antialiased;
     background-image: url("https://drive.google.com/open?id=0B0CYQDZ8AWu8VUtaS0Z6MFFHVlk");
@@ -167,12 +167,38 @@ header {
 nav {
     line-height:30px;
     background-color: navy;
-color: white;
+    color: white;
     height:300px;
     width:100px;
     float:left;
     padding:5px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
 section {
     width:350px;
     float:left;
