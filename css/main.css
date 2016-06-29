@@ -18,7 +18,7 @@ header.site-header {
   left: 5px;
   right: 5px;
   bottom: 5px;
-  background: white;
+  background: #fdfdfd;
   height: 2em;
   width: 100%;
 }
@@ -40,13 +40,12 @@ header.site-header.wrap {
 
 .site-nav .trigger {
     display: inline;
-    float: center;
+    float: right;
     padding: 0 0.5em;
-    color: #611507;
+    color: #333;
 }
 
-.site-nav .trigger a{  
-    display: block;
+.site-nav .trigger a{  display: block;
     color: #611507;
     text-align: center;
     padding: 12px 14px;
