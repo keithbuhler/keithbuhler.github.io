@@ -14,11 +14,11 @@ html, body { height: 100%; }
 
 header.site-header {
   position: fixed;
-  top: 5px;
+  top: 0px;
   left: 5px;
   right: 5px;
-  bottom: 5px;
-  background: #fdfdfd;
+  bottom: 20px;
+  background: #gray;
   height: 2em;
   width: 100%;
 }
