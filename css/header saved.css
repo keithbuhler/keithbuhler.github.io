@@ -53,3 +53,54 @@ nav ul li, footer ul li {
     border-bottom: 2px solid #cc6600;
 
 }
+
+
+
+
+header {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+nav {
+    line-height:30px;
+    background-color: navy;
+    color: white;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+section {
+    width:350px;
+    float:left;
+    padding:15px;
+}
