@@ -3,34 +3,40 @@
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
-html, body { height: 100%; }
+html, body { 
+  height: 100%; 
+}
 
-/* body */ 
+/* this is for the body body */ 
 
 body {
     color:#333;
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     font-size:1em;
     line-height:1.5em;
-    margin: 25px auto;
-    margin-top: 25px;
+    margin: 0 auto;
+    margin-top: 0;
     width: 70%;
     text-rendering: optimizeLegibility; 
     -webkit-font-smoothing: antialiased;
-    background-image: url("https://drive.google.com/open?id=0B0CYQDZ8AWu8VUtaS0Z6MFFHVlk");
-    background-repeat: no-repeat;
-    background-position: top;
+    background-image: url("/img/squairy.png");
+    background-repeat: repeat;
 }
 
 
-#content-wrapper {
-margin:4em auto;
-max-width:33em;
+#outline {
+background:#ffffff;
+opacity: 0.95;
+margin:0 auto 0;
+padding-top:0px;
+height: 1000px;
+width:800px;
+border-bottom-right-radius: 800px 400px;
+position: relative;
+z-index: 1;
 }
 
-.shift-left {
-    padding-right: 12em;
-}
+
 
 /* links*/
 
@@ -310,3 +316,35 @@ ul.posts li {
 .post pre code { border: none; }
 
 /* Post styles */
+
+
+/* Tables */
+
+/* Tables */
+dl {
+  padding: 0;
+  margin: 1.5em 0;
+}
+
+dt {
+  float: left;
+  clear: left;
+  font-weight: bold;
+  margin-right: 1em;
+}
+
+dt::after {
+  content: ": ";
+}
+
+dd {
+  margin: 0 0 1.5em 0;
+  padding: 0;
+}
+
+dd p {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    clear: right;
+}
