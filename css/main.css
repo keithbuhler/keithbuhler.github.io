@@ -167,13 +167,10 @@ ul {
     top: 0;
     width: 100%; 
     position: center;
+
+
 }
 
-/* This makes the top header centered */
-
-#nav ul {
-    display: inline-block;
-    list-style-type: none;
 
 /* border around "list" of nav header */
 

@@ -2,6 +2,7 @@
 layout: default
 --- 
 
+
 | <a href="/Buhler-CV.pdf">CURRICULUM VITAE</a> |
 |:-----------------------------------------------------------------------:|
 | Keith Buhler                                                          |
