@@ -4,50 +4,6 @@ title: Student Portal
 
 --- 
 
-<div id="outline">
-
-<div id="left_container">
-
-<img src="seal-uk.png"><br><br>
-<font size="5pt">
-<table style="width: 100%;">
-  <tbody><tr>
-<td><a href="https://www.facebook.com/pvanelswyk" target="_blank" title="Facebook" class="table"><i class="fa fa-facebook-official"></i></a></td>
-<td><a href="https://rutgers.academia.edu/PetervanElswyk" target="_blank" title="Academia" class="table"><i class="fa fa-book"></i></a> </td>
-<td><a href="http://philpapers.org/profile/686" target="_blank" title="PhilPapers" class="table"><i class="fa fa-file"></i></a> </td>
-<td><a href="mailto:peter.vanelswyk@rutgers.edu" target="_blank" title="Email" class="table"><i class="fa fa-envelope"></i></a></td>
-  </tr>
-</tbody></table>
-
-</font>
-
-<br>
-<img src="seals2.png">
-
-
-</div>
-
-
-
-<div id="right_container"> 
-<table style="width: 100%;">
-  <tbody><tr>
-    <td><a href="index.html" class="table">about</a></td>
-  </tr>
-</tbody></table>
-
-<br>
-
-Lorem Ipsum 
-
-<br><br>
-
-Lorem Ipsum  2
-
-</div>
-
-</div>
-
 # Student Portal
 
 Most people that don't go to college will never study philosophy. But everyone has thoughts about life, death, the afterlife, reality, the self, science, religion, and beauty. 

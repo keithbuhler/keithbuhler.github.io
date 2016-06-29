@@ -8,13 +8,11 @@ theme: black
 <section data-background="http://screenrant.com/wp-content/uploads/middle-earth-map-tolkien-annotations.jpg">
 <section data-markdown>
 
+<div>
 
 # Utilitarianism: Business Ethics Week 3
 
-
-</section>
-<div id="slide">
-<section data-markdown>
+</div>
 
 
 # Utilitarinaism: All the points!
