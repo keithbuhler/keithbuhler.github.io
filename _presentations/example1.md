@@ -7,13 +7,14 @@ theme: black
 <section><!--Begin Utilitarianism Intro-->
 <section data-background="http://screenrant.com/wp-content/uploads/middle-earth-map-tolkien-annotations.jpg">
 <section data-markdown>
-<div id="slide">
 
 
 # Utilitarianism: Business Ethics Week 3
 
 
-</div><div id="slide">
+</section>
+<div id="slide">
+<section data-markdown>
 
 
 # Utilitarinaism: All the points!
@@ -27,7 +28,7 @@ theme: black
 7. Utilitarianism has two main forms: act and rule. 
 8. Utilitarianism is criticized for being unjust, impractical, and amoral. 
 
-</div><div id="slide">
+</div></section><div id="slide"><section data-markdown>
 
 
 ## 1. The best moral action is one that maximizes "utility"
@@ -35,8 +36,7 @@ theme: black
 What is good in itself? What is an intrinsic good? 
 
 
-</section>
-<section>
+</div></section><div id="slide"><section data-markdown>
 
 ## 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
