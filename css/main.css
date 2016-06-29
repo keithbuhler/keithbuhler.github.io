@@ -34,8 +34,10 @@ header.site-header.wrap {
 
 .site-title,.site-title:visited {
   display: inline;
-   top: 5px;
-   color: #611507;
+   padding: 20px;
+   color: white;
+  text-align: center;
+
 }
 
 .site-nav {display: inline;}
@@ -48,7 +50,7 @@ header.site-header.wrap {
 }
 
 .site-nav .trigger a{  display: block;
-    color: #611507;
+    color: white;
     text-align: center;
     padding: 12px 14px;
     text-decoration: none; }
