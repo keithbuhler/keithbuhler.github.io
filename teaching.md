@@ -57,8 +57,6 @@ S2013 Introduction to Logic
 
 [Students, please visit my student portal for philosophy resources.](/philosophy) 
 
-[How to write a philosophical disputation](/disputations)
-
  
 (pictured: The archeological site of Plato's Academy)
 

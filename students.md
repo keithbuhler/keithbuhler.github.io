@@ -14,16 +14,11 @@ Most people that go to college will take exactly *one* philosophy class: introdu
 ### So, You're in Philosophy, eh?
 
 
-<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%"> </a>
+<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="right" width="60%"> </a>
 
-Most people that do take a class find philosophy surprisingly interesting (depending on the professor, of course. A bad professor can make rock climbing boring.) 
+Most people that do take a class find philosophy surprisingly interesting (depending on the professor, of course. A bad professor can make even film classes boring.) 
 
-A percentage those will take some more philosophy classes. 
+A few of those will earn a major or minor. Should you? The short answer is: probably. [Studying philosophy is VERY GOOD IDEA](/philosophy-major)
+A major or minor will help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
-A few will earn a major or minor. Should you? The short answer is: maybe. [Studying philosophy is a very good idea](/philosophy-major)
-It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
-
-# [Click here for the philosophy portal.](/philosophy-2-portal)
-
-<a href="https://twitter.com/Keith_Buhler" class="twitter-follow-button" data-show-count="false">Follow @Keith_Buhler</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+# [Click here for the Philosophy Portal.](/philosophy-2-portal)

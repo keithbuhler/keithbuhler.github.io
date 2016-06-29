@@ -141,96 +141,72 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 
 
-### Course Outline (online)
+### Course Outline
 
 (Outline subject to revisions due to snow days, instructor sickness,
 academic conferences, etc.)
 
-<iframe src="https://docs.google.com/spreadsheets/d/1wGQ8vaNnRiZKsE9iRKCFPky65W1mUqJhsDjhkk_m9UM/pubhtml?widget=true&amp;headers=false" width="600" height="800"></iframe>
 
-
-
-
-**M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals? 
-
-**W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?
-
+Week 1  
+**M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals?    
+**W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
 **F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
 
-**M       Aug-22  Mere Christianity I: Morality and God**    Is the moral law objective? If so, what does it have to do with Christianity? 
+Week 2    
+**M       Aug-22  Mere Christianity I: Morality and God**    Is the moral law objective? If so, what does it have to do with Christianity?   
+**W       Aug-24  MC II: Belief**   Lewis argues that, of the rival conceptions of God, only one fits the facts of morality and history. How does Jesus fit into this conception of God? What objections do you have to his argument?  
+**F       Aug-26  Discussion**       
 
-**W       Aug-24  MC II: Belief**   Lewis argues that, of the rival conceptions of God, only one fits the facts of morality and history. How does Jesus fit into this conception of God? What objections do you have to his argument?
+Week 3  
+**M       Aug-29  MC III: Behavior**        What is "the great sin" and why is it unique? What is faith -- or what are the two kinds of faith?  
+**W       Aug-31  MC IV: Theology**       Is Christianity hard or easy? Why isn't it about becoming nice people?  
+**F       Sep-2   Discussion**       
 
-F       Aug-26  Discussion      
+Week 4  
+**M       Sep-5   No Class, Labor Day**      
+**W       Sep-7   Four Loves, Introduction, Likings**       Why four kinds of love? Understand the distinction between "need-love" and "gift-love"?  What characterizes "storge" love -- empathy, familiarity, fondness? Are there any objections to this view?    
+**F       Sep-9   Four Loves, Affection**      
 
-**M       Aug-29  MC III: Behavior**        What is "the great sin" and why is it unique? What is faith -- or what are the two kinds of faith?
+Week 5  
+**M       Sep-12  Four Loves, Friendship**  Why isn't friendship a need-love? Why do moderns "ignore" friendship love?   
+**W       Sep-14  Four Loves, Charity**     What characterizes Agape? Is all agape gift-love?  
+**F       Sep-16  Discussion**      
 
-**W       Aug-31  MC IV: Theology**       Is Christianity hard or easy? Why isn't it about becoming nice people?
+Week 6  
+**M       Sep-19  Problem of Pain, part I** Why is pain, animal pain especially, a particular problem for Christians? What strategies does Lewis use to solve it?  
+**W       Sep-21  Problem of Pain, part II**     
+F       Sep-23  Discussion       
 
-F       Sep-2   Discussion      
 
-M       Sep-5   No Class, Labor Day     
-
-W       Sep-7   Four Loves, Introduction, Likings       Why four kinds of love? Understand the distinction between "need-love" and "gift-love"?  What characterizes "storge" love -- empathy, familiarity, fondness? Are there any objections to this view?
-
-F       Sep-9   Four Loves, Affection   
-
-M       Sep-12  Four Loves, Friendship  Why isn't friendship a need-love? Why do moderns "ignore" friendship love?
-
-W       Sep-14  Four Loves, Charity     What characterizes Agape? Is all agape gift-love?
-
-F       Sep-16  Discussion      
-
-M       Sep-19  Problem of Pain, part I Why is pain, animal pain especially, a particular problem for Christians? What strategies does Lewis use to solve it?
-
-#### W       Sep-21  Problem of Pain, part II    
-
-Question set 1. 
-
-Passage: " It is mere nonsense to put pain among the discoveries of science. Lay down this book and reflect for five minutes on the fact that all the great religions were first preached, and long practised, in a world without chloroform. At all times, then, an inference from the course of events in this world to the goodness and wisdom of the Creator would have been equally preposterous; and it was never made. Religion has a different origin... In all developed religion we find three strands or elements, and in Christianity one more. The first of these is what Professor Otto calls the experience of the Numinous."
-
-Question 1      In light of 1
-
-F       Sep-23  Discussion      
-
-M       Sep-26  Abolition of Man 1, 2   What is the "Tao"? Why does it matter for education. 
-
-W       Sep-28  Abolition of Man 3      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?
-
+Week 7   
+**M       Sep-26  Abolition of Man 1, 2**   What is the "Tao"? Why does it matter for education.   
+W       Sep-28  Abolition of Man 3      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  
 F       Sep-30  Discussion / Paper Workshop     
 
-M       Oct-3   Pan's Labrynth (film) 1st half  
-
-W       Oct-5   Pan's Labrynth (film) 2nd half  
-
+M       Oct-3  (Film) 1st half  
+W       Oct-5   (Film) 2nd half  
 F       Oct-7   Midterm 
 
-M       Oct-10  Miracles, part I        What is NOT a miracle? How could one prove a miracle? 
+#### Week 8  (quiz here)
+M       Oct-10  Miracles, part I        What is NOT a miracle? How could one prove a miracle?   
+W       Oct-12  Miracles, part II        
+F       Oct-14  No Class, Fall Break     
 
-W       Oct-12  Miracles, part II       
-
-
-F       Oct-14  No Class, Fall Break    
-
-M       Oct-17  Miracles, part III      What is the Grand Miracle and why does it matter? Any objections? 
-
-W       Oct-19  Miracles, part IV       
-
-F       Oct-21  Discussion      
+Week 9 
+M       Oct-17  Miracles, part III      What is the Grand Miracle and why does it matter? Any objections?   
+W       Oct-19  Miracles, part IV          
+F       Oct-21  Discussion       
 
 M       Oct-24  Miracles, part V (chs. 12-14)   
-
 W       Oct-26  Miracles, part VI (chs. 15-16)  
 F       Oct-28  Discussion      
 
 M       Oct-31  Experiment in Criticism ch. 1   
-
 W       Nov-2   Experiment in Criticism, 3, 11, epilogue.       
 F       Nov-4   Discussion      
+
 M       Nov-7   Great Divorce chs. 1-7  
-
 W       Nov-9   Great Divorce chs. 8-12 
-
 F       Nov-11  Discussion      
 
 M       Nov-14  Perelandra 1-3  
