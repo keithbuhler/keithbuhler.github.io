@@ -157,53 +157,50 @@ border: 2px solid black;
 
 /* Site header */ 
 
-header {
-    background-color: gray;
-    color: white;
-    text-align: center;
-    padding: 5px;
-}
-
-nav {
-    line-height:30px;
-    background-color: navy;
-    color: white;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px;
-}
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: gray;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%; 
+    position: center;
+
+
 }
 
 li {
     float: left;
+    border: 1px solid #333;
 }
 
 li a {
     display: block;
-    color: white;
+    color: #611507;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: #611507;
+    color: #ffffff;
 }
 
-section {
-    width:350px;
-    float:left;
-    padding:15px;
+.active {
+    background-color: #611507;
+    color: #ffffff;
+
 }
+
+
+
+
+
+
 
 
 /* Site footer */ 
@@ -215,9 +212,6 @@ footer{
   padding-top: 10px;
   padding-bottom: 0px;
 }
-
-
-
 
 
 
