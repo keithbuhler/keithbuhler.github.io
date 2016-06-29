@@ -7,13 +7,13 @@ theme: black
 <section><!--Begin Utilitarianism Intro-->
 <section data-background="http://screenrant.com/wp-content/uploads/middle-earth-map-tolkien-annotations.jpg">
 <section data-markdown>
+<div id="slide">
+
 
 # Utilitarianism: Business Ethics Week 3
 
 
-<div id="slide">
-</section>
-<section data-markdown>
+</div><div id="slide">
 
 
 # Utilitarinaism: All the points!
@@ -27,8 +27,7 @@ theme: black
 7. Utilitarianism has two main forms: act and rule. 
 8. Utilitarianism is criticized for being unjust, impractical, and amoral. 
 
-</section>
-<section>
+</div><div id="slide">
 
 
 ## 1. The best moral action is one that maximizes "utility"
