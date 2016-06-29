@@ -138,7 +138,7 @@ text-align: left;
 
 /* Site header */ 
 
-ul {
+nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -147,19 +147,11 @@ ul {
     top: 0;
     width: 100%; 
     position: center;
-
-
-}
-
-/* border around "list" of nav header */
-
-
-#nav li {
     float: left;
     border: 1px solid #333;
 }
 
-ul li a {
+nav a {
     display: block;
     color: #611507;
     text-align: center;
@@ -167,12 +159,12 @@ ul li a {
     text-decoration: none;
 }
 
-ul li a:hover {
+nav a:hover {
     background-color: #611507;
     color: #ffffff;
 }
 
-.active {
+nav.active {
     background-color: #611507;
     color: #ffffff;
 
