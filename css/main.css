@@ -18,16 +18,16 @@ header.site-header {
   left: 5px;
   right: 5px;
   bottom: 5px;
-  background: gray;
-  height: 4em;
+  background: white;
+  height: 2em;
   width: 100%;
 }
 
 
 header.site-header.wrap {
-  max-width: 33em;
+  max-width: 43em;
   margin: 0px auto;
-  padding-top: 0px;
+  padding-top: 5px;
 }
 
 
@@ -40,12 +40,17 @@ header.site-header.wrap {
 
 .site-nav .trigger {
     display: inline;
-    float: right;s
+    float: center;
     padding: 0 0.5em;
-    color: #333;
+    color: #611507;
 }
 
-.site-nav .trigger a{ color: #333; }
+.site-nav .trigger a{  
+    display: block;
+    color: #611507;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none; }
 .site-nav .trigger a:hover{ background-color: #cc6600;  color: white; }
 
 .site-title:hover{ color: #cc6600; }

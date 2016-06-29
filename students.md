@@ -3,10 +3,10 @@ layout: default
 title: Student Portal
 --- 
 
+# Student Portal
+
 <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="right" width="60%"> </a>
 
-
-# Student Portal
 
 Most people that don't go to college will never study philosophy. But everyone has thoughts about life, death, the afterlife, reality, the self, science, religion, and beauty. 
 
