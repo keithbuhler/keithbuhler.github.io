@@ -12,7 +12,6 @@ body {
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     font-size:1em;
     line-height:1.5em;
-    background:#ffffff;
     margin: 25px auto;
     margin-top: 25px;
     width: 70%;
@@ -72,25 +71,12 @@ text-align: left;
 
 }
 
-/* Outline and body of pages*/
-
-#outline{
-  background: #fdfdfd;
-  opacity: 0.95;
-  margin: 0 auto 0;
-  padding-top: 0px;
-  height: 1000px;
-  width: 800px;
-  border-bottom-color: gray; 
-  position: relative;
-  z-index: 1;
-
-}
+/* body of pages*/
 
 #container {
 width: 800px;
 margin: 0 auto;
-background: #gray;
+background: gray;
 position: relative;
 
 }
