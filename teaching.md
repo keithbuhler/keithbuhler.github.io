@@ -55,9 +55,11 @@ S2013 Introduction to Logic
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Athens_Plato_Academy_Archaeological_Site_2.jpg/1920px-Athens_Plato_Academy_Archaeological_Site_2.jpg" alt="plato's academy" width="400" height="350" align="center" hspace="10">
 </a> 
 
-[Students, please visit my student portal for philosophy resources.](/philosophy) 
+(pictured: The archeological site of Plato's Academy)
+
+
+[Students, please visit my student portal for philosophy resources.](/philosophy-2-portal) 
 
  
-(pictured: The archeological site of Plato's Academy)
 
 

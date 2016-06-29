@@ -4,6 +4,17 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 html, body { height: 100%; }
 
 
+/* Site header */
+header.site-header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: white;
+  height: 2em;
+  border-bottom: 2px #333;
+  width: 100%;
+}
+
 
 
 
