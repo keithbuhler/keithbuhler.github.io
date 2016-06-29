@@ -18,9 +18,10 @@ header.site-header {
   left: 5px;
   right: 5px;
   bottom: 20px;
-  background: #FFC9AA;
+  background: #1D3D5A;
   height: 3em;
   width: 100%;
+  border-image: 
 }
 
 
@@ -33,11 +34,11 @@ header.site-header.wrap {
 
 .site-title,.site-title:visited {
   display: inline;
-  padding-top: 5px;
-  color: #611507;
+   top: 5px;
+   color: #611507;
 }
 
-.site-nav {display: inline; align-self: center;}
+.site-nav {display: inline;}
 
 .site-nav .trigger {
     display: inline;
