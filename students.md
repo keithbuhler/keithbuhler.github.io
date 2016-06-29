@@ -22,3 +22,5 @@ A few of those will earn a major or minor. Should you? The short answer is: prob
 A major or minor will help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
 # [Click here for the Philosophy Portal.](/philosophy-2-portal)
+
+<img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif">
