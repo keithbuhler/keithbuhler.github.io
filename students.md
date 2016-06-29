@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Student Portal
-
 --- 
 
 <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="right" width="60%"> </a>

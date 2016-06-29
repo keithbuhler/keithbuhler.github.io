@@ -26,7 +26,7 @@ header.site-header {
 
 
 header.site-header.wrap {
-  max-width: 33em;
+  max-width: 43em;
   margin: 0px auto;
   padding-top: 5px;
 }
@@ -65,8 +65,7 @@ header.site-header.wrap {
 
 #content-wrapper {
 margin:4em auto;
-max-width:33em;
-border-bottom: 2px solid blue;
+max-width:800px;
 
 
 }
@@ -83,7 +82,7 @@ body { color:#333;
     line-height:1.5em;
     margin: 0 auto;
     margin-top: 0;
-    width: 70%;
+    width: 100%;
     text-rendering: optimizeLegibility; 
     -webkit-font-smoothing: antialiased;
     background-image: url("");
@@ -99,7 +98,7 @@ opacity: 0.95;
 margin:0 auto;
 padding-top:0px;
 height: 1000px;
-width:800px;
+width:1000px;
 border-bottom: 2px solid black;
 position: relative;
 z-index: 1;
@@ -171,7 +170,7 @@ text-align: left;
 
 
 #thumbs {   
-    width: 440px;
+    width: 300px;
     margin-top:80px;
     margin-left: auto; 
     margin-right: auto;
