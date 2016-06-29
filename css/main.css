@@ -45,7 +45,7 @@ header.site-header.wrap {
 }
 
 .site-nav .trigger a{ color: #333; }
-.site-nav .trigger a:hover{ color: cc6600; }
+.site-nav .trigger a:hover{   color: cc6600; }
 .site-title:hover{ color: cc6600; }
 
 
@@ -64,6 +64,9 @@ header.site-header.wrap {
 #content-wrapper {
 margin:4em auto;
 max-width:33em;
+border-bottom: 2px solid blue;
+
+
 }
 
 .shift-left {
