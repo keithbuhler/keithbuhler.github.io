@@ -3,9 +3,9 @@ layout: default
 title: site
 ---
 
-This website and its content is copyrighted by Keith Buhler 2016, all rights reserved. With two exceptions: 
+This website and its content is copyrighted by Keith Buhler 2016. All rights are reserved except two:
 
-(1) **Code**: You can always fork projects on Github. 
+(1) **Code**: You can always fork projects on [Github.](http://github.com) 
 
 (2) **Fiction**: You can use my fiction writings with proper ascription for your creative projects (but not for sale) under Creative Commons License. [Contact me](emailto:keithedbuhler@gmail.com) for commercial licensing or for more information.
 
