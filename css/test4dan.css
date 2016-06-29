@@ -151,7 +151,7 @@ header.site-header .wrap {
 
 .site-title,.site-title:visited {
   display: inline;
-  color: #333;
+  color: #cc6600;
 }
 
 .site-nav {display: inline; }
@@ -166,7 +166,13 @@ header.site-header .wrap {
 .site-nav .trigger a{ color: #333; }
 .site-nav .trigger a:hover{ color: teal; }
 .site-title:hover{ color: navy; }
+
+
+
+
+
 .post-date {margin-top: -2em; font-size: 0.9em; color: #999;}
+
 div.post{ margin-bottom: 15em; }
 
 

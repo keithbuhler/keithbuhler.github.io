@@ -4,19 +4,26 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 html, body { height: 100%; }
 
 
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
+}
+
 /* Site header */
+
 header.site-header {
   position: fixed;
   top: 0px;
   left: 0px;
   background: white;
   height: 2em;
-  border-bottom: 2px #333;
+  border-bottom: 2px #cc6600;
   width: 100%;
 }
 
 
-header.site-header .wrap {
+header.site-header.wrap {
   max-width: 33em;
   margin: 0px auto;
   padding-top: 0.2em;
@@ -38,8 +45,8 @@ header.site-header .wrap {
 }
 
 .site-nav .trigger a{ color: #333; }
-.site-nav .trigger a:hover{ color: teal; }
-.site-title:hover{ color: navy; }
+.site-nav .trigger a:hover{ color: cc6600; }
+.site-title:hover{ color: cc6600; }
 
 
 
@@ -54,7 +61,14 @@ header.site-header .wrap {
 
 
 
+#content-wrapper {
+margin:4em auto;
+max-width:33em;
+}
 
+.shift-left {
+    padding-right: 12em;
+}
 
 /* this is for the body  */ 
 
