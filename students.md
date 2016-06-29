@@ -4,13 +4,41 @@ title: Student Portal
 
 --- 
 
+
 # Student Portal
+
+
+<div id="left-container" data-markdown>
 
 Most people that don't go to college will never study philosophy. But everyone has thoughts about life, death, the afterlife, reality, the self, science, religion, and beauty. 
 
+Most people that go to college will take exactly *one* philosophy class: introduction to philosophy. [So make the most of it.](/philosophy-2-portal)
+
+
+<div id="left-container">
+
+<div id="right-container">
+
 ### So, You're in Philosophy, eh?
 
-Most people that go to college will take exactly *one* philosophy class: introduction to philosophy. [So make the most of it.](/philosophy-2-portal)
+
+<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%"> </a>
+
+Most people that do take a class find philosophy surprisingly interesting (depending on the professor, of course. A bad professor can make rock climbing boring.) 
+
+A percentage those will take some more philosophy classes. 
+
+A few will earn a major or minor. Should you? The short answer is: maybe. [Studying philosophy is a very good idea](/philosophy-major)
+It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
+
+# [Click here for the philosophy portal.](/philosophy-2-portal)
+
+</div>
+
+
+
+### So, You're in Philosophy, eh?
+
 
 <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" align="right" width="75%"> </a>
 
