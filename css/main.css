@@ -14,8 +14,10 @@ html, body { height: 100%; }
 
 header.site-header {
   position: fixed;
-  top: 0px;
-  left: 0px;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
   background: white;
   height: 2em;
   border-bottom: 2px #cc6600;
@@ -26,7 +28,7 @@ header.site-header {
 header.site-header.wrap {
   max-width: 33em;
   margin: 0px auto;
-  padding-top: 0.2em;
+  padding-top: 5px;
 }
 
 
