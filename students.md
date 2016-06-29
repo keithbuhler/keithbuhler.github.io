@@ -33,11 +33,6 @@ title: Student Portal
 <table style="width: 100%;">
   <tbody><tr>
     <td><a href="index.html" class="table">about</a></td>
-    <td style="background: #383554;">research</td>
-    <td><a href="papers.html" class="table">papers</a></td> 
-    <td><a href="vitae.html" class="table">vitae</a></td> 
-    <td><a href="teaching.html" class="table">teaching</a></td>
-    <td><a href="misc.html" class="table">miscellany</a></td>
   </tr>
 </tbody></table>
 
@@ -73,8 +68,6 @@ A few will earn a major or minor. Should you? The short answer is: maybe. [Study
 It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
 # [Click here for the philosophy portal.](/philosophy-2-portal)
-
-----
 
 <a href="https://twitter.com/Keith_Buhler" class="twitter-follow-button" data-show-count="false">Follow @Keith_Buhler</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>

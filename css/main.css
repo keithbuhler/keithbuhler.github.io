@@ -1,16 +1,11 @@
 /* Base */
 /* ----------------------------------------------------------*/
-
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+html, body { height: 100%; }
 
-html, body { 
-  height: 100%; 
-}
+/* this is for the body  */ 
 
-/* this is for the body body */ 
-
-body {
-    color:#333;
+body { color:#333;
     font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     font-size:1em;
     line-height:1.5em;
@@ -24,50 +19,7 @@ body {
 }
 
 
-
-
-
-
-/* links*/
-
-a{ color: #205caa; text-decoration:none;}
-a:visited{ color: #0645ad; }
-a:hover{ color: #cc6600; }
-a:active{ color:#0645ad; }
-a:focus{ outline: thin dotted; }
-a:hover, a:active{ outline: 0; }
-
-
-
-/* Headings*/
-
-
-h1,h2,h3,h4,h5,h6{
-font-weight:normal;
-color:#111;
-line-height:1em;
-}
-h4,h5,h6{ font-weight: bold; }
-h1{ font-size:2.1em; }
-h2{ font-size:1.9em; }
-h3{ font-size:1.5em; }
-h4{ font-size:1.2em; }
-h5{ font-size:1em; }
-h6{ font-size:0.9em; }
-
-
-/* Normal text*/
-
-p{
-margin:1em 0;
-text-align: left;
-}
-
-
-
-}
-
-/* body of pages*/
+/* columns if I end up using them */
 
 #container {
 background:#ffffff;
@@ -106,6 +58,48 @@ z-index: 1;
 
 
 
+/* body links*/
+
+a{ color: #205caa; text-decoration:none;}
+a:visited{ color: #0645ad; }
+a:hover{ color: #cc6600; }
+a:active{ color:#0645ad; }
+a:focus{ outline: thin dotted; }
+a:hover, a:active{ outline: 0; }
+
+
+
+/* body headings*/
+
+
+h1,h2,h3,h4,h5,h6{
+font-weight:normal;
+color:#111;
+line-height:1em;
+}
+h4,h5,h6{ font-weight: bold; }
+h1{ font-size:2.1em; }
+h2{ font-size:1.9em; }
+h3{ font-size:1.5em; }
+h4{ font-size:1.2em; }
+h5{ font-size:1em; }
+h6{ font-size:0.9em; }
+
+
+/* body text*/
+
+p{
+margin:1em 0;
+text-align: left;
+}
+
+
+
+/* body thumb pictures*/
+
+
+
+
 #thumbs {   
     width: 440px;
     margin-top:80px;
@@ -130,7 +124,9 @@ z-index: 1;
 }
 
 
-/* Lists */
+
+
+/* Body lists */
 
 
 
@@ -141,7 +137,6 @@ z-index: 1;
 
 
 /* Site header */ 
-
 
 ul {
     list-style-type: none;
@@ -156,11 +151,10 @@ ul {
 
 }
 
-
 /* border around "list" of nav header */
 
 
-ul li {
+#nav li {
     float: left;
     border: 1px solid #333;
 }

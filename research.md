@@ -4,6 +4,8 @@ title: Research
 
 --- 
 
+# Research
+
 <img src="/img/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
 My work is centered on virtue ethics. I discovered virtue ethics by way of ancients like Plato, Aristotle, and Laozi and also recent neo-Aristotelians such as Philippa Foot, John McDowell, and Alasdair MacIntyre. My goal is overcome common objections to virtue ethics in general and naturalistic moral realism in particular by clarifying what 'nature' is in notions like 'natural normativity' and 'human nature'.

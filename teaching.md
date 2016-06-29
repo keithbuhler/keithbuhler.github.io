@@ -3,6 +3,8 @@ layout: default
 title: Teaching
 ---
 
+# Teaching 
+
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
 ### Course Syllabi
