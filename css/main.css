@@ -90,9 +90,8 @@ text-align: left;
 #container {
 width: 800px;
 margin: 0 auto;
-background: #ffffff;
+background: #gray;
 position: relative;
-border: 2px solid black;
 
 }
 
