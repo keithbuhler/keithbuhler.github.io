@@ -1,0 +1,10 @@
+
+footer{
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto
+  width: 800px;
+  border-top: 2px solid #cc6600;
+
+}

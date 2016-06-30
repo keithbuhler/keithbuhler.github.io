@@ -86,6 +86,19 @@ max-width:800px;
     padding-right: 12em;
 }
 
+
+
+/* Begin Page Content styles */
+
+
+.page-content {
+  padding: 30px 0;
+  background-color: gray;
+}
+
+/* End Page Content styles */
+
+
 /* this is for the body  */ 
 
 body { color:#333;
@@ -245,17 +258,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-/* Begin Page Content styles */
-
-
-.page-content {
-  padding: 30px 0;
-  background-color: #fdfdfd;
-}
-
-/* End Page Content styles */
-
 
 
 
