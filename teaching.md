@@ -11,7 +11,7 @@ I have been teaching at universities or high schools for fifteen years. Since 20
 
 ### Teaching Statement
 
-My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. [Click here to read my full teaching statement](/teaching-statement)
+My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
 
 ### Sample Syllabi
 
@@ -46,7 +46,6 @@ S2013 Introduction to Logic
 9. "He learned our names very quickly and took time to understand our points in discussion." (PHI305, 2015)
 10. "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
 11. "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
-12. [More student feedback (good and bad)](/student-feedback)
 
 ### Philosophy resources ###
 
@@ -56,8 +55,7 @@ S2013 Introduction to Logic
 
 (pictured: The archeological site of Plato's Academy)
 
-
-[Students, please visit my student portal for philosophy resources.](/philosophy-2-portal) 
+[Students, please visit my philosophy portal.](/philosophy-2-portal) 
 
  
 
