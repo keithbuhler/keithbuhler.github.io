@@ -2,17 +2,13 @@
 layout: default
 --- 
 
-<center> <h3><a href="/Buhler-CV.pdf">CURRICULUM VITAE</a></h3> </center>
-
-|Keith Buhler |
-|:-----------------------------------------------------------------------:|
-|                                                           |
-| Doctoral Candidate                                                      |
-| Deptartment of Philosophy                                               |
-| University of Kentucky                                                  |
-| Lexington, KY, 40506.                                                   |
-| keith.buhler@uky.edu                                                    | 
-
+### CURRICULUM VITAE
+Keith Buhler  
+Doctoral Candidate  
+Deptartment of Philosophy  
+University of Kentucky   
+Lexington, KY, 40506  
+keith.buhler@uky.edu   
 
 
 ### AREAS OF SPECIALIZATION

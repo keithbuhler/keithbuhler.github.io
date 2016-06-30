@@ -7,7 +7,7 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
 
-I have been teaching at the high school or college level for fifteen years. The last four years, I have been teaching at the University of Kentucky and Asbury University. Before that, I taught high school, serving as Master Tutor for two years and Director of High School Studies for one year. You can see a complete list of courses taught on my [CV](/Buhler-CV.pdf). 
+I have been teaching at universities or high schools for fifteen years. Since 2012, I have taught university courses in philosophy, metaphysics, ethics, bioethics, and philosophy of religion at the University of Kentucky and Asbury University. Before that, I served one year as Director of High School Studies at Veritas Academy and two years as Master Tutor at Torrey Academy. Complete details are on my [CV](/Buhler-CV.pdf). 
 
 ### Teaching Statement
 
@@ -29,9 +29,8 @@ S2013 Introduction to Logic
 
 ### Official Student Evaluation Stats
 
-3.6 out of 4, cumulative average in overall teaching quality (combined University of Kentucky and Asbury University)
-
-3.5 out of 4, cumulative average in overall course quality
+- 3.6 out of 4, cumulative average in overall teaching quality (combined University of Kentucky and Asbury University)
+- 3.5 out of 4, cumulative average in overall course quality
 
  
 ### Student Feedback Highlights ###
