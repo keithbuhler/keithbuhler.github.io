@@ -226,7 +226,7 @@ text-align: left;
 /* Site footer */ 
 
 
-footer {
+site.footer {
  text-align: center;
   position: relative;
   top: 0px;
