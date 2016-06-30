@@ -94,9 +94,8 @@ body { color:#333;
     width: 100%;
     text-rendering: optimizeLegibility; 
     -webkit-font-smoothing: antialiased;
-    background-image: url("http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1536_front.jpg");
-    background-repeat: no-repeat;
-    background-position: top;
+    background-image: url("http://www.vfinspections.com/backgrounds/squairy/squairy_light_@2X.png");
+    background-repeat: repeat;
 }
 
 /* Begin Page Content, central column styles */
