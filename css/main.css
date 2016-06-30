@@ -15,14 +15,13 @@ html, body { height: 100%; }
 header.site-header {
   position: relative;
   top: 0px;
-  left: 20px;
-  right: 20px;
-  bottom: 20px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
   background: #1D3D5A;
   height: 3em;
   width: 800px;
   border-radius: 4px;
-
 }
 
 
@@ -35,9 +34,8 @@ header.site-header.wrap {
 
 .site-title,.site-title:visited {
   display: inline;
-  font-size: 2em;
-   padding: 20px;
-   color: white;
+  padding: 15px;
+  color: white;
   text-align: center;
 
 }
