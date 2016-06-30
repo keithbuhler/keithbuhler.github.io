@@ -17,7 +17,7 @@ keith.buhler@uky.edu
 Ethics, Metaethics.       
 
 ### AREAS OF COMPETENCE
-Bioethics, Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.  
+Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.  
 
 
 
@@ -167,4 +167,4 @@ International Society for MacIntyrean Enquiry, 2015-present
 
 
 ### DISSERTATION
-*Working Title:* "BECOMING WHAT WE ARE: RECENT NEO-ARISTOTELIANS ON THE ETHICAL SIGNIFICANCE OF BEING RATIONAL PRIMATES"  (Chair: David Bradshaw)
+*Working Title:* "THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS"  (Chair: David Bradshaw)

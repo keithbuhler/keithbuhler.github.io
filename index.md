@@ -12,8 +12,7 @@ I'm Keith Buhler, a doctoral candidate at the University of Kentucky and a philo
 
 <br>
 <br>
-<br>
 
-<img src="/img/seal-biola.png" alt="Biola" height="50" align="left" width="50"> &nbsp;&nbsp;&nbsp; <img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50" align="left"> &nbsp;&nbsp;&nbsp; <img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50" align="left">  &nbsp;&nbsp;&nbsp; <img src="/img/seal-uk.png" alt="Kentucky" height="50" width="50" align="left">  
+<img src="/img/seal-biola.png" alt="Biola" height="50" align="left" hspace="10px" width="50"> &nbsp;&nbsp;&nbsp; <img src="/img/seal-thi.png" alt="Torrey Honors" height="50" width="50" align="left"> &nbsp;&nbsp;&nbsp; <img src="/img/seal-balamand.png" alt="Balamand" height="50" width="50" align="left">  &nbsp;&nbsp;&nbsp; <img src="/img/seal-uk.png" alt="Kentucky" height="50" width="50" align="left">  
 
 <br>
