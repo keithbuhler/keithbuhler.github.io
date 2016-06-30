@@ -2,10 +2,11 @@
 layout: default
 --- 
 
+<center> <h3><a href="/Buhler-CV.pdf">CURRICULUM VITAE</a></h3> </center>
 
-| <a href="/Buhler-CV.pdf">CURRICULUM VITAE</a> |
+|Keith Buhler |
 |:-----------------------------------------------------------------------:|
-| Keith Buhler                                                          |
+|                                                           |
 | Doctoral Candidate                                                      |
 | Deptartment of Philosophy                                               |
 | University of Kentucky                                                  |
@@ -97,11 +98,11 @@ Bioethics, Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.
 |                                                            |                                                                   |
 |-------------------------------------------------------------|--------------------------------------------------------------------|
 | David Bradshaw, Professor of Philosophy                     | Anita Superson, Profesor of Philosophy                             |
-| University of Kentucky, 1415 Patterson Office Tower         | University of Kentucky, 1433 Patterson Office Tower                |
+| University of Kentucky, 1415 Patterson                 | University of Kentucky, 1433 Patterson                       |
 | [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [superson@uky.edu](emailto:superson@uky.edu) / 859.257.4186        |
 |                                                             |                                                                    |
 | Daniel Breazeale, Profesor of Philosophy                    | Clare Batty, Assistant Profesor of Philosophy                      |
-| University of Kentucky, 1417 Patterson Office Tower         | University of Kentucky, 1415 Patterson Office Tower                |
+| University of Kentucky, 1417 Patterson          | University of Kentucky, 1415 Patterson                 |
 | [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clare.batty@uky.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
 
 ### GRADUATE COURSES 
