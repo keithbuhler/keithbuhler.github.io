@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-#### [Click here for pdf](/Buhler-CV.pdf)
+#### [(PDF version)](/Buhler-CV.pdf)
 
 ### CURRICULUM VITAE
 Keith Buhler  
