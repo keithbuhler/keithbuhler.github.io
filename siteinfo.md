@@ -1,22 +1,15 @@
 ---
-layout: default
-title: site
+title: site info
 ---
 
-This website and its content is copyrighted by Keith Buhler 2016. All rights are reserved except two:
+This website is written in a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax">Markdown). The Markdown coded files are converted automatically to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) The HTML is hosted for free by the open source programming community on [Github.](http://www.github.com) 
 
-(1) **Code**: You can always fork projects on [Github.](http://github.com) 
+Philosopher and programming Sith Lord [Dan Sheffler](http://www.dansheffler.com) gave me the idea, the instructions, and (in some instances) the code to get started creating my own site. 
 
-(2) **Fiction**: You can use my fiction writings with proper ascription for your creative projects (but not for sale) under Creative Commons License. [Contact me](emailto:keithedbuhler@gmail.com) for commercial licensing or for more information.
+The content of this site is copyrighted by Keith Buhler 2016. All rights are reserved, with two exceptions:
 
+(1) **Code**: You can always fork projects on Github.
 
-This website is: 
+(2) **Fiction**: You can use my fiction and art writings with proper ascription for your creative projects (but not for sale) under Creative Commons License. [Contact me](emailto:keithedbuhler@gmail.com) for commercial licensing or for more information.
 
-* written in <a href="https://daringfireball.net/projects/markdown/syntax">Markdown </a>
-* after instructions from [Dan Sheffler](http://www.dansheffler.com) got me started.
-* The Markdown files are stored locally but hosted to the web and published by <a href="http://www.github.com">Github</a>
-* then powered by <a href="https://jekyllrb.com/">Jekyll</a>.
-
-To make your own similar website, it will take some work. But start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
-
-
+To make your own similar website, with zero programming knowledge, will take some work. But you can do it. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).

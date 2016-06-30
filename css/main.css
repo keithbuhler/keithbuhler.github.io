@@ -20,8 +20,9 @@ header.site-header {
   bottom: 20px;
   background: #1D3D5A;
   height: 3em;
-  width: 100%;
+  width: 800px;
   border-image: 
+  border-radius: 2px;
 }
 
 
@@ -56,7 +57,10 @@ header.site-header.wrap {
     text-decoration: none; }
 .site-nav .trigger a:hover{ background-color: #cc6600;  color: white; }
 
-.site-title:hover{ color: #cc6600; }
+.site-title:hover{   color: #cc6600; }
+
+.site-title {  float: left; position: center}
+
 
 
 
