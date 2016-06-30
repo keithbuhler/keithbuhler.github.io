@@ -75,12 +75,7 @@ header.site-header.wrap {
 
 
 
-#content-wrapper {
-margin:4em auto;
-max-width:800px;
 
-
-}
 
 .shift-left {
     padding-right: 12em;
@@ -106,9 +101,10 @@ body { color:#333;
 
 /* Begin Page Content, central column styles */
 
+
 .page-content {
   background-color: white;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 10px;
@@ -120,30 +116,23 @@ body { color:#333;
 /* End Page Content styles */
 
 
+#content-wrapper {
+margin:4em auto;
+max-width:800px;
 
+
+}
 /* columns if I end up using them */
 
-#container {
-background:#ffffff;
-opacity: 0.95;
-margin:0 auto;
-padding-top:0px;
-height: 1000px;
-width:1000px;
-border-bottom: 2px solid black;
-position: relative;
-z-index: 1;
-}
-
 #left-container{
-  padding-top: 20px;
+  padding-top: 10px;
   padding-right: 10px;
   padding-left: 20px;
   padding-bottom: 0px;
   float:left;
   width:240px;
-  height; 800px;
-  font-size: 17px;
+  height; 400px;
+  font-size: 1em;
 }
 
 #right-container{
@@ -245,7 +234,6 @@ footer {
   left: 0px;
   right: 0px;
   bottom: 0px;
-  background: #1D3D5A;
   height: 3em;
   width: 800px;
   border-radius: 4px;
