@@ -13,13 +13,13 @@ html, body { height: 100%; }
 /* Site header */
 
 header.site-header {
-  position: fixed;
+  position: relative;
   top: 0px;
   left: 400px;
   right: 5px;
   bottom: 5px;
   background: #1D3D5A;
-  height: 2em;
+  height: 3em;
   width: 800px;
   border-radius: 4px;
 
