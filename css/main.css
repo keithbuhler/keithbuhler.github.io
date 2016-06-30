@@ -219,11 +219,13 @@ text-align: left;
 /* Site footer */ 
 
 footer{
-  border-top: 1px solid #cc6600;
-  background-color: 6699cc;
+  border-top: 2px solid #cc6600;
+  background-color: #6699cc;
   color: navy;
   padding-top: 10px;
   padding-bottom: 0px;
+  width: 800px;
+  border-radius: 4px
 }
 
 
