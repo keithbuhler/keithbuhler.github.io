@@ -15,14 +15,14 @@ html, body { height: 100%; }
 header.site-header {
   position: fixed;
   top: 0px;
-  left: 5px;
+  left: 400px;
   right: 5px;
-  bottom: 20px;
+  bottom: 5px;
   background: #1D3D5A;
-  height: 3em;
+  height: 2em;
   width: 800px;
-  border-image: 
-  border-radius: 2px;
+  border-radius: 4px;
+
 }
 
 
