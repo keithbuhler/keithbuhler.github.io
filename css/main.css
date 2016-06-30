@@ -220,12 +220,20 @@ text-align: left;
 
 footer{
   border-top: 2px solid #cc6600;
-  background-color: #6699cc;
+  background-color: white;
   color: navy;
   padding-top: 10px;
   padding-bottom: 0px;
   width: 800px;
-  border-radius: 4px
+  border-radius: 4px;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 3em;
+  width: 800px;
+  border-radius: 4px;
 }
 
 
