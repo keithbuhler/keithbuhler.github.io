@@ -8,7 +8,9 @@ title: Philosophy Portal
 
 So you're taking philosophy. Awesome. [Studying philosophy is a very good idea.](/philosophy-major) It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions. 
 
-Still, it can be hard. Harder, in a way, than organic chemistry, calculus, or 16th century literature. 
+Still, it can be hard. Harder, in a way, than organic chemistry, calculus, or 16th century literature. It can be more fun too. 
+
+![XKCD Stars](/img/xkcd-premier.png)
 
 ### Which one of these questions is yours?
 

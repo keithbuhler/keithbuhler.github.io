@@ -143,6 +143,16 @@ Example 5 - 180 pages, 10 chapters, 18 pages each, 4,500 words per chapter.
 
 Example 6 - 200 pages, 10 chapters, 20 pages each, 5,000 words per chapter
 
+
+### Research Proposals ###
+
+The University of Kentucky asks graduate students to make three increasingly specific proposals.
+
+1. The [Area Proposal](https://drive.google.com/file/d/0B0CYQDZ8AWu8eHVtdkY5RVFVbWs/view) explains the sub-disciplines of philosophy (metaethics, naturalism, virtue ethics) I am to read in.
+2. The [Qualifying Exams](https://drive.google.com/file/d/0B0CYQDZ8AWu8Y21MZnVxR1g3cFU/view) prove I have read quite a bit in these sub-disciplines and am ready to start researching and writing in that area. 
+3. The Dissertation Proposal "pitches" my specific project: to defend an account of virtue, practical reason, and happiness drawing on three  contemporary virtue ethicists. [(First draft here)](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view)
+
+
 ### Boot Camp!
 
 
