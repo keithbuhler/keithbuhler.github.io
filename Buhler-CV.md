@@ -2,6 +2,8 @@
 layout: default
 --- 
 
+#### [Click here for pdf](/Buhler-CV.pdf)
+
 ### CURRICULUM VITAE
 Keith Buhler  
 Doctoral Candidate  
