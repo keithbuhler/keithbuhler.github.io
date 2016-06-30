@@ -66,6 +66,9 @@ Bioethics, Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.
 2004 &nbsp;&nbsp; Philosophy of Science (Teaching assistant) 
 
 
+### Veritas Academy
+2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+
 ### Torrey Academy
 
 2011 &nbsp;&nbsp; Plato Seminar   
@@ -74,8 +77,6 @@ Bioethics, Ancient Philosophy, Philosophy of Religion, Philosophy of Mind.
 2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought   
 2007-2012 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
-### Veritas Academy
-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
 ### OTHER LEADERSHIP AND TEACHING POSITIONS 
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy     
@@ -166,4 +167,4 @@ International Society for MacIntyrean Enquiry, 2015-present
 
 
 ### DISSERTATION
-*Working Title:* "The Point of Virtue: Nature, Reason, and Teleology in Recent Neo-Aristotelianism"  (Chair: David Bradshaw)
+*Working Title:* "BECOMING WHAT WE ARE: RECENT NEO-ARISTOTELIANS ON THE ETHICAL SIGNIFICANCE OF BEING RATIONAL PRIMATES"  (Chair: David Bradshaw)
