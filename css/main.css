@@ -219,13 +219,10 @@ text-align: left;
 /* Site footer */ 
 
 footer{
-  position: relative;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  background: white;
-  height: 3em;
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto
   width: 800px;
   border-top: 2px solid #cc6600;
 
