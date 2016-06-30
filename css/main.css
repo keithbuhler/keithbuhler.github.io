@@ -101,6 +101,7 @@ body { color:#333;
     -webkit-font-smoothing: antialiased;
     background-image: url("http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1536_front.jpg");
     background-repeat: no-repeat;
+    background-position: fixed;
 }
 
 /* Begin Page Content, central column styles */
@@ -109,6 +110,7 @@ body { color:#333;
 .page-content {
   padding: 30px 0;
   background-color: white;
+  margin: 10px; 
 }
 
 /* End Page Content styles */
