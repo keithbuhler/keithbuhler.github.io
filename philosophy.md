@@ -9,7 +9,6 @@ title: Philosophy Portal
 <div class="w3-container w3-gray w3-center w3-padding-128">
   <h1 class="w3-margin w3-jumbo">PHILOSOPHY PORTAL</h1>
   <p class="w3-xlarge"></p>
-  <button class="w3-btn w3-padding-16 w3-large w3-margin-top">Get Started</button>
 </div>
 
 <!-- First Grid -->
@@ -50,15 +49,25 @@ title: Philosophy Portal
         </h5>
 
 
-      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p class="w3-text-grey">
+      <section data-markdown>
+
+      ## Which Applies to You?
+
+1. [Class started. Any tips for success?](/philosophy-class)
+5. [Class is over. What do I do?](/philosophy-6-next)
+2. [I kinda like philosophy. Any book recommendations?](/philosophy-6-next")
+4. [No, Seriously, I *Really* Like Philosophy; What Should I Do?](/philosophy-6-next")
+5. [I'm considering graduate school. What's it like to be an academic?](/philosophy-7-profession)
+6. [Other philosophy resources?](/philosophy-resources)
+</p>
+</section>
     </div>
   </div>
 </div>
 
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-    <h1 class="w3-margin w3-xlarge">Quote of the day: live life</h1>
+    <h1 class="w3-margin w3-xlarge">Quote of the day: Think hard.</h1>
 </div>
 
 <!-- Footer -->
