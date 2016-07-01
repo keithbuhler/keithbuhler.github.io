@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 title: What a Philosophy Degree Can Do For You
 ---
 

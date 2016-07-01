@@ -1,13 +1,12 @@
-<!DOCTYPE html>
- <html>
-  <head>
+ 	<head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+ 		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
       <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/main.css">
     <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
-    <meta name="viewport" content="width=device-width">   
+    <meta name="viewport" content="width=device-width"> 	
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
     {% elsif post.excerpt %}
@@ -27,38 +26,12 @@
   ga('send', 'pageview');
 </script>
     <!-- Custom CSS -->
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
-     <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/main.css">
   </head>
-      <body>
-   
-    <div id="content-wrapper">
 
-    <header class="site-header">
 
-  <div class="wrap">
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <nav class="site-nav">
-        <div class="trigger"> <a class="page-link" href="/">Philosophy Portal</a></div>
-    </nav>
-  </div>
-</header>
 
-     <div class="page-content">
-
- 		    {{ content }}
-        
-  	   </div><!-- /.container -->
-       </div>
-
-	<footer class="site-footer">
-
-  		<div class="wrap" align="center">
-
-      <a href="/siteinfo"> Copyright © 2016 Keith Buhler. |  Site Info. </a> | <a href="contact"> Contact. </a> |
-
-  		</div>
-
-	</footer>
-     </body>
- </html>

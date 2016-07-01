@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 title: Philosophy In Class
 --- 
 
