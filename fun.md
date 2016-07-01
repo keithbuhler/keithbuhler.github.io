@@ -13,7 +13,7 @@ title: Fun Stuff Home
 ----
 
 <div id="thumbs">
-    <a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Buhler Report
+    <a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> The Buhler Report: Thoughtful dialogue on timeless truths and current events.
 </div>​
 
 <div id="thumbs">
@@ -43,8 +43,7 @@ title: Fun Stuff Home
 
 -------
 
-1. The Buhler Report: Thoughtful dialogue on timeless truths and current events.
-2. Reading Intentionally: How to read more books
+
 3. How to lead a discussion (video)
 4. Inklings Info: Ebooks, lists, and info on the Oxford Dons.
 5. Advice to Philosophers Interviews with big name philosophers.
@@ -62,7 +61,7 @@ title: Fun Stuff Home
 * [Meditation](/meditation): How to meditate (and why)
 * [Paypal](https://www.paypal.me/keithbuhler): Through the magic of the internet, you can send me money(!) 
 * [Philosophy Major](/philosophy-major): What a philosophy degree can do for you
-* [Proffessional Philosophy](/phd-how-to): How to get a PhD (and why)
+* [Professional Philosophy](/phd-how-to): How to get a PhD (and why)
 * [Philosophy is Science](http://www.philosophyisscience.com): Some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
 * Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 

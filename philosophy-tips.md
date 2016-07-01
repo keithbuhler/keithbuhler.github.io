@@ -63,7 +63,7 @@ Philosophy papers advance a thesis. Like a disputation, they are clear, rigorous
 * Use definite, specific language   
 * First and last paragraphs should engage reader attention              
 * Avoid the thesaurus and fancy words ("zeitgest", "ouevre", "uber-smart")        — if you haven’t earned it, don’t use it.
-* Do not construct awkward adverbs (not "unfeelingly" but “without feeling”)      
+* Do not construct awkward adverbs (not "unfeelingly" but “without feeling”)
 * Use orthodox spelling (not "humour," "Alright", "tonite" but “humor” “all right” “tonight”)       
 * Express co-ordinate ideas in similar form        
 * Keep related words together       
