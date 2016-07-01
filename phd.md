@@ -40,4 +40,4 @@ Below are very early chapter drafts; please do not share or cite. As each become
 9. Conclusions
 
 
-[Whole Dissertation Link (coming soon)](/phdrequest)
+Whole Dissertation Link (coming soon)
