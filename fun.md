@@ -37,8 +37,8 @@ title: Fun Stuff Home
 
 <div id="thumbs">
         <a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> 
-
 </div>​
+</div>
 
 
 -------
