@@ -1,10 +1,10 @@
 ---
 layout: posts
 type: posts
-title: [Blank] will kill us all!
+title: Blank will kill us all
 tags: politics
-
 ---
+
 
 # [Blank] will kill us all!
 

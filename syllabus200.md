@@ -1,6 +1,5 @@
 ---
 layout: noheader
-
 ---
 
 ### [Fall 2016 Syllabus](/syllabus200.pdf)
@@ -14,11 +13,6 @@ layout: noheader
 - [Jostein Gaarder, *Sophie’s World*  ISBN: 0374530718](http://amzn.to/1QJ7mEs)
 - [Plato, *Last Days of Socrates* (Euthyphro, Apology, Phaedo) ISBN: 0140449280](http://amzn.to/1NMMNB6)
 - [Augustine, *Confessions* ISBN: 0199537828](http://amzn.to/1QJ7qEj)
-
-Buy these books right away. Use these ISBNS only, please. Please, no Kindle unless cost is prohibitive, since paper books are better for taking notes, and make it easier to stay on the same page. New or used is fine.
-
-**Other texts**
-
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
@@ -28,13 +22,13 @@ Buy these books right away. Use these ISBNS only, please. Please, no Kindle unle
 - [Richard Dawkins, “Why there is almost certainly no god”](https://drive.google.com/open?id=0B0CYQDZ8AWu8WV9IZ1liNmRDa28)
 - [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM)
 - [Hume, Inquiry Concerning Human Understanding](http://www.gutenberg.org/files/9662/9662-h/9662-h.htm)
-
 - [The Gospel of John (without chapters, verses, or cross-references)](https://docs.google.com/document/d/1lnOhyN_7l1vL6dviWXqY65uoEigEvEFV0eFMhhTB6qw/edit)
 - [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk)
 - [The Matrix](https://drive.google.com/open?id=0B0CYQDZ8AWu8OEtYcnlxbl9mQ0E)
 - [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k)
 - [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
 
+Buy the first three books right away. Use these ISBNS only, please. Please, no Kindle unless cost is prohibitive, since paper books are better for taking notes, and make it easier to stay on the same page. New or used is fine. Other texts provided online. 
 
 **Course Description:** This course is an exercise in a different way of thinking. We will also learn some historical facts, new vocabulary words, some big names and big philosophical concepts. But our main task is to grow by thinking slowly, carefully, methodically, and deeply.  
 
