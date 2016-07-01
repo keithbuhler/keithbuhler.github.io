@@ -1,5 +1,5 @@
 ---
-layout: noheader
+layout: fun
 ---
 
 ### [Fall 2016 Syllabus](/syllabus200.pdf)
