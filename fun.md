@@ -23,31 +23,23 @@ title: Fun Stuff Home
    
 <div id="thumbs">
 
-   <a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a> Leading Discussions
-    <span class="stretch"></span>
+   <a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a> How to lead a discussion (video)
+    <span class="stretch"></span> 
 </div>
 
 
 <div id="thumbs">
 
-        <a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> 
+        <a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a>Inklings Info: Ebooks, lists, and info on the Oxford Dons. 
 
 <div id="thumbs">
-        <a id="Advice" target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" > </a> 
+        <a id="Advice" target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" > </a>  Advice to Philosophers Interviews with big name philosophers.
 
 <div id="thumbs">
-        <a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> 
+        <a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism and Orthodoxy
 </div>​
 </div>
-
-
--------
-
-
-3. How to lead a discussion (video)
-4. Inklings Info: Ebooks, lists, and info on the Oxford Dons.
-5. Advice to Philosophers Interviews with big name philosophers.
-6. Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism and Orthodoxy
+</div>
 
 
 -------
