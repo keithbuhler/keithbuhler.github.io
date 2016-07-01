@@ -37,11 +37,11 @@ Here are 10 discussion “ground rules” to help us be productive.
 
 We are going to be discussing some big “hypothetical” topics. Don’t be fooled. We can only grow if we put ourselves on the line. 
 
-###Listen to your neighbor
+### Listen to your neighbor
 
 Some people are easy to listen to. Some are hard. Practice listening to both. If a person is crazy, annoying, loud, quiet, irrational, or irritatingly rational, listen anyway. At some point in this class, you will be hard to listen to — but you want others to listen anyway. 
 
-###Ask your question
+### Ask your question
 
 There is an opportunity to become someone new in this class. You can become someone you’ve never been, to ascend new vistas. If you challenge yourself, you will scale new heights, uncover unknown breadths, and plumb uncharted depths. But if you hide your real question, your vulnerable, dangerous, trembling, shy question, then none of this will happen. You will stay comfortable, but at what cost? 
 
@@ -65,7 +65,7 @@ One of us is the dumbest person in the room. Would it be such a nightmare if tha
 
 Just because it’s a “discussion day” doesn’t mean we have to discuss the whole period. We need time to digest, to think, to process, to formulate, to ponder, or just to rest. If I am not talking, then you are free to. If I am talking, you are free to interrupt and ask for a minute to think. 
 
-###Follow the argument wherever it goes; trust the process.  
+### Follow the argument wherever it goes; trust the process.  
 
 Human reason is not infallible, but it is reliable. Trust the argument, even if it leads to unexpected, surprising, painful, or implausible conclusions. If the conclusion we are lead to is in error, use the argument to expose that error. If not, then take courage, have faith, and change your mind (and if need be, change your life). 
 

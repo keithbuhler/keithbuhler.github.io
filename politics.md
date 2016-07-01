@@ -3,6 +3,7 @@ layout: fun
 title: Politics
 ---
 
+![Politics](/img/11nations.jpg)
 
 ## News & Opinion Outlets
 
