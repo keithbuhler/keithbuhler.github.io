@@ -14,19 +14,30 @@ title: Fun Stuff Home
 
 <div id="thumbs">
     <a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> Buhler Report
-    <a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  Reading Intentionally
-   <a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a> Leading Discussions
-    <span class="stretch"></span>
 </div>​
 
+<div id="thumbs">
+<a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  Reading Intentionally
 
-----
+</div>
+   
+<div id="thumbs">
+
+   <a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a> Leading Discussions
+    <span class="stretch"></span>
+</div>
+
 
 <div id="thumbs">
+
         <a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> 
+
+<div id="thumbs">
         <a id="Advice" target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" > </a> 
+
+<div id="thumbs">
         <a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> 
-    <span class="stretch"></span>
+
 </div>​
 
 
@@ -56,7 +67,6 @@ title: Fun Stuff Home
 * Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [Writing tools](/writing-tools): Markdown, word count, and more
-* [Wikipedia edits](http://en.wikipedia.org/wiki/User:CircularReason)
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
 * Attention Span Project -- how long is your attention span? -- coming soon
