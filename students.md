@@ -20,6 +20,6 @@ Most people that do take a class find philosophy surprisingly interesting (depen
 A few of those will earn a major or minor. Should you? The short answer is: probably. [Studying philosophy is VERY GOOD IDEA.](/philosophy-major)
 A major or minor will help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.
 
-# [Click here for the Philosophy Portal.](/philosophy-2-portal)
+# [Click here for the Philosophy Portal.](/philosophy)
 
 <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif">
