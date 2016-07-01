@@ -1,7 +1,5 @@
 ---
-layout: noheader
-title: 545 Philosophy of Religion
-
+layout: student
 ---
 
 ### [545 Religion, Summer 2016](/syllabus545.pdf)

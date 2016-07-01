@@ -1,7 +1,5 @@
 ---
-layout: noheader
-title: Philosophy of C. S. Lewis (PHL 251) Fall 2016
-
+layout: student
 ---
 
 **[PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)**  

@@ -1,6 +1,5 @@
 ---
-layout: noheader
-
+layout: student
 ---
 
 ### [Spring 2017 Syllabus](/syllabus200.pdf)

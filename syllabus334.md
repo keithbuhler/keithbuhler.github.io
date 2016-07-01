@@ -1,7 +1,5 @@
 ---
-layout: noheader
-title: 334 Business Ethics Syllabus Fall 2016
-
+layout: student
 ---
 
 **[334 Syllabus, Fall 2016](/syllabus334.pdf)**  
