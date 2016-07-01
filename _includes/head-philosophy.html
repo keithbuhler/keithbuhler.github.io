@@ -4,9 +4,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
  		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
       <!-- link to main stylesheet -->
-    <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/main.css">
+    <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/philosophy.css">
     <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
     <meta name="viewport" content="width=device-width"> 	
+        <!-- Link to custom CSS from W3css -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
     {% elsif post.excerpt %}
@@ -25,11 +30,6 @@
   ga('create', 'UA-71712734-1', 'auto');
   ga('send', 'pageview');
 </script>
-    <!-- Custom CSS -->
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
   </head>
 
