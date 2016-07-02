@@ -16,7 +16,8 @@ title: Philosophy Portal
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>So you're taking philosophy.</h1>
-      <h5 class="w3-padding-32"> Awesome. [Studying philosophy is a very good idea.](/philosophy-major) It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.</h5>
+      <h5 class="w3-padding-32">
+      <section data-markdown> Awesome. [Studying philosophy is a very good idea.](/philosophy-major) It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.</section></h5>
 
       <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
         occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
