@@ -16,16 +16,12 @@ title: Philosophy Portal
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>So you're taking philosophy.</h1>
-      <h5 class="w3-padding-32">
-      <section data-markdown> Awesome. <a href="http://keithbuhler.com/philosophy-3-major"> It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.</a></h5>
+      <h5 class="w3-padding-32"> Awesome. <a href="http://keithbuhler.com/philosophy-3-major"> It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.</a></h5>
 
-<p class="w3-text-grey"> 
-      <img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" </p>
-    </div>
-
-    <div class="w3-third w3-center">
-      <i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
-    </div>
+   <div class="w3-third w3-center">
+ <img src="http://www.famous-mathematicians.com/images/pythagoras.jpg"
+  </div>
+  
   </div>
 </div>
 
