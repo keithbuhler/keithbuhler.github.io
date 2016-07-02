@@ -23,19 +23,9 @@ Other problems that interest me are those in [philosophy of mind, ancient philos
 
 
 ## Example
-Now that I have successfully defended my qualitative dissertation on video journalism, I
-am starting the next phase of my research, specifically, quantitative experimental studies
-of video journalism as a new media form. Thus far I’ve found that video journalism is
-seen by its practitioners and institutional adopters as a news form that is distinct from
-conventional television. Beyond its obvious differences in the production & delivery
-process (singular versus collaborative shooting, broadband versus broadcast), video
-journalism may have narrative differences that are significant in their service to the
-public sphere. It’s impossible to know without further inquiry.
-I’ve already designed a set of quasi-experiments that can be conducted on-line. The
-protocol received approval from the University of Pennsylvania’s Institutional Review
-Board. Alas, it proved “too much” to include in my dissertation, which is a qualitative
-study of the practice of video journalism in a variety of institutions, such as the Voice of
-America, the BBC, commercial television stations and newspapers. No overview of this
+Now that I have successfully defended my qualitative dissertation on video journalism, I  am starting the next phase of my research, specifically, quantitative experimental studies of video journalism as a new media form. Thus far I’ve found that video journalism is  seen by its practitioners and institutional adopters as a news form that is distinct from conventional television. Beyond its obvious differences in the production & delivery  process (singular versus collaborative shooting, broadband versus broadcast), video journalism may have narrative differences that are significant in their service to the public sphere. It’s impossible to know without further inquiry. 
+
+I’ve already designed a set of quasi-experiments that can be conducted on-line. The protocol received approval from the University of Pennsylvania’s Institutional Review Board. Alas, it proved “too much” to include in my dissertation, which is a qualitative  study of the practice of video journalism in a variety of institutions, such as the Voice of America, the BBC, commercial television stations and newspapers. No overview of this
 new media form exists; it became essential to write a careful analysis of the form itself
 before embarking on audience reception studies. I have applied for a small grant from my
 current department at the Kutztown University of Pennsylvania to start this work.
@@ -53,4 +43,4 @@ activities.
 Finally, I am an active member of two academic organizations, the Association for
 Education in Journalism and Mass Communication (AEJMC) and the International
 Communication Association (ICA) and hope to continue my involvement in those
-organizations, which o
+organizations, which  
