@@ -1,11 +1,58 @@
 <!DOCTYPE html>
  <html>
-  {% include head-philosophy.html %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+      <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="keithbuhler.github.io/css/main.css">
+    <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
+    <meta name="viewport" content="width=device-width">   
+        <!-- Link to custom CSS from W3css -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    {% if page.excerpt %}
+        <meta name="description" content="{{ page.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
+    {% elsif post.excerpt %}
+        <meta name="description" content="{{ post.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+    {% endif %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- Google Analytics -->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71712734-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
     <body>
    
     <div id="content-wrapper">
-        {% include header-philosophy.html %}
+      
+<header class="site-header">
 
+  <div class="wrap">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <nav class="site-nav">
+        <div class="trigger"> <a class="page-link" href="/philosophy-class">Tips For Class</a></li>
+        <div class="trigger"> <a class="page-link" href="/philosophy-6-next">After Class</a></li>
+        <div class="trigger"> <a class="page-link" href="/philosophy-3-major">Philosophy Major/Minor?</a></li>
+        <div class="trigger"><a class="page-link" href="/philosophy-7-profession">Graduate School?</a></li>
+        <li><a href="/philosophy" class="w3-padding-large w3-white">Home</a></li>
+  <div class="trigger"><a class="page-link" 
+  <div class="trigger"><a class="page-link" 
+  <div class="trigger"><a class="page-link" 
+  <div class="trigger"><a class="page-link" 
+    </nav>
+  </div>
+</header>
      <div class="page-content">
 
         {{ content }}
