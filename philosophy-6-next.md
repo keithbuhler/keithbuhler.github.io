@@ -6,7 +6,7 @@ title: Next Steps
 #### I Just Finished Your Class; What Should I Do? ####
 
 - Do the Course Evaluation.
-- Also, [Rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.
+- Also, [rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.
 - [Email me or set up an appointment](emailto:keith.buhler@uky.edu) to share criticism, compliments, or other comments.
 
 #### I Kinda Like Philosophy; What Should I Read Next? 
@@ -29,7 +29,7 @@ Here are some good, accessible yet challenging classics.
 
 
 <a target="_blank" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D7%3Asection%3D1028a">
-  <img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" hspace="5" align="left" width="50%">
+  <img src="/img/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" hspace="5" align="left" width="400" height="400">
 </a>
 
 OK, OK! Try these. Cut your teeth on Aristotle or Kant and you'll get the burn that only philosophy can give you.
@@ -42,6 +42,12 @@ OK, OK! Try these. Cut your teeth on Aristotle or Kant and you'll get the burn t
 * Talk to your professors. 
 * Read about what it's like to be a [professional academic.](/philosophy-7-profession)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>

@@ -4,7 +4,7 @@ title: Philosophy In Class
 --- 
 
 
-# In Class
+<center><h1>In Class</h1></center>
 
 Philosophy is about arguing. Philosophy is about making arguments and understanding arguments. It's not about yelling, but rationally justifying your positions and debunking falsehoods. Philosophy is not, primarily, about memorizing historical figures, philosophical schools, and terminology. You only learn memorize those things in order to be able to understand the arguments. Then you have to think. 
 
@@ -13,6 +13,7 @@ Probably your class will consist of (a) reading classic texts or modern articles
 So, to succeed, you need to learn how to do each of these activities. The more you put in, the more you get out. To have a great experience in a philosophy class, you must work hard. You must work to read, understand, discuss, and write about the topics and texts. Here are some tips on each of these activities. 
 
 Don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
+
 
 ![Dory](/img/dory.jpg)
 

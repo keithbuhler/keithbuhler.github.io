@@ -4,14 +4,17 @@ title: Philosophy Portal
 --- 
 
 <center>
+
 <h1>PHILOSOPHY PORTAL</h1>
-</center>
+
 
 <a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" alt="Pythagoras"></a>
 
+</center>
+
 ## So you're taking philosophy.
 
-Awesome. [It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
+Awesome. [Philosophy helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
 <a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
 
@@ -31,7 +34,8 @@ Welcome! We're going to have a great semester.
 
 <a href="https://en.wikipedia.org/wiki/Martha_Nussbaum"> <img src="http://philosophy.uchicago.edu/faculty/files/nussbaum/nussbaum2011.jpg" alt="Martha Nussbaum" ></a>
 
-Click you question
+Click your question: 
+
 1. [Class just started; how do I succeed in philosophy?](/philosophy-class)
 5. [Class just ended; what's next?](/philosophy-6-next)
 2. [I kinda like philosophy; what should I read next?](/philosophy-6-next")
@@ -40,7 +44,6 @@ Click you question
 
 ## [Philosophy Resources?](/philosophy-resources)
 
-1. 
 
 ## Want to talk about something else?
 
