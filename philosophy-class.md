@@ -24,7 +24,7 @@ Don't worry if you feel uncomfortable or incompetent. Just like weight lifting o
 * Read *the text.** (Don't read any "Introductions", or if you do, read them after. The introduction is often more confusing than the book.) Read Sparknotes, Cliffnotes, etc. last, if at all. You should have *your own* first impression of the work.
 * [Read this on how to read philosophy.](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf)
 * Read ["how to read philosophy"](http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf), by David Concepción, *Teaching Philosophy*, 27:4, December 2004.
-* Read [How to Read a Book, by Mortimer Adler.](%%)
+* Read [How to Read a Book, by Mortimer Adler.](http://www.evergladeshs.org/ourpages/auto/2015/5/28/58122395/Adler%20Mortimer%20-%20How%20To%20Read%20A%20Book.pdf)
 * [Try an "Intentional Reading Project"](http://www.readingintentionally.com/p/building-your-list.html)
 
 
