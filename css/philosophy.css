@@ -18,7 +18,7 @@ header.site-header {
   left: 0px;
   right: 0px;
   bottom: 0px;
-  background: #33334d;
+  background: #2e2e38;
   height: 3em;
   width: 1000px;
   border-radius: 4px;
@@ -57,7 +57,7 @@ header.site-header.wrap {
 
 .site-nav .trigger a:hover{ background-color: #990000;  color: white; }
 
-.site-title:hover{   color: #990000; }
+.site-title:hover{   color: white; }
 
 .site-title {  float: left;}
 
@@ -150,10 +150,10 @@ max-width:1000px;
 
 /* body links*/
 
-a{ color: #205caa; text-decoration:none;}
-a:visited{ color: #0645ad; }
-a:hover{ color: #cc6600; }
-a:active{ color:#0645ad; }
+a{ color: #990000; text-decoration:none;}
+a:visited{ color: #990000; }
+a:hover{ color: #990000; }
+a:active{ color:##990000; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
 
