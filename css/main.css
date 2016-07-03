@@ -396,3 +396,36 @@ dd p {
 .wrap:after { clear: both; }
 .wrap {
 }
+
+
+/* Philosophy Custom CSS */
+
+
+header.site-header-philosophy {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: #2e2e38;
+  height: 4em;
+  width: 1000px;
+  border-radius: 6px;
+}
+
+
+
+.site-title-philosophy:hover{   color: #cc6600; }
+
+..site-title-philosophy {  float: left;}
+
+
+..site-title-philosophy,.site-title:visited {
+  display: inline;
+  padding: 15px;
+  color: white;
+  text-align: center;
+
+}
+
+

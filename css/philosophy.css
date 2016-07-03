@@ -13,9 +13,9 @@ header.site-header-philosophy {
   right: 0px;
   bottom: 0px;
   background: #2e2e38;
-  height: 3em;
+  height: 4em;
   width: 1000px;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 
@@ -160,8 +160,8 @@ max-width:1000px;
 
 a{ color: #990000; text-decoration:none;}
 a:visited{ color: #990000; }
-a:hover{ color: #990000; }
-a:active{ color:##990000; }
+a:hover{ color: #ff0000; }
+a:active{ color: #990000; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
 

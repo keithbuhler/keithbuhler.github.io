@@ -1,9 +1,9 @@
 ---
 layout: philosophy
-title: Next Steps
+title: Class is Over Next Steps
 --- 
 
-#### I Just Finished Your Class; What Should I Do? ####
+# Class is Over; what's next? 
 
 - Do the Course Evaluation.
 - Also, [rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.

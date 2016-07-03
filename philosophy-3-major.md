@@ -1,19 +1,11 @@
 ---
 layout: philosophy
-title: What a Philosophy Degree Can Do For You
+title: Philosophy Major or Minor
 ---
 
-[Keith Buhler](http://keithbuhler.github.io)  
-Department of Philosophy  
-University of Kentucky  
-keith.buhler@uky.edu  
-http://www.keithbuhler.com  
+# [Should I consider a philosophy major/minor?](http://www.whystudyphilosophy.com/)
 
----
-
-# [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
-
-Nothing much...except *everything*.
+What can I do with a philosophy degree? Nothing much...except *everything*.
 
 Some people assume you can’t “do” anything with a philosophy degree. "You'll work in a coffee shop asking people *why* they want creme with that." Others think philosophy is a waste of time. Arthur Koestler said it is "the systematic abuse of a terminology specially invented for that purpose." If it's just sharing your opinion -- who cares? Still others (like Bill Nye) have no idea what philosophy is. 
 
@@ -142,3 +134,13 @@ Business Management  |  $43,000         | $72,100     |  # 25
 Communication        |  $ 38,100        |  $70,000    |  # 28
 Biology              |  $38,800         | $64,800     | # 34
 Psychology           |  $35,900         |  $60,400    |   # 39
+
+
+----
+Compiled by 
+
+[Keith Buhler](http://keithbuhler.github.io)  
+Department of Philosophy  
+University of Kentucky  
+keith.buhler@uky.edu  
+http://www.keithbuhler.com  

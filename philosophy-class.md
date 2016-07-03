@@ -4,7 +4,7 @@ title: Philosophy In Class
 --- 
 
 
-<center><h1>In Class</h1></center>
+<center><h1>How to Succeed In Class</h1></center>
 
 Philosophy is about arguing. Philosophy is about making arguments and understanding arguments. It's not about yelling, but rationally justifying your positions and debunking falsehoods. Philosophy is not, primarily, about memorizing historical figures, philosophical schools, and terminology. You only learn memorize those things in order to be able to understand the arguments. Then you have to think. 
 
