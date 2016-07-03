@@ -7,8 +7,10 @@ title: Philosophy Portal
 
 <h1>PHILOSOPHY PORTAL</h1>
 
+<img src="img_fjords.jpg" class="w3-border w3-padding-4 w3-padding-tiny" alt="Norway" style="width:50%">
 
-<a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" alt="Pythagoras"></a>
+
+<a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" class="w3-border w3-padding-4 w3-padding-tiny" alt="Pythagoras"></a>
 
 </center>
 
