@@ -34,12 +34,12 @@ Philosophy majors on average [make better money than business majors](http://www
 
  
 | Rank | Degree               | Starting | Mid-career |
-
-* #1   | Chemical Engineering | $63k     | $107k      |
-* #10  | Mathematics          | $45k     | $92k       |
-* #16  | Philosophy           | $39k     | $81k       |
-* #25  | Business Management  | $43k     | $72k       |
-* #39  | Psychology           | $35k     | $60k       |
+|------|----------------------|----------|------------|
+| #1   | Chemical Engineering | $63k     | $107k      |
+| #10  | Mathematics          | $45k     | $92k       |
+| #16  | **Philosophy**       | $39k     | $81k       |
+| #25  | Business Management  | $43k     | $72k       |
+| #39  | Psychology           | $35k     | $60k       |
 
 
 You may never beat the salary of a surgeon, Hollywood star, or best-selling author, but you will always find fun, challenging, fulfilling jobs, and make plenty doing it. — more, in fact, than majors in chemistry, biology, and psychology.
