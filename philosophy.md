@@ -13,7 +13,7 @@ Awesome. [It helps you to find a good job, earn a higher salary than a business 
 
 ## Just Added My Class?
 
-<a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly"></a>
+<a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
 
 
 Welcome! We're going to have a great semester.
@@ -26,7 +26,7 @@ Welcome! We're going to have a great semester.
 
 ## Which Applies to You?
 
-<a href="https://en.wikipedia.org/wiki/Martha_Nussbaum"> <img src="http://philosophy.uchicago.edu/faculty/files/nussbaum/nussbaum2011.jpg" alt="Martha Nussbaum"></a>
+<a href="https://en.wikipedia.org/wiki/Martha_Nussbaum"> <img src="http://philosophy.uchicago.edu/faculty/files/nussbaum/nussbaum2011.jpg" alt="Martha Nussbaum" ></a>
 
 
 1. [Class started. Any tips for success?](/philosophy-class)
