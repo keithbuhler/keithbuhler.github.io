@@ -21,16 +21,16 @@ header.site-header {
 
 
 header.site-header.wrap {
-  max-width: 43em;
-  margin: 0px auto;
-  padding-top: 0px;
+  max-width: 33em;
+  margin: 5px auto;
+  padding-top: 5px;
 }
 
 
 
 .site-title,.site-title:visited {
   display: inline;
-  padding: 0px;
+  padding: 15px;
   color: white;
   text-align: center;
 
@@ -390,12 +390,6 @@ dd p {
     width: 100%;
     clear: right;
 }
-
-.w3-border-white,.w3-hover-border-white:hover{border-color:#fff!important}
-
-.w3-border-0{border:0!important}
-
-
 
 .wrap:before,
 .wrap:after { content:""; display:table; }
