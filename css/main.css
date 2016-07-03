@@ -23,14 +23,14 @@ header.site-header {
 header.site-header.wrap {
   max-width: 43em;
   margin: 0px auto;
-  padding-top: 5px;
+  padding-top: 0px;
 }
 
 
 
 .site-title,.site-title:visited {
   display: inline;
-  padding: 6px;
+  padding: 0px;
   color: white;
   text-align: center;
 
