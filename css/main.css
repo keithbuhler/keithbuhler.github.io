@@ -19,7 +19,7 @@ header.site-header {
   right: 0px;
   bottom: 0px;
   background: #1D3D5A;
-  height: 4em;
+  height: 3em;
   width: 800px;
   border-radius: 4px;
 }
@@ -28,8 +28,9 @@ header.site-header {
 header.site-header.wrap {
   max-width: 43em;
   margin: 0px auto;
-  padding-top: 3px;
+  padding-top: 5px;
 }
+
 
 
 .site-title,.site-title:visited {
