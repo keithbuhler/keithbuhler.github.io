@@ -15,9 +15,6 @@ title: Philosophy Portal
 
 Awesome. [Philosophy helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.]()
 
-<a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
-
-
 ## Just Added My Class?
 
 Welcome! We're going to have a great semester.
@@ -38,11 +35,13 @@ Click your question:
 4. [No, seriously -- I *really* like philosophy; what's wrong with me?](/philosophy-6-next")
 
 
-## [Other Philosophy Resources?](/philosophy-resources)
-
-
 ## Want to talk about something else?
 
 - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 - Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
 - Check out some of my [personal site](/fun) for fiction, nonfiction, art, and more fun stuff.
+
+## [Other Philosophy Resources?](/philosophy-resources)
+
+<a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
+

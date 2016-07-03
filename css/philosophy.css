@@ -53,9 +53,9 @@ header.site-header.wrap {
 
 .site-nav-philosophy .trigger a:hover{ background-color: #990000;  color: white; }
 
-.site-title:hover{   color: #990000; }
+.site-title-philosophy:hover{   color: #990000; }
 
-.site-title {  float: left;}
+.site-title-philosophy {  float: left;}
 
 
 /* Not sure what this wrap does */
