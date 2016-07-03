@@ -4,11 +4,6 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 html, body { height: 100%; }
 
 
-.wrap:before,
-.wrap:after { content:""; display:table; }
-.wrap:after { clear: both; }
-.wrap {
-}
 
 /* Site header */
 
@@ -394,4 +389,16 @@ dd p {
     padding: 0;
     width: 100%;
     clear: right;
+}
+
+.w3-border-white,.w3-hover-border-white:hover{border-color:#fff!important}
+
+.w3-border-0{border:0!important}
+
+
+
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
 }
