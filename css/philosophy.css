@@ -4,15 +4,9 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 html, body { height: 100%; }
 
 
-.wrap:before,
-.wrap:after { content:""; display:table; }
-.wrap:after { clear: both; }
-.wrap {
-}
-
 /* Site header */
 
-header.site-header {
+header.site-header-philosophy {
   position: relative;
   top: 0px;
   left: 0px;
@@ -30,6 +24,8 @@ header.site-header.wrap {
   margin: 0px auto;
   padding-top: 5px;
 }
+
+
 
 
 .site-title,.site-title:visited {
@@ -62,6 +58,14 @@ header.site-header.wrap {
 .site-title {  float: left;}
 
 
+/* Not sure what this wrap does */
+
+
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
+}
 
 
 
@@ -112,7 +116,11 @@ body { color:#333;
 
 }
 
-/* End Page Content styles */
+
+
+
+
+
 
 
 #content-wrapper {
@@ -185,6 +193,8 @@ text-align: left;
 
 
 
+
+
 /* body thumb pictures*/
 
 
@@ -218,6 +228,9 @@ text-align: left;
 
 
 
+
+
+/* End Page Content styles */
 
 
 
