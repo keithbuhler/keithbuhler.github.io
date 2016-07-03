@@ -4,17 +4,17 @@ title: Philosophy Portal
 --- 
 
 # PHILOSOPHY PORTAL
-
-<img src="http://www.famous-mathematicians.com/images/pythagoras.jpg">
+<a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" alt="Pythagoras"></a>
 
 ## So you're taking philosophy.
 
-[It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
+Awesome. [It helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
-
-<img src="http://philosophy.uchicago.edu/faculty/files/nussbaum/nussbaum2011.jpg">
 
 ## Just Added My Class?
+
+<a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly"></a>
+
 
 Welcome! We're going to have a great semester.
 
@@ -25,6 +25,9 @@ Welcome! We're going to have a great semester.
 - Read more about the benefits of studying philosophy. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and find answers to life's deepest questions. 
 
 ## Which Applies to You?
+
+<a href="https://en.wikipedia.org/wiki/Martha_Nussbaum"> <img src="http://philosophy.uchicago.edu/faculty/files/nussbaum/nussbaum2011.jpg" alt="Martha Nussbaum"></a>
+
 
 1. [Class started. Any tips for success?](/philosophy-class)
 5. [Class is over. What do I do?](/philosophy-6-next)
