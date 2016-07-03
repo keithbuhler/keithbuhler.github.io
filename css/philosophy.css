@@ -30,7 +30,7 @@ header.site-header.wrap {
 
 .site-title,.site-title:visited {
   display: inline;
-  padding: 5px;
+  padding: 6px;
   color: white;
   text-align: center;
 
@@ -53,7 +53,7 @@ header.site-header.wrap {
 
 .site-nav .trigger a:hover{ background-color: #990000;  color: white; }
 
-.site-title:hover{   color: white; }
+.site-title:hover{   color: #990000; }
 
 .site-title {  float: left;}
 
@@ -407,3 +407,7 @@ dd p {
     width: 100%;
     clear: right;
 }
+
+.w3-border-white,.w3-hover-border-white:hover{border-color:#fff!important}
+
+.w3-border-0{border:0!important}
