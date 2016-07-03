@@ -13,7 +13,7 @@ header.site-header-philosophy {
   right: 0px;
   bottom: 0px;
   background: #2e2e38;
-  height: 4em;
+  height: 3em;
   width: 1000px;
   border-radius: 6px;
 }
@@ -30,28 +30,28 @@ header.site-header.wrap {
 
 .site-title,.site-title:visited {
   display: inline;
-  padding: 6px;
+  padding: 4px;
   color: white;
   text-align: center;
 
 }
 
-.site-nav {display: inline;}
+.site-nav-philosophy {display: inline;}
 
-.site-nav .trigger {
+.site-nav-philosophy .trigger {
     display: inline;
     float: right;
     padding: 0 0.5em;
     color: #333;
 }
 
-.site-nav .trigger a{  display: block;
+.site-nav-philosophy .trigger a{  display: block;
     color: white;
     text-align: center;
     padding: 12px 14px;
     text-decoration: none; }
 
-.site-nav .trigger a:hover{ background-color: #990000;  color: white; }
+.site-nav-philosophy .trigger a:hover{ background-color: #990000;  color: white; }
 
 .site-title:hover{   color: #990000; }
 
