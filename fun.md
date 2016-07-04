@@ -7,18 +7,13 @@ title: Fun Stuff Home
 
 <img src="/img/midair-small.jpg" alt="Mid-air" align="right" hspace="5"> 
 
-Hi! Welcome to my personal site. 
-
-I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). (You can check out my [philosophy site](/) for my academic work.) 
-
-This site hosts some random fun projects I'm working on. 
+Hi! Welcome to my "fun" site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site hosts some random fun projects I'm working on. Feel free to explore. (You can check out my [philosophy site](/) for my academic work.) 
 
 <br>
 <br>
-<br>
 
 
-## Major Projects
+## Projects
 
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> The Buhler Report: new blog offering thoughtful dialogue on timeless truths and current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree.</p>
 
@@ -42,17 +37,14 @@ This site hosts some random fun projects I'm working on.
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a> How to lead a discussion (video)</p>
 
-<br>
 
-## Minor Projects
+## Other Projects
 
 * [Art](/art): Drawings, sculptures, pumpkins, and more.
 * [Bio](/bio): A little bit about me.
 * [Lectures](/speaking): public speeches, conferences, and classes.
 * [Meditation](/meditation): How to meditate (and why)
 * [Paypal](https://www.paypal.me/keithbuhler): Through the magic of the internet, you can send me money(!) 
-* [Philosophy Major](/philosophy-major): What a philosophy degree can do for you
-* [Professional Philosophy](/phd-how-to): How to get a PhD (and why)
 * [Philosophy is Science](http://www.philosophyisscience.com): Some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
 * Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
