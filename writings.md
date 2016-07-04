@@ -9,9 +9,9 @@ I am a devout amateur. I believe you should write and create lots of different t
 
 My non-academic writings *have* been published on line and in print at MereOrthodoxy, The Examined Life, the London School of Training, The Word, and others. 
 
-The most important thing I'm writing right now is my [dissertation](/phd). I also created the [Intentional Reading Project](http://www.readingintentionally.com/)  The goal is to help you define your reading goals and achieve them. 
+The most important thing I'm writing right now is my [dissertation](/phd). But I recently created the book-in-development I call [The Intentional Reading Project.](http://www.readingintentionally.com/)  The goal of the project is to help you define your reading goals, and read a lot.
 
-Below, you can read some of my articles, short stories, fairy tales, screenplays, poems, and satire. 
+These are some of my articles, short stories, fairy tales, screenplays, poems, and satire. 
 
 
 
