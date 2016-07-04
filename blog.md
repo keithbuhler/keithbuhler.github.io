@@ -12,7 +12,7 @@ title: The Buhler Report
 
 <br>
 
-<i>Thoughtful dialogue on timeless philosophy and current events.</i>
+<h2><i>Thoughtful dialogue on timeless philosophy and current events.</i></h2>
 
 </center>
 
@@ -55,4 +55,5 @@ title: The Buhler Report
 
 <br>
 
+<br>
 
