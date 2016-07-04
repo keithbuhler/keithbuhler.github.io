@@ -14,18 +14,30 @@
       <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="/css/main.css">
  	</head>
- 	<body>
- 		<nav>
-        <ul>
-                <li><a href="/blog">The Buhler Report</a></li>
-                <li><a href="/fun">keithbuhler.com/fun</a></li>
-        </ul>
- 		</nav>
- 		<div class="container">
-    
-    {{ content }}
 
- 		 </div><!-- /.container -->
+      <body>
+   
+    <div id="content-wrapper">
+
+    <header class="site-header">
+  <div class="wrap">
+      <a class="site-title" href="<a href="/blog">The Buhler Report</a>
+    <nav class="site-nav">
+        <li><a href="/blog">The Buhler Report</a></li>
+         <li><a href="/fun">keithbuhler.com/fun</a></li>
+    </nav>
+  </div>
+</header>
+
+     <div class="page-content">
+
+        {{ content }}
+        
+       </div><!-- /.container -->
+       </div>
+
+
+
        <footer>
        <p> <a href="https://twitter.com/Keith_Buhler" class="twitter-follow-button" data-show-count="false">Follow @Keith_Buhler</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
