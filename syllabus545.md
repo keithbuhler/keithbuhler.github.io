@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 ---
 
 ### [545 Religion, Summer 2016](/syllabus545.pdf)

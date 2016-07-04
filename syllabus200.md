@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 ---
 
 ### [Fall 2016 Syllabus](/syllabus200.pdf)

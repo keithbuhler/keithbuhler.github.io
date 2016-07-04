@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 ---
 
 ### [Spring 2017 Syllabus](/syllabus200.pdf)

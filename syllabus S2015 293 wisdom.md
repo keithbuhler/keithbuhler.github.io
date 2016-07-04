@@ -1,5 +1,5 @@
 ---
-layout: noheader
+layout: philosophy
 title: PHL 293 S2016 Syllabus
 ---
 

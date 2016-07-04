@@ -1,7 +1,6 @@
 ---
-layout: noheader
+layout: philosophy
 title: 305 Syllabus Spring 2016
-
 ---
 
 **[305 Syllabus, Spring 2016](/syllabus S2016 305 health care.pdf)**

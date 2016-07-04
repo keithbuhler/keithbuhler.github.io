@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 ---
 
 **[PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)**  

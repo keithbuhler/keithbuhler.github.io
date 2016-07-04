@@ -1,5 +1,5 @@
 ---
-layout: student
+layout: philosophy
 ---
 
 **[334 Syllabus, Fall 2016](/syllabus334.pdf)**  

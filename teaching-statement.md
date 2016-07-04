@@ -3,21 +3,27 @@ layout: default
 title: Teaching Statement
 ---
 
+
+[Keith Buhler](http://keithbuhler.github.io)  
+Department of Philosophy  
+University of Kentucky  
+keith.buhler@uky.edu  
+http://www.keithbuhler.com  
+
+----
+
 # Teaching Statement
 
-Keith Buhler   
-2016  
 
+My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. To this end, I invite students to think about new ideas in new ways. Thinking philosophically is a risk; so I give students the space, the tools, and the inspiration they need to be motivated to take that risk. 
 
-
-### Goals
-
-My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. To this end, I invite students to think about new ideas in new ways. Thinking philosophically is a risk; so I give students the space, the tools, and the inspiration they need to be motivated to take that risk. In this essay, I first briefly discuss how I proactively create a classroom culture. Then, I discuss in some detail a few strategies for teaching introductory and upper-division courses and how those strategies have worked for me. 
+In this statement, I first present my strategy for creating a healthy classroom culture. I then discuss strategies for teaching introductory and upper-division courses. Finally, I briefly highlight the success of these strategies. 
 
 
 
 ### Classroom culture
-After fifteen years of classroom teaching in high school and college, I've learned that the first day is a crucial time to set expectations. In my experience, creating a proper environment for such interest is a two-way activity: On my first day, I promise to make the course as enjoyable as possible and ask students to take responsibility for their own learning. My high expectations elicit high performance. Clear expectations give them the best chance of being invigorated by philosophical arguments and becoming self-motivated to read, write, and discuss. Furthermore, by getting to know students and listening to them, I earn their respect. One student said: “He learned our names very quickly and took time to understand our points in discussion.” (PHI305, 2015) 
+
+After fifteen years of classroom teaching in high school and college, I've learned that the first day is a crucial time to set expectations. In my experience, creating a proper environment for such interest is a two-way activity: On my first day, I promise to make the course as enjoyable as possible, using humor, high energy, and a conversational atmosphere. In return, I ask students to take responsibility for their own learning. I explain to students that real philosophical dialogue is a challenge but express my optimism. My high expectations elicit high performance. Furthermore, by getting to know students and listening to them, I earn their respect. One student said: “He learned our names very quickly and took time to understand our points in discussion.” (PHI305, 2015)  
 
 
 
@@ -27,9 +33,9 @@ I approach introductory classes a bit differently than upper division classes or
 
 In introductory classes, class time is 2/3rds interactive lecture, with Google Slideshows available before and during class. The remaining 1/3rd of classtime is teacher-lead discussion that accustoms students to the normal aporetic feelings of confusion and vertigo that come from doing hard philosophical work, and encourages them to press on to genuine insight. Materials are mainly historical primary sources, such as Plato, Augustine, and Hume, and I coach them on reading well, comprehending, and questioning the texts. We also discuss films like the Matrix, Toy Story 3, and Tree of Life. I try to always be mindful that though many students are just "going through the motions", there is always a chance that these classes can permanently alter a person's life for the better. 
 
-200+ level classes should allow students with a variety of majors and career plans to discover the potential benefits of a philosophy minor, including the fact that the creativity and problem-solving skills they learn in philosophy are statistically correlated with a higher salary in many fields. 
+200+ level classes should allow students with a variety of majors and career plans to discover the potential benefits of a philosophy minor, including the fact that the creativity and problem-solving skills they learn in philosophy are statistically correlated with a higher salary in many fields. In these classes, class time is only 1/3rd interactive lecture, with 2/3rds cooperative discussion or student-lead presentations. Materials still include primary sources but include some excellent secondary sources, such Oxford Handbooks, or monographs from philosophers like Thomas Nagel and Rosalind Hursthouse. 
 
-In these classes, class time is only 1/3rd interactive lecture, with 2/3rds cooperative discussion or student-lead presentations. Materials still include primary sources but include some excellent secondary sources, such Oxford Handbooks, or monographs from philosophers like Thomas Nagel and Rosalind Hursthouse. 
+Clear expectations give them the best chance of being invigorated by philosophical arguments and becoming self-motivated to read, write, and discuss. Each assignment is given in class and supplemented with online (text or video) instructions.
 
 Students understand and appreciate that assignments are not just for the grade but are geared to philosophical thinking. One student said:  “None of the assignments are busy work." (PHL200, 2014) Philosophical papers follow a disputation format: stating one's view, arguing for that view, stating reasonable objections, and responding to objections. 
 

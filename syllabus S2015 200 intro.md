@@ -1,5 +1,5 @@
 ---
-layout: noheader
+layout: philosophy
 title: PHL 200 S2016
 ---
 
