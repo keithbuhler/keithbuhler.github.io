@@ -11,9 +11,7 @@ http://www.keithbuhler.com
 
 ----
 
-<center>
-
-<h1>Discussion 101</h1>
+### Discussion 101
 
 *Ground Rules for Following the Logos*
 
