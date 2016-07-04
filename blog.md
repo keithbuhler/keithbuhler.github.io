@@ -8,7 +8,7 @@ title: The Buhler Report
 
 <h1> Welcome to ... </h1>
 
-<img src="/img/TheBuhlerReport1.png" align="center" width="800" height="50">
+<img src="/img/TheBuhlerReport1.png" align="center" width="600" height="200">
 
 <br>
 
