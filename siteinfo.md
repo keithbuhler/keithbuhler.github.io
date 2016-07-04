@@ -2,14 +2,11 @@
 title: site info
 ---
 
-
-### Author
-
-These sites are created by Keith Buhler. I hope you enjoy them.
-
 ### Site 
 
-This website is written in a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax">Markdown). The Markdown coded files are converted automatically to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) That HTML is stored on my harddrive and also synced to open source programming community called [Github,](http://www.github.com) which hosts websites for free. 
+Everything you see here was created by Keith Buhler. I hope you enjoy the site and find it useful. 
+
+Everything was written in a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax">Markdown). The Markdown coded files are converted automatically to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) That HTML is stored on my harddrive and also synced to open source programming community called [Github,](http://www.github.com) which hosts websites for free. 
 
 Philosopher and programming Sith Lord [Dan Sheffler](http://www.dansheffler.com) gave me the idea, the instructions, and (in some instances) the code to get started creating my own site. I started with Dan Sheffler's site design and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/).
 
