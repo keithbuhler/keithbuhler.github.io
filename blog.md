@@ -1,18 +1,30 @@
 ---
-layout: fun
+layout: posts
 title: Buhler Report
 --- 
-
-# Welcome to ... 
-
-<img src="/img/TheBuhlerReport1.png" align="center">
 
 
 <center>
 
+<h1> Welcome to ... </h1>
+
+<img src="/img/TheBuhlerReport1.png" align="center">
+
 <i>Thoughtful dialogue on timeless philosophy and current events.</i>
 
 </center>
+
+
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 
 
@@ -39,13 +51,3 @@ title: Buhler Report
   {% endif %}
 </div>
 
-
-## Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>

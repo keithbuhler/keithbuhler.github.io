@@ -8,14 +8,21 @@ title: Philosophy In Class
 
 Philosophy is about arguing. Philosophy is about making arguments and understanding arguments. It's not about yelling, but rationally justifying your positions and debunking falsehoods. Philosophy is not, primarily, about memorizing historical figures, philosophical schools, and terminology. You only learn memorize those things in order to be able to understand the arguments. Then you have to think. 
 
-Probably your class will consist of (a) reading classic texts or modern articles that make philosophical arguments, (b) listening to your professor lecture, and (c) asking questions of the teacher or discussing with each other, and (d) writing arguments in philosophical papers. 
+My classes use project-based learning. We learn by doing. Philosophy is better caught than taught.
 
-So, to succeed, you need to learn how to do each of these activities. The more you put in, the more you get out. To have a great experience in a philosophy class, you must work hard. You must work to read, understand, discuss, and write about the topics and texts. Here are some tips on each of these activities. 
+The only obstacle to project-based learning is this: Thinking is hard. Every philosophy student hits the wall. If you can get over the hump, then you will enjoy this class and it may have a good effect on your life. The wall is the moment where you feel frustrated, confused. You feel like something is wrong. You are mad at your classmate, your professor, or yourself. You think maybe philosophy just isn't for you. Everyone who really reaps the rewards of doing philosophy has hit this wall and pushed through. 
 
-Don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
 
+So don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
 
 ![Dory](/img/dory.jpg)
+
+
+## What do we DO?
+
+Just about every philosophy class will consist of (a) reading classic texts or modern articles that make philosophical arguments, (b) listening to your professor lecture, and (c) asking questions of the teacher or discussing with each other, and (d) writing arguments in philosophical papers. 
+
+So, to succeed, you need to learn how to do each of these activities. The more you put in, the more you get out. To have a great experience in a philosophy class, you must work hard. You must work to read, understand, discuss, and write about the topics and texts. Here are some tips on each of these activities. 
 
 ## (A) How Do I Get Better at Reading Philosophy? 
 * Read ahead,  re-read, and think about what you've read. Read slowly; you will naturally get faster as the semester goes on.
