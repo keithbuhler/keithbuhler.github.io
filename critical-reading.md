@@ -68,15 +68,28 @@ Critical Reading 6-Point Template
 **Objections. What objections does the author present (reasons to think the author’s thesis is incorrect)?** 
 
 <br>
+
 <br>
 
 **Your Opinion. Is the author’s thesis correct, in your view? If not, what premise is false, what term unclear, or what inference invalid?** 
 
+
+<br>
+
+<br>
+
 **Question. What is the main question you are wondering, after reading this article?** 
 
+
+<br>
+
+<br>
 
 ---- 
 
 **(Optional) Key terms. What are the author’s key terms and how are they defined?**
+<br>
 **(Optional): Assumptions. What are the author’s assumptions or presuppositions?**
+<br>
 **(Optional): Implications. Suppose the author’s thesis is right — what would follow logically?**
+<br>
