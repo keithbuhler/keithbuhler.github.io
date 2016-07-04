@@ -1,7 +1,7 @@
 ---
 layout: posts
 type: posts
-title: Blank will kill us all
+title: This or that will kill us all
 tags: politics
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Buhler Report
+title: The Buhler Report
 --- 
 
 
@@ -8,7 +8,9 @@ title: Buhler Report
 
 <h1> Welcome to ... </h1>
 
-<img src="/img/TheBuhlerReport1.png" align="center">
+<img src="/img/TheBuhlerReport1.png" align="center" width="800" height="50">
+
+<br>
 
 <i>Thoughtful dialogue on timeless philosophy and current events.</i>
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 type: posts
-title: ISIS to target whites
+title: ISIS plans to target whites
 tags: politics
 
 ---
