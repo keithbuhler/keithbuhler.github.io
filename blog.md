@@ -8,7 +8,7 @@ title: The Buhler Report
 
 <h1> Welcome to ... </h1>
 
-<img src="/img/TheBuhlerReport1.png" align="center" width="600" height="200">
+<img src="/img/TheBuhlerReport1.png" align="center" width="600" height="150">
 
 <br>
 
@@ -52,4 +52,7 @@ title: The Buhler Report
     <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
   {% endif %}
 </div>
+
+<br>
+
 
