@@ -7,15 +7,21 @@ title: Fun Stuff Home
 
 <img src="/img/midair-small.jpg" alt="Mid-air" align="right" hspace="5"> 
 
-Hi! Welcome to my "fun" site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site hosts some random fun projects I'm working on. Feel free to explore. (You can check out my [philosophy site](/) for my academic work.) 
+Hi! Welcome to my "fun" site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site hosts an ecclectic bunch of projects I'm working on. Feel free to explore. (You can check out my [philosophy site](/) for my academic work.) 
 
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Projects
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> The Buhler Report: new blog offering thoughtful dialogue on timeless truths and current events.  I discuss the fun, the serious, and the politically charged -- but I would rather discuss intelligently than agree.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a> The Buhler Report: new blog offering thoughtful dialogue on timeless truths and current events.</p>
 
 <br>
 
