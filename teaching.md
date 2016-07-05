@@ -55,7 +55,7 @@ S2013 Introduction to Logic
 
 (pictured: The archeological site of Plato's Academy)
 
-[Students, please visit my philosophy portal.](/philosophy-2-portal) 
+[Students, please visit my philosophy portal.](/philosophy) 
 
  
 

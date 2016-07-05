@@ -1,8 +1,8 @@
 ---
-title: Draft
+title: Is Beauty Objective?
 ---
 
-# [Is Beauty Objective?]
+# Is Beauty Objective?
 
 [Original post here]((https://mereorthodoxy.com/is-beauty-objective/))
 
@@ -48,6 +48,7 @@ We have things we have to explain:
 4. The powerful effect of certain objects. For example, sunsets motivate hundreds of thousands of poems, moonsets motivate almost none; women of a certain shape, size, color, tone, personality, and poise are the source and cause of a dozen thousand films being made, women certain shapes, sizes, colors, tones, personalities, and poise never motivate the creation of a film. Pictures of flowers adorn the walls of millions of North American suburban homes, dead rats adorn almost none.
 
 In summary,
+
 1. The diversity of taste in beauties.
 2. The uniformity of taste in beauty.
 3. The existence of “experts” in beauty (eg. painters, cinematographers, interior designers, architects)
