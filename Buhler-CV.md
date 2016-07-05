@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 
 #### [(PDF version)](/Buhler-CV.pdf)
@@ -18,7 +18,6 @@ Ethics, Metaethics.
 
 ### AREAS OF COMPETENCE
 Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.  
-
 
 
 ### EDUCATION
