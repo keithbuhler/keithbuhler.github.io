@@ -15,15 +15,15 @@ title: Still in the Shining Sea - An American Myth
 
 ### Dramatis Personae
 
-*Dr. Adam Johnson, high school American History teacher*
+*Dr. Adam Johnson, high school American History teacher*  
 *Joshua Johnson, a high school graduate.*
 
 ### Setting
 
-On the 3rd of July, just before Independence Day. 
-DR. JOHNSON   rides with his son, on a transatlantic cruise from England to New York. 
+On the 3rd of July, just before Independence Day.   
+Dr. Johnson rides with his son, on a transatlantic cruise from England to New York. 
 
-## Chapter 1 - myth and Identity
+## 1. Myth and Identity
 
 
 
@@ -335,7 +335,7 @@ I remember. But this fact this reminds me that the government and laws under whi
 JOSHUA    
 That makes sense when you say it, but I can barely make out the connection. 
 
-## Chapter 2 - Laws and Gods
+## 2. Laws and Gods
 
 DR. JOHNSON  
 I think we are being fish right now, struggling to see we are wet. Let's turn to some outsiders and perhaps get insight from them. 
@@ -375,7 +375,8 @@ What do you mean English?
 
 DR. JOHNSON  
 They speak the mother tongue, as I have already said. Secondly they all share the American philosophic method.
-JosHUA
+
+JOSHUA  
 How's that?
 
 DR. JOHNSON  
@@ -385,7 +386,7 @@ JOSHUA
 What's the Frenchie say?
 
 DR. JOHNSON  
-He says, "There is no country in the civilized world where they are less occupied with philosophy than the United States. They have not philosophic school o their own, nevertheless, almost all the inhabitants of the United States direct their minds according to the same rules: To escape from the spirit of system, from the yoke of habits, from family maxims, from class opinions, and up to a certain point, from national prejudices; to take tradition only as information, and current facts only as a useful study for doing otherwise and better; to seek the reason for things by themselves and in themselves alone, to strive for the result without letting themselves be chained to the means, and to see through the form to the foundation: these are the features of ... the philosophic method of the Americans... If I go further and seek among these diverse features the principle one that can sum up almost all the others... each American calls only on the individual effort of his reason. America is therefore the one country in the world where the precepts of Descartes are least studied and best followed... The American way of taking the rule of their judgment only from themselves leads to other habits of mind. As they manage to resolve unaided all the little difficulties that practical life presents, they easily conclude that everything in the world is explicable and that nothing exceeds the bounds of intelligence. Thus they willingly deny what they cannot comprehend: that gives them little faith in the extraordinary and an almost invincible distaste for the supernatural."
+He says, "There is no country in the civilized world where they are less occupied with philosophy than the United States. They have not philosophic school of their own, nevertheless, almost all the inhabitants of the United States direct their minds according to the same rules: To escape from the spirit of system, from the yoke of habits, from family maxims, from class opinions, and up to a certain point, from national prejudices; to take tradition only as information, and current facts only as a useful study for doing otherwise and better; to seek the reason for things by themselves and in themselves alone, to strive for the result without letting themselves be chained to the means, and to see through the form to the foundation: these are the features of ... the philosophic method of the Americans... If I go further and seek among these diverse features the principle one that can sum up almost all the others... each American calls only on the individual effort of his reason. America is therefore the one country in the world where the precepts of Descartes are least studied and best followed... The American way of taking the rule of their judgment only from themselves leads to other habits of mind. As they manage to resolve unaided all the little difficulties that practical life presents, they easily conclude that everything in the world is explicable and that nothing exceeds the bounds of intelligence. Thus they willingly deny what they cannot comprehend: that gives them little faith in the extraordinary and an almost invincible distaste for the supernatural."
 
 JOSHUA    
 Seems right to me.
@@ -403,7 +404,7 @@ JOSHUA
 But we were talking about laws, not philosophic method.
 
 DR. JOHNSON  
-Good reminder. But we havne't strayed from the topic. For it was these English-speaking, American-thinking fathers who were behind uniting as a new nation under Articles of Confedaration. But there was a problem.
+Good reminder. But we haven't strayed from the topic. For it was these English-speaking, American-thinking fathers who were behind uniting as a new nation under Articles of Confedaration. But there was a problem.
 
 JOSHUA    
 What?
@@ -427,13 +428,23 @@ JOSHUA
 So is the Constitution imitatively British or uniquely American? 
 
 DR. JOHNSON  
-It is uniquely American. It is a "bundle of compromises." It's primary concern is to give the Federation enough power to be worth having (as opposed to autonomous states) but to limit that power by dividing it, and strictly defining it.  Of course, not everyone thought it worked: George Mason thought, the government "would commence in a moderate Aristocracy, [and] in its Operation would produce a Monarchy, or a corrupt oppressive Aristocracy. Even James Madison told Jefferson that he thought "the plan should it be adopted will neither effectually answer its national object nor prevent the local mischiefs which every where excite distrust against the state governments."  The Federalists had to convince people both that, "a firm Union will be of the utmost moment to the peace and liberty of the States as a barrier against domestic faction and insurrection," at the same time as being keeping the power within the people, and passed to representatives by consent, with no one person having enough power to develop into a tyrant. Thus the over-weakness of disunity and the over-strength of any one branch of the government are ever-present twin dangers. Alexis De Tocqueville, the other French thinker, puts it this way: "Our contemporaries are incessently racked by to inimical passions: they feel the need to be led and the wish to remain free. Not being able to destroy either one of these contrary instincts, they strive to satisfy both at the same time. They imagine a unique power, tutelary, all powerful, but elected by citizens. They combine centralization and the sovereignty of the people. That gives them some respite. They console themselves that they have chosen their schoolmasters. Tocquevill warns against the dangers of this system in his chapter entitled "What Kind of Despotism Democratic Nations Have to Fear: When I think of the small passions of men of our day, the softness of their mores, the extent of their enlightenment, the purity of their religion, the mildness of their morality, their laborious and steady habits, the restraint that almost all preserve in vice as in virtue, I do not fear that in their chiefs they will find tyrants, but rather schoolmasters... I myself seek in vain an expression that exactly reproduces the idea that I form of it for myself; the old words despotism and tyrnany are not suitable. The thing is new, therefore I must try to define it, since I cannot name it: imagine an innumerable crowd of like and equal men who revolve on themselves without repose, procuring the small and vulgar pleasures with which they fill their souls. Each of them, withdrawn and apart, is like a stranger to the destiny of all the others: his children and his particular friends from the whole human species for him; as for the dwelling with his fellow citizens, he is beside them, but he does not see them; he touches them and does not feel them; he exists only in himself and for himself alone, and if a family still remains for him, one can at least say that he has no longer a native country.  Above these an immense tutelary power is elevated, which alone takes charge of assuring their enjoyments and watching over their fate. It is absolute, detailed, regular, far-seeing, and mild. It would resemble paternal power if, like that, it had for its object to prepare men for manhood; but on the contrary it seeks to only keep them fixed irrevocably in childhood; it willingly works for their happiness; but it wants to be the unique agent and sole arbiter of that; can it not take away from them entirely the trouble of thinking and the pain of living?"
+It is uniquely American. It is a "bundle of compromises." It's primary concern is to give the Federation enough power to be worth having (as opposed to autonomous states) but to limit that power by dividing it, and strictly defining it.  Of course, not everyone thought it worked: George Mason thought, the government "*would commence in a moderate Aristocracy, [and] in its Operation would produce a Monarchy, or a corrupt oppressive Aristocracy.*" 
+
+Even James Madison told Jefferson that he thought *"the plan should it be adopted will neither effectually answer its national object nor prevent the local mischiefs which every where excite distrust against the state governments."*  The Federalists had to convince people both that, *"a firm Union will be of the utmost moment to the peace and liberty of the States as a barrier against domestic faction and insurrection,"* at the same time as being keeping the power within the people, and passed to representatives by consent, with no one person having enough power to develop into a tyrant. 
+
+Thus the over-weakness of disunity and the over-strength of any one branch of the government are ever-present twin dangers. Alexis De Tocqueville, the other French thinker, puts it this way: 
+
+>"Our contemporaries are incessently racked by to inimical passions: they feel the need to be led and the wish to remain free. Not being able to destroy either one of these contrary instincts, they strive to satisfy both at the same time. They imagine a unique power, tutelary, all powerful, but elected by citizens. They combine centralization and the sovereignty of the people. That gives them some respite. They console themselves that they have chosen their schoolmasters." 
+
+Tocqueville warns against the dangers of this system in his chapter entitled "What Kind of Despotism Democratic Nations Have to Fear: 
+
+>"When I think of the small passions of men of our day, the softness of their mores, the extent of their enlightenment, the purity of their religion, the mildness of their morality, their laborious and steady habits, the restraint that almost all preserve in vice as in virtue, I do not fear that in their chiefs they will find tyrants, but rather schoolmasters... I myself seek in vain an expression that exactly reproduces the idea that I form of it for myself; the old words despotism and tyrnany are not suitable. The thing is new, therefore I must try to define it, since I cannot name it: imagine an innumerable crowd of like and equal men who revolve on themselves without repose, procuring the small and vulgar pleasures with which they fill their souls. Each of them, withdrawn and apart, is like a stranger to the destiny of all the others: his children and his particular friends from the whole human species for him; as for the dwelling with his fellow citizens, he is beside them, but he does not see them; he touches them and does not feel them; he exists only in himself and for himself alone, and if a family still remains for him, one can at least say that he has no longer a native country.  Above these an immense tutelary power is elevated, which alone takes charge of assuring their enjoyments and watching over their fate. It is absolute, detailed, regular, far-seeing, and mild. It would resemble paternal power if, like that, it had for its object to prepare men for manhood; but on the contrary it seeks to only keep them fixed irrevocably in childhood; it willingly works for their happiness; but it wants to be the unique agent and sole arbiter of that; can it not take away from them entirely the trouble of thinking and the pain of living?"
 
 JOSHUA    
-So submission to American Law, the division and limitation of power because of the fear of tyranny, and self-reliance in philosophy and everything else. Do we have it yet?
+So what it means to be American is this: (a) submission to American Law, (b) the division and limitation of power because of the fear of tyranny, and (c) self-reliance in philosophy and everything else --  Do we have it yet?
 
 DR. JOHNSON  
-Not quite. We are missing the Religious identity of America. 
+Not quite. We are missing the *Religious* identity of America. 
 
 JOSHUA    
 I'm afraid we still have the Melting Pot problem there. Even at our Unitarian church, dad, there are Muslims, Jews, and Hindus. Everyone seems pretty well blended, and don't mind letting others do their own thing and co-exist. 
@@ -451,7 +462,7 @@ JOSHUA
 Why must it be there?
 
 DR. JOHNSON  
-For a canvas to show up a rainbow variety of colors, the canvas itself has to be an exact and specific color: white. Most nations in most places at most times of history in the world have had a unity of some religion and some governmental method. The Athenians worshipped Zeus, Athens, Apollo, and the Olmpyiad under the leadership of priests and oracles. The Romans worshipped Jupiter, Minerva, Apollo much the same, until they converted. Medieval Italy worships the Father, Son, and Holy Spirit under the leadership of the pope and the bishops. The Church of England was Catholic until Henry VIII and they became Anglican or Anglo-Catholic, worshipping the Holy Trinity under the leadership of the King and bishops instead of the pope and bishops. Now one of the reasons so many English Puritans fled was because they were forced to be Anglican in regards to sacramentology, ecclesiology, and theology when perhaps they wanted to be more or less Calvanistic, more or less Zwinglian. And so they subsisted in colonial communities, practicing the denomination or religion of their choice. But when it came time to unite into one Federation, what did Washington, Jefferson, Adams, and Madison remember, more clearly than their own childhood? The tyrannies of the Roman Popes and the English Kings. And so they had to institute a civil religion "white" enough to account for all the varieties of Christianity, but stained with enough tint so as to capture the sensibilities and hearts of the majority who were pious, believing Christians. They could not be atheistic, explicitly, nor could they be explicitly Roman Catholic, or Anglican, or Calvinist, or Lutheran. And so they aimed carefully and hit their mark: the belief in "Nature and Nature's God," without bothering themselves about the controversial details: whether this God is One or Three-in-One, whether he wants us to worship him under the authority of bishops and presbyters, or presbyters alone, whether he wants us to baptise our babies while they're young, or let them decide for themselves, whether he is really present in the Lord's supper or symbolically present. 
+For a canvas to show up a rainbow variety of colors, the canvas itself has to be an exact and specific color: white. Most nations in most places at most times of history in the world have had a unity of some religion and some governmental method. The Athenians worshipped Zeus, Athens, Apollo, and the Olympyiad under the leadership of priests and oracles; the Romans worshipped Jupiter, Minerva, Apollo much the same, until they converted; medieval Italy worships the Father, Son, and Holy Spirit under the leadership of the pope and the bishops. The Church of England was Catholic until Henry VIII and they became Anglican or Anglo-Catholic, worshipping the Holy Trinity under the leadership of the King and bishops instead of the pope and bishops. Now, one of the reasons so many English Puritans fled was because they were forced to be Anglican in regards to sacramentology, ecclesiology, and theology when perhaps they wanted to be more or less Calvanistic, more or less Zwinglian. And so they subsisted in colonial communities, practicing the denomination or religion of their choice. But when it came time to unite into one Federation, what did Washington, Jefferson, Adams, and Madison remember, more clearly than their own childhood? The tyrannies of the Roman Popes and the English Kings. And so they had to institute a civil religion "blank" enough to account for all the varieties of Christianity, but stained with enough tint so as to capture the sensibilities and hearts of the majority who were pious, believing Christians. They could not be atheistic, explicitly, nor could they be explicitly Roman Catholic, or Anglican, or Calvinist, or Lutheran. And so they aimed carefully and hit their mark: the belief in "Nature and Nature's God," without bothering themselves about the controversial details: whether this God is One or Three-in-One, whether he wants us to worship him under the authority of bishops and presbyters, or presbyters alone, whether he wants us to baptise our babies while they're young, or let them decide for themselves, whether he is really present in the Lord's supper or symbolically present. 
 
 JOSHUA    
 Those do seem like trivial details, but how is that a "civil religion"? It seems very carefully a non-religion. 
@@ -471,7 +482,8 @@ None that I'm aware of.
 
 DR. JOHNSON  
 None at all. They have all been members of the same American civic religious community, Christian, but without ascribing to any particular denomination. 50% of them have been Episcopalian (which is American Anglican) or Presbyterian, as it happens, because these two are the official denominations closest to the unofficial state religion. 
-JosHUA
+
+JOSHUA
 So everyone in the country secretly belongs to this unofficial state religion, whether they know it or not?
 
 DR. JOHNSON  
@@ -483,7 +495,7 @@ How do you explain that?
 DR. JOHNSON  
 Well, Evangelicals have given up their interest in governing the State, and receded more to the private sector. George W. is the first of their number to be President, and when he says highly specific things like, "Jesus Christ saved me from my sins," he made quite a stir, even amongst Christians, because it crossed the line. They expect a more liberal, open view. Of course, there are plenty of Jews, Muslims, Buddhists, Hindus, Confucianists, Taoists, Wiccans, and Atheists, but they too tend to remain in their sub-culture. Tocquevill highlights another phenomenon of American Religion, the tendency towards pantheism. He says, "As conditions become more equal and each man in particular becomes more like all the others, weaker and smaller, one gets used to no longer viewing citizens so as to consider only the people; one forgets individuals so as to think only of the species. In these times the human mind loves to embrace a host of diverse objects at once; it constantly aspires to be able to link a multitude of consequences to a single cause. The idea of unity obsesses the mind. Not only does it discover only one creation and one Creator in the world; this first division of things still bothers it, and it seeks to enlarge and simplify its thought by enclosing God and the universe within a single whole. If I encounter a philosophic system according to which the things material and immaterial, visible and invisible that the world includes are considered as no more than diverse parts of an immense being which alone remains eternal in the midst of the continual change, I shall have no trouble concluding that such a system, although it destroys human individuality, or rather because it destroys it, will have secret charms for men who live in democracy; all their intellectual habits prepare them to conceive it and set them on the way of adopting it. It naturally attracts their imagination and fixes it; it nourishes the haughtiness and flatters the laziness of their minds." The rise of Wiccanism and Transcendental Meditation, Yoga and Buddhism since the 1960's seems to make sense in this light. So, including the civic Christian religion and all its adherents, all other religions, and those who consider themselves spiritual, but not religious, I conclude that the vast majority of the nation sits somewhere on the spectrum between between the "hard" deism in the intellectual class, and "soft" pantheism. 
 
-## Chapter 3.  An American Myth
+## 3.  An American Myth
 
 JOSHUA    
 Is that it?
@@ -495,16 +507,16 @@ JOSHUA
 Be my guest. 
 
 DR. JOHNSON  
-Our American Protagonist would be a young Man or Boy lives in a paradisical State of Nature. This natural state is threatened by an unjust tyrant, and so our rebel-hero revolts in order to establish peace and freedom for the majority. God, or the gods, are within him, and through his superhuman strength and intelligence, he overthrows this unjust power, and refuses to replace it with a similar power. He divides power amongst others and within himself. The story ends with the new power being either too weak to do its job, or else too strong, and thus in danger of starting the cycle over again. And through it all, there is a fear of the tyrant and desire to be free mixed with a desire to be lead and thus a hope for the rise a benevolent king in whom we can trust.
+The American Protagonist is a young Man or Boy who lives in a paradisiacal State of Nature. This natural state is threatened by an unjust tyrant, and so our rebel-hero revolts in order to establish peace and freedom for the majority. God, or the gods, are within him, and through his superhuman strength and intelligence, he overthrows this unjust power, but he refuses to replace it with a similar power. He divides power amongst others and within himself. The story ends with the new power being either too weak to do its job, or else too strong, and thus in danger of starting the cycle over again. And through it all, there is a fear of the tyrant and desire to be free mixed with a desire to be lead and thus a hope for the rise a benevolent king in whom we can trust.
 
 JOSHUA    
-Like King Arthur, dad?
+Would King Arthur be an example of the American Myth then, dad?
 
 DR. JOHNSON  
-I suppose so, son.
+I suppose so, son. But I think a more exact type is George Washington or Luke Skywalker.
 
 JOSHUA    
-But wouldn't Tocqueville say: beware the benevolent tyrant? 
+Even then, wouldn't Tocqueville say: "beware the benevolent tyrant"? 
 
 DR. JOHNSON  
 Yes, he definitely would. So it would be of the utmost importance to distinguish the mild schoolmaster and the just and powerful king. 
@@ -524,3 +536,5 @@ Of course!
 
 JOSHUA    
 OK then. If it is pleasing enough, I'll stay and listen. 
+
+*Fin*

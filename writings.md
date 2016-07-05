@@ -5,30 +5,34 @@ title: writings
 
 ## Writings #
 
-I am a devout amateur. I believe you should write and create lots of different things even if you can't or don't or don't want to make money with them. Just create. 
+I am a devout amateur. My writings have been published online and in print. But I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
 
-My non-academic writings *have* been published on line and in print at MereOrthodoxy, The Examined Life, the London School of Training, The Word, and others. 
-
-The most important thing I'm writing right now is my [dissertation](/phd). But I recently created the book-in-development I call [The Intentional Reading Project.](http://www.readingintentionally.com/)  The goal of the project is to help you define your reading goals, and read a lot.
-
-These are some of my articles, short stories, fairy tales, screenplays, poems, and satire. 
+The most important thing I'm writing right now is my [dissertation](/phd). But this site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
 
 
 
-### Books
-[Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura)
+### Philosophical Dialogues
+* [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
+* [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
+* [Still In the Shining Sea: An American Myth](/american-myth) (short story)
+* [The Sin of Satan: On the Problem of Evil](http://keithbuhler.github.io/writings-sin-of-satan) (dialogue)
+* [Heraclitus: An Interpretation](/heraclitus)
+
  
-### Short Stories, Fables, and Fairy Tales ##
 
+### Short Stories, Fables, and Fairy Tales ##
+* [When My Breath Stops](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view) (literary non-fiction)
 * [Redwood](https://drive.google.com/file/d/0B0CYQDZ8AWu8WVctVV9Oak1DcU0/view) (short fiction)
 * [The Face of God](https://docs.google.com/document/d/1TQkpG_2A_wPZ_OxhGfQP8L1r1h81c8m1JT0Hobhvg2Q/edit) (short fiction)
 * [The Death of Renfield](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEVHZFVCSUxydjA/view) (short fiction)​
 * [Gorge and the Ice God](https://drive.google.com/file/d/0B0CYQDZ8AWu8MWFFa09BZmViOUU/view) (sci-fi)
-* [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
 * [The Giving Well](https://drive.google.com/file/d/0B0CYQDZ8AWu8WE9OODRiRFRkR3c/view) (fairy tale)
 * [Fables on Leading & Following](/fables.pages)  (fables) 
-* [The Sin of Satan: On the Problem of Evil](http://keithbuhler.github.io/writings-sin-of-satan) (dialogue)
 
+### Poetry
+* [The Boy and the Poem](https://docs.google.com/document/d/1rXeehuQu2bWKUFtLT-1a4THizuz__-AVWrLa1V6HEis/edit?usp=sharing)
+* [Lake Lumen](https://docs.google.com/document/d/1NPjF3Yekd8yXa7gdSKl1WLabjETC4AzWBPnzEfX4s_U/edit)
+* [Wisconsin Winter](https://drive.google.com/file/d/0B0CYQDZ8AWu8bkZ4a1ZDS0gzUk0/view)
 
 ### Screenplays
 * [Misha and Liz](https://drive.google.com/file/d/0B0CYQDZ8AWu8NHRLNWgxMGtMZWM/view) (short film)  
@@ -44,18 +48,11 @@ These are some of my articles, short stories, fairy tales, screenplays, poems, a
 * [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
 * [Who Cares? Learning through discussion](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html) (in Examined Life)
 * [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
-* [When My Breath Stops: Lungs and Mortality (forthcoming in St. Katherine Review)](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view)
-* [Heraclitus: An Interpretation](/heraclitus)
-
-### Poetry
-* [The Boy and the Poem](https://docs.google.com/document/d/1rXeehuQu2bWKUFtLT-1a4THizuz__-AVWrLa1V6HEis/edit?usp=sharing)
-* [Lake Lumen](https://docs.google.com/document/d/1NPjF3Yekd8yXa7gdSKl1WLabjETC4AzWBPnzEfX4s_U/edit)
-* [Wisconsin Winter](https://drive.google.com/file/d/0B0CYQDZ8AWu8bkZ4a1ZDS0gzUk0/view)
 
 
 ### Film and Music Criticism
-[Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
-[Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
+* [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
+* [Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
 
 ### Humor/Satire
 * [Google Acquires U.S. Government](https://drive.google.com/file/d/0B0CYQDZ8AWu8RTN5bHdIUUFvV1U/view)  
