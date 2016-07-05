@@ -4,21 +4,25 @@ title: Is Beauty Objective?
 
 # Is Beauty Objective?
 
-[Original post here]((https://mereorthodoxy.com/is-beauty-objective/))
+[Original post here](https://mereorthodoxy.com/is-beauty-objective/)
+
+![Peters](/img/peters1.png)
 
 If you are like most people alive today, you believe ‘beauty is in the eye of the beholder.’ This is what I was taught. 
 
 No one ever told me that (in view of history) beauty subjectivists are the sad minority. Most thinking people in most places at most times have believed in the three great ‘transcendentals:’ goodness, truth, and beauty. Most thinking people in most places at most times (especially in the West) have believed that beauty was one of those objective realities “out there,” that can be discovered, toyed with, hated, loved, or otherwise disregarded, but cannot be denied.
 
-A brief case that the majority view is the correct view. 
 
-That may be the majority view, but is it true? Studying the luminous works of Jonathan Edwards with my high school students this week, I am again revisiting this most important of questions. If beauty is not real, then there are no objectively “beautiul objects” or “beautiful ideas.” Depite our sentiments, we must nobly and strictly reject all forms of fantastic nonsense in the ongoing pursuit of scientific and philosophical purity. In philosophy, we must pursue truth and not eloquence; in science and math, truth and not elegance; in theology, truth and not grace. No matter how beautiful the falsehood, it is still false.
+Studying the luminous works of Jonathan Edwards with my high school students this week, I am again revisiting this most important of questions. 
+
+If beauty is not real, then there are no objectively “beautiul objects” or “beautiful ideas.” Depite our sentiments, we must nobly and strictly reject all forms of fantastic nonsense in the ongoing pursuit of scientific and philosophical purity. In philosophy, we must pursue truth and not eloquence; in science and math, truth and not elegance; in theology, truth and not grace. No matter how beautiful the falsehood, it is still false.
 
 On the other hand, if beauty is real, then it is the ground of one’s “aesthetic life,” as truth is the ground of one’s intellectual life. And the recognition of beauty would become essential (in some cases) my ability to discover the truth. For if reality is beautiful, the argument goes, then a person cannot know the truth about reality unless that person knows it as beautiful. Even more importantly, if beauty is real then according to Edwards it is also the ground in some sense of one’s morality and happiness. If reality is beautiful, then neither can a person be a good, upright, upstanding person who neglects the “sweet mutual consents” between himself and others.
 
 Is beauty objective then? The question should be broken into two parts. The first has to do with the status of the being of beauty. What should its status be in our ontology? The second has to do with its status in our epistomology. If it is truly “out there,” then how do we get knowledge of it…? Is there a science of beauty?
 
-The case for the subjectivity of beauty is fairly simple. “What is beautiful” is more or less equal to “what people find pleasing.” Aquinas said, “beauty is that which, being seen, pleases.” And what people find pleasing varies so widely from one culture to another, from one family to another, indeed from one person to another, that there is no likelihood of summarizing this kaliedoscope of pleasures into an “objective” set of beautiful objects or ideas. To quote a syllogism expressed by one of my students:
+
+The case for the subjectivity of beauty is fairly simple. “What is beautiful” is more or less equal to “what people find pleasing.” Aquinas said, [“beauty is that which, being seen, pleases.”](http://ndpr.nd.edu/news/58953-aquinas-on-beauty/) And what people find pleasing varies so widely from one culture to another, from one family to another, indeed from one person to another, that there is no likelihood of summarizing this kaliedoscope of pleasures into an “objective” set of beautiful objects or ideas. To quote a syllogism expressed by one of my students:
 
 1. What is stimulating to one person and not be stimulating to another is only “stimulating” in a subjective sense.
 

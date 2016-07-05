@@ -1,7 +1,7 @@
 ---
 layout: posts
 type: posts
-title: This or that will kill us all
+title: Why we shouldn't worry that "X will kill us all!"
 tags: politics
 ---
 
@@ -12,4 +12,8 @@ If you are feeling worried about the Zika Virus, get some perspective, and then 
 
 ![XKCD](/img/xkcd blank will kill us.jpg)
 
-The Zika virus will pass. And something else will kill us. But we'll be fine. 
+The Zika virus will pass. 
+
+And something else will kill us. But it will probably be heart failure. 
+
+And we'll be fine. 
