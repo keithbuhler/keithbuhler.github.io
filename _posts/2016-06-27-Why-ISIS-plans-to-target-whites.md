@@ -3,10 +3,12 @@ layout: posts
 type: posts
 title: Why ISIS plans to target whites
 tags: politics
+permalink: /isis-target-whites
+comments: true
 
 ---
 
-# Why target whites?
+# Why target non-minority "Anglo-Saxons"?
 
 [Al Qaeda's Inspire Guide instructs jihadis to target white Americans](http://www.foreigndesknews.com/world/us/al-qaeda-jihadis-target-white-americans-avoid-minorities-us-mislabels-attacks-hate-crime/)
 

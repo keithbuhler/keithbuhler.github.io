@@ -2,6 +2,8 @@
 layout: posts
 title: Is Beauty Objective?
 comments: true
+permalink: /is-beauty-objective
+
 ---
 
 # Is Beauty Objective?

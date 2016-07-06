@@ -1,8 +1,10 @@
 ---
 layout: posts
 type: posts
-title: How ISIS recruits
+title: How ISIS recruits new soldiers
 tags: politics, religion
+permalink: /isis-recruits-post
+comments: true
 
 ---
 
