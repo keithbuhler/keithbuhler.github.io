@@ -5,7 +5,7 @@ title: Teaching
 
 # Teaching 
 
-<img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="15" height="300" width="300">
+<img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 I have been teaching at universities or high schools for fifteen years. Since 2012, I have taught university courses in philosophy, metaphysics, ethics, bioethics, and philosophy of religion at the University of Kentucky and Asbury University. Before that, I served one year as Director of High School Studies at Veritas Academy and two years as Master Tutor at Torrey Academy. Complete details are on my [CV](/Buhler-CV.pdf). 
 
