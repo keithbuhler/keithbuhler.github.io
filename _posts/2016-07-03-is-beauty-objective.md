@@ -1,6 +1,6 @@
 ---
-title: Is Beauty Objective?
 layout: posts
+title: Is Beauty Objective?
 comments: true
 ---
 
