@@ -1,5 +1,7 @@
 ---
 title: Is Beauty Objective?
+layout: posts
+comments: true
 ---
 
 # Is Beauty Objective?
