@@ -18,8 +18,6 @@ tags:
 </center>
 
 
-## Posts
-
 <ul class="posts">
   {% for post in site.posts %}
   <li>
@@ -39,7 +37,7 @@ tags:
     </div>
 
 {% endfor %}
-
+</ul>
 
 <!-- Pagination links -->
 <div class="pagination">
