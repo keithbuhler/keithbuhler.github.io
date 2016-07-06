@@ -1,6 +1,8 @@
 ---
 layout: posts
 title: The Buhler Report
+type: posts
+
 --- 
 
 
