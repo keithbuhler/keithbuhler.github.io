@@ -2,7 +2,7 @@
 layout: posts
 title: Lawmen, People of the Math
 permalink: /math
-comments: true: 
+comments: true
 tags: philosophy, math, classical education
 
 --- 

@@ -33,7 +33,7 @@ tags:
 
 {% for post in paginator.posts %}
     <div class="posts">
-      <h2><a class="post-link" href="{{ post.url}}">{{ post.title }}</a></h2>
+      <h3><a class="post-link" href="{{ post.url}}">{{ post.title }}</a></h3>
       <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
       <div class="post-content">{{ post.content }}</div>
     </div>
