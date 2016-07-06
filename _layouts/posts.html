@@ -48,15 +48,15 @@
      <div class="page-content">
 
         {{ content }}
+
+
+
         
        </div><!-- /.page content container -->
+       <div>
 
 
-
-       </div>
-       <footer class="site-footer">
-
-{% if page.comments %}
+ {% if page.comments %}
 
        <div id="disqus_thread"></div>
 <script>
@@ -83,6 +83,10 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 {% endif %}
+
+      </div>
+       </div>
+       <footer class="site-footer">
 
   <div>
    <a href="https://www.facebook.com/keithedbuhler" class="w3-hover-text-indigo w3-show-inline-block"><i class="fa fa-facebook-official"></i></a>

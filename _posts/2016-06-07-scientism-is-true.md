@@ -1,9 +1,8 @@
 ---
 layout: posts
-type: posts
+comments: true
 title: Scientism is a True but Trivial; Can We Move On?
 categories: science, philosophy
-
 ---
 
 

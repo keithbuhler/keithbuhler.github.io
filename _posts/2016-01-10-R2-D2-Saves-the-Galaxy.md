@@ -1,6 +1,6 @@
 ---
 layout: posts
-type: posts
+comments: true
 title: R2-D2 Saves the Galaxy
 tags: culture, star wars
 ---

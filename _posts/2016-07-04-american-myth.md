@@ -1,7 +1,9 @@
 ---
 layout: posts
-type: posts
-title: An American Myth
+title: Still in the Shining Sea - An American Myth
+permalink: /american-myth-post
+tags: philosophy, politics
+comments: true
 ---
 
 If you have the stomach for philosophy, here's a short story I wrote some years ago for the Fourth of July. It is a fictional dialogue between a history teacher (father) and student (son) on what makes America... American.

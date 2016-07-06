@@ -1,13 +1,13 @@
 ---
 layout: posts
-type: posts
-title: Heraclitus Defragmented
+comments: true
+title: Heraclitus Defragmented - An Interpretation
 tags: philosophy
 
 ---
 
 
-# Heraclitus: An Interpretation #
+# Heraclitus Defragmented: An Interpretation #
 
 The original [Fragments of Heraclitus](https://en.wikipedia.org/wiki/Heraclitus#Logos) are powerful and puzzling. No one is sure of the original or meaning. No one is sure of the original order, context, and complete set. Hence, *any* presentation of the fragments, must make choices. Any choice will present some, not others, in a particular order, and thus will interpret Heraclitus. 
 

@@ -1,6 +1,6 @@
 ---
 layout: posts
-type: posts
+comments: true
 title: Why we shouldn't worry that "X will kill us all!"
 tags: politics
 ---
