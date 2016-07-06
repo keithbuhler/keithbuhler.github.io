@@ -10,7 +10,7 @@ permalink: /is-beauty-objective
 
 [Original post here](https://mereorthodoxy.com/is-beauty-objective/)
 
-![Peters](/img/peters1.png)
+![Peters](/img/peters1small.png)
 
 If you are like most people alive today, you believe ‘beauty is in the eye of the beholder.’ This is what I was taught. 
 

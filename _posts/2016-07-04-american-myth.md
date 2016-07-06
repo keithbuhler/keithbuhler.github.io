@@ -1,7 +1,7 @@
 ---
 layout: posts
-comments: true
 title: Still In the Shining Sea - An American Myth
+comments: true
 type: posts
 permalink: /american-myth-post
 
