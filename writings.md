@@ -1,13 +1,14 @@
 ---
 layout: fun
-title: writings
+title: Keith Buhler's Fiction and Non-Fiction Writings
 ---
 
 ## Writings #
 
 I am a devout amateur. My writings have been published online and in print. But I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
 
-The most important thing I'm writing right now is my [dissertation](/phd). But this site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
+I have been composing poetry, fiction, and writing essays for many years. Right now, I'm taking a break from such things to write my [dissertation](/phd). Hopefully one day soon I will get back to it. This site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
+
 
 
 
@@ -18,7 +19,6 @@ The most important thing I'm writing right now is my [dissertation](/phd). But t
 * [The Sin of Satan: On the Problem of Evil](http://keithbuhler.github.io/writings-sin-of-satan) (dialogue)
 * [Heraclitus: An Interpretation](/heraclitus)
 
- 
 
 ### Short Stories, Fables, and Fairy Tales ##
 * [When My Breath Stops](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view) (literary non-fiction)
@@ -41,19 +41,6 @@ The most important thing I'm writing right now is my [dissertation](/phd). But t
 * The Hispanola Vampire: Bobadilla (feature film)
 * [G8: The Last War](https://drive.google.com/file/d/0B0CYQDZ8AWu8VXY4ejBXVmxPY2s/view) (feature film)
 
-### Non-Fiction
-* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
-* [Is philosophy a science?](http://www.philosophyisscience.com)
-* [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
-* [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
-* [Who Cares? Learning through discussion](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html) (in Examined Life)
-* [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
-
-
-### Film and Music Criticism
-* [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
-* [Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
-
 ### Humor/Satire
 * [Google Acquires U.S. Government](https://drive.google.com/file/d/0B0CYQDZ8AWu8RTN5bHdIUUFvV1U/view)  
 * [I am American](https://drive.google.com/file/d/0B0CYQDZ8AWu8S1BiSWxGUG5LWEE/view)  
@@ -64,3 +51,21 @@ The most important thing I'm writing right now is my [dissertation](/phd). But t
 * [On Bad Words](http://keithbuhler.github.io/writings-bad-words)  
 * [Universal Human Rights](http://keithbuhler.com/rights/)  
  
+
+
+
+### Non-Fiction
+* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
+* [Is "philosophy" a "science"?](http://www.philosophyisscience.com)
+* [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
+* [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
+* [Who Cares? Learning through discussion](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html) (in Examined Life)
+* [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
+* [Is Beauty Objective?](/is-beauty-objective)
+* 
+
+### Film and Music Criticism
+* [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
+* [Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
+
+
