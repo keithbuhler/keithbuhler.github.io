@@ -1,6 +1,4 @@
 ---
-layout: posts
-comments: true
 title: Is Beauty Objective?
 ---
 

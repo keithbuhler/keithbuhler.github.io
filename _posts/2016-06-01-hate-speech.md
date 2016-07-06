@@ -1,6 +1,6 @@
 ---
 layout: posts
-comments: true
+type: posts
 title: Hate Speech - Moral Crime or Orwellian Code?
 tags: politics
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
-comments: true
-title: How ISIS recruits new soldiers
+type: posts
+title: How ISIS recruits
 tags: politics, religion
 
 ---

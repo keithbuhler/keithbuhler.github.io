@@ -5,7 +5,7 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler, philosopher and author"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
-paginate:       10
+paginate:       5
 paginate_path:  "/page:num"
 
 
@@ -15,15 +15,12 @@ paginate_path:  "/page:num"
 # Build settings
 markdown:       kramdown
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
-permalink:      /blog/:year-:month-:day-:title
 encoding:       utf-8
 
 
 
 collections:
   papers:
-    output: true
-  share:
     output: true
   teaching:
     output: true
@@ -38,13 +35,13 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
+      path: "posts"
       type: "posts"
     values:
       layout: "posts" # overrides previous default layout
   -
     scope:
-      path: ""
+      path: "presentations"
       type: "presentations"
     values:
       layout: "presentation"

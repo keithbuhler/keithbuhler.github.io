@@ -1,7 +1,7 @@
 ---
 layout: posts
-comments: true
-title: How to read the news - 3 ways to overcome bias
+type: posts
+title: How to read the news
 tags: politics
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: posts
-comments: true
+type: posts
 title: Why ISIS plans to target whites
 tags: politics
 
