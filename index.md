@@ -5,7 +5,7 @@ title: Keith Buhler Philosophy| Anyone...? Anyone...? Buhler?
 
 # Welcome
 
-<img src="/img/keithbuhler-golden.png" alt="Keith Buhler" hspace="10px" align="left">  
+<img src="/img/keithbuhler-golden.png" alt="Keith Buhler" hspace="20px" align="left">  
 
 I'm Keith Buhler, a PhD candidate in philosophy at the University of Kentucky and a philosophy instructor at Asbury University. I have been [teaching](/teaching) Socratically for more than 15 years and love what I do. My [dissertation](/research) defends a scientifically respectable version of neo-Aristotelian ethical naturalism inspired by Philippa Foot. My philosophical goals are to contribute to our discipline, to flourish as a human being in community, and to invite students along as well.
 

@@ -22,8 +22,10 @@ header.site-header {
 
 header.site-header.wrap {
   max-width: 33em;
-  margin: 5px auto;
-  padding-top: 0px;
+  margin: 10px auto;
+  padding-top: 5px;
+  border-color: white;
+  border: 2px;
 }
 
 
