@@ -34,31 +34,17 @@
 
   </head>
 
-    <body>
-   
-    <div id="content-wrapper">
-
-    <header class="site-header">
-
-  <div class="wrap">
-
-      <a class="site-title" href="<a href="/blog"> The Buhler Report</a>
-  </div>
-
-</header>
-
-     <div class="page-content">
-
+<body>
+   <div id="content-wrapper">
+      <header class="site-header">
+          <div class="wrap">
+            <a class="site-title" href="<a href="/blog"> The Buhler Report</a>
+          </div>
+      </header>
+      <div class="page-content">
         {{ content }}
-        
-       </div><!-- /.page content container -->
-
-
-       <footer class="site-footer">
-
-      <div class="wrap" align="center">
-
-           {% if page.comments %}
+      </div><!-- /.page content container -->
+               {% if page.comments %}
 
           <div id="disqus_thread"></div>
         <script>
@@ -86,20 +72,16 @@
 
 {% endif %}
 
-</div>
-
-  <div>
-   <a href="https://www.facebook.com/keithedbuhler" class="w3-hover-text-indigo w3-show-inline-block"><i class="fa fa-facebook-official"></i></a>
-   <a href="https://twitter.com/Keith_Buhler" class="w3-hover-text-light-blue w3-show-inline-block"><i class="fa fa-twitter"></i></a>
- </div>
- 
-      <div class="wrap" align="center">
-
-<a href="/siteinfo"> Copyright © 2016 Keith Buhler |  Site Info </a> | <a href="contact"> Contact </a> |
+   </div>
+    <footer class="site-footer">
+       <div>
+            <a href="https://www.facebook.com/keithedbuhler" class="w3-hover-text-indigo w3-show-inline-block"><i class="fa fa-facebook-official"></i></a>
+            <a href="https://twitter.com/Keith_Buhler" class="w3-hover-text-light-blue w3-show-inline-block"><i class="fa fa-twitter"></i></a>
       </div>
-
-  </footer>
-      <script id="dsq-count-scr" src="//thebuhlerreport.disqus.com/count.js" async></script>
-
+      <div class="wrap" align="center">
+            <a href="/siteinfo"> Copyright © 2016 Keith Buhler |  Site Info </a> | <a href="contact"> Contact </a> |
+      </div>russell1992basic
+      </footer>
+       <script id="dsq-count-scr" src="//thebuhlerreport.disqus.com/count.js" async></script>
      </body>
  </html>
