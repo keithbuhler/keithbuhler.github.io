@@ -19,7 +19,7 @@ But there are many innovative tools and methods that have the potential to unloc
 
 ## Medium - Markdown ##
 
-If you are ready to take your writing to the next level, consider Markdown. Markdown allows you to write in plain text but "code" the formatting into the content. For example, a hashtag "#" becomes a heading, and "##" becomes a subtitle, and a word wrapped in asterices "*" becomes *italic*. The raw text looks like this:
+If you are ready to take your writing to the next level, consider Markdown. Markdown allows you to write in plain text but "code" the formatting into the content. For example, a hashtag "#" becomes a heading, and "##" becomes a subtitle, and a word wrapped in asterices becomes *italic*. The raw text looks like this:
 
     # heading
     ## sub-heading
@@ -32,7 +32,7 @@ Once you learn the basics, you can use some of these Markdown software utilities
 * [Dillinger](http://dillinger.io/) is a nice "online version" of Mou or Markdown. It's very pared down, but the benefit is you don't have to download the hefty Macdown to get started.  If you write in Markdown, or want to learn, this site is an easy way to instantly preview your Markdown code. 
 * [Mou](http://25.io/mou/) was the original markdown utility. Still simple, light, and customizable. 
 * [Macdown](http://macdown.uranusjr.com/) is a very similar markdown program. I like it a bit better than Mou, but both will help you get your feet wet. The live-preview option is essential to learning the basics. 
-* [Texts.io](http://www.texts.io/) is a wonderful simple utility for writing in Markdown. Ease 2/5, Usefulness 4/5. The idea here is to code in Markdown, exporting to .docx to clean up or go straight to PDF. The display is beautiful, clean, minimal plain text with light WYSIWYG mark up. Also, it's free. 
+* [Texts.io](http://www.texts.io/) is probably the best Markdown utility I know of since you can do web or paper-based writing. Ease 2/5, Usefulness 4/5. The display is beautiful, clean, minimal plain text with light WYSIWYG mark up. Also, it's free. The idea here is to code in Markdown, exporting to .docx to clean up or straight to HTML or other formats. For academic papers, with a bit of customizing, you can export straight to PDF. First you create a style sheet, then a bibliography for footnotes, then write your paper. I'm working on a video to explain how to use Texts.io and will post the link here when that's done. 
 
 
 ## Hard ##
