@@ -37,7 +37,7 @@ Once you learn the basics, you can use some of these Markdown software utilities
 
 ## Hard ##
  
-* [Sublime Text 3]. This is for L33T h@ckerz. It's like Texts.io but more powerful and more customizable. You can program beautiful academic papers using a mash up of plain text, Markdown syntax, Pandoc (for conversion), PDFLatex for presentation, and Bibdesk for citations. All these programs are free but require some programming competence. I am working on simple written instructions with accompanying video. Once you get it down,  it makes beautiful, lovely, amazing, awesomely formatted papers. I'm currently writing my dissertation as a plaintext markdown file (AcademicMarkdown syntax) in Sublime Text 3. 
+* [Sublime Text 3](https://www.sublimetext.com/3). This is for L33T h@ckerz. It's like Texts.io but more powerful and more customizable. You can program beautiful academic papers using a mash up of plain text, Markdown syntax, Pandoc (for conversion), PDFLatex for presentation, and Bibdesk for citations. All these programs are free but require some programming competence. Dan Sheffler [explains](http://dansheffler.com/blog/2015-09-07-class-info-in-pandoc-and-latex/) in painful detail how to do this, and some web searches will turn up some helpful information as well. I am working on my own, very simplified written or video instructions, and will post the link when I can. Once you get this workflow down, it is amazing. It makes beautiful, lovely, amazing, awesomely formatted papers. I'm currently writing my dissertation as a plaintext markdown file (AcademicMarkdown syntax) in Sublime Text 3. 
 
 ### Other Fun or Useful Utilities ###
 
