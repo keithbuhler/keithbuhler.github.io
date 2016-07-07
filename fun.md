@@ -21,15 +21,15 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 ## Projects
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a></p><p> The Buhler Report: thoughtful dialogue on timeless truths & current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless truths and current events.</p>
 
 <br>
 
-<p><a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: My blog to  help people read more books. </p>
+<p><a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
 
 <br>
 
-<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> </p><p>Inklings.Info: Ebooks, lists, and info on the Oxford Dons. </p>
+<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
 
 <br>
 
@@ -37,14 +37,14 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 <br>
 
-<p><a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> </p><p>Sola Scriptura: My Book for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
+<p><a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
 
 <br>
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a></p><p> How to lead a discussion (video)</p>
 
 
-## Other Projects
+## More Fun Things
 
 * [Art](/art): Drawings, sculptures, pumpkins, and more.
 * [Bio](/bio): A little bit about me.
@@ -54,7 +54,6 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 * [Philosophy is Science](http://www.philosophyisscience.com): Some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
 * Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
-* [Writing tools](/writing-tools): Markdown, word count, and more
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
 * Attention Span Project -- how long is your attention span? -- coming soon
