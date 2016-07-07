@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: The Buhler Report
-tags: 
+tags: philosophy, science, fun
 --- 
 
 
@@ -13,11 +13,11 @@ tags:
 
 <br>
 
-<h2><i>Philosophical reflection on timeless truths and current events.</i></h2>
+<h2><i>Philosophical reflection on timeless ideas and current events.</i></h2>
 
 </center>
 
-## Posts 1
+## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -28,47 +28,18 @@ tags:
 </ul>
 
 
-## Posts 2
-
-<ul class="posts">
-
-{% for post in paginator.posts %}
-    <div class="posts">
-      <h3><a class="post-link" href="{{ post.url}}">{{ post.title }}</a></h3>
-      <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-      <div class="post-content">{{ post.content }}</div>
-    </div>
-
-{% endfor %}
-</ul>
-
-## Pagination
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page ==1 %}
-      <a href="{{ site.url }}" class="previous">Newer Posts</a>
-    {% else %}
-      <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
-    {% endif %}
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
-  {% endif %}
-</div>
 
 <br>
 
 <br>
 
-## Other Projects
+## Projects
 
-<p><a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: My blog to  help people read more books. </p>
+<p><a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: My self-help program designed for reading more books. </p>
 
 <br>
 
-<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> </p><p>Inklings.Info: Ebooks, lists, and info on the Oxford Dons. </p>
+<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
 
 <br>
 
