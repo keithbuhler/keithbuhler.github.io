@@ -8,7 +8,7 @@ tags: philosophy, fun
 
 # Get To Philosophy
 
-<a href="http://www.ericgarland.co/wp-content/uploads/pix/2016/01/Things-I-learned-from-Guitar-Center.jpg"> This Means Something</a>
+<img src="http://www.ericgarland.co/wp-content/uploads/pix/2016/01/Things-I-learned-from-Guitar-Center.jpg" alt="This Means Something"> 
 
 If you click the first blue link on any Wikipedia article (that is not in parentheses), it will take you to another article. If you click the first blue link *there*, it will take you to another, and another, and if you continue you will reach the philosophy page. 
 
