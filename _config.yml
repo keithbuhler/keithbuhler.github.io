@@ -8,7 +8,6 @@ url:            "http://www.keithbuhler.com"
 paginate:       5
 paginate_path:  "/page:num"
 
-
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
@@ -69,10 +68,14 @@ defaults:
       path: "" # empty string for all files
     values:
       layout: "default"
+      read_time: true
+      comments: true
+      share: true
+      related: true
   -
     scope:
       path: "posts"
-      type: "posts"
+      type: ""
     values:
       layout: "posts" # overrides previous default layout
   -
@@ -81,3 +84,6 @@ defaults:
       type: "presentations"
     values:
       layout: "presentation"
+       layout: single
+      
+

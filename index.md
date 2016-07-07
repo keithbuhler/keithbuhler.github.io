@@ -3,7 +3,9 @@ layout: default
 title: Keith Buhler Philosophy| Anyone...? Anyone...? Buhler? 
 --- 
 
-# Welcome
+<p align="right">
+<h1>Welcome</h1>
+</p>
 
 <img src="/img/keithbuhler-golden.png" alt="Keith Buhler" hspace="20px" align="left">  
 

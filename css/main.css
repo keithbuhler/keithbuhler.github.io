@@ -234,8 +234,7 @@ site-footer {
   height: 3em;
   width: 800px;
   border-radius: 4px;
-  color: white;
-  background-image: url(/img/peters1.png);
+
 }
 
 
@@ -430,5 +429,23 @@ header.site-header-philosophy {
   text-align: center;
 
 }
+
+
+
+/* Blog Custom CSS */
+
+.site-title-blog:hover{   color: #cc6600; }
+
+..site-title-blog {  float: left;}
+
+
+..site-title-blog,.site-title:visited {
+  display: inline;
+  padding: 15px;
+  color: white;
+  text-align: center;
+
+}
+
 
 
