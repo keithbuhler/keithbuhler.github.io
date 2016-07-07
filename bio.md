@@ -17,9 +17,8 @@ After college, I worked in real estated but read voraciously, especially ancient
 
 I worked as a high school teacher for five years (2007-2012) and became Master Tutor. After marrying Lindsay, we decided it was time to get a [PhD](http://keithbuhler.github.io/fun/phd). We moved to Kentucky in 2012, so it's my first time out of the country. We had a baby the same week school started. Things have been less crazy since. 
 
-I am currently "ABD" at the University of Kentucky. My current advisor, David Bradshaw, works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity." 
+My academic [research](/research) centers on contemporary analytic virtue ethics. I am currently "ABD" at the University of Kentucky. My current advisor, David Bradshaw, works "on the ways that ancient Greek philosophy shaped medieval philosophy and religious thought, and how these, in turn, contributed to the formation of modernity." 
 
-My academic [research](/research) focuses on contemporary analytic virtue ethics. 
 
 A historical, traditional approach made an indelible mark on my approach to philosophical issues. So my bias is toward "classics" like Plato's *Republic*, the *Tao Te Ching*, and Aquinas *Summa Theologica*.  Of course, I also admire many contemporary philosophers: Thomas Nagel, Alasdair MacIntyre, Rosalind Hursthouse, Richard Swinburne, JP Moreland, Alan Gibbard, John McDowell, John Haldane, and Hilary Putnam, and many others. 
 
