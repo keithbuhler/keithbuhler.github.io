@@ -8,14 +8,15 @@ permalink: /writing-tools
 # Writing Tools #
 
 
-Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day, you just need a reliable set of tools with which to capture and publish thoughts. There are many innovative tools and methods that have the potential to unlock your imagination and productivity. 
+Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day, you just need a reliable set of tools with which to capture and publish thoughts. At the same time, there is so much innovative software out there. 
 
-As an academic and a writer, I enjoy exploring new software and workflow processes. Here are a few tools I have used or use regularly, organized from Easy to Hard. 
+As an academic and a writer, I enjoy exploring new software and workflow processes. Here are a few tools I have used or use regularly to unlock my imagination and productivity. The tools are organized from Easy to Hard. 
 
 
 ## Easy ##
 
 ![Drive](http://its.ucsc.edu/google/images/drive.png?t=0)
+
 * Ease 5/5, Usefulness 3/5: [Google Drive (Formerly Google Docs)](https://drive.google.com/) Google Drive started out as an alternative to Dropbox in that it mirrors itself from your hard drive onto the cloud. (And every file change is auto-synced.) Pretty soon though, the market got crowded in the cloud backup business. So Google added Docs, Sheets, Forms, Slides, and Drawings apps to make the utility indispensable. "Docs" is 10x better than Word or Pages; Sheets is 10x easier and more intuitive than Excel; Slides is 10x simpler and more intuitive than Powerpoint or Keynote, and Drawing is 10x better than "Microsoft Paint". And *all* these files are automatically in the cloud. I've used Slides, for example, in my [philosophy](/teaching) classrooms or conferences across the country and never have to bother with thumb drives or plugging in my own laptop or any of that nonsense. Furthermore, nothing in the Office Suite that I've used corresponds to Google Forms, which I've used to create surveys for class and [for fun.](http://keithbuhler.com/cs-lewis-influence-survey) Drive does almost everything I need it to do. 
 
 ![Scrivener](http://img.informer.com/icons/png/48/3499/3499419.png)
