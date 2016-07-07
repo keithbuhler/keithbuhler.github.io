@@ -15,8 +15,9 @@ This course is a survey of central topics in the philosophy of religion, includi
 Our goals are: 
 
 * To become familiar with current controversies and topics in philosophy of religion;
+* To examine several arguments for and against the existence of God, for and against atheism, and to examine religious experiences and miracle testimonies, to examine religious language, and the relationship between faith and reason.
 * To develop a thoughtful, rational, Christian world-view
-* 
+
 
 ### Texts
 
@@ -33,8 +34,8 @@ Your grade for the class will depend on your performance in reading and writing 
 |  Assessment category   |  Percent of semester grade |
 | -----------------------| ---------------------------|
 | Participation          |  10%                       |
-| Weekly papers          |  60%                         |
-| Term Paper             |  30% |
+| Weekly papers          |  60%                       |
+| Term Paper             |  30%                       |
 
 
 ### Unit Papers:  
@@ -54,10 +55,5 @@ The final term paper will be a topic synthesizing one of the major issues and pr
 * 6/16 PR Part 11: Life after Death (465-89) / PR Part 12: Religion and Science Intro, "Two Separate Domains" (509-523) and Plantinga, "Two (or More) Kinds of Scripture Scholarship"
 * 6/23 Evans, Natural Signs 1-3. 
 * 6/30 Evans, Natural Signs 4-6. 
-* 7/7 Paper due.
-
-Later readings!
-
-* R Part 13: Religious Diversity (577-87, 597-604) and Yandell, "Religious Pluralism"
-
+* 7/7 Paper due. 
 
