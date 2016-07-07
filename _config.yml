@@ -68,9 +68,9 @@ defaults:
       path: "" # empty string for all files
     values:
       layout: "default"
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   -
     scope:
@@ -84,6 +84,5 @@ defaults:
       type: "presentations"
     values:
       layout: "presentation"
-       layout: single
       
 
