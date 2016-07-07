@@ -7,9 +7,10 @@ permalink: /writing-tools
 
 # Writing Tools #
 
-As an academic and writer, I enjoy exploring new software and workflow processes. Nothing is wrong with using Microsoft Word or Apple Pages or Google Drive; at the end of the day, I need a reliable set of tools with which to capture and publish thoughts. 
 
-But there are many innovative tools and methods that have the potential to unlock your imagination and productivity. Here are a few tools I have used or use regularly. The tools are organized from Easy to Hard. 
+Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day, you just need a reliable set of tools with which to capture and publish thoughts. There are many innovative tools and methods that have the potential to unlock your imagination and productivity. 
+
+As an academic and a writer, I enjoy exploring new software and workflow processes. Here are a few tools I have used or use regularly, organized from Easy to Hard. 
 
 
 ## Easy ##
@@ -45,6 +46,4 @@ Once you learn the basics, you can use some of these Markdown software utilities
 * [Words to pages](http://wordstopages.com/). This tool is useful when writing for presentations or lectures. It helps you estimate how many pages your paper will be, how long it will take to read or to read outloud. etc. 
 * [Simple Writer](https://xkcd.com/simplewriter/). This playful tool from Randall Munroe of [xkcd fame](http://www.xkcd.com/) helps you write using only the 1000 most common words. A good exercise for testing how well you understand a thing. 
 
-That's all for now!
-
-(This post is periodically updated: first update, July 2016)
+(That's all for now! This post will be periodically updated: first update, July 2016)
