@@ -13,7 +13,7 @@ title: Philosophy Portal
 
 ## So you're taking philosophy...
 
-Awesome. [Philosophy helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.]()
+Awesome. [Philosophy helps you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
 ## Just Added My Class?
 
