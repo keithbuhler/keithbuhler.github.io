@@ -2,7 +2,6 @@
 title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 
-#### [(PDF version)](/Buhler-CV.pdf)
 
 ### CURRICULUM VITAE
 Keith Buhler  
@@ -11,6 +10,8 @@ Deptartment of Philosophy
 University of Kentucky   
 Lexington, KY, 40506  
 keith.buhler@uky.edu   
+
+#### [(PDF version)](/Buhler-CV.pdf)
 
 
 ### AREAS OF SPECIALIZATION

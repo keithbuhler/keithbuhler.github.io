@@ -2,6 +2,7 @@
 layout: posts
 title: The Buhler Report
 tags: philosophy, science, fun
+comments: false
 --- 
 
 
@@ -13,18 +14,20 @@ tags: philosophy, science, fun
 
 <br>
 
-<h2><i>Thoughtful dialogue on timeless truths and current events.</i></h2>
+<h3><i>Thoughtful dialogue on timeless truths and current events.</i></h3>
 
 </center>
 
 ## Posts
 
 <ul class="posts">
+  
   {% for post in site.posts %}
   <li>
   <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
+
 </ul>
 
 

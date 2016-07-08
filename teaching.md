@@ -7,13 +7,13 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-I have been teaching at universities or high schools for fifteen years. Since 2012, I have taught university courses in philosophy, metaphysics, ethics, bioethics, and philosophy of religion at the University of Kentucky and Asbury University. Before that, I served one year as Director of High School Studies at Veritas Academy and two years as Master Tutor at Torrey Academy. Complete details are on my [CV](/Buhler-CV.pdf). 
+I have been teaching for about fifteen years. Since 2012, I have taught university courses in philosophy, metaphysics, ethics, bioethics, and philosophy of religion at the University of Kentucky and Asbury University. Before that, I served one year as Director of High School Studies at Veritas Academy and two years as Master Tutor at Torrey Academy. Students enjoy my enthusiasm for the subject and personable approach to classroom discussion.  
 
 ### Teaching Statement
 
-My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
+My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
 
-### Sample Syllabi
+### Course Syllabi
 
 F2016 Business Ethics ([Syllabus](/syllabus334))  
 F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
@@ -55,7 +55,7 @@ S2013 Introduction to Logic
 
 (pictured: The archeological site of Plato's Academy)
 
-[Students, please visit my philosophy portal.](/philosophy) 
+[Students, please visit my philosophy portal.](/students) 
 
  
 
