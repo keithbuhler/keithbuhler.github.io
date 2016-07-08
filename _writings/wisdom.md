@@ -1,6 +1,8 @@
 ---
 layout: fun
 title: Wisdom
+permalink: /wisdom
+
 ---
 
 # Wisdom

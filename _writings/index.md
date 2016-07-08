@@ -1,6 +1,6 @@
 ---
 layout: fun
-title: Keith Buhler's Fiction and Non-Fiction Writings
+title: Buhler | Writings | Fiction and Non-Fiction
 ---
 
 ## Writings #

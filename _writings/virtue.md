@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: philosophy
 title: Virtue
+permalink: /virtue
 
 --- 
 

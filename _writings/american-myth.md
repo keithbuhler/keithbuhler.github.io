@@ -1,6 +1,7 @@
 ---
 layout: fun
 title: Still in the Shining Sea - An American Myth
+permalink: /american-myth
 ---
 
 

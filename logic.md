@@ -1,5 +1,5 @@
 ---
-layout: noheader
+layout: philosophy
 title: Logic 101
 author: Keith Buhler
 

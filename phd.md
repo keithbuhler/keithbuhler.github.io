@@ -1,7 +1,5 @@
 ---
-layout: default
-title: phd
-
+title: PHD
 ---
 
 # PHD

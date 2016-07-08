@@ -1,6 +1,7 @@
 ---
 layout: fun
 title: sin-of-satan
+permalink: /sinofsatan
 ---
 
 # The Sin of Satan

@@ -1,6 +1,7 @@
 ---
 layout: fun
 title: Bad Words
+permalink: /badwords
 ---
 
 # On Bad Words:

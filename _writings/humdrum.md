@@ -1,6 +1,7 @@
 ---
 layout: fun
 title: The Humdrum Rebellion Manifesto
+permalink: /humdrum
 ---
 
 <center> 
