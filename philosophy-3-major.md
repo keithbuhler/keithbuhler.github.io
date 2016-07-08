@@ -15,15 +15,15 @@ http://www.keithbuhler.com
 
 ### [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
 
- Nothing much...except *everything*.
+Nothing much...except *everything*.
 
 Some people assume you can’t “do” anything with a philosophy degree. "You'll work in a coffee shop asking people *why* they want creme with that." Others think philosophy is a waste of time. Arthur Koestler said it is "the systematic abuse of a terminology specially invented for that purpose." If it's just sharing your opinion -- who cares? Still others (like Bill Nye) have no idea what philosophy is. 
 
-Despite the appearances, [(almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions](/philosophy-major) Philosophy has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," because philosophy majors excel in the job market and earn more money than business majors. Furthermore, *all* people by nature desire to know (Aristotle, *Metaphysics* I.1.)
+Despite the appearances, [(almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and [find answers to life's deepest questions.](/philosophy-major) Philosophy has been called ["the most practical major"](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), the "ultimate transferable job skill," because philosophy majors excel in the job market and earn more money than business majors. Furthermore, *all* people by nature desire to know (Aristotle, *Metaphysics* I.1).
 
 I answer, you should consider philosophy for three reasons:   
 
-(1) philosophy helps you achieve your career goals in law, business, ministry, journalism, counseling, politics, homemaking, education, or academia.  
+(1) philosophy can help you twoard career goals in law, business, ministry, journalism, counseling, politics, homemaking, education, or academia.  
 (2) philosophy helps you live a successful life and be happy;   
 (3) philosophy is a fun, fulfilling, human activity -- an end in itself. 
 
@@ -56,13 +56,13 @@ Good philosophy communicates across languages and cultures across generations, c
 Every employer, company, family — virtually every human group — lives and breathes cooperative collaboration. A philosophy major means you have engaged in hundreds of hours of careful conversation, problem-solving, and verbal interaction especially in a group. 
 
 ### Philosophy develops **creativity**: 
-Innovation drives business, law, science, and medicine. While employers are increasingly desperate for it, many educational practices actually stifle our native creativity. A philosophy major means you have spent years encouraging (nay, demanding) the acquisition of the invaluable habit of [thinking outside the box.]( "To Beat the Market, Hire a Philosopher", New York Times.s)
+Innovation drives business, law, science, and medicine. While employers are increasingly desperate for it, many educational practices actually stifle our native creativity. A philosophy major means you have spent years encouraging (nay, demanding) the acquisition of the invaluable habit of [thinking outside the box.](http://www.nytimes.com/1999/01/10/business/mutual-funds-report-beat-market-hire-philosopher-bill-miller-rethinks-value.html?pagewanted=all)
 
 ### Philosophy develops **curiosity**: 
-As children, everyone philosophizes. Somewhere along the way, most of us lose that curiosity. Einstein or somebody said “Never lose a holy curiosity.” A philosophy major means you have cultivated this innate germ, however small, into a disciplined, reliable skill you can apply to any area of life. 
+As children, everyone philosophizes. Somewhere along the way, most of us lose that curiosity. Somebody (probably not Einstein) said “Never lose a holy curiosity.” A philosophy major means you have cultivated this innate germ, however small, into a disciplined, reliable skill you can apply to any area of life. 
 
 ## Philosophy majors excel in a [wide variety of careers](http://www.guardian.co.uk/education/2007/nov/20/choosingadegree.highereducation): 
-Who majored in philosophy? Your professors. But not *just* your professors. I mean, if studying philosophy is good enough for Han Solo, it’s good enough for you.
+Who majored in philosophy? Your professors. But not *just* your professors. I mean, if studying philosophy is good enough for [Han Solo](http://content.time.com/time/specials/packages/article/0,28804,1988080_1988093_1988088,00.html), it’s good enough for you.
 
 Philosophy departments have churned out a one or two people you may have heard of, including: 
 
@@ -78,9 +78,9 @@ Philosophy departments have churned out a one or two people you may have heard o
 You can’t say the same for [underwater basket weaving.](https://en.wikipedia.org/wiki/Underwater_basket_weaving) 
 
 - **Professorships**: This is the obvious, but by no means the only, path a philosophy degree can follow. All of your philosophy professors, and many others (professors of English, law, history, linguistics, public policy, political science, engineering) studied philosophy at some point. Examples: * Gertrude Himmelfarb--Historian; Herbert Simon--Economist, and Nobel Laureate; C. Vann Woodward--Historian.
-- **Business Management**: Good thinkers are better leaders. A philosophy degree can set you on a path towards personnel, financial aid, or public relations, in diverse settings such as college or university, prisons, hospitals, government agencies (county, state or federal), and, of course, the companies we buy from every day. Examples: Mark Hulbert--financial columnist FORBES magazine; Carl Icahn--CEO, TWA Airlines; Gerald Levin--CEO, Time-Warner, Inc.; George Soros--Financier & Money Manager; Moses Znaimer--Owner of CITY-TV and MUCH-MUSIC, Toronto. 
+- **Business Management**: Good thinkers are better leaders. A philosophy degree can set you on a path towards personnel, financial aid, or public relations, in diverse settings such as college or university, prisons, hospitals, government agencies (county, state or federal), and, of course, the companies we buy from every day. Examples: Carl Icahn--CEO, TWA Airlines; Gerald Levin--CEO, Time-Warner, Inc.; George Soros--Financier & Money Manager.
 - **Law**: Historically, lawyers were philosophers trained in a specific sub-field. Laywers make and critique arguments for a living. Law students are famously subjected to a distinctly philosophical form of on-the-spot classroom quizzes known as the Socratic method.
-- **Religious & Psychological Leadership**: The aspiring pastors, priests, rabbis, imams, as well as counselors, social workers, therapists, and leaders of non-profit companies specialize in thinking about the big picture and walking with people through life’s toughest problems. Philosophical training is part-and-parcel with wondering where we came from, who we are, and the ultimate meaning of our final destination. Examples: Joseph Bernardin--Cardinal, Chicago; Shaykh Hamza Yusuf--Muslim leader, Arabic scholar; Mircea Eliade--Religious Studies; Martin Luther King, Jr--Minister & Civil Rights Leader;  Madelyn Murray O'Hair--Famous Atheist;  Pope John Paul II—Pope;  Willard Scott—Meterologist, NBC, American University, Religious Studies;  George Pires -- Nobel Peace Prize (1958). 
+- **Religious & Psychological Leadership**: The aspiring pastors, priests, rabbis, imams, as well as counselors, social workers, therapists, and leaders of non-profit companies specialize in thinking about the big picture and walking with people through life’s toughest problems. Philosophical training is part-and-parcel with wondering where we came from, who we are, and the ultimate meaning of our final destination. Examples:  Martin Luther King, Jr--Minister & Civil Rights Leader;Joseph Bernardin--Cardinal; Shaykh Hamza Yusuf--Muslim leader, Arabic scholar; Mircea Eliade--Religious Studies;  Madelyn Murray O'Hair--Famous Atheist;  Pope John Paul II—Pope; George Pires -- Nobel Peace Prize (1958). 
 - **Business**: The ability to look at old problems in new ways is invaluable in business management, sales, consulting public relations, fund raising, systems analysis, advertising, and banking
 - **Sales/Insurance**: What is sales but persuasion? Phil. grads can become successful, agents, brokers, salesmen, sales managers, and marketing directors.
 Government: Have an eye on office? Check out the list of folks who started in Philosophy 101 and ended up congressional staff members, in federal agencies and bureaus, state and local governments, the United Nations, foreign service, or cultural affairs.
@@ -120,4 +120,5 @@ Then, ask hard questions, read hard books, make hard arguments, and find out whe
 1. [Edward Tenner](http://www.theatlantic.com/technology/archive/2011/10/is-philosophy-the-most-practical-major/246763/), Is Philosophy the Most Practical Major, the Atlantic 2011.
 2. [University of Idaho](https://www.uidaho.edu/class/philosophy/what-you-can-do)
 3. [Why Study Philosophy?](http://www.whystudyphilosophy.com/)
+4. [To Beat the Market, Hire a Philosopher](http://www.nytimes.com/1999/01/10/business/mutual-funds-report-beat-market-hire-philosopher-bill-miller-rethinks-value.html?pagewanted=all)
 

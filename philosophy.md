@@ -21,17 +21,17 @@ Welcome! We're going to have a great semester.
 
 - If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy.](/wikipedia)
 - Send me an email introducing yourself!
-- Then, take the ["Get to know you" survey](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
-- If it's available, review the [syllabus](/teaching)
-- Read more about the benefits of studying philosophy. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) a philosophy degree can help you get a good job, earn higher salary than business degree, and find answers to life's deepest questions. 
+- Then, take the ["Get to know you" survey.](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
+- If it's available, review the [syllabus.](/teaching)
+- Read more about the benefits of studying philosophy. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and find answers to life's deepest questions. 
 
 ## How to Use this Site:
 
 Click your question: 
 
 1. [Class just started; how do I succeed in philosophy?](/philosophy-class)
-5. [Class just ended; what's next?](/philosophy-6-next)
 2. [I kinda like philosophy; what should I read next?](/philosophy-6-next)
+3. [Class just ended; what's next?](/philosophy-6-next)
 4. [No, seriously -- I *really* like philosophy; what's wrong with me?](/philosophy-6-next)
 
 
@@ -39,9 +39,10 @@ Click your question:
 
 - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 - Check out some of my [academic articles](https://uky.academia.edu/KeithBuhler)
-- Check out some of my [personal site](/fun) for fiction, nonfiction, art, and more fun stuff.
+- Check out some of my [personal site](/fun) for fiction, art, and more fun stuff.
 
-## [Other Philosophy Resources?](/philosophy-resources)
+## [Want some other Philosophy Resources?](/philosophy-resources)
 
+- Read about Mary Shelly, one of the first modern female philosophers.
 <a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
 
