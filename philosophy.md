@@ -31,8 +31,8 @@ Click your question:
 
 1. [Class just started; how do I succeed in philosophy?](/philosophy-class)
 5. [Class just ended; what's next?](/philosophy-6-next)
-2. [I kinda like philosophy; what should I read next?](/philosophy-6-next")
-4. [No, seriously -- I *really* like philosophy; what's wrong with me?](/philosophy-6-next")
+2. [I kinda like philosophy; what should I read next?](/philosophy-6-next)
+4. [No, seriously -- I *really* like philosophy; what's wrong with me?](/philosophy-6-next)
 
 
 ## Want to talk about something else?
