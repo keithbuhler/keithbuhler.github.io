@@ -5,7 +5,7 @@ title: Student Portal
 
 <center><h1>Student Portal</h1>
 
-<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/assets/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
+<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
 
 </center>
 
