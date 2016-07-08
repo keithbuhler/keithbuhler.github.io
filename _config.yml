@@ -5,7 +5,7 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler, philosopher and author"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
-paginate:       5
+paginate:       3
 paginate_path:  "/page:num"
 
 # lunr_search:
