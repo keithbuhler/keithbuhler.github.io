@@ -453,20 +453,19 @@ header.site-header-blog {
 
 header.site-header-blog.wrap {
   max-width: 33em;
-  margin: 10px auto;
-  padding-top: 5px;
-  border-color: #ccc;
-  border: 4px;
+  margin: 20px auto;
+  padding-top: 20px;
+  border-color: #000000;
+  border: 6px;
 }
 
 .site-title-blog:hover{   color: #ffffff; text-align: center; }
 
 .site-title-blog {  
-  font-size: 20px; 
+  font-size: 30px; 
   color: #ffffff; 
 
 }
-
 
 .site-title-blog,.site-title:visited {
   display: inline;
@@ -495,3 +494,23 @@ header.site-header-blog.wrap {
     text-decoration: none; }
 
 .site-nav-blog .trigger a:hover{ background-color: #cc6600;  color: white; }
+
+
+div#wrapperHeader {
+ width:100%;
+ height;200px; /* height of the background image? */
+ background:url(img/kentucky.jpg) repeat-x 0 0;
+ text-align:center;
+}
+
+div#wrapperHeader div#header {
+ width:800px;
+ height:200px;
+ margin:0 auto;
+}
+
+div#wrapperHeader div#header img {
+ width:; /* the width of the logo image */
+ height:; /* the height of the logo image */
+ margin:0 auto;
+}
