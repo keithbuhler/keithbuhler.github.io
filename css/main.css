@@ -469,10 +469,8 @@ header.site-header-blog.wrap {
 
 .site-title-blog,.site-title:visited {
   display: inline;
-  padding: 15px;
+  padding: 0px;
   color: #ffffff;
-  text-align: center;
-
 }
 
 
