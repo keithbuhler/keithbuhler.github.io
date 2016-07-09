@@ -4,7 +4,7 @@ layout: posts
 tags: philosophy, phd
 comments: true
 permalink: /phd-dissertation-boot-camp
-
+excerpt_separator: <!--more-->
 ---
 
 # Dissertation Writing Boot Camp #
@@ -13,9 +13,9 @@ Monday, May 16th, my university began hosting a "Boot Camp" writing retreat. We 
 
 The Boot Camp is two weeks long. We each commit to write at least 4 hours a day, Monday through Friday, for those two weeks. It's a time to write, revise, struggle, get confused, commiserate, write more, take breaks, and break through.
 
-It's been awesome. Though tomorrow is the last day. Sad!
+It's been awesome. Though tomorrow is the last day. Sad! Here's what I've gotten done:
 
-Here's what I've gotten done:
+<!--more-->
 
 - My process is rather messy. Each chapter goes through a stage: (1) draft, (2) revised draft, (3) polished draft, (4) submitted to advisor and approved or revised again.
 - Chapters 1 and 2 were already at stage (4), approved by advisor.

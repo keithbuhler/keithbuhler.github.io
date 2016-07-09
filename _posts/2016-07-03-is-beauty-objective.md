@@ -3,19 +3,19 @@ layout: posts
 title: Is Beauty Objective?
 comments: true
 permalink: /is-beauty-objective
+excerpt_separator: <!--more-->
 
 ---
 
 # Is Beauty Objective?
 
-[Original post here](https://mereorthodoxy.com/is-beauty-objective/)
-
-![Peters](/img/peters1small.png)
-
 If you are like most people alive today, you believe ‘beauty is in the eye of the beholder.’ This is what I was taught. 
 
 No one ever told me that (in view of history) beauty subjectivists are the sad minority. Most thinking people in most places at most times have believed in the three great ‘transcendentals:’ goodness, truth, and beauty. Most thinking people in most places at most times (especially in the West) have believed that beauty was one of those objective realities “out there,” that can be discovered, toyed with, hated, loved, or otherwise disregarded, but cannot be denied.
 
+<!--more-->
+
+![Peters](/img/peters1small.png)
 
 Studying the luminous works of Jonathan Edwards with my high school students this week, I am again revisiting this most important of questions. 
 
@@ -67,3 +67,5 @@ If beauty is real and knowable, this accounts for 2., 3., and 4. We have to expl
 If beauty is not real and subjective, this accounts for 1. We have to explain 2., 3., 4.,
 
 It seems the most likely, in light of the up-to-date evidence, to conclude that some of the things we call “beautiful things” actually are beautiful. And some of the things we find pleasing are not in fact as beautiful as they appear in the eye of the beholder.
+
+[Original post here](https://mereorthodoxy.com/is-beauty-objective/)

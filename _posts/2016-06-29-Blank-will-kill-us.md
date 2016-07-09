@@ -4,12 +4,12 @@ type: posts
 title: Why we shouldn't worry that "X will kill us all!"
 tags: politics
 comments: true
+excerpt_separator: <!--more-->
 ---
 
-
-# [Blank] will kill us all!
-
 If you are feeling worried about the Zika Virus, get some perspective, and then don't worry. 
+
+<!--more-->
 
 ![XKCD](/img/xkcd blank will kill us.jpg)
 

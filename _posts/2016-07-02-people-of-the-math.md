@@ -4,12 +4,15 @@ title: How to teach math in a classical school
 permalink: /math
 comments: true
 tags: philosophy, math, classical education
+excerpt_separator: <!--more-->
 
 --- 
 
 The following is the undergraduate thesis of [Josh Lawman](http://joshlawman.com/) The argument Mr. Lawmen develops is that mathematics needs to be taught to children in a new way -- a way that is effective, engaging, and connects up with broader learning about God, humanity, liberal arts, and sciences. 
 
 I am an admirer of Mr. Lawmen's argument, so I post it here with his permission. -- Keith
+
+<!--more-->
 
 ----
 

@@ -5,7 +5,7 @@ title: Hate Speech - Moral Crime or Orwellian Code?
 tags: politics
 permalink: /hate-speech
 comments: true
-
+excerpt_separator: <!--more-->
 ---
 
 
@@ -19,8 +19,9 @@ The EU wants to crack down on online terrorism. Great! But their new code is the
 4. To hate what is hateful is healthy. 
 5. A better means to the same end would be to target potential extremists directly.
 
+<!--more-->
 
-## Five Reasons
+## Five Reasons In Detail
 
 1. **Hate speech is not a thing.** That is, “hate speech” is an empty placeholder that can expand or contract to be whatever the EU doesn’t want you to say. “Hate speech” is simply a different term for “wrongthink." It will grow and change as public opinion changes. It is an empty, nonsense term invented by those who wish to censor.  Advocating for global jihad and Islamic terrorism is not "hate speech", it's terrorism. Advocating for limitations on immigration is not "hate speech", it's policy discussion. 
 2. **New rules are either redundant or unjust.** The EU calls hate speech “All conduct publicly inciting to violence or hatred directed against a group of persons or a member of such a group defined by reference to race, colour, religion, descent or national or ethnic origin”. This sounds perfectly sane, until you think about it: (forget the fact that it defines hate SPEECH as "all CONDUCT".) The problem is that it lumps the active call for murder and terrorism together with mere criticism, mockery, and insults. If "hate speech" is just explicit calls for violence, then new restrictions are redundant for we already have laws prohibiting conspiracy, intent to commit a crime. But if "hate speech" is mere public criticism, mockery, or insults of people groups, then prohibiting it is unjust, for it is not necessarily violent (it sometimes results in the passage of a law) and not even always hateful (it is sometimes playful).

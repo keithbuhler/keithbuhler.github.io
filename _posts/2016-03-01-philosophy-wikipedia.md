@@ -4,6 +4,7 @@ title: Get to Philosophy on Wikipedia
 comments: true
 permalink: /wikipedia
 tags: philosophy, fun
+excerpt_separator: <!--more-->
 --- 
 
 # Get To Philosophy
@@ -14,6 +15,7 @@ If you click the first blue link on any Wikipedia article (that is not in parent
 
 Pick any word, place, topic, thing, and you will "get to philosophy". But you will loop around from philosophy forever. Every other discipline depends on philosophy but philosophy depends only on itself. 
 
+<!--more-->
 
 # Encyclopedias and Philosophy
 

@@ -4,7 +4,7 @@ type: posts
 title: Scientism is a True but Trivial; Can We Move On?
 categories: science, philosophy
 permalink: /scientism
-
+excerpt_separator: <!--more-->
 ---
 
 
@@ -16,6 +16,8 @@ permalink: /scientism
 Clarity is the great harbinger of truth. Truth is clear, hard, and bright, like light or crystal, while falsehood is soft, obscure, soporific, and fuzzy.
 
 Certainly, there are some opaque truths and some clear falsehoods. These are the minority, while truths almost always interlock with a great interlocking web of luminous truth; and falsehoods almost always jostle within a blooming, buzzing hive of unclarity. 
+
+<!--more-->
 
 The striking feature of each pillar of the modern secular worldview is not its falsehood but its haziness. Modern secular doctrines such as physicalist materialism, totalitarian political correctness, and unlimited sexual autonomy have come to replace the older, ruddier Christian doctrines of incarnation, original sin, and the traditional family. But what do you mean by ‘physical’? And which phrases are supposed to offend me today? If anything two consenting adults do in the bedroom is morally acceptable, why not incest?
 

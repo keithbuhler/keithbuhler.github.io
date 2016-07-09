@@ -5,6 +5,7 @@ title: How to read the news - 3 ways to overcome bias
 tags: politics
 comments: true
 permalink: /how-to-read-the-news
+excerpt_separator: <!--more-->
 
 ---
 
@@ -26,6 +27,7 @@ The other kind of "bias" is unintentional, accidental, and can even be intellect
 
 In this post, I explain 3 kinds of bias you can't avoid, and 2 strategies for overcoming them by regularly reading from 4 news categories. 
 
+<!--more-->
 
 ## 3 kinds of bias you can't avoid
 

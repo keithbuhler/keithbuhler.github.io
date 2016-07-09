@@ -3,7 +3,7 @@ layout: posts
 type: posts
 title: Heraclitus Defragmented
 tags: philosophy
-
+excerpt_separator: <!--more-->
 ---
 
 
@@ -14,6 +14,8 @@ The original [Fragments of Heraclitus](https://en.wikipedia.org/wiki/Heraclitus#
 Since interpretation is inevitable, each editor will interpret, and each reader will interpret; this interpretive effort is usually reserved and cautious. 
 
 I thought it would be interesting exercise to go whole hog. In this intepretation I have freely interpreted the fragments we have in order to construct a (purely hypothetical) coherent unity. The result is quite obviously *not* a reconstruction of "Heraclitus," but a kind of "found poem" of my own using Heraclitian fragments as raw material. The result is, we might say, inspired by Heraclitus. Though it stands a chance to falsify the spirit of the author, my hope is that such an exercise stands an equal chance of resonating with the spirit of the author. 
+
+<!--more-->
 
 My strategy was simple. First, I used [this translation](http://classicpersuasion.org/pw/heraclitus/herpate.htm) and replaced "reason" with the Greek "Logos" to bring out the unity of a central concept. Second, I tried to organize the fragments thematically. I imposed a four-line form on them, organizing lines into sets of four. Third, if a sentence was too long I paraphrased it down. Fourth, and most brashly, I supplied by invention new lines if a sentence was lacking (the invented are noted by *italics*).
 

@@ -5,7 +5,7 @@ title: How ISIS recruits new soldiers
 tags: politics, religion
 permalink: /isis-recruits-post
 comments: true
-
+excerpt_separator: <!--more-->
 ---
 
 [This is the kind of thing the Orlando Gunman listened to just this month.](https://www.youtube.com/watch?v=BOtIX_4D-sg)
@@ -14,4 +14,4 @@ From their spokesman, ISIS has a message to its soldiers in Europe and America. 
 
 To be perfectly clear, I should state explicitly that I do not endorse this video. I only link to it because sunlight is the best disinfectant.
 
-
+<!--more-->

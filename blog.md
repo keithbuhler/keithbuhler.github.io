@@ -24,15 +24,9 @@ comments: false
 
 
 <div class="post">
-    <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
     <div class="post-excerpt">{{ post.excerpt }}</div>
-        </a>
-        | Permalink: 
-        <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">
-            html
-        </a>
-    </div>
 </div>
 
 {% endfor %}

@@ -1,18 +1,19 @@
 ---
 layout: posts
 type: posts
-title: R2-D2 Saves the Galaxy
+title: 17 Times R2-D2 Saves the Universe (updated to include Episode VII)
 tags: culture, star wars
+excerpt_separator: <!--more-->
 ---
 
-## 17 Times R2D2 Saves the universe
-
-
+# 17 Times R2D2 Saves the universe
 
 **Episode I**
 
 * When he fixes the shield of the royal starship of the woman whose children will save the galaxy. 
 * When he disables Anakin's autopilot. 
+
+<!--more-->
 
 **Episode II**
 
