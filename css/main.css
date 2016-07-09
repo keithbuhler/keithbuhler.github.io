@@ -459,11 +459,13 @@ header.site-header-blog.wrap {
   border: 4px;
 }
 
-.site-title-blog:hover{   color: #ffffff; }
+.site-title-blog:hover{   color: #ffffff; text-align: center; }
 
 .site-title-blog {  
-  font-size: 4em, 
-  float: left;}
+  font-size: 20px; 
+  color: #ffffff; 
+
+}
 
 
 .site-title-blog,.site-title:visited {
