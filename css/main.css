@@ -307,8 +307,8 @@ ul.posts li {
 .post-content > * { margin: 20px 0; }
 
 
-.post-header h1 { font-size: 36px; }
-  .post-content h2 { font-size: 28px; }
+.post-header h1 { font-size: 28px; }
+  .post-content h2 { font-size: 26px; }
   .post-content h3 { font-size: 22px; }
   .post-content h4 { font-size: 18px; }
   .post-content blockquote { padding-left: 10px; }

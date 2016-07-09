@@ -3,6 +3,8 @@ title: Tools for Writing, Formatting, and Presenting
 layout: posts
 comments: true
 permalink: /writing-tools
+excerpt_separator: <!--more-->
+
 ---
 
 # Writing Tools #
@@ -11,6 +13,8 @@ permalink: /writing-tools
 Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day, you just need a reliable set of tools with which to capture and publish thoughts. At the same time, there is so much innovative software out there. 
 
 As an academic and a writer, I enjoy exploring new software and workflow processes. Here are a few tools I have used or use regularly to unlock my imagination and productivity. The tools are organized from Easy to Hard. 
+
+<!--more-->
 
 
 ## Easy ##

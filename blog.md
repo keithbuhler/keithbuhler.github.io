@@ -23,15 +23,25 @@ comments: false
 
 ## Posts
 
+<ul class="posts">
+
+  {% for post in site.posts %}
+  <li>
+  {{ post.excerpt }}
+  </li>
+  {% endfor %}
+
+</ul>
+
+<br>
+
 
 <ul class="posts">
   
   {% for post in site.posts %}
   <li>
-  <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+   &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-    <div class="post-content">{{ post.content }}</div>
-  {{ post.excerpt }}
   </li>
   {% endfor %}
 
