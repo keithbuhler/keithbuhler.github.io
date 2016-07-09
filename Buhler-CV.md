@@ -80,14 +80,14 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### OTHER LEADERSHIP AND TEACHING POSITIONS 
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy     
-2010-2012  &nbsp;&nbsp;  Master Tutor, Torrey Academy     
-2010-2012  &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA    
-2007-2010  &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
-2009-2011  &nbsp;&nbsp;  Lecturer, Wheatstone Academy   
+2010-2012 &nbsp;&nbsp;  Master Tutor, Torrey Academy     
+2010-2012 &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA    
+2007-2010 &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
+2009-2011 &nbsp;&nbsp;  Lecturer, Wheatstone Academy   
 2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy     
-2001-2009  &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
-2001-2002  &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
+2001-2009 &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
 2001 &nbsp;&nbsp; Summer English Teacher, Biola University Abroad, Mongolia. 
+2001-2002 &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 
  
  

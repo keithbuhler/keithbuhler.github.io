@@ -25,7 +25,7 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 <br>
 
-<p><a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
+<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
 
 <br>
 
@@ -33,27 +33,31 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 <br>
 
-<p><a id="Advice" target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" > </a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
+<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j" > </a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
 
 <br>
 
-<p><a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
+<p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/img/fun-sola.jpg"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
 
 <br>
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a></p><p> How to lead a discussion (video)</p>
 
+<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="http://mrnussbaum.com/images/isaac_newton.jpg" align="top">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+
+<br>
+
+
+<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/wither.jpg" align="top">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
+
+
 
 ## More Fun Things
 
-* [Art](/art): Drawings, sculptures, pumpkins, and more.
 * [Bio](/bio): A little bit about me.
 * [Lectures](/speaking): public speeches, conferences, and classes.
 * [Meditation](/meditation): How to meditate (and why)
 * [Paypal](https://www.paypal.me/keithbuhler): Through the magic of the internet, you can send me money(!) 
-* [Philosophy is Science](http://www.philosophyisscience.com): Some provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences. 
-* Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
-* Attention Span Project -- how long is your attention span? -- coming soon
