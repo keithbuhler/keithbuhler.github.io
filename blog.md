@@ -51,65 +51,16 @@ comments: false
 
 <br>
 
-## Projects
+## About Buhler
 
-<p><a id="IRP" target="_blank" href="http://www.readingintentionally.com"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
+Thanks for visiting!
 
-<br>
+<img src="/img/midair-small.jpg" alt="Mid-air" align="right" hspace="5"> 
 
-<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
+Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educator](/teaching), speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site is a sandbox for an ecclectic bunch of projects I'm working on. Feel free to explore. (You can check out my [philosophy site](/) for my academic work.) 
 
-<br>
+## Other Fun Projects
 
-<p><a id="Advice" target="_blank" href="http://www.advicetochristianphilosophers.com"> <img src="/img/fun-plantinga.jpg" > </a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
 
-<br>
-
-<p><a id="Sola Scriptura" target="_blank" href="https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12"> <img src="/img/fun-sola.jpg"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
-
-<br>
-
-<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a></p><p> How to lead a discussion (video)</p>
-
-<br>
-
-* Go to [fun stuff](/fun)
 * Go to [philosophy student home](/philosophy)
 * Go to [professional home page](/)
-
-
-
-<div class="home">
-
-{% for post in paginator.posts %}
-<div class="post">
-    <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-      <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-    <div class="post-content">{{ post.content }}</div>
-    <div class="source">Source: 
-        | Permalink: 
-        <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">
-            html
-        </a>
-    </div>
-
-</div>
-
-{% endfor %}
-
-</div>
-
-
-
-
-{% for post in site.posts %}
-
-<div class="post">
-    <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-    <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-    <div class="post-excerpt">{{ post.excerpt }}</div>
-    <br>
-    <hr>
-</div>
-
-{% endfor %}

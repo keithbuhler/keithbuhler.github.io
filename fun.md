@@ -21,34 +21,34 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 ## Projects
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="top"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless truths and current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="center"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless truths and current events.</p>
 
 <br>
 
-<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="top"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
+<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="center"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
 
 <br>
 
-<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
+<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="center"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
 
 <br>
 
-<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j" > </a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
+<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j"> <img src="/img/alvin-plantinga.jpg" align="center"></a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
 
 <br>
 
-<p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/img/fun-sola.jpg"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
+<p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/img/fun-sola.jpg" align="center"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
 
 <br>
 
-<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="top">  </a></p><p> How to lead a discussion (video)</p>
+<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="center">  </a></p><p> How to lead a discussion (video)</p>
 
-<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="http://mrnussbaum.com/images/isaac_newton.jpg" align="top">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="http://mrnussbaum.com/images/isaac_newton.jpg" width="256" height="286" align="center" width="">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
 
 <br>
 
 
-<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/wither.jpg" align="top">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
+<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
 
 

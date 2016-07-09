@@ -443,8 +443,8 @@ header.site-header-blog {
   bottom: 0px;
   background: #1D3D5A;
   height: 6em;
-  width: 1000px;
-  border-radius: 4px;
+  width: 800px;
+  border-radius: 0px;
 }
 
 
@@ -458,13 +458,15 @@ header.site-header-blog.wrap {
 
 .site-title-blog:hover{   color: #cc6600; }
 
-.site-title-blog {  float: left;}
+.site-title-blog {  
+  font-size: 4em, 
+  float: left;}
 
 
 .site-title-blog,.site-title:visited {
   display: inline;
   padding: 15px;
-  color: white;
+  color: #ffffff;
   text-align: center;
 
 }
