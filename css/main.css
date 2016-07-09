@@ -432,6 +432,9 @@ header.site-header-philosophy {
 
 
 
+
+
+
 /* Blog Custom CSS */
 
 
@@ -452,11 +455,11 @@ header.site-header-blog.wrap {
   max-width: 33em;
   margin: 10px auto;
   padding-top: 5px;
-  border-color: white;
-  border: 2px;
+  border-color: #ccc;
+  border: 4px;
 }
 
-.site-title-blog:hover{   color: #cc6600; }
+.site-title-blog:hover{   color: #ffffff; }
 
 .site-title-blog {  
   font-size: 4em, 
@@ -485,7 +488,7 @@ header.site-header-blog.wrap {
 
 .site-nav-blog .trigger a{  display: block;
     color: white;
-    text-align: center;
+    text-st
     padding: 12px 14px;
     text-decoration: none; }
 
