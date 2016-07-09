@@ -285,7 +285,7 @@ ul.posts li {
 
 /* Post styles */
 
-.post-header { margin: 10px 0 30px; }
+.post-header { margin: 0px 0 10px; }
 
 
 
@@ -451,12 +451,22 @@ header.site-header-blog {
 }
 
 
+header.site-header.wrap {
+  max-width: 33em;
+  margin: 10px auto;
+  padding-top: 5px;
+  border-color: white;
+  border: 2px;
+  text-align: center;
+}
+
 header.site-header-blog.wrap {
   max-width: 33em;
   margin: 2px auto;
   padding-top: 2px;
   border-color: #000000;
   border: 6px;
+  text-align: center;
 }
 
 .site-title-blog:hover{   color: #ffffff; text-align: center; }
