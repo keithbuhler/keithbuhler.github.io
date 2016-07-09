@@ -21,6 +21,7 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 ## Projects
 
+
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="center"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless truths and current events.</p>
 
 <br>
@@ -29,11 +30,11 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 
 <br>
 
-<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="center"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
+<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="center" width="256"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
 
 <br>
 
-<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j"> <img src="/img/alvin-plantinga.jpg" align="center"></a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
+<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j"> <img src="/img/alvin-plantinga.jpg" width="256" height="256" align="center"></a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
 
 <br>
 
@@ -48,9 +49,10 @@ Hi! Welcome to my personal site. I'm a husband, father, [philosopher](/), [educa
 <br>
 
 
-<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
+<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
 
+</div>
 
 ## More Fun Things
 
