@@ -453,8 +453,8 @@ header.site-header-blog {
 
 header.site-header-blog.wrap {
   max-width: 33em;
-  margin: 20px auto;
-  padding-top: 20px;
+  margin: 2px auto;
+  padding-top: 2px;
   border-color: #000000;
   border: 6px;
 }
