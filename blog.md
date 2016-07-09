@@ -14,7 +14,7 @@ comments: false
 
 <br>
 
-<h3><i>Thoughtful dialogue on timeless truths and current events.</i></h3>
+<h4><i>Timeless philosophy and current events.</i></h4>
 
 </center>
 
@@ -26,7 +26,7 @@ comments: false
 {% for post in site.posts %}
 
 <div class="post">
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
     <div class="post-excerpt">{{ post.excerpt }}</div>
     <br>
@@ -38,7 +38,7 @@ comments: false
 <br>
 <br>
 
-## Archive
+## Posts
 
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
