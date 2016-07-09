@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-# Writing Tools #
+# [Writing Tools](/writing-tools)
 
 
 Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day, you just need a reliable set of tools with which to capture and publish thoughts. At the same time, there is so much innovative software out there. 
