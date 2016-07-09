@@ -1,12 +1,12 @@
 ---
 layout: posts
 type: posts
-title: 17 Times R2-D2 Saves the Universe (updated to include Episode VII)
+title: 17 Times R2-D2 Saves the Universe (updated for Episode 7)
 tags: culture, star wars
 excerpt_separator: <!--more-->
 ---
 
-# 17 Times R2D2 Saves the universe
+# 17 Times R2D2 Saves the universe (updated for Ep. 7)
 
 **Episode I**
 

@@ -11,8 +11,8 @@ excerpt_separator: <!--more-->
 
 # How to read the news
 
-
 ![Out Group](/img/out-group.jpg)
+
 Are you getting just one side of the story? 
 
 If you only read the news on Facebook, Twitter, [the answer is certainly yes.](https://www.rt.com/news/328177-facebook-narrow-minded-study/)[^1]

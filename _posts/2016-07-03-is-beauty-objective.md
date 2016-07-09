@@ -29,9 +29,7 @@ Is beauty objective then? The question should be broken into two parts. The firs
 The case for the subjectivity of beauty is fairly simple. “What is beautiful” is more or less equal to “what people find pleasing.” Aquinas said, [“beauty is that which, being seen, pleases.”](http://ndpr.nd.edu/news/58953-aquinas-on-beauty/) And what people find pleasing varies so widely from one culture to another, from one family to another, indeed from one person to another, that there is no likelihood of summarizing this kaliedoscope of pleasures into an “objective” set of beautiful objects or ideas. To quote a syllogism expressed by one of my students:
 
 1. What is stimulating to one person and not be stimulating to another is only “stimulating” in a subjective sense.
-
-2.So called “beautiful objects” are stimulating to one person and not to another.
-
+2. So called “beautiful objects” are stimulating to one person and not to another.
 3. Therefore, “beautiful objects” are only subjectively so.
 
 This argument may not terribly detailed, but it does not need to be. The first premise it enjoys the status of majority opinion right now; the second premise is an obvious fact of experience and observation, not contested by even those who believe in objective beauty. The conclusion follows validly.
