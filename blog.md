@@ -20,19 +20,23 @@ comments: false
 
 <br>
 
-{% for post in site.posts %}
+<hr>
 
+
+{% for post in site.posts %}
 
 <div class="post">
     <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
     <div class="post-excerpt">{{ post.excerpt }}</div>
+    <br>
+    <hr>
 </div>
 
 {% endfor %}
 
 <br>
-
+<br>
 
 ## Archive
 
