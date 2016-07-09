@@ -4,11 +4,16 @@ layout: posts
 permalink: /singularity-chalmers
 tags: philosophy, science
 comments: true
+excerpt_separator: <!--more-->
+
 ---
+
 
 # David Chalmers Discusses the Singularity #
 
 Most people I talk to have never heard of the Singularity. The concept of a singularity is an absolutely unique, unprecedented event: the Big Bang, the emergence of the first living organism in the cosmos, the first eukaryotic cells, the first conscious organisms, the first self-conscious, self-reflective, or moral primates. These are all singularities. 
+
+<!--more-->
 
 "The" Singulary (with the definite article) refers to a hypothetical event [in the near-future](https://en.wikipedia.org/wiki/The_Singularity_Is_Near). The Singularity is a moment when humanity transcends itself or when "technological evolution" outpaces biological evolution. The concept and term were popularized by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil), a now researcher at [Alphabet Inc.](https://en.wikipedia.org/wiki/Alphabet_Inc.) (formerly Google). 
 

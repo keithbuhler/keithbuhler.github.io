@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 
 ---
 
+
 # Writing Tools #
 
 
@@ -15,6 +16,7 @@ Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day
 As an academic and a writer, I enjoy exploring new software and workflow processes. Here are a few tools I have used or use regularly to unlock my imagination and productivity. The tools are organized from Easy to Hard. 
 
 <!--more-->
+
 
 
 ## Easy ##

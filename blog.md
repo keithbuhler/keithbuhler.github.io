@@ -20,36 +20,39 @@ comments: false
 
 <br>
 
-
-## Posts
-
-<ul class="posts">
-
-  {% for post in site.posts %}
-  <li>
-  {{ post.excerpt }}
-  </li>
-  {% endfor %}
-
-</ul>
-
-<br>
+{% for post in site.posts %}
 
 
-<ul class="posts">
-  
-  {% for post in site.posts %}
-  <li>
-   &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+<div class="post">
+    <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-  </li>
-  {% endfor %}
+    <div class="post-excerpt">{{ post.excerpt }}</div>
+        </a>
+        | Permalink: 
+        <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">
+            html
+        </a>
+    </div>
+</div>
 
-</ul>
-
-
+{% endfor %}
 
 <br>
+
+
+## Archive
+
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    {% if year != nyear %}
+      {% if forloop.index != 1 %}</ul>{% endif %}
+      <h3 class="sub-header">{{ post.date | date: '%Y' }}</h3><ul>
+    {% endif %}
+  <li><span class="time">{{ post.date | date: "%Y-%m-%d" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+
 
 <br>
 

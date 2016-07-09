@@ -4,14 +4,18 @@ title: Still In the Shining Sea - An American Myth
 comments: true
 type: posts
 permalink: /american-myth-post
-
+excerpt_separator: <!--more-->
 ---
 
-If you have the stomach for philosophy, here's a short story I wrote some years ago for the Fourth of July. It is a fictional dialogue between a history teacher (father) and student (son) on what makes America... American.
+## Still in the Shining Sea: An American Myth
 
-With all the quotations from American poetry and politics, it's a bit of a history lesson in itself. Plus, I think, it has a little interesting Platonic plot to it that makes it an American Myth in itself.
+Here's a short story I wrote some years ago for the Fourth of July. It is a fictional dialogue between a history teacher (father) and student (son) on what makes America... American. 
 
-It's called ["Still in the Shining Sea"](/american-myth)
+With all the quotations from American poetry and politics, it's a bit of a history lesson in itself. Plus, I think, it has a little interesting Platonic plot to it that makes it an American Myth in itself. It's called ["Still in the Shining Sea"](/american-myth)
+
+<!--more-->
+
+If you have the stomach for philosophy, you might enjoy it. 
 
 TL;DR summary:
 
