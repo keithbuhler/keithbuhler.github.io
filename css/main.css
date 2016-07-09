@@ -437,8 +437,7 @@ header.site-header-philosophy {
 
 /* Blog Custom CSS */
 
-
-header.site-header-blog {
+/* header.site-header-blog {
   position: relative;
   top: 0px;
   left: 0px;
@@ -503,6 +502,7 @@ header.site-header-blog.wrap {
 
 .site-nav-blog .trigger a:hover{ background-color: #cc6600;  color: white; }
 
+/* just short circuiting settings */
 
 div#wrapperHeader {
  width:100%;
