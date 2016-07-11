@@ -225,7 +225,7 @@ text-align: left;
 
 
 site-footer {
- text-align: center;
+  text-align: center;
   position: relative;
   top: 0px;
   left: 0px;
@@ -234,7 +234,7 @@ site-footer {
   height: 3em;
   width: 800px;
   border-radius: 4px;
-
+  background-color: #cc6600;
 }
 
 
@@ -447,7 +447,8 @@ header.site-header-blog {
   height: 4em;
   border-radius: 0px;
   background-image: url(http://www.acme-group.net/Areas/Distribution/Content/Images/purple_background.jpg);
-  font-size: 4em;
+  font-size: 6em;
+  color: gray;
   text-align: center;
 }
 
