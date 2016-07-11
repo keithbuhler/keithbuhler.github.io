@@ -510,7 +510,7 @@ header.site-header-blog.wrap {
 div#wrapperHeader {
  width:100%;
  height;200px; /* height of the background image? */
- background:url(/img/kentucky.jpg) repeat-x 0 0;
+ background:url("http://i306.photobucket.com/albums/nn241/deineshd/Header/bg_4.jpg") repeat-x 0 0;
  text-align:center;
 }
 
