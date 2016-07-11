@@ -438,7 +438,7 @@ header.site-header-philosophy {
 /* Blog Custom CSS */
 
 header.site-header-blog {
-  position: fixed;
+  position: relative;
   top: 0px;
   left: 0px;
   right: 0px;
@@ -446,9 +446,8 @@ header.site-header-blog {
   background: white;
   height: 4em;
   border-radius: 0px;
-  background-image: url(http://www.acme-group.net/Areas/Distribution/Content/Images/purple_background.jpg);
-  font-size: 6em;
-  color: gray;
+  font-size: 4em;
+  color: #fff2e6;
   text-align: center;
 }
 
