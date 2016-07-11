@@ -509,7 +509,7 @@ header.site-header-blog.wrap {
 
 div#wrapperHeader {
  width:100%;
- height;50px; /* height of the background image? */
+ height;200px; /* height of the background image? */
  background:url("none") repeat-x 0 0;
  text-align:center;
 }
