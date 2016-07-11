@@ -14,7 +14,7 @@ comments: false
 
 <br>
 
-<h4><i>Timeless philosophy and current events.</i></h4>
+<h4><i>Philosophical dialogue. Timeless wisdom. News and Memes.</i></h4>
 
 </center>
 
