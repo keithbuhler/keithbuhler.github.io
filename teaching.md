@@ -7,7 +7,7 @@ title: Teaching
 
 <img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-I have been teaching full time in classical schools since 2007. Since 2012, I have taught university courses in philosophy, metaphysics, ethics, bioethics, and philosophy of religion at the University of Kentucky and Asbury University. Before that, I served as Director of High School Studies at Veritas Academy and before that as Master Tutor at Torrey Academy. Students enjoy my enthusiasm for the subject and personable approach to classroom discussion.  
+I have been teaching full time in universities or classical high schools for more than 8 years. The last 4 hours I have been a philosophy instructor teaching courses in philosophy, metaphysics, ethics, bioethics, and philosophy of religion at the University of Kentucky and Asbury University. Before that, I served as Director of High School Studies at a classical school, where I designed a great books curriculum to guide studenst through the history of western thought. Before that, I served as Master Tutor at Torrey Academy where I taught and designed courses in humanities. Students enjoy my enthusiasm for the subject and personable approach to classroom discussion.  
 
 ### Teaching Statement
 
