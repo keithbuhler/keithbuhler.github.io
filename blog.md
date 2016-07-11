@@ -8,13 +8,11 @@ comments: false
 
 <center>
 
-<h1> Welcome to ... </h1>
-
 <img src="/img/TheBuhlerReport1.png" align="center" width="500" height="130">
 
 <br>
 
-<h4><i>Philosophical dialogue. Timeless wisdom. News and Memes.</i></h4>
+<h4><i>Philosophical dialogue. Timeless wisdom. Current Events. Bits of Humor.</i></h4>
 
 </center>
 
