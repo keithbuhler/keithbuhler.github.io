@@ -438,15 +438,15 @@ header.site-header-philosophy {
 /* Blog Custom CSS */
 
 header.site-header-blog {
-  position: relative;
-  top: 0px;
+  position: fixed;
+  top: 5px;
   left: 0px;
   right: 0px;
   bottom: 0px;
   background: #2e2e38;
-  height: 4em;
-  width: 1000px;
+  height: 6em;
   border-radius: 6px;
+  background-image: 
 
 
 
@@ -469,14 +469,13 @@ header.site-header-blog.wrap {
   text-align: center;
 }
 
-/* 
+
 
 .site-title-blog:hover{   color: #ffffff; text-align: center; }
 
 .site-title-blog {  
   font-size: 30px; 
   color: #ffffff; 
-
 }
 
 .site-title-blog,.site-title:visited {
@@ -487,7 +486,7 @@ header.site-header-blog.wrap {
 
 
 
-
+/* 
 .site-nav-blog {display: inline;}
 
 .site-nav-blog .trigger {

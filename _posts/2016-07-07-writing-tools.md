@@ -8,12 +8,13 @@ excerpt_separator: <!--more-->
 ---
 
 
-# [Writing Tools](/writing-tools)
+# [Tools for writing, formatting, and presenting](/writing-tools)
 
+As an academic and a writer, I enjoy exploring new software and workflow processes. 
 
 Nothing is wrong with using Microsoft Word or Apple Pages; at the end of the day, you just need a reliable set of tools with which to capture and publish thoughts. At the same time, there is so much innovative software out there. 
 
-As an academic and a writer, I enjoy exploring new software and workflow processes. Here are a few tools I have used or use regularly to unlock my imagination and productivity. The tools are organized from Easy to Hard. 
+Here are a few tools I have used or use regularly to unlock my imagination and productivity. The tools are organized from Easy to Hard. 
 
 <!--more-->
 
@@ -37,7 +38,7 @@ If you are ready to take your writing to the next level, consider Markdown. Mark
     ## sub-heading
     *italic*
 
-[Learning Markdown basics takes about 10 minutes.](https://www.youtube.com/watch?v=HndN6P9ke6U) Why do this? A couple reasons. First, consider how much time you have spent over a lifetime formatting your writing. Whether it's academic papers, poems, essays, stories, screenplays, web pages, resumes, or anything else, formatting takes forever. The longer the project, the more time is soaked up in formatting. Markdown leverages your time. One minute learning Markdown will save you a hundred hours of future formatting time. Secondly, Markdown "speaks" HTML, PDF, Doc, etc. It was originally designed for web writing, but works for anything. You can write one plain text file and instantly convert it to a beautiful PDF paper or a beautiful website. 
+You can learn Markdown basics in about [10 minutes here](https://www.youtube.com/watch?v=HndN6P9ke6U) or [here](http://www.markdowntutorial.com/lesson/1/). Why do this? A couple reasons. First, consider how much time you have spent over a lifetime formatting your writing. Whether it's academic papers, poems, essays, stories, screenplays, web pages, resumes, or anything else, formatting takes forever. The longer the project, the more time is soaked up in formatting. Markdown leverages your time. One minute learning Markdown will save you a hundred hours of future formatting time. Secondly, Markdown "speaks" HTML, PDF, Doc, etc. It was originally designed for web writing, but works for anything. You can write one plain text file and instantly convert it to a beautiful PDF paper or a beautiful website. 
 
 Once you learn the basics, you can use some of these Markdown software utilities: 
 
@@ -52,6 +53,7 @@ Once you learn the basics, you can use some of these Markdown software utilities
 ![Sublime](https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png)
  
 * Ease 1/5, Usefulness 5/5: [Sublime Text 3](https://www.sublimetext.com/3). This is for L33T h@ckerz.  It's like Texts.io but more powerful and more customizable. You can program beautiful academic papers using a mash up of plain text, Markdown syntax, Pandoc (for conversion), PDFLatex for presentation, and Bibdesk for citations. All these programs are free but require some programming competence. Dan Sheffler [explains](http://dansheffler.com/blog/2015-09-07-class-info-in-pandoc-and-latex/) in painful detail how to do this, and some web searches will turn up some helpful information as well. I am working on my own, very simplified written or video instructions, and will post the link when I can. Once you get this workflow down, it is amazing. It makes beautiful, lovely, amazing, awesomely formatted papers. I'm currently writing my dissertation as a plaintext markdown file (AcademicMarkdown syntax) in Sublime Text 3. 
+* I'm working on a [template for formatting philosophy dissertations here.](https://github.com/keithbuhler/Template-for-philosophy-dissertations/)
 
 ### Other Fun or Useful Utilities ###
 
