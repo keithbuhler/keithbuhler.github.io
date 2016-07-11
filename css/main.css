@@ -469,7 +469,7 @@ header.site-header-blog {
   top: 0px;
   left: 0px;
   right: 0px;
-  bottom: 10px;
+  bottom: 0px;
   background: white;
   height: 2em;
   border-radius: 0px;
@@ -478,6 +478,7 @@ header.site-header-blog {
   text-align: center;
   vertical-align: 2em;
   width: 1000px;
+  padding-top: 10px
 }
 
 

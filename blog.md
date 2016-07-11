@@ -5,7 +5,8 @@ tags: philosophy, science, fun, politics,
 comments: false
 --- 
 
-Welcome to the Buhler Report: Philosophy talk about timeless wisdom and current events, with a dash of humor.
+<p style="center"> Philosophy talk about timeless wisdom and current events, with a dash of humor.</p>
+
 
 <hr>
 
@@ -35,14 +36,13 @@ Welcome to the Buhler Report: Philosophy talk about timeless wisdom and current 
 {% endfor %}
 
 
-
 <br>
 
 ## About Buhler
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="center"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless truths and current events.</p>
+Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [educator](/teaching) speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) during the 9-5. This site is a sandbox for developing an ecclectic set of projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
 
-<br>
+### Other Projects
 
 <p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="center"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
 
@@ -66,7 +66,6 @@ Welcome to the Buhler Report: Philosophy talk about timeless wisdom and current 
 
 <br>
 
-
 <p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
 
@@ -81,3 +80,4 @@ Welcome to the Buhler Report: Philosophy talk about timeless wisdom and current 
 * Classical Education Resources -- coming soon
 * [keithbuhler.com/philosophy (site for my philosophy students](/philosophy)
 * [keithbuhler.com (professional site)](/)
+
