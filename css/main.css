@@ -446,7 +446,7 @@ header.site-header-blog {
   background: #2e2e38;
   height: 6em;
   border-radius: 6px;
-  background-image: 
+  background-image: url(http://www.acme-group.net/Areas/Distribution/Content/Images/purple_background.jpg);
 
 
 
@@ -463,7 +463,7 @@ header.site-header.wrap {
 header.site-header-blog.wrap {
   max-width: 33em;
   margin: 2px auto;
-  padding-top: 2px;
+  padding-top: 0px;
   border-color: #000000;
   border: 6px;
   text-align: center;
