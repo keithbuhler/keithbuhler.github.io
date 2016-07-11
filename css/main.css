@@ -290,7 +290,7 @@ ul.posts li {
 
 
 .post-header h1 {
-  font-size: 42px;
+  font-size: 28px;
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
@@ -400,6 +400,15 @@ dd p {
 }
 
 
+
+
+
+
+
+
+
+
+
 /* Philosophy Custom CSS */
 
 
@@ -435,21 +444,40 @@ header.site-header-philosophy {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Blog Custom CSS */
 
 header.site-header-blog {
-  position: fixed;
+  position: relative;
   top: 0px;
   left: 0px;
   right: 0px;
   bottom: 10px;
   background: white;
-  height: 3em;
+  height: 2em;
   border-radius: 0px;
-  font-size: 3em;
+  font-size: 4em;
   color: #000000;
   text-align: center;
-  vertical-align: 4em;
+  vertical-align: 2em;
+  width: 1000px;
 }
 
 
@@ -483,7 +511,6 @@ margin:5em auto;
 max-width:1000px;
 
 
-/* 
 .site-nav-blog {display: inline;}
 
 .site-nav-blog .trigger {
@@ -495,7 +522,6 @@ max-width:1000px;
 
 .site-nav-blog .trigger a{  display: block;
     color: white;
-    text-st
     padding: 12px 14px;
     text-decoration: none; }
 
