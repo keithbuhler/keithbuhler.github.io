@@ -5,6 +5,8 @@ tags: philosophy, science, fun, politics,
 comments: false
 --- 
 
+Welcome to the Buhler Report: Philosophy talk about timeless wisdom and current events, with a dash of humor.
+
 <hr>
 
 
