@@ -68,8 +68,6 @@ comments: false
 <p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
 
-</div>
-
 ## More Fun Things
 
 * [Bio](/bio): A little bit about me.
@@ -79,6 +77,5 @@ comments: false
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
-
-* [Philosophy student home](/philosophy)
-* [Professional home page](/)
+* [keithbuhler.com/philosophy (site for my philosophy students](/philosophy)
+* [keithbuhler.com (professional site)](/)
