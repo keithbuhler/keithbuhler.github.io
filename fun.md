@@ -3,6 +3,7 @@ layout: fun
 title: Fun Stuff Home
 ---
 
+
 # Fun Stuff 
 
 <img src="/img/midair-small.jpg" alt="Mid-air" align="right" hspace="5"> 
