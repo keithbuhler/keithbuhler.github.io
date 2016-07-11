@@ -446,6 +446,7 @@ header.site-header-blog {
   background: white;
   height: 4em;
   border-radius: 0px;
+  width: 1000px;
   font-size: 2em;
   color: #000000;
   text-align: center;
@@ -453,22 +454,11 @@ header.site-header-blog {
 }
 
 
-header.site-header.wrap {
-  max-width: 33em;
-  margin: 10px auto;
-  padding-top: 0px;
-  border-color: white;
-  border: 2px;
-  text-align: center;
-}
 
 header.site-header-blog.wrap {
   max-width: 33em;
   margin: 4px auto;
   padding-top: 0px;
-  border-color: #ccc;
-  border: 6px;
-  text-align: center;
 }
 
 
@@ -486,6 +476,10 @@ header.site-header-blog.wrap {
   color: #ffffff;
 }
 
+
+#content-wrapper-blog {
+margin:4em auto;
+max-width:800px;
 
 
 /* 
