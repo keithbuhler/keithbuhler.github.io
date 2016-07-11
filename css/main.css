@@ -446,7 +446,7 @@ header.site-header-blog {
   background: white;
   height: 4em;
   border-radius: 0px;
-  font-size: 4em;
+  font-size: 2em;
   color: #fff2e6;
   text-align: center;
   vertical-align: 4em;
@@ -476,8 +476,8 @@ header.site-header-blog.wrap {
 .site-title-blog:hover{   color: #ffffff; text-align: center; }
 
 .site-title-blog {  
-  font-size: 30px; 
-  color: #ffffff; 
+  font-size: 12px; 
+  color: #000000; 
 }
 
 .site-title-blog,.site-title:visited {
