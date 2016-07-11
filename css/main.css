@@ -512,6 +512,9 @@ header.site-header-blog.wrap {
 #content-wrapper-blog {
 margin:5em auto;
 max-width:1000px;
+align: center;
+vertical-align: middle;
+}
 
 
 .site-nav-blog {display: inline;}
