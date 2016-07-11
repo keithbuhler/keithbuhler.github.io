@@ -5,16 +5,16 @@ layout: philosophy
 **[PHL 251—Philosophy of C. S. Lewis](/syllabus251.pdf)**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: keith\_buhler  
+**Twitter**: @keith\_buhler  
 **Web**: www.keithbuhler.com / Discovery    
 **Office Hours:** Mon 12-1, Kinlaw Library by Lewis Corner.  
 
 ### Required Texts
 
+-   [*C. S. Lewis Signature Classics*. ISBN:  978-0060653026.](http://amzn.to/1TlVPvm), which contains several books you may purchase individually or in this set: (*Mere Christianity*, *Problem of Pain*, *Abolition of Man*, *Miracles*, *Great Divorce*).
 -   [*The Four Loves*. ISBN: 978-0156329309.](http://amzn.to/1RAw4Tj)
 -   [*Perelandra*. ISBN: 978-0743234917](http://amzn.to/1RAw71E)
 -   [*Experiment in Criticism. ISBN:978-1107604728*](http://amzn.to/1MEYb78)
--   [*C. S. Lewis Signature Classics*. ISBN:  978-0060653026.](http://amzn.to/1TlVPvm), which contains several books you may purchase individually or in this set: (*Mere Christianity*, *Problem of Pain*, *Abolition of Man*, *Miracles*, *Great Divorce*).
 -   Other readings are available on Discovery: ["Meditations on a Toolshed", CS Lewis](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg); "Weight of Glory", CS Lewis, ["Is Truth Objective?", Peter Kreeft](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
    
 
@@ -129,8 +129,8 @@ Those who opt for extra credit may do so. Instructions are posted online.
 4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
 4.  **Laptop/tablet users:** You must request permission, and if approved, sit in the front row.
 5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
-6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
-7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
+6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. If you need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
+7.  **Contact**. For short, quick questions, use Twitter (@keith\_buhler)
 8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Discovery “news”. Section related announcements will be made on Discovery “news” and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
 6. I can accommodate you: If you have a documented disability that might require academic accommodation, please make sure you are registered with the Academic Support Program. Contact Pam Downing (pamela.downing@asbury.edu / (859) 858-3511 x2283.
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
