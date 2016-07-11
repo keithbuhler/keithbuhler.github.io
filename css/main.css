@@ -500,11 +500,12 @@ header.site-header-blog.wrap {
 .site-title-blog {  
   font-size: 30px; 
   color: #cc6600; 
+  border: 2px;
 }
 
 .site-title-blog,.site-title:visited {
   display: inline;
-  padding: 5px;
+  padding: 10px;
   color: #cc6600;
 }
 
