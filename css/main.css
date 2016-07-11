@@ -439,16 +439,17 @@ header.site-header-philosophy {
 
 header.site-header-blog {
   position: fixed;
-  top: 5px;
+  top: 0px;
   left: 0px;
   right: 0px;
   bottom: 0px;
-  background: #2e2e38;
+  background: white;
   height: 6em;
-  border-radius: 6px;
+  border-radius: 0px;
   background-image: url(http://www.acme-group.net/Areas/Distribution/Content/Images/purple_background.jpg);
-
-
+  font-size: 4em;
+  text-align: center;
+}
 
 
 header.site-header.wrap {
