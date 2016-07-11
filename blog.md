@@ -1,22 +1,9 @@
 ---
 layout: posts
 title: The Buhler Report
-tags: philosophy, science, fun
+tags: philosophy, science, fun, politics, 
 comments: false
 --- 
-
-
-<center>
-
-<img src="/img/TheBuhlerReport1.png" align="center" width="500" height="130">
-
-<br>
-
-<h4><i>Philosophical dialogue. Timeless wisdom. Current Events. Bits of Humor.</i></h4>
-
-</center>
-
-<br>
 
 <hr>
 

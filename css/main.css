@@ -449,6 +449,7 @@ header.site-header-blog {
   font-size: 4em;
   color: #fff2e6;
   text-align: center;
+  vertical-align: 4em;
 }
 
 
@@ -463,9 +464,9 @@ header.site-header.wrap {
 
 header.site-header-blog.wrap {
   max-width: 33em;
-  margin: 2px auto;
+  margin: 4px auto;
   padding-top: 0px;
-  border-color: #000000;
+  border-color: #ccc;
   border: 6px;
   text-align: center;
 }
@@ -510,7 +511,7 @@ header.site-header-blog.wrap {
 div#wrapperHeader {
  width:100%;
  height;200px; /* height of the background image? */
- background:url("none") repeat-x 0 0;
+ background:url(/img/TheBuhlerReport1.png) repeat-x 0 0;
  text-align:center;
 }
 
