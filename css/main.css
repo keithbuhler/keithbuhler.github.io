@@ -471,10 +471,10 @@ header.site-header-blog {
   right: 0px;
   bottom: 0px;
   background: white;
-  height: 4em;
+  height: 2em;
   border-radius: 0px;
   font-size: 4em;
-  color: #000000;
+  color: #ccc;
   text-align: center;
   width: 1000px;
   vertical-align: middle;
@@ -485,12 +485,12 @@ header.site-header-blog {
 
 header.site-header-blog.wrap {
   max-width: 33em;
-  margin: 4px auto;
+  margin: 10px auto;
   padding-top: 0px;
-  font-size: 2em;
+  font-size: 4em;
   vertical-align: middle;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 0px;
 }
 
 
