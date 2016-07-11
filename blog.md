@@ -5,10 +5,7 @@ tags: philosophy, science, fun, politics,
 comments: false
 --- 
 
-Thoughtful reflection on timeless truths and current events.
-
 <hr>
-
 
 {% for post in site.posts %}
 

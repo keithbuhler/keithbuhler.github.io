@@ -24,8 +24,8 @@ header.site-header.wrap {
   max-width: 33em;
   margin: 10px auto;
   padding-top: 5px;
-  border-color: white;
-  border: 2px;
+  border-color: #cc6600;
+  border: 4px;
 }
 
 
@@ -50,8 +50,8 @@ header.site-header.wrap {
 .site-nav .trigger a{  display: block;
     color: white;
     text-align: center;
-    padding: 12px 14px;
-    text-decoration: none; }
+    padding: 20px 20px;
+    text-decoration: shadow; }
 
 .site-nav .trigger a:hover{ background-color: #cc6600;  color: white; }
 
