@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://keithbuhler.github.io/keithbuhler.com/docs/navigation
+  - title: "CV"
+    url: http://keithbuhler.com/Buhler-CV
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Teaching"
+    url: http://keithbuhler.com/teaching
+
+  - title: "Research"
+    url: http://keithbuhler.com/research
+
+  - title: "For Students"
+    url: http://keithbuhler.com/students

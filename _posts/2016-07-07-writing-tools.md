@@ -1,6 +1,6 @@
 ---
 title: Tools for Writing, Formatting, and Presenting
-layout: posts
+layout: post
 comments: true
 permalink: /writing-tools
 excerpt_separator: <!--more-->

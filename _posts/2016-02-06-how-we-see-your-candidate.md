@@ -1,6 +1,5 @@
 ---
-layout: posts
-type: posts
+layout: post
 title: How We See Your Candidate -- Empathy-Building Chart
 tags: politics, philosophy, news
 excerpt_separator: <!--more-->

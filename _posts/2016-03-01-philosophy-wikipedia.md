@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Get to Philosophy on Wikipedia
 comments: true
 permalink: /wikipedia

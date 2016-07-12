@@ -1,6 +1,6 @@
 ---
 title: Dissertation Boot Camp
-layout: posts
+layout: post
 tags: philosophy, phd
 comments: true
 permalink: /phd-dissertation-boot-camp

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 type: posts
 title: Why ISIS plans to target Anglo Saxons
 tags: politics

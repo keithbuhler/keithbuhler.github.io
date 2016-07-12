@@ -1,6 +1,6 @@
 ---
 title: David Chalmers Discusses the Singularity
-layout: posts
+layout: post
 permalink: /singularity-chalmers
 tags: philosophy, science
 comments: true

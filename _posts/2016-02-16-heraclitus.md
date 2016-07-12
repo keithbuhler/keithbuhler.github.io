@@ -1,6 +1,5 @@
 ---
-layout: posts
-type: posts
+layout: post
 title: Heraclitus Defragmented
 tags: philosophy
 excerpt_separator: <!--more-->

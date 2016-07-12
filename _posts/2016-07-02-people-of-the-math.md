@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: How to teach math in a classical school 
 permalink: /math
 comments: true

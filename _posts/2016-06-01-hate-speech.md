@@ -1,6 +1,5 @@
 ---
-layout: posts
-type: posts
+layout: post
 title: Hate Speech - Moral Crime or Orwellian Code?
 tags: politics
 permalink: /hate-speech

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Is Beauty Objective?
 comments: true
 permalink: /is-beauty-objective

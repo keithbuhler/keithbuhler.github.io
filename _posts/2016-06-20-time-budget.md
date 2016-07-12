@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Time Budget - How to Take Control of Your 112 Waking Hours
 tags: personal development, philosophy
 permalink: /time-budget

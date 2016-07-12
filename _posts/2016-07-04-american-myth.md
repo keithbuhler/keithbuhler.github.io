@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Still In the Shining Sea - An American Myth
 comments: true
 type: posts

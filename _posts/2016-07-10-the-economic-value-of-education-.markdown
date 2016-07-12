@@ -1,6 +1,6 @@
 ---
 title: The Economic Value of Education 
-layout: posts
+layout: post
 permalink: /economic-value-of-education
 excerpt_separator: <!--more-->
 

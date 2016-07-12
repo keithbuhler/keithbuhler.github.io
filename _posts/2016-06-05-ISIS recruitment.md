@@ -1,6 +1,5 @@
 ---
-layout: posts
-type: posts
+layout: post
 title: How ISIS recruits new soldiers
 tags: politics, religion
 permalink: /isis-recruits-post

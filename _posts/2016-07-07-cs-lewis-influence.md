@@ -1,6 +1,6 @@
 ---
 title: C.S. Lewis Influence Survey
-layout: posts
+layout: post
 comments: true
 permalink: cs-lewis-influence-survey
 excerpt_separator: <!--more-->
