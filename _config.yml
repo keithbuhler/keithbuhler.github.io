@@ -15,7 +15,6 @@ paginate_path:  "/posts:num"
 markdown:       kramdown
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
-`
 
 # Owner/author information
 owner:
