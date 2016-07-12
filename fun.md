@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: Fun Stuff Home
 header:
   image: spiral.png

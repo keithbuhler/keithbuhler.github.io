@@ -1,7 +1,7 @@
 ---
+layout: splash
 title: The Buhler Report
 tags: [philosophy, science, fun, politics]
-layout: splash
 author_profile: true
 ---
 
