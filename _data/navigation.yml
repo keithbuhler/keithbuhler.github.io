@@ -1,15 +1,5 @@
 # main links 
 main:
-  
-  - title: "Philosophy Posts"
-    url: http://keithbuhler.com/blog
-
-  - title: "Politics Posts"
-    url: http://keithbuhler.com/teaching
-
-  - title: "Humor"
-    url: http://keithbuhler.com/research
-
   - title: "Back to Student Philosophy Portal"
     url: http://keithbuhler.com/philosophy
 
@@ -18,5 +8,9 @@ main:
  
   - title: "Back to Fun Stuff Home"
     url: http://keithbuhler.com/Fun
- 
- 
+   
+  - title: "Philosophy Posts"
+    url: http://keithbuhler.com/blog
+
+  - title: "Politics Posts"
+    url: http://keithbuhler.com/blog
