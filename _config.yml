@@ -14,7 +14,7 @@ markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
 
 # Owner/author information
-author: 
+owner: 
   name:           Keith Buhler
   avatar:         keithbuhlerface.jpg
   bio:            Philosopher, classical educator, writer, husband, and father.
