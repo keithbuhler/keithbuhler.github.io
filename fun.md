@@ -1,6 +1,9 @@
 ---
 layout: archive
 title: Fun Stuff Home
+header:
+  image: spiral.png
+author_profile: true
 ---
 
 
