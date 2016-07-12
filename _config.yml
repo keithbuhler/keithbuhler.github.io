@@ -5,8 +5,6 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler, philosopher and educator"
 url:            "http://www.keithbuhler.com"
 
-# the baseurl makes "/blog" the default base instead of "/" which is "keithbuhler.com". Good to know, good to know.
-
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
@@ -16,8 +14,7 @@ markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
 
 # Owner/author information
-author:
-owner: 
+author: 
   name:           Keith Buhler
   avatar:         keithbuhlerface.jpg
   bio:            Philosopher, classical educator, writer, husband, and father.
@@ -35,12 +32,13 @@ owner:
 
   
 # Social networking links used in footer. Update and remove as you like.
-  social: 
+social: 
   type: ""
   links:
     -"https://twitter.com/Keith_Buhler"
     -"https://www.facebook.com/keithedbuhler"
-  og_image:       favicon.ico
+
+og_image:       favicon.ico
 
 
 # Timezone
