@@ -58,6 +58,12 @@ links:
   - title: Buhler who?
     url: /hossain-mohd-faysal
 
+# Plugins
+
+gems: 
+      -jekyll-paginate
+      -jekyll-sitemap
+      -jekyll-feed
     
 collections:
   papers:
