@@ -53,7 +53,7 @@ header.site-header.wrap {
     padding: 20px 20px;
     text-decoration: shadow; }
 
-.site-nav .trigger a:hover{ background-color: #cc6600;  color: white; }
+.site-nav .trigger a:hover{ background-color: #1D3D5A;  color: white; }
 
 .site-title:hover{   color: #cc6600; }
 
@@ -471,9 +471,9 @@ header.site-header-blog {
   right: 0px;
   bottom: 0px;
   background: white;
-  height: 2em;
+  height: 3em;
   border-radius: 0px;
-  font-size: 4em;
+  font-size: 5em;
   color: #ccc;
   text-align: center;
   width: 1000px;
@@ -487,7 +487,7 @@ header.site-header-blog.wrap {
   max-width: 33em;
   margin: 10px auto;
   padding-top: 0px;
-  font-size: 4em;
+  font-size: 5em;
   vertical-align: middle;
   text-align: center;
   padding-top: 0px;
