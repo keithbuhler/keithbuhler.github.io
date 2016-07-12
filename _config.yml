@@ -11,14 +11,15 @@ markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
 
 # Owner/author information
-  owner: 
-  avatar:         keithbuhlerface.jpg
-  bio:            Philosopher, classical educator, writer, husband, and father.
-  email:          keithbuhler@gmail.com
-  twitter:        keith_buhler
-  facebook:       keithedbuhler
-  github:         keithbuhler
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  author: 
+    avatar:         keithbuhlerface.jpg
+    bio:            Philosopher, classical educator, writer, husband, and father.
+    email:          keithbuhler@gmail.com
+    twitter:        keith_buhler
+    facebook:       keithedbuhler
+    github:         keithbuhler
+    google_plus:    https://plus.google.com/u/0/102602916593522619858
+    youtube:        https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q
 
 
 # Analytics for Google would go here UA-71712734-1
