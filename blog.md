@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: The Buhler Report
 tags: philosophy, science, fun, politics, 
 comments: false
