@@ -84,7 +84,7 @@ defaults:
   -scope:
       path: "" # empty string for all files
       values:
-      layout: "default"
+      layout: "default-buhler"
   -
     scope:
       path: "posts"
@@ -97,6 +97,7 @@ defaults:
         related: true  
         author_profile: true
         layout: single
+
 defaults:
   # _pages
   - scope:
