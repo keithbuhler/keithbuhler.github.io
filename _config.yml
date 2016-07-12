@@ -1,9 +1,9 @@
 # Site settings
-title:          "keithbuhler.com"
-author:         "Keith Buhler"
-email:          "keithedbuhler@gmail.com"
-description:    "The personal website of Keith Buhler, philosopher and educator"
-url:            "http://www.keithbuhler.com"
+ title:          "keithbuhler.com"
+ author:         "Keith Buhler"
+ email:          "keithedbuhler@gmail.com"
+ description:    "The personal website of Keith Buhler, philosopher and educator"
+ url:            "http://www.keithbuhler.com"
 
 # Build settings
 markdown:       kramdown
@@ -19,9 +19,6 @@ encoding:       utf-8
   facebook:       keithedbuhler
   github:         keithbuhler
   google_plus:    https://plus.google.com/u/0/102602916593522619858
-  instagram:      n/a
-  flickr:         n/a
-  tumblr:         n/a
 
 
 # Analytics for Google would go here UA-71712734-1
@@ -89,7 +86,7 @@ defaults:
     scope:
       path: "posts"
       type: ""
-      layout: "post" # overrides previous default layou
+      layout: "post" # overrides previous default layout
       values:
         read_time: false
         comments: true
