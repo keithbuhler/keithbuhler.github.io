@@ -72,7 +72,7 @@ defaults:
       path: "" # empty string for all files
       values:
       layout: "default"
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
@@ -80,13 +80,13 @@ defaults:
     scope:
       path: "posts"
       type: ""
-    values:
+      values:
       layout: "posts" # overrides previous default layout
   -
     scope:
       path: "presentations"
       type: "presentations"
-    values:
+      values:
       layout: "presentation"
       
 
