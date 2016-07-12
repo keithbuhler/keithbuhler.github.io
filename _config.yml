@@ -81,7 +81,7 @@ defaults:
       path: "posts"
       type: ""
       values:
-      layout: "posts" # overrides previous default layout
+      layout: "post" # overrides previous default layout
   -
     scope:
       path: "presentations"
