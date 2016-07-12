@@ -1,10 +1,21 @@
 # main links links
 main:
-  - title: "Philosophy"
-    url: http://keithbuhler.com/Buhler-CV
+  - title: "Philosophy Posts"
+    url: http://keithbuhler.com/blog
 
-  - title: "Politics"
+  - title: "Politics Posts"
     url: http://keithbuhler.com/teaching
 
   - title: "Humor"
     url: http://keithbuhler.com/research
+
+  - title: "Back to Student Philosophy Portal"
+    url: http://keithbuhler.com/philosophy
+
+  - title: "Back to Academic Home"
+    url: http://keithbuhler.com/
+ 
+   - title: "Back to Fun Stuff Home"
+    url: http://keithbuhler.com/Fun
+ 
+ 
