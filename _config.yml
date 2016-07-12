@@ -60,9 +60,8 @@ links:
 
 # Plugins
 
-gems: -jekyll-paginate
-      -jekyll-sitemap
-      -jekyll-feed
+gems: [jekyll-paginate]
+
     
 collections:
   papers:
