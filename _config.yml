@@ -5,8 +5,6 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler, philosopher and author"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
-paginate:       30
-paginate_path:  "/posts:num"
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
@@ -84,11 +82,4 @@ defaults:
       type: ""
       values:
       layout: "post" # overrides previous default layout
-  -
-    scope:
-      path: "presentations"
-      type: "presentations"
-      values:
-      layout: "presentation"
-      
-
+  
