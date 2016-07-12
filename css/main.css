@@ -53,7 +53,7 @@ header.site-header.wrap {
     padding: 20px 20px;
     text-decoration: shadow; }
 
-.site-nav .trigger a:hover{ background-color: #1D3D5A;  color: white; }
+.site-nav .trigger a:hover{ background-color: #cc6600;  color: white; }
 
 .site-title:hover{   color: #cc6600; }
 
@@ -495,18 +495,19 @@ header.site-header-blog.wrap {
 
 
 
-.site-title-blog:hover{   color: #cc6600; text-align: center; }
+.site-title-blog:hover{   color: #1D3D5A; text-align: center; }
 
 .site-title-blog {  
   font-size: 30px; 
-  color: #cc6600; 
+  color: #1D3D5A; 
   border: 2px;
+  padding-top: 50px;
 }
 
 .site-title-blog,.site-title:visited {
   display: inline;
   padding: 10px;
-  color: #cc6600;
+  color: #1D3D5A;
 }
 
 
@@ -515,6 +516,7 @@ margin:5em auto;
 max-width:1000px;
 align: center;
 vertical-align: middle;
+padding-top: 50px;
 }
 
 
