@@ -1,5 +1,5 @@
 ---
-title: The Economic Value of Education 
+title: The Economic Value of Education
 layout: default
 permalink: /economic-value-of-education
 excerpt_separator: <!--more-->
