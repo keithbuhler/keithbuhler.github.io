@@ -59,8 +59,7 @@ links:
 
 # Plugins
 
-gems: 
-  -jekyll-paginate
+gems: [jekyll-paginate]
 
     
 collections:
