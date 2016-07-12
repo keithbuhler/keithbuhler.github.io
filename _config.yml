@@ -30,12 +30,10 @@ author:
   tumblr:         n/a
 
 # Analytics
-analytics:
-  provider: google-universal
-    tracking_id: UA-71712734-1
 
-# images
-og_image:       favicon.ico
+analytics:
+  provider: "google"
+    tracking_id: "UA-71712734-1"
 
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
@@ -47,7 +45,8 @@ og_image:       favicon.ico
   links:
     -"https://twitter.com/Keith_Buhler"
     -"https://www.facebook.com/keithedbuhler"
-  
+  og_image:       favicon.ico
+
 
 # Timezone
 timezone:     America/New_York   
