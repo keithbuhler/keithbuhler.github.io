@@ -61,7 +61,6 @@ links:
 
 gems: 
   -jekyll-paginate
-  -jekyll-sitemap
 
     
 collections:
