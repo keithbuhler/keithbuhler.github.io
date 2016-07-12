@@ -1,38 +1,54 @@
 # Site settings
+ locale:         "en"
  title:          "keithbuhler.com"
- author:         "Keith Buhler"
- email:          "keithedbuhler@gmail.com"
+ name:           "Keith Buhler"
  description:    "The personal website of Keith Buhler, philosopher and educator"
  url:            "http://www.keithbuhler.com"
+ baseurl:        ""
+ gh_repo:        "https://github.com/keithbuhler/keithbuhler.github.io"
+ email:          "keithedbuhler@gmail.com"
+ comments: 
+  provider:       "disqus"
+  disqus:       
 
 # Build settings
 markdown:       kramdown
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
 
-# Owner/author information
-  author: 
-    avatar:         keithbuhlerface.jpg
-    bio:            Philosopher, classical educator, writer, husband, and father.
-    email:          keithbuhler@gmail.com
-    twitter:        keith_buhler
-    facebook:       keithedbuhler
-    github:         keithbuhler
-    google_plus:    https://plus.google.com/u/0/102602916593522619858
-    youtube:        https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q
-    location:       Wilmore, KY
+# SEO Related empty
 
 
-# Analytics for Google would go here UA-71712734-1
-
-  
 # Social networking links used in footer. Update and remove as you like.
+  twitter: 
+    username:     keith_buhler
+  facebook: 
+    username:     keithedbuhler
+  og_image:       aristotle50.bmp
+
+# Specific social profiles
 social: 
   type: ""
   links:
-    -"https://twitter.com/Keith_Buhler"
-    -"https://www.facebook.com/keithedbuhler"
+    -"http://twitter.com/Keith_Buhler"
+    -"http://www.facebook.com/keithedbuhler"
 
+# Analytics for Google would go here UA-71712734-1
+
+
+# Site author
+  author: 
+    name:           "Keith Buhler"
+    avatar:         "keithbuhlerface.jpg"
+    bio:            "Philosopher, classical educator, writer, husband, and father."
+    location:       "Wilmore, KY"
+    email:          "keithbuhler@gmail.com"
+    twitter:        "@keith_buhler"
+    facebook:       "keithedbuhler"
+    github:         "keithbuhler"
+    google_plus:    "https://plus.google.com/u/0/102602916593522619858"
+    youtube:        "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
+  
 # Timezone
 timezone:     America/New_York   
 
@@ -67,7 +83,9 @@ links:
   - title: Buhler who?
     url: /hossain-mohd-faysal
 
-    
+# Outputting
+
+
 collections:
   papers:
     output: true
