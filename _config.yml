@@ -5,7 +5,7 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler, philosopher and author"
 baseurl:        ""
 url:            "http://www.keithbuhler.com"
-paginate:       3
+paginate:       5
 paginate_path:  "/page:num"
 
 # lunr_search:
@@ -21,6 +21,7 @@ encoding:       utf-8
 owner:
   name:           Keith Buhler
   avatar:         keithbuhlerface.jpg
+  bio:            Philosopher, classical educator, writer
   email:          keithbuhler@gmail.com
 
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -29,15 +30,19 @@ owner:
   twitter:        keith_buhler
   facebook:       keithedbuhler
   github:         keithbuhler
-  instagram:      
-  flickr:         
-  tumblr:  
-
-  # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
+  instagram:      n/a
+  flickr:         n/a
+  tumblr:         n/a
+
+
+# Timezone
+timezone:     America/New_York   
+
 
 
 # Links to include in footer navigation
+
 # For external links add external: true
 links:
   - title: Home
@@ -66,12 +71,12 @@ defaults:
   -
     scope:
       path: "" # empty string for all files
-    values:
+      values:
       layout: "default"
       read_time: false
       comments: true
-      share: false
-      related: truee
+      share: true
+      related: true
   -
     scope:
       path: "posts"
