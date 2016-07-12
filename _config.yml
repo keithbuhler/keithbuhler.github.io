@@ -32,7 +32,7 @@ author:
 # Analytics
 
 analytics:
-  provider: "google"
+  provider: false
     tracking_id: "UA-71712734-1"
 
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
