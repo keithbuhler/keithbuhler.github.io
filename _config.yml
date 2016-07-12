@@ -60,8 +60,7 @@ links:
 
 # Plugins
 
-gems: 
-      -jekyll-paginate
+gems: -jekyll-paginate
       -jekyll-sitemap
       -jekyll-feed
     
