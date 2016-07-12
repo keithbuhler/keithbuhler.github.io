@@ -1,5 +1,6 @@
 ---
 title: Contact
+layout: default-buhler
 ---
 
 # Contact

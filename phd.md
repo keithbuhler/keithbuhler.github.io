@@ -1,5 +1,6 @@
 ---
 title: PHD
+layout: default-buhler
 ---
 
 # PHD

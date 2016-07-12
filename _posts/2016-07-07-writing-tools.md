@@ -1,11 +1,13 @@
 ---
 title: Tools for Writing, Formatting, and Presenting
-layout: compress
+layout: splash
 comments: true
 permalink: /writing-tools
 excerpt_separator: <!--more-->
 
 ---
+
+# Tools for Writing, Formatting, and Presenting
 
 As an academic and a writer, I enjoy exploring new software and workflow processes. 
 

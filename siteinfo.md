@@ -1,5 +1,6 @@
 ---
 title: site info
+layout: default-buhler
 ---
 
 ### Site 

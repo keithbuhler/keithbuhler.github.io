@@ -5,6 +5,9 @@ tags: [philosophy, science, fun, politics]
 author_profile: true
 ---
 
+# THE BUHLER REPORT 
+
+(under construction)
 <hr>
 
 {% for post in site.posts %}
