@@ -38,7 +38,9 @@ owner:
 # Timezone
 timezone:     America/New_York   
 
+# Gems
 
+gems: [jekyll-paginate]
 
 # Links to include in footer navigation
 
