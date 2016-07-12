@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: The Buhler Report
 tags: [philosophy, science, fun, politics]
 author_profile: true
@@ -9,15 +9,16 @@ author_profile: true
 # THE BUHLER REPORT 
 
 (under construction)
+
 <hr>
 
 {% for post in site.posts %}
 
 <div class="post">
-    <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }}</a></h4>
+    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }}</a></h3>
     <div class="post-excerpt">{{ post.excerpt }}</div>
     <br>
-    <hr>
+    <br>
 </div>
 
 {% endfor %}
