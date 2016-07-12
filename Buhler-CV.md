@@ -1,4 +1,5 @@
 ---
+layout: default-buhler
 title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 

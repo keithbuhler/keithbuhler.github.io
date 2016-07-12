@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: buhler
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
 --- 
 
