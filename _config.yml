@@ -1,10 +1,9 @@
 # Site settings
- title:          "keithbuhler.com"
- author:         "Keith Buhler"
- email:          "keithedbuhler@gmail.com"
- description:    "The personal website of Keith Buhler, philosopher and educator"
- url:            "http://www.keithbuhler.com"
- baseurl:        
+title:          "keithbuhler.com"
+author:         "Keith Buhler"
+email:          "keithedbuhler@gmail.com"
+description:    "The personal website of Keith Buhler, philosopher and educator"
+url:            "http://www.keithbuhler.com"
 
 # the baseurl makes "/blog" the default base instead of "/" which is "keithbuhler.com". Good to know, good to know.
 
@@ -32,7 +31,7 @@ owner:
   tumblr:         n/a
 
 
-# Analytics for Google would go here: UA-71712734-1
+# Analytics for Google would go here UA-71712734-1
 
   
 # Social networking links used in footer. Update and remove as you like.
