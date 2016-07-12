@@ -1,10 +1,10 @@
 # Site settings
-title:          "keithbuhler.com"
-author:         "Keith Buhler"
-email:          "keithedbuhler@gmail.com"
-description:    "The personal website of Keith Buhler, philosopher and educator"
-url:            "http://www.keithbuhler.com"
-baseurl:        "/blog"
+ title:          "keithbuhler.com"
+ author:         "Keith Buhler"
+ email:          "keithedbuhler@gmail.com"
+ description:    "The personal website of Keith Buhler, philosopher and educator"
+ url:            "http://www.keithbuhler.com"
+ baseurl:        "/blog"
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
@@ -15,8 +15,8 @@ markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
 
 # Owner/author information
-owner:
-author: 
+author:
+owner: 
   name:           Keith Buhler
   avatar:         keithbuhlerface.jpg
   bio:            Philosopher, classical educator, writer, husband, and father.
@@ -28,6 +28,7 @@ author:
   instagram:      n/a
   flickr:         n/a
   tumblr:         n/a
+
 
 # Analytics for Google would go here: UA-71712734-1
 
