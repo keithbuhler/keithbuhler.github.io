@@ -14,4 +14,4 @@ author_profile: true
 
 Mr. Clever invented the first iPhone. It's a clock that tells time and does other clever things. 
 
-![iphone](https://drive.google.com/file/d/14xgrBYODOrPUTfXH6vpHTfwnMCdAYlz9Lg/view?usp=sharing)
+![iphone](/img/first-iphone)
