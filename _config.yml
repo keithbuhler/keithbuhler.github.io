@@ -16,9 +16,9 @@ encoding:       utf-8
 
 # Owner/author information
 owner:
+author: 
   name:           Keith Buhler
   avatar:         keithbuhlerface.jpg
-  og_image:       favicon.ico
   bio:            Philosopher, classical educator, writer, husband, and father.
   email:          keithbuhler@gmail.com
   twitter:        keith_buhler
@@ -28,6 +28,14 @@ owner:
   instagram:      n/a
   flickr:         n/a
   tumblr:         n/a
+
+# Analytics
+analytics:
+  provider: "google-universal"
+    tracking_id: "UA-71712734-1"
+
+# images
+og_image:       favicon.ico
 
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
@@ -47,6 +55,17 @@ timezone:     America/New_York
 # Gems
 
 gems: [jekyll-paginate]
+  -jekyll-sitemap
+  -jekyll-feed
+
+# For categories and tags
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Links to include in footer navigation
 
@@ -75,12 +94,10 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
+  -scope:
       path: "" # empty string for all files
       values:
       layout: "default"
-
   -
     scope:
       path: "posts"
@@ -91,3 +108,20 @@ defaults:
         comments: true
         share: true
         related: true  
+        author_profile: true
+        layout: single
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+defaults:
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single

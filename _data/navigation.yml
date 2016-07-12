@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Philosophy"
     url: http://keithbuhler.com/Buhler-CV
 
-  - title: "Teaching"
+  - title: "Politics"
     url: http://keithbuhler.com/teaching
 
-  - title: "Research"
+  - title: "Humor"
     url: http://keithbuhler.com/research
-
-  - title: "For Students"
-    url: http://keithbuhler.com/students
