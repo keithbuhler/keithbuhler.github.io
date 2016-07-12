@@ -5,17 +5,13 @@ email:          "keithedbuhler@gmail.com"
 description:    "The personal website of Keith Buhler, philosopher and educator"
 url:            "http://www.keithbuhler.com"
 
-# lunr_search:
-#   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
-
 # Build settings
 markdown:       kramdown
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 encoding:       utf-8
 
 # Owner/author information
-owner: 
-  name:           Keith Buhler
+  owner: 
   avatar:         keithbuhlerface.jpg
   bio:            Philosopher, classical educator, writer, husband, and father.
   email:          keithbuhler@gmail.com
