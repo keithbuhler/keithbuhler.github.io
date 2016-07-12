@@ -1,5 +1,6 @@
-# main links links
+# main links 
 main:
+  
   - title: "Philosophy Posts"
     url: http://keithbuhler.com/blog
 
@@ -15,7 +16,7 @@ main:
   - title: "Back to Academic Home"
     url: http://keithbuhler.com/
  
-   - title: "Back to Fun Stuff Home"
+  - title: "Back to Fun Stuff Home"
     url: http://keithbuhler.com/Fun
  
  
