@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-# David Chalmers Discusses the Singularity #
+# David Chalmers Discusses the Singularity (h1)
 
 Most people I talk to have never heard of the Singularity. The concept of a singularity is an absolutely unique, unprecedented event: the Big Bang, the emergence of the first living organism in the cosmos, the first eukaryotic cells, the first conscious organisms, the first self-conscious, self-reflective, or moral primates. These are all singularities. 
 
