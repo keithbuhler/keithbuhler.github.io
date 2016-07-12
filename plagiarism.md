@@ -1,5 +1,5 @@
 ---
-layout: noheader
+layout: philosophy
 title: Plagiarism
 
 ---

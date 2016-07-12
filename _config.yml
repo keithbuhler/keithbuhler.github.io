@@ -4,7 +4,9 @@
  email:          "keithedbuhler@gmail.com"
  description:    "The personal website of Keith Buhler, philosopher and educator"
  url:            "http://www.keithbuhler.com"
- baseurl:        "/blog"
+ baseurl:        
+
+# the baseurl makes "/blog" the default base instead of "/" which is "keithbuhler.com". Good to know, good to know.
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
