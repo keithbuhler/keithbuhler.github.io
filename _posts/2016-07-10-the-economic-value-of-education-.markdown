@@ -6,8 +6,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-# [The Economic Value of Education](/economic-value-of-education)
-
 I know Bernie Sanders is, like, done for as a presidential candidate. But the Bern isn't going away anytime soon. Bernie is like the Left's Ron Paul. He ran on a message. He didn't win; he was never going to win. (Ron Paul was even further from winning, but the point remains). He won a few states; he won many hearts and minds.  
 
 One of Bernie's best ads was a [story of a guy who turned his life around.](http://www.mangofeed.com/bernie-sanders-new-cali-ad/) It's a moving ad because the guy is authentic, he has a tragicomic story, and it's got a happy ending. The Bernie endorsement comes as a sort of afterthought. 
