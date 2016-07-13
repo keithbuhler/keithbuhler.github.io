@@ -33,31 +33,40 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: Thoughtful dialogue on timeless wisdom and current events.</p>
 
 <br>
+<br>
 
 <p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="left"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
 
 <br>
-
-<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="center" width="256"> </a> </p><p>Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
-
 <br>
 
-<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j"> <img src="/img/alvin-plantinga.jpg" width="256" height="256" align="center"></a></p><p>  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
+<p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/img/fun-lewis.jpg" align="left" width="256"> </a> </p><p align="right">Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
 
 <br>
-
-<p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/img/fun-sola.jpg" align="center"></a> </p><p>Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
-
 <br>
 
-<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="center">  </a></p><p> How to lead a discussion (video)</p>
-
-<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="/img/newton.jpg" align="center" width="">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+<p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j"> <img src="/img/alvin-plantinga.jpg" width="256" height="256" align="left"></a></p><p align="right">  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
 
 <br>
+<br>
 
-<p><a id="art" target="_blank" href="http://www.keithbuhler.com/fun-portal/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
+<p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/img/fun-sola.jpg" align="left"></a> </p><p align="right">Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
+
+<br>
+<br>
+
+
+<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="left">  </a></p><p align="right"> How to lead a discussion (video)</p>
+
+<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="/img/newton.jpg" align="left">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+
+<br>
+<br>
+
+<p><a id="art" target="_blank" href="http://www.keithbuhler.com/fun-portal/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="left">  </a></p><p align="right"> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
+
+<br>
 
 ## More Fun Things
 
@@ -68,5 +77,5 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
-* [For philosophy students](/philosophy)
-* [For academics](/)
+* [Site for or philosophy students](/philosophy)
+* [Professional site For academics](/)
