@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Critical Reading Instructions
-permalink: /critical-reading
+permalink: http://keithbuhler.com/critical-reading
 ---
 
 
