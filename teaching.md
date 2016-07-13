@@ -20,8 +20,8 @@ My goal in teaching is to build an immersive environment of philosophical thinki
 F2016 Business Ethics ([Syllabus](/syllabus334))  
 F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
 S2016 Philosophy of Religion    
-S2016 Wisdom and Virtue  ([Syllabus](/syllabus S2015 293 wisdom))   
-S2016 Health Care Ethics ([Syllabus](/syllabus S2016 305 health care))    
+S2016 Wisdom and Virtue  ([Syllabus](/syllabus-S2016-293-wisdom))   
+S2016 Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))    
 F2015 Health Care Ethics          
 S2015 Introduction to Philosophy ([Syllabus](/syllabus200))   
 F2014 Introduction to Philosophy   

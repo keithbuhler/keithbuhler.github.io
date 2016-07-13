@@ -8,7 +8,7 @@ permalink: /syllabus-S2016-305-health-care
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: keith_buhler  
+**Twitter**: @keith_buhler  
 **Office Hours**: Wed 11am-12pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
