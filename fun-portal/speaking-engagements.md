@@ -1,6 +1,7 @@
 ---
 layout: fun
 title: Speaking Engagements
+permalink: /speaking-engagements
 ---
 
 ### Need to invite a speaker?  ###

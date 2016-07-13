@@ -2,6 +2,8 @@
 layout: fun
 type: posts
 title: Star Wars
+permalink: /star-wars
+
 ---
 
 # Star Wars

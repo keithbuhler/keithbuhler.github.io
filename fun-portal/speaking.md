@@ -1,7 +1,7 @@
 ---
 layout: fun
 title: Speaking
-
+permalink: /speaking
 ---
 
 ## Speeches

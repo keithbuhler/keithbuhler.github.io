@@ -54,7 +54,7 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 
 <br>
 
-<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
+<p><a id="art" target="_blank" href="http://www.keithbuhler.com/fun-portal/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="center">  </a></p><p> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
 
 ## More Fun Things

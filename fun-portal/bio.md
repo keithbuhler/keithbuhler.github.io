@@ -1,6 +1,7 @@
 ---
 layout: fun
 title: bio
+permalink: /bio
 ---
 
 # Bio #

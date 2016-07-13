@@ -1,7 +1,7 @@
 ---
 layout: fun
 title: meditation
-
+permalink: /meditation
 --- 
 
 # Meditation #

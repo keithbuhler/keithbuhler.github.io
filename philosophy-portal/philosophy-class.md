@@ -68,7 +68,7 @@ So, to succeed, you need to learn how to do each of these activities. The more y
 ## (D) How Do I Get Better at Writing Philosophy Papers? ####
 * Learn to [argue well.](/logic)
 * Writing a paper is an exercising in clear thinking. You must think first, write second. 
-* For my classes, the [disputation](/disputation) format works well. Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide goood arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
+* For my classes, the [disputation](/disputations) format works well. Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide goood arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
 * In general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1) Philosophy papers advance a thesis. Like a disputation, they are clear, rigorous, and address objections or counter-arguments. Unlike a disputation, however, they have an introduction, a conclusion, and no section flags. 
 
 

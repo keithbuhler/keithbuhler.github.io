@@ -1,9 +1,20 @@
 ---
 layout: philosophy
 title: Disputations
+permalink: /disputations
 ---
 
-# How to write a disputation
+#### [(pdf version)](/philosophy-portal/disputations.pdf)
+
+[Keith Buhler](http://keithbuhler.github.io)  
+Department of Philosophy  
+University of Kentucky  
+keith.buhler@uky.edu  
+http://www.keithbuhler.com  
+
+----
+
+### How to write a disputation
 
 Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide goood arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
 

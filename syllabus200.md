@@ -1,5 +1,6 @@
 ---
 layout: philosophy
+permalink: /syllabus200
 ---
 
 ### [Fall 2016 Syllabus](/syllabus200.pdf)
