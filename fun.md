@@ -1,9 +1,6 @@
 ---
-layout: splash
+layout: archive
 title: Fun Stuff Home
-header:
-  image: https://static.pexels.com/photos/119404/pexels-photo-119404-large.jpeg
-
 ---
 
 
