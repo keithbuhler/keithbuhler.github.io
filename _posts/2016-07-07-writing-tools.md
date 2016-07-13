@@ -1,5 +1,5 @@
 ---
-title: Tools for Writing, Formatting, and Presenting
+title: Drive, Scrivener, and Markdown -- Tools for Writing
 layout: single
 comments: true
 permalink: /writing-tools
