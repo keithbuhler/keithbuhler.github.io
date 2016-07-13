@@ -1,6 +1,8 @@
 ---
 layout: philosophy
 title: how to get a phd in philosophy
+permalink: /phd-how-to
+comments: true
 --- 
 
 [Another page explains my research.](/phd) This post gives some advice on each stage of the process. 
@@ -9,7 +11,7 @@ title: how to get a phd in philosophy
 
 In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten married in 2010. I was finishing an M.A. in theology. I was working as a high school teacher and she was the admissions department at a new college. I knew for five years I wanted to pursue further graduate training, but now the timing was right.
 
-We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my top choice because I wanted to work with David Bradshaw, but the choice was easy. Claremont and University of Chicago offered no funding, no tuition; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. I accepted the offer. 
+We applied to 14 schools. I got 10 rejections, and 4 acceptances (U. Chicago, U. Dallas, U. Kentucky, Claremont). U.K. was my top choice because I wanted to work with David Bradshaw, so the choice was easy. Plus, Claremont and University of Chicago offered no funding, no tuition; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. I accepted the offer. 
 
 ## Do you want to go to graduate school?
 

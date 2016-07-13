@@ -1,6 +1,8 @@
 ---
 title: site info
 layout: default-buhler
+permalink: /siteinfo
+
 ---
 
 ### Site 
