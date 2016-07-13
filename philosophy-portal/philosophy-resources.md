@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Philosophy Resources
+permalink: /philosophy-resources
 ---
 
 Philosophy is a massive repository of various disciplines, thoughts, questions, arguments, stories, in various languages, cultures, times, and places across the earth. 

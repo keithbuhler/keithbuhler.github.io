@@ -1,7 +1,6 @@
 ---
 title: Contact
 layout: default-buhler
-permalink: http://keithbuhler.com/contact.html
 ---
 
 # Contact

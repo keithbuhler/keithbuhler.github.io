@@ -2,8 +2,11 @@
 layout: philosophy
 title: Logic 101
 author: Keith Buhler
+permalink: /logic
 
 ---
+
+[(pdf version)](/philosophy-portal/logic.pdf)
 
 |                              | 
 |------------------------------|-----------------------------------------|

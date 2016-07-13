@@ -1,7 +1,6 @@
 ---
 title: site info
 layout: default-buhler
-permalink: http://keithbuhler.com/siteinfo.html
 ---
 
 ### Site 

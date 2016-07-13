@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Philosophy In Class
+permalink: /philosophy-class
 --- 
 
 

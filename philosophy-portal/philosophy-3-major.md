@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Should I consider a philosophy major/minor?
+permalink: /philosophy-3-major
 ---
 
 [Keith Buhler](http://keithbuhler.github.io)  

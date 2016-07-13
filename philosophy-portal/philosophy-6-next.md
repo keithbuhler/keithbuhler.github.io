@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Class is Over Next Steps
+permalink: /philosophy-6-next
 --- 
 
 # Class is Over; what's next? 

@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Plagiarism
-
+permalink: /plagiarism
 ---
 
 Plagiarism and Academic Integrity

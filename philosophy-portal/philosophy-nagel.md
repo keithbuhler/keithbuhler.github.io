@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Nagel
+permalink: /philosophy-nagel
 ---
 
 

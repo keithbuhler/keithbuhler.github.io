@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Professional Philosophy
+permalink: /philosophy-7-profession
 --- 
 
 # Professional Philosophy

@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: how to get a phd in philosophy
+permalink: /phd-how-to
 --- 
 
 [Another page explains my research.](/phd) This post gives some advice on each stage of the process. 

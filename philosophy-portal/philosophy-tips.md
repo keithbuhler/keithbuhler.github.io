@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Philosophy Tips
+permalink: /philosophy-tips
 ---
 
 # Tips on Philosophy
