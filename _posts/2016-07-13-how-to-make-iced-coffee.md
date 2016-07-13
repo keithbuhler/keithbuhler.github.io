@@ -3,6 +3,7 @@ title: How to make Iced Coffee
 layout: single
 tags: [comedy, humor]
 author_profile: true
+excerpt: It's summertime now, so caffiene addicts like myself sometimes don't want a steamy cup of joe. We'd rather enjoy a cool, refreshing glass of iced coffee. I've been perfecting my iced coffee recipe now for more than 15 ~~years~~ minutes now. I'll pass it along to you. 
 
 ---
 
