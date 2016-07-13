@@ -18,4 +18,4 @@ title: Disambiguation
 * [Buhler Industries, Canadian farm equipment company](https://en.wikipedia.org/wiki/Buhler_Industries)
 * [Bühler Motor, German car company](https://en.wikipedia.org/wiki/B%C3%BChler_Motor) 
 
-[^1]: This site is tongue-in-cheek.
+[^1]: Yes, this page is tongue-in-cheek.
