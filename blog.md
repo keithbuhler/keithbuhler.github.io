@@ -4,7 +4,7 @@ title: THE BUHLER REPORT
 tags: [philosophy, science, fun, politics]
 author_profile: true
 header:
-  img: pexels-greek.jpg
+  image: https://keithbuhler.com/img/pexels-greek.jpg
 
 
 ---
