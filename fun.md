@@ -2,35 +2,22 @@
 layout: splash
 title: Fun Stuff Home
 header:
-  image: spiral.png
-author_profile: true
+  image: /img/spiral.png
+
 ---
 
 
 # Fun Stuff 
 
-<img src="/img/midair-small.jpg" alt="Mid-air" align="right" hspace="5"> 
+<img src="/img/midair-small.jpg" alt="Mid-air" align="left" hspace="20"> 
 
 Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [educator](/teaching) speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) during the 9-5. This site is a sandbox for developing an ecclectic set of projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Projects
-
+----
 
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="center"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless wisdom and current events.</p>
 
 <br>
-### Projects
 
 <p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="center"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
 
@@ -50,7 +37,7 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="center">  </a></p><p> How to lead a discussion (video)</p>
 
-<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="http://mrnussbaum.com/images/isaac_newton.jpg" width="256" height="286" align="center" width="">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="http://mrnussbaum.com/images/isaac_newton.jpg" width="50" height="60" align="center" width="">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
 
 <br>
 
@@ -66,5 +53,5 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 * [Writings](/writings): Fiction, screenplays, verse, and satire. 
 * [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
 * Classical Education Resources -- coming soon
-* [keithbuhler.com/philosophy (site for my philosophy students)](/philosophy)
-* [keithbuhler.com (professional site)](/)
+* [For philosophy students](/philosophy)
+* [For academics](/)

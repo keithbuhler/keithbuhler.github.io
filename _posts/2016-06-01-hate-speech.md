@@ -7,7 +7,6 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-# Hate Speech - Moral Crime or Orwellian Code?
 
 The EU wants to crack down on online terrorism. Great! But their new code is the wrong way about it. Here's five reasons why should you reject [Facebook/YouTube/Twitter/EU's new Orwellian speech restrictions?](http://abcnews.go.com/topics/business/european-union.htm) 
 

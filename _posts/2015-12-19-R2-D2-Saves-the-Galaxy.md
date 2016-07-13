@@ -5,8 +5,6 @@ tags: culture, star wars
 excerpt_separator: <!--more-->
 ---
 
-# 17 Times R2D2 Saves the universe (updated for Ep. 7)
-
 **Episode I**
 
 * When he fixes the shield of the royal starship of the woman whose children will save the galaxy. 

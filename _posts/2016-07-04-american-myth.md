@@ -7,8 +7,6 @@ permalink: /american-myth-post
 excerpt_separator: <!--more-->
 ---
 
-## Still in the Shining Sea: An American Myth
-
 Here's a short story I wrote some years ago for the Fourth of July. It is a fictional dialogue between a history teacher (father) and student (son) on what makes America... American. 
 
 With all the quotations from American poetry and politics, it's a bit of a history lesson in itself. Plus, I think, it has a little interesting Platonic plot to it that makes it an American Myth in itself. It's called ["Still in the Shining Sea"](/american-myth)

@@ -7,8 +7,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-# Is Beauty Objective?
-
 If you are like most people alive today, you believe ‘beauty is in the eye of the beholder.’ This is what I was taught. 
 
 No one ever told me that (in view of history) beauty subjectivists are the sad minority. Most thinking people in most places at most times have believed in the three great ‘transcendentals:’ goodness, truth, and beauty. Most thinking people in most places at most times (especially in the West) have believed that beauty was one of those objective realities “out there,” that can be discovered, toyed with, hated, loved, or otherwise disregarded, but cannot be denied.

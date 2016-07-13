@@ -5,8 +5,6 @@ tags: politics, philosophy, news
 excerpt_separator: <!--more-->
 ---
 
-# How We See Your Candidate -- Empathy Building Chart
-
 You may know someone who supports a candidate you dislike. You may know someone who supports a candidate you can't imagine any sane person supporting. This chart helps to explain, as sympathetically as possible, what supporters see in their candidate.
 
 <img src="/img/How We See Them Top 4 Presidential Candidates.png" alt="How We See the Top 4 Presidential Candidates 2016" align="Center" width="80%" hspace="5">

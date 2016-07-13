@@ -8,8 +8,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-# How to read the news
-
 ![Out Group](/img/out-group.jpg)
 
 Are you getting just one side of the story? 
