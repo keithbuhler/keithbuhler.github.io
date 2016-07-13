@@ -11,6 +11,8 @@ permalink: /virtue
 
 ## Overview ##
 
+Virtue ethics is at least three things: a thriving research program in contemporary analytic philosophy (critiquing and defending neo-Aristotelian, neo-Kantian, and neo-Humean virtue theories); a thriving research program in the history of philosophy (discovering fresh readings of Confucious, the Stoics, and even Nietzsche) -- and a dynamic system of concepts finding their way into applied sciences (such as medicine) and social sciences (such as sociology, psychology, and political science). This confluence of activity makes virtue ethics broadly construed one of the most dynamic and exciting areas of academic inquiry today. 
+
 ### Wisdom ###
 
 Philosophy is the pursuit of wisdom. Some acquire it. Some do not. 
@@ -53,9 +55,11 @@ The Greek *eudaimonia* is a total human flourishing. Like a bee buzzing in the h
 Happiness is the *natural* human end. It is, if you like, encoded in our DNA. It is the basis of human culture and civilization, from the far distant southern tribes of Australia and Africa to the cold and persistent northern tribes of Alaska and Iceland. 
 
 ### One or many? ###
+
 Happiness is not a unitary possession. As Wendell Barry says of health, I say of happiness: the smallest unit is the community. There is no such thing as the happy loner. Yet happiness when it comes to dwell among a community as a whole comes to dwell within each man as an individual. There is, in the happy city, no distinction between your good and my good; only a distinction between you and me -- but it is *our* good. Hence the traditional dichotomy underlying the problems that so plague Kantian and consequentialist thinkers like Peter Singer is disolved. The pursuit of wisdom is not "selfish" nor "altruistic." It is, simply, desirable. It is recommended. It is *the thing to do*. 
 
 ### My view and objections
+
 My view can be dispatched in a few words. After laying out my contemoprary expression of what is more or less a traditional picture of human life in context of nature, I proceed to the interesting bits: objections. 
 
 For various reasons -- some historical, some sociological -- many are simply unaware of the many charms and overwhelming plausibility of the truth of the view to which I ascribe. Mere confrontation with the view should challenge all and persuade some. 
