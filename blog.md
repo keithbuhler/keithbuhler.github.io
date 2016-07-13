@@ -3,8 +3,9 @@ layout: splash
 title: THE BUHLER REPORT
 tags: [philosophy, science, fun, politics]
 author_profile: true
+comments: true
 header:
-  image: https://static.pexels.com/photos/31838/pexels-photo-large.jpg
+  image: blog-header.jpg
 
 
 ---
