@@ -51,7 +51,7 @@ header:
 
 ## About Buhler
 
-Welcome! I'm a husband and father 24/7. During the 9-5 I'm a [philosopher](/) and classical [educator,](/teaching) and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site is under development. The eventual goal is to host an ecclectic set of projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
+Thanks for visiting. I'm a [philosopher,](/) classical [educator,](/teaching) and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site (which is in development) hosts ecclectic projects I hope will help you on your journey by enlightening and entertaining. Browse, leave a comment, or send me a note. Thanks for visiting.
 
 
 ## New stuff

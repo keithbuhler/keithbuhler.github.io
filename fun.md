@@ -30,7 +30,7 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 <br>
 <hr>
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: Thoughtful dialogue on timeless wisdom and current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Thoughtful dialogue. Timeless wisdom. Current events.</p>
 
 <br>
 <br>
@@ -59,13 +59,15 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="left">  </a></p><p align="right"> How to lead a discussion (video)</p>
 
-<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="/img/newton.jpg" align="left">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="/img/newton.jpg" width="200" height="200" align="left">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
 
 <br>
 <br>
 
 <p><a id="art" target="_blank" href="http://www.keithbuhler.com/fun-portal/art"> <img src="http://keithbuhler.com/img/fun-wither-small.jpg" width="256" height="240" align="left">  </a></p><p align="right"> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
+<br>
+<br>
 <br>
 
 ## More Fun Things
