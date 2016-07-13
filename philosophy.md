@@ -25,9 +25,9 @@ At the same time, philosopy study can be difficult. You will get out what you pu
 - If it's available, review your course [syllabus.](/teaching)
 - Read more about the benefits of studying philosophy. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and find answers to life's deepest questions. 
 
-2. If you are in my class and the **semester has started**, [click here.](/philosophy-class)
-3. If you just **finished my class**, [click here.](/philosophy-6-next)
-4. If you kinda liked philosophy, and are wondering what's wrong with you, [click here.]((/philosophy-6-next))
+2. If you are in my class and the **semester has started**, [click here for tips on how to succeed.](/philosophy-class)
+3. If you just **finished my class**, [click here to discover what's next.](/philosophy-6-next)
+4. If you kinda liked philosophy, and are wondering what's wrong with you, [click here to consider taking more classes and maybe even a major.](/philosophy-6-next)
 5. If you want to talk about something else: 
       - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
       - Check out some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
