@@ -44,7 +44,7 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/img/fun-discussion.jpg" align="center">  </a></p><p> How to lead a discussion (video)</p>
 
-<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="http://mrnussbaum.com/images/isaac_newton.jpg" width="50" height="60" align="center" width="">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
+<p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="/img/newton.jpg" align="center" width="">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
 
 <br>
 
