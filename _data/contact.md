@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: default-buhler
+permalink: /contact
 ---
 
 # Contact
