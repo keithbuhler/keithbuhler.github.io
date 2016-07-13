@@ -9,8 +9,6 @@ excerpt_separator: <!--more-->
 
 ![CS Lewis](https://i.imgflip.com/16ey9n.jpg)
 
-# C.S. Lewis Influence Survey
-
 When discussing C. S. Lewis one day, I realized I have only anecdotal information on his influence.  
 
 I wonder: How many Christians became or remained Christians, in part, because of C. S. Lewis? And what do they think is the source of his enduring influence? Internet Infidels devotes some space to Lewis take downs (*Miracles, Abolition of Man, Mere Christianity,* and others), but how many non-Christians read Lewis? And how are they affected, if at all?
