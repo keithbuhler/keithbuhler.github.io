@@ -13,7 +13,7 @@ header:
 
 <h1> THE BUHLER REPORT </h1>
 
-<i> To enlighten and entertain with timeless wisdom and current events.</i>
+<i> To enlighten and entertain. Timeless wisdom and current events.</i>
 
 </center>
 
@@ -26,7 +26,6 @@ header:
     <h2> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <span class="time">{{ post.date | date: "%-d %B %Y" }}</span> 
     <div class="post-excerpt">{{ post.excerpt }}</div>
-
     <br>
     <br>
 </div>

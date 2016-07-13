@@ -19,14 +19,22 @@ Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [ed
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="center"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless wisdom and current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: Thoughtful dialogue on timeless wisdom and current events.</p>
 
 <br>
 
-<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="center"> </a>  </p><p>Reading Intentionally: A self-help program designed for reading more books. </p>
+<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/img/fun-books.jpg" alt="books" align="left"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
 
 <br>
 

@@ -37,17 +37,17 @@ social:
 
 
 # Site author
-author: 
-  name:           "Keith Buhler"
-  avatar:         "keithbuhlerface.jpg"
-  bio:            "Philosopher, classical educator, writer, husband, and father."
-  location:       "Wilmore, KY"
-  email:          "keithbuhler@gmail.com"
-  twitter:        "https://twitter.com/Keith_Buhler"
-  facebook:       "https://www.facebook.com/keithedbuhler"
-  github:         "https://github.com/keithbuhler/"
-  google_plus:    "https://plus.google.com/u/0/102602916593522619858"
-  youtube:        "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
+  author:  
+    name:           "Keith Buhler"
+    avatar:         "keithbuhlerface.jpg"
+    bio:            "Philosopher, classical educator, writer, husband, and father."
+    location:       "Wilmore, KY"
+    email:          "keithbuhler@gmail.com"
+    twitter:        "https://twitter.com/Keith_Buhler"
+    facebook:       "https://www.facebook.com/keithedbuhler"
+    github:         "https://github.com/keithbuhler/"
+    google_plus:    "https://plus.google.com/u/0/102602916593522619858"
+    youtube:        "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
   
 # Timezone
 timezone:     America/New_York   
