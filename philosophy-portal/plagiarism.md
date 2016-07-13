@@ -4,7 +4,7 @@ title: Plagiarism
 permalink: /plagiarism
 ---
 
-Plagiarism and Academic Integrity
+# Plagiarism and Academic Integrity (Asbury)
 
 Integrity, as partially defined by the Student or Program Handbook on Community Life Expectations, is “both knowing the right thing to do and doing it regardless of the circumstances.” This definition may be applied to all of the scholastic interactions of the academic community. Every member of the community shares responsibility for maintaining mutual trust, respect, and integrity. Violations of such trust and specific acts of academic dishonesty will be subject to disciplinary action. 
 

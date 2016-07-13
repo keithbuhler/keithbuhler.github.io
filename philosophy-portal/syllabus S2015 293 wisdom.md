@@ -1,9 +1,10 @@
 ---
 layout: philosophy
-title: PHL 293 S2016 Syllabus
+title: Syllabus S2016 PHL 293 Syllabus
+permalink: /syllabus-S2016-293-wisdom
 ---
 
-## [Syllabus, Spring 2016](/syllabus S2015 293 wisdom.pdf)
+## [Syllabus, Spring 2016](/philosophy-portal/syllabus-S2015-293-wisdom.pdf)
 **PHL 293: Wisdom and Virtue**  
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)   

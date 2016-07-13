@@ -1,9 +1,10 @@
 ---
 layout: philosophy
 title: 305 Syllabus Spring 2016
+permalink: /syllabus-S2016-305-health-care
 ---
 
-**[305 Syllabus, Spring 2016](/syllabus S2016 305 health care.pdf)**
+**[305 Syllabus, Spring 2016](/philosophy-portal/syllabus-S2016-305-health-care.pdf)**
 **PHI 305 HealthCare Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  

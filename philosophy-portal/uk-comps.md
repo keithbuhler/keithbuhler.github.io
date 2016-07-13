@@ -1,7 +1,7 @@
 ---
 layout: fun
-title: comps
-
+title: UK comps
+permalink: /comps
 --- 
 
 ## Comprehensive Exams
