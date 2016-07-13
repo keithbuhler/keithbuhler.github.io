@@ -1,13 +1,13 @@
 ---
 title: The Economic Value of Education
-layout: default
+layout: single
 permalink: /economic-value-of-education
 excerpt_separator: <!--more-->
 author_profile: true
 
 ---
 
-<img src="http://i.onionstatic.com/onion/2921/8/original/1200.jpg">
+<img src="http://i.onionstatic.com/onion/2921/8/original/1200.jpg" width="800" height="450">
 
 # The Economic Value of Education
 

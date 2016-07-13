@@ -6,11 +6,21 @@ author_profile: true
 
 ---
 
+<center> 
+
+<h1> THE BUHLER REPORT. </h1>
+*Timeless wisdom and current events, to enlighten and entertain.*
+
+</center>
+
 {% for post in site.posts %}
 
 <div class="post">
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }}</a></h3>
+    
+    <li><span class="time">{{ post.date | date: "%Y-%m-%d" }}</span> 
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     <div class="post-excerpt">{{ post.excerpt }}</div>
+
     <br>
     <br>
 </div>
@@ -22,7 +32,7 @@ author_profile: true
 <br>
 <br>
 
-## Posts
+## All Posts by Date
 
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -35,7 +45,7 @@ author_profile: true
 
 ## About Buhler
 
-Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [educator](/teaching) speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) during the 9-5. This site is a sandbox for developing an ecclectic set of projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
+Welcome! I'm a husband and father 24/7. During the 9-5 I'm a [philosopher](/) and classical [educator,](/teaching) and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site is under development. The eventual goal is to host an ecclectic set of projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
 
 
 ## New stuff
