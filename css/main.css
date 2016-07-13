@@ -33,7 +33,7 @@ header.site-header.wrap {
 .site-title,.site-title:visited {
   display: inline;
   padding: 15px;
-  color: white;
+  color: #ffffff;
   text-align: center;
 
 }
@@ -44,7 +44,7 @@ header.site-header.wrap {
     display: inline;
     float: right;
     padding: 0 0.5em;
-    color: #333;
+    color: #ffffff;
 }
 
 .site-nav .trigger a{  display: block;
