@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Critical Reading Instructions
+permalink: /critical-reading
 ---
 
 
