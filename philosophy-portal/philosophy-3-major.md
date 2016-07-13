@@ -4,6 +4,8 @@ title: Should I consider a philosophy major/minor?
 permalink: /philosophy-3-major
 ---
 
+#### [(pdf version)](/philosophy-portal/philosophy-3-major.pdf)
+
 [Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  
 University of Kentucky  
@@ -12,7 +14,6 @@ http://www.keithbuhler.com
 
 ----
 
-#### [(pdf version)](/philosophy-3-major.pdf)
 
 ### [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
 

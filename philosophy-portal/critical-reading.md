@@ -1,13 +1,20 @@
 ---
 layout: philosophy
 title: Critical Reading Instructions
-permalink: http://keithbuhler.com/critical-reading
+permalink: /critical-reading
 ---
 
+#### [(pdf version)](/philosophy-portal/critical-reading.pdf)
 
-# Critical Reading Instructions 
+[Keith Buhler](http://keithbuhler.github.io)  
+Department of Philosophy  
+University of Kentucky  
+keith.buhler@uky.edu  
+http://www.keithbuhler.com  
 
-## Introduction
+----
+
+### Critical Reading Instructions 
 
 You or your assigned group will do two "critical reading" assignments. The purpose of this assignment is threefold: 
 

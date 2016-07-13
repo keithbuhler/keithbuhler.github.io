@@ -6,22 +6,25 @@ permalink: /logic
 
 ---
 
-[(pdf version)](/philosophy-portal/logic.pdf)
+#### [(pdf version)](/philosophy-portal/logic.pdf)
 
-|                              | 
-|------------------------------|-----------------------------------------|
-| University of Kentucky       |                              |
-| Department of Philosophy     | 562.230.2920                            |
-| 1415 Patterson Office Tower, Lexington, KY 40506        | 305 Woodspointe Way, Wilmore, KY, 40390 |
-| [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu) | keithedbuhler@gmail.com
+[Keith Buhler](http://keithbuhler.github.io)   
+Department of Philosophy   
+University of Kentucky  
+keith.buhler@uky.edu    
+http://www.keithbuhler.com    
 
+----
 
 
 ### Logic 101
 
-*This presentation is a mash-up of material from Peter Kreeft and others, with some original material.*
+*NB: This presentation is a mash-up of material from Peter Kreeft and others, with some original material. For the sake of simplicity and flow, the copied or cited material is not always noted.* 
+
+
 
 ## Structure of a Proof
+The first thing to understand about logic is what a proof is made out of. What are its moving parts, its skeleton, its heart and soul? Answer, premise and conclusion.
 
 ### Premise and Conclusion
 Every argument has two basic parts: the premises and the conclusion.  The conclusion is the truth claim. (For example: "Obama is the 44th president" can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: "Obama won the presidential election" and "there were 43 U.S. Presidents before 2004.")
