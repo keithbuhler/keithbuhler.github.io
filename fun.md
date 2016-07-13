@@ -2,7 +2,7 @@
 layout: splash
 title: Fun Stuff Home
 header:
-  image: /img/spiral.png
+  image: https://static.pexels.com/photos/119404/pexels-photo-119404-large.jpeg
 
 ---
 
