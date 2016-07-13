@@ -1,17 +1,26 @@
 ---
-layout: archive
+layout: splash
 title: Fun Stuff Home
+header:
+  image: https://static.pexels.com/photos/119404/pexels-photo-119404-large.jpeg
 
 ---
 
-
-# Fun Stuff 
 
 <img src="/img/midair-small.jpg" alt="Mid-air" align="left" hspace="20"> 
 
 Welcome! I'm a husband and father 24/7, and a [philosopher](/) and classical [educator](/teaching) speaker, and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) during the 9-5. This site is a sandbox for developing an ecclectic set of projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
 
-----
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<hr>
 
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="center"> </a></p><p> The Buhler Report: Thoughtful dialogue on timeless wisdom and current events.</p>
 
