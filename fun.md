@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: Fun Stuff Home
+
 ---
 
 
