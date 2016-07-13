@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-# Tools for Writing, Formatting, and Presenting
+<img src="https://static.pexels.com/photos/157/person-apple-laptop-notebook-medium.jpg">
 
 As an academic and a writer, I enjoy exploring new software and workflow processes. 
 

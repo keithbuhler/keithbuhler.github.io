@@ -5,6 +5,8 @@ tags: [comedy, humor]
 
 ---
 
+<img src="https://static.pexels.com/photos/6347/coffee-cup-working-happy-medium.jpg">
+
 It's summertime now, so caffiene addicts like myself sometimes don't want a steamy cup of joe. We'd rather enjoy a cool, refreshing glass of iced coffee. 
 
 Why not make your own? Starbucks be darned. 
@@ -23,3 +25,4 @@ I've been perfecting my iced coffee recipe for more than 15 minutes now and I'll
 13. Drink the hot coffee.
 
 Enjoy!
+

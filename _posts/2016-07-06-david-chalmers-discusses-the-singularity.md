@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 
 ---
 
+<img src="http://www.audiotech.com/trends-magazine/wp-content/themes/Trends/timthumb.php?src=http://www.audiotech.com/trends-magazine/images/articles/2011/03/02.jpg&h=300&w=565&zc=1&q=90">
 
 # David Chalmers Discusses the Singularity (h1)
 
