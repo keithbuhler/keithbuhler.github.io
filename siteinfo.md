@@ -9,7 +9,7 @@ Everything you see here was created by Keith Buhler. I hope you enjoy the site a
 
 Everything was written in a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax">Markdown). The Markdown coded files are converted automatically to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) That HTML is stored on my harddrive and also synced to open source programming community called [Github,](http://www.github.com) which hosts websites for free. 
 
-Philosopher and programming Sith Lord [Dan Sheffler](http://www.dansheffler.com) gave me the idea, the instructions, and (in some instances) the code to get started creating my own site. I started with Dan Sheffler's site design and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/).
+Philosopher and programming Sith Lord [Dan Sheffler](http://www.dansheffler.com) gave me the idea, the instructions, and (in some instances) the code to get started creating my own site. For the philosophy stie, I started with Dan Sheffler's site design and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/). For my blog and personal site, I started with <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 
 To make your own similar website, if you have zero programming knowledge, will take some work. But you can do it. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
 

@@ -11,9 +11,9 @@ title: Disambiguation
 
 *Buhler, Buehler, or Bühler may refer to:*
 
-* [Keith Buhler, California-based musician](https://soundcloud.com/keithbuhler)
+* [A California-based EDM musician](https://www.facebook.com/keithbuhler)
 * [Buhler, Kansas](https://en.wikipedia.org/wiki/Buhler,_Kansas)
-* [Buehler's grocery, Ohio.](https://en.wikipedia.org/wiki/Buehler_Food_Markets_Inc.)
+* [Buehler Foods, an Ohio grocery store](https://en.wikipedia.org/wiki/Buehler_Food_Markets_Inc.)
 * [Buhler Group, Swiss tech company](https://en.wikipedia.org/wiki/Buhler_Group)
 * [Buhler Industries, Canadian farm equipment company](https://en.wikipedia.org/wiki/Buhler_Industries)
 * [Bühler Motor, German car company](https://en.wikipedia.org/wiki/B%C3%BChler_Motor) 
