@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-The EU wants to crack down on online terrorism. Great! But their new code is the wrong way about it. Here's five reasons why should you reject [Facebook/YouTube/Twitter/EU's new Orwellian speech restrictions?](http://abcnews.go.com/topics/business/european-union.htm) 
+The EU wants to crack down on online terrorism. Great! But their new code is the wrong way about it. Here's five reasons why should you reject [Facebook/YouTube/Twitter/EU's new Orwellian speech restrictions.](http://abcnews.go.com/topics/business/european-union.htm) 
 
 
 1. Hate speech is not a thing. 
