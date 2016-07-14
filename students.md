@@ -1,7 +1,7 @@
 ---
 layout: default-buhler
 title: Student Portal
-cover_image: /img/morpheus.jpg
+cover_image: https://i.imgflip.com/16b9qw.jpg
 
 --- 
 
