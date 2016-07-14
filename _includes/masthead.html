@@ -15,13 +15,7 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          {% for link in site.data.navigation.keithbuhler %}
-          {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+           {% for link in site.data.navigation.keithbuhler %}
            {% endfor %}
            {% for link in site.data.navigation.philosophy %}
            {% endfor %}
