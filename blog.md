@@ -5,7 +5,7 @@ tags: [philosophy, science, fun, politics]
 author_profile: true
 comments: true
 header:
-  image: https://seanmunger.files.wordpress.com/2016/04/2001-space-odyssey-bedroom-model-by-jeremy-sternberg.jpg
+  image: blog-header-uk.jpg
 
 
 ---
