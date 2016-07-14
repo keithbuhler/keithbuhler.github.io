@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-![Out Group](/img/out-group.jpg)
+![Out Group](/images/out-group.jpg)
 
 Are you getting just one side of the story? 
 

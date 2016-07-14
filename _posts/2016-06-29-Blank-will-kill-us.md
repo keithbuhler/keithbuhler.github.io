@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 If you are feeling worried about the Zika Virus, get some perspective, and then don't worry. 
 
-![XKCD](/img/xkcd blank will kill us.jpg)
+![XKCD](/images/xkcd blank will kill us.jpg)
 
 <!--more-->
 

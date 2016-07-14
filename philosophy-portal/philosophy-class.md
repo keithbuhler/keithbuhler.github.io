@@ -16,7 +16,7 @@ The only obstacle to project-based learning is this: Thinking is hard. Every phi
 
 So don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
 
-![Dory](/img/dory.jpg)
+![Dory](/images/dory.jpg)
 
 
 ## What do we DO?
@@ -47,7 +47,7 @@ So, to succeed, you need to learn how to do each of these activities. The more y
 ## (C) How Do I Get Better at [Discussion?](/discussion101)
 
 <a target="_blank" href="http://www.rinkworks.com/persuasive/">
-  <img src="/img/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" width="50%">
+  <img src="/images/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" width="50%">
 </a>
 
 * Learn to make valid arguments. 

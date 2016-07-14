@@ -13,7 +13,7 @@ No one ever told me that (in view of history) beauty subjectivists are the sad m
 
 <!--more-->
 
-![Peters](/img/peters1small.png)
+![Peters](/images/peters1small.png)
 
 Studying the luminous works of Jonathan Edwards with my high school students this week, I am again revisiting this most important of questions. 
 

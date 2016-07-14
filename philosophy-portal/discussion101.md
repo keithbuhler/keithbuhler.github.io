@@ -4,7 +4,7 @@ title: Discussion 101
 permalink: /discussion101
 ---
 
-[(pdf version)](/philosophy-portal/discussion101.pdf)
+#### [(pdf version)](/philosophy-portal/discussion101.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  

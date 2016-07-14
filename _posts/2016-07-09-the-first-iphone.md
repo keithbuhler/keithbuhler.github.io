@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-![iphone](/img/first-iphone.jpg)
+![iphone](/images/first-iphone.jpg)
 
 Did you know? -- Mr. Clever invented the first iPhone. It's a clock that tells time and does other clever things. 
 

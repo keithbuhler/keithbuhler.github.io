@@ -6,7 +6,7 @@ permalink: /virtue
 --- 
 
 
-<img src="/img/keithbuhler-golden.png" alt="Keith" align="left" hspace="20">
+<img src="/images/keithbuhler-golden.png" alt="Keith" align="left" hspace="20">
 
 
 ## Overview ##
