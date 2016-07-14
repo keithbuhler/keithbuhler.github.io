@@ -13,7 +13,8 @@ header.site-header {
   left: 0px;
   right: 0px;
   bottom: 0px;
-  background: #b3ccff;
+  color: #ccc;
+  background: #ffffff;
   height: 3em;
   width: 800px;
   border-radius: 4px;
@@ -35,6 +36,7 @@ header.site-header.wrap {
   display: inline;
   padding: 15px;
   color: #ffffff;
+  font-size: 3em; 
   text-align: center;
 
 }
@@ -45,18 +47,18 @@ header.site-header.wrap {
     display: inline;
     float: right;
     padding: 0 0.5em;
-    color: #ffd699;
+    color: #ccc;
 }
 
 .site-nav .trigger a{  display: block;
-    color: white;
+    color: #ffd699;
     text-align: center;
     padding: 12px 14px;
     text-decoration: shadow; }
 
-.site-nav .trigger a:hover{ background-color: #ffd699;  color: white; }
+.site-nav .trigger a:hover{ background-color: #ffd699;  color: #ccc; }
 
-.site-title:hover{   color: #ffffff; }
+.site-title:hover{   color: #ffd699; }
 
 .site-title {  float: left;}
 
@@ -250,7 +252,6 @@ site-footer {
   height: 3em;
   width: 800px;
   border-radius: 4px;
-  background-color: #ffd699;
 }
 
 
