@@ -3,9 +3,9 @@ layout: default-buhler
 title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 
+### CURRICULUM VITAE
 #### [(PDF version here)](/Buhler-CV.pdf)
 
-### CURRICULUM VITAE
 Keith Buhler  
 Doctoral Candidate  
 Deptartment of Philosophy  

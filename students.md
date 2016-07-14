@@ -1,13 +1,13 @@
 ---
 layout: default-buhler
 title: Student Portal
+cover_image: /img/morpheus.jpg
+
 --- 
 
 # For Students 
 
 <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
-
-</center>
 
 Many people that take a philosophy class find it surprisingly interesting, depending on the professor, of course. (A bad professor can make Disneyland boring.) 
 
