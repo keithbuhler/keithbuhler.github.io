@@ -2,6 +2,9 @@
 layout: default-buhler
 title: Student Portal
 cover_image: https://i.imgflip.com/16b9qw.jpg
+header_text_color: "rbga(255, 255, 255, 1.0)"
+site_header_text_color: "rgba(105, 81, 62, 0.8)"
+site_header_border_color: "rgba(105, 81, 62, 0.5)"
 
 --- 
 

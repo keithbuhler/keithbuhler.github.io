@@ -22,10 +22,11 @@ header.site-header {
 
 header.site-header.wrap {
   max-width: 33em;
-  margin: 10px auto;
-  padding-top: 5px;
-  border-color: #cc6600;
-  border: 4px;
+  margin: 20px auto;
+  padding-top: 10px;
+  padding: 5px;
+  border-bottom: 4px;
+  border-color: #333;
 }
 
 
