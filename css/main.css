@@ -13,7 +13,7 @@ header.site-header {
   left: 0px;
   right: 0px;
   bottom: 0px;
-  background: #1D3D5A;
+  background: #b3ccff;
   height: 3em;
   width: 800px;
   border-radius: 4px;
@@ -45,7 +45,7 @@ header.site-header.wrap {
     display: inline;
     float: right;
     padding: 0 0.5em;
-    color: #cc6600;
+    color: #ffd699;
 }
 
 .site-nav .trigger a{  display: block;
@@ -54,7 +54,7 @@ header.site-header.wrap {
     padding: 12px 14px;
     text-decoration: shadow; }
 
-.site-nav .trigger a:hover{ background-color: #cc6600;  color: white; }
+.site-nav .trigger a:hover{ background-color: #ffd699;  color: white; }
 
 .site-title:hover{   color: #ffffff; }
 
@@ -166,7 +166,7 @@ max-width:800px;
 
 a{ color: #205caa; text-decoration:none;}
 a:visited{ color: #0645ad; }
-a:hover{ color: #cc6600; }
+a:hover{ color: #ffd699; }
 a:active{ color:#0645ad; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
@@ -250,7 +250,7 @@ site-footer {
   height: 3em;
   width: 800px;
   border-radius: 4px;
-  background-color: #cc6600;
+  background-color: #ffd699;
 }
 
 
@@ -442,7 +442,7 @@ header.site-header-philosophy {
 
 
 
-.site-title-philosophy:hover{   color: #cc6600; }
+.site-title-philosophy:hover{   color: #ffd699; }
 
 .site-title-philosophy {  float: left;}
 
