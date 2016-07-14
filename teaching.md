@@ -5,7 +5,7 @@ title: Teaching
 
 # Teaching 
 
-<img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 I have been teaching full time in universities or classical high schools for more than 8 years. 
 

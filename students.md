@@ -10,7 +10,7 @@ site_header_border_color: "rgba(105, 81, 62, 0.5)"
 
 # For Students 
 
-<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/img/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
+<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/images/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
 
 Many people that take a philosophy class find it surprisingly interesting, depending on the professor, of course. (A bad professor can make Disneyland boring.) 
 

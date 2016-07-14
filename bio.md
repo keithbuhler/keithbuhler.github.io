@@ -6,7 +6,7 @@ permalink: http://keithbuhler.com/bio
 
 # Bio #
 
-<img src="/img/dante3.jpg" alt="Dante showing italy" align="right" hspace="10">
+<img src="/images/dante3.jpg" alt="Dante showing italy" align="right" hspace="10">
 
 Thanks for reading. My quest in life is to become wise. I want to expose all rational and moral errors in myself by reflecting on my life and on the best the human race has to offer. Then I want to expose any such errors in my enemies and in my friends. 
 

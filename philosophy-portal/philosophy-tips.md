@@ -4,6 +4,8 @@ title: Philosophy Tips
 permalink: /philosophy-tips
 ---
 
+<img src="/images/beard-mechanics.jpg">
+
 # Tips on Philosophy
 
 The more you put in, the more you get out. To have a great experience in a philosophy class, you must work hard. You must work to read, understand, discuss, and write about the topics and texts. Here are some tips on each of these activities. 

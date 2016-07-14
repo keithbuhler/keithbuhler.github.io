@@ -3,7 +3,7 @@ layout: philosophy
 permalink: /syllabus334
 ---
 
-**[Business Ethics (PHI 334, Fall 2016 Syllabus)](/philosophy-portal/syllabus334.pdf)**  
+**[Business Ethics (PHI 334, Fall 2016 Syllabus)](/philosophy-portal/syllabus334.pdf)**   
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  

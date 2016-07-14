@@ -3,7 +3,6 @@ layout: default-buhler
 title: Teaching Statement
 ---
 
-
 [Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  
 University of Kentucky  
@@ -14,17 +13,13 @@ http://www.keithbuhler.com
 
 # Teaching Statement
 
-
 My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. To this end, I invite students to think about new ideas in new ways. Thinking philosophically is a risk; so I give students the space, the tools, and the inspiration they need to be motivated to take that risk. 
 
 In this statement, I first present my strategy for creating a healthy classroom culture. I then discuss strategies for teaching introductory and upper-division courses. Finally, I briefly highlight the success of these strategies. 
 
-
-
 ### Classroom culture
 
 After fifteen years of classroom teaching in high school and college, I've learned that the first day is a crucial time to set expectations. In my experience, creating a proper environment for such interest is a two-way activity: On my first day, I promise to make the course as enjoyable as possible, using humor, high energy, and a conversational atmosphere. In return, I ask students to take responsibility for their own learning. I explain to students that real philosophical dialogue is a challenge but express my optimism. My high expectations elicit high performance. Furthermore, by getting to know students and listening to them, I earn their respect. One student said: “He learned our names very quickly and took time to understand our points in discussion.” (PHI305, 2015)  
-
 
 
 ### Strategies

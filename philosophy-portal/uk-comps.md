@@ -6,7 +6,6 @@ permalink: /comps
 
 ## Comprehensive Exams
 
-
 ### READINGS
  
 #### 1. M&E Comprehensive Exams Readings  
@@ -17,7 +16,6 @@ permalink: /comps
 #### 2. Value Theory Comp Readings 
 * [VT Readings.googledoc](https://docs.google.com/document/d/1DRLqyCxqkVlqse_4mcMkFN8YIPeekcVceMMx1slJCmQ/edit#heading=h.rfi11po7i16i) (first draft, just Aquinas Russeau)
 * Please let me know if you can make a compendium of these readings.
- 
  
  
  

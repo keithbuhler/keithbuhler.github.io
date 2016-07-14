@@ -13,7 +13,6 @@ permalink: /syllabusfpa
 
 - [Plato, *Last Days of Socrates* (Euthyphro, Apology, Phaedo) ISBN: 0140449280](http://amzn.to/1NMMNB6)
 
-
 **Other texts provided online**
 
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)

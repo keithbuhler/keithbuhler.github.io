@@ -9,6 +9,8 @@ title: Disambiguation
 
 * [Ferris Bueller's Day Off (film)](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
 
+![Bueller](/image/buhler.jpg)
+
 *Buhler, Buehler, or Bühler may refer to:*
 
 * [A California-based EDM musician](https://www.facebook.com/keithbuhler)
