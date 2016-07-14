@@ -431,7 +431,7 @@ header.site-header-philosophy {
 .site-title-philosophy {  float: left;}
 
 
-.site-title-philosophy,.site-title:visited {
+.site-title-philosophy,.site-title-philosophy:visited {
   display: inline;
   padding: 15px;
   color: white;
@@ -458,83 +458,6 @@ header.site-header-philosophy {
 
 
 
-
-
-
-
-/* Blog Custom CSS */
-
-header.site-header-blog {
-  position: relative;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  background: white;
-  height: 3em;
-  border-radius: 0px;
-  font-size: 5em;
-  color: #ccc;
-  text-align: center;
-  width: 1000px;
-  vertical-align: middle;
-
-}
-
-
-
-header.site-header-blog.wrap {
-  max-width: 33em;
-  margin: 10px auto;
-  padding-top: 0px;
-  font-size: 5em;
-  vertical-align: middle;
-  text-align: center;
-  padding-top: 0px;
-}
-
-
-
-.site-title-blog:hover{   color: #ffffff; text-align: center; }
-
-.site-title-blog {  
-  font-size: 30px; 
-  color: #1D3D5A; 
-  border: 2px;
-  padding-top: 50px;
-}
-
-.site-title-blog,.site-title:visited {
-  display: inline;
-  padding: 10px;
-  color: #1D3D5A;
-}
-
-
-#content-wrapper-blog {
-margin:5em auto;
-max-width:1000px;
-align: center;
-vertical-align: middle;
-padding-top: 50px;
-}
-
-
-.site-nav-blog {display: inline;}
-
-.site-nav-blog .trigger {
-    display: inline;
-    float: right;
-    padding: 0 0.5em;
-    color: #333;
-}
-
-.site-nav-blog .trigger a{  display: block;
-    color: white;
-    padding: 12px 14px;
-    text-decoration: none; }
-
-.site-nav-blog .trigger a:hover{ background-color: #cc6600;  color: white; }
 
 /* just short circuiting settings */
 
