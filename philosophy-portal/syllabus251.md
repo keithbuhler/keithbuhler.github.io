@@ -3,7 +3,7 @@ layout: philosophy
 permalink: /syllabus251
 ---
 
-### [PHL 251—Philosophy of C. S. Lewis](/philosophy-portal/syllabus251.pdf)
+### [Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)](/philosophy-portal/syllabus251.pdf)
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: @keith\_buhler  

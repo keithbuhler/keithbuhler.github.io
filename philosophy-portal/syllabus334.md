@@ -3,7 +3,7 @@ layout: philosophy
 permalink: /syllabus334
 ---
 
-**[334 Syllabus, Fall 2016, PHI 334 Business Ethics](/philosophy-portal/syllabus334.pdf)**  
+**[Business Ethics (PHI 334, Fall 2016 Syllabus)](/philosophy-portal/syllabus334.pdf)**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  
@@ -11,10 +11,11 @@ permalink: /syllabus334
 **Office**: Patterson Office Tower, 14th floor.   
 
 
+#### Required Readings 
+[Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). Handouts are posted online: [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 
-**Required Readings:** [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). Handouts are posted online: [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
-
-**Course Description:** Some of the hardest decisions we make have to do with making money working in a business or running a business. As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come. 
+###Course Description
+Some of the hardest decisions we make have to do with making money working in a business or running a business. As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come. 
 
 Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable? 
 
@@ -26,7 +27,7 @@ Each of us belongs to a tradition and a community. Our goal is to understand our
 
 The bottom line is always to think hard about hard questions, to discard wrong answers and discover and prove right answers to these questions. The hard questions will revolve around business, wealth, justice, safety, information, incenvtives, globalization, etc. but may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
 
-**Course Goals:** 
+###Course Goals 
 
 * to understand business as part of life
 * to understand business as part of applied ethics, public policy, and as a sub-discipline of ethical philosophy
@@ -42,7 +43,8 @@ The bottom line is always to think hard about hard questions, to discard wrong a
 
 To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
 
-**Grading**: Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
+### Grading
+Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.
 
 
 |  Assessment category  |  Percent of semester grade |
@@ -54,10 +56,9 @@ To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks
 
 
 
+**Reading Tips**: Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips available online.
 
-**Reading Tips:** Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips available online.
-
-**Quizzes:**Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
+**Quizzes**:Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
 
 **Attendance**: We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
@@ -73,7 +74,7 @@ That said, I give everyone up to 3 "Personal absences". These 3 absences apply f
 8 = -14%
 9 = -50%
 
-**Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
+**Participation**: The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
 We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
 
@@ -84,14 +85,17 @@ Everyone starts at an 80% (B-) for the participation grade. You will move up or 
 To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal processors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
 
 
+**Critical Reading**: 
+Every student will present two group "critical readings." Your group of 2-3 people must meet ahead of time to read and discuss the assignment more thoroughly than your normal reading. You will then summarize the reading, analyze it, and present your own opinions. One or all of you will present your summary to the class. Instructions are posted online. 
 
-**Critical Reading**: Every student will present two group "critical readings." Your group of 2-3 people must meet ahead of time to read and discuss the assignment more thoroughly than your normal reading. You will then summarize the reading, analyze it, and present your own opinions. One or all of you will present your summary to the class. Instructions are posted online. 
+**Test**: 
+There is a Quarter 1 and Quarter 3 exams. The "Study Guide" with all the questions will be posted online. 
 
-**Tests:** There is a Quarter 1 and Quarter 3 exams. The "Study Guide" with all the questions will be posted online. 
+**Unit Papers**: 
+Every student will write about 5 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
 
-**Unit Papers:** Every student will write about 5 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
-
-**Extra Credit:** Those who opt for extra credit may do so. Instructions are posted online. 
+**Extra Credit:**
+Those who opt for extra credit may do so. Instructions are posted online. 
 
 
 ### Miscellany:
@@ -100,7 +104,7 @@ To earn participation points, you will voluntarily share your thoughts in discus
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
 3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
 4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
-4.  **Laptop/tablet users:** You must request permission, and if approved, sit in the front row.
+4.  **Laptop/tablet users You must request permission, and if approved, sit in the front row.
 5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
 6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
 7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
@@ -200,14 +204,14 @@ F       Dec-18  Grades Due UK
 **Aug-26  F       Introduction to Business Ethics.** What is business ethics? What is an ethical business? Philosophy, in general, is a search for causes. Philosophers aim to prove what things are and why they are that way. Ethical philosophy is a search for the good. Ethicists aim to prove what ought to be done, and what avoided, and why. Science is the process of mapping the order of being; ethics is the process of mapping the "practical order", the order of doing.   
 **Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondance to reality. Other alleged definitions of truth presuppose the correspondance definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
 **Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism. He proves that the moral law is objective and knowable, like mathematical and logical laws. "   
-**Sep-2   F       "Basic Ethics: Religion & Reason:** Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
+**Sep-2   F       "Basic Ethics: Religion & Reason Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
 **Sep-5   M       Labor Day -- no class**  
 **Sep-7   W       Basic Ethics: Utilitarianism.** John Stuart Mill and Jeremy Bentham resurrected a modern version of the ancient doctrine of Epicurus: that the only instrinsic good is pleasure. Hence, the one objective moral rule is that we ought to maximize pleasure. Make as many people happy as possible. Make everyone as happy as possible.  Alternately, reduce pain as much as possible.   
-**Sep-9   F       Discussion:** What is right about utilitarianism or consequentialism? What is wrong with it?
+**Sep-9   F       Discussion What is right about utilitarianism or consequentialism? What is wrong with it?
 **Sep-12  M       "Basic Ethics: Kantian Deontology.** Immanual Kant resurrected a modern version of the ancient doctrine of Stoicism: the only good is conformity to the moral law. The good will always wills the good. What is the good? Your duty. Always do your duty. How do you know your duty, what command or imperative should you obey?  Kant's "imperative" was a formal principle that should always be obeyed by rational creatures. It is categorical, not hypothetical. There are three expressions of his Categorical Imperative. Kantianism has come to be known as "deontology", the moral theory grounded in duty.  
 **Sep-14  W       "Basic Ethics: Deontology cont'd"**
-**Sep-16  F       "Discussion:** What is right about Kantianism? What is wrong?"
-**Sep-19  M       "Basic Ethics: Virtue Ethics:** Elizabeth Anscombe, Philippa Foot, Bernard Williams, and others resurrected a modern version of the ancient doctrine of Aristotle: that the good person is the virtuous person. Moral virtue is a mean between extremes of too much and too little,  while intellectual virtue is a consistency in knowing truth. "
+**Sep-16  F       "Discussion What is right about Kantianism? What is wrong?"
+**Sep-19  M       "Basic Ethics: Virtue Ethics Elizabeth Anscombe, Philippa Foot, Bernard Williams, and others resurrected a modern version of the ancient doctrine of Aristotle: that the good person is the virtuous person. Moral virtue is a mean between extremes of too much and too little,  while intellectual virtue is a consistency in knowing truth. "
 **Sep-21  W       "Basic Ethics: Virtue Ethics"**
 **Sep-23  F       "Review of Ethical Theories for Exam"** What is right about virtue ethics? What is wrong?"
 

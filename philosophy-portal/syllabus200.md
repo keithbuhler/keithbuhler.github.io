@@ -3,7 +3,7 @@ layout: philosophy
 permalink: /syllabus200
 ---
 
-### [Fall 2016 Syllabus, PHL 200, Introduction to Philosophy: "God, Man, and World"](/philosophy-portal/syllabus200.pdf)  
+### [Introduction to Philosophy: "God, Man, and World" (PHL 200, Fall 2016 Syllabus)](/philosophy-portal/syllabus200.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** Wednesdays 8-9, Kinlaw Library by the Lewis Corner.
@@ -13,6 +13,11 @@ permalink: /syllabus200
 - [Jostein Gaarder, *Sophie’s World*  ISBN: 0374530718](http://amzn.to/1QJ7mEs)
 - [Plato, *Last Days of Socrates* (Euthyphro, Apology, Phaedo) ISBN: 0140449280](http://amzn.to/1NMMNB6)
 - [Augustine, *Confessions* ISBN: 0199537828](http://amzn.to/1QJ7qEj)
+
+Buy these three books right away. Use these ISBNS only, please. No Kindle unless cost is prohibitive, since paper books are better for taking notes, and make it easier to stay on the same page. New or used is fine. Other handouts provided online. 
+
+**Handouts:**
+
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
@@ -28,7 +33,6 @@ permalink: /syllabus200
 - [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k)
 - [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
 
-Buy the first three books right away. Use these ISBNS only, please. Please, no Kindle unless cost is prohibitive, since paper books are better for taking notes, and make it easier to stay on the same page. New or used is fine. Other texts provided online. 
 
 ### Course Description
 This course is an exercise in a different way of thinking. We will also learn some historical facts, new vocabulary words, some big names and big philosophical concepts. But our main task is to grow by thinking slowly, carefully, methodically, and deeply.  
