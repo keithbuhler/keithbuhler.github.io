@@ -1,13 +1,18 @@
-# main links 
+# main links -- buhler report (for the public)
 main:
   - title: "THE BUHLER REPORT"
     url: http://keithbuhler.com/blog
 
-  - title: "For Students"
+  - title: "Sandbox"
+    url: http://keithbuhler.com/fun
+
+  - title: "Philosophy Resources"
     url: http://keithbuhler.com/philosophy
 
-  - title: "For Academics"
-    url: http://keithbuhler.com/
- 
-  - title: "Fun Stuff"
-    url: http://keithbuhler.com/fun
+
+# keithbuhler.com links (for academics)
+
+
+
+
+# Philosophy Portal links (for students)
