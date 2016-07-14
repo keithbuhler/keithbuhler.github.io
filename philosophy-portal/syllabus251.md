@@ -3,7 +3,7 @@ layout: philosophy
 permalink: /syllabus251
 ---
 
-**[PHL 251—Philosophy of C. S. Lewis](/philosophy-portal/syllabus251.pdf)**  
+### [PHL 251—Philosophy of C. S. Lewis](/philosophy-portal/syllabus251.pdf)
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: @keith\_buhler  
@@ -16,10 +16,10 @@ permalink: /syllabus251
 -   [*The Four Loves*. ISBN: 978-0156329309.](http://amzn.to/1RAw4Tj)
 -   [*Perelandra*. ISBN: 978-0743234917](http://amzn.to/1RAw71E)
 -   [*Experiment in Criticism. ISBN:978-1107604728*](http://amzn.to/1MEYb78)
--   Other readings are available on Discovery: ["Meditations on a Toolshed", CS Lewis](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg); "Weight of Glory", CS Lewis, ["Is Truth Objective?", Peter Kreeft](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
+-   Other readings are available on Discovery: [Lewis, "Meditations on a Toolshed"](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg); Lewis, "Weight of Glory", [Kreeft, "Is Truth Objective?"](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
    
 
-### Course Description and Learning Outcomes
+### Course Description
 
 This course is a a study of the philosophical works of Lewis dealing with arguments for the existence of God based on human rationality, the problem of suffering, objective truth, and relation to popular culture. Includes viewing and discussion of pertinent videos.
 
@@ -62,37 +62,33 @@ I do not normally round. So an 89.5 is a “B.”
 | D   | 69% - 60%  |
 | F  | < 59%         |
 
-Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Papers according to the given instructions.
+Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) write the Papers according to the given instructions.
 
 ### Reading Tips
 
-The primary work if this class (about 3 hours a week) will be reading and understanding these books.  Read actively, read ahead, and try to understand the book. Reading tips are online. 
+The primary work if this class (about 3-5 hours a week) will be reading and understanding these books.  Read actively, read ahead, and try to understand the book. Reading tips are online. 
 
 
 ### Quizzes
 
 Short reading quizzes will assess whether your eyeballs hit the page and whether you comprehended what you read. These will be completed on Discovery and will typically consist of a few multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-Primarily, your goal is not just to read but to *understand*. Reflect on
-what you’ve read. Bring to class a question from the reading –focus on
-what confuses you. 
+Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. 
 
 ### Attendance
+We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
-We need you here! Attendance is mandatory. 1 to 3 "Personal absences" are freebies — no points lost. You may use them for sickness, sports, or sleep.  After that, absences require an excuse or you will lose points. After 3 personal absences, unexcused absences will cost 2% deduction from the semester grade *per absence*. 8 unexcused absences is a letter grade and 10 will cause you to fail the class. 
+That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. One week is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
 1 = -0  
 2 = -0  
 3 = -0  
 4 = -2%  
 5 = -4%  
-6 = -6%   
-7 = -8%   
-8 = -10%  (a letter grade)   
-10 = -50%   
-
-Roll will be taken each class by marking a 3x5 card.  You may check your absences at any time by requesting to see your card. (Being repeatedly or egregiously late, or leaving early without an excuse, will count as an absence.) I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it? 
-
+6 = -10%  (a letter grade)   
+7 = -12%   
+8 = -14%
+9 = -50%
 
 ### Participation through dialogue/writing:
 
@@ -142,8 +138,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 ### Course Outline
 
-(Outline subject to revisions due to snow days, instructor sickness,
-academic conferences, etc.)
+The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
 
 
 Week 1  

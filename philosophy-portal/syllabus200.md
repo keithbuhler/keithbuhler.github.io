@@ -3,8 +3,7 @@ layout: philosophy
 permalink: /syllabus200
 ---
 
-### [Fall 2016 Syllabus](/philosophy-portal/syllabus200.pdf)
-**PHL 200, Introduction to Philosophy: "God, Man, and World"**  
+### [Fall 2016 Syllabus, PHL 200, Introduction to Philosophy: "God, Man, and World"](/philosophy-portal/syllabus200.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** Wednesdays 8-9, Kinlaw Library by the Lewis Corner.
@@ -31,7 +30,8 @@ permalink: /syllabus200
 
 Buy the first three books right away. Use these ISBNS only, please. Please, no Kindle unless cost is prohibitive, since paper books are better for taking notes, and make it easier to stay on the same page. New or used is fine. Other texts provided online. 
 
-**Course Description:** This course is an exercise in a different way of thinking. We will also learn some historical facts, new vocabulary words, some big names and big philosophical concepts. But our main task is to grow by thinking slowly, carefully, methodically, and deeply.  
+### Course Description
+This course is an exercise in a different way of thinking. We will also learn some historical facts, new vocabulary words, some big names and big philosophical concepts. But our main task is to grow by thinking slowly, carefully, methodically, and deeply.  
 
 This course is eclectic in themes. Recurring questions are (1) "Who are you?" (2) "Where does the world come from?" (3) "Why is there evil?" (4) "What is happiness?" Some of these are more abstract, others more practical. All of them are windows into a reality beyond the day-to-day.
 
@@ -48,14 +48,11 @@ There are no *easy* answers; instead, we will find hard answers, if we work at i
 * To understand the Christian answers to questions about the meaning of life, the structure of the cosmos, the possibility of scientific knowledge, and the ground of morality, as contrasted with metaphysical naturalism, nihilism, and deism.
 * To practice reflect thinking upon our own lives, beliefs, attitudes, culture, and goals, in order to become more thoughtful human beings in the pursuit of goodness, truth, and beauty.
 
-**Course Outline:** This tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. The outline is *subject to minor changes.*
+## Scope and Sequence
+This course focuses on an ecclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="600"></iframe>
-
-
-**Scope and Sequence:** This course focuses on an ecclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
-
-**Grading:** You will be graded equally on each component, plus applicable extra credit.
+### Grading
+You will be graded equally on each component, plus applicable extra credit.
 
 |  Assessment category              |  Percent of semester grade |
 | ----------------------------------|----------------------- |
@@ -76,27 +73,29 @@ Letter Grade | Percentage
 
 I typically do not round up. So 89.5 is a “B”. Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Papers according to the given instructions.
 
-**Readings:** The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on
-what you’ve read. Bring to class a question from the reading -- focus on
-what confuses you. Reading tips are online. 
+### Reading
+
+The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. Reading tips are online. 
 
 Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes at 9am when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
 
-**Attendance:** We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  You may check your absences at any time by requesting to see your card. (Being repeatedly or egregiously late will count as an absence.) I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
+### Attendance
+We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
-That said, I give everyone up to 3 "Personal absences". You may use them for sickness, sports, or sleep.  These are freebies with no points lost. After that, absences must be excused. A 4th absence, if unexcused, reduces the semester grade by 2% each *per absence*. 8 unexcused absences is a letter grade and 9 will cause you to fail the class. 
+That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. One week is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
 1 = -0  
 2 = -0  
 3 = -0  
-4 = -2%   
-5 = -4%   
-6 = -6%  
-7 = -8%  
-8 = -10%  (a letter grade)  
-9 = -50%  
+4 = -2%  
+5 = -4%  
+6 = -10%  (a letter grade)   
+7 = -12%   
+8 = -14%
+9 = -50%
 
-**Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
+### Participation
+The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
 We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
 
@@ -110,13 +109,17 @@ What are the "ground rules" for discussion? The rules are hard to articulate. I 
 
 Other discussion ground rules are posted online. 
 
-**Quarter Tests:**  There are two quarter exams: one at the end of the first quarter, and one at the end of the third quarter. (No midterm or final). These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted online.
+### Tests
 
-**Disputations:** Every 2 weeks or so, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. The instructions are posted online. 
+There are two quarter exams: one at the end of the first quarter, and one at the end of the third quarter. (No midterm or final). These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted online.
 
-**Extra Credit?** Those who opt for extra credit may do so. Instructions are posted online.
+### Disputation Papers
+Every 2 weeks or so, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. The instructions are posted online. 
 
-### Miscellany:
+### Extra Credit
+Those who opt for extra credit may do so. Instructions are posted online.
+
+### Miscellany
 
 1. **Bring your textbook** to every class. 
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
@@ -131,3 +134,11 @@ Other discussion ground rules are posted online.
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
 8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the Asbury University academic community. Cite your sources. [See also the Asbury academic integrity appendix](/plagiarism).
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
+
+
+### Course Outline
+
+The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
+
+<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="600"></iframe>
+
