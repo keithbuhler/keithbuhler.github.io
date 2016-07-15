@@ -9,7 +9,7 @@
  email:          "keithedbuhler@gmail.com"
  comments: 
   provider:       "disqus"
-  disqus:       
+  disqus:         "keithbuhler"
 
 # Build settings
 markdown:       kramdown
