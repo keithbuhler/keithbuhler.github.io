@@ -1,5 +1,5 @@
 ---
-layout: default-buhler
+layout: default
 title: Research
 
 --- 
