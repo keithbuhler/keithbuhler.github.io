@@ -15,9 +15,9 @@ header.site-header {
   bottom: 0px;
   color: #ccc;
   background: #ffffff;
-  height: 4em;
-  width: 100%;
-  border-radius: 4px;
+  height: 6em;
+  width: 800px;
+  border-radius-top: 4px;
 }
 
 
@@ -46,7 +46,7 @@ header.site-header.wrap {
 .site-nav .trigger {
     display: inline;
     float: right;
-    padding: 0 0.5em;
+    padding: 0 1em;
     color: #ccc;
 }
 
@@ -123,8 +123,8 @@ body { color:#333;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 10px;
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
 
 }
 
@@ -134,6 +134,7 @@ body { color:#333;
 #content-wrapper {
 margin:4em auto;
 max-width:800px;
+border-radius-bottom: 4px;
 
 
 }
