@@ -3,12 +3,6 @@ layout: default-buhler
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
 --- 
 
-<center> 
-
-<h1> Keith Buhler, Philosopher and Educator </h1>
-
-</center>
-
 *This site is about the philosopher. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="20px" align="right">  

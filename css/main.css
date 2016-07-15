@@ -35,8 +35,8 @@ header.site-header.wrap {
 .site-title,.site-title:visited {
   display: inline;
   padding: 15px;
-  color: #ffffff;
-  font-size: 3em; 
+  color: #ccc;
+  font-size: 2em; 
   text-align: center;
 
 }
@@ -51,12 +51,12 @@ header.site-header.wrap {
 }
 
 .site-nav .trigger a{  display: block;
-    color: #ffd699;
+    color: #333;
     text-align: center;
     padding: 12px 14px;
     text-decoration: shadow; }
 
-.site-nav .trigger a:hover{ background-color: #ffd699;  color: #ccc; }
+.site-nav .trigger a:hover{ background-color: #ffd699;  color: #ffffff; }
 
 .site-title:hover{   color: #ffd699; }
 
