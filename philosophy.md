@@ -1,8 +1,8 @@
 ---
-layout: splash
+layout: philosophy
 title: Philosophy Portal
 header:
-      image: pythagoras.jpg
+      image: http://www.ancient-origins.net/sites/default/files/field/image/Pythagoras-writing.jpg
 --- 
 
 <center>
