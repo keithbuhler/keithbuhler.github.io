@@ -15,4 +15,4 @@ This site hosts information about my [scholarship](/Buhler-CV), [teaching](/teac
 
 
 
-<div align="center"> <img src="/images/seal-biola.png" alt="Biola" height="50" align="right" hspace="10px" width="50"> &nbsp;&nbsp;&nbsp; <img src="/images/seal-thi.png" alt="Torrey Honors" height="50" width="50" align="right" hspace="10px">  <img src="/images/seal-balamand.png" alt="Balamand" height="52" width="52" align="right" hspace="10px"> <img src="/images/seal-uk.png" alt="Kentucky" height="50" width="50" align="right" hspace="10px"> </div>
+<div align="center"> <img src="/images/seal-biola.png" alt="Biola" height="50" align="center" hspace="10px" width="50"> &nbsp;&nbsp;&nbsp; <img src="/images/seal-thi.png" alt="Torrey Honors" height="50" width="50" align="center" hspace="10px">  <img src="/images/seal-balamand.png" alt="Balamand" height="52" width="52" align="center" hspace="10px"> <img src="/images/seal-uk.png" alt="Kentucky" height="50" width="50" align="center" hspace="10px"> </div>

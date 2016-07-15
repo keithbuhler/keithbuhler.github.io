@@ -18,6 +18,7 @@ http://www.keithbuhler.com
 
 *Ground Rules for Following the Logos*
 
+<center>
 
 <a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" class="w3-border w3-padding-4 w3-padding-tiny" alt="Pythagoras"></a>
 
