@@ -3,7 +3,6 @@ layout: splash
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
 header: 
       image: blog-header-uk-large.jpg
-
 --- 
 
 *This site is about the philosopher. For other uses, see [Buhler (disambiguation)](/disambiguation).*
@@ -14,7 +13,7 @@ I'm currently a PhD candidate in philosophy at the [University of Kentucky](http
 
 For the last 8 years, I've been [introducing students](/teaching) in universities and classical high schools to the great conversation. I build an immersive environment of philosophical dialogue, motivating and empowering students to grow intellectually.  
 
-My [research](/research) centers on neo-Aristotelian ethical naturalism. I'm finishing up a dissertation on the writings of Philippa Foot, John McDowell, and Alasdair MacIntyre -- mostly defending Foot. 
+My dissertation [research](/research) centers on neo-Aristotelian ethical naturalism, especially the writings of Philippa Foot, John McDowell, and Alasdair MacIntyre. I'm interested in accounts of the relation between nature and normativity, such as the relation between human nature and human virtue, between facts and values, and between science and ethics. 
 
 My philosophical goals are not only to contribute to our discipline, but to flourish as a human being in community and invite others along as well. Thanks for visiting.
 
