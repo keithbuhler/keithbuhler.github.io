@@ -1,13 +1,13 @@
 ---
-layout: philosophy
+layout: splash
 title: Philosophy Portal
+header:
+      image: pythagoras.jpg
 --- 
 
 <center>
 
 <h1>PHILOSOPHY PORTAL</h1>
-
-<a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" class="w3-border w3-padding-4 w3-padding-tiny" alt="Pythagoras"></a>
 
 </center>
 
