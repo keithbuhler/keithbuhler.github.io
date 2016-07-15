@@ -14,7 +14,7 @@ permalink: /syllabus334
 #### Required Readings 
 [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). Handouts are posted online: [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 
-###Course Description
+### Course Description
 Some of the hardest decisions we make have to do with making money working in a business or running a business. As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come. 
 
 Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable? 
@@ -27,7 +27,7 @@ Each of us belongs to a tradition and a community. Our goal is to understand our
 
 The bottom line is always to think hard about hard questions, to discard wrong answers and discover and prove right answers to these questions. The hard questions will revolve around business, wealth, justice, safety, information, incenvtives, globalization, etc. but may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
 
-###Course Goals 
+### Course Goals 
 
 * to understand business as part of life
 * to understand business as part of applied ethics, public policy, and as a sub-discipline of ethical philosophy
@@ -62,7 +62,7 @@ Your grade for the class will depend on your performance in each course componen
 
 **Attendance**: We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
-That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. One week is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
+That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. 3 absences adds up to one week of classes you can miss with no penalty. 3 is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
 1 = -0  
 2 = -0  
@@ -116,12 +116,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 
 
-### Links to Readings of Interest
-
-[Coming soon]
-
-
-### Short outline
+### Outline (Short)
 
 W       Aug-24  Syllabus day  
 F       Aug-26  Introduction to Business Ethics  
@@ -195,7 +190,7 @@ F       Dec-18  Grades Due UK
 
 
 
-## Course Outline
+### Course Outline (Detailed)
 
 *Each date tells you the reading due and the topic. Each date also includes detailed lecture notes because students asked for them to help prepare. Subject to minor changes due to weather, illness, etc. The online version is always up to date.*
 
@@ -252,6 +247,12 @@ F       Dec-18  Grades Due UK
 **Dec-9   F       Last day UK**  
 **Dec-12  M       Final Exams**  
 **Dec-18  F       Grades Due UK**  
+
+
+
+### Links to Readings of Interest
+
+[Coming soon]
 
 
 
