@@ -1,5 +1,5 @@
 ---
-title: keithbuhler.com site info (README)
+title: Site Info
 layout: single
 ---
 
