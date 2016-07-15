@@ -9,7 +9,7 @@ title: Disambiguation
 
 * [Ferris Bueller's Day Off (film)](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
 
-![Bueller](/image/bueller.jpg)
+![Bueller](/images/bueller.jpg)
 
 *Buhler, Buehler, or Bühler may refer to:*
 
