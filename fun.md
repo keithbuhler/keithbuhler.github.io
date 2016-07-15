@@ -2,7 +2,7 @@
 layout: splash
 title: Sandbox
 header:
-  image: https://static.pexels.com/photos/119404/pexels-photo-119404-large.jpeg
+  image: nasmith-banner.jpg
 
 ---
 
