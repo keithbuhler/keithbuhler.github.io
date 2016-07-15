@@ -2,7 +2,7 @@
 layout: splash
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
 header: 
-      image: blog-header-uk.jpg
+      image: blog-header-uk-large.jpg
 
 --- 
 

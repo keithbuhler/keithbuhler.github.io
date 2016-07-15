@@ -6,6 +6,8 @@ header:
       image: phil-psych-major.jpg
 ---
 
+### [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
+
 #### [(pdf version)](/philosophy-portal/philosophy-3-major.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
@@ -15,9 +17,6 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 
 ----
-
-
-### [What can I do with a philosophy degree?](http://www.whystudyphilosophy.com/)
 
 Nothing much...except *everything*.
 
