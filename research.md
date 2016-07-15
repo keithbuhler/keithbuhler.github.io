@@ -4,11 +4,9 @@ title: Research
 
 --- 
 
-# Research
-
 <img src="/images/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
-My work is centered on virtue ethics. Though I discovered virtue ethics by way of ancients (Plato, Aristotle, Laozi), my focus is on contemporary neo-Aristotelians such as Philippa Foot, John McDowell, and Alasdair MacIntyre. My goal is to overcome common objections to virtue ethics in general and naturalistic moral realism in particular by clarifying what 'nature' is in notions like 'natural normativity' and 'human nature'.
+My work is centered on contemporary neo-Aristotelians such as Philippa Foot, John McDowell, and Alasdair MacIntyre. I discovered virtue ethics by way of ancients (Plato, Aristotle, Laozi).  My goal is to overcome common objections to virtue ethics in general and naturalistic moral realism in particular by clarifying what 'nature' is in notions like 'natural normativity' and 'human nature'.
 
 [David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh) is my dissertation director. [Anita Superson](/https://philosophy.as.uky.edu/users/superson), [Dan Breazeale](/https://philosophy.as.uky.edu/users/breazeal) and [Mark Kightlinger](/http://law.uky.edu/directory/mark-f-kightlinger) also serve as unwavering supporters and indefatiguable critics. 
 

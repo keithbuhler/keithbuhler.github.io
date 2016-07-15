@@ -2,6 +2,9 @@
 layout: splash
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
 author_profile: true
+overlay_image: blog-header-uk
+excerpt: Keith Buhler
+
 --- 
 
 *This site is about the philosopher. For other uses, see [Buhler (disambiguation)](/disambiguation).*
