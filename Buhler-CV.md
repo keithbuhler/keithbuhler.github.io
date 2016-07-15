@@ -4,6 +4,7 @@ title: Curriculum Vitae | Keith Buhler | Philosophy
 --- 
 
 ### CURRICULUM VITAE
+
 #### [(PDF version here)](/Buhler-CV.pdf)
 
 Keith Buhler  

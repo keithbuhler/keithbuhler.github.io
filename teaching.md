@@ -48,17 +48,3 @@ S2013 Introduction to Logic
 9. "He learned our names very quickly and took time to understand our points in discussion." (PHI305, 2015)
 10. "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
 11. "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
-
-### Philosophy resources ###
-
-<a target="_blank" href="https://en.wikipedia.org/wiki/Platonic_Academy">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Athens_Plato_Academy_Archaeological_Site_2.jpg/1920px-Athens_Plato_Academy_Archaeological_Site_2.jpg" alt="plato's academy" width="400" height="350" align="center" hspace="10">
-</a> 
-
-(pictured: The archeological site of Plato's Academy)
-
-[Students, please visit my philosophy portal.](/students) 
-
- 
-
-
