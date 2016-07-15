@@ -2,6 +2,8 @@
 title: about
 layout: single
 permalink: /about
+header:
+      image: nasmith-banner.jpeg
 ---
 
 I'm a husband and father. My two kiddos are 3 and 1 (as of 14 July 2016). My wife is my [Davy.](https://en.wikipedia.org/wiki/A_Severe_Mercy)

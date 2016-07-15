@@ -1,16 +1,16 @@
-# keithbuhler.com links (for academics)
 
+# keithbuhler.com links (for academics)
 main:
-  -title: "About"
-    url: http://keithbuhler.com/about
+  - title: "About"
+    url: http://keithbuhler.com/about/
   - title: "CV"
-    url: http://keithbuhler.com/Buhler-CV
+    url: http://keithbuhler.com/Buhler-CV/
   - title: "Teaching"
-    url: http://keithbuhler.com/teaching
+    url: http://keithbuhler.com/teaching/
   - title: "Research"
-    url: http://keithbuhler.com/research
+    url: http://keithbuhler.com/research/
   - title: "Student Portal"
-    url: http://keithbuhler.com/students
+    url: http://keithbuhler.com/students/
 
 # Philosophy Portal links (for students)
 philosophy:
