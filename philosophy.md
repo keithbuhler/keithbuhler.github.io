@@ -2,7 +2,7 @@
 layout: philosophy
 title: Philosophy Portal
 header:
-      image: http://www.ancient-origins.net/sites/default/files/field/image/Pythagoras-writing.jpg
+      image: pythagoras.jpg
 --- 
 
 <center>
