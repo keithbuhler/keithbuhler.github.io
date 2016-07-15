@@ -11,6 +11,19 @@
   provider:       "disqus"
   disqus:         "keithbuhler"
 
+# Site author
+author:  
+  name:           Keith Buhler
+  avatar:         keithbuhler-bw-small.png
+  bio:            "Philosopher, classical educator, writer, husband, and father."
+  location:       "Wilmore, KY"
+  email:          "keithbuhler@gmail.com"
+  twitter:        Keith_Buhler
+  facebook:       "keithedbuhler"
+  github:         keithbuhler
+  google_plus:    "https://plus.google.com/u/0/102602916593522619858"
+  youtube:        "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
+
 # Build settings
 markdown:       kramdown
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
@@ -38,18 +51,7 @@ social:
 # Analytics for Google would go here UA-71712734-1
 
 
-# Site author
-  author:  
-    name:           Keith Buhler
-    avatar:         bio-photo.jpg
-    bio:            "Philosopher, classical educator, writer, husband, and father."
-    location:       "Wilmore, KY"
-    email:          "keithbuhler@gmail.com"
-    twitter:        Keith_Buhler
-    facebook:       "keithedbuhler"
-    github:         keithbuhler
-    google_plus:    "https://plus.google.com/u/0/102602916593522619858"
-    youtube:        "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
+
   
 # Timezone
 timezone:     America/New_York   
