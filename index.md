@@ -1,5 +1,5 @@
 ---
-layout: default-buhler
+layout: splash
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
 author_profile: true
 --- 

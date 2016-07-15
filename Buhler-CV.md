@@ -1,5 +1,5 @@
 ---
-layout: default-buhler
+layout: page
 title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 

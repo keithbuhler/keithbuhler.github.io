@@ -1,9 +1,8 @@
 ---
-layout: archive
+layout: page
 title: Teaching
+author_profile: true
 ---
-
-# Teaching 
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 

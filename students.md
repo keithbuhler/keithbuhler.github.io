@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: page
 title: Student Portal
 cover_image: https://i.imgflip.com/16b9qw.jpg
 header_text_color: "rbga(255, 255, 255, 1.0)"
