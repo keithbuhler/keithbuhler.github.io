@@ -7,13 +7,13 @@ title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler?
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="20px" align="right">  
 
-I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
+<p align="left">I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University.</p> 
 
-For the last 8 years, I've been [teaching](/teaching)  "Great Books" to students in universities and classical high schools. My goal is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. 
+<p align="left">For the last 8 years, I've been <a href= "/teaching">teaching</a>  "Great Books" to students in universities and classical high schools. My goal is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. 
 
-My [research](/research) centers on virtue ethics. I'm finishing up a dissertation on neo-Aristotelian ethical naturalism as it is represented in the writings of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
+<p align="left">My <a href="/research">research</a> centers on virtue ethics. I'm finishing up a dissertation on neo-Aristotelian ethical naturalism as it is represented in the writings of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
 
-My philosophical goals are not only to contribute to our discipline, but to flourish as a human being in community and invite others along as well. Thanks for visiting.
+<p align="left">My philosophical goals are not only to contribute to our discipline, but to flourish as a human being in community and invite others along as well. Thanks for visiting.</p>
 
 
 <br>

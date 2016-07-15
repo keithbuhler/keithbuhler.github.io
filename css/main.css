@@ -30,7 +30,7 @@ header.site-header.wrap {
   border-color: #333;
 }
 
-
+.site-title {  float: left;}
 
 .site-title,.site-title:visited {
   display: inline;
@@ -38,6 +38,7 @@ header.site-header.wrap {
   color: #ccc;
   font-size: 2em; 
   text-align: center;
+
 
 }
 
@@ -53,14 +54,13 @@ header.site-header.wrap {
 .site-nav .trigger a{  display: block;
     color: #333;
     text-align: center;
-    padding: 12px 14px;
+    padding: 16px 14px;
     text-decoration: shadow; }
 
 .site-nav .trigger a:hover{ background-color: #ffd699;  color: #ffffff; }
 
 .site-title:hover{   color: #ffd699; }
 
-.site-title {  float: left;}
 
 
 
