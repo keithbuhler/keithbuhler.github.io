@@ -1,6 +1,8 @@
 # keithbuhler.com links (for academics)
 
 main:
+  -title: "About"
+    url: http://keithbuhler.com/about
   - title: "CV"
     url: http://keithbuhler.com/Buhler-CV
   - title: "Teaching"
