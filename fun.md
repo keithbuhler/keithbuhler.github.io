@@ -2,16 +2,18 @@
 layout: splash
 title: Sandbox
 header:
-  image: nasmith-banner.jpg
+  image: nasmith-banner.jpeg
 
 ---
 
 
 <img src="/images/midair-small.jpg" alt="Mid-air" align="left" hspace="20"> 
 
-Hi there. I'm Keith Buhler, a husband and father 24/7. During the 9-5, I'm a [philosopher](/) and classical [educator.](/teaching) I do some speaking and [writing](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) as well. 
+Welcome to keithbuhler.com/fun. This is my sandbox. 
 
-Welcome to keithbuhler.com/fun. This site is my sandbox. I'm working on a variety of experimental projects to enlighten and entertain. Browse, leave a comment, or send me a note. Thanks for visiting.
+I'm a husband and father 24/7. During the 9-5, I'm a [philosopher](/) and classical [educator.](/teaching) I do some speaking and [writing](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) as well.  
+
+This site holds a variety of experimental projects I'm playing with. Browse, leave a comment, or send me a note. Thanks for visiting.
 
 <br>
 <br>
@@ -157,7 +159,7 @@ Welcome to keithbuhler.com/fun. This site is my sandbox. I'm working on a variet
 <br>
 <br>
 
-<p><a id="art" target="_blank" href="http://www.keithbuhler.com/fun-portal/art"> <img src="http://keithbuhler.com/images/fun-wither-small.jpg" width="256" height="240" align="left">  </a></p><p align="right"> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
+<p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/images/fun-wither-small.jpg" width="256" height="240" align="left">  </a></p><p align="right"> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
 
 <br>
