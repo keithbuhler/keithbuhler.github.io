@@ -1,9 +1,8 @@
 ---
 layout: splash
 title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
-author_profile: true
-overlay_image: blog-header-uk.jpg
-excerpt: Keith Buhler
+header: 
+      image: blog-header-uk.jpg
 
 --- 
 
