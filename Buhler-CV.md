@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 

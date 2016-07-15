@@ -1,24 +1,20 @@
 ---
-layout: page
+layout: single
 title: Student Portal
-cover_image: https://i.imgflip.com/16b9qw.jpg
-header_text_color: "rbga(255, 255, 255, 1.0)"
-site_header_text_color: "rgba(105, 81, 62, 0.8)"
-site_header_border_color: "rgba(105, 81, 62, 0.5)"
-
+header:
+      image: morpheus.jpg
 --- 
-
-# For Students 
 
 <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/images/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
 
-Many people that take a philosophy class find it surprisingly interesting, depending on the professor, of course. (A bad professor can make Disneyland boring.) 
 
 Sadly, most college students will take exactly *one* philosophy class. [So you should make the most of it.](/philosophy) 
 
-The good news is that [studying philosophy is VERY GOOD IDEA](/philosophy-3-major) because it can help you to find a good job, earn a higher salary than a business degree, and find answers to life's deepest questions.
-
+Many people that take a philosophy class find it surprisingly interesting, depending on the professor, of course. (A bad professor can make Disneyland boring.) 
 Philosophy is so interesting because it invites you to think deeply. Philosophy invites you to reflect on your own opinions, and everyone has opinions and questions about life, death, reality, science, religion, and beauty. 
+
+
+The good news is that [studying philosophy is VERY GOOD IDEA](/philosophy-3-major) because it can help you to find a good job, earn a higher salary than a business degree, and find answers to life's deepest questions.
 
 <br>
 
