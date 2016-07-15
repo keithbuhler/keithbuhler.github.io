@@ -7,8 +7,6 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-# Time Budget #
-
 How do you manage your time? 
 
 When you stop to think about it, there are only (24 * 7=)168 hours in a week. If you sleep 8 hours a night or so that's (8 * 7=)56 sleeping hours for a total of (168-56=)112 waking hours per week.

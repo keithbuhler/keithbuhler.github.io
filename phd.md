@@ -1,6 +1,8 @@
 ---
 title: PHD
 layout: default-buhler
+header: 
+      image: rembrandt-sea-galilee1.bmp
 ---
 
 # PHD

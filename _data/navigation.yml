@@ -1,13 +1,34 @@
-# main links 
+# main links -- buhler report (for the public)
 main:
-  - title: "THE BUHLER REPORT"
-    url: http://keithbuhler.com/blog
+  - title: "Sandbox"
+    url: http://keithbuhler.com/fun
 
-  - title: "Students"
+  - title: "Philosophy Resources"
     url: http://keithbuhler.com/philosophy
 
-  - title: "Academics"
-    url: http://keithbuhler.com/
- 
-  - title: "Fun Stuff"
+
+# keithbuhler.com links (for academics)
+keithbuhler:
+  - title: "CV"
+    url: http://keithbuhler.com/Buhler-CV
+  - title: "Teaching"
+    url: http://keithbuhler.com/teaching
+  - title: "Research"
+    url: http://keithbuhler.com/research
+  - title: "For Students"
+    url: http://keithbuhler.com/students
+
+# Philosophy Portal links (for students)
+philosophy:
+  - title: "Philosophy Portal"
     url: http://keithbuhler.com/fun
+  - title: "Syllabi"
+    url: http://keithbuhler.com/teaching
+  - title: "How to Succeed In Class"
+    url: http://keithbuhler.com/philosophy-class
+  - title: "What's Next?"
+    url: http://keithbuhler.com/philosophy-6-next
+  - title: "What can I do "
+    url: http://keithbuhler.com/fun
+
+

@@ -1,13 +1,14 @@
 ---
 title: The Economic Value of Education
-layout: default
+layout: single
+comments: true
 permalink: /economic-value-of-education
 excerpt_separator: <!--more-->
 author_profile: true
 
 ---
 
-# The Economic Value of Education
+<img src="http://i.onionstatic.com/onion/2921/8/original/1200.jpg" width="800" height="450">
 
 I know Bernie Sanders is, like, done for as a presidential candidate. But the Bern isn't going away anytime soon. Bernie is like the Left's Ron Paul. He ran on a message. He didn't win; he was never going to win. (Ron Paul was even further from winning, but the point remains). He won a few states; he won many hearts and minds.  
 

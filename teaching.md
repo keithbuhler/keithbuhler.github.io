@@ -5,7 +5,7 @@ title: Teaching
 
 # Teaching 
 
-<img src="/img/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 I have been teaching full time in universities or classical high schools for more than 8 years. 
 
@@ -20,8 +20,8 @@ My goal in teaching is to build an immersive environment of philosophical thinki
 F2016 Business Ethics ([Syllabus](/syllabus334))  
 F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
 S2016 Philosophy of Religion    
-S2016 Wisdom and Virtue  ([Syllabus](/syllabus S2015 293 wisdom))   
-S2016 Health Care Ethics ([Syllabus](/syllabus S2016 305 health care))    
+S2016 Wisdom and Virtue  ([Syllabus](/syllabus-S2016-293-wisdom))   
+S2016 Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))    
 F2015 Health Care Ethics          
 S2015 Introduction to Philosophy ([Syllabus](/syllabus200))   
 F2014 Introduction to Philosophy   
@@ -48,17 +48,3 @@ S2013 Introduction to Logic
 9. "He learned our names very quickly and took time to understand our points in discussion." (PHI305, 2015)
 10. "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
 11. "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
-
-### Philosophy resources ###
-
-<a target="_blank" href="https://en.wikipedia.org/wiki/Platonic_Academy">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Athens_Plato_Academy_Archaeological_Site_2.jpg/1920px-Athens_Plato_Academy_Archaeological_Site_2.jpg" alt="plato's academy" width="400" height="350" align="center" hspace="10">
-</a> 
-
-(pictured: The archeological site of Plato's Academy)
-
-[Students, please visit my philosophy portal.](/students) 
-
- 
-
-

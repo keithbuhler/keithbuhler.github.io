@@ -3,9 +3,10 @@ layout: default-buhler
 title: Curriculum Vitae | Keith Buhler | Philosophy 
 --- 
 
+### CURRICULUM VITAE
+
 #### [(PDF version here)](/Buhler-CV.pdf)
 
-### CURRICULUM VITAE
 Keith Buhler  
 Doctoral Candidate  
 Deptartment of Philosophy  
@@ -99,9 +100,9 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 | University of Kentucky, 1415 Patterson                 | University of Kentucky, 1433 Patterson                       |
 | [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [superson@uky.edu](emailto:superson@uky.edu) / 859.257.4186        |
 |                                                             |                                                                    |
-| Daniel Breazeale, Profesor of Philosophy                    | Clare Batty, Assistant Profesor of Philosophy                      |
-| University of Kentucky, 1417 Patterson          | University of Kentucky, 1415 Patterson                 |
-| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clare.batty@uky.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
+| Daniel Breazeale, Profesor of Philosophy                    | Clair Budd, Department Chair, Religion and Philosophy                      |
+| University of Kentucky, 1417 Patterson          | Asbury University                 |
+| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clair.budd@asbury.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
 
 ### GRADUATE COURSES 
 
