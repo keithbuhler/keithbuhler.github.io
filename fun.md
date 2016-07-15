@@ -31,7 +31,7 @@ Welcome to keithbuhler.com/fun. This site is my sandbox. I'm working on a variet
 <br>
 <hr>
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Thoughtful dialogue. Timeless wisdom. Current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/images/keithbuhler-bw-small.png" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
 
 <br>
 <br>
