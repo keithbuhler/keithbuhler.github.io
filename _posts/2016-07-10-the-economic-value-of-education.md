@@ -2,7 +2,7 @@
 title: The Economic Value of Education
 layout: single
 comments: true
-permalink: /economic-value-of-education
+permalink: /thebuhlerreport/economic-value-of-education
 excerpt_separator: <!--more-->
 author_profile: true
 
