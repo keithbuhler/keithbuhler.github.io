@@ -11,6 +11,8 @@ My dissertation [research](/research) centers on neo-Aristotelian ethical natura
 
 The [dissertation](/phd) defends the role of a naturalized teleology in ethical naturalism according to which the concept of a 'practically wise rational animal' is both *what we already are* and *what we ought to become*. Practical wisdom (among the other virtues) defines our human life form and is the natural telos to be pursued. 
 
+<a target="_blank" "href="http://lsolum.typepad.com/legaltheory/2010/10/philippa-foot-1920-2010.html"> <img src="http://lsolum.typepad.com/.a/6a00d8341bf68d53ef013487f682ad970c-320wi>" align="right"></a>
+
 The dissertation sits at the intersection of both normative virtue ethics and metaethics. My thesis is normative in that it commends certain kinds of actions within a certain kind of life: a life spent acquiring character and epistemic virtues even in the face of (inevitable) death and (the possibility of) human extinction. It is also metaethical in that it analyzes normative terms and concepts such as 'ought' and 'naturally good' and 'human being' to find a brute natural normativity consonant with scientific naturalism. In this pursuit, I interact with a group of philosophers such as [Jennifer Frey](https://jennfrey.wordpress.com/), [Micah Lott](http://www.bc.edu/schools/cas/philosophy/faculty/lott.html), [Chris Toner](https://www.stthomas.edu/philosophy/faculty/christopher-h-toner.html), [James Barham](http://www.isnature.org/Bios/Barham.htm), and [Stephen R. Brown](http://old.briarcliff.edu/departments/theology/theo_new/brown.aspx). 
 
 
