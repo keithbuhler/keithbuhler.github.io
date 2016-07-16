@@ -11,8 +11,6 @@ main:
     url: http://keithbuhler.com/research
   - title: "Student Portal"
     url: http://keithbuhler.com/students
-  - title: "Sandbox"
-    url: http://keithbuhler.com/fun
 
 # Philosophy Portal links (for students)
 philosophy:
