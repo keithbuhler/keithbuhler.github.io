@@ -22,8 +22,10 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-
-
+<br>
+<br>
+<br>
+<br>
 ---- 
 
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/buhlerreport"> <img src="/images/keithbuhler-bw-small.png" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
