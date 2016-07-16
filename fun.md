@@ -9,11 +9,9 @@ header:
 
 <img src="/images/midair-small.jpg" alt="Mid-air" align="left" hspace="20"> 
 
-Welcome to keithbuhler.com/fun. This is my sandbox. 
+Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experimental projects I'm playing with. Browse, leave a comment, or send me a note. Thanks for visiting.
 
-I'm a husband and father 24/7. During the 9-5, I'm a [philosopher](/) and classical [educator.](/teaching) I do some speaking and [writing](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) as well.  
 
-This site holds a variety of experimental projects I'm playing with. Browse, leave a comment, or send me a note. Thanks for visiting.
 
 <br>
 <br>
