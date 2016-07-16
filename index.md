@@ -15,7 +15,7 @@ I'm currently a PhD candidate in philosophy at the [University of Kentucky](/Buh
 * [Academia.edu](https://uky.academia.edu/KeithBuhler)
 * [PhilPapers](http://philpapers.org/profile/47267)
 * [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
-* [Go Cats!](https://philosophy.as.uky.edu/users/kebu226)
+* [Go 'Cats!](https://philosophy.as.uky.edu/users/kebu226)
 
 <br>
 <br>

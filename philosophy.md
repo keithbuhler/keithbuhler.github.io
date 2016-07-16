@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Philosophy Portal
-permalink: /philosophy/
+permalink: /philosophy
 header:
       image: pythagoras.jpg
 --- 
