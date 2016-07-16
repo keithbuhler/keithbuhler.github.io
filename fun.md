@@ -7,34 +7,9 @@ header:
 ---
 
 
-<img src="/images/midair-small.jpg" alt="Mid-air" align="left" hspace="20"> 
-
 Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experimental projects I'm playing with. Browse, leave a comment, or send me a note. Thanks for visiting.
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/images/keithbuhler-bw-small.png" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
-
-<br>
-<br>
+<img src="/images/midair-small.jpg" alt="Mid-air" align="right" hspace="20"> 
 
 <br>
 <br>
@@ -47,7 +22,24 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
+
+
+---- 
+
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/buhlerreport"> <img src="/images/keithbuhler-bw-small.png" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
+
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books.jpg" alt="books" align="left"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
 
@@ -63,9 +55,7 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/images/fun-lewis.jpg" align="left" width="256"> </a> </p><p align="right">Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
 
@@ -81,9 +71,7 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <p><a id="Advice" target="_blank" href="http://bit.ly/22o8m7j"> <img src="/images/alvin-plantinga.jpg" width="256" height="256" align="left"></a></p><p align="right">  Advice to Christian Philosophers: Interviews with big name philosophers.</p>
 
@@ -99,9 +87,7 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 <p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/images/fun-sola.jpg" align="left"></a> </p><p align="right">Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
@@ -118,13 +104,9 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 <p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg" align="left">  </a></p><p align="right"> How to lead a discussion (video)</p>
-
 
 
 <br>
@@ -153,9 +135,7 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <p><a id="art" target="_blank" href="http://www.keithbuhler.com/art"> <img src="http://keithbuhler.com/images/fun-wither-small.jpg" width="256" height="240" align="left">  </a></p><p align="right"> Drawings, sculptures,  pumpkins, and other artistic creations  </p>
 
@@ -171,10 +151,7 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts variety of experime
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## More Fun Stuff 
 

@@ -1,5 +1,4 @@
 ---
-layout: fun
 title: Buhler | Writings | Fiction and Non-Fiction
 ---
 

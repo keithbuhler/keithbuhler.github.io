@@ -1,19 +1,22 @@
 ---
-layout: default-buhler
+layout: single
 title: Disambiguation
 --- 
 
-## (Redirected from Bühler (disambiguation))[^1]
+## Redirected from kiθ bulər (disambiguation)[^1]
 
-*Bueller refers most importantly to:*
+*Keith Buhler is not to be confused with:*
 
 * [Ferris Bueller's Day Off (film)](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
 
 ![Bueller](/images/bueller.jpg)
 
-*Buhler, Buehler, or Bühler may refer to:*
+*Nor with:*
 
-* [A California-based EDM musician](https://www.facebook.com/keithbuhler)
+* [Keith Buhler, California-based EDM musician](https://www.facebook.com/keithbuhler)
+
+*Nor with these Buhler, Buehler, or Bühlers:*
+
 * [Buhler, Kansas](https://en.wikipedia.org/wiki/Buhler,_Kansas)
 * [Buehler Foods, an Ohio grocery store](https://en.wikipedia.org/wiki/Buehler_Food_Markets_Inc.)
 * [Buhler Group, Swiss tech company](https://en.wikipedia.org/wiki/Buhler_Group)

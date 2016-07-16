@@ -1,5 +1,5 @@
 ---
-layout: default-buhler
+layout: single
 title: Teaching Statement
 ---
 
