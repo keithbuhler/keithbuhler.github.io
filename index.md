@@ -7,12 +7,15 @@ header:
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="20px" align="right"> 
 
-*This site is about the philosopher. For other uses, see [Buhler (disambiguation)](/disambiguation).*
+*This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
 
-I'm currently a PhD candidate in philosophy at the [University of Kentucky](/Buhler-CV) and a philosophy instructor at Asbury University. 
+I'm currently a PhD candidate in philosophy at the [University of Kentucky](/Buhler-CV) and a philosophy instructor at Asbury University. I've been [teaching](/teaching) in colleges and classical high schools for more than eight years and love what I do. My [research](/research) centers on virtue ethics and metaethics. Thanks for visiting. 
 
-This site hosts information about my [scholarship](/Buhler-CV), [teaching](/teaching), and [research](/research) . You can also see: [Academia.edu](https://uky.academia.edu/KeithBuhler), [PhilPapers](http://philpapers.org/profile/47267), or [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+* [Academia.edu](https://uky.academia.edu/KeithBuhler)
+* [PhilPapers](http://philpapers.org/profile/47267)
+* [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
+* [UKY]
 
 <br>
 <br>
