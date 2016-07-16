@@ -5,7 +5,7 @@ header:
       image: josiah-farm.jpg
 ---
 
-Thanks for visiting. During the 9-5, I'm an academic [philosopher](/) and classical [educator.](/teaching) I speaking and [writing](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) as well.  My goal is to contribute to my discipline and also to journey toward human flourishing with my friends, colleagues, and students. 
+Thanks for visiting. During the 9-5, I'm an academic [philosopher](/) and classical [educator.](/teaching) I do some speaking and [writing](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) as well.  My career goals are not only to contribute to this wonderful discipline but also to journey toward human flourishing with my friends, colleagues, and students. 
 
 I've had the privilege of serving as a [teacher](/teaching) in universities classical high schools for 8+ years and love what I do. I use real books, immersive Socratic dialogue, and humor to [introduce folks](/students) to the great conversation. 
 
