@@ -1,32 +1,14 @@
 ---
-layout: splash
+layout: archive
 title: Sandbox
 header:
   image: nasmith-banner.jpeg
-
 ---
 
 
-Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental projects I'm playing with. Browse, leave a comment, or send me a note. Thanks for visiting.
+Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental projects I'm playing with. Browse, follow, and leave a comment. Thanks for visiting.
 
-<img src="/images/midair-small.jpg" alt="Mid-air" align="right" hspace="20"> 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
----- 
+-----
 
 <p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/images/keithbuhler-bw-small.png" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
 
@@ -40,10 +22,29 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 <br>
 <br>
+
+
+
+<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books2.jpg" alt="books" align="left"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
-<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books.jpg" alt="books" align="left"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
+
+
+
+<p><a id="Classical Ed" target="_blank" href="http://www.keithbuhler.com/fun-portal/classical-education"> <img src="/images/spiral-small.jpg" align="left" width="500" height="500"> </a></p><p align="right"> Classical Education: What is it? </p>
 
 
 <br>
@@ -57,6 +58,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 <br>
 <br>
+
 
 
 <p><a id="Inklings"  target="_blank" href="http://www.inklings.info"> <img src="/images/fun-lewis.jpg" align="left" width="256"> </a> </p><p align="right">Inklings.Info: Lists, ebooks, and information about the Oxford Dons. </p>
@@ -108,7 +110,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 
 
-<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg" align="left">  </a></p><p align="right"> How to lead a discussion (video)</p>
+<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg" align="left">  </a></p><p align="right"> My new YouTube Channel: discussion advice, argumentative fallacies, philosophy talks, and comedy./p>
 
 
 <br>
@@ -155,14 +157,38 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 
 
-## More Fun Stuff 
+<p><a id="Lectures" target="_blank" href="http://www.keithbuhler.com/fun-portal/speaking"> <img src="/images/keithbuhler-teaching.jpg" align="left"> </a></p><p align="right"> Lectures, speeches, conferences, and classes.</p>
 
-* [Bio](/bio): A little bit about me.
-* [Lectures](/speaking): public speeches, conferences, and classes.
-* [Meditation](/meditation): How to meditate (and why)
-* [Paypal](https://www.paypal.me/keithbuhler): Through the magic of the internet, you can send me money(!) 
-* [Writings](/writings): Fiction, screenplays, verse, and satire. 
-* [YouTube](https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q): My new channel with argumentative fallacies, philosophy talks, discussion advice, and more.
-* Classical Education Resources -- coming soon
-* [Site for or philosophy students](/philosophy)
-* [Professional site For academics](/)
+<p><a id="Meditation" target="_blank" href="http://www.keithbuhler.com/fun-portal/meditation"> <img src="/images/meditation.jpg" align="left"> </a></p><p align="right"> How to meditate (and why) 
+</p>
+
+
+
+<p><a id="Bio" target="_blank" href="http://www.keithbuhler.com/bio"> <img src="/images/favicon.ico" align="left"> </a></p><p align="right"> Bio: A little bit about me.</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p><a id="Writings" target="_blank" href="http://www.keithbuhler.com/writings"> <img src="/images/writing-notebook.jpg" align="left" width="500" height="500"> </a></p><p align="right"> Fiction, screenplays, verse, and satire. 
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

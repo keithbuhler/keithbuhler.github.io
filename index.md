@@ -5,7 +5,7 @@ header:
       image: blog-header-uk-large.jpg
 --- 
 
-<img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="20px" align="right"> 
+<img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="40px" align="right"> 
 
 *This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
@@ -16,7 +16,7 @@ I've been a classical educator in colleges and classical high schools for [8+ ye
 
 My [research](/research) centers on virtue ethics. I'm especially interested in the theories of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
 
-In my spare time (about 45 minutes per month), I like creating [art](/art), editing Wikipedia, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
+In my spare time (about 45 minutes per month), I like clay sculpting, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
 
 * [Academia.edu](https://uky.academia.edu/KeithBuhler)
 * [PhilPapers](http://philpapers.org/profile/47267)
