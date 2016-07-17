@@ -10,7 +10,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 
 -----
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/images/keithbuhler-bw-small.png" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
 
 <br>
 <br>
@@ -44,9 +44,11 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 
 
 
-<p><a id="Classical Ed" target="_blank" href="http://www.keithbuhler.com/fun-portal/classical-education"> <img src="/images/spiral-small.jpg" align="left" width="500" height="500"> </a></p><p align="right"> Classical Education: What is it? </p>
+<p><a id="Classical Ed" target="_blank" href="http://www.keithbuhler.com/fun-portal/classical-education"> <img src="/images/spiral-small.jpg" align="left" width="236" height="236"> </a></p><p align="right"> Classical Education: What is it? </p>
 
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -157,14 +159,27 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 
 
-<p><a id="Lectures" target="_blank" href="http://www.keithbuhler.com/fun-portal/speaking"> <img src="/images/keithbuhler-teaching.jpg" align="left"> </a></p><p align="right"> Lectures, speeches, conferences, and classes.</p>
+<p><a id="Lectures" target="_blank" href="http://www.keithbuhler.com/fun-portal/speaking"> <img src="/images/keithbuhler-teaching.jpg" align="left" width="236" height="236"> </a></p><p align="right"> Lectures, speeches, conferences, and classes.</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <p><a id="Meditation" target="_blank" href="http://www.keithbuhler.com/fun-portal/meditation"> <img src="/images/meditation.jpg" align="left"> </a></p><p align="right"> How to meditate (and why) 
 </p>
 
 
 
-<p><a id="Bio" target="_blank" href="http://www.keithbuhler.com/bio"> <img src="/images/favicon.ico" align="left"> </a></p><p align="right"> Bio: A little bit about me.</p>
+<p><a id="Bio" target="_blank" href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-small.jpg" align="left"> </a></p><p align="right"> Bio: A little bit about me.</p>
 
 <br>
 <br>
