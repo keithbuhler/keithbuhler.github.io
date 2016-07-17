@@ -10,12 +10,18 @@ header:
 *This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
 
-I'm currently a PhD candidate in philosophy at the [University of Kentucky](/Buhler-CV) and a philosophy instructor at Asbury University. I've been [teaching](/teaching) in colleges and classical high schools for more than eight years and love what I do. My [research](/research) centers on virtue ethics and metaethics. Thanks for visiting. 
+I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
+
+I've been a classical educator in colleges and classical high schools for [8+ years](/Buhler-CV). I use immersive Socratic dialogue, great books, and humor to introduce folks to the great conversation.  
+
+My [research](/research) centers on virtue ethics. I'm especially interested in the theories of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
+
+In my spare time (about 45 minutes per month), I like creating [art](/art), editing Wikipedia, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
 
 * [Academia.edu](https://uky.academia.edu/KeithBuhler)
 * [PhilPapers](http://philpapers.org/profile/47267)
 * [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
-* [Go 'Cats!](https://philosophy.as.uky.edu/users/kebu226)
+ 
 
 <br>
 <br>
