@@ -1,10 +1,11 @@
 ---
 title: Comic Book Girl Review
 layout: post
-image:
-  feature: https://i.ytimg.com/vi/lQIuTGfPHvA/maxresdefault.jpg
+
 
 ---
+
+<img src="https://i.ytimg.com/vi/lQIuTGfPHvA/maxresdefault.jpg">
 
 This is my first Comic Book Girl video, but everything she says is reasonable. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
 
