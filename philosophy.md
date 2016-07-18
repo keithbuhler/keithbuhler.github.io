@@ -1,9 +1,7 @@
 ---
 layout: philosophy
 title: Philosophy Portal
-permalink: /philosophy
-header:
-      image: pythagoras.jpg
+permalink: /philosophy/
 --- 
 
 <center>
@@ -12,13 +10,13 @@ header:
 
 </center>
 
-## So you're taking philosophy...
+<a target="_blank" href="https://en.wikipedia.org/wiki/Pythagoras"><img src="/images/pythagoras-small.jpg" align="center" alt="Pythagoras"></a>
 
-Awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
+So you're taking philosophy? Awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
-At the same time, philosopy study can be difficult. You will get out what you put in. This site is designed to help you make the most out your class. 
+At the same time, philosopy can be difficult. You will get out what you put in. This site is designed to help you make the most out your class. 
 
-## How to Use this Site:
+## Just Joined?
 
 1. If you **just added my class**, welcome! We're going to have a great semester.
 - If you want something to blow your mind, open a random page on Wikipedia and [get to philosophy.](/wikipedia)
@@ -26,7 +24,10 @@ At the same time, philosopy study can be difficult. You will get out what you pu
 - If it's available, review your course [syllabus.](/teaching)
 - Read more about the benefits of studying philosophy. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and find answers to life's deepest questions. 
 
+## Class Started?
 2. If you are in my class and the **semester has started**, [click here for tips on how to succeed.](/philosophy-class)
+
+## Class Finished?
 3. If you just **finished my class**, [click here to discover what's next.](/philosophy-6-next)
 4. If you kinda liked philosophy, and are wondering what's wrong with you, [click here to consider taking more classes and maybe even a major.](/philosophy-6-next)
 5. If you want to talk about something else: 
