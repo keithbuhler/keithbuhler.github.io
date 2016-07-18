@@ -1,7 +1,8 @@
 ---
 layout: philosophy
 title: Philosophy Portal
-permalink: /philosophy/
+permalink: /philosophy
+
 --- 
 
 <center>
@@ -10,7 +11,7 @@ permalink: /philosophy/
 
 </center>
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Pythagoras"><img src="/images/pythagoras-small.jpg" align="center" alt="Pythagoras"></a>
+<img src="/images/pythagoras-small.jpg" align="center" alt="Pythagoras">
 
 So you're taking philosophy? Awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
