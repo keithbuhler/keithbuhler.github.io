@@ -7,9 +7,6 @@ header:
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="40px" align="right"> 
 
-*This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
-
-
 I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
 
 I've been a classical educator in colleges and classical high schools for [8+ years](/Buhler-CV). I use immersive Socratic dialogue, great books, and humor to introduce folks to the great conversation.  
@@ -22,6 +19,9 @@ In my spare time (about 45 minutes per month), I like clay sculpting, writing fi
 * [PhilPapers](http://philpapers.org/profile/47267)
 * [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
  
+
+*This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
+
 
 <br>
 <br>
