@@ -1,6 +1,8 @@
 ---
 title: Comic Book Girl Review
 layout: post
+header:
+    image: https://i.ytimg.com/vi/lQIuTGfPHvA/maxresdefault.jpg
 ---
 
 This is my first Comic Book Girl video, but everything she says is reasonable. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
@@ -16,4 +18,4 @@ To me the trailer for the new one looked... meh. The bruhaha over the movie inte
 
 Check out Comic Book Girl's video here: 
 
-https://www.youtube.com/watch?v=lQIuTGfPHvA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQIuTGfPHvA" frameborder="0" allowfullscreen></iframe>
