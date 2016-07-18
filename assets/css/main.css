@@ -300,12 +300,12 @@ tr,td,th{vertical-align:middle}
 .greedy-nav .hidden-links:after{content:"";position:absolute;top:-10px;right:10px;width:0;border-style:solid;border-width:0 10px 10px;border-color:#fff transparent;display:block;z-index:1}
 .greedy-nav .hidden-links li{display:block;border-bottom:1px solid #f2f3f3}
 .greedy-nav .hidden-links li:last-child{border-bottom:none}
-.nav__list{font-size:1.25rem}
+.nav__list{font-size:1.33rem}
 .nav__list ul{margin-bottom:1em}
 .nav__list a{display:block;padding:0.125em 0;color:inherit}
 .nav__list a:hover{text-decoration:underline}
 .nav__list .active{margin-left:-0.5em;padding-left:0.5em;padding-right:0.5em;color:#fff;font-weight:bold;background:#7a8288;border-radius:4px}
-.nav__list .active:hover{color:#fff}
+.nav__list .active:hover{color:#24248f}
 .nav__title{margin:0;padding:0.5rem 1rem;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em;font-weight:bold}
 .nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
 .toc{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;color:#7a8288;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
@@ -468,7 +468,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__content p,.page__content li,.page__content dl{font-size:1em}
 .page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}
-.page__content a:hover{text-decoration:underline}
+.page__content a:hover{color: #24248f; text-decoration:underline}
 .page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .page__content dt{margin-top:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
 .page__content dd{margin-left:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em}
