@@ -1,13 +1,15 @@
 ---
 title: Comic Book Girl Review
-layout: post
-
+layout: single
+tags: [movies, comedy]
+comments: true
+excerpt: This is my first time watching a Comic Book Girl video, but everything she says is reasonable. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
 
 ---
 
-<img src="https://i.ytimg.com/vi/lQIuTGfPHvA/maxresdefault.jpg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQIuTGfPHvA" frameborder="0" allowfullscreen></iframe>
 
-This is my first Comic Book Girl video, but everything she says is reasonable. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
+This is my first time watching a Comic Book Girl video, but everything she says is reasonable. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
 
 Disclaimers: 
 
@@ -21,4 +23,3 @@ To me the trailer for the new one looked... meh. The bruhaha over the movie inte
 
 Check out Comic Book Girl's video here: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQIuTGfPHvA" frameborder="0" allowfullscreen></iframe>
