@@ -1,6 +1,6 @@
 ---
 title: How to make Iced Coffee
-layout: single
+layout: post
 comments: true
 tags: [comedy, humor]
 author_profile: true
