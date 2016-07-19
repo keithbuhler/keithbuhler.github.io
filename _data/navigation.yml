@@ -11,9 +11,7 @@ main:
 
 # Philosophy Portal links (for students)
 philosophy:
-  - title: "Syllabi"
-    url: http://keithbuhler.com/teaching
-  - title: "How to Succeed In Class"
+  - title: "How to Succeed"
     url: http://keithbuhler.com/philosophy-class
   - title: "What's Next?"
     url: http://keithbuhler.com/philosophy-6-next
@@ -21,6 +19,8 @@ philosophy:
     url: http://keithbuhler.com/philosophy-3-major
   - title: "What about Grad School?"
     url: http://keithbuhler.com/philosophy-7-profession
+  - title: "Syllabi"
+    url: http://keithbuhler.com/teaching
 
 
 

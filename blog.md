@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [philosophy, science, fun, politics]
-categories: 
+tags: [philosophy]
+categories: [wisdom]
 comments: true
 header:
   image: blog-header-uk-large.jpg
@@ -49,7 +49,7 @@ header:
 
 ## About Buhler
 
-<img src="/images/keithbuhler-bw-small.png" align="left"> Thanks for visiting. I'm a [philosopher,](/) classical [educator,](/teaching) and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). This site (which is in development) hosts ecclectic projects I hope will help you on your journey by enlightening and entertaining. Browse, leave a comment, or send me a note. Thanks for visiting.
+<img src="/images/keithbuhler-bw-small.png" align="left"> Thanks for visiting. I'm a [philosopher,](/) classical [educator,](/teaching) and [writer](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). The Buhler Report is in development. My goal is to provide thoughtful dialogue on timeless wisdom and current events to enlighten and entertain you on your journey. Browse, leave a comment, or send me a note. Thanks for visiting.
 
 
 ## New stuff
