@@ -10,7 +10,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 
 -----
 
-<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
+<p><a id="Buhler Report" target="_blank" href="http://www.keithbuhler.com/blog"> <img src="/favicon.ico" align="left" width="256" height="256"> </a></p><p align="right"> The Buhler Report: To enlighten and entertain. Timeless wisdom. Current events.</p>
 
 <br>
 <br>
@@ -29,7 +29,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 
 
 
-<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books2.jpg" alt="books" align="left"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
+<p><a id="IRP" target="_blank" href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books2.jpg" alt="books" align="left" width="256" height="256"> </a>  </p><p align="right">Reading Intentionally: A self-help program designed for reading more books. </p>
 
 
 <br>
@@ -48,7 +48,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 
 
 
-<p><a id="Classical Ed" target="_blank" href="http://www.keithbuhler.com/fun-portal/classical-education"> <img src="/images/spiral-small.jpg" align="left" width="236" height="236"> </a></p><p align="right"> Classical Education: What is it? </p>
+<p><a id="Classical Ed" target="_blank" href="http://www.keithbuhler.com/fun-portal/classical-education"> <img src="/images/spiral-small.jpg" align="left" width="256" height="256"> </a></p><p align="right"> Classical Education: What is it? </p>
 
 
 <br>
