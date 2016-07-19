@@ -1,6 +1,6 @@
 ---
 title: Incompleteness of Physics
-layout: single
+layout: post
 categories: [philosophy]
 tags: [philosophy, wisdom]
 permalink: 

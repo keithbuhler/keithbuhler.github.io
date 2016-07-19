@@ -1,6 +1,6 @@
 ---
 title: Comic Book Girl Review
-layout: single
+layout: post
 tags: [movies, comedy]
 comments: true
 excerpt: This is my first time watching a Comic Book Girl video, but everything she says is reasonable. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)

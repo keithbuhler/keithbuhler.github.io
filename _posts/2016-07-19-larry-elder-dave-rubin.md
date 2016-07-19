@@ -1,6 +1,6 @@
 ---
 title: Dave Rubin, Larry Elder
-layout: single
+layout: post
 categories: [politics]
 tags: [politics]
 permalink: 

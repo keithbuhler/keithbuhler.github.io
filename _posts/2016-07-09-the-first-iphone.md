@@ -1,6 +1,6 @@
 ---
 title: The First iPhone
-layout: single
+layout: post
 permalink: /first-iphone
 comments: true
 tags: [humor]

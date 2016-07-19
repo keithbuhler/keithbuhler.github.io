@@ -1,9 +1,10 @@
 ---
-layout: single
+layout: post
 tags: [philosophy, science, fun, politics]
-comments: false
+categories: 
+comments: true
 header:
-  image: blog-header-uk.jpg
+  image: blog-header-uk-large.jpg
 
 ---
 
