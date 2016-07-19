@@ -91,68 +91,6 @@ Join us!
 - [Martin Cothran](http://www.memoriapress.com/onlineschool/faculty/martin-cothran) on [the seven liberal arts](https://vimeo.com/85731207)
 
 
-## Classical Text Books
-
-
-**How to Teach math** -- Read Josh Lawmen's inspiring Essay, [*People of the Math*](/math) -- "It is only important to remember that numbers are intrinsically beautiful and wonderful – we do not need to project these qualities onto them." 
-
-
-**How to teach logic** -- Read Bradley Griffith's [*A Logical Introduction* is the best book on the market.](https://books.google.com/books?op=lookup&id=gewqjgEACAAJ&continue=https://books.google.com/books/about/A_Logical_Introduction.html%3Fid%3DgewqjgEACAAJ%26hl%3Den)
-
-
-## Links
-
-- [Family who sent six kids to college by age 12](http://www.today.com/news/meet-family-who-sent-six-kids-college-age-12-1C9316706)
-- [High school teacher warns college profs](http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/02/09/a-warning-to-college-profs-from-a-high-school-teacher/)
-- [Reflections by a college philosophy professor on what college is for](http://opinionator.blogs.nytimes.com/2013/05/22/why-do-i-teach/)
-- [Picture-book Philosophy for 2nd Grade](http://www.youtube.com/watch?v=x5wuHRyHez0&feature=player_embedded#!)
-- [Philosophy curriculum for children](http://www.teachingchildrenphilosophy.org/wiki/Sample_Courses)
-- [Pre-college Philosophy education and Ethics Bowl](http://squirefoundation.org/)
-- [Auden on Poetic Education](http://ayjay.tumblr.com/post/48935685281/in-my-daydream-college-for-bards-the-curriculum)
-- [Intellectual Virtues middle school](http://www.ivalongbeach.org/about/)
-- [Uncollege Manifesto](http://www.uncollege.org/manifesto/)
-- [New Atlanta Charter Classical School](http://www.reporternewspapers.net/2013/05/14/boe-to-consider-proposed-buckhead-charter-school/)
-- [Thoughts on Math/Science classical curricula](http://thomism.wordpress.com/2013/05/13/classical-education-and-the-mathscience-problem/)
-- [Private school switching to classical curriculum](http://www.therecord.com/opinion/letters/article/935436--a-refreshing-change-in-education)
-- [Pitfalls of classical education](http://writingrhetorically.com/category/classical-education/)
-- [International Center for Home Education Research Reviews (Four Home school families)](http://icher.org/blog/?p=733)
-- [Review of Peter Leithart's "New Classical" Schooling](http://icher.org/blog/?p=731)
-- [Report on the growing popularity of classical education](http://schoolsofthought.blogs.cnn.com/2013/06/21/classical-schools-put-plato-over-ipad/)
-- [Fred Sanders on Opening Questions](http://www.patheos.com/blogs/scriptorium/2013/07/the-opening-question-torrey-101/)
-- [Reasons to study philosophy in undergrad](https://sites.google.com/site/whystudyphilosophy/)
-- [Classical education teacher and classics](http://www.shreveporttimes.com/article/D4/20130811/NEWS/308110020/The-Sunday-Q-Austin-Cagle-Classical-education-can-teach-students-how-think-more-critically?nclick_check=1)
-- [Martin Cothran on What is Classical Education?](https://www.youtube.com/watch?v=dTi-R01HUIU)
-- [Rebekah Hagstrom -- What if everyone had a classical education?](https://www.youtube.com/watch?v=0m5yDZCy2pE)
-
-
-
-
-## FAQ
-
-**1. Should I consider classical education for my family?** 
-The short answer is, ‘Yes!’ Every American family should know their options, including home school, private school, charter school, and more. 
-
-Veritas Academy combines the flexibility of home-school cooperative network with the rigor of a 2-day college preparatory model —  guided throughout by a commitment to classical education. 
-
-**2. Is classical education for me?** 
-Classical education is a wonderful option for many families. But even if you are already pursuing homeschooling in a Christian environment, you have options.  So you may be asking the practical question, “Is it for me?” and “Is it for my child?” 
-
-This discernment process takes time and prayer. Every family ought to know first of all that the classical education movement exists. If you’re here, you know!The next step then is to ask... What is it? And why do it? 
-
-
-
-
-## The Trivium
-
-Coming soon...
-
-## The Quadrivium
-
-Coming soon...
-
-
-### Mastery of Truth: A Doctor of philosophy in: Medicine, Theology, Law
-
 
 
 ## My story 
@@ -184,3 +122,68 @@ CS Lewis, who was shipped off to boarding school is a nice young British boy whe
 ## Conclusion
 
 So as we all pursue her continuing education if the kingdom. May help us to become better students, better disciples,  better Christians in the service of his gospel, for of all his people Christian or non-Christian, until we come to see the good, the true the beautiful itself, Jesus Christ our Lord.
+
+
+
+
+## Classical Text Books
+
+
+**How to Teach math** -- Read Josh Lawmen's inspiring Essay, [*People of the Math*](/math) -- "It is only important to remember that numbers are intrinsically beautiful and wonderful – we do not need to project these qualities onto them." 
+
+
+**How to teach logic** -- Read Bradley Griffith's [*A Logical Introduction* is the best book on the market.](https://books.google.com/books?op=lookup&id=gewqjgEACAAJ&continue=https://books.google.com/books/about/A_Logical_Introduction.html%3Fid%3DgewqjgEACAAJ%26hl%3Den)
+
+
+## FAQ
+
+**1. Should I consider classical education for my family?** 
+The short answer is, ‘Yes!’ Every American family should know their options, including home school, private school, charter school, and more. 
+
+Veritas Academy combines the flexibility of home-school cooperative network with the rigor of a 2-day college preparatory model —  guided throughout by a commitment to classical education. 
+
+**2. Is classical education for me?** 
+Classical education is a wonderful option for many families. But even if you are already pursuing homeschooling in a Christian environment, you have options.  So you may be asking the practical question, “Is it for me?” and “Is it for my child?” 
+
+This discernment process takes time and prayer. Every family ought to know first of all that the classical education movement exists. If you’re here, you know!The next step then is to ask... What is it? And why do it? 
+
+
+
+
+## The Trivium
+
+Coming soon...
+
+## The Quadrivium
+
+Coming soon...
+
+
+### Mastery of Truth: A Doctor of philosophy in: Medicine, Theology, Law
+
+
+
+
+## Links
+
+- [Family who sent six kids to college by age 12](http://www.today.com/news/meet-family-who-sent-six-kids-college-age-12-1C9316706)
+- [High school teacher warns college profs](http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/02/09/a-warning-to-college-profs-from-a-high-school-teacher/)
+- [Reflections by a college philosophy professor on what college is for](http://opinionator.blogs.nytimes.com/2013/05/22/why-do-i-teach/)
+- [Picture-book Philosophy for 2nd Grade](http://www.youtube.com/watch?v=x5wuHRyHez0&feature=player_embedded#!)
+- [Philosophy curriculum for children](http://www.teachingchildrenphilosophy.org/wiki/Sample_Courses)
+- [Pre-college Philosophy education and Ethics Bowl](http://squirefoundation.org/)
+- [Auden on Poetic Education](http://ayjay.tumblr.com/post/48935685281/in-my-daydream-college-for-bards-the-curriculum)
+- [Intellectual Virtues middle school](http://www.ivalongbeach.org/about/)
+- [Uncollege Manifesto](http://www.uncollege.org/manifesto/)
+- [New Atlanta Charter Classical School](http://www.reporternewspapers.net/2013/05/14/boe-to-consider-proposed-buckhead-charter-school/)
+- [Thoughts on Math/Science classical curricula](http://thomism.wordpress.com/2013/05/13/classical-education-and-the-mathscience-problem/)
+- [Private school switching to classical curriculum](http://www.therecord.com/opinion/letters/article/935436--a-refreshing-change-in-education)
+- [Pitfalls of classical education](http://writingrhetorically.com/category/classical-education/)
+- [International Center for Home Education Research Reviews (Four Home school families)](http://icher.org/blog/?p=733)
+- [Review of Peter Leithart's "New Classical" Schooling](http://icher.org/blog/?p=731)
+- [Report on the growing popularity of classical education](http://schoolsofthought.blogs.cnn.com/2013/06/21/classical-schools-put-plato-over-ipad/)
+- [Fred Sanders on Opening Questions](http://www.patheos.com/blogs/scriptorium/2013/07/the-opening-question-torrey-101/)
+- [Reasons to study philosophy in undergrad](https://sites.google.com/site/whystudyphilosophy/)
+- [Classical education teacher and classics](http://www.shreveporttimes.com/article/D4/20130811/NEWS/308110020/The-Sunday-Q-Austin-Cagle-Classical-education-can-teach-students-how-think-more-critically?nclick_check=1)
+- [Martin Cothran on What is Classical Education?](https://www.youtube.com/watch?v=dTi-R01HUIU)
+- [Rebekah Hagstrom -- What if everyone had a classical education?](https://www.youtube.com/watch?v=0m5yDZCy2pE)

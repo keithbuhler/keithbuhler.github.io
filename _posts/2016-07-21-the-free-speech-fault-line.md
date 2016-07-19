@@ -10,7 +10,6 @@ header:
     image: 
 
 ---
-https://www.aclu.org/hate-speech-campus?redirect=free-speech/hate-speech-campus
 
 The dominant distinction in American politics is the "left/right" distinction. Politicians, voters, media conglomorates, pundits, and actors are plotted on a graph from conservative or to liberal.
 
@@ -34,3 +33,5 @@ The point is that the Bernie folks hold their nose at Clinton just as much as th
 Enter Free Speech. There is a new fault line in town -- the free speech fault line. Liberals and conservatives who are pro-free speech get along rather well; and both tussle with anti-free-speech advocates who think some opinions are badthink and must be silenced.
 
 ![Bad color!](https://i.ytimg.com/vi/RFkVbOye_Vo/maxresdefault.jpg)
+
+[The ACLU is as liberal as it comes, but they stand with free speech.](https://www.aclu.org/hate-speech-campus?redirect=free-speech/hate-speech-campus) Their Q&A shows how much heat they take from their authoritarian leftist fans and members.
