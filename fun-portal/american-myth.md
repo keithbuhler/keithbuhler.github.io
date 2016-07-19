@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Still in the Shining Sea - An American Myth
-permalink: /buhlerreport/american-myth
+permalink: /american-myth
 ---
 
 

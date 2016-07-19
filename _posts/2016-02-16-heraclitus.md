@@ -2,6 +2,7 @@
 layout: post
 title: Heraclitus Defragmented - An Interpretation
 tags: philosophy
+permalink: /heraclitus/
 excerpt_separator: <!--more-->
 
 ---

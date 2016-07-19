@@ -1,5 +1,6 @@
 ---
 title: Buhler | Writings | Fiction and Non-Fiction
+layout: post
 ---
 
 ## Writings #
@@ -15,8 +16,8 @@ I have been composing poetry, fiction, and writing essays for many years. Right 
 * [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
 * [Still In the Shining Sea: An American Myth](/american-myth) (short story)
-* [The Sin of Satan: On the Problem of Evil](http://keithbuhler.github.io/writings-sin-of-satan) (dialogue)
-* [Heraclitus: An Interpretation](/heraclitus)
+* [The Sin of Satan: On the Problem of Evil](/sinofsatan) (dialogue)
+* [Heraclitus Defragmented: An Interpretation](/heraclitus)
 
 
 ### Short Stories, Fables, and Fairy Tales ##
@@ -26,7 +27,7 @@ I have been composing poetry, fiction, and writing essays for many years. Right 
 * [The Death of Renfield](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEVHZFVCSUxydjA/view) (short fiction)​
 * [Gorge and the Ice God](https://drive.google.com/file/d/0B0CYQDZ8AWu8MWFFa09BZmViOUU/view) (sci-fi)
 * [The Giving Well](https://drive.google.com/file/d/0B0CYQDZ8AWu8WE9OODRiRFRkR3c/view) (fairy tale)
-* [Fables on Leading & Following](/fables.pages)  (fables) 
+* [Fables on Leading & Following][coming soon]
 
 ### Poetry
 * [The Boy and the Poem](https://docs.google.com/document/d/1rXeehuQu2bWKUFtLT-1a4THizuz__-AVWrLa1V6HEis/edit?usp=sharing)
@@ -35,10 +36,10 @@ I have been composing poetry, fiction, and writing essays for many years. Right 
 
 ### Screenplays
 * [Misha and Liz](https://drive.google.com/file/d/0B0CYQDZ8AWu8NHRLNWgxMGtMZWM/view) (short film)  
+* [G8: The Last War](https://drive.google.com/file/d/0B0CYQDZ8AWu8VXY4ejBXVmxPY2s/view) (feature film)
 * Aedis Diana  (feature film)
 * The Hispanola Vampire: Amelia (feature film)
 * The Hispanola Vampire: Bobadilla (feature film)
-* [G8: The Last War](https://drive.google.com/file/d/0B0CYQDZ8AWu8VXY4ejBXVmxPY2s/view) (feature film)
 
 ### Humor/Satire
 * [Google Acquires U.S. Government](https://drive.google.com/file/d/0B0CYQDZ8AWu8RTN5bHdIUUFvV1U/view)  
@@ -47,21 +48,18 @@ I have been composing poetry, fiction, and writing essays for many years. Right 
 * [College Student Might Give Professor a "2"](http://ukcolonel.com/uk-student-might-rate-professor-as-a-2/)  
 * [Woman Finds Man of her Dreams](https://drive.google.com/file/d/0B0CYQDZ8AWu8MXRnaTJza0lTR1k/view)  
 * [Henry and Janet's Big Day](https://drive.google.com/file/d/0B0CYQDZ8AWu8V2JvZlhTcFNXLXc/view)
-* [On Bad Words](http://keithbuhler.github.io/writings-bad-words)  
-* [Universal Human Rights](http://keithbuhler.com/rights/)  
- 
+* [On Bad Words](/badwords)   
 
 
 
 ### Non-Fiction
-* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
-* [Is "philosophy" a "science"?](http://www.philosophyisscience.com)
-* [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
-* [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
 * [Who Cares? Learning through discussion](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html) (in Examined Life)
+* [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
+* [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
+* [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
 * [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
 * [Is Beauty Objective?](/is-beauty-objective)
-* 
+*
 
 ### Film and Music Criticism
 * [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  

@@ -1,12 +1,13 @@
 ---
 layout: article
 title: The Sin of Satan
+permalink: /sinofsatan/
 ---
 
 # The Sin of Satan
 
 by Keith Buhler
-phi
+
 ## Introduction:
 
 The problem of evil is the hardest problem for theists to solve. It is the best rational reason not to believe in the Christian God, the father of Jesus Christ. It is “the one serious objection to the existence of God.” (Kreeft, “The Problem of Evil”).
