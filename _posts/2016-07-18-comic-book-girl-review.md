@@ -1,5 +1,5 @@
 ---
-title: Comic Book Girl's Take on Ghostbusters
+title: Comic Book Girl 19's Take on Ghostbusters (2016)
 layout: post
 tags: [movies]
 comments: true
@@ -21,6 +21,14 @@ Was not enourmous fan of original Ghostbusters. I was a little young for it, nev
 To me the trailer for the new one looked... meh. The bruhaha over the movie interests me though. 
 
 
-UPDATE: 
+UPDATE I: 
 
 I'm watching, and very much enjoying, Ghostbusters (1984). After that, the sequel!
+
+
+UPDATE II: 
+
+[Comic Book Girl did a FOLLOW-UP video here,](https://www.youtube.com/watch?v=Sn_vAcFGTJU) explaining why it's important to be honest.
+
+Best line: "I need to see people having fun doing this, pushing the boundaries of art... Making me think about things. See the world in different ways. And expanding my consciousness. That's what I use movies for. It's not just about escapism. It's also about refining one's soul through the process of viewing art."
+

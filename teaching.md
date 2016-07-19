@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Teaching
-author_profile: true
+author_profile: false
 
 ---
 
@@ -41,7 +41,7 @@ S2013 Introduction to Logic
 2. "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
 3. "You have challenged me and helped me grow as person." (PHI305, 2015)
 4. "I was really surprised that readings, lectures and discussions could change the opinion of my stubborn self." (PHI305, 2015)
-5. It is sometimes hard to respect the other side, but as I have learned this semester, you may not always agree but you have to respect it." (PHI305, 2015) 
+5. "It is sometimes hard to respect the other side, but as I have learned this semester, you may not always agree but you have to respect it." (PHI305, 2015) 
 6. "Buhler is very theatrical about philosophy which is great." (PHL200 2014)
 7. "He treats us like adults and enjoys discussion." (PHL200, 2014)
 8. "None of his assignments are busy work." (PHL200, 2014)

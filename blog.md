@@ -8,6 +8,8 @@ header:
 
 ---
 
+<img src="blog-header-uk-large.jpg">
+
 <center> 
 
 <h1> THE BUHLER REPORT </h1>
@@ -17,6 +19,8 @@ header:
 </center>
 
 ----
+
+(*Click the blue title to read the full post*)
 
 {% for post in site.posts %}
 

@@ -17,7 +17,7 @@
 # Site Author
 author:
   name             : "Keith B"
-  avatar           : "keithbuhler-bw-small.png"
+  avatar           : "keithbuhler-bw-small.png" 
   bio              : "Philosopher, educator, author, Duck-billed Platypus"
   location         : "Wilmore, KY"
   email            : "keithedbuhler@gmail.com"
@@ -55,20 +55,8 @@ encoding:       utf-8
 
 
 # Social networking links used in footer. Update and remove as you like.
-  twitter: 
-    username:     keith_buhler
-  facebook: 
-    username:     keithedbuhler
-  github:         keithbuhler
 
   og_image:       aristotle50.bmp
-
-# Specific social profiles
-social: 
-  type: ""
-  links:
-    -"http://twitter.com/Keith_Buhler"
-    -"http://www.facebook.com/keithedbuhler"
 
 # Analytics for Google would go here UA-71712734-1
 
