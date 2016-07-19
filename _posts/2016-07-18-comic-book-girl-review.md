@@ -3,14 +3,12 @@ title: Comic Book Girl's Take on Ghostbusters
 layout: post
 tags: [movies]
 comments: true
-excerpt: This is my first time watching a Comic Book Girl video, but everything she says is reasonable. Also, that hair.
 
 ---
-Check out Comic Book Girl's video here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQIuTGfPHvA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQIuTGfPHvA" frameborder="0" allowfullscreen></iframe> This is my first time watching a Comic Book Girl video, but everything she says about the new Ghostbusters seems reasonable to me. 
 
-This is my first time watching a Comic Book Girl video, but everything she says about the new Ghostbusters seems reasonable to me. Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
+Also, [that hair.](https://www.youtube.com/watch?v=lQIuTGfPHvA)
 
 Disclaimers: 
 

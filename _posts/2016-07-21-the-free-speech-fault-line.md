@@ -11,6 +11,8 @@ header:
 
 ---
 
+<img src="http://www.sanluisobispo.com/news/local/education/fob4u5/picture54214490/ALTERNATES/FREE_768/Cal+Poly+Protest00694">
+
 The dominant distinction in American politics is the "left/right" distinction. Politicians, voters, media conglomorates, pundits, and actors are plotted on a graph from conservative or to liberal.
 
 There is good reason to be skeptical that this x-axis captures all the complexity of disagreement between various political traditions. It is easy to come up with an x/y axis graph that includes "Libertarian" as an alternative label for right-centric folks and "Progressive" as an alternative label for left-centric folks. Even millenials who identify as liberal identify as "libertarian" (67%) slightly more often than they do "progressive" (64%). 

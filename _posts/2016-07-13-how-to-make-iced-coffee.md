@@ -9,6 +9,8 @@ header:
   image: https://static.pexels.com/photos/6347/coffee-cup-working-happy-medium.jpg
 ---
 
+<img src="https://static.pexels.com/photos/6347/coffee-cup-working-happy-medium.jpg" width="80%">
+
 It's summertime now, so caffeine addicts like myself sometimes don't want a steamy cup of joe. We'd rather enjoy a cool, refreshing glass of iced coffee. 
 
 Why not make your own? Starbucks be darned. 
