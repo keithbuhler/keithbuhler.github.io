@@ -7,9 +7,10 @@ layout: slide
 
 # Syllabus
 
-Setting expectations
+*Setting expectations*
 
 </section><section data-markdown>
+
 # Welcome!
 
 * 3x5 cards
