@@ -3,18 +3,16 @@ title: Introduction
 layout: slide
 ---
 
-<section data-background="https://upload.wikimedia.org/wikipedia/commons/f/f5/Photos_NewYork1_032.jpg">
+<section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
 <section data-markdown>
 
-<font color="#ccc"> 
-<h1> Syllabus  </h1>
+# Business ethics
 
-*Setting expectations*
+*PHI 334 Syllabus Day*
 
 </font>
 
-</section></section>
-<section data-markdown>
+</section></section><section data-markdown>
 
 ## Welcome!
 
@@ -24,10 +22,30 @@ layout: slide
 
 </section><section data-markdown>
 
+## A little about me
+
+--->
+
+- Grew up in the South... of CA
+- White
+- "Graduate student in philosophy", i.e., prol
+- Entrepreneur
+
+</section><section data-markdown>
+
+## Why are you here? 
+
+And what are you hoping for/ fearing from this class?
+
+</section><section data-markdown>
+
 ## What is this class about? 
 
 Some of the hardest decisions we make have to do with business. 
+
 As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come.
+
+[(Full syllabus is online)](http://www.keithbuhler.com/syllabus334)
 
 </section><section data-markdown>
 
@@ -40,7 +58,6 @@ Philosophy in generally asks questions about foundations of the world and our kn
 ## Philosophy -> Ethics
 
 Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable? 
-
 
 
 </section><section data-markdown>
@@ -73,8 +90,10 @@ Though we will consider arguments from Kantian, consequentialist, and religious 
 
 ## 2 minutes left
 * Questions?
-* Write a short response
+* Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
 * Review syllabus and next assignments
+* You can review these slideshows! -- www.keithbuhler.com/slideshows
+* Friday: discuss syllabus; business ethics in a bit more detail
 
 
 </section><section data-markdown>
