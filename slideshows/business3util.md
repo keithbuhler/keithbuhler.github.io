@@ -303,5 +303,3 @@ Suppose there is a murder or terrorist attack with an unknown perpetrator. We ca
 * What are your questions?
 * Write a short response: is utilitarianinism plausible?
 * Review handout
-
-</section><!--end day 2 -->
