@@ -1,6 +1,6 @@
 ---
 title:      Aristotle
-layout: slide
+layout: presentation
 ---
 
 
