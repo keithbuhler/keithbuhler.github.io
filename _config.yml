@@ -123,18 +123,16 @@ defaults:
         author_profile: true
         layout: single
 
+scope:
+      path: ""
+      type: "presentations"
+    values:
+      layout: "presentation"
+
 defaults:
   # _pages
   - scope:
       path: ""
       type: pages
-    values:
-      layout: single
-
-defaults:
-  # _foo
-  - scope:
-      path: ""
-      type: foo
     values:
       layout: single
