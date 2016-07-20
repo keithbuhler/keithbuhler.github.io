@@ -4,20 +4,23 @@ title: Utilitarianism
 theme: sky
 ---
 
-<section data-markdown>
+
+<section data-markdown> <!--Begin day 1-->
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 
 # Week 3: Utilitarianism
 
 *Everything you need to know in 50 minutes or less*
 
-</section></section>
+</section><section data-markdown>
 
 ### Utilitarianism: All the points!
 
 ![All the things](http://nearby-pla.net/images/library/slack-emoji/all-the-things-emoji.png)
 
 This overview is the outline of all the content we will cover. Don't worry if you don't "get it" all right away. Keep reading, then stop and review. 
+
+</section><section data-markdown>
 
 
 1. Utilitarianism  is the thesis that “the best moral action is one that maximizes ‘utility’ — pleasure, well-being.” (definition)
@@ -33,10 +36,14 @@ This overview is the outline of all the content we will cover. Don't worry if yo
 
 ### 1. The best moral action is one that maximizes "utility"
 
-What is good in itself? What is an intrinsic good? 
+
+</section><section data-markdown>
+
+
+### What is good in itself? 
 
 | Possible answer           |  Philosopher      | 
-|</section></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown><section data-markdown>--|</section></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown><section data-markdown>--|
+|----------------------------|------------------|
 | God                     | (Aquinas)           | 
 | The Form of Good        | (Plato)             | 
 | Happiness               | (Aristotle)         | 
@@ -63,8 +70,8 @@ Thus, the utilitarian asks us not simply to maximize short-term pleasures but al
 That is, it encourages us not to be gluttons and focus on satisfying our basest desires but also to work toward accomplishing things that will make our overall condition more pleasurable, e.g. reaching goals.
 
 </section><section data-markdown>
-### 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
+### 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
 **Metaethics** asks higher-order questions about what moral terms like ‘good’ mean and why people morally disagree. 
 
@@ -81,12 +88,13 @@ Utilitarians say: do whatever maximizes happiness.
 
 ### 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
-
 Should marijuana use be made illegal?  Does it cause pleasure or pain? Does it maximize pleasure over pain? Consider: 
 
 >Pros: Most commonly used illegal drug. (National Institute on Drug Abuse), feel high, have fun.
 
 >Cons: Gateway drug, correlated with mental health problems, anxiety, sleep problems. 
+
+</section><section data-markdown>
 
 Should rollercoasters be made illegal?  Do they cause pleasure or pain? Consider: 
 
@@ -173,9 +181,23 @@ Some other forms:
 * Then, review "objections" 
 
 
-</section><section data-markdown>
+</section>
+</section><!--End day 1-->
 
-### Business Ethics Week 03: Objections to Utilitarianism
+
+
+
+
+
+
+
+
+
+
+<section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
+<section data-markdown><!--Begin day 2-->
+
+# Objections to Utilitarianism
 
 *The good, the bad, the ugly*
 
@@ -276,5 +298,10 @@ Suppose there is a murder or terrorist attack with an unknown perpetrator. We ca
 * Write a short response
 * Review "objections" 
 
+</section>
+</section><!--end day 2 -->
 
-</section><section data-markdown>
+
+
+<section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
+<section data-markdown>

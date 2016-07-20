@@ -3,15 +3,13 @@ title: Introduction
 layout: slide
 ---
 
+
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
-<section data-markdown>
+<section data-markdown><!--Syllabus begin-->
 
 # Business ethics
 
-
-</font>
-
-</section></section><section data-markdown>
+</section><section data-markdown>
 
 ## Welcome!
 
@@ -21,20 +19,28 @@ layout: slide
 
 </section><section data-markdown>
 
+## About me
+
 ![Josiah in the snow](/images/josiah-snow.jpg)
 
 - Grew up in the South... of CA
 - First time living outside the country
-- Entrepreneur
-- "Graduate student in philosophy", i.e., prol
 
+</section><section data-markdown>
+
+## About me
+
+- "Graduate student in philosophy", i.e., prol
+- Entrepreneur
 ![Prols](http://lh6.google.com/adswithoutproducts/RuYPB5NQzqI/AAAAAAAAAfI/r-ykclVmkqg/s400/hiepe-buch-riese-proletariat2.jpg)
 
 </section><section data-markdown>
 
 ## Why are you here? 
 
-And what are you hoping for/ fearing from this class?
+* Name
+* Hometown
+* Something you are hoping for/ fearing from this class?
 
 </section><section data-markdown>
 
@@ -45,7 +51,7 @@ And what are you hoping for/ fearing from this class?
 * Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. 
 * This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come.
 
-Open your syllabus or follow [online](http://www.keithbuhler.com/syllabus334)
+Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus334)
 
 </section><section data-markdown>
 
@@ -139,14 +145,16 @@ How to read it
 
 ### Course Structure
 
-To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. The readings and lectures offer analysis, the discussions and papers synthesis. 
+* To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. 
+* Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. 
+* The readings and lectures offer analysis, the discussions and papers synthesis. 
 
 </section><section data-markdown>
 
 |  Assessment category  |  Percent of semester grade |
 | -----------------------| -----------------------|
 | Readings (quizzes) |         20%   |  
-| Participation (talk, write, present) |   20% |
+| Participation (talk/write) |   20% |
 | Tests (midterm, final)         |  30% |
 | Unit Papers    |  30% |
 
@@ -155,7 +163,12 @@ To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks
 </section><section data-markdown>
 
 ### Reading tips
-Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
+
+* Read ahead. Read carefully. 
+* You will get faster, but start slow and careful. 
+* Try to read *and understand* the book. What is the main thesis? Is it true?  
+* Take notes. Talk with each other before class. 
+* More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
 
 
 
@@ -165,35 +178,48 @@ Short reading quizzes assess that you read the day's text. These are easy points
 
 </section><section data-markdown>
 ###Attendance
-We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it? 
+* We need you here! Attendance is mandatory. 
+* Roll will be taken each class by marking a 3x5 card.  
+* (Being repeatedly or egregiously late will count as an absence.) 
+* You may check your absences at any time by requesting to see your card. 
+* I recommend you aim for perfect attendance to maximize your learning. 
+* You are paying for this education including this class, so why wouldn’t you make the most of it? 
 
 </section><section data-markdown>
 
 ### Attendance cont'd
 
-That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. 3 absences adds up to one week of classes you can miss with no penalty. 3 is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
+* That said, I give everyone up to 3 "Personal absences". 
+* These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep.
+*  3 absences adds up to one week of classes you can miss with no penalty. 3 is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. 
+*  After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 
+*  6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
 </section><section data-markdown>
 ### Participation
 
 
-The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged.
+The primary competency of this class is philosophical dialogue. 
+
+Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged.
 
 </section><section data-markdown>
 
 We do dialogue for five main reasons: 
 
-(1) You must take responsibility for your own learning. 
-(2) We can actually get to know each other.  
-(3) I learn best in discussion. 
-(4) Most people learn (and retain) best in discussion. 
-(5) Philosophy is dialogical. 
+1. You must take responsibility for your own learning. 
+2. We can actually get to know each other.  
+3. I learn best in discussion. 
+4. Most people learn (and retain) best in discussion. 
+5. Philosophy is dialogical. 
 
 </section><section data-markdown>
 ### Participation
 
-
-*You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
+* *You are responsible to talk in class.* 
+* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. 
+* Get out of your comfort zone into your growth zone. 
+* Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
 
 </section><section data-markdown>
 ### Participation
@@ -260,17 +286,19 @@ Those who opt for extra credit may do so. Instructions are posted online.
 * Friday: discuss business ethics in a bit more detail
 
 
-</section>
+</section><!--Syllabus end-->
 
 
 
-<section data-markdown>
+<section data-markdown><!--Friday, Intro begin-->
+<section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg">
 
 # Business Ethics  
 
 *What is business ethics?* 
 
-</section><section data-markdown>
+</section>
+<section data-markdown>
 
 ## Ethics applied to business
 
