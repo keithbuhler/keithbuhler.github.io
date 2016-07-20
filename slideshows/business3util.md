@@ -5,14 +5,14 @@ theme: moon
 ---
 
 
-<section data-markdown> <!--Begin day 1-->
+<section><!--Begin day 1-->
+<section data-markdown> 
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 
 # Week 3: Utilitarianism
 
 *Everything you need to know in 50 minutes or less*
 
-</section>
 </section>
 <section data-markdown>
 
@@ -44,15 +44,16 @@ This overview is the outline of all the content we will cover. Don't worry if yo
 
 ### What is good in itself? 
 
-| Possible answer           |  Philosopher      | 
-|----------------------------|------------------|
-| God                     | (Aquinas)           | 
-| The Form of Good        | (Plato)             | 
-| Happiness               | (Aristotle)         | 
-| A good will             | (Kant)              |
-| A just society          | (Rawls)             |
+| Possible answer             |  Philosopher      | 
+|-----------------------------|-------------------|
+| God                         | (Aquinas)           | 
+| The Form of Good            | (Plato)             | 
+| Happiness                   | (Aristotle)         | 
+| A good will                 | (Kant)              |
+| A just society              | (Rawls)             |
 | Friendship & aesthetic beauty |    (Moore)    |
 | Utility — the pleasure or freedom from pain of human beings |  (Mill) |
+
 
 
 </section><section data-markdown>
@@ -139,10 +140,8 @@ The goal is to live a life of cultivated pleasure, balancing intellectual and ph
 
 ### 6. Utilitarianism is a form of consequentialism
 
-**Consequentialist principle:** actions are judged right or wrong not in themselves, but upon the consequences or state of affairs they produce.
-
+* **Consequentialist principle:** actions are judged right or wrong not in themselves, but upon the consequences or state of affairs they produce.
 What are the alternatives? 
-
 - Divine command - some actions are forbidden or commanded by God
 - Duty - some actions are permissible or impermissable by the moral law
 - Virtue - some character traits are intrinsically good
@@ -164,9 +163,16 @@ Other principles:
 
 Do individual actions have to be judged for their consequences? 
 
+</section><section data-markdown>
+
+
 RM Hare asks: 
 
 >One ought to abide by the general principles whose general inculcation is for the best; harm is more likely to come, in actual moral situations, from questioning these rules than from sticking to them, unless the situations are very extra-ordinary; the results of sophisticated felicific calculations are not likely, human nature and human ignorance being what they are, to lead to the greatest utility.
+
+
+</section><section data-markdown>
+
 
 Some other forms:
 
@@ -184,13 +190,9 @@ Some other forms:
 
 
 </section>
+</section>
+</section>
 </section><!--End day 1-->
-
-
-
-
-
-
 
 
 
@@ -203,9 +205,12 @@ Some other forms:
 
 *The good, the bad, the ugly*
 
+</section>
 </section><section data-markdown>
 
 ### Objections to utilitarianism include injustice, impractical, amoral
+
+</section><section data-markdown>
 
 ### Objection 1: Utilitarianism Relies on Hedonism and Hedonism is False
 
@@ -294,16 +299,10 @@ Suppose there is a murder or terrorist attack with an unknown perpetrator. We ca
 
 </section><section data-markdown> 
 
-### Stop to Review
+### 2 minutes left
 
 * What are your questions?
-* Write a short response
-* Review "objections" 
+* Write a short response: is utilitarianinism plausible?
+* Review handout
 
-</section>
 </section><!--end day 2 -->
-
-
-
-<section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
-<section data-markdown>
