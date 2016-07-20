@@ -167,6 +167,7 @@ Is the moral law unreal or real? Are rules like "human beings do not steal" just
 
 
 </section> 
+</section>
 
 <section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg">
 <section data-markdown>
