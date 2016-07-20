@@ -55,34 +55,16 @@ feature_row4:
 {% include feature_row id="feature_row4" type="center" %}
 
 
+## Syllabi
 
-My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
-
-### Course Syllabi
 
 F2016 Business Ethics ([Syllabus](/syllabus334))  
+
 F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+
 S2015 Introduction to Philosophy ([Syllabus](/syllabus200))  
 
 
-### Official Student Evaluation Stats
+## Resources
 
-- 3.6 out of 4, cumulative average in overall teaching quality (combined University of Kentucky and Asbury University)
-- 3.5 out of 4, cumulative average in overall course quality
-
- 
-### Student Feedback Highlights ###
-
-1. “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
-2. "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
-3. "You have challenged me and helped me grow as person." (PHI305, 2015)
-4. "I was really surprised that readings, lectures and discussions could change the opinion of my stubborn self." (PHI305, 2015)
-5. It is sometimes hard to respect the other side, but as I have learned this semester, you may not always agree but you have to respect it." (PHI305, 2015) 
-6. "Buhler is very theatrical about philosophy which is great." (PHL200 2014)
-7. "He treats us like adults and enjoys discussion." (PHL200, 2014)
-8. "None of his assignments are busy work." (PHL200, 2014)
-9. "He learned our names very quickly and took time to understand our points in discussion." (PHI305, 2015)
-10. "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
-11. "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
-
-### Rate My Professors
+## Presentations
