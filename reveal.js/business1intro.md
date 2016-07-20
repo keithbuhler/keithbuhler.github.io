@@ -62,8 +62,6 @@ In business ethics, we ask about foundations:
 
 These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. 
 
-Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
-
 
 </section><section data-markdown>
 
@@ -73,10 +71,10 @@ Though we will consider arguments from Kantian, consequentialist, and religious 
 </section><section data-markdown>
 
 
-## Before you go
+## 2 minutes left
 * Questions?
 * Write a short response
-* Review "objections" 
+* Review syllabus and next assignments
 
 
 </section><section data-markdown>
@@ -87,20 +85,19 @@ What is business ethics?
 
 </section><section data-markdown>
 
-# Ethics applied to business. 
+## Ethics applied to business. 
 
-Most basically, business ethics is ethics applied to business. 
-
-* Business ethics is done by philosophers who think deeply about these issues.  
-* Business ethics is is done businessmen who care about creating an ethical culture, conducting their trade ethically, and being socially responsible. 
-
-Business ethics is done by those with a philosophy background or those with a business background. I am an entrepreneur as well, but we are approaching it from philosophy and ethics. 
-
-
+* Most basically, business ethics is ethics applied to business. 
+* *Either* philosophers who think deeply about these issues.  
+* *or* businessmen who care about creating an ethical culture, conducting their trade ethically, and being socially responsible. 
 
 </section><section data-markdown>
 
-# Unethical business
+Business ethics is done by those with a philosophy background or those with a business background. I am an entrepreneur as well, but we are approaching it from philosophy and ethics. 
+
+</section><section data-markdown>
+
+## Unethical business
 
 Businesses and businessmen (gender neutral) can go do bad on purpose or on accident. (Compare "sins of commission" and "sins of ommission.")
 
@@ -110,13 +107,13 @@ Companies can be bad to their employees, bad to their customers, bad to other co
 
 </section><section data-markdown>
 
-# Philosophical ethics
+## Philosophical ethics
 
 What is philosophical ethics? The best thinking about the best ideas in the universe; goodness, truth, and beauty; justice, utility, rights, obligations, and personal virtues.  
 
 </section><section data-markdown>
 
-# Philosophical methods
+## Philosophical methods
 
 How does a philosopher do his or her job? 
 

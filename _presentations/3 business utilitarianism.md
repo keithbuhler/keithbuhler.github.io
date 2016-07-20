@@ -3,6 +3,7 @@ layout: slide
 title: Utilitarianism
 ---
 
+
 <section data-markdown>
 
 ### Business Ethics Week 03: Utilitarianism
@@ -31,7 +32,7 @@ This overview is the outline of all the content we will cover. Don't worry if yo
 What is good in itself? What is an intrinsic good? 
 
 | Possible answer           |  Philosopher      | 
-|--------------------------|--------------------|
+|</section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown>--|</section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown>--|
 | God                     | (Aquinas)           | 
 | The Form of Good        | (Plato)             | 
 | Happiness               | (Aristotle)         | 

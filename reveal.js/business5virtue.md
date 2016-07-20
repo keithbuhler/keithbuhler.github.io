@@ -3,10 +3,12 @@ layout: slide
 title: Business Ethics Week 05 -  Virtue Ethics
 ---
 
+<section data-markdown>
+
 "Where Excellence is a Habit"
 
 
----
+</section><section data-markdown>
 
 ## Aristotle, Nicomachean Ethics, Book I (Selections)
 
@@ -38,7 +40,7 @@ title: Business Ethics Week 05 -  Virtue Ethics
 
 
 
---- 
+</section><section data-markdown> 
 
 ## Virtue Ethics Overview
 
@@ -54,14 +56,14 @@ title: Business Ethics Week 05 -  Virtue Ethics
 10. Objections: Not everyone can know what is right; not practical; virtues can conflict; objective goodness of "living well"?
 
 
----
+</section><section data-markdown>
 
 ### 1. Virtue ethics originated with Aristotle.
 
 That is it originated (in the west) with Aristotle, Plato, Socrates and other Greeks, and (in the east) to Confucious and others.
 
 
----
+</section><section data-markdown>
 
 ### 2. The highest good is happiness. 
 
@@ -71,14 +73,14 @@ We want happiness *for its own sake*.
 
 
 
----
+</section><section data-markdown>
 
 
 ### 3. Happiness is "an activity of soul in accordance with perfect virtue." 
 
 In other words, virtue ethics says that the good life, happiness, well-being, is only possible for the virtuous and wise person. 
 
----
+</section><section data-markdown>
 
 ### 4. There are moral and intellectual virtues. 
 
@@ -86,7 +88,7 @@ Aristotle says: "Virtues" are good habits of feeling, action, and thought." The 
 
 Moral virtues concern intermediate between excess and deficiency, intellectual virtues assist you in judging true and false.
 
----
+</section><section data-markdown>
 
 ### 5. There are individual virtues (such as moderation) and social virtues (such as justice).
 
@@ -94,7 +96,7 @@ Some virtues have to do with how I comport myself even when no one is looking. O
 
 Other virtues have to do with how I comport myself in society. I can't be unjust to others if no others are around. I owe respect to my elders, but can't if I am the eldest. I owe care to my children, but can't if I don't have children. 
 
----
+</section><section data-markdown>
 
 ### 6. Ethics is not just about actions but about the whole of life. 
 
@@ -106,7 +108,7 @@ The primary question is: "how should I love?" What kind of life should I live?
 
 For example, what major goods should I pursue? What career should I choose? Marriage or no? Kids or no? Where should I live? 
 
----
+</section><section data-markdown>
 
 ### 7. Applying virtues takes practical wisdom. 
 
@@ -120,7 +122,7 @@ Practical wisdom is a form of intuitive reason. It is a "know how" rather than a
 
 Practical wisdom cannot be taught, but must be acquired through experience. Like piano playing, tennis, or making conversation. 
 
----
+</section><section data-markdown>
 
 ### 8. The "function" of humanity has to do with our rationality. 
 
@@ -130,14 +132,14 @@ What is it that humans do but no other creature does?
 - Not consciousness -- animals are conscious
 
 
----
+</section><section data-markdown>
 
 ### 9.  Friendship is a virtue.
 
 Friendship is not just a relationship but an activity -- the activity of being a good friend, benefiting your friends, etc. It requires reciprical respect but also actual benefits. Hence, one can be in or out of the habit of friendship. 
 
 
----
+</section><section data-markdown>
 
 ### 10. Objections: Not everyone can know what is right; not practical; virtues can conflict; objective goodness of "living well"?
 
@@ -145,7 +147,7 @@ Friendship is not just a relationship but an activity -- the activity of being a
 - Not practical. Virtues are broad, not specific. "Be virtuous" doesn't seem as useful as "don't ever lie." Response:
 - Virtues can conflict. What about the conflict between honesty and kindness? 
 
----
+</section><section data-markdown>
 
 ### Before you go
 

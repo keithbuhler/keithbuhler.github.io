@@ -1,7 +1,9 @@
 ---
-title: Week 04 Deontology
+layout: slide
+title: business 4 deontology
+----
 
----
+</section><section data-markdown>
 
 # Business Ethics Week 04: Kantian Deontology
 
@@ -10,7 +12,6 @@ But I. Kant!
 Yes you can!
 
 
-----
 # Kant, Groundwork, Section 1: 
 
 >Nothing can possibly be conceived in the world, or even out of it, which can be called good, without qualification, except a good will. Intelligence, wit, judgement, and the other talents of the mind, however they may be named, or courage, resolution, perseverance, as qualities of temperament, are undoubtedly good and desirable in many respects; but these gifts of nature may also become extremely bad and mischievous if the will which is to make use of them, and which, therefore, constitutes what is called character, is not good. It is the same with the gifts of fortune. Power, riches, honour, even health, and the general well-being and contentment with one's condition which is called happiness, inspire pride, and often presumption, if there is not a good will to correct the influence of these on the mind, and with this also to rectify the whole principle of acting and adapt it to its end. The sight of a being who is not adorned with a single feature of a pure and good will, enjoying unbroken prosperity, can never give pleasure to an impartial rational spectator. Thus a good will appears to constitute the indispensable condition even of being worthy of happiness.
@@ -63,7 +64,7 @@ Yes you can!
 
 
 
----
+</section><section data-markdown>
 
 # Kantianism: Everything you need to know 
 
@@ -80,7 +81,7 @@ Yes you can!
 
 Let's look at the details. 
 
----
+</section><section data-markdown>
 
 #1. "The good will obeys the moral law for morality's sake."
 
@@ -97,7 +98,7 @@ Example 3: Even if rescuing the puppy will get you a $50 reward, you should just
 Example 4: Even if being an honest businessman will earn your more clients and more money in the end, you should be honest becuase it's your duty. 
 
 
----
+</section><section data-markdown>
 
 #2. Kantianism is sometimes known as "duty-based" ethics or "deontology."
  
@@ -107,7 +108,7 @@ Example 4: Even if being an honest businessman will earn your more clients and m
 * Deontology teaches that there is one ultimate moral duty
 * Duty = moral law = categorical imperative
 
----
+</section><section data-markdown>
 
 #3. It's named after Immanuel Kant.
 
@@ -116,13 +117,13 @@ Prussian (German) philosopher, Immanual Kant (1724-1804) wrote *Groundwork of th
 Kant was an advocate and early adopter of the Enlightenment: the radical commitment to think for oneself. His moral theory is rooted in the nature of rationality itself.  
 
 
----
+</section><section data-markdown>
 
 
 #4. It has ancient roots in the Stoics. 
 "From their determinism the Stoics deduced the consequences of our actions are out of our control, so they (the consequences) cannot be the grounds of moral value. We need not only recognize by reasoning that *what happens is for the best*, but also we have a "*duty*" to play our part in bringing it about as best we can. The nature of moral value thus lies in being motivated by a sense of *a duty to play your part as well as you can in the cosmic drama*." [(Link)](http://www.loyno.edu/~folse/stoicism.html#4.%20The%20Stoic%20position%20in%20ethics%20is%20a%20deontological)
 
----
+</section><section data-markdown>
 
 #5. The only good thing is the good will. 
 
@@ -135,7 +136,7 @@ Kant says:
 
 
 
----
+</section><section data-markdown>
 
 #6. The moral law is "the categorical imperative."
 
@@ -157,7 +158,7 @@ Example: "If you want to be nice, do not set the guests on fire." What if I don'
 So that is that the moral law tells you: *Do your duty.* The content of your duty does not depend on your prior wants, needs, preferences, or anything. So what exactly is your duty? 
  
 
----
+</section><section data-markdown>
 
 #7. The categorical imperative can be formulated in several ways.
 
@@ -167,7 +168,7 @@ So that is that the moral law tells you: *Do your duty.* The content of your dut
 
 What do these mean? 
 
----
+</section><section data-markdown>
 
 #8. Do only what you can will to be a universal law. 
 
@@ -190,7 +191,7 @@ Practical rationality cannot contradict itself, either.
 
 
 
----
+</section><section data-markdown>
 
 # Before you go
 
@@ -200,11 +201,11 @@ Practical rationality cannot contradict itself, either.
 
 
 
---- 
+</section><section data-markdown> 
 
 # Business Ethics Week 04: Kantian Deontology, cont'd
 
----
+</section><section data-markdown>
 
 
 #9. Always treat humans as ends in themselves, not means to an end.
@@ -213,7 +214,7 @@ Kant's second formulation of the categorical imperative or moral law is this: �
 
 In other words, treat other people as *ends in themselves*. Don't use people as means. Is he arguing that you can't use other people, like the grocery store clerk or mechanic? No. You can treat someone as a means, but not *merely* as a means. When you "use" the mechanic 
 
----
+</section><section data-markdown>
 
 #9. Humans as Ends
 
@@ -223,7 +224,7 @@ Kant’s answer—the basis of the categorical imperative is that there are enti
 
 They have a price, and a worth, but this is determined by their usefulness or end. Persons do not have a price. They have absolute value.
 
----
+</section><section data-markdown>
 
 #10. Many good wills together form the kingdom of ends.
 
@@ -233,7 +234,7 @@ In such a hypothetical community, every person regards every other person as of 
 
 Why? For starters, it’s more likely that it will come about. But, Kant does not think that we ought to be motivated by consequences, utopian or otherwise. We ought to act this way because we in fact are a systematic union of rational beings in a community which have equal and absolute value.
 
----
+</section><section data-markdown>
 
 # How Kantianism works
 
@@ -245,7 +246,7 @@ When you are in a context where you are wondering what to do, and want to know w
 4. If you can conceive of such a world without contradiction or incoherence, then see if you can rationally will that you live in such a world. If not, STOP, the action is impermissible.[Note - the 'miser-loner' case gets past 3, but stops at 4, since the miser realizes that, even though he happens to not require help, he may, and would expect to get it--hence he can't rationally desire that people act uncharitably]
 5. If a maxim passes all these steps, then an action done according to the maxim is permissible.
 
----
+</section><section data-markdown>
 
 # How this works: suicide
 
@@ -259,7 +260,7 @@ Step 3—can it become a universal rational law of nature of humanity? Kant thin
 
 This is contradictory. So, suicide does not pass step 3, and is impermissible.
 
----
+</section><section data-markdown>
  
 # Why this works
 
@@ -269,11 +270,11 @@ This is what it means to be morally self-regulating. To be free or autonomous, a
 
 This fact about persons is what gives them dignity and ultimate worth, according to Kant.
 
----
+</section><section data-markdown>
 
 # Your thoughts?
 
----
+</section><section data-markdown>
 
 # Objections
 

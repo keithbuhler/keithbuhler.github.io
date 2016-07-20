@@ -7,7 +7,7 @@ layout: slide
 <section><!--Begin Aristotle Intro-->
 <section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
 
-<h1> Aristotle </h1>
+# Aristotle 
 
 </section></section>
 
