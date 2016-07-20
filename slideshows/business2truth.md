@@ -158,18 +158,9 @@ Objection 4: To claim that we can know objective truth is to assume that we want
 Is the moral law unreal or real? Are rules like "human beings do not steal" just as real as "apples grow on apple trees"? 
 
 
-</section> <section data-markdown>
-
-
-
-
-
-</section>
-</section>
-
+</section> 
 
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg"><section data-markdown>
-
 
 # Business Ethics: Week 2
 
