@@ -3,6 +3,7 @@ title: index
 layout: slide
 theme: black
 transition: slide
+permalink: /slideshows
 ---
 
 <section data-markdown>

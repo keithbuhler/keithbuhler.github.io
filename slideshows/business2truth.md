@@ -18,6 +18,7 @@ theme: league
 <section data-markdown>
 
 ## How is this essay organized?
+
 * Objections come first ("it seems")
 * Then a pivot ("On the other hand")
 * Then his thesis ("I answer")
