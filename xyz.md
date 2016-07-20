@@ -23,11 +23,14 @@ transition: slide
 
 ### Sub sub heading
 
+</section>
 
 <section>
 
-- Testing bullet point
 
 # Testing heading without data-markdown tag
+
+- Testing bullet point
+
 
 </section>
