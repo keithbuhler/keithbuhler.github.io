@@ -4,12 +4,13 @@ layout: slide
 ---
 
 
-<section data-markdown><!--Begin Aristotle Intro-->
+<section><!--Begin Aristotle Intro-->
 <section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
 
 # Aristotle #
 
 </section>
+
 <section data-markdown>
 
 ## Historical Background ##
