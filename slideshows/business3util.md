@@ -3,8 +3,8 @@ layout: slide
 title: Utilitarianism
 ---
 
-<section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 <section data-markdown>
+<section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 
 # Week 3: Utilitarianism
 
