@@ -9,7 +9,7 @@ layout: slide
 
 <h1> Aristotle </h1>
 
-</section>
+</section></section>
 
 <section data-markdown>
 
