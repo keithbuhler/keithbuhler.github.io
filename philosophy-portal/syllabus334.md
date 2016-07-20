@@ -12,7 +12,8 @@ permalink: /syllabus334
 
 
 #### Required Readings 
-[Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). Handouts are posted online: [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
+- [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). 
+- Handouts are posted online: [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 
 ### Course Description
 Some of the hardest decisions we make have to do with making money working in a business or running a business. As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come. 
@@ -89,7 +90,7 @@ To earn participation points, you will voluntarily share your thoughts in discus
 Every student will present two group "critical readings." Your group of 2-3 people must meet ahead of time to read and discuss the assignment more thoroughly than your normal reading. You will then summarize the reading, analyze it, and present your own opinions. One or all of you will present your summary to the class. Instructions are posted online. 
 
 **Test**: 
-There is a Quarter 1 and Quarter 3 exams. The "Study Guide" with all the questions will be posted online. 
+There are Quarter 1 and Quarter 3 exams. The exams might draw questions from quizzes, so pay attention to questions you may have missed. A study guide may be provided. New questions (on familiar material) may be introduced, or a new phrasing of questions  you have seen before.
 
 **Unit Papers**: 
 Every student will write about 5 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
@@ -104,14 +105,14 @@ Those who opt for extra credit may do so. Instructions are posted online.
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
 3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
 4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
-4.  **Laptop/tablet users You must request permission, and if approved, sit in the front row.
+4.  **Laptop/tablet users** must request permission to use their device. If approved, you must sit in the front row.
 5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
-6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu rather than my Asbury email.
+6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu.
 7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
-8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Discovery “news”. Section related announcements will be made on Discovery “news” and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
+8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check “news” or "announcements" section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
 6. Disabilities can be accommodated if you are registered with the Disability Resource Center. See  http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
-8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](/ukplagiarism %).
+8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
 
 

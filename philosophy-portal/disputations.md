@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Disputations
-permalink: /disputations
+permalink: /disputations/
 ---
 
 #### [(pdf version)](/philosophy-portal/disputations.pdf)
@@ -16,12 +16,13 @@ http://www.keithbuhler.com
 
 ### How to write a disputation
 
-Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide goood arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
+Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide good arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
 
 Here is an example disputation for us to discuss: 
 
-1. **Are MacDonalds chicken nuggets made of chicken meat?**
-2. **Objection 1**. It seems that MacDonalds "chicken" nuggets are not made of meat. For they do not have the right texture, like a chicken breast or chicken wing. 
+1. **Are McDonald's chicken nuggets made of chicken meat?**
+2. **Objection 1**. It seems that }
+McDonald's "chicken" nuggets are not made of meat. For they do not have the right texture, like a chicken breast or chicken wing. 
 3. **Objection 2**. Furthermore, there is a picture of "pink goo" on the internet showing what McNuggets look like before they are molded and cooked. 
 4. **Appeal to authority**. On the other hand, CNBC reporter Landon Dowdy says that "it's just chicken." 
 5. **Argument**. I answer that McNuggets are made of ground chicken meat. Mythbusters host Grant Imahara did a report inside the Tyson factory and took video footage showing that the nuggets are made from whole chickens, cut up, ground, flavored, and pressed into molds.[^3] Although industrially produced ground chicken may be unappetizing before it is breaded and fried, it is indeed chicken meat. The final product is so heavily salted and preserved, that it may not be healthy, but it is still meat. 
@@ -39,7 +40,7 @@ A passing Disputation is in five-point format:
 5. **Reply to objections.** Your last paragraph(s) deals with your counterclaim. How can you refute your opponent’s counter argument? You must either refute their evidence or acknowledge but re-interpret it to show that it does not damage your conclusion. 
 
 
-A passing Disputation acheives seven goals: 
+A PASSING DISPUTATION achieves seven goals: 
 
 1. **Answer the question.** The questions are provided. Your disputation presents and proves an answer to the question. 
 2. **Argue your thesis.** Do not say "I believe" or "I feel that". State your thesis and support it with arguments and evidence. 
@@ -50,7 +51,7 @@ A passing Disputation acheives seven goals:
 6. **Cite the text**. Each disputation should interact with the relevant semester text. Cite correctly using MLA, APA, Turabian, or Chicago formatting -- just be consistent. (I prefer Chicago or MLA but do what you like.) Cite our text books, the Bible, journal articles, etc., but never cite Wikipedia or dictionaries, since these reflect general knowledge and are sometimes inaccurate or irrelevant.
 7. **Write clearly and simply**. Be frank and to the point. Don't use B.S. or filler. Just say your point, make your arguments, and move on. 
 
-A failing Disputation commits one or more of the following errors: 
+A failing disputation commits one or more of the following errors: 
 
 1. Doesn't answer the assigned question; answers a different question or no question at all.
 2. Doesn't provide arguments but only asserts, opines, shares its feelings. 
