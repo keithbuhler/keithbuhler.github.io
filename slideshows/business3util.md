@@ -14,7 +14,7 @@ theme: moon
 *Everything you need to know in 50 minutes or less*
 
 </section>
-<section data-markdown>
+</section><section data-markdown>
 
 ### Utilitarianism: All the points!
 
@@ -189,7 +189,6 @@ Some other forms:
 * Then, review "objections" 
 
 
-</section>
 </section>
 </section>
 </section><!--End day 1-->
