@@ -17,12 +17,12 @@ theme: league
 
 <section data-markdown>
 
-- How is this essay organized?
-      + Objections come first ("it seems")
-      + Then a pivot ("On the other hand")
-      + Then his thesis ("I answer")
-      + Then the proof of his thesis ("I argue that")
-      + Then he refutes to earlier objections ("Reply 1...")
+## How is this essay organized?
+* Objections come first ("it seems")
+* Then a pivot ("On the other hand")
+* Then his thesis ("I answer")
+* Then the proof of his thesis ("I argue that")
+* Then he refutes to earlier objections ("Reply 1...")
 
 </section> <section data-markdown>
 
@@ -142,14 +142,16 @@ Objection 4: To claim that we can know objective truth is to assume that we want
 
 </section>
 
-<section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg"><section data-markdown>
+<section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
+
+<section data-markdown>
 
 
 # Business Ethics
 
 ## None of you are moral relativists!
 
-</section></section> 
+</section>
 
 <section data-markdown>
 
@@ -160,16 +162,16 @@ Is the moral law unreal or real? Are rules like "human beings do not steal" just
 
 </section> 
 
-<section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg"><section data-markdown>
+<section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
+<section data-markdown>
 
-# Business Ethics: Week 2
+# Business Ethics
 
-## Religion & Reason 
+## *Religion & Reason*
 
-*God and goodness*
 
-</section></section> 
-
+</section>
+</section> 
 <section data-markdown>
 
 ## Intro
@@ -232,7 +234,7 @@ So how does this affect business? Some businesses are composed of mostly religio
 
 </section> <section data-markdown>
 
-### US Business: 
+### Religious Businesses: 
 Chick Fil-A  
 Tyson  
 Forever 21  
@@ -243,7 +245,9 @@ Tom’s
 Salvation Army  
 AA  
 
-### Non-religious:
+</section> <section data-markdown>
+
+### Non-religious Businesses:
 Starbucks  
 Popeye’s  
 Michael’s  
@@ -278,5 +282,3 @@ Michael Austin says:
 ## Possible disadvantages of Divine Command Theory
 1. The motive for being moral might become merely to avoid punishment or gain bliss. 
 2. Euthyphro Dilmemma: Either We ought to love one another because God commands us to do so  (but what if he commands something immoral?) or God commands us to love one another because that is what we ought to do (but then moral goodness is independent of God, and he is subject to it)
-
-</section> <section data-markdown>
