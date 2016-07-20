@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: 2-business-truth
+title: Business Ethics, Week 2, Truth
 theme: league
 ---
 
+<section> <!--Begin Day 1, truth-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
 
 <section data-markdown>
@@ -31,9 +32,12 @@ theme: league
 
 _Truth is real._
 
-"Is truth objective?" *Yes.*
+<aside class=notes>
+- What is his question? Is truth objective? His answer is yes.
+</aside>
 
-</section> <section data-markdown>
+
+</section><section data-markdown>
 
 ## "Objective"
 
@@ -50,15 +54,16 @@ Saying of what is, that it is.
 
 </section> <section data-markdown>
 
-## Peter Kreeft, Summa Philosophica, Q. VI, Article 2: Whether truth is objective? 
+## Peter Kreeft, Summa Philosophica
+### Q. VI, Article 2. Whether truth is objective? 
 
-Objection 1: It seems that it is not, for people differ about what is truth, and that about which people differ is subjective. If truth were, objective, there would be no disagreements and arguments. But ordinary discourse is full of continual disagreements, which have never been resolved. If there were objective truth, they would have been resolved. Therefore there is no objective truth.
+**Objection 1:** It seems that it is not, for people differ about what is truth, and that about which people differ is subjective. If truth were, objective, there would be no disagreements and arguments. But ordinary discourse is full of continual disagreements, which have never been resolved. If there were objective truth, they would have been resolved. Therefore there is no objective truth.
 
 
 
 </section> <section data-markdown>
 
-*On the contrary,* if all truth were subjective, then that truth also would be subjective. But what is subjective is changeable and uncertain. Therefore if all truth were subjective, it would be changeable and uncertain, and thus that “truth” also — that all truth is changeable and uncertain — would be changeable and uncertain. But what is uncertain may be false, and what is changeable can be changed. Therefore the “truth” that all truth is subjective, is uncertain, and may be false; and it is changeable, and can be changed — and if changed, then changed to “truth is objective."
+***On the contrary,*** if all truth were subjective, then that truth also would be subjective. But what is subjective is changeable and uncertain. Therefore if all truth were subjective, it would be changeable and uncertain, and thus that “truth” also — that all truth is changeable and uncertain — would be changeable and uncertain. But what is uncertain may be false, and what is changeable can be changed. Therefore the “truth” that all truth is subjective, is uncertain, and may be false; and it is changeable, and can be changed — and if changed, then changed to “truth is objective."
 
 </section> <section data-markdown>
 
@@ -140,6 +145,45 @@ Objection 1: It seems that it is not, for people differ about what is truth, and
 
 </section> <section data-markdown>
 
+### Three senses of "Truth"
+
+|Name            |  Sense         |    Example       |
+|----------------|----------------|------------------|
+| Substantive Truth | Reality itself |          Mount Everest being a mountain. |
+| Knowledge       |  Thinking truly  |         Mount Everest is a mountain. |
+| True words      |  Speaking truly  |         “Mount Everest is a mountain.” |
+
+
+
+
+</section> <section data-markdown>
+
+>“Truth is saying of what is that it is, and of what is not that it is not.” (Aristotle)
+
+Reality —>              Thought —>        Expression in language 
+Truth itself                  True thought            True statement
+
+</section> <section data-markdown>
+
+## Nihilism
+
+* What is the opposite of truth? 
+* The denial of truth — objective truth — is nihilism, the denial of reality itself. 
+* Hence, Gorgias of Athens said: 
+
+>Nothing exists;
+> Even if something exists, nothing can be known about it; and
+> Even if something can be known about it, knowledge about it can't be communicated to others.
+
+</section> <section data-markdown>
+
+## Nihilism
+
+>*“It is true, there could be a metaphysical world; the absolute possibility of it is hardly to be disputed. We behold all things through the human head and cannot cut off this head; while the question nonetheless remains what of the world would still be there if one had cut it off.”* 
+-- Nietzsche's Human, All Too Human, s.9, R.J. Hollingdale transl.
+
+</section> <section data-markdown>
+
 ## 2 minutes left
 * Is Kreeft right?
 * Questions?
@@ -147,7 +191,22 @@ Objection 1: It seems that it is not, for people differ about what is truth, and
 * Review "Moral Relativism" handout
 
 </section>
+</section> <!--End Day 1, truth-->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section> <!--Begin Day 2, Moral Law-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
 
 <section data-markdown>
@@ -163,12 +222,42 @@ Objection 1: It seems that it is not, for people differ about what is truth, and
 
 ## Basic issue
 
-Is the moral law unreal or real? Are rules like "human beings do not steal" just as real as "apples grow on apple trees"? 
+* Is the moral law unreal or real? 
+* Are laws like "human beings do not steal" just as real as laws like "apples grow on apple trees"? 
+
+</section> <section data-markdown>
 
 
-</section> 
-</section>
+</section> <section data-markdown>
 
+
+
+</section> <section data-markdown>
+
+
+
+</section> <section data-markdown>
+
+
+
+</section><!--End Day 2, Moral Law-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section><!--Day 3, Religion and Reason-->
 <section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg">
 <section data-markdown>
 
@@ -289,3 +378,6 @@ Michael Austin says:
 ## Possible disadvantages of Divine Command Theory
 1. The motive for being moral might become merely to avoid punishment or gain bliss. 
 2. Euthyphro Dilmemma: Either We ought to love one another because God commands us to do so  (but what if he commands something immoral?) or God commands us to love one another because that is what we ought to do (but then moral goodness is independent of God, and he is subject to it)
+
+
+<section><!--End Day 3, Religion and Reason-->

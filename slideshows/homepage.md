@@ -13,7 +13,8 @@ Welcome! Scroll down or [skip to the menu.](/)
 
 *This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
-</section>
+</section> 
+!<----stop section---
 <section data-markdown>
 
 ![Keith Buhler Golden Ratio](/images/keithbuhler-golden.png)
@@ -33,12 +34,7 @@ Since I have two toddlers, my free time is about 45 minutes per month. During th
 
 </section><section data-markdown>
 
-* [Check out my CV, teaching, research, and student resources here](/)
-
-Other profiles: 
-
-* [Academia.edu](https://uky.academia.edu/KeithBuhler)
-* [PhilPapers](http://philpapers.org/profile/47267)
-* [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
+* Check out my [CV, teaching, research, and student resources here](/)
+* Check out my [Academia.edu](https://uky.academia.edu/KeithBuhler) and [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) profiles here.
 
 Thanks for visiting. 

@@ -6,6 +6,7 @@ theme: simple
 transition: slide
 ---
 
+<section>
 <section data-markdown>
 
 # test
@@ -25,12 +26,12 @@ transition: slide
 
 </section>
 
-<section>
+<section data-markdown>
+
+- Bullet points
+
+      raw code
 
 
-# Testing heading without data-markdown tag
-
-- Testing bullet point
-
-
+</section>
 </section>
