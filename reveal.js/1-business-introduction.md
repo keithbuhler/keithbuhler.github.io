@@ -6,14 +6,17 @@ layout: slide
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/f/f5/Photos_NewYork1_032.jpg">
 <section data-markdown>
 
-# Syllabus
+<font color="#ccc"> 
+<h1> Syllabus  </h1>
 
 *Setting expectations*
+
+</font>
 
 </section></section>
 <section data-markdown>
 
-# Welcome!
+## Welcome!
 
 * 3x5 cards
 * Names
@@ -21,20 +24,20 @@ layout: slide
 
 </section><section data-markdown>
 
-# What is this class about? 
+## What is this class about? 
 
 Some of the hardest decisions we make have to do with business. 
 As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come.
 
 </section><section data-markdown>
 
-# Philosophy
+## Philosophy
 
 Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. 
 
 </section><section data-markdown>
 
-# Philosophy -> Ethics
+## Philosophy -> Ethics
 
 Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable? 
 
@@ -42,7 +45,7 @@ Ethics is the branch of philosophy that investigates right and wrong, good and b
 
 </section><section data-markdown>
 
-#Philosophy—> Ethics—> Business Ethics
+## Ethics—> Business Ethics
 
 In business ethics, we ask about foundations: 
 
@@ -54,13 +57,21 @@ In business ethics, we ask about foundations:
 
 
 </section><section data-markdown>
-#Philosophy—> Ethics—> Business Ethics
+## Philosophy—> Business Ethics
 
 
-These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
+These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. 
+
+Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
 
 
 </section><section data-markdown>
+
+
+Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
+
+</section><section data-markdown>
+
 
 ## Before you go
 * Questions?
