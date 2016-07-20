@@ -25,10 +25,14 @@ layout: slide
 
 --->
 
+![Josiah in the snow](/images/josiah-snow.jpg)
+
 - Grew up in the South... of CA
 - First time living outside the country
-- "Graduate student in philosophy", i.e., prol
 - Entrepreneur
+- "Graduate student in philosophy", i.e., prol
+
+![Prols](http://lh6.google.com/adswithoutproducts/RuYPB5NQzqI/AAAAAAAAAfI/r-ykclVmkqg/s400/hiepe-buch-riese-proletariat2.jpg)
 
 </section><section data-markdown>
 

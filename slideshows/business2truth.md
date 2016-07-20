@@ -161,7 +161,8 @@ Objection 1: It seems that it is not, for people differ about what is truth, and
 >“Truth is saying of what is that it is, and of what is not that it is not.” (Aristotle)
 
 Reality —>              Thought —>        Expression in language 
-Truth itself                  True thought            True statement
+
+Truth itself                  True thought           True statement
 
 </section> <section data-markdown>
 
@@ -172,15 +173,20 @@ Truth itself                  True thought            True statement
 * Hence, Gorgias of Athens said: 
 
 >Nothing exists;
+
 > Even if something exists, nothing can be known about it; and
+
 > Even if something can be known about it, knowledge about it can't be communicated to others.
 
 </section> <section data-markdown>
 
 ## Nihilism
 
+Hence, also, Nietszsche: 
+
 >*“It is true, there could be a metaphysical world; the absolute possibility of it is hardly to be disputed. We behold all things through the human head and cannot cut off this head; while the question nonetheless remains what of the world would still be there if one had cut it off.”* 
--- Nietzsche's Human, All Too Human, s.9, R.J. Hollingdale transl.
+
+*Human, All Too Human*, s.9, R.J. Hollingdale transl.
 
 </section> <section data-markdown>
 
