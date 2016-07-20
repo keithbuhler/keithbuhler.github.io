@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Utilitarianism
-theme: moon
+theme: simple
 ---
 
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
