@@ -5,13 +5,15 @@ theme: league
 ---
 
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
+
 <section data-markdown>
 
 # Business ethics: Truth
 
 *Some basics of scientific and philosophical thinking*
 
-</section> </section>
+</section>
+</section>
 
 <section data-markdown>
 
@@ -177,18 +179,29 @@ Is the moral law unreal or real? Are rules like "human beings do not steal" just
 
 </section></section> 
 
+<section data-markdown>
+
 ## Intro
 
 Most people are religious; that is, they adhere to a particular religious tradition and/or they believe that the universe was created or sustained by God. Religion and ethics have a complex relationship. 
 
+</section> <section data-markdown>
+
 Probably about 2 in 10 of us in this room are non-religious or unaffiliated, while about 8 are affiliated with a particular religious tradition. 
 
+</section> <section data-markdown>
+
 Religion and ethics have a complex relationship. Today I'd like to get expectations and context right. First, I'll go over some statistics you may not know about religious adherence. Then, I'll apply some of these demographic statistics to business. Then I'll explain one of the most common ways religion affects ethics and therefore business ethics.  
+
+
+</section> <section data-markdown>
 
 How many people are religious?
 How many people are secular?
 How many people are immoral?
 How many people are moral?
+
+</section> <section data-markdown>
 
 1. Statistics 
 
@@ -204,8 +217,12 @@ TOTAL:
 78% Religious 
 22% non-Religious
 
+</section> <section data-markdown>
+
 In general, 7 out of 10 people are religious. 
 In general, 2 out of 10 people are unaffiliated, spiritual, agnostic, or atheist. 
+
+</section> <section data-markdown>
 
 ### Exceptions: 
 Academia (50% religious)
@@ -214,10 +231,15 @@ Science (42% religious)
 Entertainment industry?
 News Media?
 
+</section> <section data-markdown>
+
 Compare with: The Czech Republic, 21% of people are religious. Sweden and Denmark have 17%-18%, Japan is 31% atheist. America has 5%-15% atheists
+
+</section> <section data-markdown>
 
 So how does this affect business? Some businesses are composed of mostly religious people; some are composed of mostly secular people. Some businesses take a public stand on religion. Others don't. 
 
+</section> <section data-markdown>
 
 ### US Business: 
 Chick Fil-A  
@@ -237,11 +259,15 @@ Michael’s
 GoodWill  
 Rational Recovery  
 
+</section> <section data-markdown>
+
 But when it comes to their ethics, most people take some cues from their religion. 
 
 ### Divine Command Theory
 
 Divine Command Theory is the view that morality in some way depends on God or the divine. The straightforward version of Divine Command Theory is the Judeo-Christian version where God tells his people how to live and what not to do. That is not the only version, however. It might be that we know how to live and what not to do even without divine commands; but that god gives commands for other reasons than knowledge, such as encouragement. 
+
+</section> <section data-markdown>
 
 Michael Austin says: 
 
@@ -249,11 +275,17 @@ Michael Austin says:
 
 (i) God in some sense determines what is moral; (ii) moral obligations are derived from God’s commands, where these commands are understood as statements of the revealed divine will.
 
+</section> <section data-markdown>
+
 ## Possible advantages of Divine Command Theory
 
 1. Immanuel Kant argues that "we must believe that God exists because the requirements of morality are too much for us to bear. We must believe that there is a God who will help us satisfy the demands of the moral law. With such a belief, we have the hope that we will be able to live moral lives." (Austin)
 2.  That is, if the origin of the universe is a personal moral being, then the existence of objective moral truths are at home, so to speak, in the universe. By contrast, if the origin of the universe is non-moral, then the existence of such truths becomes philosophically perplexing, because it is unclear how moral properties can come into existence via non-moral origins.
 
+</section> <section data-markdown>
+
 ## Possible disadvantages of Divine Command Theory
 1. The motive for being moral might become merely to avoid punishment or gain bliss. 
 2. Euthyphro Dilmemma: Either We ought to love one another because God commands us to do so  (but what if he commands something immoral?) or God commands us to love one another because that is what we ought to do (but then moral goodness is independent of God, and he is subject to it)
+
+</section> <section data-markdown>
