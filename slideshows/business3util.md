@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Utilitarianism
-theme: sky
+theme: moon
 ---
 
 
@@ -12,7 +12,9 @@ theme: sky
 
 *Everything you need to know in 50 minutes or less*
 
-</section><section data-markdown>
+</section>
+</section>
+<section data-markdown>
 
 ### Utilitarianism: All the points!
 
