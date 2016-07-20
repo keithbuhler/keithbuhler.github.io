@@ -21,10 +21,6 @@ layout: slide
 
 </section><section data-markdown>
 
-## A little about me
-
---->
-
 ![Josiah in the snow](/images/josiah-snow.jpg)
 
 - Grew up in the South... of CA

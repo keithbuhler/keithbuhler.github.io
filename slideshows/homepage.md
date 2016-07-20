@@ -4,8 +4,8 @@ title: Keith Buhler, Philosophy Home
 theme: league
 --- 
 
-<section data-background="ireland-lismore-castle-county-waterford.jpg">
 <section data-markdown>
+<section data-background="ireland-lismore-castle-county-waterford.jpg">
 
 ## KeithBuhler.com
 
@@ -14,7 +14,6 @@ Welcome! Scroll down or [skip to the menu.](/)
 *This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
 </section> 
-!<----stop section---
 <section data-markdown>
 
 ![Keith Buhler Golden Ratio](/images/keithbuhler-golden.png)

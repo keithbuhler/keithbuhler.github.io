@@ -17,7 +17,7 @@ permalink: /syllabus334
 - Handout Week 3 [Utilitarianism]
 - Handout Week 4 [Kantian Deontology]
 - Handout Week 5 [ Virtue Ethics]
-- Film Week 6 [Inside Job]
+- Film Week 6 [Inside Job](http://www.sonyclassics.com/insidejob/)
 
 
 ### Course Description
@@ -68,7 +68,7 @@ Read ahead. Read carefully. You will get faster, but start slow and careful. Try
 ### Quizzes
 Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
 
-###Attendance
+### Attendance
 We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
 That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. 3 absences adds up to one week of classes you can miss with no penalty. 3 is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
@@ -129,26 +129,26 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 ### Outline (Short)
 
-W       Aug-24  Syllabus day  
-F       Aug-26  Introduction to Business Ethics  
+W       Aug-24  Syllabus day (no reading)  
+F       Aug-26  Introduction to Business Ethics (no reading)    
 
-M       Aug-29  Basic Philosophy: Peter Kreeft, Truth  
-W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism  
+M       Aug-29  Basic Philosophy: Peter Kreeft, Truth Handout   
+W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism Handout   
 F       Sep-2   Basic Ethics: Religion & Reason  
 
-M       Sep-5   Labor Day  
-W       Sep-7   Basic Ethics: Utilitarianism  
+M       Sep-5   Labor Day (no class) 
+W       Sep-7   Basic Ethics: Utilitarianism Handout  
 F       Sep-9   Discussion  
 
-M       Sep-12  Basic Ethics: Kantian Deontology  
-W       Sep-14  Basic Ethics: Kantian Deontology  
+M       Sep-12  Basic Ethics: Kantian Deontology Handout  
+W       Sep-14  Basic Ethics: Kantian Deontology Handout    
 F       Sep-16  Discussion  
 
-M       Sep-19  Basic Ethics: Virtue Ethics   
-W       Sep-21  Basic Ethics: Virtue Ethics  
+M       Sep-19  Basic Ethics: Virtue Ethics Handout    
+W       Sep-21  Basic Ethics: Virtue Ethics Handout    
 F       Sep-23  Review of Ethical Theories & Exam   
 
-M       Sep-26  Inside Job Parts I-III introduction  
+M       Sep-26  Inside Job (film) Parts I-III introduction  
 W       Sep-28  Inside Job Parts I-IV  
 F       Sep-30  Inside Job Part V and discussion  
 

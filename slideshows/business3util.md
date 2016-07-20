@@ -19,6 +19,7 @@ theme: sky
 
 This overview is the outline of all the content we will cover. Don't worry if you don't "get it" all right away. Keep reading, then stop and review. 
 
+
 1. Utilitarianism  is the thesis that “the best moral action is one that maximizes ‘utility’ — pleasure, well-being.” (definition)
 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 3. Utilitarianism was founded by Jeremy Bentham
@@ -28,14 +29,14 @@ This overview is the outline of all the content we will cover. Don't worry if yo
 7. Utilitarianism has several modern forms
 8. Utilitarianism is criticized for being unjust, impractical, and amoral. 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### 1. The best moral action is one that maximizes "utility"
 
 What is good in itself? What is an intrinsic good? 
 
 | Possible answer           |  Philosopher      | 
-|</section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown>--|</section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown>--|
+|</section></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown><section data-markdown>--|</section></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown></section><section data-markdown><section data-markdown>--|
 | God                     | (Aquinas)           | 
 | The Form of Good        | (Plato)             | 
 | Happiness               | (Aristotle)         | 
@@ -45,7 +46,8 @@ What is good in itself? What is an intrinsic good?
 | Utility — the pleasure or freedom from pain of human beings |  (Mill) |
 
 
-<section data-markdown></section>
+</section><section data-markdown>
+
 
 ### 1. The best moral action is one that maximizes "utility"
 
@@ -60,7 +62,7 @@ Thus, the utilitarian asks us not simply to maximize short-term pleasures but al
 
 That is, it encourages us not to be gluttons and focus on satisfying our basest desires but also to work toward accomplishing things that will make our overall condition more pleasurable, e.g. reaching goals.
 
-<section data-markdown></section>
+</section><section data-markdown>
 ### 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
 
@@ -75,7 +77,7 @@ That is, it encourages us not to be gluttons and focus on satisfying our basest 
 
 Utilitarians say: do whatever maximizes happiness. 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
 
@@ -92,7 +94,7 @@ Should rollercoasters be made illegal?  Do they cause pleasure or pain? Consider
 
 >Cons: Galaxyland Amusement Park (West Edmonton Mall), Edmonton, Alberta, “Mindbender”, June 1986: The world’s largest triple-loop indoor roller coaster crashed when four bolts came loose, allowing a wheel assembly to fall off the roller coaster. Dozens suffered minor injuries, one person had his legs crushed in the accident and three people lost their lives.
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### 3. Utilitarianism was founded by Jeremy Bentham
 
@@ -103,7 +105,7 @@ Jeremy Bentham published An Introduction to the Principles of Morals and Legisla
 The goal was fairness. To create a society with laws and norms that do not harm the majority while only benefitting the minority but benefit all or most. 
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ###4. Utilitarianism was updated by John Stuart Mill.
 
@@ -115,7 +117,7 @@ John Stuart Mill wrote Utilitarianism in 1861.
 The goal is to live a life of cultivated pleasure, balancing intellectual and physical satisfaction. 
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### 5. Utilitarianism has ancient roots in Epicurus.
 
@@ -123,7 +125,7 @@ The goal is to live a life of cultivated pleasure, balancing intellectual and ph
 * Quote: "It is impossible to live a pleasant life without living wisely and well and justly, and it is impossible to live wisely and well and justly without living pleasantly."
 * The goal was to avoid excesses, extremes, fanaticism, and the suffering they cause. 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### 6. Utilitarianism is a form of consequentialism
 
@@ -143,7 +145,7 @@ Other principles:
 
 **Principle of Equality:** everyone’s happiness is equally important. 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### 7. Utilitarianism has several modern forms
 
@@ -162,7 +164,7 @@ Some other forms:
 4. Preference utilitarianism -- do whatever would allow the most people to decide what is good for themselves and pursue it
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Stop to Review
 
@@ -171,13 +173,13 @@ Some other forms:
 * Then, review "objections" 
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Business Ethics Week 03: Objections to Utilitarianism
 
 *The good, the bad, the ugly*
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Objections to utilitarianism include injustice, impractical, amoral
 
@@ -190,7 +192,7 @@ Some other forms:
 
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Objection 2: Utilitarianism is incompatible with fairness and justice
 
@@ -210,7 +212,7 @@ However, a utilitarian can argue that P1 is false because a careful consideratio
 
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ###Objection 3: Utilitarianism allows for violating rights
 P1: If utilitarianism is true, then sometimes it is acceptable to violate someone’s basic human and legal
@@ -218,7 +220,7 @@ rights (e.g. right to privacy, life, right to not be unlawfully detained, etc.)
 P2: It is not acceptable to violate someone’s basic human and legal rights.
 C: Therefore, utilitarianism is not true
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Objection 4: Utilitarianism Ignores the Past
 
@@ -226,7 +228,7 @@ C: Therefore, utilitarianism is not true
 * P2: There are times when factors that lead up to an action matter for how we evaluate the goodness or wrongness of an action, e.g. making/breaking promises, evil actions, etc.
 * C: Therefore, utilitarianism is not true
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Objection 5: Utilitarianism is too demanding
 
@@ -237,7 +239,7 @@ happiness). On the basis of this, people reject utilitarianism because (i) they 
 
 --
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Objection 6: Utilitarianism undermines true friendships
 
@@ -247,7 +249,7 @@ loved ones, or friends.
 * C: Therefore, utilitarianism is an unreasonable theory that should be rejected.
 
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Some Arguments for Utilitarianism
 
@@ -259,14 +261,14 @@ P1: We would only accept an ethical theory that can explain the universal moral 
 P2: Utilitarianism best explains the universal moral law.   
 C: Therefore, we should accept utilitarianism.   
 
-<section data-markdown></section>
+</section><section data-markdown>
 
 ### Your view?
 
 Suppose there is a murder or terrorist attack with an unknown perpetrator. We can make many people happy by scapegoating an innocent homeless man. You could arrest him, try him in a court of law, and convict him to death. Very few people would miss him. You and he know he was innocent so his suffering would be great; but the pleasure would be great for many people. 
 
 
-<section data-markdown></section> 
+</section><section data-markdown> 
 
 ### Stop to Review
 
@@ -275,4 +277,4 @@ Suppose there is a murder or terrorist attack with an unknown perpetrator. We ca
 * Review "objections" 
 
 
-<section data-markdown></section>
+</section><section data-markdown>
