@@ -1,16 +1,19 @@
 ---
 layout: slide
-title: here
+title: Week blank title
 ---
 
+<section data-background="url">
 <section data-markdown>
 
-# Business Ethics Week 07 Methods of Business Ethics
+# Week Methods of Business Ethics
 
 Subtitle
 
 
-</section><section data-markdown>
+</section></section> 
+
+<section data-markdown>
 
 # Page 1
 

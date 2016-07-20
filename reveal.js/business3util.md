@@ -3,16 +3,18 @@ layout: slide
 title: Utilitarianism
 ---
 
-
+<section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 <section data-markdown>
 
-### Business Ethics Week 03: Utilitarianism
+### Week 3: Utilitarianism
 
 *Everything you need to know in 50 minutes or less*
 
-<section data-markdown></section>
+</section></section>
 
 ### Utilitarianism: All the points!
+
+![All the things](http://nearby-pla.net/images/library/slack-emoji/all-the-things-emoji.png)
 
 This overview is the outline of all the content we will cover. Don't worry if you don't "get it" all right away. Keep reading, then stop and review. 
 

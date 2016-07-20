@@ -3,19 +3,17 @@ layout: slide
 title: Capitalism
 ---
 
-
-<section data-markdown><!--Begin Capitalism Intro-->
 <section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
 
-[American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
-
-
+<section data-markdown>
 
 # Business Ethics Week 08 Capitalism
 
 *Who owns all the things?*
 
-</section> 
+[American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
+
+</section> </section>
 <section data-markdown>
 
 # Gaus, "Idea and Ideal of Capitalism"

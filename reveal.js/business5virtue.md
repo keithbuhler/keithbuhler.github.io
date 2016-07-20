@@ -5,7 +5,9 @@ title: Business Ethics Week 05 -  Virtue Ethics
 
 <section data-markdown>
 
-"Where Excellence is a Habit"
+# Week 5: Virtue Ethics
+
+*"Where Excellence is a Habit"*
 
 
 </section><section data-markdown>
