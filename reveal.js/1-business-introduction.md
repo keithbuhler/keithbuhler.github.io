@@ -3,13 +3,15 @@ title: Introduction
 layout: slide
 ---
 
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/f/f5/Photos_NewYork1_032.jpg">
 <section data-markdown>
 
 # Syllabus
 
 *Setting expectations*
 
-</section><section data-markdown>
+</section></section>
+<section data-markdown>
 
 # Welcome!
 
