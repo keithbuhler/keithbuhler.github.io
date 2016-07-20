@@ -102,6 +102,21 @@ Though we will consider arguments from Kantian, consequentialist, and religious 
 
 How to read it
 
+8 Units:
+
+* Philosophy
+* Ethical Theories
+* “Inside Job” Film
+* Methods of Business Ethics
+* Competition
+* Justice
+* Universal Norms
+* Incentives
+* Employees
+* Safety
+* Environment
+* Conclusions
+
 
 </section><section data-markdown>
 
@@ -217,20 +232,24 @@ Those who opt for extra credit may do so. Instructions are posted online.
 ## 2 minutes left
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
-* Review syllabus and next assignments
+* No reading due -- but review syllabus and Monday's assignments
 * You can review these slideshows! -- www.keithbuhler.com/slideshows
-* Friday: discuss syllabus; business ethics in a bit more detail
+* Friday: discuss business ethics in a bit more detail
 
+
+</section>
+
+
+
+<section data-markdown>
+
+# Week 1 Introduction to Business Ethics  
+
+*What is business ethics?* 
 
 </section><section data-markdown>
 
-# Introduction to Business Ethics  
-
-What is business ethics? 
-
-</section><section data-markdown>
-
-## Ethics applied to business. 
+## Ethics applied to business
 
 * Most basically, business ethics is ethics applied to business. 
 * *Either* philosophers who think deeply about these issues.  
