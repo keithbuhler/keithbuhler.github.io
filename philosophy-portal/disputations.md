@@ -16,6 +16,9 @@ http://www.keithbuhler.com
 
 ### How to write a disputation
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mS8QnAT3MRw" frameborder="0" allowfullscreen></iframe>
+
+
 Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide good arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
 
 Here is an example disputation for us to discuss: 

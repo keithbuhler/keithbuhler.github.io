@@ -13,7 +13,12 @@ permalink: /syllabus334
 
 #### Required Readings 
 - [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). 
-- Handouts are posted online: [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
+- Handout Week 2 [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp); [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
+- Handout Week 3 [Utilitarianism]
+- Handout Week 4 [Kantian Deontology]
+- Handout Week 5 [ Virtue Ethics]
+- Film Week 6 [Inside Job]
+
 
 ### Course Description
 Some of the hardest decisions we make have to do with making money working in a business or running a business. As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come. 
@@ -57,11 +62,14 @@ Your grade for the class will depend on your performance in each course componen
 
 
 
-**Reading Tips**: Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips available online.
+### Reading tips
+Read ahead. Read carefully. You will get faster, but start slow and careful. Try to read *and understand* the book. What is the main thesis? Is it true?  Take notes. Talk with each other before class. More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
 
-**Quizzes**:Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
+### Quizzes
+Short reading quizzes assess that you read the day's text. These are easy points. Also, read to *understand*. Come to class with thoughts, questions. Ask yourself: What is the main point? What confused me? 
 
-**Attendance**: We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
+###Attendance
+We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
 That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. 3 absences adds up to one week of classes you can miss with no penalty. 3 is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
@@ -75,27 +83,29 @@ That said, I give everyone up to 3 "Personal absences". These 3 absences apply f
 8 = -14%
 9 = -50%
 
-**Participation**: The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
+### Participation
+The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
 We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
 
 *You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
 
-Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) Other discussion ground rules are posted online. 
+Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
 To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal processors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
 
 
-**Critical Reading**: 
+### Critical Reading:
 Every student will present two group "critical readings." Your group of 2-3 people must meet ahead of time to read and discuss the assignment more thoroughly than your normal reading. You will then summarize the reading, analyze it, and present your own opinions. One or all of you will present your summary to the class. Instructions are posted online. 
 
-**Test**: 
+### Test
 There are Quarter 1 and Quarter 3 exams. The exams might draw questions from quizzes, so pay attention to questions you may have missed. A study guide may be provided. New questions (on familiar material) may be introduced, or a new phrasing of questions  you have seen before.
 
-**Unit Papers**: 
-Every student will write about 5 Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
+### Unit Papers
+Every student will write several Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. This assignment is pass/fail, so follow the instructions closely. Be careful to cite your sources correctly. I will not tolerate plagiarism — unintentional or intentional.  If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. The instructions are posted online. 
 
-**Extra Credit:**
+### Extra Credit
+
 Those who opt for extra credit may do so. Instructions are posted online. 
 
 
@@ -254,372 +264,3 @@ F       Dec-18  Grades Due UK
 ### Links to Readings of Interest
 
 [Coming soon]
-
-
-
----- 
-
-Power points
-
-
----
-title: Capitalism
-layout: presentation
----
-
-<section><!--Begin Capitalism Intro-->
-<section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
-
-[American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
-
-# Business Ethics Week 08 Capitalism
-
-*Who owns all the things?*
-
-</section> 
-<section>
-
-# Gaus, "Idea and Ideal of Capitalism"
-
-Goal: to describe the ideal of capitalism as a free exchange of people's private property for the mutual benefit of all, and to overcome common objections. 
-
-"Maximally extensive property rights, efficient markets employing such rights, and hierarchical firms run in the interest of th eowners." (95)
-
-Means: Four sections
-
-* 1. Capitalism - what is it?
-* 2. Private property - what can be owned?
-* 3. Markets - how do people trade?
-* 4. Profit-maximizating firms - what are businesses for?
-
-</section>
-<section>        
-
-
-# 1. Capitalism
-
-## What is "capitalism"? 
-
-Google: "an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state."
-
-[Merriam-Webster](http://www.merriam-webster.com/dictionary/capitalism): ": a way of organizing an economy so that the things that are used to make and transport products (such as land, oil, factories, ships, etc.) are owned by individual people and companies rather than by the government"
-
-Synonyms: "free enterprise", "private enterprise", "free market"
-
-Capital: wealth; i.e., cash or possibly assets like land and employees.
-
-</section>
-<section>        
-
-
-## What is "capitalism"? 
-
-MacDonald's owns their stuff. You own your stuff. Starbucks owns their stuff. Keeneland owns their land. 
-
-The governement "owns" (and manages them for our communal ownership) public parks, the White House, Frankfurt, military equipment, etc. 
-
-</section>
-<section>        
-
-
-## Alternatives
-
-Socialism: "a political and economic theory of social organization that advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole."
-
-Communism: "(in Marxist theory) a transitional social state between the overthrow of capitalism and the realization of communism."
-
-
-</section>
-<section>      
-
-## Is capitalism justifiable?
-
-Many who have taught business ethics in universities are uncomfortable with or opposed to capitalism in its present form. 
-
-Marxists are few in the U.S., but many in academia.
-
-</section>
-<section>        
-
- 
-
-# 2. Private Property
-
-Communism is the "positive abolition of private property" -- Marx. (75)
-
-Capitalism is private property of... what? 
-
-Bob owns some property P. 
-
-* Consumer goods (goods you use, like food, clothes, wifi)
-* Capital goods (goods required for producing other goods, i.e., farm equipment)
-* "Maximally extensive feasible property rights:" Bob gets to use, exclude others from use, manage, to compensation if damaged, waste, use for money, free of government coercion, indefinitely, and to sell or rent. (75-6)
-
-</section>
-<section>        
-
-## Private Property limits
-
-* In practice, there are limitations on Bob's property rights (zoning laws, historic districts, taxation)
-* Anarcho-capitalism wants *no* taxation (77)
-
-</section>
-<section>        
-
-## What can be owned?
-
-* Stuff
-* Land? (Mill says no)
-* Air? 
-* Water? (Private and semi-private companies)
-* Food?
-* Self? 
-
-
-
-</section>
-<section>        
-
-
-## The Tragedy of commons
-
-“Nor can certain harmful effects of deforestation, or of some methods of farming, or of the smoke and noise of factories, be confined to the owner of the property in question or to those who are willing to submit to the damage for an agreed compensation.  In such instances we must find some substitute for the regulation by the price mechanism.  But the fact that we have to resort to the substitution of direct regulation by authority where the conditions for the proper working of competition cannot be created, does not prove that we should suppress competition where it can be made to function.”  (Hayek, 1944)
-
-</section>
-<section>        
-
-## Self ownership
-
-* I own myself, my body, my "personhood". 
-* But what is included in "me"? Is my liberty part of me? 
-* "The property in one's own person thus has a dymanic quality, in that it needs to grow to survive." (80) Hence, my space, my basic needs, etc?
-* Does my ownership of myself extend to my right to own things and hence justify capitalism? 
-* Can you give yourself away, harm yourself, waste, or enslave yourself? If not, then neither can you give away, harm, waste, or enslave your things. If so, then it seems 
-
-
-</section>
-<section>        
-
-# 3. Markets
-
-Do the markets create mutual benefit? 
-
-The case of solar panels (81)
-
-1. Thesis: People can freely trade to their own mutual benefit.
-2. Objection: There are barriors to mutual benefit, though. For example,  without governemental oversight, people freely trading can destroy the environment or destroy the less fortunate.
-3. Response: Extensive rights can allow both parties (farmers and polysilicon factories) to come to a mutually beneficial solution to the harm. 
-
-"If markets are to approach efficient outcomes in which people  are compensated for externalities, people must have extensive rights to make agreements." (83)
-
-</section>
-<section>    
-
-# 3. Markets
-
-Zero-sum vs. wealth creation. 
-
-How much money is in the economy? Is it static? 
-
-Example: celebrity signatures. 
-
-Example: the cure for cancer (1 trillion?); the water combustion engine (50 trillion?)
-
-</section>
-<section>        
-
-# Asymmetric bargaining power
-
-* Coercion
-* The only watering hole
-
-</section>
-<section>  
-
-# Series of transactions
-
-"A series of market transactions, each of which is unobjectionable, may have an outcome in which some have no real choices." (85)
-
-Z can only marry Z' or remain unmarried. Is Z free?
-
-Example: The Yanomamo tribe and the New Yorker (86)
-
-</section>
-<section>  
-
-# Conflicting aims
-
-When two aims conflict, they need to mesh. They need rules of conduct and knowledge. (87)
-
-Problem: We don't have such knowledge
-Solution: Put a price on it. 
-
-Prices quantify the value of knowledge and the strength of the need. 
-
-
-# Commodofication
-
-Is anything priceless? 
-
-1. Use: lower value, tradable, monetary, quantifiable
-2. Non-use: higher value, non-tradable, intrinsic, qualifiable
-
-</section>
-<section>  
-
-# 4. Profit-maximizating firms
-
-* Master and servant: who owns the farm, the farmers or the lord? Who owns the factory, the workers or the entrepreneuer? (90)
-* Worker cooperatives movement basically died with Mill
-* Master-servent hierarchies have better central coordination
-* "The Hierarchy is an engine of efficiency"
-
-</section>
-<section>        
-   
-# 4. Profit-maximizating firms
-
-A business exists to maximize profits. 
-
-* What is profit? 
-* Is profit different from use?
-* Is profit opposed to the benefit of the user? Zero-sum vs. positive sum
-* 
-
-</section>
-<section>        
-
-
-# Before you go
-
-Is capitalism justifiable? 
-
-“[C]apitalism works better than it sounds, while socialism sounds better than it works.“ 
-—Richard M. Nixon, Beyond Peace (1994)
-
-* Questions?
-* Write a short response
-* Read for next time
-
-</section>
-<section>        
-
-
-
-
-
----
-title: CEO Salaries
-layout: presentation
----
-
-
-<section><!--Begin Compensation Intro-->
-
-<section data-background="http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg">
-
-# Business Ethics Week 09 CEO Salaries
-
-*How much pay is just?*
-
-</section> 
-<section>
-
-# Boatright, "Executive Compensation: Unjust or Just Right?"
-
-Goal: High CEO pay is justifiable if the bargain is arms-length (and assuming capitalism)
-
-1. "The principles of compensation in a free market capitalist system are easily identified and widely accepted." (162)
-2. "There are prudential grounds, but not moral reasons, for objecting to high levels of CEO pay that result from imperfect markets" (162)
-3. "CEOs are usually worth what they are paid and ... their pay really is in the shareholders' interest [when] CEOs are able to bring greater shareholder returns by explointing new opportunities"
-4. "A main driver of high executive compensation is the power that shareholders have in corporate governance."
-
-"Arms length" df="the parties to a transaction are independent and on an equal footing."
-
-
-Means: Four sections
-
-* 1. Background
-* 2. Objections
-* 3. Economic Framework
-* 4. Compensating Entrepreneurs
-
-</section>
-<section>        
-
-
-# 1. Background
-
-- CEO Compensation is set by "compensation committee of the board of directors."
-- Base salary, annual bonus, stocks, and long-term incentive plans
-- "Golden handshakes" are perks such as retirment, housing, medical care, transportation
-- "Golden parachutes" are severance packages
-
-</section>
-<section>  
-
-### Base Salary
-
-- Determined by comparison of similar sized companies. 
-- Rarely exceed $1mil
-- Congress intended to reduce top salaries by removing tax deductions at or beyond $1m salary; the actual result was to increase stock option bonuses
-
-### Bonuses
-- Long-term bonuses (3-5 years)
-- Stock options incentivize increasing company stock price
-
-
-</section>      
-<section>  
-
-### Evolution of CEO pay
-
-- 1940-1960: company growth, incentivize stability and new hires
-- 1970s: the "modern industrial revolution" (Michael Jensen)
-- 1973: the "oil shock" caused companies to downsize
-- From CEO beurocrat (lead risk-reducer) to CEO entrepreneur (lead risk-taker)
-- 1980: stock prices began to rise again
-- 1990s: shift to stock-based compensation
-- 1993 average = less than $4m
-- Bull market in 1995-2000 = $17m
-
-### TL;DR 
-Should CEOs be compensated for managing a large enterprise or creating new value?
-
-</section>      
-<section>  
-
-# 2. Objections
-
-1. How big is too big?
-2. The pay is unrelated to performance. 
-3. There is too high a ratio of CEO pay to worker pay. 
-4. There is too high a ratio increase in CEO pay to increase in worker pay.
-5. Not the right incentive. 
-        - CEOs don't need that much money as incentive; if they did, they must be lazy.
-        - Pay is not an effective motivator: power, prestige, satisfaction
-6. Pay is too effective; people focus on nothing else, includin gmorality
-7. CEOs have improper power in the pay-setting process (selecting board members, for instance)
-8. "Windfall" -- Stocks can and do increase in bull markets, regardless of CEO performance
-9. CEOs are greedy. 
-
-1. How big is too big? Is mere size a problem?
-2. It's not just how well the company does, but the "sensitivity" of the pay package. 
-3. Ratio was 30 to 1 in 1970; today it's anywhere between 90 to 1 to 400 to 1. Peter Drucker suggested 20 to 1 ratio would be just; Ben & Jerry chose 7 to 1. 
-4. 
-
-
-</section>
-<section>  
-
-# 3. Economic Framework
-
-
-</section>
-<section>  
-
-# 4. Compensating Entrepreneurs
-
-
-</section>
-<section>  
