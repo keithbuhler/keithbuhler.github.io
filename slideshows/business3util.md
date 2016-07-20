@@ -5,9 +5,9 @@ theme: moon
 ---
 
 
-<section><!--Begin day 1-->
-<section data-markdown> 
+
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
+<section data-markdown> 
 
 # Week 3: Utilitarianism
 
@@ -197,14 +197,14 @@ Some other forms:
 
 
 
-<section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
 <section data-markdown><!--Begin day 2-->
+<section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
+
 
 # Objections to Utilitarianism
 
 *The good, the bad, the ugly*
 
-</section>
 </section><section data-markdown>
 
 ### Objections to utilitarianism include injustice, impractical, amoral
@@ -296,10 +296,14 @@ C: Therefore, we should accept utilitarianism.
 Suppose there is a murder or terrorist attack with an unknown perpetrator. We can make many people happy by scapegoating an innocent homeless man. You could arrest him, try him in a court of law, and convict him to death. Very few people would miss him. You and he know he was innocent so his suffering would be great; but the pleasure would be great for many people. 
 
 
-</section><section data-markdown> 
+</section>
+<section data-markdown> 
 
 ### 2 minutes left
 
 * What are your questions?
 * Write a short response: is utilitarianinism plausible?
 * Review handout
+
+</section><!--end day 2-->
+
