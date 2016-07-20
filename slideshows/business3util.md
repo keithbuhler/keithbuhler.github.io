@@ -4,8 +4,6 @@ title: Utilitarianism
 theme: moon
 ---
 
-
-
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 <section data-markdown> 
 
@@ -14,7 +12,7 @@ theme: moon
 *Everything you need to know in 50 minutes or less*
 
 </section>
-</section><section data-markdown>
+<section data-markdown>
 
 ### Utilitarianism: All the points!
 
@@ -188,17 +186,14 @@ Some other forms:
 * Write a short response to what you've read so far. A question, comment, or thought, to share in class. 
 * Then, review "objections" 
 
-
-</section>
-</section>
 </section><!--End day 1-->
 
 
 
 
 
-<section data-markdown><!--Begin day 2-->
 <section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
+<section data-markdown><!--Begin day 2-->
 
 
 # Objections to Utilitarianism
