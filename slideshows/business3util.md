@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: Utilitarianism
+theme: sky
 ---
 
 <section data-markdown>

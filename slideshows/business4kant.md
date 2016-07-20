@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: business 4 deontology
+theme: blood
 ---
 
 <section data-background="https://uclphilosophysociety.files.wordpress.com/2015/10/aristotle.jpg?w=1250">

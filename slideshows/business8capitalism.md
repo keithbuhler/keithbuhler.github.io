@@ -12,12 +12,16 @@ theme: beige
 
 *Who owns all the things?*
 
-[American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
 
-</section> </section>
-<section data-markdown>
+</section> 
+</section><section data-markdown>
 
-# Gaus, "Idea and Ideal of Capitalism"
+
+![American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
+
+</section><section data-markdown>
+
+## Gaus, "Idea and Ideal of Capitalism"
 
 
 * Capitalism

@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: Business Ethics Week 05 -  Virtue Ethics
+theme: simple
 ---
 
 <section data-markdown>

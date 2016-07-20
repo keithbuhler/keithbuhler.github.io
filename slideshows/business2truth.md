@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: 2-business-truth
+theme: league
 ---
 
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
