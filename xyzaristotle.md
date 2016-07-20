@@ -4,55 +4,54 @@ layout: slide
 ---
 
 
-<section><!--Begin Aristotle Intro-->
+<section data-markdown><!--Begin Aristotle Intro-->
 <section data-background="https://positivepsychologyprogram.com/wp-content/uploads/2015/02/aristotelian-principle.jpg">
 
 # Aristotle #
 
 </section>
-<section>
+<section data-markdown>
 
 ## Historical Background ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Quest for Substance ##
 
-</section>
-<section>
+</section><section data-markdown>
 
 ## Naturalness ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Teleology ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Virtue ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Man is a Political Animal ##
 
 </section>
 </section><!--End Aristotle Intro-->
-<section><!--Begin Categories-->
+<section data-markdown><!--Begin Categories-->
 <section data-background="http://notetoself.typepad.com/.a/6a0115705a75a1970b0120a66db65e970c-500wi">
 
 # Categories #
 
 </section>
-<section>
+<section data-markdown>
 
 ## "Said of a Subject" ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## "In a Subject" ##
 
@@ -61,14 +60,14 @@ layout: slide
 > (1a)
 
 </section>
-<section>
+<section data-markdown>
 
 > Some are neither in a subject not said of a subject, for example
 > the individual man or the individual horse.
 > (1b)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Substance ##
 
@@ -77,17 +76,17 @@ layout: slide
 What is most fundamental?
 
 </section>
-<section>
+<section data-markdown>
 
 ## Primary vs. Secondary Substance ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Substance vs. Quality ##
 
 </section>
-<section>
+<section data-markdown>
 
 > Said by itself, each of the things mentioned above is no
 > assertion, but, in combination with others of these, it becomes
@@ -96,19 +95,19 @@ What is most fundamental?
 > (9b--10a)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Definition ##
 
 </section>
-<section>
+<section data-markdown>
 
 > It is because they are subjects for everything else that primary
 > substances are most properly called substances.
 > (3a)
 
 </section>
-<section>
+<section data-markdown>
 
 > Each substance seems to signify a particular THIS.  As far as
 > primary substances are concerned, it is indisputable true that
@@ -117,7 +116,7 @@ What is most fundamental?
 > (10a)
 
 </section>
-<section>
+<section data-markdown>
 
 > As far as secondary substances are concerned, it seems from the
 > appearance of the name when one says "man" or "animal" that they,
@@ -126,19 +125,19 @@ What is most fundamental?
 > (10a)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Change ##
 
 </section>
 </section><!--End Categories-->
-<section><!--Begin On The Heavens-->
+<section data-markdown><!--Begin On The Heavens-->
 <section data-background="https://s-media-cache-ak0.pinimg.com/736x/c7/83/42/c783426124c0ba2c9bf3fc01f2c77294.jpg">
 
 # On The Heavens #
 
 </section>
-<section>
+<section data-markdown>
 
 ## Circular Motion ##
 
@@ -147,7 +146,7 @@ What is most fundamental?
 3. Completeness
 
 </section>
-<section>
+<section data-markdown>
 
 > From all these premises therefore it clearly follows that there
 > exists some physical substance besides the four in our sublunary
@@ -156,7 +155,7 @@ What is most fundamental?
 > (269a)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Elements ##
 
@@ -164,19 +163,19 @@ What is most fundamental?
 2. Not Eternal
 
 </section>
-<section>
+<section data-markdown>
 
 Again, what is most fundamental?
 
 </section>
 </section><!--End On The Heavens-->
-<section><!--Begin Metaphysics IV-->
+<section data-markdown><!--Begin Metaphysics IV-->
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/0/06/Aristotle-Raphael.JPG">
 
 # Metaphysics IV #
 
 </section>
-<section>
+<section data-markdown>
 
 ## First Philosophy ##
 
@@ -187,7 +186,7 @@ Again, what is most fundamental?
 > (933a)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Pros Hen Predication ##
 
@@ -196,19 +195,19 @@ Again, what is most fundamental?
 > (1003b)
 
 </section>
-<section>
+<section data-markdown>
 
 > Being and unity are the same and a single nature, since they
 > imply each other.
 > (1003b)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Philosophy vs. Geometry ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## The Firmest Principle of All ##
 
@@ -217,19 +216,19 @@ Again, what is most fundamental?
 > (1005b)
 
 </section>
-<section>
+<section data-markdown>
 
 ## So What is Philosophy? ##
 
 </section>
 </section><!--End Metaphysics IV-->
-<section><!--Begin Metaphysics VII-->
+<section data-markdown><!--Begin Metaphysics VII-->
 <section data-background="http://newshour-tc.pbs.org/newshour/wp-content/uploads/2016/01/greekart.jpg">
 
 # Metaphysics VII #
 
 </section>
-<section>
+<section data-markdown>
 
 ## What is Substance? ##
 
@@ -238,29 +237,29 @@ Again, what is most fundamental?
 - Composite?
 
 </section>
-<section>
+<section data-markdown>
 
 ## Form ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Matter ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Composite ##
 
 </section>
-<section>
+<section data-markdown>
 
 ## Essence ##
 
 (the-what-it-was-to-be)
 
 </section>
-<section>
+<section data-markdown>
 
 > Now, a composite is composed of something in such a way that the
 > whole thing is one, not as a heap is, but as a syllable is.  A
@@ -269,7 +268,7 @@ Again, what is most fundamental?
 > (1041b)
 
 </section>
-<section>
+<section data-markdown>
 
 > Now this is the substance of a given thing; for this is the
 > primary cause of the thing's being [what it is].  Some things are
@@ -280,13 +279,13 @@ Again, what is most fundamental?
 
 </section>
 </section><!--End Metaphysics VII-->
-<section><!--Begin Metaphysics VIII-->
+<section data-markdown><!--Begin Metaphysics VIII-->
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/d/d2/Paradiso_Canto_31.jpg">
 
 # Metaphysics XII #
 
 </section>
-<section>
+<section data-markdown>
 
 ## Prime Mover ##
 
@@ -297,7 +296,7 @@ Again, what is most fundamental?
 > (1072a)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Pure Actuality ##
 
@@ -307,7 +306,7 @@ Again, what is most fundamental?
 > (1072b)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Pure Understanding ##
 
@@ -319,7 +318,7 @@ Again, what is most fundamental?
 > (1072b)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Pure Life ##
 
@@ -328,7 +327,7 @@ Again, what is most fundamental?
 > (1072b)
 
 </section>
-<section>
+<section data-markdown>
 
 ## Narcissistic? ##
 
