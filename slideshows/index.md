@@ -16,14 +16,16 @@ transition: slide
 * [Week 5 Virtue ethics](http://www.keithbuhler.com/slideshows/business5virtue)
 * [Week 6 Inside Job (Film)] coming soon
 
+(click right for more classes)
 
+</section><section data-markdown>
 
 ## CS Lewis Slides
 
 * Coming soon
 
 
-<br> 
+</section><section data-markdown>
 
 ## Introduction to Philosophy Slides
 

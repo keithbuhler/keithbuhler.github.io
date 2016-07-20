@@ -12,6 +12,7 @@ theme: league
 *Some basics of scientific and philosophical thinking*
 
 </section> </section>
+
 <section data-markdown>
 
 - How is this essay organized?
@@ -161,13 +162,12 @@ Is the moral law unreal or real? Are rules like "human beings do not steal" just
 
 
 
+</section>
+</section>
 
 
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg"><section data-markdown>
 
-</section>
-</section>
-</section>
 
 # Business Ethics: Week 2
 

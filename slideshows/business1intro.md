@@ -296,9 +296,10 @@ Companies can be bad to their employees, bad to their customers, bad to other co
 
 </section><section data-markdown>
 
-## Philosophical ethics
+## What is philosophical ethics? 
 
-What is philosophical ethics? The best thinking about the best ideas in the universe; goodness, truth, and beauty; justice, utility, rights, obligations, and personal virtues.  
+* The best thinking about the best ideas in the universe
+* Eg: goodness, truth, and beauty; justice, utility, rights, obligations, and personal virtues.  
 
 </section><section data-markdown>
 
@@ -310,6 +311,10 @@ How does a philosopher do his or her job?
 
 * * We have to stand back from our personal knee-jerk viewpoint or cultural viewpoints. Sometimes they are right, sometimes not.
 * What if something deep about our collective way of viewing things is wrong? How would we correct it? Only by stepping back and considering views wide afield. 
+</section><section data-markdown>
+
+
+## Philosophical methods
 
 **Philosophical ethics is dialogical.** 
 
@@ -326,15 +331,71 @@ I’ll walk you through a dialectical argument. You can see how I pose the quest
 
 You can stop me at any time to object, express agreement, or ask a question. 
 
-Here’s the question: What is the point of business? 
 
 </section><section data-markdown>
 
-</section><section data-markdown>
+**Here’s the question: What is the point of business?**
+
+Let’s reflect.
+
+(Hypothesis 1, 2, 3 on the board)
 
 </section><section data-markdown>
 
+### What's the point of business?
+
+**Hypothesis 1: The point of business is to make money for the business owner and employees.** 
+
+* But it can’t just be that. For what if a snake oil salesmen “makes money” by cheating people out of their money. 
+
+
+
+
 </section><section data-markdown>
+
+### What's the point of business?
+
+* Hypothesis 1: Making money
+
+**Hypothesis 2: The point of business is to “busy” itself producing goods and services necessary for community.**
+
+* A community needs food, water, shelter, clothes, and so on.
+* A community can each provide all their needs for themselves, or it can “divide and conquer”, each doing one task. For example, farmers provide food and water, homemakers cook, tailors provide clothes, carpenters build shelters, blacksmiths build tools for farming and cooking, and so on. These would be the “farming business” (agriculture), the homemaking business (parenting), the clothing business (fashion and textile manufacturing), the carpentry business (general contractors, engineering, project management), tools, and so on.
+* But people are not just machines made of meat — they need “something to do. They need friendship, fun, art, religion, society, and entertainment. 
+
+
+</section><section data-markdown>
+
+**Hypothesis 3: Business is what keeps everyone “busy”**
+
+* Once everyone’s basic “necessary” needs are met, people need “something to do.” Religion, art, philosophy, science, sports, music, friends, and other “unnecessary” things. These things are not necessary for survival but necessary for humanity, necessary to thrive. 
+* So, divide and conquer: teachers and wise ones provide education, singers and story-tellers and actors provide entertainment, common meeting places such as houses, churches, and halls provide a place for society and culture. 
+* These are all businesses.
+* But what is the point of these things? 
+
+</section><section data-markdown>
+
+
+* Hypothesis 1: Making money
+* Hypothesis 2: Providing needs
+* Hypothesis 3: Business is what keeps everyone “busy” being human
+* **Hypothesis 4: Business is any human activity one can undertake and trade for some other good.** 
+
+</section><section data-markdown>
+
+If we have time... 
+
+## Discussion Ground Rules
+
+1. Be kind. 
+2. Say what you think.
+3. Truth hurts.
+4. It’s good to learn you’re wrong.
+5. Ask questions. 
+6. Answer questions.
+7. Listen to your neighbor. 
+8. Silence is OK too. 
+
 
 
 ## 2 Minutes Left
@@ -346,3 +407,4 @@ Kreeft's essay is organized funny.
 
 
 </section>
+
