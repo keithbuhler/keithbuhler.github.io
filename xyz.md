@@ -22,3 +22,12 @@ transition: slide
 ## Slide 2
 
 ### Sub sub heading
+
+
+<section>
+
+- Testing bullet point
+
+# Testing heading without data-markdown tag
+
+</section>
