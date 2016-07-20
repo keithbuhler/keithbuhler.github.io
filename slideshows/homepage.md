@@ -4,32 +4,34 @@ title: Keith Buhler, Philosophy Home
 --- 
 
 
-<img src="/images/blog-header-uk-large.jpg" align="top">
-
+<section> 
 <section data-markdown>
 
-# Welcome to KeithBuhler.com
-
+# KeithBuhler.com
 
 </section><section data-markdown>
 
+<img src="/images/blog-header-uk-large.jpg" align="top">
+
+</section><section data-markdown>
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="40px" align="right"> 
 
 I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
 
-I've been a classical educator in colleges and classical high schools for [8+ years](/Buhler-CV). I use immersive Socratic dialogue, great books, and humor to introduce folks to the great conversation.  
+I've been a classical educator in colleges and classical high schools for [8+ years](/Buhler-CV). I use immersive Socratic dialogue, great books, and humor to introduce folks to the great conversation.  My [research](/research) centers on virtue ethics. I'm especially interested in the theories of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
 
-My [research](/research) centers on virtue ethics. I'm especially interested in the theories of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
+</section><section data-markdown>
 
 In my spare time (about 45 minutes per month), I like clay sculpting, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
 
 * [Academia.edu](https://uky.academia.edu/KeithBuhler)
 * [PhilPapers](http://philpapers.org/profile/47267)
 * [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
- 
+
 
 *This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
+
 
 
 <br>

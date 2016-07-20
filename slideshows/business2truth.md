@@ -134,7 +134,7 @@ Objection 1: It seems that it is not, for people differ about what is truth, and
 
 </section> <section data-markdown>
 
-Objection 4: To claim that we can know objective truth is to assume that we want to know it, or ought to know it. But Nietzsche, in an unprecedented flight of boldness, questions even this “will to truth” when he asks: “Why truth? Why not rather untruth?” 
+* **Objection 4:** To claim that we can know objective truth is to assume that we want to know it, or ought to know it. But Nietzsche, in an unprecedented flight of boldness, questions even this “will to truth” when he asks: “Why truth? Why not rather untruth?” 
 
 
 
@@ -143,8 +143,8 @@ Objection 4: To claim that we can know objective truth is to assume that we want
 ## 2 minutes left
 * Is Kreeft right?
 * Questions?
-* Write a short response
-* Review "objections" 
+* Write a short response: is truth objective? 
+* Review "Moral Relativism" handout
 
 </section>
 
@@ -168,7 +168,7 @@ Is the moral law unreal or real? Are rules like "human beings do not steal" just
 
 </section> 
 
-<section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
+<section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg">
 <section data-markdown>
 
 # Business Ethics
