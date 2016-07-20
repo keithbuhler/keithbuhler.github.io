@@ -200,7 +200,9 @@ Some other forms:
 
 *The good, the bad, the ugly*
 
-</section><section data-markdown>
+</section>
+</section>
+<section data-markdown>
 
 ### Objections to utilitarianism include injustice, impractical, amoral
 
