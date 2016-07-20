@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Disputations
-permalink: /disputations/
+permalink: /disputations
 ---
 
 #### [(pdf version)](/philosophy-portal/disputations.pdf)
