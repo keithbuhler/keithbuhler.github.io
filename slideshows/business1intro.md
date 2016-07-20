@@ -8,7 +8,6 @@ layout: slide
 
 # Business ethics
 
-*PHI 334 Syllabus Day*
 
 </font>
 
@@ -41,9 +40,10 @@ And what are you hoping for/ fearing from this class?
 
 ## What is this class about? 
 
-Some of the hardest decisions we make have to do with business. 
-
-As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come.
+* Some of the hardest decisions we make have to do with business. 
+* As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. 
+* Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. 
+* This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come.
 
 Open your syllabus or follow [online](http://www.keithbuhler.com/syllabus334)
 
@@ -51,13 +51,16 @@ Open your syllabus or follow [online](http://www.keithbuhler.com/syllabus334)
 
 ## Philosophy
 
-Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. 
+* Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? 
+* Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. 
 
 </section><section data-markdown>
 
 ## Philosophy -> Ethics
 
-Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable?
+* Ethics is the branch of philosophy that investigates right and wrong, good and bad. 
+* What is worthwhile or worthless? How to live a worthwhile life? 
+* What is good? Who is truly enviable?
 
 </section><section data-markdown>
 
@@ -75,13 +78,21 @@ In business ethics, we ask about foundations:
 </section><section data-markdown>
 ## Philosophy—> Business Ethics
 
-These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. 
+These questions and more we will attempt to answer by:
+
+- clarifying terms, 
+- establishing secure ethical principles, 
+- being sensitive to contextual details, 
+- identifying reasonable answers, 
+- evaluating arguments for and against each reasonable answer, and 
+- coming to our own conclusions. 
 
 
 </section><section data-markdown>
 
 
-Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
+* We will consider arguments from Kantian, consequentialist, and religious standpoints
+* However, our *official approach* to these questions will be from the standpoint of traditional virtue ethics.
 
 </section><section data-markdown>
 
@@ -92,8 +103,7 @@ Though we will consider arguments from Kantian, consequentialist, and religious 
 * to understand business as part of applied ethics, public policy, and as a sub-discipline of ethical philosophy
 * to become familiar with major ethical theories, especially: virtue ethics, utilitarianism, and deontology 
 * to grow intellectually by critically analyzing articles, books, studies, and news articles about business
-* to understand our own ethical tradition better and make clear plans for how to make hard decisions
-* Also to understand the tradition of others (religious ethics, deontology, utilitarianism, virtue ethics) in approaching ethical issues;
+* to understand our own ethical tradition and others
 * and thereby to become more virtuous people capable of handling difficult life circumstances.
 
 </section><section data-markdown>
@@ -109,6 +119,12 @@ How to read it
 * “Inside Job” Film
 * Methods of Business Ethics
 * Competition
+
+
+</section><section data-markdown>
+
+### Course outline cont'd
+
 * Justice
 * Universal Norms
 * Incentives
@@ -116,6 +132,7 @@ How to read it
 * Safety
 * Environment
 * Conclusions
+
 
 
 </section><section data-markdown>
@@ -164,7 +181,13 @@ The primary competency of this class is philosophical dialogue. Hence, you must 
 
 </section><section data-markdown>
 
-We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
+We do dialogue for five main reasons: 
+
+(1) You must take responsibility for your own learning. 
+(2) We can actually get to know each other.  
+(3) I learn best in discussion. 
+(4) Most people learn (and retain) best in discussion. 
+(5) Philosophy is dialogical. 
 
 </section><section data-markdown>
 ### Participation
@@ -243,7 +266,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 <section data-markdown>
 
-# Week 1 Introduction to Business Ethics  
+# Business Ethics  
 
 *What is business ethics?* 
 
@@ -257,7 +280,9 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 </section><section data-markdown>
 
-Business ethics is done by those with a philosophy background or those with a business background. I am an entrepreneur as well, but we are approaching it from philosophy and ethics. 
+Business ethics is done by those with a philosophy background or those with a business background. 
+
+I am an entrepreneur as well, but we are approaching it from philosophy and ethics. 
 
 </section><section data-markdown>
 
@@ -281,36 +306,43 @@ What is philosophical ethics? The best thinking about the best ideas in the univ
 
 How does a philosopher do his or her job? 
 
-* We progress by conversation and philosophical dialogue. 
-* We have to stand back from our personal knee-jerk viewpoint or cultural viewpoints. What if something deep about our collective way of viewing things is wrong? How would we correct it? Only by stepping back and considering views wide afield. 
+**Philosophical ethics is reflective.**
+
+* * We have to stand back from our personal knee-jerk viewpoint or cultural viewpoints. Sometimes they are right, sometimes not.
+* What if something deep about our collective way of viewing things is wrong? How would we correct it? Only by stepping back and considering views wide afield. 
+
+**Philosophical ethics is dialogical.** 
+
+* We have to converse with each other. 
+* Understand before you disagree.  (Then, disagree!)
 * Asking questions, and following the argument. 
 
 
 </section><section data-markdown>
 
-## Before you go
+The best way to practice philosophical thinking is to jump in. 
+
+I’ll walk you through a dialectical argument. You can see how I pose the question, define the possible answers, and examine each answer, eliminating bad answers, and highlighting the good one (or ones). 
+
+You can stop me at any time to object, express agreement, or ask a question. 
+
+Here’s the question: What is the point of business? 
+
+</section><section data-markdown>
+
+</section><section data-markdown>
+
+</section><section data-markdown>
+
+</section><section data-markdown>
+
+
+## 2 Minutes Left
 * Questions?
-* Write a short response
-* Review "objections" 
+* Write a short response: What is purpose of business?
+* Read first handout! 
+
+Kreeft's essay is organized funny.
 
 
-</section><section data-markdown>
-
-
-
-
-
-
-
-# Business Ethics 
-
-
-Week 1: Introducion to Business Ethics
-
-</section><section data-markdown>
-
-# Philosophy
-
-* What are your expectations for philosophy?
-* What is ethics? 
-
+</section>
