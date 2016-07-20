@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: Capitalism
+theme: beige
 ---
 
 <section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">

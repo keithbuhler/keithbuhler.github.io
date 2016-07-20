@@ -6,7 +6,7 @@ title: Utilitarianism
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 <section data-markdown>
 
-### Week 3: Utilitarianism
+# Week 3: Utilitarianism
 
 *Everything you need to know in 50 minutes or less*
 
