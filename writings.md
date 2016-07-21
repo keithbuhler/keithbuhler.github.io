@@ -1,9 +1,7 @@
 ---
-title: Buhler | Writings | Fiction and Non-Fiction
+title: Writings | Fiction and Non-Fiction
 layout: post
 ---
-
-## Writings #
 
 I am a devout amateur. My writings have been published online and in print. But I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
 

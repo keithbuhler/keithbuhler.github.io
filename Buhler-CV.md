@@ -1,6 +1,7 @@
 ---
-layout: single
 title: Keith Buhler Philosophy CV
+layout: single
+permalink: /cv/
 --- 
 
 ### CURRICULUM VITAE
@@ -90,6 +91,19 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2001-2002 &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
 
  
+
+### INVITED PUBLIC LECTURES
+2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
+2013&nbsp;&nbsp; "Reading as Classical Education", Veritas Academy.  
+2012 &nbsp;&nbsp;"The Goodness of Goodness: Lewis' *Abolition of Man*", Torrey Academy.   
+2012 &nbsp;&nbsp; "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.     
+2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
+2011 &nbsp;&nbsp; "Hope and the Cycle of Desire", Hope Academy.  
+2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
+2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
+2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
+2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
+
  
 ### RECOMMENDATIONS
 
@@ -134,19 +148,6 @@ S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.
 S2013 &nbsp;&nbsp;  Seminar on Language & Normativity. Tim Sundell.    
 F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
 F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland.  
-
-
-### INVITED PUBLIC LECTURES
-2014 &nbsp;&nbsp; "Morality: Rule-following or New Life?", Wesleyan Society.   
-2013&nbsp;&nbsp; "Reading as Classical Education", Veritas Academy.  
-2012 &nbsp;&nbsp;"The Goodness of Goodness: Lewis' *Abolition of Man*", Torrey Academy.   
-2012 &nbsp;&nbsp; "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*", Torrey Academy.     
-2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
-2011 &nbsp;&nbsp; "Hope and the Cycle of Desire", Hope Academy.  
-2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
-2010 &nbsp;&nbsp; "The Art of Conversation; Conversation with Art", Wheatstone Academy.  
-2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
-2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
 
 ### LANGUAGES

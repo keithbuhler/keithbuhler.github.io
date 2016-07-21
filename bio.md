@@ -1,7 +1,7 @@
 ---
 layout: fun
 title: bio
-permalink: http://keithbuhler.com/bio
+permalink: http://www.keithbuhler.com/bio/
 ---
 
 # Bio #
