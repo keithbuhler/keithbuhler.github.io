@@ -1,6 +1,7 @@
 ---
-title: index
+title: Slideshow index
 layout: philosophy
+permalink: /slides/
 ---
 
 ## Business Ethics Slides
