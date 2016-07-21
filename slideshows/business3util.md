@@ -5,7 +5,7 @@ theme: simple
 ---
 
 <section><!--Begin Day 1 Truth-->
-<section data-background="http://www.verite.org/sites/default/files/images/misc-factory-clocks-shenzhen_shutterstock_57598954.jpg" data-markdown>
+<section data-background="http://www.pbs.org/independentlens/revolucion/images/home_pic.jpg" data-markdown>
 
 # Utilitarianism
 
@@ -34,14 +34,14 @@ theme: simple
 </section><section data-markdown>
 
 
-| Philosopher | Answer |
-|-------------|--------|
-| Aquinas         | God |
-| Plato           | The Form of Good |
-| Aristotle | Happines |
-| Kant      |     A good will |
-| Rawls     |     A just society    |
-| Mill      |     Utility (freedom from pain) |
+| Philosopher | Answer           |
+|-------------|------------------|
+| Aquinas     | God              |
+| Plato       | Form of the Good |
+| Aristotle   | Eudaimonia       |
+| Kant        | A good will      |
+| Rawls       | A just society   |
+| Mill        | Utility (freedom from pain) |
 
 
 
