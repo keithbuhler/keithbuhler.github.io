@@ -7,7 +7,7 @@ theme: league
 <section><!--Begin Day 1 Truth-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg" section data-markdown><!--Begin slide-->
 
-# Business ethics: Truth
+# Week 2: Truth
 
 *Some basics of scientific and philosophical thinking*
 
@@ -210,7 +210,7 @@ Hence, also, Nietszsche:
 <section> <!--begin day 2-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg" data-markdown>
 
-# Business Ethics
+# Week 2: The Moral law
 
 **None of you are moral relativists!**
 
@@ -347,7 +347,9 @@ We discover moral truths rather than invent them, just as we discover physical, 
 <section><!--Day 3, Religion and Reason-->
 <section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg" data-markdown>
 
-# Religion and reason
+# Week 2: Religion and reason
+
+*Godliness, godlessness, and morality*
 
 </section><section data-markdown>
 
