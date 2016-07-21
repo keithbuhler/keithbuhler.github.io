@@ -3,9 +3,9 @@ title: Introduction
 layout: slide
 ---
 
-
+<section> <!--Syllabus begin-->
+<section data-markdown>
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
-<section data-markdown><!--Syllabus begin-->
 
 # Business ethics
 
@@ -285,12 +285,12 @@ Those who opt for extra credit may do so. Instructions are posted online.
 * You can review these slideshows! -- www.keithbuhler.com/slideshows
 * Friday: discuss business ethics in a bit more detail
 
-
+</section>
 </section><!--Syllabus end-->
 
 
-
-<section data-markdown><!--Friday, Intro begin-->
+<section><!--Friday, Intro end-->
+<section data-markdown>
 <section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg">
 
 # Business Ethics  

@@ -5,18 +5,15 @@ theme: league
 ---
 
 <section> <!--Begin Day 1, truth-->
+<section data-markdown>
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
 
-<section data-markdown>
 
 # Business ethics: Truth
 
 *Some basics of scientific and philosophical thinking*
 
-</section>
-</section>
-
-<section data-markdown>
+</section><section data-markdown>
 
 ## How is this essay organized?
 
@@ -211,7 +208,7 @@ Hence, also, Nietszsche:
 
 
 
-
+<section> <!--begin day 2-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
 <section data-markdown>
 
@@ -229,7 +226,7 @@ Hence, also, Nietszsche:
 
 </section> <section data-markdown>
 
-# Peter Kreeft, Are Moral laws objectively real? 
+## Peter Kreeft, Are Moral laws objectively real? 
 
 
 </section> <section data-markdown>
@@ -336,7 +333,6 @@ We discover moral truths rather than invent them, just as we discover physical, 
 * Review "Moral Relativism" handout
 
 </section>
-</section>
 </section><!--End Day 2, Moral Law-->
 
 
@@ -351,16 +347,13 @@ We discover moral truths rather than invent them, just as we discover physical, 
 
 
 
-
-
 <section><!--Day 3, Religion and Reason-->
-<section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg">
 <section data-markdown>
+<section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg">
 
 # Religion and reason
 
-</section>
-</section> <section data-markdown>
+</section><section data-markdown>
 
 ## Intro
 
@@ -494,4 +487,6 @@ Michael Austin says:
 2. Euthyphro Dilmemma: Either We ought to love one another because God commands us to do so  (but what if he commands something immoral?) or God commands us to love one another because that is what we ought to do (but then moral goodness is independent of God, and he is subject to it)
 
 
-<section><!--End Day 3, Religion and Reason-->
+</section>
+</section><!--End Day 3, Religion and Reason-->
+</section><!--End end whole-->
