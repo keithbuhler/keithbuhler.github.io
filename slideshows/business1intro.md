@@ -3,13 +3,14 @@ title: Introduction
 layout: slide
 ---
 
-<section> <!--Syllabus begin-->
-<section data-markdown>
+<section data-markdown><!--Syllabus begin-->
+
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
 
 # Business ethics
 
-</section><section data-markdown>
+</section>
+<section>
 
 ## Welcome!
 
@@ -272,12 +273,6 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 
 
-
-
-
-
-
-
 ## 2 minutes left
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
@@ -288,9 +283,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 </section>
 </section><!--Syllabus end-->
 
-
-<section><!--Friday, Intro end-->
-<section data-markdown>
+<section data-markdown><!--Friday, Intro begin-->
 <section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg">
 
 # Business Ethics  
@@ -435,4 +428,4 @@ Kreeft's essay is organized funny.
 
 
 </section>
-
+</section> <!--Friday, Intro end-->

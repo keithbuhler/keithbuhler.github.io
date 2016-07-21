@@ -4,8 +4,7 @@ title: Business Ethics, Week 2, Truth
 theme: league
 ---
 
-<section> <!--Begin Day 1, truth-->
-<section data-markdown>
+<section data-markdown><!--Begin Day 1, truth-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
 
 
@@ -13,9 +12,9 @@ theme: league
 
 *Some basics of scientific and philosophical thinking*
 
-</section><section data-markdown>
+</section><section>
 
-## How is this essay organized?
+## How is Kreeft's essay organized?
 
 * Objections come first ("it seems")
 * Then a pivot ("On the other hand")
