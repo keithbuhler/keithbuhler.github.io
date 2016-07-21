@@ -212,9 +212,7 @@ Hence, also, Nietszsche:
 
 
 
-<section> <!--Begin Day 2, Moral Law-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg">
-
 <section data-markdown>
 
 
@@ -222,9 +220,7 @@ Hence, also, Nietszsche:
 
 ## None of you are moral relativists!
 
-</section>
-
-<section data-markdown>
+</section><section data-markdown>
 
 ## Basic issue
 

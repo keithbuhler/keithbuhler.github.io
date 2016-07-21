@@ -46,8 +46,6 @@ feature_row2:
     url: "http://www.keithbuhler.com/meditation"
     btn_label: "Be still"
     btn_class: "btn--inverse"
-
-    
 feature_row3:
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -56,14 +54,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row4:
-  - image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+
 ---
 
 Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experimental projects in various stages of completion. Browse, follow, and leave a comment. Thanks for visiting.
@@ -76,7 +67,6 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experi
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
 
 
 
