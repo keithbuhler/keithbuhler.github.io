@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: business 4 deontology
-theme: blood
+theme: serif
 ---
 
 <section><!--begin-->
@@ -13,7 +13,7 @@ theme: blood
 
 </section><section data-markdown>
 
-## Kantianism: Everything you need to know 
+### Kantianism: Everything you need to know 
 
 1. Kantianism is the thesis that "The good will obeys the moral law for morality's sake."
 2. Kantianism is sometimes known as "duty-based" ethics or "deontology."
@@ -160,9 +160,8 @@ Practical rationality cannot contradict itself, either.
 
 
 
-
 <section><!--begin day 2-->
-<section data-background="https://uclphilosophysociety.files.wordpress.com/2015/10/aristotle.jpg?w=1250" data-markdown>
+<section data-background="http://marxisttheory.org/wp-content/uploads/2012/11/kant-big.jpg" data-markdown>
 
 # Business Ethics Week 04: Kantian Deontology, cont'd
 
@@ -272,11 +271,14 @@ This fact about persons is what gives them dignity and ultimate worth, according
 
 ##  Objections
 
-1. Self-legislation is incoherent. 
-2. Too formal -- morality needs material context. 
+1. Self-legislation is incoherent. (Anscombe)
+2. Too formal -- morality needs material context. (Hegel)
+3. 
 
+</section><section data-markdown>
 
 * Questions?
 * Write a short response
+* Prepare for discussion
 * Read "Aristotle" Handout
 
