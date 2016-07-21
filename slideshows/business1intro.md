@@ -3,13 +3,13 @@ title: Introduction
 layout: slide
 ---
 
-<section><!--Syllabus begin-->
+<section data-markdown><!--Syllabus begin-->
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" data-markdown><!--Intro slide begin-->
 
 # Business ethics
 
 </section> <!--Intro slide end-->
-<section data-markdown> 
+<section> 
 
 ## Welcome!
 
@@ -417,6 +417,7 @@ If we have time...
 7. Listen to your neighbor. 
 8. Silence is OK too. 
 
+</section><section data-markdown>
 
 
 ## 2 Minutes Left
