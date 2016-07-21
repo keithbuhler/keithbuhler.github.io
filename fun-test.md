@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: sandbox
+title: syllabi
 header:
   image: nasmith-banner.jpeg
 permalink: 
@@ -25,37 +25,8 @@ feature_row:
     url: "http://www.keithbuhler.com/meditation"
     btn_label: "Be still"
     btn_class: "btn--inverse"
-feature_row2:
-  - image_path: fun-lewis.jpg
-    alt: "The Inklings"
-    title: "Inklings.info"
-    excerpt: "Information, books, and lists about the Oxford Dons"
-    url: "http://www.inklings.info"
-    btn_label: "Get an Inkling"
-    btn_class: "btn--inverse"
-      - image_path: /images/fun-books2.jpg
-    alt: "Reading Intentionally"
-    title: "The Intentional Reading Project"
-    excerpt: "A proven plan to help you read more good books."
-    url: "http://bit.ly/36BooksPerYear"
-    btn_label: "Start your own"
-    btn_class: "btn--inverse"
-  - image_path: meditation.jpg
-    title: "Meditation"
-    excerpt: "How and why to practice the ancient art of stillness."
-    url: "http://www.keithbuhler.com/meditation"
-    btn_label: "Be still"
-    btn_class: "btn--inverse"
-feature_row3:
-  - image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
 ---
+
 
 Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experimental projects in various stages of completion. Browse, follow, and leave a comment. Thanks for visiting.
 
@@ -109,3 +80,37 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experi
 <p><a id="science" target="_blank" href="http://www.philosophyisscience.com"> <img src="/images/newton.jpg" width="256" height="256" align="left">  </a></p><p> Philosophy is Science: Provocative thoughts on the relationship (identity) between philosophy and other formal and natural sciences.  </p>
 
 <p><a id="Sola Scriptura" target="_blank" href="http://bitly.com/ScriptureOrTradition"> <img src="/images/fun-sola.jpg" align="left"></a> </p><p align="right">Sola Scriptura: A philosophical dialogue for inquirers about Scripture, tradition, protestantism and Orthodoxy</p>
+
+
+
+
+feature_row2:
+  - image_path: fun-lewis.jpg
+    alt: "The Inklings"
+    title: "Inklings.info"
+    excerpt: "Information, books, and lists about the Oxford Dons"
+    url: "http://www.inklings.info"
+    btn_label: "Get an Inkling"
+    btn_class: "btn--inverse"
+      - image_path: /images/fun-books2.jpg
+    alt: "Reading Intentionally"
+    title: "The Intentional Reading Project"
+    excerpt: "A proven plan to help you read more good books."
+    url: "http://bit.ly/36BooksPerYear"
+    btn_label: "Start your own"
+    btn_class: "btn--inverse"
+  - image_path: meditation.jpg
+    title: "Meditation"
+    excerpt: "How and why to practice the ancient art of stillness."
+    url: "http://www.keithbuhler.com/meditation"
+    btn_label: "Be still"
+    btn_class: "btn--inverse"
+feature_row3:
+  - image_path: unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Teaching Statement
+permalink: /teaching-statement/
 ---
 
 [Keith Buhler](http://keithbuhler.github.io)  
@@ -10,8 +11,6 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 
 ----
-
-# Teaching Statement
 
 My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. To this end, I invite students to think about new ideas in new ways. Thinking philosophically is a risk; so I give students the space, the tools, and the inspiration they need to be motivated to take that risk. 
 

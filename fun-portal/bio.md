@@ -1,14 +1,15 @@
 ---
-layout: fun
+layout: archive
 title: bio
 permalink: /bio/
+author_profile: true
 ---
-
-# Bio #
 
 <img src="/images/dante3.jpg" alt="Dante showing italy" align="right" hspace="10">
 
-Thanks for reading. My quest in life is to become wise. I want to expose all rational and moral errors in myself by reflecting on my life and on the best the human race has to offer. Then I want to expose any such errors in my enemies and in my friends. 
+Thanks for reading. My quest in life is to become wise. 
+
+I want to expose all rational and moral errors in myself by reflecting on my life and on the best the human race has to offer. Then I want to expose any such errors in my enemies and in my friends. 
 
 I'm the youngest of seven kids, born and raised in [greater Los Angeles area.](https://screen.yahoo.com/californians-drama-off-405-000000032.html) I was home-schooled for many years before entering college early. 
 
