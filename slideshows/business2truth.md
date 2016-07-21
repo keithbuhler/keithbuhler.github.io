@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Business Ethics, Week 2, Truth
-theme: serif
+theme: night
 ---
 
 <section><!--Begin Day 1 Truth-->
@@ -613,7 +613,6 @@ What are secular/humanist alternatives?
 
 Next week, we’ll discuss Utilitarianism, the theory that pleasure is the only good and needs to be maximized. 
 
-
 </section> <section data-markdown>
 
 ## 2 minutes left
@@ -623,4 +622,4 @@ Next week, we’ll discuss Utilitarianism, the theory that pleasure is the only 
 * Read handouts
 
 </section>
-</section><!--End Day 3, Religion and Reason--></section> <section data-markdown>
+</section><!--End Day 3, Religion and Reason-->
