@@ -113,7 +113,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 
 
-<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg" align="left">  </a></p><p align="right"> My new YouTube Channel: discussion advice, argumentative fallacies, philosophy talks, and comedy./p>
+<p><a id="discussion" target="_blank" href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg" align="left">  </a></p><p align="right"> My new YouTube Channel: discussion advice, argumentative fallacies, philosophy talks, and comedy.</p>
 
 
 
@@ -162,7 +162,7 @@ Welcome to keithbuhler.com/fun. This sandbox hosts a variety of experimental pro
 <br>
 <br>
 
-<p><a id="Lectures" target="_blank" href="http://www.keithbuhler.com/fun-portal/speaking"> <img src="/images/keithbuhler-teaching.jpg" align="left" width="236" height="236"> </a></p><p align="right"> Lectures, speeches, conferences, and classes.</p>
+<p><a id="Lectures" target="_blank" href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg" align="left" width="236" height="236"> </a></p><p align="right"> Lectures, speeches, conferences, and classes.</p>
 
 
 <br>

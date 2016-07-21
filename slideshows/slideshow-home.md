@@ -3,8 +3,6 @@ title: index
 layout: philosophy
 ---
 
-<section data-markdown>
-
 ## Business Ethics Slides
 
 * [Week 1 Introduction](http://www.keithbuhler.com/slideshows/business1intro)
@@ -14,22 +12,20 @@ layout: philosophy
 * [Week 5 Virtue ethics](http://www.keithbuhler.com/slideshows/business5virtue)
 * [Week 6 Inside Job (Film)] coming soon
 
-(click right for more classes)
-
-</section><section data-markdown>
 
 ## CS Lewis Slides
 
 * Coming soon
 
 
-</section><section data-markdown>
-
 ## Introduction to Philosophy Slides
 
 * [Week 1 Introduction](https://drive.google.com/open?id=1eHONx_wurKNZP-bXe_uuHVLvO5hov8wXjc6iivl5qOs)
 * [Week 2](https://docs.google.com/presentation/d/1CUVE28R1D6sJ83iKGvrsT4LOuAnNFD0nfR2Sc-jLJUk/edit?usp=sharing)
 * [Week 3](https://docs.google.com/presentation/d/1Stth-veFK7UV9BKqpFTXaDL6lE17iAyPfV8bbExD6cw/edit?usp=sharing)
+
+
+## Unfinished
 
 etc. 
 

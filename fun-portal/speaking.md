@@ -1,10 +1,9 @@
 ---
-layout: article
+layout: post
 title: Speaking
+permalink: /speaking/
 
 ---
-
-## Speeches
 
 ### Popular Talks & Public Lectures Delivered ###
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   

@@ -1,5 +1,7 @@
 ---
+title: 
 layout: post
+author_profile: true
 tags: [philosophy]
 categories: [wisdom]
 comments: true
@@ -8,7 +10,7 @@ header:
 
 ---
 
-<img src="blog-header-uk-large.jpg">
+<img src="/images/blog-header-uk-large.jpg">
 
 <center> 
 

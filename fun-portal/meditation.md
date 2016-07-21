@@ -1,6 +1,7 @@
 ---
-layout: article
 title: meditation
+layout: post
+author_profile: true
 permalink: /meditation/
 --- 
 
