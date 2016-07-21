@@ -3,14 +3,13 @@ title: Introduction
 layout: slide
 ---
 
-<section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
-<section data-markdown>
+<section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" data-markdown><!--Intro slide begin-->
 
 # Business ethics
 
-</section>
-</section> 
-<section data-markdown> <!--Syllabus begin-->
+</section> <!--Intro slide end-->
+<section><!--Syllabus begin-->
+<section data-markdown> 
 
 ## Welcome!
 
@@ -281,14 +280,14 @@ Those who opt for extra credit may do so. Instructions are posted online.
 </section>
 </section><!--Syllabus end-->
 
-<section data-markdown><!--Friday, Intro begin-->
-<section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg">
+<section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg" data-markdown>
 
 # Business Ethics  
 
 *What is business ethics?* 
 
 </section>
+<section><!--Friday, Intro begin-->
 <section data-markdown>
 
 ## Ethics applied to business
