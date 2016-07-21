@@ -271,8 +271,6 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 </section><section data-markdown>
 
-
-
 ## 2 minutes left
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
@@ -426,6 +424,4 @@ If we have time...
 
 Kreeft's essay is organized funny.
 
-
-</section>
 </section> <!--Friday, Intro end-->
