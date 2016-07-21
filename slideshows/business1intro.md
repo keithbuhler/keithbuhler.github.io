@@ -3,14 +3,14 @@ title: Introduction
 layout: slide
 ---
 
-<section data-markdown><!--Syllabus begin-->
-
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
+<section data-markdown>
 
 # Business ethics
 
 </section>
-<section>
+</section> 
+<section data-markdown> <!--Syllabus begin-->
 
 ## Welcome!
 
