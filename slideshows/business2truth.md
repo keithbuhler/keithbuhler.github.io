@@ -340,8 +340,8 @@ We discover moral truths rather than invent them, just as we discover physical, 
 * Review "Moral Relativism" handout
 
 </section>
+</section>
 </section><!--End Day 2, Moral Law-->
-
 
 
 
@@ -418,9 +418,6 @@ and “spiritual but not religious” nones (5-8%).
 
 </section> <section data-markdown>
 
-
-</section> <section data-markdown>
-
 ## Religion and public morality
 
 In the US Today: 
@@ -430,7 +427,11 @@ In general, 2 out of 10 people are unaffiliated, spiritual, agnostic, or atheist
 
 </section> <section data-markdown>
 
-### Exceptions: 
+</section> <section data-markdown>
+
+## Religion and public morality
+
+**Exceptions**
 Academia (50% religious)
 Philosophy (15% religious)
 Science (42% religious)
