@@ -4,6 +4,7 @@ title: Utilitarianism
 theme: simple
 ---
 
+<section>
 <section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
 <section data-markdown> 
 
@@ -11,6 +12,7 @@ theme: simple
 
 *Everything you need to know in 50 minutes or less*
 
+</section>
 </section>
 <section data-markdown>
 
@@ -191,7 +193,6 @@ Some other forms:
 
 
 
-
 <section data-background="https://oneirradiatedwatson.files.wordpress.com/2014/08/image-jacques-louis_david_coronation.jpg"> 
 <section data-markdown><!--Begin day 2-->
 
@@ -200,7 +201,6 @@ Some other forms:
 
 *The good, the bad, the ugly*
 
-</section>
 </section>
 <section data-markdown>
 

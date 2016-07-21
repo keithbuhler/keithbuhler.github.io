@@ -3,6 +3,7 @@ layout: splash
 title: syllabi
 header: 
       image: kentucky.jpg
+permalink: http://keithbuhler.com/syllabi
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"

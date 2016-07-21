@@ -3,6 +3,7 @@ title: PHD
 layout: single
 header: 
       image: rembrandt-sea-galilee1.bmp
+permalink: http://keithbuhler.com/phd
 ---
 
 # PHD
@@ -28,17 +29,15 @@ In brief,  I argue that virtue is the excellence of rational practices and pract
 
 ### Chapters
 
-Below are very early chapter drafts; please do not share or cite. As each becomes available, the titles below will become links. To request permission to peruse, click the chapter title.
+Below are very early chapter drafts; please do not share or cite. As each becomes available, the titles below will become links. To request permission to peruse, please send me an email.
 
 1. Introduction
 2. [Natural Norms: Organic Teleology](https://www.academia.edu/26571534/Natural_Norms)
-3. [Natural Human Norms: Practical Primates](/phdrequest)
-4. [Virtue and Vice: Rational and Irrational Practices](/phdrequest)
-5. [Practical Reasoning](/phdrequest)
-6. [Natural Reasoning](/phdrequest)
-7. [Traditional Reasoning](/phdrequest)
-8. [Wisdom and Death](/phdrequest)
-9. Conclusions
-
+3. Natural Human Norms: Practical Primates
+4. Virtue and Vice: Rational and Irrational Practices
+5. Practical Reasoning
+6. Natural Reasoning
+7. Traditional Reasoning
+8. Conclusions
 
 Whole Dissertation Link (coming soon)

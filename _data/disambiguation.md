@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Disambiguation
+permalink: http://keithbuhler.com/disambiguation
 --- 
 
 ## Redirected from kiθ bulər (disambiguation)[^1]

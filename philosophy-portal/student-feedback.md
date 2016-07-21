@@ -1,5 +1,6 @@
 ---
 title: Student Evaluations
+permalink: http://keithbuhler.com/student-feedback
 ---
 
 # Student Feedback
