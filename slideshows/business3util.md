@@ -132,7 +132,7 @@ John Stuart Mill wrote *Utilitarianism* in 1861.
 
 > Mill Quote: “It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others. It would be absurd that while, in estimating all other things, quality is considered as well as quantity, the estimation of pleasures should be supposed to depend on quantity alone.... 
 
-There is no known Epicurean theory of life which does not assign to the pleasures of the intellect… a much higher value as pleasures than to those of mere sensation.... A being of higher faculties requires more to make him happy, is capable probably of more acute suffering, an certainly accessible to it at more points, than one of an inferior type; but in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence… It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” 
+>There is no known Epicurean theory of life which does not assign to the pleasures of the intellect… a much higher value as pleasures than to those of mere sensation.... A being of higher faculties requires more to make him happy, is capable probably of more acute suffering, an certainly accessible to it at more points, than one of an inferior type; but in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence… It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” 
 
 The goal is to live a life of cultivated pleasure, balancing intellectual and physical satisfaction. 
 
@@ -215,6 +215,9 @@ Some other forms:
 5. Utilitarianism has ancient roots in Epicurus
 6. Utilitarianism is a form of consequentialism, where right and wrong are determined by the consequences of one’s action or character, not the action or character itself. 
 7. Utilitarianism has several modern forms
+
+</section><section data-markdown>
+
 
 ### 2 minutes left
 
@@ -337,6 +340,9 @@ C: Therefore, we should accept utilitarianism.
 <section data-markdown> 
 
 ### 2 minutes left
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERSAaQrUpbc" frameborder="0" allowfullscreen></iframe>
 
 * What are your questions?
 * Write a short response: is utilitarianinism plausible?
