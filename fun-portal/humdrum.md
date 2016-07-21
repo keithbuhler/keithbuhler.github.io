@@ -1,6 +1,7 @@
 ---
 layout: article
 title: The Humdrum Rebellion Manifesto
+permalink: /humdrum/
 ---
 
 <center> 

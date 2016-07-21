@@ -1,6 +1,7 @@
 ---
 layout: article
 title: meditation
+permalink: /meditation/
 --- 
 
 # Meditation #

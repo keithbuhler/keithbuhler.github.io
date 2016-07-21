@@ -1,7 +1,6 @@
 ---
 title: index
 layout: philosophy
-permalink: /slides
 ---
 
 <section data-markdown>
