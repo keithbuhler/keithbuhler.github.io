@@ -34,15 +34,14 @@ theme: simple
 </section><section data-markdown>
 
 
-| Possible answer             |  Philosopher          | 
-|-----------------------------|-----------------------|
-| God                         | (Aquinas)             | 
-| The Form of Good            | (Plato)               | 
-| Happiness                   | (Aristotle)           | 
-| A good will                 | (Kant)                |
-| A just society              | (Rawls)               |
-| Friendship &  beauty        | (Moore)               |
-| Utility: pleasure, lack of pain  |  (Mill)          |
+| Philosopher | Answer |
+|-------------|--------|
+| Aquinas         | God |
+| Plato           | The Form of Good |
+| Aristotle | Happines |
+| Kant      |     A good will |
+| Rawls     |     A just society    |
+| Mill      |     Utility (freedom from pain) |
 
 
 
