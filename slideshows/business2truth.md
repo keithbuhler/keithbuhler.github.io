@@ -103,7 +103,7 @@ If so, does the argument use empirical methods? (yes or no)
 
 ## Objections
 
-Objection 1: It seems that it is not, for people differ about what is truth, and that about which people differ is subjective. If truth were, objective, there would be no disagreements and arguments. But ordinary discourse is full of continual disagreements, which have never been resolved. If there were objective truth, they would have been resolved. Therefore there is no objective truth.
+**Objection 1:** It seems that it is not, for people differ about what is truth, and that about which people differ is subjective. If truth were, objective, there would be no disagreements and arguments. But ordinary discourse is full of continual disagreements, which have never been resolved. If there were objective truth, they would have been resolved. Therefore there is no objective truth.
 
 </section> <section data-markdown>
 
@@ -394,7 +394,7 @@ Ask yourself:
 
 ## Religion and public morality
 
-![Religion](/images/religion-in-us.png)
+![Religion](/images/religion-in-us-small.png)
 
 In the US Today: 
 
@@ -406,7 +406,7 @@ In the US Today:
 
 ## Religion and public morality
 
-![Religion](/images/religion-in-us.png)
+![Religion](/images/religion-in-us-small.png)
 
 In the US Today: 
 
@@ -421,7 +421,7 @@ and “spiritual but not religious” nones (5-8%).
 
 ## Religion and public morality
 
-![Religion](/images/religion-in-us.png)
+![Religion](/images/religion-in-us-small.png)
 
 In the US Today: 
 
@@ -432,7 +432,7 @@ In the US Today:
 
 ## Religion and public morality
 
-![Religion](/images/religion-in-us.png)
+![Religion](/images/religion-in-us-small.png)
 
 **Exceptions**
 
@@ -446,7 +446,7 @@ In the US Today:
 
 ## Religion and public morality
 
-![Religion](/images/religion-in-us.png)
+![Religion](/images/religion-in-us-small.png)
 
 - US 78% religious
 
@@ -540,11 +540,12 @@ One major answer is: divine command theory
 
 We ought to love one another because God commands us to do so.  
 <p class=fragment> 
-(What if he commands something immoral?)
+*But what if he commands something immoral? Moral truths seem to be necessary truths.*
 </p>
-God commands us to love one another because that is what we ought to do. 
 <p class=fragment> 
-(Moral goodness is independent of God, and he is subject to it)
+God commands us to love one another because that is what we ought to do. </p>
+<p class=fragment> 
+*But then moral goodness is independent of God, and he is subject to it.*
 </p>
 
 
@@ -579,18 +580,24 @@ What are secular/humanist alternatives?
 
 ### Goodness without god
 
-
+<p class=fragment> 
 1. Cultural relativism — to each his own. 
-      - Objection: Cannot criticize other immoral cultures. 
-3. Amoralism — do what works. 
-      - Objection: Counterintuitive; we know we should not do what works if it’s wrong.
-5. Vitalism — do whatever is beautiful and lively and exciting  (Dorian Gray)
-      - Objection:  Simply immoral. 
-6. Scientific ethics — do what is objectively good for people.
-      - Objection: How to resolve disagreements about the nature of science? 
-      - Objection: “Flourishing” — what is it? Humility or pride?
+- Objection: Cannot criticize other immoral cultures. </p>
 
-</section> <section data-markdown>
+<p class=fragment> 
+2. Amoralism — do what works. 
+      - Objection: Counterintuitive; we know we should not do what works if it’s wrong.</p>
+
+<p class=fragment> 
+3. Vitalism — do whatever is beautiful and lively and exciting  (Dorian Gray)
+      - Objection:  Simply immoral. </p>
+<p class=fragment> 
+4. Scientific ethics — do what is objectively good for people.
+      - Objection: How to resolve disagreements about the nature of science? 
+      - Objection: “Flourishing” — what is it? Humility or pride? </p>
+
+</section>
+<section data-markdown>
 
 ### Natural law, a compromise
 
