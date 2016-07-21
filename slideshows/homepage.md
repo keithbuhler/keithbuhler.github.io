@@ -9,6 +9,8 @@ theme: league
 
 ## KeithBuhler.com
 
+### Think and grow
+
 *Scroll down or [skip to the menu.](/)*
 
 </section> 

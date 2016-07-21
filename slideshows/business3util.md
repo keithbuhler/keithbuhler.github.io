@@ -24,7 +24,7 @@ theme: black
 5. Utilitarianism has ancient roots in Epicurus
 6. Utilitarianism is a form of consequentialism, where right and wrong are determined by the consequences of one’s action or character, not the action or character itself. 
 7. Utilitarianism has several modern forms
-8. Utilitarianism is criticized for being unjust, impractical, and amoral. 
+8. Utilitarianism is criticized for being unjust, impractical, or amoral. 
 
 </section><section data-markdown>
 

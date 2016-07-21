@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /hegel/
 --- 
 
 "...This naturally depends on the numbers concerned." --Hegel, *Philosophy of Right*, § 270.
