@@ -31,19 +31,19 @@ theme: simple
 ### 1. The best moral action is one that maximizes "utility"
 
 
-</section><section data-markdown>
+</section><section>
 
 
-| Philosopher | Answer           |
-|-------------|------------------|
-| Aquinas     | God              |
-| Plato       | Form of the Good |
-| Aristotle   | Eudaimonia       |
-| Kant        | A good will      |
-| Rawls       | A just society   |
-| Mill        | Utility (freedom from pain) |
-
-
+<table>
+  <tr>
+    <th>Philosopher</th>
+    <th>Summum Bonnum</th>
+  </tr>
+  <tr>
+    <td>Aquinas</td>
+    <td>God</td>
+  </tr>
+</table>
 
 
 </section><section data-markdown>
