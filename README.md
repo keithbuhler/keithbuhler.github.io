@@ -1,9 +1,7 @@
 ---
-title: keithbuhler.com site info (README)
+title: site info
 layout: single
 ---
-
-## Site
 
 Thanks for visiting. I hope you find the site fun, easy on the eyes, and informative. 
 Everything was created by Keith Buhler using a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax">Markdown). 

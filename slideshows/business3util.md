@@ -5,12 +5,12 @@ theme: simple
 ---
 
 <section>
-<section data-background="http://anticap.files.wordpress.com/2011/04/factory-workers.jpg">
+<section data-background="https://i.ytimg.com/vi/DoBKeP1U_SA/maxresdefault.jpg">
 <section data-markdown> 
 
-# Week 3: Utilitarianism
+# Utilitarianism
 
-*Everything you need to know in 50 minutes or less*
+*The philosophy of pleasure*
 
 </section>
 </section>
