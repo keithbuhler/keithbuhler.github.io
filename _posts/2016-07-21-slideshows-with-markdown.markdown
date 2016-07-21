@@ -16,7 +16,7 @@ header:
 
 Ever since Google released [Google Slides in 2012](https://en.wikipedia.org/wiki/Google_Docs,_Sheets,_Slides_and_Forms), I've used it for creating classroom presentations. I never liked "Powerpoint" much. Slides is intuitive, simple, web-aware, and cloud-based (so no need for thumb drives). 
 
-However, there is a new game in town. HTML Slideshows. 
+However, there is a new game in town. HTML Slideshows. Check out my first [HTML slideshow here!](http://www.keithbuhler.com/slideshows/business1intro#/)
 
 [Markdown](http://www.markdowntutorial.com/) is a Babelfish in that it can speak any language, including HTML. 
 
@@ -26,6 +26,7 @@ What can't it do? Can it replace Powerpoint?
 
 
 ![thumbs up](https://media.giphy.com/media/l0MYHEI0xktKCVjri/giphy.gif)
+
 ### Sure can do.
  
 If you host a site on [Github](http://github.com) using Jekyll, you can create slideshows and publish them to the web instantly. It's call [Reveal](http://dansheffler.com/presentations/#/). [Hakim El Hattab created it. Fork it here.](https://github.com/hakimel/reveal.js/) Reveal takes a bit of simple programming. 
