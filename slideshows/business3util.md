@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Utilitarianism
-theme: simple
+theme: black
 ---
 
 <section><!--Begin Day 1 Truth-->
@@ -43,6 +43,18 @@ theme: simple
     <td>Aquinas</td>
     <td>God</td>
   </tr>
+  <tr>
+    <td>Plato</td>
+    <td>The form of the Good</td>
+  </tr>
+  <tr>
+    <td>Aristotle</td>
+    <td>Eudaimonia (Happiness)</td>
+  </tr>
+    <tr>
+    <td>Mill</td>
+    <td>Utility (Happiness)</td>
+  </tr>  
 </table>
 
 
@@ -80,6 +92,7 @@ meal
 - Should marijuana use be made illegal?  Does it cause pleasure or pain? Does it maximize pleasure over pain? Consider: 
 
 >Pros: Most commonly used illegal drug. (National Institute on Drug Abuse), feel high, have fun.
+
 >Cons: Gateway drug, correlated with mental health problems, anxiety, sleep problems. 
 
 </section><section data-markdown>
@@ -111,14 +124,15 @@ The goal was fairness. To create a society with laws and norms that do not harm 
 
 ###4. Utilitarianism was updated by John Stuart Mill.
 
-![Mill](http://www.jotdown.es/wp-content/uploads/2014/05/1b1.jpg)
+![Mill](http://www.utilitarian.net/jsmill.jpg)
 
 John Stuart Mill wrote *Utilitarianism* in 1861. 
 
-
 </section><section data-markdown>
 
-> Mill Quote: “It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others. It would be absurd that while, in estimating all other things, quality is considered as well as quantity, the estimation of pleasures should be supposed to depend on quantity alone.... There is no known Epicurean theory of life which does not assign to the pleasures of the intellect… a much higher value as pleasures than to those of mere sensation.... A being of higher faculties requires more to make him happy, is capable probably of more acute suffering, an certainly accessible to it at more points, than one of an inferior type; but in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence… It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” 
+> Mill Quote: “It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others. It would be absurd that while, in estimating all other things, quality is considered as well as quantity, the estimation of pleasures should be supposed to depend on quantity alone.... 
+
+There is no known Epicurean theory of life which does not assign to the pleasures of the intellect… a much higher value as pleasures than to those of mere sensation.... A being of higher faculties requires more to make him happy, is capable probably of more acute suffering, an certainly accessible to it at more points, than one of an inferior type; but in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence… It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” 
 
 The goal is to live a life of cultivated pleasure, balancing intellectual and physical satisfaction. 
 
@@ -148,15 +162,16 @@ Epicurus (270 BC)
 ### 6. Utilitarianism is a form of consequentialism
 
 * **Consequentialist principle:** actions are judged right or wrong not in themselves, but upon the consequences or state of affairs they produce.
-What are the alternatives? 
-- Divine command - some actions are forbidden or commanded by God
-- Duty - some actions are permissible or impermissable by the moral law
-- Virtue - some character traits are intrinsically good
 
 </section><section data-markdown>
 
 ### 6. Utilitarianism is a form of consequentialism
 
+What are the alternatives to consequentialism?
+
+- Divine command - some actions are forbidden or commanded by God
+- Duty - some actions are permissible or impermissable by the moral law
+- Virtue - some character traits are intrinsically good
 - (We already discussed divine command theory. We will discuss duty and virtue theories in later weeks.)
 - Others: **Happiness principle:** the only relevant consequences are those that influence the happiness of individuals.
 - **Principle of Equality:** everyone’s happiness is equally important. 
@@ -189,7 +204,19 @@ Some other forms:
 
 </section><section data-markdown>
 
-### Stop to Review
+### Review
+
+![All the things](http://nearby-pla.net/images/library/slack-emoji/all-the-things-emoji.png)
+
+1. Utilitarianism  is the thesis that “the best moral action is one that maximizes ‘utility’ — pleasure, well-being.” (definition)
+2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
+3. Utilitarianism was founded by Jeremy Bentham
+4. Utilitarianism was updated by John Stuart Mill
+5. Utilitarianism has ancient roots in Epicurus
+6. Utilitarianism is a form of consequentialism, where right and wrong are determined by the consequences of one’s action or character, not the action or character itself. 
+7. Utilitarianism has several modern forms
+
+### 2 minutes left
 
 * What are your questions?
 * Write a short response to what you've read so far. A question, comment, or thought, to share in class. 
@@ -265,6 +292,10 @@ Some other forms:
 ### Objection 5: Utilitarianism is too demanding
 
 - Given the current state of the world and the impoverished state so many people live in, treating everyone’s happiness equally would currently demand that we give away nearly all of our money and do everything we can to help others (of course, we should not give away so much that we decrease happiness). On the basis of this, people reject utilitarianism because (i) they think that this asks too much of us and it (ii) confuses acts that are supererogatory (one’s that go above and beyond our moral requirements) rather than obligatory.
+
+</section><section data-markdown>
+
+### Objection 5: Utilitarianism is too demanding
 
 - **Response**: Bite the bullet. Yes, utilitarianism goes against our intuitions about justice and rights, but this is because our intuitions are wrong. Yes, utilitarianism is demanding in terms of what it asks us to do, but this is because human beings tend to be bad people and should radically change their lives. Our intuitions about what is right and wrong have been wrong in the past (e.g. slavery) and there are probably other beliefs we have that are also wrong.  
 
