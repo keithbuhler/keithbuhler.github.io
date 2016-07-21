@@ -286,9 +286,9 @@ Those who opt for extra credit may do so. Instructions are posted online.
 <section><!--Friday, Intro begin-->
 <section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg" data-markdown>
 
-# Business Ethics  
+# Business Ethics Week 1 
 
-*What is business ethics?* 
+### What is business ethics?
 
 </section>
 <section data-markdown>
