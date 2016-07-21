@@ -3,12 +3,12 @@ title: Introduction
 layout: slide
 ---
 
+<section><!--Syllabus begin-->
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" data-markdown><!--Intro slide begin-->
 
 # Business ethics
 
 </section> <!--Intro slide end-->
-<section><!--Syllabus begin-->
 <section data-markdown> 
 
 ## Welcome!
@@ -249,6 +249,8 @@ Every student will write several Unit Papers. These Unit Papers help you synthes
 
 Those who opt for extra credit may do so. Instructions are posted online. 
 
+</section><section data-markdown>
+
 
 ### Miscellany:
 
@@ -280,6 +282,8 @@ Those who opt for extra credit may do so. Instructions are posted online.
 </section>
 </section><!--Syllabus end-->
 
+
+<section><!--Friday, Intro begin-->
 <section data-background="http://1.bp.blogspot.com/-_Bhkv09dte8/Ut8qOzMa3JI/AAAAAAAAAKA/OWAkenDY34Y/s1600/capture4.jpg" data-markdown>
 
 # Business Ethics  
@@ -287,7 +291,6 @@ Those who opt for extra credit may do so. Instructions are posted online.
 *What is business ethics?* 
 
 </section>
-<section><!--Friday, Intro begin-->
 <section data-markdown>
 
 ## Ethics applied to business
@@ -423,4 +426,5 @@ If we have time...
 
 Kreeft's essay is organized funny.
 
+</section>
 </section> <!--Friday, Intro end-->
