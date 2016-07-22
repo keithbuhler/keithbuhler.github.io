@@ -1,6 +1,7 @@
 ---
 layout: philosophy
 title: Philosophy Portal
+permalink: /philosophy/
 --- 
 
 <center>
