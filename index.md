@@ -9,7 +9,6 @@ header:
 
 I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
 
-I've been a classical educator in colleges and classical high schools for [8+ years](/Buhler-CV). I use immersive Socratic dialogue, great books, and humor to introduce folks to the great conversation.  
 
 My [research](/research) centers on virtue ethics. I'm especially interested in the theories of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
 
