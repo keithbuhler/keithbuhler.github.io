@@ -9,10 +9,11 @@ header:
 
 I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
 
+I've been a classical educator in colleges and classical high schools for [8+ years](/cv). I use immersive Socratic dialogue, great books, and humor to help learners of all ages grow and flourish.
 
 My [research](/research) centers on virtue ethics. I'm especially interested in the theories of Philippa Foot, John McDowell, and Alasdair MacIntyre. 
 
-In my spare time (about 45 minutes per month), I like clay sculpting, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
+In my 45 minutes per month of spare time, I like clay sculpting, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
 
 * [Academia.edu](https://uky.academia.edu/KeithBuhler)
 * [PhilPapers](http://philpapers.org/profile/47267)
