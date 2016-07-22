@@ -1,5 +1,4 @@
 ---
-title: Keith Buhler Philosophy CV
 layout: single
 permalink: /cv/
 --- 

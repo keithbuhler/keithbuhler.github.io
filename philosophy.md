@@ -1,7 +1,6 @@
 ---
 layout: philosophy
 title: Philosophy Portal
-
 --- 
 
 <center>
@@ -37,3 +36,4 @@ At the same time, philosopy can be difficult. You will get out what you put in. 
 6. If you want some other [Philosophy Resources?](/philosophy-resources)
 7. If none of that will do, then read about Mary Shelly, one of the first modern female philosophers.
 <a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
+

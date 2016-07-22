@@ -154,7 +154,7 @@ The University of Kentucky asks graduate students to make three increasingly spe
 3. The Dissertation Proposal "pitches" my specific project: to defend an account of virtue, practical reason, and happiness drawing on three  contemporary virtue ethicists. [(First draft here)](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view)
 
 
-### Boot Camp!
+### 16 May 2016 Boot Camp!
 
 
 16 May 2016.  My university began hosting a "Boot Camp" writing retreat. We have a private dorm room on campus, unlimited snacks (both healthy and unhealthy snacks, woo hoo!), an endless supply of coffee and soda, and the comforting presence of a  community of 40 or so fellow writers. 
@@ -179,6 +179,21 @@ After that, I only have one more chapter (plus the conclusion)!
 
 Then I will go back and polish 4-8. Then I will submit 4-8 one by one to my advisor, and revise some more.
 
+
+### 22 July 2016 Meeting with Advisor
+
+This morning I met with my advisor. I gave him chapters 3 and 4. He said they were mostly good. He said: 
+
+> My general sense -- I think this is actually shaping up very well. 
+> Chapter 2 is very impressive. You draw on this extensive literature. Digging into this literature about teleological realism. You deploy that very nicely to create a space for what you want to go on to do. You've successfully scoped it down so that it fits within a chapter. Last time you didn't close the circle of the argument; this time you did. 
+> Chapter 3. In terms of the pacing, and the writing. This is very good. I'm very happy with the direction. 
+> Chapter 4 follows logically from what comes before. Seems a natural development.
+
+The biggest problem that he had was about the *normative* force of neo-Aristotelian naturalism. How ethical is the *ethical* naturalism? And how naturalistic is the ethical *naturalism*? This is a good problem to have. That is, his problem is with the premise of the project, not with any detail of my presentation or execution of the project. So that's happy news. 
+
+I asked him about timelines. I have to give him Chapters 5 and 6, and then make the changes to 4 (if they are still needed). The editor I am paying to read and comment on 5 and 6 is still at work on them, but then I'll make some adjustments and pass them along. 
+
+I'm glad I've been working on [formatting](/writing-tools). Now some of that early work is paying off.
 
 
 
