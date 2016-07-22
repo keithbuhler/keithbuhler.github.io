@@ -3,7 +3,7 @@ title: PHD
 layout: single
 header: 
       image: rembrandt-sea-galilee1.bmp
-permalink: http://keithbuhler.com/phd
+permalink: /phd/
 ---
 
 # PHD
