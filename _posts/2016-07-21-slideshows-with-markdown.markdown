@@ -24,10 +24,9 @@ Since I started doing my website with Jekyll, I've started writing *everything* 
 
 What can't it do? Can it replace Powerpoint? 
 
+### Sure can do.
 
 ![thumbs up](https://media.giphy.com/media/l0MYHEI0xktKCVjri/giphy.gif)
-
-### Sure can do.
  
 If you host a site on [Github](http://github.com) using Jekyll, you can create slideshows and publish them to the web instantly. It's call [Reveal](http://dansheffler.com/presentations/#/). [Hakim El Hattab created it. Fork it here.](https://github.com/hakimel/reveal.js/) Reveal takes a bit of simple programming. 
 
