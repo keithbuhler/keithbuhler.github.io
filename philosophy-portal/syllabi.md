@@ -12,7 +12,7 @@ feature_row:
     url: "http://www.keithbuhler.com/syllabus334"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
-  - image_path: https://i.imgflip.com/16ey9n.jpg
+  - image_path: fun-lewis.jpg
     alt: "CS Lewis"
     title: "CS Lewis"
     excerpt: "Asbury PHL 251 at 11am, MWF."
