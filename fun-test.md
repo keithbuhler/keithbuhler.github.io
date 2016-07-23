@@ -25,7 +25,7 @@ feature_row:
     url: "http://www.keithbuhler.com/meditation"
     btn_label: "Be still"
     btn_class: "btn--inverse"
-    feature_row2:
+feature_row2:
   - image_path: fun-lewis.jpg
     alt: "The Inklings"
     title: "Inklings.info"
@@ -33,7 +33,7 @@ feature_row:
     url: "http://www.inklings.info"
     btn_label: "Get an Inkling"
     btn_class: "btn--inverse"
-- image_path: alvin-plantinga.jpg
+  - image_path: alvin-plantinga.jpg
     alt: "Advice to Christian Philosophers"
     title: "Advice to Christian Philosophers"
     excerpt: "Interviews, stories, and advice from big name philosophers."
@@ -46,7 +46,7 @@ feature_row:
     url: "http://www.philosophyisscience.com"
     btn_label: "Read"
     btn_class: "btn--inverse"
-    feature_row3:
+feature_row3:
   - image_path: writing-notebook.jpg
     title: "Writings"
     excerpt: "Fiction, screenplays, verse, and satire."
@@ -60,14 +60,14 @@ feature_row:
     url: "http://www.keithbuhler.com/speaking"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-- image_path: keithbuhler-bw-small.png
+  - image_path: keithbuhler-bw-small.png
     alt: "Bio"
     title: "Bio"
     excerpt: "A little bit about me."
     url: "http://www.keithbuhler.com/bio"
     btn_label: "More"
     btn_class: "btn--inverse"
-    feature_row4: 
+feature_row4: 
 - image_path: fun-discussion.jpg
     alt: "Discussion"
     title: "Buhler Channel"
@@ -88,6 +88,7 @@ feature_row:
     url: "http://www.keithbuhler.com/art"
     btn_label: "View"
     btn_class: "btn--inverse"
+
 ---
 
 Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experimental projects in various stages of completion. Browse, follow, and leave a comment. Thanks for visiting.

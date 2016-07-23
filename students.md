@@ -19,7 +19,7 @@ The good news is that [studying philosophy is VERY GOOD IDEA](/philosophy-3-majo
 <center>
 
 
-<h1> <a href="/philosophy"> Click here for the Philosophy Portal</a> </h1>
+<h1> <a href="/philosophi"> Click here for the Philosophy Portal</a> </h1>
 
 <a target="_blank" href="/philosophi">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
