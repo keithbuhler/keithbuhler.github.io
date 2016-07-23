@@ -9,7 +9,7 @@ permalink: /cv/
 
 Keith Buhler  
 Doctoral Candidate  
-Deptartment of Philosophy  
+Department of Philosophy  
 University of Kentucky   
 Lexington, KY, 40506  
 keith.buhler@uky.edu   
@@ -41,8 +41,8 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### ACADEMIC APPOINTMENTS
 
-2014-16 &nbsp;&nbsp;Instructor, Philosophy Department, Asbury University  
-2012-16 &nbsp;&nbsp; Teaching Assistant, Philosophy Department, University of Kentucky  
+2014-16 &nbsp;&nbsp;Instructor of Philosophy, Asbury University  
+2012-16 &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
 
 
 ### COURSES TAUGHT 
@@ -52,25 +52,24 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2016 &nbsp;&nbsp; Business Ethics (upper division)  
 2015-16 &nbsp;&nbsp; Health Care Ethics (upper division)  
 2013-14 &nbsp;&nbsp; Introduction to Philosophy   
-2013  &nbsp;&nbsp; Introduction to Philosophy (winter course)    
 2013 &nbsp;&nbsp; Introduction to Ethics    
-2012-13 &nbsp;&nbsp; Introduction to Logic  (Teaching assistant) 
+2013 &nbsp;&nbsp; Introduction to Logic  
+2012 &nbsp;&nbsp; Introduction to Logic  (teaching assistant) 
 
 ### Asbury University 
-2016 &nbsp;&nbsp; Philosophy of Religion (upper division, summer course)    
 2016 &nbsp;&nbsp; Philosophy of C.S. Lewis  (upper division)  
-2016 &nbsp;&nbsp; Wisdom & Virtue    (upper division seminar)  
+2016 &nbsp;&nbsp; Philosophy of Religion (upper division)  
+2016 &nbsp;&nbsp; Wisdom & Virtue    (upper division)  
 2014-2016 &nbsp;&nbsp; Introduction to Philosophy   
 
 ### Biola University
-2004 &nbsp;&nbsp; Philosophy of Science (Teaching assistant) 
+2004 &nbsp;&nbsp; Philosophy of Science (teaching assistant) 
 
 
 ### Veritas Academy
 2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
 
 ### Torrey Academy
-
 2011 &nbsp;&nbsp; Plato Seminar   
 2009-2010 &nbsp;&nbsp; Aristotelian Logic   
 2009-2012 &nbsp;&nbsp; Western Civilization: American Thought    
@@ -81,13 +80,12 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 ### OTHER LEADERSHIP AND TEACHING POSITIONS 
 2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy     
 2010-2012 &nbsp;&nbsp;  Master Tutor, Torrey Academy     
+2001-2011 &nbsp;&nbsp;  Tutor & Lecturer, Wheatstone Academy, Fullerton, CA.   
 2010-2012 &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA    
 2007-2010 &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
-2009-2011 &nbsp;&nbsp;  Lecturer, Wheatstone Academy   
-2004-2005 &nbsp;&nbsp;   Assistant Director, Wheatstone Academy     
-2001-2009 &nbsp;&nbsp;  Tutor, Wheatstone Academy, Fullerton, CA.   
-2001 &nbsp;&nbsp; Summer English Teacher, Biola University Abroad, Mongolia. 
+2004-2005 &nbsp;&nbsp;  Assistant Director, Wheatstone Academy     
 2001-2002 &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
+2001 &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.   
 
  
 
