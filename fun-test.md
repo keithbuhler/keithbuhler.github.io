@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: syllabi
+title: fun-test
 header:
   image: nasmith-banner.jpeg
 permalink: 
@@ -67,6 +67,21 @@ feature_row3:
     url: "http://www.keithbuhler.com/bio"
     btn_label: "More"
     btn_class: "btn--inverse"
+---
+
+Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experimental projects in various stages of completion. Browse, follow, and leave a comment. Thanks for visiting.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2"  %}
+
+{% include feature_row id="feature_row3"  %}
+
+
+---
+
 feature_row4: 
 - image_path: fun-discussion.jpg
     alt: "Discussion"
@@ -88,17 +103,3 @@ feature_row4:
     url: "http://www.keithbuhler.com/art"
     btn_label: "View"
     btn_class: "btn--inverse"
-
----
-
-Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experimental projects in various stages of completion. Browse, follow, and leave a comment. Thanks for visiting.
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2"  %}
-
-{% include feature_row id="feature_row3"  %}
-
-{% include feature_row id="feature_row4"  %}
