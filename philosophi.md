@@ -1,6 +1,6 @@
 ---
 title: Philosophy Portal
-layout: default
+layout: philosophy
 --- 
 
 <img src="/images/pythagoras-small.jpg" align="center" alt="Pythagoras">
