@@ -4,7 +4,6 @@
  name:           "Keith Buhler"
  description:    "The professional website of Keith Buhler, philosopher and educator. For other uses, see disambiguation."
  url:            "http://www.keithbuhler.com"
- baseurl:        ""
  gh_repo:        "https://github.com/keithbuhler/keithbuhler.github.io"
  teaser           : "bio-photo.png"
  words_per_minute : 200

@@ -32,3 +32,7 @@ UPDATE II:
 
 Best line: "I need to see people having fun doing this, pushing the boundaries of art... Making me think about things. See the world in different ways. And expanding my consciousness. That's what I use movies for. It's not just about escapism. It's also about refining one's soul through the process of viewing art."
 
+UPDATE III: 
+
+Some hot takes from [Stephanie Merry](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/07/21/the-problem-with-chris-hemsworths-stunt-casting-in-ghostbusters/), [Charlie Nash](http://www.breitbart.com/tech/2016/07/22/washington-post-gripes-over-chris-hemsworth-upstaging-female-ghostbusters-cast/), [Milo Yiannopolis](http://www.breitbart.com/tech/2016/07/18/milo-reviews-ghostbusters/), and [Gavin McCinnes](http://www.truthrevolt.org/news/gavin-mcinnes-i-predicted-ghostbusters-would-suck-and-i-was-right)
+

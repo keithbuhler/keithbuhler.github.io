@@ -21,7 +21,7 @@ The good news is that [studying philosophy is VERY GOOD IDEA](/philosophy-3-majo
 
 <h1> <a href="/philosophy"> Click here for the Philosophy Portal</a> </h1>
 
-<a target="_blank" href="/philosophy">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
+<a target="_blank" href="/philosophi">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
 </center>
 
