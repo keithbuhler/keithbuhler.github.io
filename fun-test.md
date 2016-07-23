@@ -14,7 +14,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: fun-books2.jpg
     alt: "Reading Intentionally"
-    title: "The Intentional Reading Project"
+    title: "Reading Intentionally"
     excerpt: "A proven plan to help you read more good books."
     url: "http://bit.ly/36BooksPerYear"
     btn_label: "Read"
