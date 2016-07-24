@@ -16,13 +16,11 @@ header:
 
 <h1> THE BUHLER REPORT </h1>
 
-<i> To enlighten and entertain. Timeless wisdom and current events.</i>
+<i> Thoughtful reflection on timeless truths and current events.</i>
 
 </center>
 
 ----
-
-(*Click the blue title to read the full post*)
 
 {% for post in site.posts %}
 
