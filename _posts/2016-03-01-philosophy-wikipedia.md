@@ -2,10 +2,11 @@
 layout: post
 title: Get to Philosophy on Wikipedia
 comments: true
-permalink: /wikipedia
 tags: philosophy, fun
 excerpt_separator: <!--more-->
 --- 
+
+# Get To Philosophy
 
 <img src="http://www.ericgarland.co/wp-content/uploads/pix/2016/01/Things-I-learned-from-Guitar-Center.jpg" alt="This Means Something" width="500" height="300"> 
 
@@ -13,11 +14,12 @@ If you click the first blue link on any Wikipedia article (that is not in parent
 
 Pick any word, place, topic, thing, and you will "get to philosophy". But you will loop around from philosophy forever. Every other discipline depends on philosophy but philosophy depends only on itself. 
 
-<!--more-->
+Why? [Read my answer as to why](/wikipedia) or [try it yourself](http://xefer.com//wikipedia). 
+
 
 # Encyclopedias and Philosophy
 
-Why? [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy) is an encyclopedia. It is one of the largest encyclopedia ever created. 
+The basic idea builds on the fact that [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy) is an encyclopedia. It is one of the largest encyclopedia ever created. 
 
 Encyclopedias attempt to aggregate all knowledge in one place. They are a [western tradition](http://www.iep.utm.edu/mac-over/).
 

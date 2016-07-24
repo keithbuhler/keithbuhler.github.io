@@ -1,6 +1,6 @@
 ---
-title: Drive, Scrivener, and Markdown -- Tools for Writing
-layout: post
+title: Tools for Writing, Formatting, and Presenting
+layout: archive
 comments: true
 permalink: /writing-tools
 excerpt_separator: <!--more-->
@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-<img src="https://static.pexels.com/photos/157/person-apple-laptop-notebook-medium.jpg">
+# Tools for Writing, Formatting, and Presenting
 
 As an academic and a writer, I enjoy exploring new software and workflow processes. 
 

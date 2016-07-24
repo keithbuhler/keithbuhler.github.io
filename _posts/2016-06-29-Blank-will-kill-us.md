@@ -7,10 +7,11 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
+# Why we shouldn't worry that "X will kill us all!"
 
 If you are feeling worried about the Zika Virus, get some perspective, and then don't worry. 
 
-![XKCD](/images/xkcd blank will kill us.jpg)
+![XKCD](/img/xkcd blank will kill us.jpg)
 
 <!--more-->
 

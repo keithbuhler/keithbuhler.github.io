@@ -7,7 +7,7 @@ permalink: /american-myth-post
 excerpt_separator: <!--more-->
 ---
 
-<img src="/images/pexels-dawn.jpeg">
+## Still in the Shining Sea: An American Myth
 
 Here's a short story I wrote some years ago for the Fourth of July. It is a fictional dialogue between a history teacher (father) and student (son) on what makes America... American. 
 

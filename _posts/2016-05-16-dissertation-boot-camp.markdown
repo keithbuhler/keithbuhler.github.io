@@ -1,11 +1,13 @@
 ---
-title: Dissertation Writing "Boot Camp"
+title: Dissertation Boot Camp
 layout: post
 tags: philosophy, phd
 comments: true
 permalink: /phd-dissertation-boot-camp
 excerpt_separator: <!--more-->
 ---
+
+# Dissertation Writing Boot Camp #
 
 Monday, May 16th, my university began hosting a "Boot Camp" writing retreat. We have a private dorm room on campus, unlimited snacks (both healthy and unhealthy snacks, woo hoo!), an endless supply of coffee and soda, and the comforting presence of a community of 40 or so fellow writers.
 
