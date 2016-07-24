@@ -22,3 +22,6 @@ It's points are these:
 4. Anything useless cannot be wealth. 
 5. Useful things can still *fail* to be wealth.
 6. Conferring knowledge on someone who has money (horses, etc.) confers wealth upon them, transforming the useless things into useful. 
+7. Desires are lack of something; so the greater the desires and needs, the worse off you are. "A man is best off when he is least in need of such things."
+
+[Give it a read online. (It takes about 50 minutes of reading time.)](http://www.gutenberg.org/files/1681/1681-h/1681-h.htm)

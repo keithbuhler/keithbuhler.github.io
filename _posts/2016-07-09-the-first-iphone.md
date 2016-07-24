@@ -1,6 +1,6 @@
 ---
 title: The First iPhone
-layout: single
+layout: post
 permalink: /first-iphone
 comments: true
 tags: [humor]
@@ -9,8 +9,8 @@ author_profile: true
 
 ---
 
-# The First iPhone
+![iphone](/images/first-iphone.jpg)
 
-Mr. Clever invented the first iPhone. It's a clock that tells time and does other clever things. 
+Did you know? -- Mr. Clever invented the first iPhone. It's a clock that tells time and does other clever things. 
 
-![iphone](/img/first-iphone.jpg)
+

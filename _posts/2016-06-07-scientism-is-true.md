@@ -6,10 +6,7 @@ permalink: /scientism
 excerpt_separator: <!--more-->
 ---
 
-
-# Scientism is a True but Trivial; Can We Move On?
-
-*"The problem is to get [people] to reject irrational and supernatural explanations of the world, the demons that exist only in their imaginations, and to accept a social and intellectual apparatus, Science, as the only begetter of truth."* -- Richard Lewontin
+>"The problem is to get [people] to reject irrational and supernatural explanations of the world, the demons that exist only in their imaginations, and to accept a social and intellectual apparatus, Science, as the only begetter of truth." -- Richard Lewontin
 
 ### 1.
 Clarity is the great harbinger of truth. Truth is clear, hard, and bright, like light or crystal, while falsehood is soft, obscure, soporific, and fuzzy.

@@ -9,8 +9,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-# Why ISIS plans to target Anglo Saxons
-
 [Al Qaeda's Inspire Guide instructs jihadis to target white Americans](http://www.foreigndesknews.com/world/us/al-qaeda-jihadis-target-white-americans-avoid-minorities-us-mislabels-attacks-hate-crime/)
 
 They say: 
