@@ -1,14 +1,13 @@
 ---
+title: "Sandbox"
 layout: splash
-title: Sandbox
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
   cta_label: "Github Code"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io"
-  caption: Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting.Browse, follow, and leave a comment. 
-permalink: 
+  caption: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting.Browse, follow, and leave a comment." 
 feature_row:
   - image_path: favicon8.png
     alt: "The Buhler Report"
@@ -85,8 +84,8 @@ feature_row3:
 
 <figure class="third">
     <a href="http://www.keithbuhler.com/writings"><img src="/images/writing-notebook.jpg"></a>
-    <a href="http://www.keithbuhler.com/speaking" <img src="/images/keithbuhler-teaching.jpg"> Bio </a>
-    <a href="http://www.keithbuhler.com/bio"> <img src="/images/"> Bio </a>
+    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>
+    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-small.jpg"> </a>
     <figcaption> Writings, speeches, and bio</figcaption>
 </figure>
 
