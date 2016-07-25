@@ -3,7 +3,9 @@ title: Philosophy Portal
 layout: philosophy
 --- 
 
-<img src="/images/pythagoras-small.jpg" align="center" alt="Pythagoras">
+<img src="/images/pythagoras-small.jpg" alt="Pythagoras">
+
+![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")
 
 So you're taking philosophy? Awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
