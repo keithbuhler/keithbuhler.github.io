@@ -8,7 +8,6 @@ header:
   cta_label: "Github Code"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io"
   caption: Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting.Browse, follow, and leave a comment. 
-
 permalink: 
 feature_row:
   - image_path: favicon8.png
@@ -53,7 +52,7 @@ feature_row2:
     url: "http://www.philosophyisscience.com"
     btn_label: "Read"
     btn_class: "btn--inverse"
-feature_row4:
+feature_row3:
  - image_path: meditation.jpg
     title: "Meditation"
     excerpt: "How and why to practice the ancient art of stillness."
@@ -73,7 +72,7 @@ feature_row4:
     url: "http://www.keithbuhler.com/art"
     btn_label: "View"
     btn_class: "btn--inverse"
-feature_row3:
+feature_row4:
   - image_path: writing-notebook.jpg
     title: "Writings"
     excerpt: "Fiction, screenplays, poetry, and satire."
