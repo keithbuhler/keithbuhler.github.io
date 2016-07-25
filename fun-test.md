@@ -72,6 +72,30 @@ feature_row3:
     url: "http://www.keithbuhler.com/art"
     btn_label: "View"
     btn_class: "btn--inverse"
+---
+
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2"  %}
+
+{% include feature_row id="feature_row3"  %}
+
+<figure class="third">
+    <a href="http://www.keithbuhler.com/writings"><img src="/images/writing-notebook.jpg"></a>
+    <a href="http://www.keithbuhler.com/speaking" <img src="/images/keithbuhler-teaching.jpg"> Bio </a>
+    <a href="http://www.keithbuhler.com/bio"> <img src="/images/"> Bio </a>
+    <figcaption> Writings, speeches, and bio</figcaption>
+</figure>
+
+<p style="white" font_color="white">
+feature_row4: 
+
+</p>
+
+
 feature_row4:
   - image_path: writing-notebook.jpg
     title: "Writings"
@@ -93,32 +117,3 @@ feature_row4:
     url: "http://www.keithbuhler.com/bio"
     btn_label: "More"
     btn_class: "btn--inverse"
----
-
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2"  %}
-
-{% include feature_row id="feature_row3"  %}
-
-{% include feature_row id="feature_row4"  %}
-
-
----- 
-
-Test
-
-<figure class="third">
-    <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg"></a>
-    <img src="/images/fun-sola.jpg">
-    <img src="/images/fun-wither-small.jpg">
-    <figcaption>Videos: Discussion advice, argumentative fallacies, philosophy talks, and comedy | Sola Scriptura: My book-length platonic dialogue about Scripture, tradition, and Orthodoxy for protestants, Catholics, and the confused. | Art: Drawings, sculptures, and pumpkins </figcaption>
-</figure>
-
-<p style="white" font_color="white">
-feature_row4: 
-
-</p>
