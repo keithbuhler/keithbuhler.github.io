@@ -5,9 +5,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
-  cta_label: "Github Code"
-  cta_url: "https://github.com/keithbuhler/keithbuhler.github.io"
-  caption: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting.Browse, follow, and leave a comment." 
 feature_row:
   - image_path: favicon8.png
     alt: "The Buhler Report"
@@ -73,7 +70,6 @@ feature_row3:
     btn_class: "btn--inverse"
 ---
 
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
@@ -85,34 +81,6 @@ feature_row3:
 <figure class="third">
     <a href="http://www.keithbuhler.com/writings"><img src="/images/writing-notebook.jpg"></a>
     <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>
-    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-small.jpg"> </a>
-    <figcaption> Writings, speeches, and bio</figcaption>
+    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-small.png"> </a>
+    <figcaption> Writings, speeches, and bio.</figcaption>
 </figure>
-
-<p style="white" font_color="white">
-feature_row4: 
-
-</p>
-
-
-feature_row4:
-  - image_path: writing-notebook.jpg
-    title: "Writings"
-    excerpt: "Fiction, screenplays, poetry, and satire."
-    url: "http://www.keithbuhler.com/writings"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: keithbuhler-teaching.jpg
-    alt: "Speaking"
-    title: "Speaking"
-    excerpt: Lectures, conferences, and classes
-    url: "http://www.keithbuhler.com/speaking"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: keithbuhler-bw-small.png
-    alt: "Bio"
-    title: "Bio"
-    excerpt: "A little bit about me."
-    url: "http://www.keithbuhler.com/bio"
-    btn_label: "More"
-    btn_class: "btn--inverse"
