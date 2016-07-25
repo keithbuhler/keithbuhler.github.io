@@ -1,10 +1,18 @@
 ---
 title: "Sandbox"
 layout: splash
+permalink: /fun-test/
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
+  cta_label: "Github"
+  cta_url: "https://github.com/"
+  caption: "Caption!"
+excerpt: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment."
+intro: 
+  - excerpt: 'exerpt intro'
 feature_row:
   - image_path: favicon8.png
     alt: "The Buhler Report"
