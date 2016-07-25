@@ -79,8 +79,12 @@ Welcome to keithbuhler.com/fun. This is my sandbox. It hosts a variety of experi
 
 {% include feature_row id="feature_row3"  %}
 
-
----
+<figure class="third">
+    <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.jpg"></a>
+    <img src="/images/fun-sola.jpg">
+    <img src="/images/fun-wither-small.jpg">
+    <figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 feature_row4: 
 - image_path: fun-discussion.jpg
