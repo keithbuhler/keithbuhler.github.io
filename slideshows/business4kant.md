@@ -7,9 +7,9 @@ theme: serif
 <section><!--begin-->
 <section data-background="https://theindisputabledirt.files.wordpress.com/2014/05/129896-immanuel-kant-1724-1804-philosopher-transcendental-idealism.jpg" data-markdown>
 
-# Week 4: Kantian Deontology
+# Kantian Deontology
 
-*But I. Kant! Yes you can!*
+### "Do your duty"
 
 </section><section data-markdown>
 
@@ -169,7 +169,7 @@ What do these mean?
 <section><!--begin day 2-->
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/c/ce/Anisthenes_Pio-Clementino_Inv288.jpg" data-markdown>
 
-## Business Ethics Week 04: Kantian Deontology, cont'd
+# Week 04: Kantian Deontology, cont'd
 
 </section><section data-markdown>
 
