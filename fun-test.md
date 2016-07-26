@@ -25,16 +25,16 @@ Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These proj
     <a href="http://www.inklings.info"><img src="/images/fun-lewis.jpg"> </a>
     <a href="http://bit.ly/22o8m7j"><img src="/images/alvin-plantinga.jpg"> </a>
     <a href="http://www.philosophyisscience.com"><img src="/images/newton.jpg"> </a>
-    <figcaption> </figcaption>
+    <figcaption> Inklings, Philosophers, and Science </figcaption>
 </figure>
 
 
 
 <figure class="third">
-    <a href="http://www.keithbuhler.com/meditation"><img src="/images/meditation"> </a>
+    <a href="http://www.keithbuhler.com/meditation"><img src="/images/fun-meditation.jpg"> </a>
     <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
-    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither-small.jpg"> </a>
-    <figcaption> </figcaption>
+    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-withersmall.jpg"> </a>
+    <figcaption> Meditation, Scripture, and Art </figcaption>
 </figure>
 
 
