@@ -5,7 +5,7 @@ theme: serif
 ---
 
 <section><!--begin-->
-<section data-background="http://marxisttheory.org/wp-content/uploads/2012/11/kant-big.jpg" data-markdown>
+<section data-background="https://theindisputabledirt.files.wordpress.com/2014/05/129896-immanuel-kant-1724-1804-philosopher-transcendental-idealism.jpg" data-markdown>
 
 # Week 4: Kantian Deontology
 
@@ -149,9 +149,8 @@ What do these mean?
 
 ### 8. Do only what you can will to be a universal law. 
 
-Rationality cannot contradict itself. You cannot believe dinosaurs never existed and believe dinosaurs once existed. 
-
-Practical rationality cannot contradict itself, either. 
+- Rationality cannot contradict itself. You cannot believe dinosaurs never existed and believe dinosaurs once existed. 
+- Practical rationality cannot contradict itself, either. 
 
 </section><section data-markdown>
 
@@ -168,7 +167,7 @@ Practical rationality cannot contradict itself, either.
 
 
 <section><!--begin day 2-->
-<section data-background="http://marxisttheory.org/wp-content/uploads/2012/11/kant-big.jpg" data-markdown>
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/c/ce/Anisthenes_Pio-Clementino_Inv288.jpg" data-markdown>
 
 ## Business Ethics Week 04: Kantian Deontology, cont'd
 
