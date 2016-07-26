@@ -5,7 +5,7 @@ permalink: /fun/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.2"
   overlay_image: nasmith-banner.jpeg
   cta_label: "Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
@@ -25,7 +25,7 @@ feature_row:
     alt: "Reading Intentionally"
     title: "The Intentional Reading Project"
     excerpt: "A proven plan to help you read more good books."
-    url: "http://bit.ly/36BooksPerYear"
+    url: "http://www.readingintentionally.com/"
     btn_label: "Start your own"
     btn_class: "btn--inverse"
   - image_path: fun-discussion.jpg
@@ -69,7 +69,7 @@ feature_row4:
     title: "Art"
     excerpt: 'Drawings, paintings, and pumpkins'
     url: "http://www.keithbuhler.com/art"
-    btn_label: "Read More"
+    btn_label: "View"
     btn_class: "btn--inverse"
 ---
 
@@ -77,8 +77,8 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
