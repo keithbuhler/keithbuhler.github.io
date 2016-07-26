@@ -1,18 +1,17 @@
 ---
 title: "Sandbox"
 layout: splash
-permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+permalink: /fun/
+date: 2016-06-27T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: unsplash-image-1.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  overlay_image: nasmith-banner.jpeg
+  cta_label: "Github"
+  cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
+  caption: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'excerpt intro'
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
