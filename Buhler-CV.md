@@ -102,7 +102,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
  
-### RECOMMENDATIONS
+### REFERENCES
 
 
 |                                                            |                                                                   |

@@ -15,7 +15,7 @@ In my 45 minutes per month of spare time, I like clay sculpting, writing fiction
 
 * [Academia.edu](https://uky.academia.edu/KeithBuhler)
 * [PhilPapers](http://philpapers.org/profile/47267)
-* [RateMyProffesors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
+* [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
  
 
 *This site is about the philosopher, Keith Buhler. For other uses, see [Buhler (disambiguation)](/disambiguation).*
