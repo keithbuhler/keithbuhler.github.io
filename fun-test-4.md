@@ -2,31 +2,38 @@
 title: "Sandbox"
 layout: splash
 permalink: /fun/
-date: 2016-06-27T11:48:41-04:00
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
   cta_label: "Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
-  caption: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment."
+  caption: "Photo credit: [**Ted Nasmith**](http://www.tednasmith.com/)"
+excerpt: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment."
 intro: 
-  - excerpt: 'excerpt intro'
+  - excerpt: 'Test'
 feature_row:
-  - image_path: unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: favicon8.png
+    alt: "The Buhler Report"
+    title: "The Buhler Report"
+    excerpt: "Thoughtful reflection on timeless truth and current events."
+    url: "http://www.keithbuhler.com/blog"
+    btn_label: "Read the Report"
     btn_class: "btn--inverse"
-  - image_path: unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: fun-books2.jpg
+    alt: "Reading Intentionally"
+    title: "The Intentional Reading Project"
+    excerpt: "A proven plan to help you read more good books."
+    url: "http://bit.ly/36BooksPerYear"
+    btn_label: "Start your own"
+    btn_class: "btn--inverse"
+  - image_path: meditation.jpg
+    title: "Meditation"
+    excerpt: "How and why to practice the ancient art of stillness."
+    url: "http://www.keithbuhler.com/meditation"
+    btn_label: "Be still"
+    btn_class: "btn--inverse"
 feature_row2:
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
