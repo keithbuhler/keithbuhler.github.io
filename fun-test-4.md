@@ -5,7 +5,7 @@ permalink: /fun/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
   cta_label: "Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
@@ -62,6 +62,27 @@ feature_row3:
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row4:
+  - image_path: writing-notebook.jpg
+    title: "Writings"
+    excerpt: "Fiction, screenplays, poetry, and satire."
+    url: "http://www.keithbuhler.com/writings"
+    btn_label: "Read"
+    btn_class: "btn--inverse"
+  - image_path: keithbuhler-teaching.jpg
+    alt: "Speaking"
+    title: "Speaking"
+    excerpt: Lectures, conferences, and classes
+    url: "http://www.keithbuhler.com/speaking"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: keithbuhler-bw-small.png
+    alt: "Bio"
+    title: "Bio"
+    excerpt: "A little bit about me."
+    url: "http://www.keithbuhler.com/bio"
+    btn_label: "More"
     btn_class: "btn--inverse"
 ---
 
