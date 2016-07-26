@@ -33,16 +33,3 @@ At the same time, philosopy can be difficult. You will get out what you put in. 
 7. If none of that will do, then read about Mary Shelly, one of the first modern female philosophers.
 
 <a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
-
-
-## FAQ
-
-1. Why study philosophy?
-2. How do I do well in philosophy?
-3. What is philosophy?
-4. Why take introduction to philosophy?
-5. Why take another class? 
-6. Should I earn a minor?
-7. Should I major in philosophy?
-8. Should I go to graduate school? 
-9. Am I a philosopher?
