@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: nasmith-banner.jpeg
-  cta_label: "Github"
+  cta_label: "View code on Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
   caption: "Photo credit: [**Ted Nasmith**](http://www.tednasmith.com/)"
 excerpt: "Welcome to keithbuhler.com/fun, my project sandbox."
@@ -25,8 +25,8 @@ feature_row:
     alt: "Reading Intentionally"
     title: "The Intentional Reading Project"
     excerpt: "A proven plan to help you read more good books."
-    url: "http://www.readingintentionally.com/"
-    btn_label: "Start your own"
+    url: "http://www.readingintentionally.com/p/building-your-list.html"
+    btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: fun-discussion.jpg
     title: "YouTube"
@@ -40,7 +40,7 @@ feature_row2:
     title: "Inklings.info"
     excerpt: "Information, books, and lists about the Oxford Dons"
     url: "http://www.inklings.info"
-    btn_label: "Get an Inkling"
+    btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: alvin-plantinga.jpg
     alt: "Advice"
@@ -61,15 +61,36 @@ feature_row3:
     title: "Sola Scriptura"
     excerpt: 'A dialogue about Orthodoxy and Protestantism, and the relation between Scripture, tradition, and reason.'
     url: "http://bitly.com/ScriptureOrTradition"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--inverse"
-feature_row4:
-  - image_path: fun-withersmall.jpg
+    - image_path: fun-withersmall.jpg
     alt: "Art"
     title: "Art"
     excerpt: 'Drawings, paintings, and pumpkins'
     url: "http://www.keithbuhler.com/art"
     btn_label: "View"
+    btn_class: "btn--inverse"
+  - image_path: keithbuhler-teaching.jpg
+    alt: "Lectures"
+    title: "Speaking"
+    excerpt: 'Speeches, lectures, and talks'
+    url: "http://www.keithbuhler.com/speaking"
+    btn_label: "More"
+    btn_class: "btn--inverse"
+feature_row4:
+  - image_path: keithbuhler-teaching.jpg
+    alt: "Lectures"
+    title: "Speaking"
+    excerpt: 'Speeches, lectures, and talks'
+    url: "http://www.keithbuhler.com/speaking"
+    btn_label: "More"
+    btn_class: "btn--inverse"
+  - image_path: fun-notepad.jpg
+    alt: "Lectures"
+    title: "Writings"
+    excerpt: 'Fiction, satire, and poetry'
+    url: "http://www.keithbuhler.com/writings"
+    btn_label: "More"
     btn_class: "btn--inverse"
 ---
 
@@ -79,6 +100,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" %}
