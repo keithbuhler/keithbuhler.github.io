@@ -5,7 +5,7 @@ permalink: /fun/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
   cta_label: "View code on Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
@@ -63,13 +63,6 @@ feature_row3:
     url: "http://bitly.com/ScriptureOrTradition"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: keithbuhler-bw-small.jpg
-    alt: "Bio"
-    title: "Bio"
-    excerpt: 'About me'
-    url: "http://www.keithbuhler.com/bio"
-    btn_label: "More"
-    btn_class: "btn--inverse"
 feature_row4:
   - image_path: fun-withersmall.jpg
     alt: "Art"
@@ -86,6 +79,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
