@@ -17,7 +17,7 @@ Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These proj
     <a href="http://www.keithbuhler.com/blog"><img src="/images/favicon8.png"></a>
     <a href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books2.jpg"> </a>
     <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"><img src="/images/fun-discussion.jpg"> </a>
-    <figcaption> Blogs and YouTube </figcaption>
+    <center><figcaption> The Buhler Report: Timeless Wisdom and Current Events | ReadingIntentionally.com: A Proven Plan to Help you Read More Good Books. | YouTube Channel: For philosophy, discussion advice, and comedy. </figcaption></center>
 </figure>
 
 
@@ -25,7 +25,7 @@ Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These proj
     <a href="http://www.inklings.info"><img src="/images/fun-lewis.jpg"> </a>
     <a href="http://bit.ly/22o8m7j"><img src="/images/alvin-plantinga.jpg"> </a>
     <a href="http://www.philosophyisscience.com"><img src="/images/newton.jpg"> </a>
-    <figcaption> Inklings, Philosophers, and Science </figcaption>
+    <center><figcaption> Inklings.Info: Lists about the Oxford Dons | Advice to Christian Philosophers.com: Interviews with Big Name Philosophers | Philosophy is Science: Provocative Thoughts on Philosophy of Science </figcaption></center>
 </figure>
 
 

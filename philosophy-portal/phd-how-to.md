@@ -154,6 +154,26 @@ The University of Kentucky asks graduate students to make three increasingly spe
 3. The Dissertation Proposal "pitches" my specific project: to defend an account of virtue, practical reason, and happiness drawing on three  contemporary virtue ethicists. [(First draft here)](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view)
 
 
+## 15 Oct 2015
+
+I wrote and re-wrote my dissertation proposal many times. I discussed it with my wife (she has a background in philosophy) and with my advisor. Eventually it was submitted to my advisor. 
+
+He said: 
+
+> Dear Keith, I've read your proposal and it looks good.  There are numerous small points that need correcting, especially in formatting the references and providing bibliographic information... Congrats on making progress.  Once you clean up these details it will be ready to go!
+
+He did have some corrections for me to make, which I suppose is normal. 
+
+With that I began working in earnest. I started writing in Scrivener. 
+
+One page a day, seven days a week was the plan and it worked fairly well for me. I usually wrote 2-3 pages about 3-4 days a week. Many of these pages were merely notes, or comments on what I was reading. Others were "sections", that is, attempts at creating a building block for future chapters (a chapter being composed of 3-5 "sections"). 
+
+
+### Between October 2015 and August 2016
+
+I wrote a lot. Read a lot and wrote alot and re-read and re-wrote. 
+
+
 ### 16 May 2016 Boot Camp!
 
 
