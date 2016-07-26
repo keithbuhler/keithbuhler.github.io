@@ -38,7 +38,7 @@ Let's look at the details.
 
 </section><section data-markdown>
 
-## 1. "The good will obeys the moral law for morality's sake."
+### 1. "The good will obeys the moral law for morality's sake."
 
 
 - Furthermore, one should do the right thing only because it is the right thing.
@@ -124,7 +124,7 @@ What do these mean?
 * What is a maxim?  A "maxim" is a plan of action in a particular circumstance, such as "when you're on a bus, and there are no seats left for an old lady, stand up and give her your seat." 
 * What is a law? A law is a universal maxim: "always be generous."
 
-- This formulation, then, tells you to make your maxim of action something you could *also* will to be a universal law, without contradition. 
+- This formulation, then, tells you to make your maxim of action something you could *also* will to be a universal law, without contradiction. 
 
 
 
@@ -132,11 +132,9 @@ What do these mean?
 
 ## 8. Do only what you can will to be a universal law. 
 
-How can a maxim contradict a law? 
-
-Example: take stealing. You intend to steal an iPhone. To steal is to take someone else's private property and claim it as your own. So you intend to eliminate private property. At the same time, you intend to keep the iPhone as your own private property. You intend to preserve private property. 
-
-To steal is to intend *both* that private property not exist and that it exist. That is irrational. What is wrong is irrational. 
+- How can a maxim contradict a law? 
+- Example: take stealing. You intend to steal an iPhone. To steal is to take someone else's private property and claim it as your own. So you intend to eliminate private property. At the same time, you intend to keep the iPhone as your own private property. You intend to preserve private property. 
+- To steal is to intend *both* that private property not exist and that it exist. That is irrational. What is wrong is irrational. 
 
 </section><section data-markdown>
 
@@ -170,9 +168,8 @@ Practical rationality cannot contradict itself, either.
 
 ## 9. Always treat humans as ends in themselves, not means to an end.
 
-Kant's second formulation of the categorical imperative or moral law is this: “We should never act in such a way that we treat Humanity, whether in ourselves or in others, as a means only but always as an end in itself” [ p.36]
-
-In other words, treat other people as *ends in themselves*. Don't use people as means. Is he arguing that you can't use other people, like the grocery store clerk or mechanic? No. You can treat someone as a means, but not *merely* as a means. When you "use" the mechanic 
+- Kant's second formulation of the categorical imperative or moral law is this: “We should never act in such a way that we treat Humanity, whether in ourselves or in others, as a means only but always as an end in itself” [ p.36]
+- In other words, treat other people as *ends in themselves*. Don't use people as means. Is he arguing that you can't use other people, like the grocery store clerk or mechanic? No. You can treat someone as a means, but not *merely* as a means. When you "use" the mechanic, you also pay them. Paying them for their service is a way of treating them as an end in them selves.
 
 </section><section data-markdown>
 
@@ -273,7 +270,6 @@ This fact about persons is what gives them dignity and ultimate worth, according
 
 1. Self-legislation is incoherent. (Anscombe)
 2. Too formal -- morality needs material context. (Hegel)
-3. 
 
 </section><section data-markdown>
 
@@ -281,4 +277,3 @@ This fact about persons is what gives them dignity and ultimate worth, according
 * Write a short response
 * Prepare for discussion
 * Read "Aristotle" Handout
-
