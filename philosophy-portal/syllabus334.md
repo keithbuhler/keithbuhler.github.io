@@ -15,7 +15,7 @@ permalink: /syllabus334
 - [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). 
 - Handout Week 2 [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp); [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 - Handout Week 3 [Utilitarianism]
-- Handout Week 4 [Kantian Deontology]
+- Handout Week 4 [Kantian Deontology](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0RmbnRSSEtzRk0)
 - Handout Week 5 [ Virtue Ethics]
 - Film Week 6 [Inside Job](http://www.sonyclassics.com/insidejob/)
 
