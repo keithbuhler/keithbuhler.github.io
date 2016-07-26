@@ -7,29 +7,29 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: nasmith-banner.jpeg
-  cta_label: "View code on Github"
+  cta_label: "You can view the code on Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
   caption: "Photo credit: [**Ted Nasmith**](http://www.tednasmith.com/)"
-excerpt: "Welcome to keithbuhler.com/fun, my project sandbox."
+excerpt: "Welcome to my project sandbox."
 intro: 
-  - excerpt: 'These are a variety of projects I am playing with, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment.'
+  - excerpt: 'The sandbox hosts a bunch of projects I am playing with, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment.'
 feature_row:
   - image_path: favicon8.png
     alt: "The Buhler Report"
     title: "The Buhler Report"
     excerpt: "Thoughtful reflection on timeless truth and current events."
     url: "http://www.keithbuhler.com/blog"
-    btn_label: "Read the Report"
+    btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: fun-books2.jpg
     alt: "Reading Intentionally"
-    title: "The Intentional Reading Project"
+    title: "Reading Intentionally.com"
     excerpt: "A proven plan to help you read more good books."
     url: "http://www.readingintentionally.com/"
-    btn_label: "Start your own"
+    btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: fun-discussion.jpg
-    title: "YouTube"
+    title: "BuhlerTube"
     excerpt: "Discussion advice, philosophy talks, and comedy"
     url: "https://www.youtube.com/watch?v=yU9_t1sS6ws"
     btn_label: "Watch"
@@ -44,13 +44,13 @@ feature_row2:
     btn_class: "btn--inverse"
   - image_path: alvin-plantinga.jpg
     alt: "Advice"
-    title: "Advice to Christian philosophers"
+    title: "Advice to Christian Philosophers.com"
     excerpt: "Interviews with big name philosophers"
     url: "http://bit.ly/22o8m7j"
     btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: newton.jpg
-    title: "Philosophy is Science"
+    title: "Philosophy is Science.com"
     excerpt: "Provocative arguments regarding philosophy's relationship to other natural and formal sciences"
     url: "http://www.philosophyisscience.com/"
     btn_label: "Read"
@@ -61,15 +61,15 @@ feature_row3:
     title: "Sola Scriptura"
     excerpt: 'A dialogue about Orthodoxy and Protestantism, and the relation between Scripture, tradition, and reason.'
     url: "http://bitly.com/ScriptureOrTradition"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--inverse"
 feature_row4:
-  - image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: fun-withersmall.jpg
+    alt: "Art"
+    title: "Art"
+    excerpt: 'Drawings, paintings, and pumpkins'
+    url: "http://www.keithbuhler.com/art"
+    btn_label: "View"
     btn_class: "btn--inverse"
 ---
 
@@ -79,6 +79,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2"  %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
