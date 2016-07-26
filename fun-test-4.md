@@ -10,9 +10,9 @@ header:
   cta_label: "Github"
   cta_url: "https://github.com/keithbuhler/keithbuhler.github.io/"
   caption: "Photo credit: [**Ted Nasmith**](http://www.tednasmith.com/)"
-excerpt: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects."
+excerpt: "Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These projects range from playful to serious, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment."
 intro: 
-  - excerpt: 'These are a variety of project I am playing with, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment.'
+  - excerpt: 'Test'
 feature_row:
   - image_path: favicon8.png
     alt: "The Buhler Report"
@@ -35,25 +35,12 @@ feature_row:
     btn_label: "Be still"
     btn_class: "btn--inverse"
 feature_row2:
-   - image_path: fun-lewis.jpg
-    alt: "The Inklings"
-    title: "Inklings.info"
-    excerpt: "Information, books, and lists about the Oxford Dons"
-    url: "http://www.inklings.info"
-    btn_label: "Get an Inkling"
-    btn_class: "btn--inverse"
-  - image_path: /images/fun-books2.jpg
-    alt: "Reading Intentionally"
-    title: "The Intentional Reading Project"
-    excerpt: "A proven plan to help you read more good books."
-    url: "http://bit.ly/36BooksPerYear"
-    btn_label: "Start your own"
-    btn_class: "btn--inverse"
-  - image_path: meditation.jpg
-    title: "Meditation"
-    excerpt: "How and why to practice the ancient art of stillness."
-    url: "http://www.keithbuhler.com/meditation"
-    btn_label: "Be still"
+  - image_path: unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
   - image_path: unsplash-gallery-image-2-th.jpg
@@ -64,25 +51,12 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row4:
-  - image_path: writing-notebook.jpg
-    title: "Writings"
-    excerpt: "Fiction, screenplays, poetry, and satire."
-    url: "http://www.keithbuhler.com/writings"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: keithbuhler-teaching.jpg
-    alt: "Speaking"
-    title: "Speaking"
-    excerpt: Lectures, conferences, and classes
-    url: "http://www.keithbuhler.com/speaking"
+  - image_path: unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: keithbuhler-bw-small.png
-    alt: "Bio"
-    title: "Bio"
-    excerpt: "A little bit about me."
-    url: "http://www.keithbuhler.com/bio"
-    btn_label: "More"
     btn_class: "btn--inverse"
 ---
 
