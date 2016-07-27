@@ -8,11 +8,10 @@ comments: true
 author_profile: true
 header: 
     image: 
-
-
+excerpt: Since I started doing my website with Jekyll, I've started writing *everything* in Markdown: [papers](https://raw.githubusercontent.com/keithbuhler/keithbuhler.github.io/master/_papers/hegel-paper.md), journals, [syllabi](/syllabus200), and of course web pages.  What can't it do? Can it replace Powerpoint? Sure can do.
 ---
 
-<img src="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg">
+<img src="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" width="400" height="380">
 
 Ever since Google released [Google Slides in 2012](https://en.wikipedia.org/wiki/Google_Docs,_Sheets,_Slides_and_Forms), I've used it for creating classroom presentations. I never liked "Powerpoint" much. Slides is intuitive, simple, web-aware, and cloud-based (so no need for thumb drives). 
 

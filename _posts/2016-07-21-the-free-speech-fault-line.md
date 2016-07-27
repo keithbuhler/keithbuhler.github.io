@@ -8,14 +8,15 @@ comments: true
 author_profile: true
 header:
     image: 
+excerpt: There is a new fault line in town -- the free speech fault line. Liberals and conservatives who are pro-free speech get along rather well; and both tussle with anti-free-speech advocates who think some opinions are badthink and must be silenced.
 
 ---
 
 <img src="http://www.sanluisobispo.com/news/local/education/fob4u5/picture54214490/ALTERNATES/FREE_768/Cal+Poly+Protest00694">
 
-The dominant distinction in American politics is the "left/right" distinction. Politicians, voters, media conglomorates, pundits, and actors are plotted on a graph from conservative or to liberal.
+The dominant distinction in American politics is the "left/right" distinction. Politicians, voters, media conglomerates, pundits, and actors are plotted on a graph from conservative or to liberal.
 
-There is good reason to be skeptical that this x-axis captures all the complexity of disagreement between various political traditions. It is easy to come up with an x/y axis graph that includes "Libertarian" as an alternative label for right-centric folks and "Progressive" as an alternative label for left-centric folks. Even millenials who identify as liberal identify as "libertarian" (67%) slightly more often than they do "progressive" (64%). 
+There is good reason to be skeptical that this x-axis captures all the complexity of disagreement between various political traditions. It is easy to come up with an x/y axis graph that includes "Libertarian" as an alternative label for right-centric folks and "Progressive" as an alternative label for left-centric folks. Even millennials who identify as liberal identify as "libertarian" (67%) slightly more often than they do "progressive" (64%). 
 
 ![millenials](https://d1jn4vzj53eli5.cloudfront.net/mc/eekins/2014_07/7_sociallyinclined.jpg?h=301&w=475)
 

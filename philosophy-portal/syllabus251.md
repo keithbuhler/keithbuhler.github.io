@@ -19,8 +19,9 @@ permalink: /syllabus251
 -   Other readings are available on Discovery: 
 -   [Lewis, "Meditations on a Toolshed"](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg)
 -   [Sorina Higgens, "the Heraldry of Heaven: CS Lewis and Sehnsucht"](http://mythgard.org/blog/2014/10/09/heraldry-of-heaven-free-lecture-on-c-s-lewis-and-sensucht/) 
--   Lewis, "Weight of Glory"
 -   [Kreeft, "Is Truth Objective?"](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
+-   Lewis, "Weight of Glory"
+
    
 
 ### Course Description
