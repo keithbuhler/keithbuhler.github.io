@@ -142,10 +142,10 @@ Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
 
 </section><section data-markdown>
 
-Week 1  
-**M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals?      
-**W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
-**F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
+- Week 1  
+- **M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals?      
+- **W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
+- **F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
 
 
 </section><section data-background="http://www.geeksofdoom.com/GoD/img/2013/10/2013-10-01-chronicles_of_narnia-e1452732242132.jpg" data-markdown>
@@ -209,7 +209,7 @@ Was born in Belfast, Ireland.
 
 </section><section data-markdown>
 
-![Magdalen college](/images/oxford-magdalen.jpg)
+![Magdalen college](/images/oxford-magdalen.JPG)
 
 - Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
 
@@ -297,7 +297,7 @@ _Truth is real._
 |Name            |  Sense         |    Example       |
 |----------------|----------------|------------------|
 | Substantive Truth | Reality itself |          Mount Everest being a mountain. |
-| Knowledge       |  Thinking truly  |         Mount Everest is a mountain. |
+| Knowledge       |  Thinking truly  |         *Mount Everest is a mountain.* |
 | True words      |  Speaking truly  |         “Mount Everest is a mountain.” |
 
 
@@ -353,6 +353,7 @@ Sorina Higgins
 
 
 </section>
+<section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
 
 ## 2 minutes left
 * Is Kreeft right?
