@@ -61,11 +61,6 @@ feature_row3:
     url: "http://bitly.com/ScriptureOrTradition"
     btn_label: "More"
     btn_class: "btn--inverse"
-  -image_path: https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png
-    alt: "Github"
-    title: "Github Code"
-    excerpt: "You can view the code for this website and my other sites."
-    url: "https://github.com/keithbuhler/keithbuhler.github.io/"
 feature_row4:
   - image_path: fun-wither.png
     alt: "Art"
@@ -78,10 +73,26 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
+<br>
+
 {% include feature_row %}
+
+<br>
 
 {% include feature_row id="feature_row2"  %}
 
+<br>
+
 {% include feature_row id="feature_row3" type="center" %}
 
+<br>
+
 {% include feature_row id="feature_row4" type="center" %}
+
+
+
+    -image_path: https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png
+    alt: "Github"
+    title: "Github Code"
+    excerpt: "You can view the code for this website and my other sites."
+    url: "https://github.com/keithbuhler/keithbuhler.github.io/"
