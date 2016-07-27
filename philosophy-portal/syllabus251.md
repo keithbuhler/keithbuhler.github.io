@@ -16,7 +16,11 @@ permalink: /syllabus251
 -   [*The Four Loves*. ISBN: 978-0156329309.](http://amzn.to/1RAw4Tj)
 -   [*Perelandra*. ISBN: 978-0743234917](http://amzn.to/1RAw71E)
 -   [*Experiment in Criticism. ISBN:978-1107604728*](http://amzn.to/1MEYb78)
--   Other readings are available on Discovery: [Lewis, "Meditations on a Toolshed"](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg); Lewis, "Weight of Glory", [Kreeft, "Is Truth Objective?"](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
+-   Other readings are available on Discovery: 
+-   [Lewis, "Meditations on a Toolshed"](https://drive.google.com/open?id=0B0CYQDZ8AWu8YjN0MFl2aGN0WTg)
+-   [Sorina Higgens, "the Heraldry of Heaven: CS Lewis and Sehnsucht"](http://mythgard.org/blog/2014/10/09/heraldry-of-heaven-free-lecture-on-c-s-lewis-and-sensucht/) 
+-   Lewis, "Weight of Glory"
+-   [Kreeft, "Is Truth Objective?"](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/edit) 
    
 
 ### Course Description
@@ -144,7 +148,7 @@ The outline tells you the reading due and the topic for each day. It also provid
 Week 1  
 **M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals?    
 **W       Aug-17  Meditations in a Tool shed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
-**F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
+**F       Aug-19  Sorina Higgens, Sehnsucht, the Heraldry of Heaven**  What is Sehnsucht, or joy? How does this theme run through Lewis' philosophy?
 
 Week 2    
 **M       Aug-22  Mere Christianity I: Morality and God**    Is the moral law objective? If so, what does it have to do with Christianity?   
