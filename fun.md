@@ -14,28 +14,28 @@ excerpt: "Welcome to my project sandbox."
 intro: 
   - excerpt: 'The sandbox hosts a bunch of projects I am playing with, from sketch to complete. Thanks for visiting. Browse, follow, and leave a comment.'
 feature_row:
-  - image_path: favicon8.png
+  - image_path: fun-buhler.png
     alt: "The Buhler Report"
     title: "The Buhler Report"
     excerpt: "Thoughtful reflection on timeless truth and current events."
     url: "http://www.keithbuhler.com/blog"
     btn_label: "Read"
     btn_class: "btn--inverse"
-  - image_path: fun-books2.jpg
+  - image_path: fun-books3.png
     alt: "Reading Intentionally"
     title: "Reading Intentionally.com"
     excerpt: "A proven plan to help you read more good books."
     url: "http://www.readingintentionally.com/"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: fun-discussion.jpg
+  - image_path: fun-discussion.png
     title: "BuhlerTube"
     excerpt: "Discussion advice, philosophy talks, and comedy"
     url: "https://www.youtube.com/watch?v=yU9_t1sS6ws"
     btn_label: "Watch"
     btn_class: "btn--inverse"
 feature_row2:
-  - image_path: fun-lewis.jpg
+  - image_path: fun-lewis.png
     alt: "The Inklings"
     title: "Inklings.info"
     excerpt: "Information, books, and lists about the Oxford Dons"
@@ -56,7 +56,7 @@ feature_row2:
     btn_label: "Read"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: fun-sola.jpg
+  - image_path: fun-sola.png
     alt: "sola scriptura"
     title: "Sola Scriptura"
     excerpt: 'A dialogue about Orthodoxy and Protestantism, and the relation between Scripture, tradition, and reason.'
@@ -64,7 +64,7 @@ feature_row3:
     btn_label: "More"
     btn_class: "btn--inverse"
 feature_row4:
-  - image_path: fun-withersmall.jpg
+  - image_path: fun-wither.png
     alt: "Art"
     title: "Art"
     excerpt: 'Drawings, paintings, and pumpkins'
