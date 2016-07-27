@@ -1,6 +1,6 @@
 ---
 title: "The Buhler Report"
-layout: splash
+layout: post
 permalink: /blog/
 date: 2016-07-27T11:48:41-04:00
 header:
@@ -23,7 +23,7 @@ feature_row:
     <h2> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <span class="time">{{ post.date | date: "%-d %B %Y" }}</span> 
     <div class="post-excerpt">{{ post.excerpt }}</div>
-    <br>
+    <hr>
     <br>
 </div>
 

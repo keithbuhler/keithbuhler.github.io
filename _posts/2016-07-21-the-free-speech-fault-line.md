@@ -8,13 +8,15 @@ comments: true
 author_profile: true
 header:
     image: 
-excerpt: There is a new fault line in town -- the free speech fault line. Liberals and conservatives who are pro-free speech get along rather well; and both tussle with anti-free-speech advocates who think some opinions are badthink and must be silenced.
 
 ---
 
-<img src="http://www.sanluisobispo.com/news/local/education/fob4u5/picture54214490/ALTERNATES/FREE_768/Cal+Poly+Protest00694">
+<img src="http://www.sanluisobispo.com/news/local/education/fob4u5/picture54214490/ALTERNATES/FREE_768/Cal+Poly+Protest00694"> There is a new fault line in town -- the free speech fault line. Liberals and conservatives who are pro-free speech get along rather well; and both tussle with anti-free-speech advocates who think some opinions are badthink and must be silenced.
 
-The dominant distinction in American politics is the "left/right" distinction. Politicians, voters, media conglomerates, pundits, and actors are plotted on a graph from conservative or to liberal.
+![Bad color!](https://i.ytimg.com/vi/RFkVbOye_Vo/maxresdefault.jpg)
+
+
+For a long time, the dominant distinction in American politics has been the "left/right" distinction. Politicians, voters, media conglomerates, pundits, and actors are plotted on a graph from conservative or to liberal.
 
 There is good reason to be skeptical that this x-axis captures all the complexity of disagreement between various political traditions. It is easy to come up with an x/y axis graph that includes "Libertarian" as an alternative label for right-centric folks and "Progressive" as an alternative label for left-centric folks. Even millennials who identify as liberal identify as "libertarian" (67%) slightly more often than they do "progressive" (64%). 
 
@@ -31,10 +33,8 @@ There is no comparable graph of people on the Left, but this commenter created a
 
 ![Five rings left](http://uselectionatlas.org/FORUM/GALLERY/12956_14_09_15_6_08_46.png)
 
-The point is that the Bernie folks hold their nose at Clinton just as much as the Clinton folks held their nose at Bernie. We are in need of a new way of dividing up groups by label in such a way as to helpfully capture their allegience to particular ideological and policy positions. 
+The point is that the Bernie folks hold their nose at Clinton just as much as the Clinton folks held their nose at Bernie. We are in need of a new way of dividing up groups by label in such a way as to helpfully capture their allegiance to particular ideological and policy positions. 
 
-Enter Free Speech. There is a new fault line in town -- the free speech fault line. Liberals and conservatives who are pro-free speech get along rather well; and both tussle with anti-free-speech advocates who think some opinions are badthink and must be silenced.
+Enter Free Speech. 
 
-![Bad color!](https://i.ytimg.com/vi/RFkVbOye_Vo/maxresdefault.jpg)
-
-[The ACLU is as liberal as it comes, but they stand with free speech.](https://www.aclu.org/hate-speech-campus?redirect=free-speech/hate-speech-campus) Their Q&A shows how much heat they take from their authoritarian leftist fans and members.
+[The ACLU is as liberal as it comes, but they stand with free speech.](https://www.aclu.org/hate-speech-campus?redirect=free-speech/hate-speech-campus) Their Q&A shows how much heat they take from their authoritarian members. But ACLU is right on this one. Free speech is not a given in any society; it is an achievement of some societies. Why protect even the speech of the vilest members of our society? Because a society in which such voices are silence is, in a way, just as vile or worse as a society where those voices have a platform. 

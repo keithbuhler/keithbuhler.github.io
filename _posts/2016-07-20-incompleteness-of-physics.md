@@ -8,13 +8,9 @@ comments: true
 author_profile: true
 header:
     image: 
-excerpt: One of the philosophical topics I'm interested in is physicalism. [Physicalism is "the thesis that everything is physical."](http://plato.stanford.edu/entries/physicalism/) A recurring notion in physicalist literature is that the cosmos is causally closed and that physics is complete. 
-
 ---
 
-<img src="http://i1.wp.com/dianasymons.com/wp-content/uploads/2013/10/window.jpg"> 
-
-One of the philosophical topics I'm interested in is physicalism. [Physicalism is "the thesis that everything is physical."](http://plato.stanford.edu/entries/physicalism/) A recurring notion in physicalist literature is that the cosmos is causally closed and that physics is complete. 
+<img src="http://i1.wp.com/dianasymons.com/wp-content/uploads/2013/10/window.jpg"> One of the philosophical topics I'm interested in is physicalism. [Physicalism is "the thesis that everything is physical."](http://plato.stanford.edu/entries/physicalism/) A recurring notion in physicalist literature is that the cosmos is causally closed and that physics is complete. 
 
 I've responded to the claim that the cosmos is closed in writing [here](https://www.academia.edu/16494174/Causal_Closure_Inductive_Arguments_or_Just_More_Question-Begging) and in a presentation [here.](https://www.youtube.com/watch?v=iocy6CAQ2_k) I don't build a case that the cosmos is open but do argue that the arguments that the cosmos is closed are... bad arguments. So at best I argue for causal agnosticism. 
 
