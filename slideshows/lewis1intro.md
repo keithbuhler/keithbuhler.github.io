@@ -164,7 +164,7 @@ Week 1
 <section><!--Wed, Intro begin-->
 <section data-background="http://static.tumblr.com/6433c819c8544bb9e6d643dc5c92df28/x9itfym/Uvomgzw2x/tumblr_static_aslan-lion-3-chronicles-of-narnia-voyage-of-the-dawn-treader-wallpaper.jpg" data-markdown>
 
-# CS Lewis Week 1
+# Philosophy CS Lewis
 
 ### Who is CS Lewis?
 
@@ -177,17 +177,17 @@ Week 1
 
 </section><section data-markdown>
 
-### Bio
+### Brief Bio
 
 ![Lewis man](http://www.best-books-for-kids.com/images/c-s-lewis-quote-about-reading-21671430.jpg)
 
-- For most of his life, worked as professor of literature at Oxford or Cambridge. 
+For most of his life, "Jack" worked as professor of literature at Oxford or Cambridge. 
 
 </section><section data-markdown>
 
 ![Belfast](https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/3e/belfast.jpg)
 
-- Was born in Belfast, Ireland.
+Was born in Belfast, Ireland.
 
 </section><section data-markdown>
 
@@ -199,42 +199,59 @@ Week 1
 </section><section data-markdown>
 
 ![Lewis at war](https://lanternhollow.files.wordpress.com/2011/04/lewis-wwi.jpg)
-- Went to war with the British Army for 1 year, was injured
-- Then finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
+- Went to war with the British Army for 1 year.
+- Fought, was injured, and sent home.
 
 </section><section data-markdown>
 
-![Magdalen college](https://drive.google.com/open?id=0B0CYQDZ8AWu8bDR1WGRLb2NWaWc)
+![Magdalen college](/images/oxford-magdalen.jpg)
+
+- Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
+
+</section><section data-background="oxford-lewis.jpg" data-markdown>
 
 - Became a philosophy tutor in 1924, at 26 years old, but could not find a full-time post.
 - Became a Fellow in English Literature at Magdalen College, Oxford, where he served for 29 years.
-- Moved to Cambridge
-- For most of his life, was a bachelor though he lived with Jane Moore, his old friend's mother
+- Moved to Cambridge, where he was chair of Medieval and Renaissance Literature, and taught until he died
 
+</section><section data-markdown>
+
+![Lewis and Joy](http://www.arinanikitina.com/wp-content/uploads/2010/11/lewis-and-gresham1-300x232.jpg)
+
+- For most of his life, was a bachelor though he lived with Jane Moore, his old friend's mother
+- Married Joy Davidman Gresham in 1956, at 58 years old
+
+
+</section><section data-markdown>
+
+![Lewis death](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/C._S._Lewis%27_grave.jpg/330px-C._S._Lewis%27_grave.jpg)
+
+- Died in 1963, a few minutes before JFK was assassinated
+- Commemorated as a saint on 22 November by the Episcopalians
 
 </section><section data-markdown>
 
 ### Philosophy
 
+- Irish Catholic
+- Atheist (10-33)
+- Anglican Christian (33-65)
+
+</section><section data-background="https://upload.wikimedia.org/wikipedia/commons/5/51/The_Wolves_Pursuing_Sol_and_Mani.jpg" data-markdown>
+
+### Imagination
+
+- Norse mythology and science
+- intuition and rationality
+- wisdom and knowledge
+- poetry and philosophy
+- fairy tales and history
+- Christianity and atheism
 
 
+</section><section data-background="http://images4.fanpop.com/image/photos/23400000/Midgard-norse-mythology-23499804-2062-1312.jpg" data-markdown>
 
-</section><section data-markdown>
 
-If we have time... 
-
-## Discussion Ground Rules
-
-1. Be kind. 
-2. Say what you think.
-3. Truth hurts.
-4. It’s good to learn you’re wrong.
-5. Ask questions. 
-6. Answer questions.
-7. Listen to your neighbor. 
-8. Silence is OK too. 
-
-</section><section data-markdown>
 
 </section>
 </section> <!--Wed end-->

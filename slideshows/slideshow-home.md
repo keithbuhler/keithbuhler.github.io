@@ -16,7 +16,8 @@ permalink: /slides/
 
 ## CS Lewis Slides
 
-* Coming soon
+* [Week 1 Introduction](/slideshows/lewis1intro)
+* [Week 2 Truth](/slideshows/lewis2truth)
 
 
 ## Introduction to Philosophy Slides

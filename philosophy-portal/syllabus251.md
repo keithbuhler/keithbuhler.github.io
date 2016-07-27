@@ -8,7 +8,7 @@ permalink: /syllabus251
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: @keith\_buhler  
 **Web**: www.keithbuhler.com / Discovery    
-**Office Hours:** Mon 12-1, Kinlaw Library by Lewis Corner.  
+**Office Hours:** (*Tentative*) Tues 12-1, Kinlaw Library by Lewis Corner.  
 
 ### Required Texts
 
@@ -143,7 +143,7 @@ The outline tells you the reading due and the topic for each day. It also provid
 
 Week 1  
 **M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals?    
-**W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
+**W       Aug-17  Meditations in a Tool shed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
 **F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
 
 Week 2    
