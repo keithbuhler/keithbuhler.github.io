@@ -173,13 +173,13 @@ Week 1
 ![Lewis](https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/C.s.lewis3.JPG/330px-C.s.lewis3.JPG)
 
 - Clive Staples Lewis was born 1898 and died in 1963. 
-- He was born before, and lived through, WWI, WWII, the Sexual Revolution.
+- He was born before the sinking of the Titanic, WWI, WWII, the Sexual Revolution.
 
 </section><section data-markdown>
 
 ### Bio
 
-![Lewis](http://blog.godreports.com/wp-content/uploads/2012/09/Lewis-C.S.-as-young-man.jpg)
+![Lewis man](http://www.best-books-for-kids.com/images/c-s-lewis-quote-about-reading-21671430.jpg)
 
 - For most of his life, worked as professor of literature at Oxford or Cambridge. 
 
@@ -189,10 +189,23 @@ Week 1
 
 - Was born in Belfast, Ireland.
 
+</section><section data-markdown>
+
+![Young Lewis](http://blog.godreports.com/wp-content/uploads/2012/09/Lewis-C.S.-as-young-man.jpg)
+
 - Moved to England in 1908, at 10 years old.
 - After school ended up in Oxford University in 1916, at 18 years old.
+
+</section><section data-markdown>
+
+![Lewis at war](https://lanternhollow.files.wordpress.com/2011/04/lewis-wwi.jpg)
 - Went to war with the British Army for 1 year, was injured
-- Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
+- Then finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
+
+</section><section data-markdown>
+
+![Magdalen college](https://drive.google.com/open?id=0B0CYQDZ8AWu8bDR1WGRLb2NWaWc)
+
 - Became a philosophy tutor in 1924, at 26 years old, but could not find a full-time post.
 - Became a Fellow in English Literature at Magdalen College, Oxford, where he served for 29 years.
 - Moved to Cambridge
