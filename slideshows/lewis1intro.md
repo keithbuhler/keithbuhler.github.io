@@ -170,8 +170,7 @@ Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
 
 # Philosophy of CS Lewis
 
-1. Who is Lewis?
-2. Meditations on a Toolshed
+### Who is lewis?
 
 </section><section data-markdown>
 
@@ -208,7 +207,9 @@ Was born in Belfast, Ireland.
 - Went to war with the British Army for 1 year.
 - Fought, was injured, and sent home.
 
-</section><section data-markdown data-background="/images/oxford-magdalen.JPG")
+</section><section data-markdown>
+
+![magdalen](/images/oxford-magdalen.JPG)
 
 - Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
 
@@ -245,6 +246,10 @@ Was born in Belfast, Ireland.
 
 ### Imagination
 
+
+</section><section data-background="http://images4.fanpop.com/image/photos/23400000/Midgard-norse-mythology-23499804-2062-1312.jpg" data-markdown>
+
+
 - Norse mythology and science
 - intuition and rationality
 - wisdom and knowledge
@@ -262,7 +267,6 @@ Was born in Belfast, Ireland.
 ## Meditation in a Toolshed
 
 </section><section data-markdown>
-
 
 
 ## 2 minutes left
@@ -349,7 +353,6 @@ Hence, also, Nietszsche:
 </section><section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
 
 Sorina Higgins
-
 
 </section>
 <section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
