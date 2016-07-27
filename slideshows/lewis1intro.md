@@ -170,13 +170,39 @@ Week 1
 
 </section><section data-markdown>
 
-## Who is CS Lewis?
+![Lewis](https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/C.s.lewis3.JPG/330px-C.s.lewis3.JPG)
+
+- Clive Staples Lewis was born 1898 and died in 1963. 
+- He was born before, and lived through, WWI, WWII, the Sexual Revolution.
+
+</section><section data-markdown>
+
+### Bio
+
+![Lewis](http://blog.godreports.com/wp-content/uploads/2012/09/Lewis-C.S.-as-young-man.jpg)
+
+- For most of his life, worked as professor of literature at Oxford or Cambridge. 
+
+</section><section data-markdown>
+
+![Belfast](https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/3e/belfast.jpg)
+
+- Was born in Belfast, Ireland.
+
+- Moved to England in 1908, at 10 years old.
+- After school ended up in Oxford University in 1916, at 18 years old.
+- Went to war with the British Army for 1 year, was injured
+- Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
+- Became a philosophy tutor in 1924, at 26 years old, but could not find a full-time post.
+- Became a Fellow in English Literature at Magdalen College, Oxford, where he served for 29 years.
+- Moved to Cambridge
+- For most of his life, was a bachelor though he lived with Jane Moore, his old friend's mother
 
 
 </section><section data-markdown>
 
+### Philosophy
 
-</section><section data-markdown>
 
 
 
