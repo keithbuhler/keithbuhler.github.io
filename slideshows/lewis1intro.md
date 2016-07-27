@@ -129,15 +129,33 @@ Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
 - No smart phones.
 - Laptop users in front row.
 
+</section><section data-markdown>
+
+### Course Outline
+
+- The outline tells you the reading due and the topic for each day. 
+- It also provides detailed notes to help you prepare your thoughts.
+- It is subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
+
+</section><section data-markdown>
+
+Week 1  
+**M       Aug-15  Syllabus Day**    What are realistic expectations for this class? What are ambitious goals?      
+**W       Aug-17  Meditations in a Toolshed**       What are the two ways of looking at things? What is the difference between looking at and looking along?  
+**F       Aug-19  Peter Kreeft, Truth**     Is truth objective?
+
 
 </section><section data-background="http://www.geeksofdoom.com/GoD/img/2013/10/2013-10-01-chronicles_of_narnia-e1452732242132.jpg" data-markdown>
 
 ## 2 minutes left
+
+</section><section data-markdown>
+
 * Questions?
 * Write a short response: "What are your HIGHEST HOPES for this class after our first meeting?""
 * No reading due -- but review syllabus and Monday's assignments
-* You can review these slideshows! -- www.keithbuhler.com/slideshows
-* Friday: discuss business ethics in a bit more detail
+* You can review these slideshows! -- www.keithbuhler.com/slides
+* Friday: discuss Lewis
 
 </section>
 </section><!--Syllabus end-->

@@ -108,9 +108,9 @@ Every student will present two “critical readings.” These are days when you 
 
 
 ### Unit Papers
-Every 2 weeks, you will write a short unit paper reflecting on a major theme from that Unit's readings. 
+You will write regular short unit papers reflecting on a major theme from the book. And you will write two Term Papers (midterm and finals week). 
 
-In addition, every student will write two Term Papers (midterm and finals week). These term Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. Plagiarism – intentional or unintentional – will result in a a zero for the assignment, and jeopordizes your standing in the class. Instructions are posted online.
+These term Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. Plagiarism – intentional or unintentional – will result in a a zero for the assignment, and jeopardizes your standing in the class. Instructions are posted online.
 
 
 
