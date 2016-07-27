@@ -5,22 +5,40 @@ theme: league
 ---
 
 <section><!--Syllabus begin-->
-<section data-background="http://www.christianitytoday.com/images/67445.jpg?w=700" data-markdown><!--Intro slide begin-->
+<section data-background="http://thecommonvision.org/wp-content/uploads/2013/11/CS-Lewis-2.jpg" data-markdown><!--Intro slide begin-->
 
-# Philosophy of CS LEWIS
+# welcome to philosophy of c.s. lewis
 
 </section> <!--Intro slide end-->
 <section data-markdown> 
 
-### Welcome
+## Why are you here? 
 
 * 3x5 cards
-* Names
-* Stories
+      - name
+      - hometown
+      - major
+      - email (if different from Asbury)
+      - draw a picture of yourself
 
 </section><section data-markdown>
 
-## Why are you here? 
+## About me
+
+![Josiah in the snow](/images/josiah-snow.jpg)
+
+- Grew up in the South... of CA
+- First time living outside the country
+
+</section><section data-markdown>
+
+## About me
+
+- "Graduate student in philosophy", i.e., prol
+- Entrepreneur
+![Prols](http://lh6.google.com/adswithoutproducts/RuYPB5NQzqI/AAAAAAAAAfI/r-ykclVmkqg/s400/hiepe-buch-riese-proletariat2.jpg)
+
+## Aboout you
 
 * Name
 * Hometown
@@ -28,116 +46,73 @@ theme: league
 
 </section><section data-markdown>
 
-## What is this class about? Course Description
+
+## What is this class about?
 
 Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
 
 </section><section data-markdown>
 
-## Philosophy
+## What is this class about?
 
-* Philosophy in generally asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? 
-* Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. 
-
-</section><section data-markdown>
-
-## Philosophy -> Ethics
-
-* Ethics is the branch of philosophy that investigates right and wrong, good and bad. 
-* What is worthwhile or worthless? How to live a worthwhile life? 
-* What is good? Who is truly enviable?
-
-</section><section data-markdown>
-
-## Ethics—> Business Ethics
-
-In business ethics, we ask about foundations: 
-
-* What is a good business? 
-* What is good for a business? What is success? 
-* What is property — public and private?
-* What products or services should business not provide?
-* Is money worthwhile? What does it outweigh?
-
-
-</section><section data-markdown>
-## Philosophy—> Business Ethics
-
-These questions and more we will attempt to answer by:
-
-- clarifying terms, 
-- establishing secure ethical principles, 
-- being sensitive to contextual details, 
-- identifying reasonable answers, 
-- evaluating arguments for and against each reasonable answer, and 
-- coming to our own conclusions. 
+- Description
+- Goals
+- Scope and sequence
 
 
 </section><section data-markdown>
 
+## Grading
 
-* We will consider arguments from Kantian, consequentialist, and religious standpoints
-* However, our *official approach* to these questions will be from the standpoint of traditional virtue ethics.
+|Assignments                            | Percent of grade |
+ -------------------------------------- | ------------------ |
+  Reading & Quizzes                     | 30%
+  Participation (talk, write, present)  | 30%
+  Unit Papers                           | 40%
 
-</section><section data-markdown>
-
-
-## Course Goals
-
-* to understand business as part of life
-* to understand business as part of applied ethics, public policy, and as a sub-discipline of ethical philosophy
-* to become familiar with major ethical theories, especially: virtue ethics, utilitarianism, and deontology 
-* to grow intellectually by critically analyzing articles, books, studies, and news articles about business
-* to understand our own ethical tradition and others
-* and thereby to become more virtuous people capable of handling difficult life circumstances.
+I do not normally round. So an 89.5 is a “B.”
 
 </section><section data-markdown>
 
-### Course outline
+- Reading tips
+- Quizzes
 
-How to read it
+</section><section data-markdown>
 
-8 Units:
+## Attendance
 
-* Philosophy
-* Ethical Theories
-* “Inside Job” Film
-* Methods of Business Ethics
-* Competition
+I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. One week is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
 
 </section><section data-markdown>
 
-### Course outline cont'd
+## Attendance
 
-* Justice
-* Universal Norms
-* Incentives
-* Employees
-* Safety
-* Environment
-* Conclusions
+1 = -0  
+2 = -0  
+3 = -0  
+4 = -2%  
+5 = -4%  
+6 = -10%  (a letter grade)   
+7 = -12%   
+8 = -14%
+9 = -50%
 
+</section><section data-markdown>
+
+</section><section data-markdown>
+
+</section><section data-markdown>
+
+</section><section data-markdown>
+
+</section><section data-markdown>
 
 
 </section><section data-markdown>
 
-### Course Structure
-
-* To accomplish our course goals, the semester is broken into 8 units of 1-2 weeks each. 
-* Each Unit consists of (a) readings and quizzes, (b) lectures, (c) discussions, and (d) a unit paper. 
-* The readings and lectures offer analysis, the discussions and papers synthesis. 
-
-</section><section data-markdown>
-
-|  Assessment category  |  Percent of semester grade |
-| -----------------------| -----------------------|
-| Readings (quizzes) |         20%   |  
-| Participation (talk/write) |   20% |
-| Tests (midterm, final)         |  30% |
-| Unit Papers    |  30% |
-
-
+### Attendance
+We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
 </section><section data-markdown>
 
@@ -233,23 +208,13 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 ### Miscellany:
 
-
-1. **Bring your textbook** to every class. 
-2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
-3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
-4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
-4.  **Laptop/tablet users** must request permission to use their device. If approved, you must sit in the front row.
-5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
-6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu.
-7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)
-8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check “news” or "announcements" section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
-6. Disabilities can be accommodated if you are registered with the Disability Resource Center. See  http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
-7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
-8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
-9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
+- Participate
+- Stay focused. 
+- No smart phones.
+- Laptop users in front row.
 
 
-</section><section data-markdown>
+</section><section data-background="http://www.geeksofdoom.com/GoD/img/2013/10/2013-10-01-chronicles_of_narnia-e1452732242132.jpg" data-markdown>
 
 ## 2 minutes left
 * Questions?
@@ -263,119 +228,23 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 
 <section><!--Wed, Intro begin-->
-<section data-background="http://vignette1.wikia.nocookie.net/narnia/images/3/33/Aslan-PC.JPG/revision/latest?cb=20071207045333" data-markdown>
+<section data-background="http://static.tumblr.com/6433c819c8544bb9e6d643dc5c92df28/x9itfym/Uvomgzw2x/tumblr_static_aslan-lion-3-chronicles-of-narnia-voyage-of-the-dawn-treader-wallpaper.jpg" data-markdown>
 
 # CS Lewis Week 1
 
-### Who is CS Lewisr?
-
-</section>
-<section data-markdown>
-
-## Who is CS Lewisr?
-
-- 
+### Who is CS Lewis?
 
 </section><section data-markdown>
 
-###  
-
--
-
-</section><section data-markdown>
-
-### 
-
--
-
+## Who is CS Lewis?
 
 
 </section><section data-markdown>
 
-## What is philosophical ethics? 
-
-* The best thinking about the best ideas in the universe
-* Eg: goodness, truth, and beauty; justice, utility, rights, obligations, and personal virtues.  
-
-</section><section data-markdown>
-
-## Philosophical methods
-
-How does a philosopher do his or her job? 
-
-**Philosophical ethics is reflective.**
-
-* * We have to stand back from our personal knee-jerk viewpoint or cultural viewpoints. Sometimes they are right, sometimes not.
-* What if something deep about our collective way of viewing things is wrong? How would we correct it? Only by stepping back and considering views wide afield. 
-</section><section data-markdown>
-
-
-## Philosophical methods
-
-**Philosophical ethics is dialogical.** 
-
-* We have to converse with each other. 
-* Understand before you disagree.  (Then, disagree!)
-* Asking questions, and following the argument. 
-
-
-</section><section data-markdown>
-
-The best way to practice philosophical thinking is to jump in. 
-
-I’ll walk you through a dialectical argument. You can see how I pose the question, define the possible answers, and examine each answer, eliminating bad answers, and highlighting the good one (or ones). 
-
-You can stop me at any time to object, express agreement, or ask a question. 
-
-
-</section><section data-markdown>
-
-**Here’s the question: What is the point of business?**
-
-Let’s reflect.
-
-(Hypothesis 1, 2, 3 on the board)
-
-</section><section data-markdown>
-
-### What's the point of business?
-
-**Hypothesis 1: The point of business is to make money for the business owner and employees.** 
-
-* But it can’t just be that. For what if a snake oil salesmen “makes money” by cheating people out of their money. 
-
-
-
-
-</section><section data-markdown>
-
-### What's the point of business?
-
-* Hypothesis 1: Making money
-
-**Hypothesis 2: The point of business is to “busy” itself producing goods and services necessary for community.**
-
-* A community needs food, water, shelter, clothes, and so on.
-* A community can each provide all their needs for themselves, or it can “divide and conquer”, each doing one task. For example, farmers provide food and water, homemakers cook, tailors provide clothes, carpenters build shelters, blacksmiths build tools for farming and cooking, and so on. These would be the “farming business” (agriculture), the homemaking business (parenting), the clothing business (fashion and textile manufacturing), the carpentry business (general contractors, engineering, project management), tools, and so on.
-* But people are not just machines made of meat — they need “something to do. They need friendship, fun, art, religion, society, and entertainment. 
-
-
-</section><section data-markdown>
-
-**Hypothesis 3: Business is what keeps everyone “busy”**
-
-* Once everyone’s basic “necessary” needs are met, people need “something to do.” Religion, art, philosophy, science, sports, music, friends, and other “unnecessary” things. These things are not necessary for survival but necessary for humanity, necessary to thrive. 
-* So, divide and conquer: teachers and wise ones provide education, singers and story-tellers and actors provide entertainment, common meeting places such as houses, churches, and halls provide a place for society and culture. 
-* These are all businesses.
-* But what is the point of these things? 
 
 </section><section data-markdown>
 
 
-* Hypothesis 1: Making money
-* Hypothesis 2: Providing needs
-* Hypothesis 3: Business is what keeps everyone “busy” being human
-* **Hypothesis 4: Business is any human activity one can undertake and trade for some other good.** 
 
 </section><section data-markdown>
 
@@ -393,14 +262,6 @@ If we have time...
 8. Silence is OK too. 
 
 </section><section data-markdown>
-
-
-## 2 Minutes Left
-* Questions?
-* Write a short response: 
-* Read first handout! 
-
-Kreeft's essay is organized funny.
 
 </section>
 </section> <!--Wed end-->

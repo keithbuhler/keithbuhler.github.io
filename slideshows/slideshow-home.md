@@ -28,11 +28,10 @@ permalink: /slides/
 * [Week 5](https://docs.google.com/presentation/d/1n7xV3Kku4tNME5wfFetn-5q3ciqt6bwEGz3yCO9jdhc/edit?usp=sharing)
 * [Week 6](https://docs.google.com/presentation/d/1erxWdo5D1rlgPoseW4yE33-zHk2X7WCuFI-roVv_W4A/edit?usp=sharing)
 * [Week 7](https://docs.google.com/presentation/d/1VnRf3kNIHvuPd9RAOWrP3TVlKGR6AoxSc62kTo00Y0s/edit?usp=sharing)
-* https://docs.google.com/presentation/d/1hIzk8dfLircKW-9Yemd37OK4inNW3D-4-uov-Tj_qAQ/edit?usp=sharing
-* https://docs.google.com/presentation/d/19uda8A8CpEmdK_uL5hGVe8DfLvCswxodufSlFKKsjZ8/edit?usp=sharing
-* https://docs.google.com/presentation/d/1nP-FNHKbIAWb59OAdWaH4TQmRVMoJs_yy3cqAJEgCZ0/edit?usp=sharing
-* https://docs.google.com/presentation/d/1v8DnqgR0ka1ZXRheCGudtr8dwiVHsWPDDWttyRA-IEA/edit?usp=sharing
-* https://docs.google.com/presentation/d/1nwYyzuizN1CPGXXCxBA39PtGQw0L4O4-NztlWUXj3YY/edit?usp=sharing
-* https://docs.google.com/presentation/d/1aSTEQeEsapdRxa1EFWRBIuV3A3OftHRvqYFnHaO_Htg/edit?usp=sharing
-* https://docs.google.com/presentation/d/1KfLUJo2VhMpv13UZ1fNKjpbeKXqoe4fPDU5Trw7Yf9w/edit?usp=sharing
-* 
+* [Week 8](https://docs.google.com/presentation/d/1hIzk8dfLircKW-9Yemd37OK4inNW3D-4-uov-Tj_qAQ/edit?usp=sharing)
+* [Week 9](https://docs.google.com/presentation/d/19uda8A8CpEmdK_uL5hGVe8DfLvCswxodufSlFKKsjZ8/edit?usp=sharing)
+* [Week 10](https://docs.google.com/presentation/d/1nP-FNHKbIAWb59OAdWaH4TQmRVMoJs_yy3cqAJEgCZ0/edit?usp=sharing)
+* [Week 11](https://docs.google.com/presentation/d/1v8DnqgR0ka1ZXRheCGudtr8dwiVHsWPDDWttyRA-IEA/edit?usp=sharing)
+* [Week 12](https://docs.google.com/presentation/d/1nwYyzuizN1CPGXXCxBA39PtGQw0L4O4-NztlWUXj3YY/edit?usp=sharing)
+* [Week 13](https://docs.google.com/presentation/d/1aSTEQeEsapdRxa1EFWRBIuV3A3OftHRvqYFnHaO_Htg/edit?usp=sharing)
+* [Week 14](https://docs.google.com/presentation/d/1KfLUJo2VhMpv13UZ1fNKjpbeKXqoe4fPDU5Trw7Yf9w/edit?usp=sharing)
