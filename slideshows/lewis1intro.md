@@ -208,9 +208,7 @@ Was born in Belfast, Ireland.
 - Went to war with the British Army for 1 year.
 - Fought, was injured, and sent home.
 
-</section><section data-markdown>
-
-![Magdalen college](/images/oxford-magdalen.JPG)
+</section><section data-markdown data-background="/images/oxford-magdalen.JPG")
 
 - Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
 
