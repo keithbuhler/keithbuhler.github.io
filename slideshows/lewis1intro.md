@@ -204,6 +204,7 @@ Was born in Belfast, Ireland.
 </section><section data-markdown>
 
 ![Lewis at war](https://lanternhollow.files.wordpress.com/2011/04/lewis-wwi.jpg)
+
 - Went to war with the British Army for 1 year.
 - Fought, was injured, and sent home.
 
@@ -213,7 +214,7 @@ Was born in Belfast, Ireland.
 
 - Finished his studies at Oxford: received "firsts" Greek and Latin, "Greats" (Philosophy and Ancient History), and English
 
-</section><section data-background="oxford-lewis.jpg" data-markdown>
+</section><section data-background="oxford-lewis.JPG" data-markdown>
 
 - Became a philosophy tutor in 1924, at 26 years old, but could not find a full-time post.
 - Became a Fellow in English Literature at Magdalen College, Oxford, where he served for 29 years.
