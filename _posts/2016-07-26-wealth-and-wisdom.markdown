@@ -11,10 +11,9 @@ header:
 
 ---
 
+<img src="http://www.motivatingthemasses.com/wp-content/uploads/2016/06/wisdom_wealth_series.jpg"> Eryxias is a fascinating dialogue, regardless of authorship. It was written by Plato or pseudo-Plato. Socrates tries to convince a few young men that wealth is wisdom. Failing this, he tries to convince them that even the "wealthiest" person (by their standards) is the worst off because the person with many things has many needs. 
 
-Eryxias by Plato (or pseudo-Plato) is a fascinating dialogue, regardless of authorship. 
-
-It's points are these: 
+My summary of Eryxia's main points are these: 
 
 1. Wisdom is wealth, because it is useful and can be traded for food and bodily needs.
 2. Gold, silver, money, horses, etc. -- things considered wealth -- are useless without wisdom, because they might be just as likeley applied poorly as well. 

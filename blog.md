@@ -2,14 +2,14 @@
 title: "The Buhler Report"
 layout: splash
 permalink: /blog/
-date: 2016-03-23T11:48:41-04:00
+date: 2016-07-27T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: blog-header-uk-large.jpg
   cta_label: "Follow"
   cta_url: "https://www.keithbuhler.com/blog"
-  caption: "[UK]](http://www.uky.edu/)"
+  caption: "[UK](http://www.uky.edu/)"
 excerpt: "Thoughtful reflection on timeless truths and current events."
 intro: 
   - excerpt: ''
