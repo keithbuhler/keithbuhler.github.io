@@ -1,4 +1,3 @@
-@@ -0,0 +1,63 @@
 ---
 title: "The Buhler Report"
 layout: splash
