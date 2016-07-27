@@ -42,7 +42,7 @@ feature_row2:
     url: "http://www.inklings.info"
     btn_label: "Get an Inkling"
     btn_class: "btn--inverse"
-  - image_path: alvin-plantinga.jpg
+  - image_path: fun-plantinga.png
     alt: "Advice"
     title: "Advice to Christian Philosophers.com"
     excerpt: "Interviews with big name philosophers"
