@@ -1,8 +1,11 @@
 ---
 layout: splash
-title: Keith Buhler, Philosophy | Anyone...? Anyone...? Buhler? 
+title: keithbuhler.com 
 header: 
-      image: blog-header-uk-large.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: blog-header-uk-large.jpg
+  excerpt: Anyone? Buhler? 
 --- 
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="40px" align="right"> 
