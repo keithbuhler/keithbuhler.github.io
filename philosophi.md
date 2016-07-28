@@ -3,8 +3,6 @@ title: Philosophy Portal
 layout: philosophy
 --- 
 
-<img src="/images/pythagoras-small.jpg" alt="Pythagoras">
-
 ![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")
 
 So you're taking philosophy? Awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
@@ -33,3 +31,14 @@ At the same time, philosopy can be difficult. You will get out what you put in. 
 7. If none of that will do, then read about Mary Shelly, one of the first modern female philosophers.
 
 <a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
+
+### Q&A: 
+
+1. Why study philosophy?
+2. What will I study in philosophy?
+3. How do I succeed in philosophy?
+4. Should I take a second class?
+5. Should I consider adding a minor in philosophy?
+6. Should I consider majoring in philosophy?
+7. Should I consider graduate school in philosophy?
+8. Should I consider becoming a professional academic philosopher?
