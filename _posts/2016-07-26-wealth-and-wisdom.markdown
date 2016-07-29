@@ -1,6 +1,6 @@
 ---
 title: Wealth and Wisdom
-layout: single
+layout: post
 categories: [philosophy]
 tags: [philosophy, wisdom]
 permalink: 
