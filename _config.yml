@@ -1,69 +1,53 @@
-# Site settings
- locale:         "en"
- title:          "keithbuhler.com"
- name:           "Keith Buhler"
- description:    "The professional website of Keith Buhler, philosopher and educator. For other uses, see disambiguation."
- url:            "http://www.keithbuhler.com"
- gh_repo:        "https://github.com/keithbuhler/keithbuhler.github.io"
- teaser           : "bio-photo.png"
- words_per_minute : 200
- email:          "keithedbuhler@gmail.com"
- comments: 
-  provider:       "disqus"
-  disqus:         "keithbuhler"
+title:            keithbuhler.com
+description:      Professional site of the philosopher and classical teacher.
+disqus_shortname: thebuhlerreport
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:      https://keithbuhler.github.io/
+
+# Owner/author information
+owner:
+  name:           Keith Buhler
+  avatar:         avatar.png
+  bio:            "Philosopher, educator, and author"
+  email:          keithedbuhler.
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       https://www.facebook.com/keithedbuhler
+  github:         https://github.com/keithbuhler/
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  youtube:      https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:  +KeithBuhler
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-71712734-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
 
 
-# Site Author
-author:
-  name             : "Keith B"
-  avatar           : "keithbuhler-bw-small.png" 
-  bio              : "Philosopher, educator, author, Duck-billed Platypus"
-  location         : "Wilmore, KY"
-  email            : "keithedbuhler@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "kedbuhler"
-  foursquare       :
-  github           : "keithbuhler"
-  google_plus      : "https://plus.google.com/u/0/102602916593522619858"
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "keith_buhler"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
 
-
-# Build settings
-markdown:       kramdown
-markdown_ext:   markdown,mkdown,mkdn,mkd,md
-encoding:       utf-8
-
-# SEO Related empty
-
-
-# Social networking links used in footer. Update and remove as you like.
-
-  og_image:       aristotle50.bmp
-
-# Analytics for Google would go here UA-71712734-1
+timezone:    America/New_York
+future:      true
+highlighter: rouge
 
 # Gems
 
 gems: [jekyll-paginate]
-  -jekyll-sitemap
-  -jekyll-feed
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+sass:
+  sass_dir: _sass
+  style: compressed
+
 
 # For categories and tags
 category_archive:
@@ -95,6 +79,14 @@ paginate: 5
 paginate_path: /page:num/
 timezone:     America/New_York   
 
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
 collections:
   papers:
