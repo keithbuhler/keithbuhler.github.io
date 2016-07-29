@@ -1,11 +1,13 @@
-title:            keithbuhler.com
-description:      Professional site of the philosopher and classical teacher.
+# Site settings
+ locale:         "en"
+ title:          "keithbuhler.com"
+ description:      Professional site of the philosopher and classical teacher.
 disqus_shortname: thebuhlerreport
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:      https://keithbuhler.github.io/
+ url:      https://keithbuhler.github.io/
 
 # Owner/author information
 owner:

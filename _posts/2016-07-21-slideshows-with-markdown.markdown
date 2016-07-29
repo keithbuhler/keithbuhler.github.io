@@ -8,7 +8,7 @@ comments: true
 author_profile: true
 header: 
     image: 
-excerpt: Since I started doing my website with Jekyll, I've started writing *everything* in Markdown: [papers](https://raw.githubusercontent.com/keithbuhler/keithbuhler.github.io/master/_papers/hegel-paper.md), journals, [syllabi](/syllabus200), and of course web pages.  What can't it do? Can it replace Powerpoint? Sure can do.
+excerpt: Since I started doing my website with Jekyll, I've started writing *everything* in Markdown -- [papers](https://raw.githubusercontent.com/keithbuhler/keithbuhler.github.io/master/_papers/hegel-paper.md), journals, [syllabi](/syllabus200), and of course web pages.  What can't it do? Can it replace Powerpoint? Sure can do.
 ---
 
 <img src="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" width="400" height="380">
