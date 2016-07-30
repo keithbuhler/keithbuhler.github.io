@@ -4,7 +4,7 @@ layout: post
 comments: true
 tags: [comedy, humor]
 author_profile: true
-excerpt: It's summertime now, so caffiene addicts like myself sometimes don't want a steamy cup of joe. We'd rather enjoy a cool, refreshing glass of iced coffee. I've been perfecting my iced coffee recipe now for more than 15 ~~years~~ minutes now. I'll pass it along to you. 
+excerpt_separator: <!---more-->
 header:
   image: https://static.pexels.com/photos/6347/coffee-cup-working-happy-medium.jpg
 ---
@@ -27,6 +27,8 @@ I've been perfecting my iced coffee recipe now for more than 15 ~~years~~ minute
 10. Sip again. Still bad? Pour it out.
 12. Brew another pot of hot coffee.
 13. Drink the hot coffee.
+
+<!---more-->
 
 Enjoy!
 

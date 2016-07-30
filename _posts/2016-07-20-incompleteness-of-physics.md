@@ -6,15 +6,21 @@ tags: [philosophy, wisdom]
 permalink: 
 comments: true
 author_profile: true
+excerpt_separator: <!---more-->
 header:
     image: 
 ---
 
-<img src="http://i1.wp.com/dianasymons.com/wp-content/uploads/2013/10/window.jpg"> One of the philosophical topics I'm interested in is physicalism. [Physicalism is "the thesis that everything is physical."](http://plato.stanford.edu/entries/physicalism/) A recurring notion in physicalist literature is that the cosmos is causally closed and that physics is complete. 
+<img src="http://i1.wp.com/dianasymons.com/wp-content/uploads/2013/10/window.jpg"> 
+
+One of the philosophical topics I'm interested in is physicalism. [Physicalism is "the thesis that everything is physical."](http://plato.stanford.edu/entries/physicalism/) A recurring notion in physicalist literature is that the cosmos is causally closed and that physics is complete. 
 
 I've responded to the claim that the cosmos is closed in writing [here](https://www.academia.edu/16494174/Causal_Closure_Inductive_Arguments_or_Just_More_Question-Begging) and in a presentation [here.](https://www.youtube.com/watch?v=iocy6CAQ2_k) I don't build a case that the cosmos is open but do argue that the arguments that the cosmos is closed are... bad arguments. So at best I argue for causal agnosticism. 
 
 This post is about the notion of completeness. Is physics "complete"? [*Nature* (the journal) published an article late last year to the effect that physics is *not* complete.](http://www.nature.com/news/paradox-at-the-heart-of-mathematics-makes-physics-problem-unanswerable-1.18983) The intriguing article points to "Gödel’s incompleteness theorems" and the connection "to unsolvable calculations in quantum physics." Gödel's theorems (if true) show that some statements are in principle undecidable. The same might be true for some physical statements. The hard part is to distinguish between a proposition that is "undecided" and one that is *undeciable*.
+
+<!---more-->
+
 
 Is physics complete? I do not think so. Phrased like this, the question is ambiguous. First, step back and ask this: is the question of the completeness of physics a question of physics or not? 
 

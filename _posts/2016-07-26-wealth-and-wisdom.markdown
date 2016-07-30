@@ -8,10 +8,14 @@ comments: true
 author_profile: true
 header:
     image: 
+excerpt_separator: <!--more-->
+
 
 ---
 
-<img src="http://www.motivatingthemasses.com/wp-content/uploads/2016/06/wisdom_wealth_series.jpg"> Eryxias is a fascinating dialogue, regardless of authorship. It was written by Plato or pseudo-Plato. Socrates tries to convince a few young men that wealth is wisdom. Failing this, he tries to convince them that even the "wealthiest" person (by their standards) is the worst off because the person with many things has many needs. 
+<img src="http://www.motivatingthemasses.com/wp-content/uploads/2016/06/wisdom_wealth_series.jpg"> 
+
+Eryxias is a fascinating dialogue, regardless of authorship. It was written by Plato or pseudo-Plato. Socrates tries to convince a few young men that wealth is wisdom. Failing this, he tries to convince them that even the "wealthiest" person (by their standards) is the worst off because the person with many things has many needs. 
 
 My summary of Eryxia's main points are these: 
 
@@ -24,3 +28,6 @@ My summary of Eryxia's main points are these:
 7. Desires are lack of something; so the greater the desires and needs, the worse off you are. "A man is best off when he is least in need of such things."
 
 [Give it a read online. (It takes about 50 minutes of reading time.)](http://www.gutenberg.org/files/1681/1681-h/1681-h.htm)
+
+excerpt_separator: <!---more-->
+

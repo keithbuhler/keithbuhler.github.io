@@ -1,8 +1,10 @@
 ---
 title: Comic Book Girl 19's Take on Ghostbusters (2016)
 layout: post
-tags: [movies]
+tags: [movies, feminism]
 comments: true
+excerpt_separator: <!---more-->
+
 
 ---
 
@@ -16,10 +18,11 @@ Disclaimers:
 
 (b) I liked the originals but they are not in my top 10 or top 50. 
 
-Was not enourmous fan of original Ghostbusters. I was a little young for it, never watched 'em more than twice. Ranks up there with, maybe Speed as a movie I enjoyed but did not see more than once or twice. So I don't have a lot invested in a remake. 
+Was not an enormous fan of original Ghostbusters. Not that I *didn't* like it, but I was a little young for it. Never watched 'em more than twice. Ranks up there with, maybe *Speed* as a movie I enjoyed but did not see more than once or twice. So I don't have a lot invested in a remake. 
 
-To me the trailer for the new one looked... meh. The bruhaha over the movie interests me though. 
+To me the trailer for the new one looked... meh. The brouhaha over the movie interests me though. 
 
+<!---more-->
 
 UPDATE I: 
 
