@@ -13,12 +13,11 @@ permalink: /syllabus334
 
 #### Required Readings 
 - [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). 
-- Handout Week 2 [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp); [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
+- Handout Week 2 [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Morality.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 - Handout Week 3 [Utilitarianism](https://drive.google.com/open?id=1ajV9KYRrRDx67QJe8MqhfUle54WuaIvRoDTOalryu6Y)
 - Handout Week 4 [Kantian Deontology](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0RmbnRSSEtzRk0)
-- Handout Week 5 [ Virtue Ethics](https://drive.google.com/open?id=1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w)
+- Handout Week 5 [Virtue Ethics](https://drive.google.com/open?id=1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w)
 - Film Week 6 [Inside Job](http://www.sonyclassics.com/insidejob/)
-- 
 
 
 ### Course Description
@@ -195,9 +194,9 @@ M       Dec-5   Film
 W       Dec-7   Film  
 F       Dec-9   Last day UK  
 
-M       Dec-12  Finals Week UK 
-W       Dec-16  Paper Due by 11:59PM online.  
-F       Dec-18  Grades Due UK  
+M       Dec-12  Finals Week UK   
+W       Dec-16  Paper Due by 11:59PM online.    
+F       Dec-18  Grades Due UK    
 
 
 
@@ -209,13 +208,13 @@ F       Dec-18  Grades Due UK
 
 **Aug-24  W       Syllabus day.** Realistic expectations for this class. How to get an "A".     
 **Aug-26  F       Introduction to Business Ethics.** What is business ethics? What is an ethical business? Philosophy, in general, is a search for causes. Philosophers aim to prove what things are and why they are that way. Ethical philosophy is a search for the good. Ethicists aim to prove what ought to be done, and what avoided, and why. Science is the process of mapping the order of being; ethics is the process of mapping the "practical order", the order of doing.   
-**Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondance to reality. Other alleged definitions of truth presuppose the correspondance definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
-**Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism. He proves that the moral law is objective and knowable, like mathematical and logical laws. "   
-**Sep-2   F       "Basic Ethics: Religion & Reason Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
+**Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondence to reality. Other alleged definitions of truth presuppose the correspondence definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
+**Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism and argues that some moral laws are like mathematical and logical laws.   
+**Sep-2   F       "Basic Ethics: Religion & Reason**. Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
 **Sep-5   M       Labor Day -- no class**  
-**Sep-7   W       Basic Ethics: Utilitarianism.** John Stuart Mill and Jeremy Bentham resurrected a modern version of the ancient doctrine of Epicurus: that the only instrinsic good is pleasure. Hence, the one objective moral rule is that we ought to maximize pleasure. Make as many people happy as possible. Make everyone as happy as possible.  Alternately, reduce pain as much as possible.   
+**Sep-7   W       Basic Ethics: Utilitarianism.** John Stuart Mill and Jeremy Bentham resurrected a modern version of the ancient doctrine of Epicurus: that the only intrinsic good is pleasure. Hence, the one objective moral rule is that we ought to maximize pleasure. Make as many people happy as possible. Make everyone as happy as possible.  Alternately, reduce pain as much as possible.   
 **Sep-9   F       Discussion What is right about utilitarianism or consequentialism? What is wrong with it?
-**Sep-12  M       "Basic Ethics: Kantian Deontology.** Immanual Kant resurrected a modern version of the ancient doctrine of Stoicism: the only good is conformity to the moral law. The good will always wills the good. What is the good? Your duty. Always do your duty. How do you know your duty, what command or imperative should you obey?  Kant's "imperative" was a formal principle that should always be obeyed by rational creatures. It is categorical, not hypothetical. There are three expressions of his Categorical Imperative. Kantianism has come to be known as "deontology", the moral theory grounded in duty.  
+**Sep-12  M       "Basic Ethics: Kantian Deontology.** Immanuel Kant resurrected a modern version of the ancient doctrine of Stoicism: the only good is conformity to the moral law. The good will always wills the good. What is the good? Your duty. Always do your duty. How do you know your duty, what command or imperative should you obey?  Kant's "imperative" was a formal principle that should always be obeyed by rational creatures. It is categorical, not hypothetical. There are three expressions of his Categorical Imperative. Kantianism has come to be known as "deontology", the moral theory grounded in duty.  
 **Sep-14  W       "Basic Ethics: Deontology cont'd"**
 **Sep-16  F       "Discussion What is right about Kantianism? What is wrong?"
 **Sep-19  M       "Basic Ethics: Virtue Ethics Elizabeth Anscombe, Philippa Foot, Bernard Williams, and others resurrected a modern version of the ancient doctrine of Aristotle: that the good person is the virtuous person. Moral virtue is a mean between extremes of too much and too little,  while intellectual virtue is a consistency in knowing truth. "
