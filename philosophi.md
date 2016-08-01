@@ -7,7 +7,7 @@ layout: philosophy
 
 So you're taking philosophy? Awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
-At the same time, philosopy can be difficult. You will get out what you put in. This site is designed to help you make the most out your class. 
+At the same time, philosophy can be difficult. You will get out what you put in. This site is designed to help you make the most out your class. 
 
 ## Just Joined?
 

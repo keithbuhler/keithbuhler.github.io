@@ -3,10 +3,8 @@ title: PHD
 layout: single
 header: 
       image: rembrandt-sea-galilee1.bmp
-permalink: /phd/
+permalink: /phd
 ---
-
-# PHD
 
 Writing a dissertation can be fun. Brian Tracy says you eat an elephent one bite at a time. Students can read the story of how I approached this massive project [here.](/phd-how-to)
 
