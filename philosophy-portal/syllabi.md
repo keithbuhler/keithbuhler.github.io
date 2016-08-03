@@ -32,16 +32,4 @@ feature_row:
 {% include feature_row %}
 
 
-
-
-
-## Syllabi
-
-
-F2016 Business Ethics ([Syllabus](/syllabus334))  
-
-F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251)) 
-
-S2015 Introduction to Philosophy ([Syllabus](/syllabus200))  
-
-## [Slideshow Presentations](/slides)
+## [Slideshow Presentations (all classes)](/slides)
