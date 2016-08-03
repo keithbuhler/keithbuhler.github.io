@@ -12,15 +12,15 @@ feature_row:
     url: "http://www.keithbuhler.com/syllabus334"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
-  - image_path: syllabus-200.png
+  - image_path: syllabus-251.png
     alt: "CS Lewis"
-    title: "CS Lewis"
+    title: "Philosophy of CS Lewis"
     excerpt: "Asbury PHL 251 at 11am, MWF."
     url: "http://www.keithbuhler.com/syllabus251"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
   - image_path: syllabus-200.png
-    title: "Introduction to Philosophy"
+    title: "Introduction to Phil"
     excerpt: "Asbury PHL 200 at 9am, MWF"
     url: "http://www.keithbuhler.com/syllabus200"
     btn_label: "Syllabus"
