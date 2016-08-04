@@ -25,11 +25,10 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: fun-books3.png
-    alt: "Reading Intentionally"
-    title: "Reading Intentionally"
-    excerpt: "A proven plan to help you read more good books."
-    url: "http://www.readingintentionally.com/"
+- image_path: spiral-small.jpg
+    alt: "Classical Education"
+    title: "Classical Education 101"
+    excerpt: "Three distinctive features of classical education. Resources, links, and more."
     btn_label: "More"
     btn_class: "btn--inverse"
 feature_row2:
@@ -69,6 +68,12 @@ feature_row2:
 
 <br>
 
+### More Projects
+
+<figure>
+    <a href="http://www.readingintentionally.com/"> <img src="/images/fun-books3.png"> </a>  <figcaption> <b> Reading Intentionally: </b> A proven plan to help you read more good books.? </figcaption>
+</figure>
+
 
 <figure>
     <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>  <figcaption>  <b> My YouTube Channel</b>For discussion advice, philosophy talks, and comedy</figcaption>
@@ -81,21 +86,21 @@ feature_row2:
     </figure>
 
 <figure>
-    <a href="http://www.keithbuhler.com/meditation"><img src="/images/fun-meditation.jpg"> </a>
+    <a href="http://www.keithbuhler.com/buhlerreport/meditation"><img src="/images/fun-meditation.jpg"> </a>
     <figcaption> <b>Meditation:</b> How (and why) to practice the ancient art of stillness.  </figcaption>
 </figure>
 
 
 
 <figure>
-    <a href="http://www.keithbuhler.com/writings"><img src="/images/writing-notebook.jpg"></a>
+    <a href="http://www.keithbuhler.com/buhlerreport/writings"><img src="/images/writing-notebook.jpg"></a>
       <figcaption> </figcaption>
     </figure>
 
 
 
 <figure>
-    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  <figcaption> <b>Speeches</b> </figcaption>
+    <a href="http://www.keithbuhler.com/buhlerreport/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  <figcaption> <b>Speeches</b> </figcaption>
 </figure>
 
 
@@ -119,10 +124,15 @@ feature_row2:
 
 <figure>
     <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>  <figcaption> <b>Bio</b> </figcaption>
-    </figure>
+</figure>
+
 
 
 <figure>
    <a href=""> <img src="/images/"> </a> 
   <figcaption> <b></b> </figcaption>
 </figure>
+
+
+
+
