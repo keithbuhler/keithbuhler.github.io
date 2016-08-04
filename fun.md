@@ -25,10 +25,11 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: spiral-small.jpg
+  - image_path: fun-classical.png
     alt: "Classical Education"
     title: "Classical Education 101"
     excerpt: "Three distinctive features of classical education. Resources, links, and more."
+    url: "http://www.keithbuhler.com/buhlerreport/classical-education"
     btn_label: "More"
     btn_class: "btn--inverse"
 feature_row2:
