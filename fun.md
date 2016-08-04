@@ -71,15 +71,16 @@ feature_row2:
 
 <figure>
     <a href="http://www.readingintentionally.com/"> <img src="/images/fun-books3.png"> </a>  
-    <p><figcaption> <b> Reading Intentionally: </b> &nbsp; A proven plan to help you read more good books. </figcaption><p>
+    <p><figcaption> <b> Reading Intentionally: </b> &nbsp; A proven plan to help you read more good books. </figcaption></p>
 </figure>
 
 <br>
 
 <figure>
     <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>  
-    <figcaption>  <b> My YouTube Channel</b>For discussion advice, philosophy talks, and comedy</figcaption>
+    <figcaption>  <b> My YouTube Channel:</b> &nbsp; For discussion advice, philosophy talks, and comedy</figcaption>
 </figure>
+
 
 <br>
 
@@ -92,7 +93,7 @@ feature_row2:
 <br>
 
 <figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/writings"><img src="/images/fun-writings.jpg"></a>
+    <a href="http://www.keithbuhler.com/writings"><img src="/images/fun-writings.jpg"></a>
       <figcaption> <b> Writings </b>:  &nbsp; Fiction, poetry, and screenplays. </figcaption>
 </figure>
 

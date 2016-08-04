@@ -1,6 +1,6 @@
 ---
 title: Writings | Fiction and Non-Fiction
-layout: post
+layout: single
 permalink: /writings/
 ---
 
@@ -61,7 +61,6 @@ This site captures a few of my articles, short stories, fairy tales, screenplays
 * [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
 * [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
 * [Is Beauty Objective?](/is-beauty-objective)
-*
 
 ### Film and Music Criticism
 * [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
