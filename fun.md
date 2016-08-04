@@ -19,12 +19,13 @@ feature_row:
     url: "http://www.keithbuhler.com/buhlerreport"
     btn_label: "Read"
     btn_class: "btn--inverse"
-  - image_path: pythagoras-small.jpg
+  - image_path: pythagoras-pyramid.png
     title: "Philosophy Portal"
     excerpt: "For my students and others interested in philosophy"
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
+feature_row2:
   - image_path: fun-books3.png
     alt: "Reading Intentionally"
     title: "Reading Intentionally"
@@ -32,20 +33,20 @@ feature_row:
     url: "http://www.readingintentionally.com/"
     btn_label: "More"
     btn_class: "btn--inverse"
-feature_row2:
-  - image_path: fun-lewis.png
-    alt: "The Inklings"
-    title: "Inklings.info"
-    excerpt: "Information, books, and lists about the Oxford Dons"
-    url: "http://www.inklings.info"
-    btn_label: "Get an Inkling"
-    btn_class: "btn--inverse"
   - image_path: fun-plantinga.png
     alt: "Advice"
     title: "Advice to Christian Philosophers"
     excerpt: "Interviews with big name philosophers"
     url: "http://bit.ly/22o8m7j"
     btn_label: "Read"
+    btn_class: "btn--inverse"
+feature_row3:
+ - image_path: fun-lewis.png
+    alt: "The Inklings"
+    title: "Inklings.info"
+    excerpt: "Information, books, and lists about the Oxford Dons"
+    url: "http://www.inklings.info"
+    btn_label: "Get an Inkling"
     btn_class: "btn--inverse"
   - image_path: fun-newton.png
     title: "Philosophy is Science"
@@ -67,13 +68,26 @@ feature_row2:
 
 {% include feature_row id="feature_row2"  %}
 
+{% include feature_row id="feature_row3"  %}
+
 <br>
 
-<figure class="half">
+<figure>
     <a href="http://www.keithbuhler.com/meditation"><img src="/images/fun-meditation.jpg"> </a>
-    <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
-    <figcaption> <b>Meditation:</b>How and why to practice the ancient art of stillness. | <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.  </figcaption>
+    <figcaption> <b>Meditation:</b>How and why to practice the ancient art of stillness.  </figcaption>
 </figure>
+
+<figure>
+   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
+  <figcaption> <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
+    </figure>
+
+
+
+<figure>
+   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
+  <figcaption> <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
+    </figure>
 
 <figure class="half">
     <a href="https://github.com/keithbuhler/keithbuhler.github.io/"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"></a>
@@ -91,6 +105,6 @@ feature_row2:
 
 
 <figure class="half">
-    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-small.png"> </a>
+    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>
     <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>
     <figcaption><b>Bio</b> and <b> YouTube Channel</b>For discussion advice, philosophy talks, and comedy</figcaption>
