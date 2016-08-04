@@ -5,7 +5,9 @@ permalink: /speaking/
 
 ---
 
-Keith Buhler brings a thoughtful, funny, and inspiring communication to your event. He has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and taught middle school, high school, college, and adults. 
+Keith Buhler brings thoughtful, funny, and inspiring energy to your event. 
+
+He has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and taught middle school, high school, college, and adults. 
 
 [Contact here (subject "speaking engagement info") to learn more.](emailto:keithedbuhler@gmail.com)
 
@@ -15,9 +17,9 @@ Keith Buhler brings a thoughtful, funny, and inspiring communication to your eve
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
 2013&nbsp;&nbsp; "Reading is Classical Education", Veritas Christian Academy.  
 2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' *Abolition of Man*", Torrey Academy.   
-2012 &nbsp;&nbsp; ["How Vainglory Ruins Marriage -- Harriet Vane in Dorothy Sayers' *Gaudy Night*", Torrey Academy.](https://www.dropbox.com/s/baq7fde4kavyvb5/CL%20Keith%20Buhler-Harriet%20Vane-Glory.mp3?dl=0) (and [Q&A](https://www.dropbox.com/s/95yi0s2yjzdbgdz/CL%20Keith%20Buhler-Harriet%20Vane-Glory%20%28Q%26A%29.mp3?dl=0)) 
+2012 &nbsp;&nbsp; ["How Vainglory Ruins Marriage -- Harriet Vane in Dorothy Sayers' *Gaudy Night*", Torrey Academy.](https://www.dropbox.com/s/baq7fde4kavyvb5/CL%20Keith%20Buhler-Harriet%20Vane-Glory.mp3?dl=0) (and [Q&A](https://www.dropbox.com/s/95yi0s2yjzdbgdz/CL%20Keith%20Buhler-Harriet%20Vane-Glory%20%28Q%26A%29.mp3?dl=0))   
 2011 &nbsp;&nbsp; "Pain and Suffering", St Barnabas Orthodox Church.    
-2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.  
+2011 &nbsp;&nbsp; "Does Love Cover a Multitude of Sins?", Hope Academy.    
 2011 &nbsp;&nbsp; "How to Lose your Faith: Ten Tips", Hope Academy.  
 2011 &nbsp;&nbsp; "Hope vs. the Endless Cycle of Desire", Hope Academy.  
 2011 &nbsp;&nbsp; "The Divided Self", Hephatha Lutheran Church.     
@@ -28,6 +30,12 @@ Keith Buhler brings a thoughtful, funny, and inspiring communication to your eve
 2009 &nbsp;&nbsp; "Sanctification: is it Possible on Earth?", Hope Academy.     
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
+#### Academic Talks (video)
+1. ["Is the Physical Cosmos Closed to Outside Causes?"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
+2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
+3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
+4. [Is the Cosmos Teleological? Teleology without Theology in Thomas Nagel's *Mind and Cosmos*](https://www.youtube.com/watch?v=Wk3E68UGYVk)
+
 
 #### Popular Talks (audio) ####
 
@@ -36,15 +44,4 @@ Coming soon
 #### Popular Talks (transcript)
 
 Coming soon
-
-## Speaking Engagements ##
-
-[Need to invite a speaker to your event?](/speaking-engagements)
-
-
-#### Academic Talks (video)
-1. ["Is the Physical Cosmos Closed to Outside Causes?"](https://www.youtube.com/watch?v=iocy6CAQ2_k)
-2. [Is Kung Fu Panda a Nihilistic Fairy Tale?](https://www.youtube.com/watch?v=5BFtrYs5V64)
-3. [Is Appeal to Authority a Fallacy?](https://www.youtube.com/watch?v=-AWvFMnKJlE)
-4. [Is the Cosmos Teleological? Teleology without Theology in Thomas Nagel's *Mind and Cosmos*](https://www.youtube.com/watch?v=Wk3E68UGYVk)
 

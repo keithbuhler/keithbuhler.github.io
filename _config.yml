@@ -11,15 +11,15 @@ words_per_minute: 200
  baseurl:   
 
 # Owner/author information
-owner:
+author:
   name:           Keith Buhler
   avatar:         avatar.png
   bio:            "Philosopher, educator, and author"
   email:          keithedbuhler.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       https://www.facebook.com/keithedbuhler
-  github:         https://github.com/keithbuhler/
+  twitter:        Keith_Buhler
+  facebook:       keithedbuhler
+  github:         keithbuhler
   stackexchange:  
   linkedin:       
   instagram:      

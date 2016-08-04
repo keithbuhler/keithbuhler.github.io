@@ -71,14 +71,17 @@ feature_row2:
 
 <figure>
     <a href="http://www.readingintentionally.com/"> <img src="/images/fun-books3.png"> </a>  
-    <figcaption> <b> Reading Intentionally: </b> &nbsp; A proven plan to help you read more good books. </figcaption>
+    <p><figcaption> <b> Reading Intentionally: </b> &nbsp; A proven plan to help you read more good books. </figcaption><p>
 </figure>
 
+<br>
 
 <figure>
     <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>  
     <figcaption>  <b> My YouTube Channel</b>For discussion advice, philosophy talks, and comedy</figcaption>
 </figure>
+
+<br>
 
 
 <figure>
@@ -86,17 +89,15 @@ feature_row2:
   <figcaption> <b> Sola Scriptura: A Dialogue:</b>  &nbsp; My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
     </figure>
 
-<figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/meditation"><img src="/images/fun-meditation.jpg"> </a>
-    <figcaption> <b>Meditation:</b>  &nbsp; How (and why) to practice the ancient art of stillness.  </figcaption>
-</figure>
-
-
+<br>
 
 <figure>
     <a href="http://www.keithbuhler.com/buhlerreport/writings"><img src="/images/fun-writings.jpg"></a>
       <figcaption> <b> Writings </b>:  &nbsp; Fiction, poetry, and screenplays. </figcaption>
 </figure>
+
+<br>
+
 
 <figure>
     <a href="http://www.keithbuhler.com/buhlerreport/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  
@@ -104,36 +105,33 @@ feature_row2:
 </figure>
 
 
+<br>
 
 <figure>
     <a href="http://www.keithbuhler.com/buhlerreport/meditation"><img src="/images/fun-meditation.jpg"> </a>
     <figcaption> <b>Meditation:</b>  &nbsp; How (and why) to practice the ancient art of stillness.  </figcaption>
 </figure>
 
+<br>
+
 <figure>
     <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither.png"> </a>
   <figcaption> <b> Art: </b>  Drawings, paintings, and pumpkins </figcaption>
 </figure>
 
+<br>
 
 <figure>
-   <a href="https://github.com/keithbuhler/keithbuhler.github.io/"> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"> </a>
+   <a href="https://github.com/keithbuhler/"> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"> </a>
   <figcaption> <b>Github</b> My Github repos (including this site!)  </figcaption>
 </figure>
 
+<br>
 
 <figure>
     <a href="http://www.keithbuhler.com/buhlerreport/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>  
     <figcaption> <b>Bio</b>:  &nbsp; A little more about me. </figcaption>
 </figure>
 
-
-
-<figure>
-   <a href=""> <img src="/images/"> </a> 
-  <figcaption> <b></b> </figcaption>
-</figure>
-
-
-
+<br>
 
