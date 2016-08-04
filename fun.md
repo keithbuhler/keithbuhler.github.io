@@ -25,7 +25,6 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
-feature_row2:
   - image_path: fun-books3.png
     alt: "Reading Intentionally"
     title: "Reading Intentionally"
@@ -33,20 +32,20 @@ feature_row2:
     url: "http://www.readingintentionally.com/"
     btn_label: "More"
     btn_class: "btn--inverse"
+feature_row2:
+  - image_path: fun-lewis.png
+    alt: "The Inklings"
+    title: "Inklings.info"
+    excerpt: "Information, books, and lists about the Oxford Dons"
+    url: "http://www.inklings.info"
+    btn_label: "Get an Inkling"
+    btn_class: "btn--inverse"
   - image_path: fun-plantinga.png
     alt: "Advice"
     title: "Advice to Christian Philosophers"
     excerpt: "Interviews with big name philosophers"
     url: "http://bit.ly/22o8m7j"
     btn_label: "Read"
-    btn_class: "btn--inverse"
-feature_row3:
- - image_path: fun-lewis.png
-    alt: "The Inklings"
-    title: "Inklings.info"
-    excerpt: "Information, books, and lists about the Oxford Dons"
-    url: "http://www.inklings.info"
-    btn_label: "Get an Inkling"
     btn_class: "btn--inverse"
   - image_path: fun-newton.png
     title: "Philosophy is Science"
@@ -68,8 +67,6 @@ feature_row3:
 
 {% include feature_row id="feature_row2"  %}
 
-{% include feature_row id="feature_row3"  %}
-
 <br>
 
 <figure>
@@ -81,7 +78,6 @@ feature_row3:
    <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
   <figcaption> <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
     </figure>
-
 
 
 <figure>
