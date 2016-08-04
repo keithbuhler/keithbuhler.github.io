@@ -25,7 +25,7 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
-- image_path: spiral-small.jpg
+  - image_path: spiral-small.jpg
     alt: "Classical Education"
     title: "Classical Education 101"
     excerpt: "Three distinctive features of classical education. Resources, links, and more."
@@ -58,11 +58,9 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-<br>
 
 {% include feature_row %}
 
-<br>
 
 {% include feature_row id="feature_row2"  %}
 
@@ -100,7 +98,7 @@ feature_row2:
 
 
 <figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  <figcaption> <b>Speeches</b> </figcaption>
+    <a href="http://www.keithbuhler.com/buhlerreport/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  <figcaption> <b>For speaking engagements</b> </figcaption>
 </figure>
 
 
