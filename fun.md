@@ -69,38 +69,60 @@ feature_row2:
 
 <br>
 
+
+<figure>
+    <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>  <figcaption>  <b> My YouTube Channel</b>For discussion advice, philosophy talks, and comedy</figcaption>
+</figure>
+
+
+<figure>
+   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
+  <figcaption> <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
+    </figure>
+
 <figure>
     <a href="http://www.keithbuhler.com/meditation"><img src="/images/fun-meditation.jpg"> </a>
-    <figcaption> <b>Meditation:</b>How and why to practice the ancient art of stillness.  </figcaption>
-</figure>
-
-<figure>
-   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
-  <figcaption> <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
-    </figure>
-
-
-<figure>
-   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
-  <figcaption> <b> Sola Scriptura: A Dialogue</b> My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
-    </figure>
-
-<figure class="half">
-    <a href="https://github.com/keithbuhler/keithbuhler.github.io/"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"></a>
-    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither.png"> </a>
-    <figcaption> My Github repos (including this site) | <b> Art :</b> Drawings, paintings, and pumpkins </figcaption>
+    <figcaption> <b>Meditation:</b> How (and why) to practice the ancient art of stillness.  </figcaption>
 </figure>
 
 
-<figure class="half">
+
+<figure>
     <a href="http://www.keithbuhler.com/writings"><img src="/images/writing-notebook.jpg"></a>
-    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>
-    <figcaption> <b> Writings</b>: Fiction, reviews, and screenplays | <b> Speaking </b> speeches.</figcaption>
+      <figcaption> </figcaption>
+    </figure>
+
+
+
+<figure>
+    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  <figcaption> <b>Speeches</b> </figcaption>
 </figure>
 
 
 
-<figure class="half">
-    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>
-    <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>
-    <figcaption><b>Bio</b> and <b> YouTube Channel</b>For discussion advice, philosophy talks, and comedy</figcaption>
+<figure>
+    <a href="http://www.keithbuhler.com/meditation"><img src="/images/fun-meditation.jpg"> </a>
+    <figcaption> <b>Meditation:</b> How (and why) to practice the ancient art of stillness.  </figcaption>
+</figure>
+
+<figure>
+    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither.png"> </a>
+  <figcaption> <b> Art: </b>  Drawings, paintings, and pumpkins </figcaption>
+</figure>
+
+
+<figure>
+   <a href="https://github.com/keithbuhler/keithbuhler.github.io/"> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"> </a>
+  <figcaption> Github repos for my websites (including this one!)  </figcaption>
+</figure>
+
+
+<figure>
+    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>  <figcaption> <b>Bio</b> </figcaption>
+    </figure>
+
+
+<figure>
+   <a href=""> <img src="/images/"> </a> 
+  <figcaption> <b></b> </figcaption>
+</figure>
