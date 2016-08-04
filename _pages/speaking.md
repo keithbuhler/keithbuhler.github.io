@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Speaking
+title: Speaking Engagements
 permalink: /speaking/
 
 ---
-### Need to invite a speaker?  ###
 
-Keith Buhler would be an excellent speaker at your event. He is a thoughtful, funny, and inspiring communicator who has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and taught middle school, high school, college, and adults. 
+Keith Buhler brings a thoughtful, funny, and inspiring communication to your event. He has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and taught middle school, high school, college, and adults. 
 
 [Contact here (subject "speaking engagement info") to learn more.](emailto:keithedbuhler@gmail.com)
 

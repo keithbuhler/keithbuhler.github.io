@@ -1,10 +1,7 @@
 ---
-title: Student Evaluations
-permalink: http://keithbuhler.com/student-feedback
+title: Student Feedback, the Good and Bad
+permalink: /student-feedback
 ---
-
-# Student Feedback
-
 
 ## Good
 

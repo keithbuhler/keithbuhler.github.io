@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Disambiguation
-permalink: /disambiguation
+permalink: /disambiguation/
 --- 
 
 ## Redirected from kiθ bulər (disambiguation)[^1]

@@ -4,10 +4,13 @@ layout: post
 permalink: /writings/
 ---
 
-I am a devout amateur. My writings have been published online and in print. But I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
+My writings have been published online and in print. But I am a devout amateur: I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
 
-I have been composing poetry, fiction, and writing essays for many years. Right now, I'm taking a break from such things to write my [dissertation](/phd). Hopefully one day soon I will get back to it. This site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
+I have been composing poetry, fiction, and writing essays for many years. 
 
+Right now, I'm taking a break from such things to write my [dissertation](/phd). Hopefully one day soon I will get back to it. 
+
+This site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
 
 
 

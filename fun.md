@@ -1,6 +1,7 @@
 ---
 title: "Sandbox"
 layout: splash
+permalink: /fun/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -26,8 +27,8 @@ feature_row:
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: fun-discussion.png
-    title: "BuhlerTube"
-    excerpt: "Discussion advice, philosophy talks, and comedy"
+    title: "YouTube Channel"
+    excerpt: "For discussion advice, philosophy talks, and comedy"
     url: "https://www.youtube.com/watch?v=yU9_t1sS6ws"
     btn_label: "Watch"
     btn_class: "btn--inverse"
@@ -91,18 +92,26 @@ feature_row4:
 {% include feature_row id="feature_row4" type="center" %}
 
 <br>
+<figure class="third">
+    <a href="http://www.keithbuhler.com/meditation"><img src="/images/fun-meditation.jpg"> </a>
+    <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
+    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-withersmall.jpg"> </a>
+    <figcaption> Meditation, Scripture, and Art </figcaption>
+</figure>
 
-    -image_path: https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png
-    alt: "Github"
-    title: "Github Code"
-    excerpt: "You can view the code for this website and my other sites."
-    url: "https://github.com/keithbuhler/keithbuhler.github.io/"
+<figure class="third">
+    <a href="https://github.com/keithbuhler/keithbuhler.github.io/"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"></a>
+    <a href="http://www.keithbuhler.com/philosophyportal"><img src="/images/fun-wither.png"> </a>
+    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither.png"> </a>
+    <figcaption> Meditation, Scripture, and Art </figcaption>
+</figure>
 
-    feature_row5:
-  - image_path: fun-wither.png
-    alt: "Philosophy"
-    title: "Philosophy"
-    excerpt: 'Resources, advice, and links'
-    url: "http://www.keithbuhler.com/philosophyportal"
-    btn_label: "read"
-    btn_class: "btn--inverse"
+
+
+<figure class="third">
+    <a href="http://www.keithbuhler.com/writings"><img src="/images/writing-notebook.jpg"></a>
+    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>
+    <a href="http://www.keithbuhler.com/bio"> <img src="/images/keithbuhler-bw-small.png"> </a>
+    <figcaption> Writings, speeches, and bio.</figcaption>
+</figure>
+
