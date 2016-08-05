@@ -24,5 +24,3 @@ The good news is that [studying philosophy is VERY GOOD IDEA](/philosophyportal/
 </center>
 
 <br>
-
-<br>
