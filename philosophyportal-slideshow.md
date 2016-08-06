@@ -84,9 +84,11 @@ Here are some good, accessible yet challenging classics.
 
 </section><section data-markdown>
 
-## No, Seriously, I *Really* Like Philosophy; What Should I Do?
+## "No, Seriously, I *Really* Like Philosophy...
 
-<a target="_blank" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052%3Abook%3D7%3Asection%3D1028a"><img src="/images/wonka-metaphysics.jpeg" alt="condescending wonka philosopher"></a>
+### What Should I Do?"
+
+![wonka](/images/wonka-metaphysics.jpeg)
 
 You'll get the burn that only philosophy can give you.
 
