@@ -5,10 +5,11 @@ theme: white
 --- 
 
 <section><!--begin slideshow-->
-<section data-background="/images/pythagoras-small.jpg" data-markdown>
+<section data-markdown>
 
+![Pythagoras](/images/pythagoras-small.jpg)
 
-<h1 style="color:white;"> So you're taking philosophy? Awesome. </h1>
+## So you're taking philosophy? Awesome.
 
 </section><section data-markdown>
 
