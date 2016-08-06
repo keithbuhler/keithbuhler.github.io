@@ -7,9 +7,11 @@ author_profile: false
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-I have been teaching full time in universities or classical high schools for more than 8 years. I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed courses in humanities, Great Books, and western civilization.
+For more than 8 years, I've successfully helped learners of all ages to grow and flourish by using immersive Socratic dialogue, great books, and humor. Check out my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
 
 At the University of Kentucky and Asbury University, I've taught introduction to philosophy, ethics, bioethics, virtue ethics, and philosophy of religion. Students enjoy my enthusiasm for the subject and personable approach to classroom discussion.  
+
+Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed courses in humanities, Great Books, and western civilization.
 
 ### Teaching Statement
 

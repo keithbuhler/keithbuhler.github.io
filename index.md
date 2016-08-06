@@ -10,21 +10,20 @@ excerpt: Anyone? Buhler?
 
 <img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="40px" align="right"> 
 
-I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and a philosophy instructor at Asbury University. 
+I am a philosopher, classical educator, and writer. 
 
-I've been teaching in universities or classical high schools for [8+ years](/cv). I use immersive Socratic dialogue, great books, and humor to help learners of all ages grow and flourish. My [research](/research) centers on virtue ethics and ethical naturalism, especially in writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. 
+I'm currently a PhD candidate in philosophy at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) where I'm finishing a dissertation on contemporary analytic virtue ethics in writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. 
 
-In my 45 minutes per month of spare time, I like clay sculpting, writing fiction, and [composing lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
+For more than 8 years, I've successfully helped learners of all ages to grow and flourish by using immersive Socratic dialogue, great books, and humor. 
 
-* [Academia.edu](https://uky.academia.edu/KeithBuhler)
-* [PhilPapers](http://philpapers.org/profile/47267)
-* [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) 
- 
+In my 45 minutes per month of spare time, I like to draw, sculpt, write fiction, and [compose lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
+
+* Peruse my [curriculum vitae](/cv)
+* Learn about my [courses](/teaching) and [research](/research)
+* Or enter the [Student Portal](/students) 
 
 *This site is about the philosopher. For other uses, see [Buhler (disambiguation)](/disambiguation).*
 
-
-<br>
 <br>
 <br>
 
