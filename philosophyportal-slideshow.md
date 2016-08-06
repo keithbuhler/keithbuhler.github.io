@@ -5,9 +5,8 @@ theme: white
 --- 
 
 <section><!--begin slideshow-->
-<section data-background="/images/ireland-lismore-castle-county-waterford.jpg" data-markdown>
+<section data-background="/images/pythagoras-small.jpg" data-markdown>
 
-![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")
 
 ### So you're taking philosophy? Awesome. 
 
@@ -21,15 +20,15 @@ theme: white
 
 ### Click the statement that best represents you. 
 
-1. ["I just added your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/3)
-2. ["I am trying to do well in your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/4)
-3. ["I just finished your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/5)
-4. ["I'm just checking your philosophy site out."](http://www.keithbuhler.com/philosophyportal-slideshow#/6)
-5. ["I want some philosophy reading recommendations."](http://www.keithbuhler.com/philosophyportal-slideshow#/7)
-6. ["I'm thinking about majoring in philosophy."](http://www.keithbuhler.com/philosophyportal-slideshow#/9)
-7. ["I'm thinking about graduate school in philosophy."](http://www.keithbuhler.com/philosophyportal-slideshow#/10)
-8. ["I want to contact you to talk about something."](http://www.keithbuhler.com/philosophyportal-slideshow#/11)
-7. ["I'm not sure why I'm here."](http://www.keithbuhler.com/philosophyportal-slideshow#/12)
+1. ["I just added your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/3)
+2. ["I am trying to do well in your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/4)
+3. ["I just finished your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/5)
+4. ["I'm just checking your philosophy site out."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/6)
+5. ["I want some philosophy reading recommendations."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/7)
+6. ["I'm thinking about majoring in philosophy."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/9)
+7. ["I'm thinking about graduate school in philosophy."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/10)
+8. ["I want to contact you to talk about something."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/11)
+7. ["I'm not sure why I'm here."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/12)
 
 *Or scroll down.* 
 
@@ -103,7 +102,7 @@ You'll get the burn that only philosophy can give you.
 
 </section><section data-markdown>
 
-### 6. "I'm considering majoring in philosophy."
+### "I'm considering majoring in philosophy."
 
 - You *should* consider it.
 - Believe it or not, studying philosophy can help you to [find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophyportal/philosophy-3-major)
@@ -113,7 +112,7 @@ You'll get the burn that only philosophy can give you.
 
 </section><section data-markdown>
 
-### 7. "I'm thinking about graduate school in philosophy."
+### "I'm thinking about graduate school in philosophy."
 
 Being a professional academic is not for everyone. Is it for you? 
 * [Here's my story](/phd-how-to) about applying and working through graduate school.
@@ -125,7 +124,7 @@ Being a professional academic is not for everyone. Is it for you?
 </section><section data-markdown>
 
 
-### 7. "I'm thinking about graduate school in philosophy."
+###  "I'm thinking about graduate school in philosophy."
 
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, and the bad. 
 * [Why women stay (or leave) philosophy](http://quod.lib.umich.edu/p/phimp/3521354.0016.006/1) A case that the philosophical field is sexist.
@@ -138,7 +137,7 @@ Being a professional academic is not for everyone. Is it for you?
 
 </section><section data-markdown>
 
-### 8. "I want to contact you to talk about something."
+### "I want to contact you to talk about something."
 
   - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 
