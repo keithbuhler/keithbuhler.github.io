@@ -1,10 +1,10 @@
 ---
 layout: slide
-title: Buhler's Philosophy Portal dawg
+title: Buhler's Philosophy Portal
 theme: white
 --- 
 
-<section>
+<section><!--begin slideshow-->
 <section data-background="/images/ireland-lismore-castle-county-waterford.jpg" data-markdown>
 
 ![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")
@@ -50,7 +50,6 @@ Welcome! We're going to have a great semester.
 </section><section data-markdown>
 
 ### "I am trying to do well in your philosophy class."
-
 
 ![Dory](/images/dory.jpg)
 
@@ -147,16 +146,12 @@ Being a professional academic is not for everyone. Is it for you?
 
 ### 7. "I'm not sure why I'm here."
 
-That's OK. No one is. 
-
-You can check out... 
-
-- some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
-- my [personal site](/fun) for fiction, art, and more fun stuff.
-- some other [philosophy resources](/philosophyportal/philosophy-resources)
+- That's OK. No one is. 
+- You can check out some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
+- or my [personal site](/fun) for fiction, art, and more fun stuff.
+- or some other [philosophy resources](/philosophyportal/philosophy-resources)
 - Or, just read about [Mary Shelly](https://en.wikipedia.org/wiki/Mary_Wollstonecraft), one of the first modern female philosophers.
 
-![shelly](https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg)
 
 </section><section data-markdown>
 
