@@ -6,26 +6,41 @@ permalink: /phd-how-to
 
 [Another page explains my research.](/phd) This post gives some advice on each stage of the process. 
 
-### My Story  ###
+### Do you want to go to graduate school? My story  ###
 
-In 2011, my wife and I decided to pursue a PhD in philosophy. We had just gotten married in 2010. I was finishing an M.A. in theology. I was working as a high school teacher and she was the admissions department at a new college. I knew for five years I wanted to pursue further graduate training, but now the timing was right.
+In 2011, my wife and I decided to pursue a PhD in philosophy. 
 
-We applied to 14 schools. I got 10 rejections, and 4 acceptances. U.K. was my top choice because I wanted to work with David Bradshaw, but the choice was easy. Claremont and University of Chicago offered no funding, no tuition; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. I accepted the offer. 
+This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
 
-## Do you want to go to graduate school?
+An earnest desire is necessary but not sufficient. You need desire and aptitude. Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself. 
 
-This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except philosophy. 
+Some of those who study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university, or get non-academic jobs.  
 
-Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for all kinds of interests and abilities, but you don't want to kid yourself. 
+For me, the discernment process was long. I enjoyed philosophy as an undergraduate but also enjoyed art and psychology. I had known for five years I wanted to pursue further graduate training. I needed to work, so I got a job teaching classics in a high school. I was accepted to, but never began, a psychology doctoral program. It didn't feel right. Instead, I began an M.A. in theology. 
 
-Some study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university. 
+Then, my wife and I got married in 2010. She was the admissions department at a new college. We had settled on philosophy. Philosophy doctorates have a broad range of application: philosophy professor, administration, classical educator, writer, and more.
+
+I took one year of philosophy MA classes at [Talbot.](http://www.talbot.edu/) This gave me good practice writing rigorous analytic papers and also gave me a reference letter from JP Moreland. 
+
+Eventually, the timing was right to apply. I got lots of advice from friends and teachers on how, when, where, to apply. I took the GRE (after some study) and did well. I researched schools and jumped in. 
+
+We applied to 14 schools. It cost about $1,400 dollars, all told. 
+
+I got 10 rejections, and 4 acceptances. Claremont and University of Chicago offered no funding, no tuition remission; University of Dallas offered tuition with no funding; University of Kentucky offered tuition with funding. U.K. was my top choice anyhow because I wanted to work with David Bradshaw. So, I accepted the offer. 
+
+We moved to Kentucky in July of 2012. 
 
 
-### 2. If so, MA or PHD? ##
+### 2. If I decide to apply, should I go for an MA or PHD? ##
 
-[MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  But they extend your total time to job market from average 7 years to average 9 years. The end goal is to learn a lot, hone your writing, get good recommendations (for PhD applications) or move on to your career. 
+Contrary to popular belief, you *can* go from graduating college straight into an American PhD program. You don't *need* an M.A. That said, there are reasons to consider an M.A. first.
 
-[PhDs, in general, get you on the job market in average 7 years.](http://www.nsf.gov/statistics/infbrief/nsf06312/) They often pay you to teach or research along the way. The end goal is to become a professor and/or researcher at a university. 
+Pro -- [MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  The end goal is to learn a lot, hone your writing, get good references (for PhD applications) or move on to your career.  Con -- they extend your total time to job market from average 7 years to average 9 years. 
+
+Pro -- [PhDs, in general, get you on the job market in average 7 years.](http://www.nsf.gov/statistics/infbrief/nsf06312/) The end goal is to become a professor and/or researcher at a university. They often pay you to teach or research along the way to your degree. Con -- unless your philosophical writing is exceptionally good (in your professors' opinion, not in your opinion), you may not be able to reach a more prestigious school without an MA,  developed research plans, and good references.
+
+For me, the time factor was big. Even though I didn't have a completed MA, I was able to get in to UK on the strength of my writing sample, GRE score, and good references. 
+
 
 ### 3. How do you best apply? ##
 
@@ -33,7 +48,9 @@ Your philosophical essay is the most important. Pick your best undergrad or MA e
 
 The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosophers tend to do well on the math. But you should study harder for the verbal and writing, as this counts more than math. (Math is more important for, say, engineering grad students). 
 
-[Personal statements?](http://leiterreports.typepad.com/blog/2007/09/advice-on-perso.html) Not sure how important they are. No one has ever told me they *make* a candidate; but it seems commonsense that they can *break* a candidate. Play it safe -- just be calm, be yourself, be frank, and say what you want to study. Your aspirations will change; just state what you want to study *today*. 
+[Personal statements?](http://leiterreports.typepad.com/blog/2007/09/advice-on-perso.html) Not sure how important they are. No one has ever told me they *make* a candidate; but it seems commonsense that they can *break* a candidate. 
+
+Play it safe -- just be calm, be yourself, be frank, and say what you want to study. Your aspirations will change; just state what you want to study *today*. 
 
 
 ### 4. Once you get in, how do you best make progress? ###
@@ -51,7 +68,7 @@ The list is 35 or so items, broken into 6 (very disproportionally sized) project
 
 5. Write and defend a Dissertation Proposal.                 6 months?
 
-6. Write and defend a Dissertation.                                2 years
+6. Write and defend a Dissertation.                                1-3 years
 
 
 
@@ -65,7 +82,7 @@ My approach is to hit hard early, and ease up later. I took three classes (two s
 
 I took three seminars the third semester and that got me ahead, which has been nice. 
 
-My program requires a "Teaching Proseminar" to help us be good little graduate TA proletariat wage slaves. I did that the first semester too. My professor made a throw-away class something actually useful. 
+My program requires a "Teaching Pro-Seminar" to help us be good little graduate TA proletariat wage slaves. I did that the first semester too. My professor made a throw-away class something actually useful. 
 
 
 
@@ -83,7 +100,7 @@ Naturally, each school is different. Some have you write a Prospectus or Dissert
 
 My area proposal was the product of much soul-searching. When I applied to graduate school, I had intended to study Plato. However, my favorite themes in contemporary ethics and metaethics kept cropping up. Every semester I wrote a term paper or three for my courses. In these papers, I noticed that I kept gravitating towards attacking or defending metaphysical naturalism, ethical naturalism, and so on. 
 
-I asked my advisor if I should go ahead and make the switch from AOS (area of speciality) Ancient Philosophy to AOS Ethics. He agreed. At that point, I started writing-to-discover. I wrote several drafts of potential area proposals for my eyes only. I narrowed down my interests and honed my arguments. I read widely about naturalism in its various forms, and about the controversies between naturalists and non-naturalists in ethics. 
+I asked my advisor if I should go ahead and make the switch from AOS (area of specialty) Ancient Philosophy to AOS Ethics. He agreed. At that point, I started writing-to-discover. I wrote several drafts of potential area proposals for my eyes only. I narrowed down my interests and honed my arguments. I read widely about naturalism in its various forms, and about the controversies between naturalists and non-naturalists in ethics. 
 
 ### 7b How do you write the Area Proposal? 
 
@@ -162,7 +179,7 @@ He said:
 
 > Dear Keith, I've read your proposal and it looks good.  There are numerous small points that need correcting, especially in formatting the references and providing bibliographic information... Congrats on making progress.  Once you clean up these details it will be ready to go!
 
-He did have some corrections for me to make, which I suppose is normal. 
+He did have some corrections for me to make, which is normal. 
 
 With that I began working in earnest. I started writing in Scrivener. 
 
@@ -171,13 +188,13 @@ One page a day, seven days a week was the plan and it worked fairly well for me.
 
 ### Between October 2015 and August 2016
 
-I wrote a lot. Read a lot and wrote alot and re-read and re-wrote. 
+I wrote a lot. Read a lot and wrote a lot and re-read and re-wrote. I kept an ever-evolving checklist of relevant books and articles to read, and kept a long list of notes for each one. I followed the arguments, dropped some research lines, and picked up new ones. 
 
 
 ### 16 May 2016 Boot Camp!
 
 
-16 May 2016.  My university began hosting a "Boot Camp" writing retreat. We have a private dorm room on campus, unlimited snacks (both healthy and unhealthy snacks, woo hoo!), an endless supply of coffee and soda, and the comforting presence of a  community of 40 or so fellow writers. 
+My university began hosting a "Boot Camp" writing retreat. We have a private dorm room on campus, unlimited snacks (both healthy and unhealthy snacks, woo hoo!), an endless supply of coffee and soda, and the comforting presence of a  community of 40 or so fellow writers. 
 
 The Boot Camp is two weeks long. We each commit to write at least 4 hours a day, Monday through Friday, for those two weeks. It's a time to write, revise, struggle, get confused, commiserate, write more, take breaks, and break through. 
 
@@ -214,7 +231,6 @@ The biggest problem that he had was about the *normative* force of neo-Aristotel
 I asked him about timelines. I have to give him Chapters 5 and 6, and then make the changes to 4 (if they are still needed). The editor I am paying to read and comment on 5 and 6 is still at work on them, but then I'll make some adjustments and pass them along. 
 
 I'm glad I've been working on [formatting](/writing-tools). Now some of that early work is paying off.
-
 
 
 
