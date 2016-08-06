@@ -1,8 +1,11 @@
 # Site settings
  locale:         "en"
  title:          "keithbuhler.com"
- description:      Professional site of the philosopher and classical teacher.
-disqus_shortname: thebuhlerreport
+ description:    "Professional site of the philosopher and classical teacher."
+comments: 
+  provider:       "disqus"
+  disqus: 
+    shortname: "thebuhlerreport"
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -12,14 +15,14 @@ words_per_minute: 200
 
 # Owner/author information
 author:
-  name:           Keith Buhler
-  avatar:         avatar.png
+  name:           "Keith Buhler"
+  avatar:         "avatar.png"
   bio:            "Philosopher, educator, and author"
-  email:          keithedbuhler.
+  email:          "keithedbuhler@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        Keith_Buhler
-  facebook:       keithedbuhler
-  github:         keithbuhler
+  twitter:        "Keith_Buhler"
+  facebook:       "keithedbuhler"
+  github:         "keithbuhler"
   stackexchange:  
   linkedin:       
   instagram:      

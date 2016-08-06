@@ -134,7 +134,7 @@ Being a professional academic is not for everyone. Is it for you?
 * [Does philosophy have a woman problem?](http://heterodoxacademy.org/2016/07/22/does-philosophy-have-a-woman-problem/) A feminist and female philosopher makes the case that philosophical field is not sexist. 
 * [A sober look at the cost of professionalizing philosophy](http://opinionator.blogs.nytimes.com/2016/01/11/when-philosophy-lost-its-way/)
 * [A sober look at the future of professional philosophy.](http://chronicle.com/blogs/conversation/2014/07/16/wanted-a-future-for-philosophy/)
-* [More philosophy resources](/philosophy-resources)
+* [More philosophy resources](/philosophyportal/philosophy-resources)
 
 
 
