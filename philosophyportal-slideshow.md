@@ -30,9 +30,7 @@ theme: white
 8. ["I want to contact you to talk about something."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/11)
 7. ["I'm not sure why I'm here."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/12)
 
-*Or scroll down.* 
-
-[*Or skip to the main site*](/philosophyportal)
+*Click, scroll, or [skip to the main site*](/philosophyportal)
 
 </section><section data-markdown>
 
@@ -50,26 +48,25 @@ Welcome! We're going to have a great semester.
 
 ### "I am trying to do well in your philosophy class."
 
-![Dory](/images/dory.jpg)
-
-Philosophy may be difficult, but you can do it. [Click here for tips on how to succeed.](/philosophyportal/philosophy-class)
+![Dory](/images/dory.jpg) Philosophy may be difficult, but you can do it. [Click here for tips on how to succeed.](/philosophyportal/philosophy-class)
 
 
 </section><section data-markdown>
 
-### ["I just finished your philosophy class."](/philosophy-6-next)
+### "I just finished your philosophy class."
 
 - Do the Course Evaluation online.
 - Also, [rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.
 - If you want to share criticism, compliments, or other comments, [email me or let's sit down and talk.](emailto:keith.buhler@uky.edu)
-- [Read here](/philosophy-6-next)
+- [Or click here.](/philosophyportal/philosophy-6-next)
 
 </section><section data-markdown>
 
 ### "I'm just checking your philosophy site out."
 
 - Cool! I hope you like it. 
-- You can also check out my [personal site](/fun) for my bio, blog, fiction, art, and more fun stuff.
+- You can explore the [main site here.](/philosophyportal)
+- Also, check out my [personal site](/fun) for my bio, blog, fiction, art, and more fun stuff.
 
 </section><section data-markdown>
 
@@ -124,7 +121,7 @@ Being a professional academic is not for everyone. Is it for you?
 </section><section data-markdown>
 
 
-###  "I'm thinking about graduate school in philosophy."
+### "I'm thinking about graduate school in philosophy." (cont'd)
 
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, and the bad. 
 * [Why women stay (or leave) philosophy](http://quod.lib.umich.edu/p/phimp/3521354.0016.006/1) A case that the philosophical field is sexist.
@@ -143,7 +140,7 @@ Being a professional academic is not for everyone. Is it for you?
 
 </section><section data-markdown>
 
-### 7. "I'm not sure why I'm here."
+### "I'm not sure why I'm here."
 
 - That's OK. No one is. 
 - You can check out some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
