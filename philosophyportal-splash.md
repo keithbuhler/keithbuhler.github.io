@@ -8,7 +8,7 @@ theme: white
 <section data-background="/images/pythagoras-small.jpg" data-markdown>
 
 
-# So you're taking philosophy? Awesome. 
+<h1 style="color:white;"> So you're taking philosophy? Awesome. </h1>
 
 </section><section data-markdown>
 
@@ -20,17 +20,17 @@ theme: white
 
 **Click the statement that best represents you.**
 
-1. ["I just added your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/3)
-2. ["I am trying to do well in your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/4)
-3. ["I just finished your philosophy class."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/5)
-4. ["I'm just checking your philosophy site out."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/6)
-5. ["I want some philosophy reading recommendations."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/7)
-6. ["I'm thinking about majoring in philosophy."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/10)
-7. ["I'm thinking about graduate school in philosophy."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/11)
-8. ["I want to contact you to talk about something."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/12)
-7. ["I'm not sure why I'm here."](http://www.keithbuhler.com/philosophyportal-slideshow#/0/13)
+1. ["I just added your philosophy class."](http://www.keithbuhler.com/philosophyportal-splash#/0/3)
+2. ["I am trying to do well in your philosophy class."](http://www.keithbuhler.com/philosophyportal-splash#/0/4)
+3. ["I just finished your philosophy class."](http://www.keithbuhler.com/philosophyportal-splash#/0/5)
+4. ["I'm just checking your philosophy site out."](http://www.keithbuhler.com/philosophyportal-splash#/0/6)
+5. ["I want some philosophy reading recommendations."](http://www.keithbuhler.com/philosophyportal-splash#/0/7)
+6. ["I'm thinking about majoring in philosophy."](http://www.keithbuhler.com/philosophyportal-splash#/0/10)
+7. ["I'm thinking about graduate school in philosophy."](http://www.keithbuhler.com/philosophyportal-splash#/0/12)
+8. ["I want to contact you to talk about something."](http://www.keithbuhler.com/philosophyportal-splash#/0/13)
+7. ["I'm not sure why I'm here."](http://www.keithbuhler.com/philosophyportal-splash#/0/14)
 
-Click, scroll, or [skip to the main site.](/philosophyportal)
+You can also [skip to the main site](/philosophyportal) or keep scrolling.
 
 </section><section data-markdown>
 

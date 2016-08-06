@@ -17,9 +17,9 @@ The good news is that [studying philosophy is VERY GOOD IDEA](/philosophyportal/
 
 <center>
 
-<h1> <a href="/philosophyportal"> Click here for the Philosophy Portal</a> </h1>
+<h1> <a href="/philosophyportal-splash"> Click here for the Philosophy Portal</a> </h1>
 
-<a target="_blank" href="/philosophyportal">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
+<a target="_blank" href="/philosophyportal-splash">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
 </center>
 
