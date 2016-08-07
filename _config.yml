@@ -78,6 +78,9 @@ links:
   - title: Tags
     url: /tags
 
+teaser:         400x400.gif
+
+
 # Outputting
 
 permalink: /:categories/:title/
