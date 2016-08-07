@@ -78,8 +78,8 @@ links:
   - title: Tags
     url: /tags
 
-teaser:         400x400.gif
-
+teaser:   "400x400.gif"
+og_image: "keithbuhler-bw-small.png"
 
 # Outputting
 
