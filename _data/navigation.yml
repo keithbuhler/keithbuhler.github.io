@@ -2,9 +2,12 @@
 main:
   - title: "CV"
     url: http://keithbuhler.com/cv
+
   - title: "Teaching"
     url: http://keithbuhler.com/teaching
+
   - title: "Research"
     url: http://keithbuhler.com/research
+    
   - title: "For Students"
     url: http://keithbuhler.com/students
