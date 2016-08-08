@@ -284,9 +284,9 @@ tr,td,th{vertical-align:middle}
 .pagination--pager.disabled{color:#bdc1c4;pointer-events:none;cursor:not-allowed}
 .page__content+.pagination,.page__meta+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;padding-top:2em;border-top:1px solid #f2f3f3}
 .greedy-nav{position:relative;min-width:250px;background:#fff}
-.greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#ccc;text-decoration:none}
+.greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#000000;text-decoration:none}
 .greedy-nav a:hover{color:#cc7a00}
-.greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#cc7a00;color:#fff;cursor:pointer}
+.greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#ccc;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle}
 .greedy-nav .visible-links li:first-child{font-weight:bold}

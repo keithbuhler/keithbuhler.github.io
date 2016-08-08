@@ -8,7 +8,7 @@ header:
 excerpt: 
 --- 
 
-<img src="/images/keithbuhler-golden.png" alt="Keith Buhler, Philosopher" hspace="40px" align="right" width="95%"> 
+<img src="/images/keithbuhler-golden.png" alt="Keith Buhler, Philosopher" hspace="40px" align="right" width="38%"> 
 
 I'm a philosopher, classical educator, and writer. Currently, I am a PhD candidate in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics.
 
