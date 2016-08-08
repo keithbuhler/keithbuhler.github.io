@@ -1,5 +1,9 @@
 # keithbuhler.com links (for academics)
 main:
+
+  - title: "About"
+    url: http://keithbuhler.com/about
+  
   - title: "CV"
     url: http://keithbuhler.com/cv
 
@@ -11,6 +15,3 @@ main:
     
   - title: "For Students"
     url: http://keithbuhler.com/students
-
-  - title: "Contact"
-    url: http://keithbuhler.com/contact
