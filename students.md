@@ -1,17 +1,25 @@
 ---
 layout: single
-title: Student Portal
+title: 
 --- 
+
+Many still think philosophy is not worth your time.
 
 <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> <img src="/images/morpheus.jpg" alt="Morpheus Major" hspace="5px" align="center" width="60%"> </a>
 
+<br>
 
-Sadly, most college students will take exactly *one* philosophy class. [So you should make the most of it.](/philosophyportal) 
+It's true. [Studying philosophy is VERY GOOD IDEA](/philosophyportal/philosophy-3-major) because it can help you to find a good job, earn a higher salary than a business degree, and find answers to life's deepest questions.
 
-Many people that take a philosophy class find it surprisingly interesting, depending on the professor, of course. (A bad professor can make Disneyland boring.) 
-Philosophy is so interesting because it invites you to think deeply. Philosophy invites you to reflect on your own opinions, and everyone has opinions and questions about life, death, reality, science, religion, and beauty. 
+Most college students will take exactly *one* philosophy class. [So you should make the most of it.](/philosophyportal) 
 
-The good news is that [studying philosophy is VERY GOOD IDEA](/philosophyportal/philosophy-3-major) because it can help you to find a good job, earn a higher salary than a business degree, and find answers to life's deepest questions.
+You'll probably find philosophy class surprisingly interesting... (depending on the professor, of course. A bad professor can make Disneyland boring.) 
+
+Why is philosophy so interesting to so many? 
+
+Perhaps because it invites you to think deeply. 
+
+Everyone has opinions about the big questions of life: reality, death, meaning, science, religion, and beauty. Philosophy invites you to reflect on your own opinions and to learn from others. 
 
 <br>
 
