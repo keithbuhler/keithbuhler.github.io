@@ -8,7 +8,7 @@ header:
 excerpt: 
 --- 
 
-<img src="/images/greene.jpg" alt="Transform by changing" hspace="30px" align="right" width="23%"> 
+<img src="/images/greene.jpeg" alt="Transform by changing" hspace="30px" align="right" width="23%"> 
 
 I'm Keith Buhler, a philosopher, classical educator, and writer. Currently, I am finishing my PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. 
 
