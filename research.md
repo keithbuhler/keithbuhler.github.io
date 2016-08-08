@@ -7,11 +7,11 @@ title: Research
 
 My research centers on contemporary analytic virtue ethics in writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. Read a paper or two on my [Academia.edu](https://uky.academia.edu/KeithBuhler) profile.
 
-<a target="_blank" href="http://lsolum.typepad.com/legaltheory/2010/10/philippa-foot-1920-2010.html"> <img src="http://lsolum.typepad.com/.a/6a00d8341bf68d53ef013487f682ad970c-pi" align="right"></a>
-
 Conversations about virtue ethics tend to open up conversations about normativity and nature in general. What is the relationship between human nature and human virtue? Between facts and values? Between science and ethics? 
 
 My [dissertation](/phd) defends the role of a naturalized teleology in ethical naturalism according to which the concept of a 'practically wise rational animal' is both *what we already are* and *what we ought to become*. Practical wisdom (among the other virtues) defines our human life form and is the natural telos to be pursued. Hence, my thesis sits at the intersection of both normative virtue ethics and metaethics: it is normative in that it commends a life spent acquiring character and epistemic virtues even in the face of (inevitable) death and (the possibility of) human extinction; it also analyzes normative terms and concepts such as 'ought' and 'naturally good' and 'human being' to find a brute natural normativity consonant with scientific naturalism.
+
+<a target="_blank" href="http://lsolum.typepad.com/legaltheory/2010/10/philippa-foot-1920-2010.html"> <img src="http://lsolum.typepad.com/.a/6a00d8341bf68d53ef013487f682ad970c-pi" align="right"></a>
 
 In this pursuit, I interact with a group of philosophers such as [Jennifer Frey](https://jennfrey.wordpress.com/), [Micah Lott](http://www.bc.edu/schools/cas/philosophy/faculty/lott.html), [Chris Toner](https://www.stthomas.edu/philosophy/faculty/christopher-h-toner.html), [James Barham](http://www.isnature.org/Bios/Barham.htm), and [Stephen R. Brown](http://old.briarcliff.edu/departments/theology/theo_new/brown.aspx). 
 

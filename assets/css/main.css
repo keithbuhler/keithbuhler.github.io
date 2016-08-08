@@ -33,7 +33,7 @@ label,select,button,input[type="button"],input[type="reset"],input[type="submit"
 input[type="search"]{box-sizing:content-box;-webkit-appearance:textfield}
 input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}
 textarea{overflow:auto;vertical-align:top}
-body{margin:0;padding:0;color:#494e52;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;line-height:1.5}
+body{margin:0;padding:0;color:#303336;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;line-height:1.5}
 body.overflow--hidden{overflow:hidden}
 h1,h2,h3,h4,h5,h6{margin:2em 0 0.5em;line-height:1.2;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
 h1{margin-top:0;font-size:1.763em}
@@ -44,7 +44,7 @@ h5{font-size:0.75em}
 h6{font-size:0.75em}
 small,.small{font-size:0.75em}
 p{margin-bottom:1.3em}
-u,ins{text-decoration:none;border-bottom:1px solid #494e52}
+u,ins{text-decoration:none;border-bottom:1px solid #303336}
 u a,ins a{color:inherit}
 del 
 a{color:inherit}
@@ -297,7 +297,7 @@ tr,td,th{vertical-align:middle}
 .greedy-nav .visible-links a:hover:before{-webkit-transform:scaleX(1);transform:scaleX(1)}
 .greedy-nav .hidden-links{position:absolute;top:100%;right:0;margin-top:15px;padding:5px;border:1px solid #f2f3f3;border-radius:4px;background:#fff;box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .greedy-nav .hidden-links a{margin:0;padding:10px 20px;font-size:1em}
-.greedy-nav .hidden-links a:hover{color:#ccc;background:#dee0e1}
+.greedy-nav .hidden-links a:hover{color:#cc7a00;background:#dee0e1}
 .greedy-nav .hidden-links:before{content:"";position:absolute;top:-11px;right:10px;width:0;border-style:solid;border-width:0 10px 10px;border-color:#f2f3f3 transparent;display:block;z-index:0}
 .greedy-nav .hidden-links:after{content:"";position:absolute;top:-10px;right:10px;width:0;border-style:solid;border-width:0 10px 10px;border-color:#fff transparent;display:block;z-index:1}
 .greedy-nav .hidden-links li{display:block;border-bottom:1px solid #f2f3f3}
