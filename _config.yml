@@ -1,6 +1,6 @@
 # Site settings
  locale:         "en"
- title:          "Keith Buhler's Philosophy Site"
+ title:          "keithbuhler.com"
  description:    "Professional site of the philosopher and classical teacher."
 comments: 
   provider:       "disqus"
@@ -32,12 +32,24 @@ author:
   # google plus id, include the '+', eg +mmistakes
   google_plus:  +KeithBuhler
 
+social: 
+  type: 
+  name: 
+  links:
+    - "https://twitter.com/Keith_Buhler"
+    - "https://facebook.com/keithedbuhler"
+    - "https://www.linkedin.com/in/yourprofile"
+    - "https://plus.google.com/+Keith_Buhler"
+
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-71712734-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
+analytics:
+  provider: "google-universal"
+    tracking_id: "UA-71712734-1"
 
 
 timezone:    America/New_York
