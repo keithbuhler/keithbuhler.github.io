@@ -4,13 +4,13 @@ title: Buhler? Anyone?
 header: 
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: blog-header-uk-large.jpg
+  overlay_image: kentucky2.jpg
 excerpt: 
 --- 
 
-<a href='http://behappy.me/everyone-wants-to-transform-but-nobody-wants-to-change-1043393/'><img src='https://behapy.s3.amazonaws.com/33/93/1043393/share.jpg'/></a>
+<img src="/images/greene.jpg" alt="Transform by changing" hspace="30px" align="right" width="23%"> 
 
-I'm a philosopher, classical educator, and writer. Currently, I am finishing my PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. 
+I'm Keith Buhler, a philosopher, classical educator, and writer. Currently, I am finishing my PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. 
 
 For more than 8 years, I've successfully helped learners of all ages to grow and flourish. I use immersive Socratic dialogue about great books in an authentic and fun classroom environment.
 
