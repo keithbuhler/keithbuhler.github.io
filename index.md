@@ -1,15 +1,14 @@
 ---
 layout: splash
-title: KEITH BUHLER
+title: Buhler? Anyone?
 header: 
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: blog-header-uk-large.jpg
-excerpt: Anyone? Buhler? 
+excerpt: 
 --- 
 
-<img src="/images/keithbuhler-golden.png" alt="Keith Buhler" hspace="40px" align="right"> 
-
+<img src="/images/keithbuhler-golden.png" alt="Keith Buhler, Philosopher" hspace="40px" align="right" width="95%"> 
 
 I'm a philosopher, classical educator, and writer. Currently, I am a PhD candidate in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics.
 
@@ -19,8 +18,8 @@ In my 45 minutes per month of spare time, I like to draw, sculpt, write fiction,
 
 * Peruse my [curriculum vitae](/cv)
 * Learn about my [courses](/teaching) and [research](/research)
+* [Contact me](/contact)
 * Or enter the [Student Portal](/students) 
-
 
 <br>
 
