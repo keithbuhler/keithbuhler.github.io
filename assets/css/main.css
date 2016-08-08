@@ -1,4 +1,4 @@
-/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange */
+/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange (256274 dark Github Teal) (24248f old dark blue) */
 
 a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px}
 *,
@@ -17,7 +17,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section{di
 
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
 audio:not([controls]){display:none}
-a{color:#256274}
+a{color:#3793ae}
 a:hover,a:active{outline:0}
 
 sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline}
@@ -295,6 +295,7 @@ tr,td,th{vertical-align:middle}
 .greedy-nav .visible-links a{position:relative}
 .greedy-nav .visible-links a:before{content:"";position:absolute;left:0;bottom:0;height:4px;background:#bdc1c4;width:100%;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;-webkit-transform:scaleX(0);transform:scaleX(0)}
 .greedy-nav .visible-links a:hover:before{-webkit-transform:scaleX(1);transform:scaleX(1)}
+.greedy-nav.active{margin-left:-0.5em;padding-left:0.5em;padding-right:0.5em;color:#fff;font-weight:bold;background:#cc7a00;border-radius:4px}
 .greedy-nav .hidden-links{position:absolute;top:100%;right:0;margin-top:15px;padding:5px;border:1px solid #f2f3f3;border-radius:4px;background:#fff;box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .greedy-nav .hidden-links a{margin:0;padding:10px 20px;font-size:1em}
 .greedy-nav .hidden-links a:hover{color:#cc7a00;background:#dee0e1}
@@ -307,7 +308,7 @@ tr,td,th{vertical-align:middle}
 .nav__list a{display:block;padding:0.125em 0;color:inherit}
 .nav__list a:hover{text-decoration:underline}
 .nav__list .active{margin-left:-0.5em;padding-left:0.5em;padding-right:0.5em;color:#fff;font-weight:bold;background:#cc7a00;border-radius:4px}
-.nav__list .active:hover{color:#24248f}
+.nav__list .active:hover{color:#256274}
 .nav__title{margin:0;padding:0.5rem 1rem;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:1em;font-weight:bold}
 .nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
 .toc{font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;color:#7a8288;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
@@ -470,7 +471,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__content p,.page__content li,.page__content dl{font-size:1em}
 .page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}
-.page__content a:hover{color: #24248f; text-decoration:underline}
+.page__content a:hover{color: #256274; text-decoration:underline}
 .page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .page__content dt{margin-top:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-weight:bold}
 .page__content dd{margin-left:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em}
