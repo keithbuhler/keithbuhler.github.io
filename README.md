@@ -8,10 +8,11 @@ Thanks for visiting. I hope you find the site fun, easy on the eyes, and informa
 
 ## Contact
 
-* Email to: [keithedbuhler at gmail dot com](emailto:keithedbuhler@gmail.com)
-* Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) (though I'm off Twitter for now)
-* Call to: I was getting a lot of spam calls when I posted my number in numerals. So try: area five 6 too, two three o, to nine to 0. 
-* Mail to: Keith Buhler, University of Kentucky  
+* Email to: [info at keithbuhler dot com](emailto:info@keithbuhler.com)
+* Social Media: [Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
+* Call to: area 859 number 955 o822
+* Mail to: Keith Buhler, c/o Katie Barrett  
+University of Kentucky   
 1402 Patterson Office Tower    
 University of Kentucky    
 Lexington, KY 40506   

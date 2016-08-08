@@ -50,3 +50,10 @@ S2013 Introduction to Logic
 9. "He learned our names very quickly and took time to understand our points in discussion." (PHI305, 2015)
 10. "The papers and midterm were effective and helpful with understanding the material for the class." (PHL200 2014)
 11. "[Mr. Buhler] has insight that allows you to do more than learn, it allows you to grow." (Inklings, 2009)
+
+### Employers and Parent Feedback
+
+> "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him." (Peter David Gross, Executive Director at Wheatstone Ministries)
+
+
+>Keith is a dedicated and motivated instructor, who imparts knowledge with just the right amount of humor to keep his students (and listening parents) engaged, and wanting to come back for more. He relates well with all ages, and is an asset to the teaching/tutoring community. (Lynn Schott, Owner/Instructor at Founders Academy; Councilwoman, City of Irvine, California)
