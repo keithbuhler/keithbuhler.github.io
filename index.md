@@ -8,7 +8,7 @@ header:
 excerpt: 
 --- 
 
-<img src="/images/keithbuhler-golden.png" alt="Keith Buhler, Philosopher" hspace="40px" align="right" width="23%"> 
+<img src="/images/keithbuhler-golden.png" alt="Keith Buhler, Philosopher" hspace="30px" align="right" width="23%"> 
 
 I'm a philosopher, classical educator, and writer. Currently, I am a PhD candidate in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics.
 
@@ -17,9 +17,10 @@ For more than 8 years, I've successfully helped learners of all ages to grow and
 In my 45 minutes per month of spare time, I like to draw, sculpt, write fiction, and [compose lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. 
 
 * Peruse my [curriculum vitae](/cv)
-* Learn about my [courses](/teaching) and [research](/research)
+* Explore my [courses](/teaching) or [research](/research)
+* Enter the [Student Portal](/students) 
 * [Contact me](/contact)
-* Or enter the [Student Portal](/students) 
+
 
 <br>
 
