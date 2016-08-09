@@ -8,9 +8,9 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="/images/avatar.png" alt="{{ author.name }}">
+    	<img src="/images/keithbuhler-bw-smaller.png" alt="{{ author.name }}">
     {% else %}
-    	<img src="/images/keithbuhler-bw-smaller.png" class="author__avatar" alt="{{ author.name }}">
+    	<img src="/images/avatar.png" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
@@ -26,13 +26,10 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label }}</a></li>
       {% endif %}
-        <li><a href="mailto:keithedbuhler@gmail.com"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label }}</a></li>
+        <li><a href="mailto:info@keithbuhler.com"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label }}</a></li>
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-        <li><a href="https://twitter.com/Keith_Buhler"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-        <li><a href="https://www.facebook.com/keithedbuhler"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-        <li><a href="https://plus.google.com/+KeithBuhler"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+</a></li>
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
@@ -68,7 +65,7 @@
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fa fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
       {% if author.youtube %}
-        <li><a href="https://www.youtube.com/c/KeithBuhler"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+        <li><a href="https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>

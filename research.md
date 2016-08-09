@@ -1,13 +1,16 @@
 ---
 layout: single
 title: Research
+author_profile: true
+header:
+      image: 
 --- 
 
 <img src="/images/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
 My research centers on contemporary analytic virtue ethics in writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. Read a paper or two on my [Academia.edu](https://uky.academia.edu/KeithBuhler) profile.
 
-Conversations about virtue ethics tend to open up conversations about normativity and nature in general. What is the relationship between human nature and human virtue? Between facts and values? Between science and ethics? 
+Conversations about virtue ethics tend to open up conversations about normativity and nature in general. For example, the above others explore: what is the relationship between human nature and human virtue? Between facts and values? Between science and ethics? 
 
 My [dissertation](/phd) defends the role of a naturalized teleology in ethical naturalism according to which the concept of a 'practically wise rational animal' is both *what we already are* and *what we ought to become*. Practical wisdom (among the other virtues) defines our human life form and is the natural telos to be pursued. Hence, my thesis sits at the intersection of both normative virtue ethics and metaethics: it is normative in that it commends a life spent acquiring character and epistemic virtues even in the face of (inevitable) death and (the possibility of) human extinction; it also analyzes normative terms and concepts such as 'ought' and 'naturally good' and 'human being' to find a brute natural normativity consonant with scientific naturalism.
 
