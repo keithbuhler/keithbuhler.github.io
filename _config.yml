@@ -11,6 +11,10 @@ words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:       https://keithbuhler.com
+facebook:
+  username  : "keithedbuhler" 
+github      : 
+  username  : "keithbuhler"
 
 # author info
 
@@ -18,9 +22,8 @@ author:
   name      : "Keith Buhler"
   avatar    : "avatar.png"
   bio       : "Philosopher, classical educator, and author"
-  email     : "keithedbuhler@gmail.com"
+  email     : "info@keithbuhler.com"
   url       : "https://www.keithbuhler.com"
-  github    : "keithbuhler"
   google_plus:  "+KeithBuhler"
   facebook  : "keithedbuhler" 
   twitter   : "Keith_Buhler"
