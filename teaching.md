@@ -7,9 +7,9 @@ author_profile: true
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-For more than 8 years, I've successfully helped learners of all ages to grow and flourish by using immersive Socratic dialogue, great books, and humor. Check out my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
+I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and my theatrical approach to classroom discussion. Check out my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
 
-At the University of Kentucky and Asbury University, I've taught introduction to philosophy, ethics, bioethics, virtue ethics, and philosophy of religion. Students enjoy my enthusiasm for the subject and personable approach to classroom discussion.  
+Recently, I've taught introduction to philosophy, ethics, bioethics, virtue ethics, and philosophy of religion at two universities. 
 
 Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed courses in humanities, Great Books, and western civilization.
 
@@ -53,7 +53,9 @@ S2013 Introduction to Logic
 
 ### Employers and Parent Feedback
 
-> "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him." (Peter David Gross, Executive Director at Wheatstone Ministries)
+> "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him." 
+> --Peter David Gross, Executive Director at Wheatstone Ministries
 
 
->Keith is a dedicated and motivated instructor, who imparts knowledge with just the right amount of humor to keep his students (and listening parents) engaged, and wanting to come back for more. He relates well with all ages, and is an asset to the teaching/tutoring community. (Lynn Schott, Owner/Instructor at Founders Academy; Councilwoman, City of Irvine, California)
+>Keith is a dedicated and motivated instructor, who imparts knowledge with just the right amount of humor to keep his students (and listening parents) engaged, and wanting to come back for more. He relates well with all ages, and is an asset to the teaching/tutoring community. 
+--Lynn Schott, Owner/Instructor at Founders Academy; Councilwoman, City of Irvine, California
