@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Buhler? Anyone?
 header: 
   overlay_color: "#000"
