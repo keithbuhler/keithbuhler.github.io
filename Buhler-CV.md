@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /cv/
-author_profile: true
 --- 
 
 ### CURRICULUM VITAE
@@ -24,7 +23,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### EDUCATION
 
-2016 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected completion in late 2016)*  
+2016 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected completion in 2016)*  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
