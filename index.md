@@ -11,9 +11,9 @@ author_profile: true
 
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
-I am currently finishing a PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. 
+I am currently finishing a PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. I aim to develop a plausible account of naturalistic normative realism.
 
-For more than 8 years, I've successfully helped learners of all ages to grow and flourish. I use humor and immersive Socratic dialogue about great books to create a friendly yet rigorous learning environment. 
+In the classroom, I use humor and immersive Socratic dialogue about great books to create a friendly yet rigorous learning environment. For more than 8 years, I've successfully helped learners of all ages to grow, change, and flourish. 
 
 * You can read more [about me here.](/about)
 * Peruse my [curriculum vitae.](/cv)

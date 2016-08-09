@@ -7,9 +7,7 @@ author_profile: true
 
 <img src="/images/keith-rich-lindsay.JPG" alt="Keith, Father, and Wife" hspace="30px" align="right" width="50%"> 
 
-I'm a philosopher, classical educator, and author. 
-
-Currently, I am a PhD candidate at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and an adjunct philosophy instructor at Asbury University. For more than 8 years, I've successfully helped learners of all ages to grow and flourish. I use immersive Socratic dialogue about great books in an authentic, friendly but rigorous classroom environment. 
+Thanks for visiting. I am currently a PhD candidate at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and an adjunct philosophy instructor at Asbury University. For more than 8 years, I've successfully helped learners of all ages to grow and flourish. I use immersive Socratic dialogue about great books in an authentic, friendly but rigorous classroom environment. 
 
 My life was forever altered by attending the Torrey Honors Institute where we spent thousands of hours in discussion of the best books, music, art, and thoughts humans have produced. 
 
