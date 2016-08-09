@@ -2,11 +2,12 @@
 layout: single
 title: About Keith
 permalink: /about/
+author_profile: true
 ---
 
-<img src="/images/keithbuhler-golden.png" alt="Keith Buhler, Philosopher" hspace="30px" align="right" width="23%"> 
+<img src="/images/keith-rich-lindsay.JPG" alt="Keith, Father, and Wife" hspace="30px" align="right" width="23%"> 
 
-I'm a philosopher, classical educator, and writer. 
+I'm Keith Buhler, a philosopher, classical educator, and author. 
 
 Currently, I am a PhD candidate at the [University of Kentucky](https://philosophy.as.uky.edu/users/kebu226) and an adjunct philosophy instructor at Asbury University. 
 
