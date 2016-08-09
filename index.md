@@ -6,6 +6,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: kentucky3.jpg
 excerpt: 
+author_profile: true
 --- 
 
 <img src="/images/greene2.png" alt="Transform by changing" hspace="30px" align="right"> 
