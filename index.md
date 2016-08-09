@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: page
 title: Buhler? Anyone?
 header: 
   overlay_color: "#000"
@@ -8,6 +8,8 @@ header:
 excerpt: 
 author_profile: true
 --- 
+
+<br>
 
 <img src="/images/greene2.png" alt="Transform by changing" hspace="30px" align="right"> 
 
