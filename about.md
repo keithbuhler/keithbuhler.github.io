@@ -24,6 +24,7 @@ We are also raising two toddlers, which is a  messy experience. However, they do
 
 In my 45 minutes per month of spare time, I like to draw, sculpt, write screenplays, and [compose lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time. My art is mostly for myself and friends. I've written several feature length screenplays (none produced yet!) and self-published a book-length Platonic dialogue. 
 
+<div align="center"> &nbsp;&nbsp; <img src="/images/seal-biola.png" alt="Biola" height="50" align="center" hspace="10px" width="50"> &nbsp;&nbsp; <img src="/images/seal-thi.png" alt="Torrey Honors" height="50" width="50" align="center" hspace="10px"> &nbsp;&nbsp; <img src="/images/seal-balamand.png" alt="Balamand" height="52" width="52" align="center" hspace="10px"> &nbsp;&nbsp; <img src="/images/seal-uk.png" alt="Kentucky" height="50" width="50" align="center" hspace="10px"> &nbsp;&nbsp; </div>
 
 ## Contact
 
