@@ -11,7 +11,7 @@ author_profile: true
 
 <br>
 
-<img src="/images/greene2.png" alt="Transform by changing" hspace="30px" align="right"> 
+<img src="/images/greene4.jpeg" alt="Transform by changing" hspace="30px" align="right"> 
 
 Currently, I am finishing my PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. For more than 8 years, I've successfully helped learners of all ages to grow and flourish by using immersive Socratic dialogue about great books in an authentic and fun classroom environment.
 
