@@ -8,15 +8,15 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<img src="/images/avatar.png" alt="{{ author.name }}">
     {% else %}
     	<img src="/images/keithbuhler-bw-smaller.png" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+   <div class="author__content">
+    <h3 class="author__name">Keith Buhler</h3>
+    {% if author.bio %}<p class="author__bio">Philosopher, classical educator, and author.</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
