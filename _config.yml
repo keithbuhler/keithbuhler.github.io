@@ -13,24 +13,19 @@ words_per_minute: 200
  url:       https://keithbuhler.com/
  baseurl:   
 
-# Owner/author information
+# author info
+
 author:
-  name:           "Keith Buhler"
-  avatar:         "keithbuhler-golden.png"
-  bio:            "Philosopher, educator, and author"
-  email:          "keithedbuhler@gmail.com"
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        "Keith_Buhler"
-  facebook:       "keithedbuhler"
-  github:         "keithbuhler"
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  youtube:      https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:  +KeithBuhler
+  name      : "Keith Buhler"
+  avatar    : "avatar.png"
+  bio       : "Philosopher, classical educator, and author"
+  email     : "keithedbuhler@gmail.com"
+  url       : "https://www.keithbuhler.com"
+  github    : "keithbuhler"
+  google_plus:  "+KeithBuhler"
+  facebook  : "keithedbuhler" 
+  twitter   : "Keith_Buhler"
+  youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
 
 social: 
   type: 
