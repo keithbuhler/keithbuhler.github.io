@@ -7,8 +7,6 @@ excerpt:
 author_profile: true
 ---
 
-<br>
-
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
 I am currently finishing a PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. I aim to develop a plausible account of naturalistic normative realism.
@@ -18,7 +16,6 @@ In the classroom, I use humor and immersive Socratic dialogue about great books 
 * You can read more [about me here.](/about)
 * Peruse my [curriculum vitae.](/cv)
 * Explore my [courses](/teaching) or [research.](/research)
-* Or pass through the [Student Portal.](/students) 
+* Or enter the [Student Portal.](/students) 
 
-<br>
 <br>
