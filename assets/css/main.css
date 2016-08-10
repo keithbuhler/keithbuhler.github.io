@@ -61,7 +61,7 @@ p>code:before,p>code:after,a>code:before,a>code:after,li>code:before,li>code:aft
 hr{display:block;margin:1em 0;border:0;border-top:1px solid #f2f3f3}
 ul li,ol li{margin-bottom:0.5em}
 li ul,li ol{margin-top:0.5em}
-figure{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:2em 0}
+figure{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:flex-end;-ms-flex-pack:justify;justify-content:flex-end;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:2em 0}
 figure img,figure iframe,figure .fluid-width-video-wrapper{margin-bottom:1em}
 figure img{width:100%;border-radius:4px;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out}
 figure>a{display:block}
