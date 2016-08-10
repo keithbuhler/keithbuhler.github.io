@@ -13,7 +13,10 @@ theme: white
 
 </section><section data-markdown>
 
-### This site is designed to help you to make the most out your class. As in life, you will reap what you sow.  
+### This site is designed to help you to make the most out your class. 
+
+Keep scrolling, or [skip to the main site.](/philosophyportal)
+
 
 </section><section data-markdown>
 
@@ -31,7 +34,6 @@ theme: white
 8. ["I want to contact you to talk about something."](http://www.keithbuhler.com/philosophyportal-splash#/0/13)
 7. ["I'm not sure why I'm here."](http://www.keithbuhler.com/philosophyportal-splash#/0/14)
 
-You can also [skip to the main site](/philosophyportal) or keep scrolling.
 
 </section><section data-markdown>
 
@@ -44,7 +46,7 @@ Welcome! We're going to have a great semester.
 - [Read more about the benefits of studying philosophy.](http://www.whystudyphilosophy.com) 
 - Or, blow your mind by opening a random page on Wikipedia and [getting to philosophy.](/philosophyportal/wikipedia)
 
-
+[Philosophy portal home.](/philosophyportal)
 
 </section><section data-markdown>
 
@@ -60,14 +62,15 @@ Welcome! We're going to have a great semester.
 - Do the Course Evaluation online.
 - Also, [rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.
 - If you want to share criticism, compliments, or other comments, [email me or let's sit down and talk.](emailto:keith.buhler@uky.edu)
-- [Or click here.](/philosophyportal/philosophy-6-next)
+
+[Philosophy portal home.](/philosophyportal)
 
 </section><section data-markdown>
 
 ### "I'm just checking your philosophy site out."
 
 - Cool! I hope you like it. 
-- You can explore the resources on my [main site here.](/philosophyportal)
+- You can explore the resources on the [Philosophy portal home.](/philosophyportal)
 
 </section><section data-markdown>
 
@@ -102,6 +105,8 @@ Read these and you'll get the burn that only philosophy can give you.
 * [Kant, *Metaphysics of Morals*](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf).
 * And talk to your professors. 
 
+[Philosophy portal home.](/philosophyportal)
+
 </section><section data-markdown>
 
 ### "I'm considering majoring in philosophy."
@@ -109,7 +114,7 @@ Read these and you'll get the burn that only philosophy can give you.
 - Good. You *should* consider a minor or major.
 - Believe it or not, studying philosophy can help you to [find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophyportal/philosophy-3-major)
 
-
+[Philosophy portal home.](/philosophyportal)
 
 
 </section><section data-markdown>
@@ -123,6 +128,8 @@ Being a professional academic is not for everyone. Is it for you?
 * [The Leiter Report](http://leiterreports.typepad.com/) is a great blog for many aspects of the profession.
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
+
+[Philosophy portal home.](/philosophyportal)
 
 </section><section data-markdown>
 
@@ -144,6 +151,8 @@ Being a professional academic is not for everyone. Is it for you?
 
   - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 
+[Philosophy portal home.](/philosophyportal)
+
 </section><section data-background="https://i.ytimg.com/vi/gY50hnprl98/maxresdefault.jpg" data-markdown>
 
 </section><section data-markdown>
@@ -156,11 +165,12 @@ Being a professional academic is not for everyone. Is it for you?
 - or some other [philosophy resources](/philosophyportal/philosophy-resources)
 - Or, just read about [Mary Shelly](https://en.wikipedia.org/wiki/Mary_Wollstonecraft), one of the first modern female philosophers.
 
+[Philosophy portal home.](/philosophyportal)
 
 </section><section data-markdown>
 
 # Thanks for visiting
 
-[Go to the main site.](/philosophyportal)
+[Go to the Philosophy Portal Home.](/philosophyportal)
 
 </section><!---end slideshow-->
