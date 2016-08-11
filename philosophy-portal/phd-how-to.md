@@ -230,7 +230,7 @@ The biggest problem that he had was about the *normative* force of neo-Aristotel
 
 I asked him about timelines. I have to give him Chapters 5 and 6, and then make the changes to 4 (if they are still needed). The editor I am paying to read and comment on 5 and 6 is still at work on them, but then I'll make some adjustments and pass them along. 
 
-I'm glad I've been working on [formatting](/writing-tools). Now some of that early work is paying off.
+I'm glad I've been working on [formatting](/buhlerreport/writing-tools). Now some of that early work is paying off.
 
 
 

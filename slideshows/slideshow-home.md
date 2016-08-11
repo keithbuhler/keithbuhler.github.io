@@ -6,8 +6,8 @@ permalink: /slides/
 
 ## Business Ethics Slides
 
-* [Week 1 Introduction](http://www.keithbuhler.com/slideshows/business1intro)
-* [Week 2 Truth](http://www.keithbuhler.com/slideshows/business2truth)
+* [Week 1 Introduction](/slideshows/business1intro)
+* [Week 2 Truth](/slideshows/business2truth)
 * [Week 3 Utilitarianism](http://www.keithbuhler.com/slideshows/business3util)
 * [Week 4 Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
 * [Week 5 Virtue ethics](http://www.keithbuhler.com/slideshows/business5virtue)
@@ -17,7 +17,7 @@ permalink: /slides/
 ## CS Lewis Slides
 
 * [Week 1 Introduction](/slideshows/lewis1intro)
-* [Week 2 Truth](/slideshows/lewis2truth)
+
 
 
 ## Introduction to Philosophy Slides
