@@ -6,7 +6,7 @@ author_profile: true
 
 Thanks for visiting. I hope you find the site fun, easy on the eyes, and informative. 
 
-[Let me know](emailto:info@keithbuhler.com) if you spot any typos or dead links.) 
+([Let me know](emailto:info@keithbuhler.com) if you spot any typos or dead links.) 
 
 Everything was created by Keith Buhler using a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax). Plain text Markdown files are converted to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) While the source HTML is *stored* on my hard-drive, it's *hosted* for free by an open-source community called [Github](http://www.github.com).
 
