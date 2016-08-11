@@ -4,17 +4,20 @@ title: How to Get a PhD in Philosophy
 permalink: /phd-how-to
 --- 
 
-[Another page explains my research.](/phd) This post gives some advice on each stage of the process. 
+*[Another page explains my research.](/phd) This post gives some advice on each stage of the process.*
 
-### Do you want to go to graduate school? My story  ###
-
-In 2011, my wife and I decided to pursue a PhD in philosophy. 
+### Do you want to go to graduate school?
 
 This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
 
 An earnest desire is necessary but not sufficient. You need desire and aptitude. Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself. 
 
 Some of those who study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university, or get non-academic jobs.  
+
+
+### My story
+
+By 2011, my wife and I had decided to pursue a PhD in philosophy. 
 
 For me, the discernment process was long. I enjoyed philosophy as an undergraduate but also enjoyed art and psychology. I had known for five years I wanted to pursue further graduate training. I needed to work, so I got a job teaching classics in a high school. I was accepted to, but never began, a psychology doctoral program. It didn't feel right. Instead, I began an M.A. in theology. 
 
