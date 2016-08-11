@@ -37,7 +37,7 @@ Contrary to popular belief, you *can* go from graduating college straight into a
 
 Pro -- [MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  The end goal is to learn a lot, hone your writing, get good references (for PhD applications) or move on to your career.  Con -- they extend your total time to job market from average 7 years to average 9 years. 
 
-Pro -- [PhDs, in general, get you on the job market in average 7 years.](http://www.nsf.gov/statistics/infbrief/nsf06312/) The end goal is to become a professor and/or researcher at a university. They often pay you to teach or research along the way to your degree. Con -- unless your philosophical writing is exceptionally good (in your professors' opinion, not in your opinion), you may not be able to reach a more prestigious school without an MA,  developed research plans, and good references.
+Pro -- [PhDs, in general, get you on the job market in average 7 years.](http://wayback.archive-it.org/5902/20160210153659/http://www.nsf.gov/statistics/infbrief/nsf06312/) The end goal is to become a professor and/or researcher at a university. They often pay you to teach or research along the way to your degree. Con -- unless your philosophical writing is exceptionally good (in your professors' opinion, not in your opinion), you may not be able to reach a more prestigious school without an MA,  developed research plans, and good references.
 
 For me, the time factor was big. Even though I didn't have a completed MA, I was able to get in to UK on the strength of my writing sample, GRE score, and good references. 
 

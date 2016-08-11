@@ -8,7 +8,7 @@ permalink: /slides/
 
 * [Week 1 Introduction](/slideshows/business1intro)
 * [Week 2 Truth](/slideshows/business2truth)
-* [Week 3 Utilitarianism](http://www.keithbuhler.com/slideshows/business3util)
+* [Week 3 Utilitarianism](/slideshows/business3util)
 * [Week 4 Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
 * [Week 5 Virtue ethics](http://www.keithbuhler.com/slideshows/business5virtue)
 * [Week 6 Inside Job (Film)] coming soon
