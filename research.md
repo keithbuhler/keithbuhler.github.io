@@ -18,7 +18,7 @@ My [dissertation](/phd) defends the role of a naturalized teleology in ethical n
 
 In this pursuit, I interact with a group of philosophers such as [Jennifer Frey](https://jennfrey.wordpress.com/), [Micah Lott](http://www.bc.edu/schools/cas/philosophy/faculty/lott.html), [Chris Toner](https://www.stthomas.edu/philosophy/faculty/christopher-h-toner.html), [James Barham](http://www.isnature.org/Bios/Barham.htm), and [Stephen R. Brown](http://old.briarcliff.edu/departments/theology/theo_new/brown.aspx). 
 
-[David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh) is my dissertation director. [Anita Superson](/https://philosophy.as.uky.edu/users/superson), [Dan Breazeale](/https://philosophy.as.uky.edu/users/breazeal) and [Mark Kightlinger](/http://law.uky.edu/directory/mark-f-kightlinger) also serve as unwavering supporters and indefatigable critics. 
+[David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh) is my dissertation director. [Anita Superson](https://philosophy.as.uky.edu/users/superson), [Dan Breazeale](https://philosophy.as.uky.edu/users/breazeal) and [Mark Kightlinger](http://law.uky.edu/directory/mark-f-kightlinger) also serve as unwavering supporters and indefatigable critics. 
 
 Outside of ethics, I work on physicalism (e.g., the causal closure principle), religion, and naturalism. Future work in ethics will address issues in bioethics and  social justice. 
 

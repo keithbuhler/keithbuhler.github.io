@@ -39,7 +39,8 @@ S2013 Introduction to Logic
  
 ### Student Feedback Highlights ###
 
-1. “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
+1. “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
+2. “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
 2. "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
 3. "You have challenged me and helped me grow as person." (PHI305, 2015)
 4. "I was really surprised that readings, lectures and discussions could change the opinion of my stubborn self." (PHI305, 2015)
@@ -53,9 +54,9 @@ S2013 Introduction to Logic
 
 ### Employers and Parent Feedback
 
-> "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him." 
-> --Peter David Gross, Executive Director at Wheatstone Ministries
+> "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."   
+>--Peter David Gross, Executive Director at Wheatstone Ministries
 
 
->Keith is a dedicated and motivated instructor, who imparts knowledge with just the right amount of humor to keep his students (and listening parents) engaged, and wanting to come back for more. He relates well with all ages, and is an asset to the teaching/tutoring community. 
---Lynn Schott, Owner/Instructor at Founders Academy; Councilwoman, City of Irvine, California
+>Keith is a dedicated and motivated instructor, who imparts knowledge with just the right amount of humor to keep his students (and listening parents) engaged, and wanting to come back for more. He relates well with all ages, and is an asset to the teaching/tutoring community.   
+>--Lynn Schott, Owner/Instructor at Founders Academy; Councilwoman, City of Irvine, California

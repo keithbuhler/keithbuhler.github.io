@@ -17,9 +17,9 @@ This site captures a few of my articles, short stories, fairy tales, screenplays
 ### Philosophical Dialogues
 * [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
-* [Still In the Shining Sea: An American Myth](/american-myth) (short story)
-* [The Sin of Satan: On the Problem of Evil](/sinofsatan) (dialogue)
-* [Heraclitus Defragmented: An Interpretation](/heraclitus)
+* [Still In the Shining Sea: An American Myth](/buhlerreport/american-myth) (short story)
+* [The Sin of Satan: On the Problem of Evil](/buhlerreport/sinofsatan) (dialogue)
+* [Heraclitus Defragmented: An Interpretation](/buhlerreport/heraclitus)
 
 
 ### Short Stories, Fables, and Fairy Tales ##
@@ -50,7 +50,7 @@ This site captures a few of my articles, short stories, fairy tales, screenplays
 * [College Student Might Give Professor a "2"](http://ukcolonel.com/uk-student-might-rate-professor-as-a-2/)  
 * [Woman Finds Man of her Dreams](https://drive.google.com/file/d/0B0CYQDZ8AWu8MXRnaTJza0lTR1k/view)  
 * [Henry and Janet's Big Day](https://drive.google.com/file/d/0B0CYQDZ8AWu8V2JvZlhTcFNXLXc/view)
-* [On Bad Words](/badwords)   
+* [On Bad Words](/buhlerreport/badwords)   
 
 
 
@@ -60,7 +60,7 @@ This site captures a few of my articles, short stories, fairy tales, screenplays
 * [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
 * [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHowcom)
 * [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
-* [Is Beauty Objective?](/is-beauty-objective)
+* [Is Beauty Objective?](/buhlerreport/is-beauty-objective)
 
 ### Film and Music Criticism
 * [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  

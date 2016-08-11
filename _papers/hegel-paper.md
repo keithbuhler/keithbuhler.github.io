@@ -3,6 +3,9 @@ layout: default
 permalink: /hegel/
 --- 
 
+      Hegel, look up Madison Federalist paper - Madison 10; also Language for Hegel might be a natural limit. 
+
+
 "...This naturally depends on the numbers concerned." --Hegel, *Philosophy of Right*, § 270.
 
 ### Morality and *Rechte*: the Scale of Ethical Life
