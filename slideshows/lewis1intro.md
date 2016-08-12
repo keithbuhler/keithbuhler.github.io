@@ -261,10 +261,16 @@ Was born in Belfast, Ireland.
 
 ## Sehnsucht
 
+We will discuss on Friday.
+
 </section><section data-background="https://upload.wikimedia.org/wikipedia/commons/5/51/The_Wolves_Pursuing_Sol_and_Mani.jpg" data-markdown>
 
 
 ## Meditation in a Toolshed
+
+What is the difference between looking at and looking "along"? 
+
+Which is more accurate?
 
 </section><section data-markdown>
 
@@ -273,7 +279,7 @@ Was born in Belfast, Ireland.
 
 * Questions?
 * Write a short response: How can two points of view be reconciled?
-* Friday: discuss Kreeft handout
+* Friday: discuss Higgins video
 
 </section>
 </section> <!--Wed end-->
@@ -289,24 +295,7 @@ Was born in Belfast, Ireland.
 
 </section><!--end slide--> <section data-markdown>
 
-## Kreeft's basic thesis? 
-
-_Truth is real._
-
-</section> <section data-markdown>
-
-### Three senses of "Truth"
-
-|Name            |  Sense         |    Example       |
-|----------------|----------------|------------------|
-| Substantive Truth | Reality itself |          Mount Everest being a mountain. |
-| Knowledge       |  Thinking truly  |         *Mount Everest is a mountain.* |
-| True words      |  Speaking truly  |         “Mount Everest is a mountain.” |
-
-
-
-
-</section> <section data-markdown>
+### Truth and Longing
 
 >“Truth is saying of what is that it is, and of what is not that it is not.” (Aristotle)
 
@@ -343,7 +332,7 @@ Hence, also, Nietszsche:
 ### Truth and Longing
 
 - We *must* accept the truth, even if it is ugly.
-- We can enjoy the beautiful, high, voluptuous, and splendid Northernness, even if it is false. 
+- We *are free* enjoy the beautiful, high, voluptuous, and splendid Northernness, even if it is false. 
 
 
 </section><section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
@@ -352,7 +341,17 @@ Hence, also, Nietszsche:
 
 </section><section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
 
-Sorina Higgins
+## What is Higgins' basic thesis?
+
+<fragment>
+
+The main theme of Lewis' corpus is joy, or Zehnsuchte.
+
+</fragment>
+
+</section><section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
+
+[Sorina Higgins'](https://s3.amazonaws.com/media.mythgardacademy/GuestLectureSeries/2014-10-07_TheHeraldryofHeaven.mp4)
 
 </section>
 <section data-background="http://mesosyn.com/myth1-Norse-Yggdrasil.jpg" data-markdown>
@@ -361,6 +360,6 @@ Sorina Higgins
 * Is Kreeft right?
 * Questions?
 * Write a short response: is truth objective? 
-* Read Mere Christianity
+* Start Mere Christianity! Read Book I (first five chapters)
  
 </section><!--end truth-->

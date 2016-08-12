@@ -288,7 +288,7 @@ tr,td,th{vertical-align:middle}
 .greedy-nav a:hover{color:#cc7a00}
 .greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#ccc;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table}
-.greedy-nav .visible-links li{display:table-cell;vertical-align:middle}
+.greedy-nav .visible-links li{display:table-cell;vertical-align:middle; float: right}
 .greedy-nav .visible-links li:first-child{font-weight:bold}
 .greedy-nav .visible-links li:first-child a{margin-left:0}
 .greedy-nav .visible-links li:last-child a{margin-right:0}
