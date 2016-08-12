@@ -8,16 +8,16 @@ header:
   overlay_filter: "0.0"
   overlay_image: nasmith-banner.jpeg
   caption: "[**Nasmith**](http://www.tednasmith.com/)"
-excerpt: "This sandbox hosts a bunch of projects I am playing with, from sketch to complete. Thanks for visiting"
+excerpt: "This sandbox hosts a bunch of projects I am playing with, from sketch to complete. Thanks for visiting."
 intro: 
   - excerpt: ''
 feature_row:
   - image_path: fun-buhler.png
     alt: "The Buhler Report"
-    title: "BUHLER REPORT"
+    title: "Buhler Report"
     excerpt: "Thoughtful reflection on timeless truth and current events."
     url: "http://www.keithbuhler.com/buhlerreport"
-    btn_label: "Read"
+    btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: pythagoras-pyramid.png
     title: "Philosophy Portal"
@@ -30,7 +30,7 @@ feature_row:
     title: "Classical Education 101"
     excerpt: "Three distinctive features of classical education. Resources, links, and more."
     url: "http://www.keithbuhler.com/buhlerreport/classical-education"
-    btn_label: "More"
+    btn_label: "Read"
     btn_class: "btn--inverse"
 feature_row2:
   - image_path: fun-lewis.png
@@ -38,7 +38,7 @@ feature_row2:
     title: "Inklings.info"
     excerpt: "Information, books, and lists about the Oxford Dons."
     url: "http://www.inklings.info"
-    btn_label: "Get an Inkling"
+    btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: fun-plantinga.png
     alt: "Advice"

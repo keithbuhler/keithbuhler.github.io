@@ -1,25 +1,31 @@
 ---
-title: Writings | Fiction and Non-Fiction
+title: Fiction and Non-Fiction Writings
 layout: single
 permalink: /writings/
 ---
 
-My writings have been published online and in print. But I am a devout amateur: I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
+This site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
 
-I have been composing poetry, fiction, and writing essays for many years. 
+I am a devout amateur: I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
+
+My writings have been published in print and online. But I will continue to write even if I never get published again. 
 
 Right now, I'm taking a break from such things to write my [dissertation](/phd). Hopefully one day soon I will get back to it. 
 
-This site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
+-- Keith
 
+<hr> 
+
+### Books
+
+* [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
 
 
 ### Philosophical Dialogues
-* [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
 * [Still In the Shining Sea: An American Myth](/buhlerreport/american-myth) (short story)
 * [The Sin of Satan: On the Problem of Evil](/buhlerreport/sinofsatan) (dialogue)
-* [Heraclitus Defragmented: An Interpretation](/buhlerreport/heraclitus)
+* [Heraclitus De-fragmented: An Interpretation](/buhlerreport/heraclitus)
 
 
 ### Short Stories, Fables, and Fairy Tales ##
@@ -51,7 +57,6 @@ This site captures a few of my articles, short stories, fairy tales, screenplays
 * [Woman Finds Man of her Dreams](https://drive.google.com/file/d/0B0CYQDZ8AWu8MXRnaTJza0lTR1k/view)  
 * [Henry and Janet's Big Day](https://drive.google.com/file/d/0B0CYQDZ8AWu8V2JvZlhTcFNXLXc/view)
 * [On Bad Words](/buhlerreport/badwords)   
-
 
 
 ### Non-Fiction
