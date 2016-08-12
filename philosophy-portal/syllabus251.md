@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /syllabus251
+title: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)
 ---
 
 ### [Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)](/philosophy-portal/syllabus251.pdf)
