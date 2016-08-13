@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /cv/
+title: Keith Buhler Curriculum Vitae
 --- 
 
 ### CURRICULUM VITAE
@@ -45,9 +46,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2012-16 &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
 
 
-### COURSES TAUGHT 
-
-### University of Kentucky
+### COURSES TAUGHT, University of Kentucky
 
 2016 &nbsp;&nbsp; Business Ethics (upper division)  
 2015-16 &nbsp;&nbsp; Health Care Ethics (upper division)  

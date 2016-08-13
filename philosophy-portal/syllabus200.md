@@ -79,7 +79,7 @@ I typically do not round up. So 89.5 is a “B”. Your best bet for getting an 
 
 ### Reading
 
-The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. Reading tips are online. 
+The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. [Reading tips are online.](http://www.keithbuhler.com/philosophyportal/philosophy-class)
 
 Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes at 9am when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
 
@@ -111,14 +111,14 @@ Everyone starts at an 80% (B-) for the participation grade. You will move up or 
 
 What are the "ground rules" for discussion? The rules are hard to articulate. I give you a few rules that I have found to help, but the real rules are bigger and deeper. In fact, you can break my little rules and you’re still OK. I can criticize your opinion and you’re still OK. You can criticize my opinions and we’re still OK. You can say something “mean” or politically incorrect and we’re all OK. You can ask people to be nicer, and we’re OK. You can even criticize my teaching, and I’m OK. Trust the process. We’re going to try, *together* to make something of our discussions. 
 
-Other discussion ground rules are posted online. 
+Other discussion ground rules are [posted online.](http://www.keithbuhler.com/philosophyportal/discussion101)
 
 ### Tests
 
 There are two quarter exams: one at the end of the first quarter, and one at the end of the third quarter. (No midterm or final). These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted online.
 
 ### Disputation Papers
-Every 2 weeks or so, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. The instructions are posted online. 
+Every 2-4 weeks, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. [The instructions are posted online.](http://www.keithbuhler.com/philosophyportal/disputations)
 
 ### Extra Credit
 Those who opt for extra credit may do so. Instructions are posted online.
