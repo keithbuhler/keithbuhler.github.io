@@ -67,7 +67,7 @@ You will be graded equally on each component, plus applicable extra credit.
 | Extra Credit                      | 5% (max) |
 
 
-Letter Grade | Percentage
+|Letter Grade | Percentage |
 |-----------------|-------------|
 | A  | 99%-90%     |
 | B | 89%-80%      |

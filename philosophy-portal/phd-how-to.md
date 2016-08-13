@@ -118,17 +118,22 @@ Now I was able to begin researching in my area in order to pass the "qualifying 
 I started reading in force. I downloaded articles from PhilPapers or JSTOR and purchased or checked out books by a few of my favorite authors: John McDowell, Philippa Foot, Alasdair MacIntyre, Iris Murdoch, Rosalind Hursthouse, Alan Gibbard, Michael Thompson, and so on. I read, took notes, and occassionaly attempted the foolhardy task of writing a whole chapter draft. These drafts were pretty universally junk, but writing them helped me think things through. 
 
 
-### 8. How do you pass the Qualifying Exams? ##
+## 8. How do you pass the Qualifying Exams?
 
 This is simply a matter of doing the reading in your area. Take notes as you go -- quotations (with full citation information or you will regret it!) and sentences or paragraphs in your own words. These many, many notes will serve as raw material when you begin writing exams and chapters. 
 
 
-### 10. How do you write a dissertation? ##
+## 10. How do you write a dissertation?
 
 [Start by reading this awesome instruction set from Proffessor Robert Paul Wolff](http://robertpaulwolff.blogspot.com/2010/07/how-to-write-doctoral-dissertation-in.html)
 
-The plan right now is to write one page per day, every day, 7 days a week, until draft 1 is done. "Done" df = 6 chapters, 40 pages each, 12,000 words each, for 72,000 words total and about 280 pages.
+You should also read this post from [Chronicle blog:](https://chroniclevitae.com/news/1273-your-dissertation-begins-in-your-first-seminar?cid=at&utm_source=at&utm_medium=en&elq=f5810d24e3674ebeac1c2d2f88f76945&elqCampaignId=2342&elqaid=7728&elqat=1&elqTrackId=751999ad23b24e25a86b6c5e0f986490#sthash.R26cqFMv.dpuf)
 
+>Before you write a word, make an annotated bibliography. Begin with your primary text. Read through it a second, third, fourth time, painfully closely. Take copious, discursive notes on everything you find most interesting. Then find the five most-cited secondary sources for your subject. For each one, summarize its theses, extract the five most relevant quotes, and write a brief response. Do you agree? Why or why not? When you’re done, mine the bibliographies in those secondary sources for their most-cited sources, and repeat until you have 10 to 15 sources. 
+> Take a deep breath, and flesh that “skeleton” out into your first real rough draft, and then leave it untouched for at least a weekend. Now comes your next opportunity for a Dissertation Simulator: With a fresh pair of eyes, read through your “zero draft” as if you are an editor who does not have to make any of the changes you suggest. Mark up the flaws. Be merciless. Think of the meanest faculty member you have ever known, and put that person’s voice in your head. Does mean-you hurt your feelings? Perhaps make you want to cry? 
+
+
+The plan right now is to write one page per day, every day, 7 days a week, until draft 1 is done. "Done" df = 6 chapters, 40 pages each, 12,000 words each, for 72,000 words total and about 280 pages.
 
 One good structure idea:
 
@@ -174,7 +179,7 @@ The University of Kentucky asks graduate students to make three increasingly spe
 3. The Dissertation Proposal "pitches" my specific project: to defend an account of virtue, practical reason, and happiness drawing on three  contemporary virtue ethicists. [(First draft here)](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view)
 
 
-## 15 Oct 2015
+### 15 Oct 2015
 
 I wrote and re-wrote my dissertation proposal many times. I discussed it with my wife (she has a background in philosophy) and with my advisor. Eventually it was submitted to my advisor. 
 
