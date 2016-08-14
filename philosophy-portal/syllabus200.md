@@ -6,7 +6,7 @@ permalink: /syllabus200
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200, Fall 2016 Syllabus)](/philosophy-portal/syllabus200.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Office Hours:** Wednesdays 8-9, Kinlaw Library by the Lewis Corner.
+**Office Hours:** T/Th, 9:30-10:30 Kinlaw Library by the Lewis Corner.
 
 ### Required Texts
 
@@ -41,7 +41,7 @@ This course is eclectic in themes. Recurring questions are (1) "Who are you?" (2
 
 There is no textbook; instead, we will consume books, essays, and film including history, Scripture, biography, and fiction. There are no long lectures; we will dialogue together every day. Don't just sit back waiting to be programmed with knowledge. Rather, begin to discuss these topics in class and out of class. You will be confused. Enjoy the ride. Ask questions. Get frustrated. Doodle. Guess. Take risks. 
 
-There are only two tests; more important is that we become competent in skills like reading, dialoguing, and writing clearly and logically. The top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline. These skills you can improve in philosophy but they are not just useful for philosophy. They will make you better in computer programming or chemistry, better in motherhood or the ministry. 
+There are only two tests; more important is that we become competent in skills like reading, dialogging, and writing clearly and logically. The top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline. These skills you can improve in philosophy but they are not just useful for philosophy. They will make you better in computer programming or chemistry, better in motherhood or the ministry. 
 
 There are no *easy* answers; instead, we will find hard answers, if we work at it. The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We enter into the Great Conversation with our own, often confused, thoughts. We may learn to love God with our minds. We may become more connected, integrated, thoughtful, reflective human beings. We may become part of the Conversation, and by it be forever changed. 
 
@@ -53,7 +53,7 @@ There are no *easy* answers; instead, we will find hard answers, if we work at i
 * To practice reflect thinking upon our own lives, beliefs, attitudes, culture, and goals, in order to become more thoughtful human beings in the pursuit of goodness, truth, and beauty.
 
 ## Scope and Sequence
-This course focuses on an ecclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
+This course focuses on an eclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
 
 ### Grading
 You will be graded equally on each component, plus applicable extra credit.
@@ -81,7 +81,7 @@ I typically do not round up. So 89.5 is a “B”. Your best bet for getting an 
 
 The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. [Reading tips are online.](http://www.keithbuhler.com/philosophyportal/philosophy-class)
 
-Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes at 9am when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
+Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
 
 ### Attendance
 We need you here! Attendance is mandatory. Roll will be taken each class by marking a 3x5 card.  (Being repeatedly or egregiously late will count as an absence.) You may check your absences at any time by requesting to see your card. I recommend you aim for perfect attendance to maximize your learning. You are paying for this education including this class, so why wouldn’t you make the most of it?  
@@ -105,7 +105,7 @@ We do dialogue for five main reasons: (1) You must take responsibility for your 
 
 *You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
 
-To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal procesors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal processors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
 
 Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) 
 

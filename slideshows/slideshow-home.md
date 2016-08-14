@@ -1,6 +1,6 @@
 ---
 title: Slideshow index
-layout: philosophy
+layout: single
 permalink: /slides/
 ---
 

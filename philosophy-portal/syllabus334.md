@@ -1,5 +1,5 @@
 ---
-layout: philosophy
+layout: single
 permalink: /syllabus334
 title: Business Ethics Syllabus (PHI 334, Fall 2016)
 description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philosophy class at the university of kentucky.
@@ -9,7 +9,7 @@ description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philo
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  
-**Office Hours**: Wed 2-3pm, before/after class, and by appointment.   
+**Office Hours**: CB Wed 2-3pm, , before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
 
