@@ -144,7 +144,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
 
 
 ### Course Outline B draft
