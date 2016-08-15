@@ -7,7 +7,7 @@ title: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)
 ### [Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)](/philosophy-portal/syllabus251.pdf)
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: @keith\_buhler  
+**Twitter**: @ keith\_buhler  
 **Web**: www.keithbuhler.com / Discovery    
 **Office Hours:** (*Tentative*) Tues 12-1, Kinlaw Library by Lewis Corner.  
 
@@ -179,58 +179,59 @@ Week 6
 
 
 Week 7   
+
 **M       Sep-26  Abolition of Man Chapters 1, 2**   What is the "Tao"? Why does it matter for education? How does "the Green Book" contradict itself?    
-W       Sep-28  Abolition of Man 3      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  
+**W       Sep-28  Abolition of Man 3**      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  
 F       Sep-30  Discussion / Paper Workshop     
 
-M       Oct-3  (Film) 1st half  
-W       Oct-5   (Film) 2nd half  
-F       Oct-7   Midterm 
+**M       Oct-3  (Film) 1st half** 
+**W       Oct-5   (Film) 2nd half**  
 
-#### Week 8  (quiz here)
-M       Oct-10  Miracles, part I        What is NOT a miracle? How could one prove a miracle?   
-W       Oct-12  Miracles, part II        
-F       Oct-14  No Class, Fall Break     
+F       Oct-7   Midterm   
 
-Week 9 
-M       Oct-17  Miracles, part III      What is the Grand Miracle and why does it matter? Any objections?   
-W       Oct-19  Miracles, part IV          
-F       Oct-21  Discussion       
+Week 8  (quiz here)   
+**M       Oct-10  Miracles, part I**        What is NOT a miracle? How could one prove a miracle?     
+**W       Oct-12  Miracles, part II**        
+**F       Oct-14  No Class, Fall Break**     
 
-M       Oct-24  Miracles, part V (chs. 12-14)   
-W       Oct-26  Miracles, part VI (chs. 15-16)  
-F       Oct-28  Discussion      
+Week 9   
+**M       Oct-17  Miracles, part III**      What is the Grand Miracle and why does it matter? Any objections?   
+**W       Oct-19  Miracles, part IV**          
+**F       Oct-21  Discussion**       
 
-M       Oct-31  Experiment in Criticism ch. 1   
-W       Nov-2   Experiment in Criticism, 3, 11, epilogue.       
-F       Nov-4   Discussion      
+Week 10  
+**M       Oct-24  Miracles, part V (chs. 12-14)**   
+**W       Oct-26  Miracles, part VI (chs. 15-16)**  
+**F       Oct-28  Discussion**      
 
+Week 11
+**M       Oct-31  Experiment in Criticism ch. 1**   
+**W       Nov-2   Experiment in Criticism, 3, 11, epilogue.**       
+**F       Nov-4   Discussion**      
+
+Week 12    
 M       Nov-7   Great Divorce chs. 1-7  
 W       Nov-9   Great Divorce chs. 8-12 
 F       Nov-11  Discussion      
 
-M       Nov-14  Perelandra 1-3  
+Week 13   
+M       Nov-14  Perelandra 1-3   
+W       Nov-16  Perelandra 4-6   
+F       Nov-18  Discussion       
 
-W       Nov-16  Perelandra 4-6  
-
-F       Nov-18  Discussion      
-
-M       Nov-21  Perelandra 7-9  
-
-W       Nov-23  Perelandra 10-12        
-
+Week 14   
+M       Nov-21  Perelandra 7-9    
+W       Nov-23  Perelandra 10-12         
 F       Nov-25  Discussion      
 
+Week 15  
 M       Nov-28  Perelandra 13-15        
-
-
 W       Nov-30  Perelandra 16-17        
-
 F       Dec-2   Weight of Glory 
 
-M       Dec-5   Solaryis (film) Final papers due
-
-W       Dec-7           
+Week 16   
+M       Dec-5   Solaryis (film) Final papers due   
+W       Dec-7            
 
 
 
