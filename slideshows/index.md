@@ -1,7 +1,7 @@
 ---
-title: Slideshow index
+title: Slideshows Index
 layout: single
-permalink: /slides/
+permalink: 
 ---
 
 ## Business Ethics Slides

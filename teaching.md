@@ -7,17 +7,9 @@ author_profile: true
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and my theatrical approach to classroom discussion. Check out my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
-
-Recently, I've taught introduction to philosophy, ethics, bioethics, virtue ethics, and philosophy of religion at two universities. 
-
-Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed courses in humanities, Great Books, and western civilization.
-
-### Teaching Statement
-
-My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
-
 ### Course Syllabi
+
+I've taught the following courses at Asbury and the University of Kentucky: 
 
 F2016 Business Ethics ([Syllabus](/syllabus334))  
 F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
@@ -30,8 +22,20 @@ F2014 Introduction to Philosophy
 F2013 Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 S2013 Introduction to Logic   
 
+### Teaching Statement
 
-### Official Student Evaluation Stats
+My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
+
+### Teaching Bio
+
+I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. Check out my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
+
+Recently, I've taught introduction to philosophy, ethics, bioethics, virtue ethics, and philosophy of religion at two universities. 
+
+Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed courses in humanities, Great Books, and western civilization. 
+
+
+### Official Evaluations
 
 - 3.6 out of 4, cumulative average in overall teaching quality (combined University of Kentucky and Asbury University)
 - 3.5 out of 4, cumulative average in overall course quality
