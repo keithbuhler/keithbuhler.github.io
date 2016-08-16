@@ -47,10 +47,6 @@ h4{font-size:1em}
 h5{font-size:0.75em}
 h6{font-size:0.75em}
 
-
-p.hidden {
-    visibility: hidden
-
 small,.small{font-size:0.75em}
 p{margin-bottom:1.3em}
 u,ins{text-decoration:none;border-bottom:1px solid #303336}
