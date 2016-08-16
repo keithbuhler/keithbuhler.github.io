@@ -24,6 +24,8 @@ Everyone has opinions about the big questions of life: reality, death, meaning, 
 
 <br>
 
+[(Click here for course syllabi... or...)](/syllabi)
+
 <center>
 
 <h1> <a href="/philosophyportal-splash"> Click here for the Philosophy Portal</a> </h1>
