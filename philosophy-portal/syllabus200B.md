@@ -21,7 +21,7 @@ Buy these three books right away. Use these ISBNS only, please. No Kindle unless
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
-- [Keith Buhler, "Logic 101"](/logic)
+- [Keith Buhler, "Logic 101"](/buhlerreport/logic)
 - [Peter Kreeft, “Are universals real?”](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
 - [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64)
 - [Richard Dawkins, “Why there is almost certainly no god”](https://drive.google.com/open?id=0B0CYQDZ8AWu8WV9IZ1liNmRDa28)
@@ -88,20 +88,20 @@ We need you here! Attendance is mandatory. Roll will be taken each class by mark
 
 That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. One week is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
-1 = -0  
-2 = -0  
-3 = -0  
-4 = -2%  
-5 = -4%  
-6 = -10%  (a letter grade)   
-7 = -12%   
-8 = -14%
-9 = -50%
+1 = -0   
+2 = -0   
+3 = -0   
+4 = -2%    
+5 = -4%    
+6 = -10%  (a letter grade)    
+7 = -12%     
+8 = -14%   
+9 = -50%   
 
 ### Participation
 The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
-We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
+We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is intrinsically dialogical. 
 
 *You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
 
@@ -144,7 +144,7 @@ Those who opt for extra credit may do so. Instructions are posted online.
 
 The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="1000"></iframe>
 
 
 ### Course Outline B draft
@@ -168,8 +168,8 @@ All semester we will be seeking truth. To be successful, we have to know whether
 
 --------
 
-**T Jan 26: Plato, *Eutyphro*; *Sophie’s World*, Socrates, Athens, Plato:   What is Holiness?**
-The best way to be introduced to philosophy is to be introduced to Socrates, his character, his conversation, his way of life. How do you react to him? Socrates begs a priest, Euthyphro, to explain what piety is. Socrates is on trial for impiety, so his life is on the line.  Euthpyhro can't answer. Can you?
+**T Jan 26: Plato, *Euthyphro*; *Sophie’s World*, Socrates, Athens, Plato:   What is Holiness?**
+The best way to be introduced to philosophy is to be introduced to Socrates, his character, his conversation, his way of life. How do you react to him? Socrates begs a priest, Euthyphro, to explain what piety is. Socrates is on trial for impiety, so his life is on the line.  Euthyphro can't answer. Can you?
 
 **R Jan 28 -- Plato, Apology: Is Socrates Guilty?**  
 Is Socrates' way of life meaningful or meaningless -- obedient to God or dangerous? Socrates does not "apologize" but "defends" himself (*apologia*, like apologetics). All of Athens, and all of history, is the jury. Is he guilty? Is philosophy a great subversive evil for the city or a great good?
