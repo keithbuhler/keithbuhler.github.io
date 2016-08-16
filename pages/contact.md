@@ -24,16 +24,12 @@ while(x=eval(x));
 </script>
 
 
+* Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
+* Secure mail:  [circularreason at protonmail.com](emailto:circularreason@protonmail.com)
+* Social: [Facebook](http://www.facebook.com/kedbuhler/)  &  [Twitter](https://twitter.com/Keith_Buhler) 
+* Call:  area 859 number 955 o822
+* Mail: 
 
-[info at keithbuhler dot com](emailto:info@keithbuhler.com)
-
-### Social Media: 
-[Facebook](http://www.facebook.com/kedbuhler/) and [Twitter](https://twitter.com/Keith_Buhler) 
-
-### Call to: 
-area 859 number 955 o822
-
-### Mail to: 
 Keith Buhler, c/o Katie Barrett  
 University of Kentucky   
 1402 Patterson Office Tower    
