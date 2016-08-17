@@ -268,14 +268,16 @@ We will discuss on Friday.
 
 ## Meditation in a Toolshed
 
+
+</section><section data-markdown>
+
 1. What is the difference between looking at and looking "along"? 
 2. Which is more accurate?
 3. Why we can't discount them all: a. "You can't think at all if you have nothing to think about." Does looking along provides the raw material for looking at? Primary experience provides the raw material for reflective experience? b. Look at is also an instance looking along. So if all looking alongs are false, then looking at is false too.
 4. "One must look both *along* and at everything."
+5. Other examples.
 
 </section><section data-markdown>
-
-
 
 ## 2 minutes left
 
