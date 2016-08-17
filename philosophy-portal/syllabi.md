@@ -32,4 +32,4 @@ feature_row:
 {% include feature_row %}
 
 
-## [Slideshow Presentations (all classes)](/slides)
+## [Slideshow Presentations (all classes)](/slideshows)
