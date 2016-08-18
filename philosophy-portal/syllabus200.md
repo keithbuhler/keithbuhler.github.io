@@ -8,6 +8,14 @@ permalink: /syllabus200
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** T/Th, 9:30-10:30 Kinlaw Library by the Lewis Corner.
 
+### Course Outline
+
+The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
+
+<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="1000"></iframe>
+
+
+
 ### Required Texts
 
 - [Jostein Gaarder, *Sophie’s World*  ISBN: 0374530718](http://amzn.to/1QJ7mEs)
@@ -139,10 +147,4 @@ Those who opt for extra credit may do so. Instructions are posted online.
 8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the Asbury University academic community. Cite your sources. [See also the Asbury academic integrity appendix](/plagiarism).
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
 
-
-### Course Outline
-
-The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
-
-<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
 

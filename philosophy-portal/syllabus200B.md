@@ -7,7 +7,7 @@ Course Outline:
 
 The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="1000"></iframe>
 
 
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/philosophy-portal/syllabus200b.pdf)  
