@@ -7,24 +7,28 @@ author_profile: true
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
+
+### Statement
+
+My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read my full teaching statement, click here.](/teaching-statement)
+
+
 ### Course Syllabi
 
-I've taught the following courses at Asbury and the University of Kentucky: 
+[Current syllabi are here](/syllabi) for the 3 courses I'm teaching this semester at Asbury and UK.  In total, I've taught 24 sections of 8 prpes:
 
-F2016 Business Ethics ([Syllabus](/syllabus334))  
-F2016 Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-S2016 Philosophy of Religion    
-S2016 Wisdom and Virtue  ([Syllabus](/syllabus-S2016-293-wisdom))   
-S2016 Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))    
-F2015 Health Care Ethics          
-S2015 Introduction to Philosophy ([Syllabus](/syllabus200))   
-F2014 Introduction to Philosophy   
-F2013 Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-S2013 Introduction to Logic   
+Fall 2016 -  Business Ethics ([Syllabus](/syllabus334))  
+Fall 2016 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+Summer 2016 -  Philosophy of Religion    
+Spring 2016 -  Virtue Ethics and Wisdom  ([Syllabus](/syllabus-S2016-293-wisdom))   
+Spring 2016 - Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))    
+Fall 2015 - Health Care Ethics          
+2014-2016 - Introduction to Philosophy ([Syllabus](/syllabus200))   
+Fall 2013 - Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
+Spring 2013 - Introduction to Logic   
 
-### Teaching Statement
 
-My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read the full teaching statement, click here.](/teaching-statement)
+
 
 ### Teaching Bio
 
