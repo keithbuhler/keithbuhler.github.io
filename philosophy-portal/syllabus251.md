@@ -220,12 +220,12 @@ W       Nov-16  Perelandra 4-6
 F       Nov-18  Discussion       
 
 Week 14   
-M       Nov-21  Perelandra 7-9    
-W       Nov-23  Perelandra 10-12         
-F       Nov-25  Discussion      
+M       Nov-21  Perelandra 7-10    
+W       Nov-23  Thanksgiving   
+F       Nov-25  Thanksgiving      
 
 Week 15  
-M       Nov-28  Perelandra 13-15        
+M       Nov-28  Perelandra 11-15        
 W       Nov-30  Perelandra 16-17        
 F       Dec-2   Weight of Glory 
 
