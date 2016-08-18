@@ -8,7 +8,9 @@ header:
 
 <img src="/images/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
-My research centers on contemporary analytic virtue ethics in writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. Read a paper or two on my [Academia.edu](https://uky.academia.edu/KeithBuhler) profile.
+* [(Full curriculum vitae)](/cv)
+
+My research centers on contemporary analytic virtue ethics. I converse with writers such as Philippa Foot, John McDowell, and Alasdair MacIntyre. Read a paper or two on my [Academia.edu](https://uky.academia.edu/KeithBuhler) profile.
 
 Several recent conversations about virtue have incited broader conversations about the relationship between science and ethics.  My [dissertation](/phd) defends the role of a naturalized teleology in ethical naturalism. I argue the metanormative thesis that some norms are "natural" in a manner that is both ethically relevant and a scientifically respectable. 
 
