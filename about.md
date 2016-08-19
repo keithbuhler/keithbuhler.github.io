@@ -9,7 +9,7 @@ header:
 
 <img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
 
-Thanks for visiting.  I am currently finishing a dissertation at the University of Kentucky, and I'm a part-time instructor of philosophy at Asbury University. 
+Thanks for visiting.  I am currently a doctoral candidate at the University of Kentucky and part-time instructor of philosophy at Asbury University. 
 
 My wife and I both hail from Southern California, so this is our first time living out of the country. 
 

@@ -6,12 +6,12 @@ header:
       image: keith-teaching2.png
 ---
 
-<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 * [Fall 2016 syllabi](/syllabi)
-* [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews.
+* [RateMyProfessors reviews](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 * [Teaching statement](/teaching-statement) 
 
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 I've successfully helped learners of all ages to grow and flourish. My goal in teaching is immerse students in Socratic dialogue and empower them to grow intellectually. Students enjoy my theatrical approach to discussion and efficient course designs. 
 
@@ -49,7 +49,7 @@ Recently, I've taught about 24 sections of philosophy at two universities. Befor
 
 > "It is sometimes hard to respect the other side, but as I have learned this semester, you may not always agree but you have to respect it." (PHI305, 2015) 
 
-> 6. "Buhler is very theatrical about philosophy which is great." (PHL200 2014)
+> "Buhler is very theatrical about philosophy which is great." (PHL200 2014)
 
 > "He treats us like adults and enjoys discussion." (PHL200, 2014)
 
