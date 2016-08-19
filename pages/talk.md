@@ -5,9 +5,7 @@ author_profile: true
 permalink: /talk
 ---
 
-You have a question about metaphysics, ethics, or philosophy of religion but don't know where to even start.  You can talk to me at $50 for 20 minutes. 
-
-(Have a question about physics? [Talk to Sabine!](http://backreaction.blogspot.com/p/talk-to-physicist_27.html))
+You have a question about metaphysics, ethics, or philosophy religion but don't know where to even start?  You can talk to me at $50 for 30 minutes. 
 
 To set up an appointment, please send an email to info at keithbuhler dot com. Tues/Thurs are usually best. I can use Google Hangout, Skype, or Facetime.
 
@@ -21,5 +19,7 @@ During our conversation, you can ask us anything you want to know about philosop
 My own expertise is in: ethics, virtue ethics, Plato and Aristotle, the history of philosophy, and the relationship between Christianity and philosophy. 
 
 If your topic of interest is something else, I am developing a team which will include experts on: metaphysics, epistemology, philosophy of science, and more, all with PhDs. I am sure we can get you covered. 
+
+Have a question about physics? [Talk to Sabine!](http://backreaction.blogspot.com/p/talk-to-physicist_27.html)
 
 We do not counsel students for homework assignments. 

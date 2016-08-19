@@ -2,6 +2,7 @@
 layout: slide
 title: Buhler's Philosophy Portal
 theme: white
+permalink: /philosophyportal-splash
 --- 
 
 <section><!--begin slideshow-->

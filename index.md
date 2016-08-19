@@ -13,4 +13,8 @@ I am currently a doctoral candidate in philosophy at the University of Kentucky.
 
 In the classroom, I've been successfully helping learners of all ages to change and flourish for more than 8 years. I use humor and immersive Socratic dialogue to create a friendly yet rigorous learning environment. 
 
-Click around to [read more about me](/about) or [peruse my curriculum vitae.](/cv) You can also explore my [courses](/teaching) and [research.](/research) Or, enter the [Student Portal.](/students) 
+Click around to [read more about me](/about) or [peruse my curriculum vitae.](/cv) 
+
+Explore my [courses](/teaching) and [research.](/research) 
+
+Or, enter the [Student Portal.](/students) 

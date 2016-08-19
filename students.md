@@ -1,6 +1,9 @@
 ---
 layout: single
 title: 
+permalink: /students
+header:
+      image: morpheus.jpg
 --- 
 
 
@@ -8,23 +11,17 @@ title:
 
 <br>
 
-It's true. 
+Philosophy majors do well in today's job market. 
 
-Some think philosophy is not worth your time. But in fact [studying philosophy is VERY GOOD IDEA](/philosophyportal/philosophy-3-major) because it can help you to find a good job, earn a higher salary than a business degree, and find answers to life's deepest questions.
+[Studying philosophy is very good idea.](/philosophyportal/philosophy-3-major) But it's not just useful for your career and life goals. It's a good idea because it allows you to explore answers to some of life's deepest questions and have a lot of fun doing it.
 
-Most college students will take exactly *one* philosophy class. [So you should make the most of it.](/philosophyportal) 
+Most college students will take exactly *one* philosophy class. [You should make the most of it.](/philosophyportal) 
 
-You'll probably find philosophy class surprisingly interesting... (depending on the professor, of course. A bad professor can make Disneyland boring.) 
+If you do take a class, you might find it surprisingly good -- depending on the professor, of course. (A bad professor could make *Disneyland* boring.) 
 
-Why is philosophy so interesting to so many? 
-
-Perhaps because it invites you to think deeply. 
-
-Everyone has opinions about the big questions of life: reality, death, meaning, science, religion, and beauty. Philosophy invites you to reflect on your own opinions and to learn from others. 
+Why is philosophy interesting? Perhaps because it invites you to think deeply about your life and your world, about reality, death, meaning, science, religion, and beauty. Everyone has opinions. Philosophy invites you to reflect, learn from others, and grow. 
 
 <br>
-
-[(Click here for course syllabi... or...)](/syllabi)
 
 <center>
 
