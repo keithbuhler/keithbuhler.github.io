@@ -17,7 +17,6 @@ github      :
   username  : "keithbuhler"
 
 # author info
-
 author:
   name      : "Keith Buhler"
   avatar    : "avatar.png"
@@ -56,8 +55,8 @@ highlighter: rouge
 # Gems
 
 gems: [jekyll-paginate]
-  - jekyll-sitemap
-  - jekyll-feed
+  - [jekyll-sitemap]
+  - [jekyll-feed]
   - jekyll-gist
 sass:
   sass_dir: _sass
