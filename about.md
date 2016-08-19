@@ -7,7 +7,7 @@ header:
       image: wither.jpg
 ---
 
-<img src="/images/keith-josiah.JPEG" alt="Keith and son" hspace="30px" align="right" width="50%"> 
+<img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
 
 Thanks for visiting.  I am currently finishing a dissertation at the University of Kentucky, and I'm a part-time instructor of philosophy at Asbury University. 
 
