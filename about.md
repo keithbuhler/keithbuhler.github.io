@@ -7,7 +7,7 @@ header:
       image: wither.jpg
 ---
 
-<img src="/images/keith-josiah.png" alt="Keith and son" hspace="30px" align="right" width="50%"> 
+<img src="/images/keith-josiah.JPEG" alt="Keith and son" hspace="30px" align="right" width="50%"> 
 
 Thanks for visiting.  I am currently a PhD candidate at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My wife and I both hail from Southern California, so this is our first time living out of the country. 
 

@@ -3,7 +3,7 @@ layout: single
 title: Research
 author_profile: true
 header:
-      image: oxford2.png
+      image: oxford2.JPEG
 
 --- 
 
