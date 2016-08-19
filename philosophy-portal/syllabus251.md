@@ -9,7 +9,7 @@ title: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: @ keith\_buhler  
 **Web**: www.keithbuhler.com / Discovery    
-**Office Hours:** (*Tentative*) Tues 12-1, Kinlaw Library by Lewis Corner.  
+**Office Hours:** T, 12-1.
 
 ### Required Texts
 

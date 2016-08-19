@@ -13,7 +13,7 @@ The outline tells you the reading due and the topic for each day. It also provid
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/philosophy-portal/syllabus200b.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Office Hours:** T/Th, 9:30-10:30 Kinlaw Library by the Lewis Corner.
+**Office Hours:** T, 12-1.
 
 ### Required Texts
 
