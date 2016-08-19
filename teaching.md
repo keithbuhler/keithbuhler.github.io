@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Teaching
-author_profile: true
+author_profile: false
 header:
       image: keith-teaching2.png
 ---
@@ -9,16 +9,17 @@ header:
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 * [Fall 2016 syllabi](/syllabi)
-* [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
+* [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews.
+* [Teaching statement, click here.](/teaching-statement) 
 
 
 I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. 
 
-My goal in teaching is to build an friendly environment of immersive Socratic dialogue that empowers students to grow intellectually. [To read a full teaching statement, click here.](/teaching-statement)
+My goal in teaching is to build an friendly environment of immersive Socratic dialogue that empowers students to grow intellectually. 
 
 Recently, I've taught about 24 sections of philosophy at two universities.
 
-Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed courses in humanities, Great Books, and western civilization. 
+Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed Great Books courses literature, philosophy, and history. 
 
 ### Courses
 
