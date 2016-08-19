@@ -13,25 +13,20 @@ header:
 * [Teaching statement](/teaching-statement) 
 
 
-I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. 
+I've successfully helped learners of all ages to grow and flourish. My goal in teaching is immerse students in Socratic dialogue and empower them to grow intellectually. Students enjoy my theatrical approach to discussion and efficient course designs. 
 
-My goal in teaching is to build an friendly environment of immersive Socratic dialogue that empowers students to grow intellectually. 
-
-Recently, I've taught about 24 sections of philosophy at two universities.
-
-Before that, I served one year as Director of High School Studies at a classical school, and two years as Master Tutor at Torrey Academy where I both taught and designed Great Books courses literature, philosophy, and history. 
+Recently, I've taught about 24 sections of philosophy at two universities. Before that, I I both taught and designed Great Books courses literature, philosophy, and history as Director of High School Studies at a classical school.
 
 ### Courses
 
-Fall 2016 -  Business Ethics ([Syllabus](/syllabus334))  
-Fall 2016 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-Summer 2016 -  Philosophy of Religion    
-Spring 2016 -  Virtue Ethics and Wisdom  ([Syllabus](/syllabus-S2016-293-wisdom))   
-Spring 2016 - Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))    
-Fall 2015 - Health Care Ethics          
-2014-2016 - Introduction to Philosophy ([Syllabus](/syllabus200))   
-Fall 2013 - Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-Spring 2013 - Introduction to Logic   
+- Business Ethics ([Syllabus](/syllabus334))  
+- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+- Philosophy of Religion    
+- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
+- Introduction to Philosophy ([Syllabus](/syllabus200))   
+- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
+- Introduction to Logic   
 
 
 ### Student Evaluations
