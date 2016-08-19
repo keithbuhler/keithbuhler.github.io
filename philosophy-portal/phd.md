@@ -6,7 +6,9 @@ header:
 permalink: /phd
 ---
 
-Writing a dissertation can be fun. Brian Tracy says you eat an elephent one bite at a time. Students can read the story of how I approached this massive project [here.](/phd-how-to)
+Writing a dissertation is like navigating a long ocean journey. Even so, if you like a challenge, it can be fun. Brian Tracy says you eat an elephant one bite at a time. 
+
+Students can read the story of how I approached this massive project [here.](/phd-how-to)
 
 ### Dissertation title (draft)
 

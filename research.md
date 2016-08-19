@@ -10,7 +10,8 @@ header:
 <img src="/images/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
 * [Curriculum Vitae](/cv)
-* [Papers](https://uky.academia.edu/KeithBuhler)
+* <a href="https://uky.academia.edu/KeithBuhler" target="_blank">Writing Samples</a>
+
 
 My research centers on contemporary analytic virtue ethics. [David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh) is my director. 
 
