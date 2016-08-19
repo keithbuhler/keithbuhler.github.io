@@ -1,11 +1,13 @@
 ---
 layout: single
-title: About
+title: About Keith Buhler, philosopher
 permalink: /about/
 author_profile: false
 header:
       image: wither.jpg
 ---
+
+*For other uses, see [ Keith Buhler (disambiguation)](/disambiguation)*
 
 <img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
 Thanks for visiting.  I am currently a doctoral candidate at the University of Kentucky and part-time instructor of philosophy at Asbury University. 
