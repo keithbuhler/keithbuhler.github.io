@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /cv/
-title: Keith Buhler Curriculum Vitae
+2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected graduation in 2017)*  
 --- 
 
 ### CURRICULUM VITAE
 
-#### [(PDF version here)](/Buhler-CV.pdf)
+#### [(PDF version)](/Buhler-CV.pdf)
 
 Keith Buhler  
 Doctoral Candidate  
@@ -24,7 +24,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### EDUCATION
 
-2016 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected completion in 2016)*  
+2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected graduation in 2017)*  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   

@@ -4,6 +4,8 @@
 
 /* serif font family  'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif */
 
+/* other fonts to consider: PT Sans Pro Bold for headings, Shannon Holzer; Maisee light Paulosophia */
+
 a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px}
 *,
 *:before,*:after{box-sizing:border-box}
