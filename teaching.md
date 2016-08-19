@@ -1,21 +1,24 @@
 ---
 layout: single
 title: Teaching
-author_profile: false
 author_profile: true
+header:
+      image: keith-teaching2.png
 ---
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
+* [Fall 2016 syllabi](/syllabi)
+* [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
 
-### Statement
 
-My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read my full teaching statement, click here.](/teaching-statement)
+I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. 
 
+My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read a full teaching statement, click here.](/teaching-statement)
 
 ### Course Syllabi
 
-[Current syllabi are here](/syllabi) for the 3 courses I'm teaching this semester at Asbury and UK.  In total, I've taught 24 sections of 8 prpes:
+ for the 3 courses I'm teaching this semester at Asbury and UK.  In total, I've taught 24 sections of 8 prpes:
 
 Fall 2016 -  Business Ethics ([Syllabus](/syllabus334))  
 Fall 2016 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
@@ -31,8 +34,6 @@ Spring 2013 - Introduction to Logic
 
 
 ### Teaching Bio
-
-I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. Check out my [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
 
 Recently, I've taught introduction to philosophy, ethics, bioethics, virtue ethics, and philosophy of religion at two universities. 
 
