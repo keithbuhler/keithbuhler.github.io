@@ -10,15 +10,14 @@ header:
 
 * [Fall 2016 syllabi](/syllabi)
 * [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews. 
+* 
 
 
-I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. 
-
-My goal in teaching is to build an immersive environment of philosophical thinking and to empower students to grow intellectually. [To read a full teaching statement, click here.](/teaching-statement)
+I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. My goal in teaching is to build an friendly environment of immersive Socratic dialogue that empowers students to grow intellectually. [To read a full teaching statement, click here.](/teaching-statement)
 
 ### Course Syllabi
 
- for the 3 courses I'm teaching this semester at Asbury and UK.  In total, I've taught 24 sections of 8 prpes:
+In total, I've taught 24 sections of 8 preps:
 
 Fall 2016 -  Business Ethics ([Syllabus](/syllabus334))  
 Fall 2016 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
