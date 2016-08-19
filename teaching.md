@@ -10,7 +10,7 @@ header:
 
 * [Fall 2016 syllabi](/syllabi)
 * [RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771) reviews.
-* [Teaching statement, click here.](/teaching-statement) 
+* [Teaching statement](/teaching-statement) 
 
 
 I've successfully helped learners of all ages to grow and flourish. Students enjoy my enthusiasm for the subject, affable presence, and  theatrical approach to classroom discussion. 
