@@ -9,7 +9,7 @@ author_profile: true
 
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
-I am currently finishing a PhD in philosophy at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My dissertation centers on contemporary analytic virtue ethics. 
+I am currently a doctoral candidate in philosophy at the University of Kentucky. My research centers on contemporary analytic virtue ethics and ethical naturalism.
 
 In the classroom, I've been successfully helping learners of all ages to change and flourish for more than 8 years. I use humor and immersive Socratic dialogue to create a friendly yet rigorous learning environment. 
 

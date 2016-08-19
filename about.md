@@ -9,10 +9,10 @@ author_profile: true
 
 Thanks for visiting.  I am currently a PhD candidate at the [University of Kentucky.](https://philosophy.as.uky.edu/users/kebu226) My wife and I both hail from Southern California, so this is our first time living out of the country. 
 
-We are raising two toddlers, which can be messy. However, they motivate me finish  graduate school: I am on track to finish up in 2016 and go on the job market. 
+People often wonder what a philosopher *does*. Most of the time I read and think through tough arguments about a variety of topics. When I have an objection or a thesis of my own, I present them to students, colleagues, or advisors or  write out an argument, and the dialogue continues. I also teach university courses and invite people to pursue wisdom with me.
 
-People often wonder what a philosopher *does*. Most of the time I read tough arguments and think them through. When I have an objection or a thesis of my own, I present them to students, colleagues, or advisors or  write out an argument, and the dialogue continues.
+For me, academic philosophy is a discipline and a profession. And it is a way of flourishing in community. I always enjoyed school growing up but my life was altered in college. Studying history, literature, and philosophy at the Torrey Honors Institute felt like touching a live wire. As a sophomore, I began teaching "great books" to 4th grade public school students in Long Beach CA, and have continued teaching students of all ages to this day. Even after teaching and researching philosophy all week, I host a weekly book club at my home to discuss literature, film, and politics with friends.
 
-For me, philosophy is a discipline, a profession, and an important part of academia. It is also a way of flourishing in community. I always enjoyed school growing up but my life was altered in college. Studying history, literature, and philosophy at the Torrey Honors Institute felt like touching a live wire. While still a student in college, I started to give back, teaching 4th grade "Great Books" in Long Beach CA. Since then, I've taught students of almost every age and love of what I do. Even after teaching and researching philosophy all week, I host a weekly book club at my home to discuss literature, film, and politics with friends.
+My week involves raising two toddlers, which can be messy. However, they have a way of motivating one to finish graduate school: I am on track to  go on the job market in 2016.
 
 In my 45 minutes per month of spare time, I like to sculpt clay, to write fiction and screenplays, and [compose lists](https://en.wikipedia.org/wiki/Recursion) of what I do in my spare time.
