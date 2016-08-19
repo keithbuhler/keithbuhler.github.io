@@ -25,12 +25,11 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: fun-classical.png
-    alt: "Classical Education"
-    title: "Classical Education 101"
-    excerpt: "Three distinctive features of classical education. Resources, links, and more."
-    url: "http://www.keithbuhler.com/buhlerreport/classical-education"
-    btn_label: "Read"
+  -image_path: fun-books3.png
+    title: "Reading Intentionally"
+    excerpt: "A proven plan to help you read more good books this year."
+    url: "http://www.readingintentionally.com/p/why-because-readers-are-leaders.html"
+    btn_label: "More"
     btn_class: "btn--inverse"
 feature_row2:
   - image_path: fun-lewis.png
@@ -69,9 +68,17 @@ feature_row2:
 
 ### More Projects
 
+
 <figure>
-    <a href="http://www.readingintentionally.com/p/why-because-readers-are-leaders.html"> <img src="/images/fun-books3.png"> </a>  
-    <p><figcaption> <b> Reading Intentionally: </b> &nbsp; A proven plan to help you read more good books. </figcaption></p>
+   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
+  <figcaption> <b> Sola Scriptura: A Dialogue:</b>  &nbsp; My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
+    </figure>
+
+<br>
+
+<figure>
+    <a href="http://www.keithbuhler.com/buhlerreport/classical-education"> <img src="/images/"> </a>  
+    <p><figcaption> <b> Classical Education: </b> Three distinctive features of classical education. Resources, links, and more. </figcaption></p>
 </figure>
 
 <br>
@@ -81,14 +88,6 @@ feature_row2:
     <figcaption>  <b> My YouTube Channel:</b> &nbsp; For discussion advice, philosophy talks, and comedy.</figcaption>
 </figure>
 
-
-<br>
-
-
-<figure>
-   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
-  <figcaption> <b> Sola Scriptura: A Dialogue:</b>  &nbsp; My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
-    </figure>
 
 <br>
 
