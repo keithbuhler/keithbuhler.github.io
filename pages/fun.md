@@ -26,7 +26,7 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
-  -image_path: fun-books3.png
+  - image_path: fun-books3.png
     alt: "Reading"
     title: "Reading Intentionally"
     excerpt: "A proven plan to help you read more good books this year."
