@@ -68,7 +68,7 @@ feature_row2:
 
 <br>
 
-### More Projects
+### Projects in Development
 
 
 <figure>
@@ -132,7 +132,7 @@ feature_row2:
 
 <figure>
     <a href="http://www.keithbuhler.com/buhlerreport/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>  
-    <figcaption> <b>Bio</b>:  &nbsp; A little more about me. </figcaption>
+    <figcaption> <b>Longer Bio</b>:  &nbsp; A bit more about me. </figcaption>
 </figure>
 
 <br>
