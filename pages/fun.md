@@ -20,12 +20,14 @@ feature_row:
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: pythagoras-pyramid.png
+    alt: "Philosophy"
     title: "Philosophy Portal"
     excerpt: "Coaching in how to succeed in philosophy classes for my students and others who might be interested."
     url: "http://www.keithbuhler.com/philosophyportal"
     btn_label: "More"
     btn_class: "btn--inverse"
   -image_path: fun-books3.png
+    alt: "Reading"
     title: "Reading Intentionally"
     excerpt: "A proven plan to help you read more good books this year."
     url: "http://www.readingintentionally.com/p/why-because-readers-are-leaders.html"
