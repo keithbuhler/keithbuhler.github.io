@@ -11,7 +11,7 @@ header:
 excerpt: "A bunch of projects I am playing with. Some are complete, others in development."
 intro: 
   - excerpt: ''
-
+---
 
 
 
