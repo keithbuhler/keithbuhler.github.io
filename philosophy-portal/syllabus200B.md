@@ -7,7 +7,7 @@ Course Outline:
 
 The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
 
 
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/philosophy-portal/syllabus200b.pdf)  
@@ -28,7 +28,7 @@ Buy these three books right away. Use these ISBNS only, please. No Kindle unless
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
-- [Keith Buhler, "Logic 101"](/buhlerreport/logic)
+- [Keith Buhler, "Logic 101"](http://www.keithbuhler.com/philosophyportal/logic)
 - [Peter Kreeft, “Are universals real?”](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
 - [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64)
 - [Richard Dawkins, “Why there is almost certainly no god”](https://drive.google.com/open?id=0B0CYQDZ8AWu8WV9IZ1liNmRDa28)
