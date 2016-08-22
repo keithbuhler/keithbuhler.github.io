@@ -1396,6 +1396,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
 .mfp-ie7 .mfp-close{top:0;right:0;padding-top:0}
 @media print{.masthead,.toc,.page__share,.page__related,.ads,.page__footer{display:none}
 }
+}
 
 .contain {
   border: 2px solid black;
@@ -1483,14 +1484,4 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
   }
 }
 
-
-
-
-}
-
-}
-
-
-
-}
-
+}}
