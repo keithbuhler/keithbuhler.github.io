@@ -13,7 +13,7 @@ intro:
   - excerpt: ''
 ---
 
-
+# Completed Sandbox Projects
 
 <div class="contain">
   <div class="grid-view" id="work-results">
@@ -65,41 +65,10 @@ intro:
          <p>My book. It's a Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused. http://bitly.com/ScriptureOrTradition </p>
        </div>
      </a>
-
-
-
-
-    <a class="case-study-thumb">
-       <div class="title">
-         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
-         <h2>Classical Education</h2>
-       </div>
-       <div class="product-info">
-         <h2>Classical Education 101</h2>
-         <p>Three distinctive features of classical education. Resources, links, and more. http://www.keithbuhler.com/buhlerreport/classical-education </p>
-       </div>
-     </a>
-
-
-
-
-
-    <a class="case-study-thumb">
-       <div class="title">
-         <img src="http://keithbuhler.com/images/fun-discussion.png" />
-         <h2>YouTube</h2>
-       </div>
-       <div class="product-info">
-         <h2>My Channel.</h2>
-         <p>For discussion advice, philosophy talks, and some light comedy. https://www.youtube.com/watch?v=yU9_t1sS6ws </p>
-       </div>
-     </a>
-   
-    
     
     <a class="case-study-thumb">
        <div class="title">
-         <img src="http://www.keithbuhler.com/images/writing-notebook.jpg" />
+         <img src="http://www.keithbuhler.com/images/fun-writings.png" />
          <h2>Writings</h2>
        </div>
        <div class="product-info">
@@ -110,20 +79,11 @@ intro:
     
     
     
-      <a class="case-study-thumb">
-       <div class="title">
-         <img src="http://www.keithbuhler.com/images/fun-lewis.png" />
-         <h2>Inklings Info</h2>
-       </div>
-       <div class="product-info">
-         <h2>Inklings.Info</h2>
-         <p>Free information, books, and lists about the Oxford Dons. http://www.inklings.info</p>
-       </div>
-     </a>
+     
     
       <a class="case-study-thumb">
        <div class="title">
-         <img src="http://www.keithbuhler.com/buhlerreport/images/" />
+         <img src="http://www.keithbuhler.com/buhlerreport/images/fun-meditation.png" />
          <h2>Meditation</h2>
        </div>
        <div class="product-info">
@@ -131,19 +91,7 @@ intro:
          <p>How (and why) to practice the ancient art of stillness. http://www.keithbuhler.com/buhlerreport/meditation </p>
        </div>
      </a>
-    
-    
-      <a class="case-study-thumb">
-       <div class="title">
-         <img src="http://www.keithbuhler.com/buhlerreport/fun-plantinga.png/" />
-         <h2>Advice to Christian Philosophers</h2>
-       </div>
-       <div class="product-info">
-         <h2>Advice to Christian Philosophers</h2>
-         <p>hover Interviews, stories, and advice from big name philosophers. http://www.advicetochristianphilosophers.com"</p>
-         <p class="tags">url: "http://bit.ly/22o8m7j</p>
-       </div>
-     </a>
+
 
     
     
@@ -161,7 +109,7 @@ intro:
     
       <a class="case-study-thumb">
        <div class="title">
-         <img src="http://www.keithbuhler.com/buhlerreport/images/" />
+         <img src="http://www.keithbuhler.com/images/fun-speaking.png">
          <h2>Speaking</h2>
        </div>
        <div class="product-info">
@@ -181,11 +129,21 @@ intro:
          <p> Some drawings, paintings, Silly Putty, and pumpkins. </p>
        </div>
      </a>
-    
+      <a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/images/fun-plantinga.png">
+         <h2>Advice to Christian Philosophers</h2>
+       </div>
+       <div class="product-info">
+         <h2>Advice to Christian Philosophers</h2>
+         <p>Interviews, stories, and advice from big name philosophers. http://www.advicetochristianphilosophers.com"</p>
+         <p class="tags">url: "http://bit.ly/22o8m7j</p>
+       </div>
+     </a>
     
       <a class="case-study-thumb">
        <div class="title">
-         <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png" />
+         <img src="http://www.keithbuhler.com/images/fun-github.png" />
          <h2>Githhub Repos</h2>
        </div>
        <div class="product-info">
@@ -195,16 +153,6 @@ intro:
      </a>
     
     
-      <a class="case-study-thumb">
-       <div class="title">
-         <img src="http://www.keithbuhler.com/images/keithbuhler-bw-smaller.png/" />
-         <h2>Bio</h2>
-       </div>
-       <div class="product-info">
-         <h2>Hover title.</h2>
-         <p>A longer bit about me. http://www.keithbuhler.com/buhlerreport/bio </p>
-       </div>
-     </a>
     
   </div>
 </div>
@@ -212,97 +160,121 @@ intro:
 
 
 
-feature_row2:
-  - image_path: fun-lewis.png
-    alt: "The Inklings"
-    title: "Inklings.info"
-    excerpt: "Information, books, and lists about the Oxford Dons."
-    url: "http://www.inklings.info"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: fun-plantinga.png
-    alt: "Advice"
-    title: "Advice to Christian Philosophers"
-    excerpt: "Interviews, stories, and advice from big name philosophers."
-    url: "http://bit.ly/22o8m7j"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: fun-newton.png
-    title: "Philosophy is Science"
-    excerpt: "A provocative argument regarding philosophy's relationship to other natural and formal sciences."
-    url: "http://www.philosophyisscience.com/"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
----
-
-<br>
 
 
-<figure>
-    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  
-    <figcaption> <b> Speaking</b>:  &nbsp; For speaking engagements, lectures, etc. </figcaption>
-</figure>
+
+# Sandbox Projects In Development
 
 
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/meditation"><img src="/images/fun-meditation.jpg"> </a>
-    <figcaption> <b>Meditation:</b>  &nbsp; How (and why) to practice the ancient art of stillness.  </figcaption>
-</figure>
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither.png"> </a>
-  <figcaption> <b> Art: </b>  &nbsp; Drawings, paintings, and pumpkins </figcaption>
-</figure>
-
-<br>
-
-<figure>
-   <a href="https://github.com/keithbuhler/"> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"> </a>
-  <figcaption> <b>Github: </b> &nbsp; My Github repos (including this site!)  </figcaption>
-</figure>
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>  
-    <figcaption> <b>Longer Bio</b>:  &nbsp; A bit more about me. </figcaption>
-</figure>
-
-<br>
+<div class="contain">
+  <div class="grid-view" id="work-results">
 
 
-# Completed Projects
 
-- Buhler Report
-- Philosophy Portal
-- Reading Intentionally
-- Art
-- Advice to Christian Philosophers
-- Sola Scriptura
-- Fiction, Poetry, Screenplays, and Essays
-- Speaking
-- Meditation
-- Github Repos
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
+         <h2>Classical Education</h2>
+       </div>
+       <div class="product-info">
+         <h2>Classical Education 101</h2>
+         <p>Three distinctive features of classical education. Resources, links, and more. http://www.keithbuhler.com/buhlerreport/classical-education </p>
+       </div>
+     </a>
 
 
-# In Development
 
-- Philosophy is Science
-- Inklings.info
-- Classical Education
-- My YouTube Channel
-- Longer Bio
-- Orthodoxy
-- Sandboxing
-- Web Design
-- Book Clubs
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg">
+         <h2>Longer Bio</h2>
+       </div>
+       <div class="product-info">
+         <h2>Longer Bio</h2>
+         <p>A longer bit about me. http://www.keithbuhler.com/buhlerreport/bio </p>
+       </div>
+     </a>
 
-    
-      <a class="case-study-thumb">
+
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg">
+         <h2>Orthodoxy</h2>
+       </div>
+       <div class="product-info">
+         <h2>Orthodoxy</h2>
+         <p>A bit about the Eastern Church. http://www.keithbuhler.com/buhlerreport/bio </p>
+       </div>
+     </a>
+
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg">
+         <h2>Sandboxing</h2>
+       </div>
+       <div class="product-info">
+         <h2>Sandboxing</h2>
+         <p>The importance of low-risk, high-reward play.  http://www.keithbuhler.com/buhlerreport/bio </p>
+       </div>
+     </a>
+
+
+
+
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://keithbuhler.com/images/fun-discussion.png" />
+         <h2>YouTube</h2>
+       </div>
+       <div class="product-info">
+         <h2>My Channel.</h2>
+         <p>For discussion advice, philosophy talks, and some light comedy. https://www.youtube.com/watch?v=yU9_t1sS6ws </p>
+       </div>
+     </a>
+
+
+
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
+         <h2>Web Design</h2>
+       </div>
+       <div class="product-info">
+         <h2>Web Design</h2>
+         <p>Hire me to make a website for you. http://www.keithbuhler.com/sites</p>
+       </div>
+     </a>
+   
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
+         <h2>Book Clubs</h2>
+       </div>
+       <div class="product-info">
+         <h2>Book Clubs</h2>
+         <p>How and why to start a reading group for intellectual growth with friends. </p>
+       </div>
+     </a>
+
+<a class="case-study-thumb">
+       <div class="title">
+         <img src="http://www.keithbuhler.com/images/fun-lewis.png" />
+         <h2>Inklings Info</h2>
+       </div>
+       <div class="product-info">
+         <h2>Inklings.Info</h2>
+         <p>Free information, books, and lists about the Oxford Dons. http://www.inklings.info</p>
+       </div>
+     </a>
+   
+
+
+  </div>
+</div>
+
+# Template
+
+<a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/" />
          <h2>Title</h2>
@@ -313,3 +285,13 @@ feature_row2:
        </div>
      </a>
     
+
+- Philosophy is Science
+- Inklings.info
+- Classical Education
+- My YouTube Channel
+- Longer Bio
+- Orthodoxy
+- Sandboxing
+- Web Design
+- Book Clubs
