@@ -21,10 +21,10 @@ intro:
      <a class="case-study-thumb">
        <div class="title">
           <img src="http://keithbuhler.com/images/fun-buhler.png" />
-         <h2>The Buhler Report</h2>
+         <h10>The Buhler Report</h10>
        </div>
        <div class="product-info">
-         <h2>The Buhler Report</h2>
+         <h10>The Buhler Report</h10>
          <p>An entertaining and enlightening blog reflecting on timeless truth and current events. http://www.keithbuhler.com/buhlerreport/</p>
        </div>
      </a>
@@ -33,10 +33,10 @@ intro:
      <a class="case-study-thumb">
        <div class="title">
          <img src="http://keithbuhler.com/images/pythagoras-pyramid.png" />
-         <h2>Philosophy Portal</h2>
+         <h10>Philosophy Portal</h10>
        </div>
        <div class="product-info">
-         <h2>Philosophy Portal</h2>
+         <h10>Philosophy Portal</h10>
          <p>Coaching for students and anyone else to help you succeed in philosophy class. Links, essays, resources, and more. http://www.keithbuhler.com/philosophyportal</p>
        </div>
      </a>
@@ -45,10 +45,10 @@ intro:
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://keithbuhler.com/images/fun-books3.png" />
-         <h2>Reading Intentionally</h2>
+         <h10>Reading Intentionally</h10>
        </div>
        <div class="product-info">
-         <h2>Reading Intentionally</h2>
+         <h10>Reading Intentionally</h10>
          <p>A proven plan to help you read more good books this year. http://www.readingintentionally.com/</p>
        </div>
      </a>
@@ -58,10 +58,10 @@ intro:
     <a class="case-study-thumb">
        <div class="title">
          <img src="http://keithbuhler.com/buhlerreport/images/fun-sola.png" />
-         <h2></h2>
+         <h10></h10>
        </div>
        <div class="product-info">
-         <h2>Sola Scriptura: A Dialogue</h2>
+         <h10>Sola Scriptura: A Dialogue</h10>
          <p>My book. It's a Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused. http://bitly.com/ScriptureOrTradition </p>
        </div>
      </a>
@@ -69,10 +69,10 @@ intro:
     <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/images/fun-writings.png" />
-         <h2>Writings</h2>
+         <h10>Writings</h10>
        </div>
        <div class="product-info">
-         <h2>My writings.</h2>
+         <h10>My writings.</h10>
          <p>Fiction, essays, screenplays, poetry, and satire. http://www.keithbuhler.com/writings"</p>
        </div>
      </a>
@@ -84,10 +84,10 @@ intro:
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/fun-meditation.png" />
-         <h2>Meditation</h2>
+         <h10>Meditation</h10>
        </div>
        <div class="product-info">
-         <h2>Meditation</h2>
+         <h10>Meditation</h10>
          <p>How (and why) to practice the ancient art of stillness. http://www.keithbuhler.com/buhlerreport/meditation </p>
        </div>
      </a>
@@ -98,10 +98,10 @@ intro:
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/fun-newton.png" />
-         <h2>Philosophy is Science</h2>
+         <h10>Philosophy is Science</h10>
        </div>
        <div class="product-info">
-         <h2>Philosophy is Science</h2>
+         <h10>Philosophy is Science</h10>
          <p>A provocative case for the traditional classification of philosophy as one of the sciences, and of the natural sciences as branches of philosophy. http://www.philosophyisscience.com/</p>
        </div>
      </a>
@@ -110,10 +110,10 @@ intro:
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/images/fun-speaking.png">
-         <h2>Speaking</h2>
+         <h10>Speaking</h10>
        </div>
        <div class="product-info">
-         <h2>Speaking</h2>
+         <h10>Speaking</h10>
          <p>Hire Keith, or review past lectures, speeches, and talks. http://www.keithbuhler.com/speaking </p>
        </div>
      </a>
@@ -122,20 +122,20 @@ intro:
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/images/fun-wither.png" />
-         <h2>Art</h2>
+         <h10>Art</h10>
        </div>
        <div class="product-info">
-         <h2>Keith's Art</h2>
+         <h10>Keith's Art</h10>
          <p> Some drawings, paintings, Silly Putty, and pumpkins. </p>
        </div>
      </a>
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/images/fun-plantinga.png">
-         <h2>Advice to Christian Philosophers</h2>
+         <h10>Advice to Christian Philosophers</h10>
        </div>
        <div class="product-info">
-         <h2>Advice to Christian Philosophers</h2>
+         <h10>Advice to Christian Philosophers</h10>
          <p>Interviews, stories, and advice from big name philosophers. http://www.advicetochristianphilosophers.com"</p>
          <p class="tags">url: "http://bit.ly/22o8m7j</p>
        </div>
@@ -144,10 +144,10 @@ intro:
       <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/images/fun-github.png" />
-         <h2>Githhub Repos</h2>
+         <h10>Githhub Repos</h10>
        </div>
        <div class="product-info">
-         <h2>Github Repos</h2>
+         <h10>Github Repos</h10>
          <p>The data for all my sites (including this one!) https://github.com/keithbuhler/ </p>
        </div>
      </a>
@@ -174,10 +174,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
-         <h2>Classical Education</h2>
+         <h10>Classical Education</h10>
        </div>
        <div class="product-info">
-         <h2>Classical Education 101</h2>
+         <h10>Classical Education 101</h10>
          <p>Three distinctive features of classical education. Resources, links, and more. http://www.keithbuhler.com/buhlerreport/classical-education </p>
        </div>
      </a>
@@ -187,10 +187,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg">
-         <h2>Longer Bio</h2>
+         <h10>Longer Bio</h10>
        </div>
        <div class="product-info">
-         <h2>Longer Bio</h2>
+         <h10>Longer Bio</h10>
          <p>A longer bit about me. http://www.keithbuhler.com/buhlerreport/bio </p>
        </div>
      </a>
@@ -199,10 +199,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg">
-         <h2>Orthodoxy</h2>
+         <h10>Orthodoxy</h10>
        </div>
        <div class="product-info">
-         <h2>Orthodoxy</h2>
+         <h10>Orthodoxy</h10>
          <p>A bit about the Eastern Church. http://www.keithbuhler.com/buhlerreport/bio </p>
        </div>
      </a>
@@ -210,10 +210,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg">
-         <h2>Sandboxing</h2>
+         <h10>Sandboxing</h10>
        </div>
        <div class="product-info">
-         <h2>Sandboxing</h2>
+         <h10>Sandboxing</h10>
          <p>The importance of low-risk, high-reward play.  http://www.keithbuhler.com/buhlerreport/bio </p>
        </div>
      </a>
@@ -224,10 +224,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://keithbuhler.com/images/fun-discussion.png" />
-         <h2>YouTube</h2>
+         <h10>YouTube</h10>
        </div>
        <div class="product-info">
-         <h2>My Channel.</h2>
+         <h10>My Channel.</h10>
          <p>For discussion advice, philosophy talks, and some light comedy. https://www.youtube.com/watch?v=yU9_t1sS6ws </p>
        </div>
      </a>
@@ -237,10 +237,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
-         <h2>Web Design</h2>
+         <h10>Web Design</h10>
        </div>
        <div class="product-info">
-         <h2>Web Design</h2>
+         <h10>Web Design</h10>
          <p>Hire me to make a website for you. http://www.keithbuhler.com/sites</p>
        </div>
      </a>
@@ -248,10 +248,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/spiral.jpg" />
-         <h2>Book Clubs</h2>
+         <h10>Book Clubs</h10>
        </div>
        <div class="product-info">
-         <h2>Book Clubs</h2>
+         <h10>Book Clubs</h10>
          <p>How and why to start a reading group for intellectual growth with friends. </p>
        </div>
      </a>
@@ -259,10 +259,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/images/fun-lewis.png" />
-         <h2>Inklings Info</h2>
+         <h10>Inklings Info</h10>
        </div>
        <div class="product-info">
-         <h2>Inklings.Info</h2>
+         <h10>Inklings.Info</h10>
          <p>Free information, books, and lists about the Oxford Dons. http://www.inklings.info</p>
        </div>
      </a>
@@ -277,10 +277,10 @@ intro:
 <a class="case-study-thumb">
        <div class="title">
          <img src="http://www.keithbuhler.com/buhlerreport/images/" />
-         <h2>Title</h2>
+         <h10>Title</h10>
        </div>
        <div class="product-info">
-         <h2>Hover title.</h2>
+         <h10>Hover title.</h10>
          <p>hover descriptoin </p>
        </div>
      </a>
