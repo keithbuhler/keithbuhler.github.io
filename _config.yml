@@ -92,7 +92,7 @@ og_image: "keithbuhler-bw-small.png"
 # Outputting
 
 permalink: /:categories/:title/
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
 timezone:     America/New_York   
 
@@ -117,7 +117,12 @@ defaults:
   -scope:
       path: "" # empty string for all files
       values:
-      layout: "default-buhler"
+        read_time: false
+        comments: true
+        share: false
+        related: false  
+        author_profile: true
+      layout: "single"
   -
     scope:
       path: "posts"
@@ -126,16 +131,15 @@ defaults:
       values:
         read_time: false
         comments: true
-        share: true
-        related: true  
+        share: false
+        related: false  
         author_profile: true
-        layout: single
 
 scope:
-      path: ""
-      type: "presentations"
+      path: "slideshows"
+      type: "slideshows"
     values:
-      layout: "presentation"
+      layout: "slides"
 
 defaults:
   # _pages
