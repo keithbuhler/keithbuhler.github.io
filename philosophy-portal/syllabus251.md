@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 permalink: /syllabus251
 title: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)
 ---
