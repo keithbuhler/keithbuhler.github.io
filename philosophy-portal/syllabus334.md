@@ -2,18 +2,19 @@
 layout: single
 permalink: /syllabus334
 title: Business Ethics Syllabus (PHI 334, Fall 2016)
-description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philosophy class at the university of kentucky.
+description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philosophy class at the university of Kentucky.
 ---
 
-**[Business Ethics (PHI 334, Fall 2016 Syllabus)](/philosophy-portal/syllabus334.pdf)**   
-**Instructor**: Keith Buhler  
+#### [PDF Version)](/philosophy-portal/syllabus334.pdf)   
+
+**Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  
 **Office Hours**: CB Wed 2-3pm, , before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
 
-#### Required Readings 
+### Required Readings 
 - [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). 
 - Handout Week 2 [Peter Kreeft, Truth;](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.w4s5iko7zwgp) [Peter Kreeft, Morality.](https://docs.google.com/document/d/1mAda1aoPZmQNGJcPLtU_kd8C-xUyaWWjjIHC-0eD3ps/edit#heading=h.rfqgfvs7gdwn)
 - Handout Week 3 [Utilitarianism](https://drive.google.com/open?id=1ajV9KYRrRDx67QJe8MqhfUle54WuaIvRoDTOalryu6Y)
@@ -31,9 +32,9 @@ So, in business ethics, we ask about foundations: What is a good business? What 
 
 These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
 
-Each of us belongs to a tradition and a community. Our goal is to understand our own tradition and understand rival traditions, and why they disagree. We will disagree, but do so peacably and with understanding. 
+Each of us belongs to a tradition and a community. Our goal is to understand our own tradition and understand rival traditions, and why they disagree. We will disagree, but do so peaceably and with understanding. 
 
-The bottom line is always to think hard about hard questions, to discard wrong answers and discover and prove right answers to these questions. The hard questions will revolve around business, wealth, justice, safety, information, incenvtives, globalization, etc. but may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
+The bottom line is always to think hard about hard questions, to discard wrong answers and discover and prove right answers to these questions. The hard questions will revolve around business, wealth, justice, safety, information, incentives, globalization, etc. but may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
 
 ### Course Goals 
 
@@ -75,15 +76,15 @@ We need you here! Attendance is mandatory. Roll will be taken each class by mark
 
 That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. 3 absences adds up to one week of classes you can miss with no penalty. 3 is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
-1 = -0  
-2 = -0  
-3 = -0  
-4 = -2%  
-5 = -4%  
-6 = -10%  (a letter grade)   
-7 = -12%   
-8 = -14%
-9 = -50%
+* 1 = -0  
+* 2 = -0  
+* 3 = -0  
+* 4 = -2%  
+* 5 = -4%  
+* 6 = -10%  (a letter grade)   
+* 7 = -12%   
+* 8 = -14%
+* 9 = -50%
 
 ### Participation
 The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
@@ -124,74 +125,91 @@ Those who opt for extra credit may do so. Instructions are posted online.
 8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check “news” or "announcements" section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
 6. Disabilities can be accommodated if you are registered with the Disability Resource Center. See  http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
-8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
+8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopardizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work.  Cite your sources. [See also the UK academic integrity appendix](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
 
 
 
 ### Outline (Short)
 
+*This outline tells you what is due when. A detailed outline is available online. Always check this outline for updates, as well as Canvas for quizzes and announcements. Dates are subject to minor changes due to weather, illness, teacher travel, etc. The online version is always up to date.*
+
+
+**Week 1**  
 W       Aug-24  Syllabus day (no reading)  
 F       Aug-26  Introduction to Business Ethics (no reading)    
 
+**Week 2**  
 M       Aug-29  Basic Philosophy: Peter Kreeft, Truth Handout   
 W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism Handout   
 F       Sep-2   Basic Ethics: Religion & Reason  
 
+**Week 3**  
 M       Sep-5   Labor Day (no class) 
 W       Sep-7   Basic Ethics: Utilitarianism Handout  
 F       Sep-9   Discussion  
 
+**Week 4**  
 M       Sep-12  Basic Ethics: Kantian Deontology Handout  
 W       Sep-14  Basic Ethics: Kantian Deontology Handout    
 F       Sep-16  Discussion  
 
+**Week 5**  
 M       Sep-19  Basic Ethics: Virtue Ethics Handout    
 W       Sep-21  Basic Ethics: Virtue Ethics Handout    
-F       Sep-23  Review of Ethical Theories & Exam   
+F       Sep-23  Review of Ethical Theories. **Exam 1**   
 
+**Week 6**  
 M       Sep-26  Inside Job (film) Parts I-III introduction  
 W       Sep-28  Inside Job Parts I-IV  
 F       Sep-30  Inside Job Part V and discussion  
 
+**Week 7**  
 M       Oct-3   Business Ethics, Methods of Business Ethics  
 W       Oct-5   Business Ethics, the Place of Ethical Theory  
 F       Oct-7   Discussion  
 
+**Week 8**  
 M       Oct-10  Competitive Markets, Ideal of Capitalism  
 W       Oct-12  Competitive Markets, Corporate Responsibility  
 F       Oct-14  Discussion  
 
+**Week 9**  
 M       Oct-17  Economic Justice, Executive Compensation  
 W       Oct-19  Economic Justice, Just Access to Health Care  
 F       Oct-21  Discussion  
 
+**Week 10**  
 M       Oct-24  Universal Norms  
 W       Oct-26  Universal Norms  
 F       Oct-28  Discussion  
  
+**Week 11**  
 M       Oct-31  Information  
 W       Nov-2   Information  
 F       Nov-4   Discussion  
 
+**Week 12**  
 M       Nov-7   Incentives and Influence  
 W       Nov-9   Incentives and Influence  
 F       Nov-11  Discussion  
 
+**Week 13**  
 M       Nov-14  Employee Rights  
 W       Nov-16  Employee Rights  
-F       Nov-18  Discussion  
+F       Nov-18  Review. **Exam 2**
 
-Quarter 2 Test
-
+**Week 14**  
 M       Nov-21  Safety, Risk, Harm  
 W       Nov-23  Safety, Risk, Harm  
 F       Nov-25  Creating Moral Organizations  
 
+**Week 15**  
 M       Nov-28  “Environmental Ethics and Business”  
 W       Nov-30  Thanksgiving Break  
 F       Dec-2   Thanksgiving Break  
 
+**Week 16**  
 M       Dec-5   Film  
 W       Dec-7   Film  
 F       Dec-9   Last day UK  
