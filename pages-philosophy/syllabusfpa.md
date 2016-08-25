@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: philosophy
 permalink: /syllabusfpa
 ---
 
-### [Spring 2017 Syllabus](/philosophy-portal/syllabus200.pdf)
+### [Spring 2017 Syllabus](/pages-philosophy/syllabus200.pdf)
 **Logic**  
 **Instructor**: Keith Buhler  
 **Email**: [kbuhler@fpa.edu](kbuhler@fpa.edu)  

@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: philosophy
 permalink: /syllabus545
 ---
 
-### [545 Religion, Summer 2016](/philosophy-portal/syllabus545.pdf)
+### [545 Religion, Summer 2016](/pages-philosophy/syllabus545.pdf)
 **PHI 545 Business Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  

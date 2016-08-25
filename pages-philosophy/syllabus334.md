@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: philosophy
 permalink: /syllabus334
 title: Business Ethics Syllabus (PHI 334, Fall 2016)
 description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philosophy class at the university of Kentucky.
 ---
 
-#### [PDF Version)](/philosophy-portal/syllabus334.pdf)   
+#### [PDF Version)](/pages-philosophy/syllabus334.pdf)   
 
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  

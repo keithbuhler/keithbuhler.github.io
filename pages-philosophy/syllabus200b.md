@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 permalink: /syllabus200b
 ---
 
@@ -10,7 +10,7 @@ The outline tells you the reading due and the topic for each day. It also provid
 <iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
 
 
-### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/philosophy-portal/syllabus200b.pdf)  
+### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/pages-philosophy/syllabus200b.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** T, 12-1.

@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: philosophy
 permalink: /syllabus200
 ---
 
-### [Introduction to Philosophy: "God, Man, and World" (PHL 200, Fall 2016 Syllabus)](/philosophy-portal/syllabus200.pdf)  
+### [Introduction to Philosophy: "God, Man, and World" (PHL 200, Fall 2016 Syllabus)](/pages-philosophy/syllabus200.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** T, 12-1.

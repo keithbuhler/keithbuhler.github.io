@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: philosophy
 title: Syllabus 200 S2016
 permalink: /syllabus-200-S2016
 ---
 
-### [Syllabus, Spring 2016](/philosophy-portal/syllabus-200-S2016.pdf)
+### [Syllabus, Spring 2016](/pages-philosophy/syllabus-200-S2016.pdf)
 **Introduction to Philosophy: “Goodness, Truth, and Beauty”**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  

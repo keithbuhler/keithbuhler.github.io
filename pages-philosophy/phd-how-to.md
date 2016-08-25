@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 title: How to Get a PhD in Philosophy
 permalink: /phd-how-to
 --- 
