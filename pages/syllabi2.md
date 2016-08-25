@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: syllabi
 header: 
       image: kentucky.jpg

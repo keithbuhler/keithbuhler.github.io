@@ -5,12 +5,15 @@ permalink: /philosophy-class
 author_profile: true
 --- 
 
-Philosophy is about arguing. Philosophy is about making arguments and understanding arguments. It's not about yelling, but rationally justifying your positions and debunking falsehoods. Philosophy is not, primarily, about memorizing historical figures, philosophical schools, and terminology. You only learn memorize those things in order to be able to understand the arguments. Then you have to think. 
+Philosophy is about making and understanding *arguments*. 
 
-My classes use project-based learning. We learn by doing. Philosophy is better caught than taught.
+Philosophy is not about yelling, but arguing -- that is, rationally justifying your positions and debunking falsehoods. 
 
-The only obstacle to project-based learning is this: Thinking is hard. Every philosophy student hits the wall. If you can get over the hump, then you will enjoy this class and it may have a good effect on your life. The wall is the moment where you feel frustrated, confused. You feel like something is wrong. You are mad at your classmate, your professor, or yourself. You think maybe philosophy just isn't for you. Everyone who really reaps the rewards of doing philosophy has hit this wall and pushed through. 
+Philosophy is not, primarily, about memorizing historical figures, philosophical schools, and terminology. You only learn memorize those things in order to be able to understand the arguments. Then you have to think. 
 
+Good philosophy classes employ project-based learning. We learn by doing. Philosophy is better caught than taught.
+
+The only obstacle to project-based learning is this: Thinking is hard. Every philosophy student hits the wall. If you can get over the hump, then you will enjoy your class and it may have a good effect on your life. The wall is the moment where you feel frustrated, confused. You feel like something is wrong. You are mad at your classmate, your professor, or yourself. You think maybe philosophy just isn't for you. Everyone who really reaps the rewards of doing philosophy has hit this wall and pushed through. 
 
 So don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
 
@@ -19,9 +22,17 @@ So don't worry if you feel uncomfortable or incompetent. Just like weight liftin
 
 ## What do we DO?
 
-Just about every philosophy class will consist of (a) reading classic texts or modern articles that make philosophical arguments, (b) listening to your professor lecture, and (c) asking questions of the teacher or discussing with each other, and (d) writing arguments in philosophical papers. 
+Just about every philosophy class will consist of: 
+- (A) reading classic texts or modern articles that make philosophical arguments
+- (B) listening to your professor lecture, 
+- (C) asking questions of the teacher or discussing with each other, and 
+- (D) writing arguments in philosophical papers. 
 
-So, to succeed, you need to learn how to do each of these activities. The more you put in, the more you get out. To have a great experience in a philosophy class, you must work hard. You must work to read, understand, discuss, and write about the topics and texts. Here are some tips on each of these activities. 
+So, to succeed, you need to learn how to do each of these activities. The more you put in, the more you get out. 
+
+To have a great experience in a philosophy class, you must work hard. You must work to read, understand, discuss, and write about the topics and texts. 
+
+Here are some tips on each of these activities. 
 
 ## (A) How Do I Get Better at Reading Philosophy? 
 * Read ahead,  re-read, and think about what you've read. Read slowly; you will naturally get faster as the semester goes on.
@@ -72,8 +83,7 @@ So, to succeed, you need to learn how to do each of these activities. The more y
 * In general, [philosophy papers can be structured like this.](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/how-to-write-1) Philosophy papers advance a thesis. Like a disputation, they are clear, rigorous, and address objections or counter-arguments. Unlike a disputation, however, they have an introduction, a conclusion, and no section flags. 
 
 
-### Grammar and Usage Tips
-
+### Grammar and Usage Tips (modified from Strunk and White)
 
 * Omit needless words. The most important feature of clear writing is that there are no extraneous words muddling up your thoughts. Ask yourself, “What exactly am I trying to say?” and then say it, as concisely as possible. 
 * Use complete sentences. Do not break sentences into two (not “I met Holmes years ago. Coming home from Liverpool.”)
@@ -96,11 +106,6 @@ So, to succeed, you need to learn how to do each of these activities. The more y
 * Write in a way that comes naturally
 * Do not affect a breezy manner           
 * Be very clear.  
-
-## Extra Credit
-
-- [Introduction to Philosophy Extra Credit Instructions](https://docs.google.com/document/d/1yjx8B1ETVfw4W50IyWUK4hUUwwnqOVDSFXG7_fFPtz0/edit#)
-- [Business Ethics Extra Credit instructions](emailto:keith.buhler@uky.edu)
 
 ## I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
 * Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it!
