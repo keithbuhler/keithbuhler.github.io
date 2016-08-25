@@ -5,15 +5,13 @@ permalink: /discussion101
 author_profile: true
 ---
 
-#### [(pdf version)](/philosophy-portal/discussion101.pdf)
+#### [(pdf version)](/pages-philosophy/discussion101.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  
 University of Kentucky  
 keith.buhler@uky.edu  
 http://www.keithbuhler.com  
-
-author_profile: true
 ----
 
 ### Discussion 101

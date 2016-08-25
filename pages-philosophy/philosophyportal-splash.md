@@ -16,7 +16,7 @@ permalink: /philosophyportal-splash
 
 ### This site is designed to help you to make the most out your class. 
 
-Keep scrolling, or [skip to the main site.](/philosophyportal)
+Keep scrolling, or [skip to the main site.](/philosophy)
 
 
 </section><section data-markdown>
@@ -45,15 +45,15 @@ Welcome! We're going to have a great semester.
 - Take my ["getting acquainted" survey.](https://docs.google.com/forms/d/17A6-27pW2lrI4S6rEpV8GIh_OycvQHCc01fkyuoxPYw/viewform?usp=send_form)
 - Review your course [syllabus.](/syllabi)
 - [Read more about the benefits of studying philosophy.](http://www.whystudyphilosophy.com) 
-- Or, blow your mind by opening a random page on Wikipedia and [getting to philosophy.](/philosophyportal/wikipedia)
+- Or, blow your mind by opening a random page on Wikipedia and [getting to philosophy.](/wikipedia)
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 
 </section><section data-markdown>
 
 ### "I am trying to do well in your philosophy class."
 
-![Dory](/images/dory.jpg) You can do it. [Click here for tips on how to succeed.](/philosophyportal/philosophy-class)
+![Dory](/images/dory.jpg) You can do it. [Click here for tips on how to succeed.](/philosophy-class)
 
 </section><section data-markdown>
 
@@ -63,13 +63,13 @@ Welcome! We're going to have a great semester.
 - Also, [rate my class](http://www.ratemyprofessors.com/search.jsp?query=keith+buhler) to let others know how you had a great time.
 - If you want to share criticism, compliments, or other comments, [email me or let's sit down and talk.](emailto:keith.buhler@uky.edu)
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 </section><section data-markdown>
 
 ### "I'm just checking your philosophy site out."
 
 - Cool! I hope you like it. 
-- You can explore the resources on the [Philosophy portal home.](/philosophyportal)
+- You can explore the resources on the [Philosophy portal home.](/philosophy)
 
 </section><section data-markdown>
 
@@ -104,16 +104,16 @@ Read these and you'll get the burn that only philosophy can give you.
 * [Kant, *Metaphysics of Morals*](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf).
 * And talk to your professors. 
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 
 </section><section data-markdown>
 
 ### "I'm considering majoring in philosophy."
 
 - Good. You *should* consider a minor or major.
-- Believe it or not, studying philosophy can help you to [find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophyportal/philosophy-3-major)
+- Believe it or not, studying philosophy can help you to [find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 
 </section><section data-markdown>
 
@@ -127,7 +127,7 @@ Being a professional academic is not for everyone. Is it for you?
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 
 </section><section data-markdown>
 
@@ -139,7 +139,7 @@ Being a professional academic is not for everyone. Is it for you?
 * [Does philosophy have a woman problem?](http://heterodoxacademy.org/2016/07/22/does-philosophy-have-a-woman-problem/) A case that the philosophical field is *not* sexist. 
 * [A sober look at the cost of professionalizing philosophy.](http://opinionator.blogs.nytimes.com/2016/01/11/when-philosophy-lost-its-way/)
 * [A sober look at the future of professional philosophy.](http://chronicle.com/blogs/conversation/2014/07/16/wanted-a-future-for-philosophy/)
-* [More philosophy resources.](/philosophyportal/philosophy-resources)
+* [More philosophy resources.](/philosophy-resources)
 
 
 
@@ -149,7 +149,7 @@ Being a professional academic is not for everyone. Is it for you?
 
   - Contact me via [email](keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler). 
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 
 </section><section data-background="https://i.ytimg.com/vi/gY50hnprl98/maxresdefault.jpg" data-markdown>
 
@@ -162,15 +162,15 @@ Being a professional academic is not for everyone. Is it for you?
 - Here's some suggestions: 
 - Check out my [personal site](/fun) for fiction, art, and more fun stuff.
 - Check out my [academic articles.](https://uky.academia.edu/KeithBuhler)
-- Check out some other [philosophy resources](/philosophyportal/philosophy-resources)
+- Check out some other [philosophy resources](/philosophy-resources)
 - Read about [Mary Shelly](https://en.wikipedia.org/wiki/Mary_Wollstonecraft), one of the first modern female philosophers.
 
-[*Philosophy portal home.*](/philosophyportal)
+[*Philosophy portal home.*](/philosophy)
 
 </section><section data-markdown>
 
 # Thanks for visiting!
 
-[Proceed to the Philosophy Portal Home.](/philosophyportal)
+[Proceed to the Philosophy Portal Home.](/philosophy)
 
 </section><!---end slideshow-->

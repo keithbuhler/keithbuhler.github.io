@@ -29,7 +29,7 @@ Buy these three books right away. Use these ISBNS only, please. No Kindle unless
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
 - [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
-- [Keith Buhler, "Logic 101"](http://www.keithbuhler.com/philosophyportal/logic)
+- [Keith Buhler, "Logic 101"](http://www.keithbuhler.com/logic)
 - [Peter Kreeft, “Are universals real?”](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
 - [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64)
 - [Richard Dawkins, “Why there is almost certainly no god”](https://drive.google.com/open?id=0B0CYQDZ8AWu8WV9IZ1liNmRDa28)
@@ -87,7 +87,7 @@ I typically do not round up. So 89.5 is a “B”. Your best bet for getting an 
 
 ### Reading
 
-The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. [Reading tips are online.](http://www.keithbuhler.com/philosophyportal/philosophy-class)
+The primary work of this class is reading and thinking about these books, essays, and films. It will take about 3 hours per week of reading. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on what you’ve read. Bring to class a question from the reading -- focus on what confuses you. [Reading tips are online.](http://www.keithbuhler.com/philosophy-class)
 
 Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
 
@@ -119,14 +119,14 @@ Everyone starts at an 80% (B-) for the participation grade. You will move up or 
 
 What are the "ground rules" for discussion? The rules are hard to articulate. I give you a few rules that I have found to help, but the real rules are bigger and deeper. In fact, you can break my little rules and you’re still OK. I can criticize your opinion and you’re still OK. You can criticize my opinions and we’re still OK. You can say something “mean” or politically incorrect and we’re all OK. You can ask people to be nicer, and we’re OK. You can even criticize my teaching, and I’m OK. Trust the process. We’re going to try, *together* to make something of our discussions. 
 
-Other discussion ground rules are [posted online.](http://www.keithbuhler.com/philosophyportal/discussion101)
+Other discussion ground rules are [posted online.](http://www.keithbuhler.com/discussion101)
 
 ### Tests
 
 There are two quarter exams: one at the end of the first quarter, and one at the end of the third quarter. (No midterm or final). These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted online.
 
 ### Disputation Papers
-Every 2-4 weeks, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. [The instructions are posted online.](http://www.keithbuhler.com/philosophyportal/disputations)
+Every 2-4 weeks, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. [The instructions are posted online.](http://www.keithbuhler.com/disputations)
 
 ### Extra Credit
 Those who opt for extra credit may do so. Instructions are posted online.

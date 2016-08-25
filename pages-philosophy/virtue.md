@@ -10,7 +10,7 @@ title: Virtue
 
 ## Overview ##
 
-Virtue ethics is at least three things: a thriving research program in contemporary analytic philosophy (critiquing and defending neo-Aristotelian, neo-Kantian, and neo-Humean virtue theories); a thriving research program in the history of philosophy (discovering fresh readings of Confucious, the Stoics, and even Nietzsche) -- and a dynamic system of concepts finding their way into applied sciences (such as medicine) and social sciences (such as sociology, psychology, and political science). This confluence of activity makes virtue ethics broadly construed one of the most dynamic and exciting areas of academic inquiry today. 
+Virtue ethics is at least three things: a thriving research program in contemporary analytic philosophy (critiquing and defending neo-Aristotelian, neo-Kantian, and neo-Humean virtue theories); a thriving research program in the history of philosophy (discovering fresh readings of Confucius, the Stoics, and even Nietzsche) -- and a dynamic system of concepts finding their way into applied sciences (such as medicine) and social sciences (such as sociology, psychology, and political science). This confluence of activity makes virtue ethics broadly construed one of the most dynamic and exciting areas of academic inquiry today. 
 
 ### Wisdom ###
 
