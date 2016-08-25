@@ -40,7 +40,7 @@ OK, OK! Try these. Cut your teeth on Aristotle or Kant and you'll get the burn t
 * [Nietzsche, Geneaology of Morals](http://www.inp.uw.edu.pl/mdsie/Political_Thought/GeneologyofMorals.pdf), and 
 * [Kant, *Metaphysics of Morals*](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf).
 * Talk to your professors. 
-* Read about what it's like to be a [professional academic.](/philosophyportal/philosophy-7-profession)
+* Read about what it's like to be a [professional academic.](/philosophy-7-profession)
 
 <br>
 <br>

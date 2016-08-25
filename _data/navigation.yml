@@ -14,24 +14,24 @@ main:
 
 phil:
   - title: "Succeeding"
-    url: http://www.keithbuhler.com/philosophyportal/philosophy-class
+    url: http://www.keithbuhler.com/philosophy-class
 
   - title: "What's Next?"
-    url: http://www.keithbuhler.com/philosophyportal/philosophy-6-next
+    url: http://www.keithbuhler.com/philosophy-6-next
     children: 
       - title: What can I do with a philosophy degree?""
-        url: http://www.keithbuhler.com/philosophyportal/philosophy-3-major
+        url: http://www.keithbuhler.com/philosophy-3-major
       - title: "Should I consider graduate school?"
-        url: http://www.keithbuhler.com/philosophyportal/philosophy-7-profession
+        url: http://www.keithbuhler.com/philosophy-7-profession
 
-  - title: "Degree?"
-    url: http://www.keithbuhler.com/philosophyportal/philosophy-3-major
+  - title: "Major"
+    url: http://www.keithbuhler.com/philosophy-3-major
 
   - title: "Grad School?"
-    url: http://www.keithbuhler.com/philosophyportal/philosophy-7-profession
+    url: http://www.keithbuhler.com/philosophy-7-profession
 
   - title: "Resources"
-    url: http://www.keithbuhler.com/philosophyportal/philosophy-resources
+    url: http://www.keithbuhler.com/philosophy-resources
 
   - title: "Syllabi"
     url: http://www.keithbuhler.com/syllabi

@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-#### [(pdf version)](/philosophyportal/philosophy-3-major.pdf)
+#### [(pdf version)](/philosophy-3-major.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  

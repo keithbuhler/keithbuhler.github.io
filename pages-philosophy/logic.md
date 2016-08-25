@@ -6,7 +6,7 @@ permalink: /logic
 author_profile: false
 ---
 
-#### [(pdf version)](/philosophyportal/logic.pdf)
+#### [(pdf version)](/logic.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)   
 Department of Philosophy   
