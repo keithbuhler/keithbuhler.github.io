@@ -5,7 +5,7 @@ title: Business Ethics Syllabus (PHI 334, Fall 2016)
 description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philosophy class at the university of Kentucky.
 ---
 
-#### [PDF Version)](/pages-philosophy/syllabus334.pdf)   
+#### [(PDF Version)](/pages-philosophy/syllabus334.pdf)   
 
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -136,76 +136,76 @@ Those who opt for extra credit may do so. Instructions are posted online.
 *This outline tells you what is due when. A detailed outline is available online. Always check this outline for updates, as well as Canvas for quizzes and announcements. Dates are subject to minor changes due to weather, illness, teacher travel, etc. The online version is always up to date.*
 
 
-**Week 1**  
+**Week 1 Business Ethics**  
 W       Aug-24  Syllabus day (no reading)  
 F       Aug-26  Introduction to Business Ethics (no reading)    
 
-**Week 2**  
+**Week 2 Truth and Goodness**  
 M       Aug-29  Basic Philosophy: Peter Kreeft, Truth Handout   
 W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism Handout   
 F       Sep-2   Basic Ethics: Religion & Reason  
 
-**Week 3**  
+**Week 3 Utilitarianism**  
 M       Sep-5   Labor Day (no class) 
 W       Sep-7   Basic Ethics: Utilitarianism Handout  
 F       Sep-9   Discussion  
 
-**Week 4**  
+**Week 4 Kantian Deontology**  
 M       Sep-12  Basic Ethics: Kantian Deontology Handout  
 W       Sep-14  Basic Ethics: Kantian Deontology Handout    
 F       Sep-16  Discussion  
 
-**Week 5**  
+**Week 5 Virtue Ethics**  
 M       Sep-19  Basic Ethics: Virtue Ethics Handout    
 W       Sep-21  Basic Ethics: Virtue Ethics Handout    
 F       Sep-23  Review of Ethical Theories. **Exam 1**   
 
-**Week 6**  
+**Week 6 Inside Job**  
 M       Sep-26  Inside Job (film) Parts I-III introduction  
 W       Sep-28  Inside Job Parts I-IV  
 F       Sep-30  Inside Job Part V and discussion  
 
-**Week 7**  
+**Week 7 Methods of Business Ethics**  
 M       Oct-3   Business Ethics, Methods of Business Ethics  
 W       Oct-5   Business Ethics, the Place of Ethical Theory  
 F       Oct-7   Discussion  
 
-**Week 8**  
+**Week 8 Capitalism**  
 M       Oct-10  Competitive Markets, Ideal of Capitalism  
 W       Oct-12  Competitive Markets, Corporate Responsibility  
 F       Oct-14  Discussion  
 
-**Week 9**  
+**Week 9 Compensation**  
 M       Oct-17  Economic Justice, Executive Compensation  
 W       Oct-19  Economic Justice, Just Access to Health Care  
 F       Oct-21  Discussion  
 
-**Week 10**  
+**Week 10 Universal Norms**  
 M       Oct-24  Universal Norms  
 W       Oct-26  Universal Norms  
 F       Oct-28  Discussion  
  
-**Week 11**  
+**Week 11 Information**  
 M       Oct-31  Information  
 W       Nov-2   Information  
 F       Nov-4   Discussion  
 
-**Week 12**  
+**Week 12 Incentives**  
 M       Nov-7   Incentives and Influence  
 W       Nov-9   Incentives and Influence  
 F       Nov-11  Discussion  
 
-**Week 13**  
+**Week 13 Employee Rights**  
 M       Nov-14  Employee Rights  
 W       Nov-16  Employee Rights  
 F       Nov-18  Review. **Exam 2**
 
-**Week 14**  
+**Week 14 Risk**  
 M       Nov-21  Safety, Risk, Harm  
 W       Nov-23  Safety, Risk, Harm  
 F       Nov-25  Creating Moral Organizations  
 
-**Week 15**  
+**Week 15 Environment**  
 M       Nov-28  “Environmental Ethics and Business”  
 W       Nov-30  Thanksgiving Break  
 F       Dec-2   Thanksgiving Break  
