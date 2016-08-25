@@ -19,7 +19,7 @@ description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philo
 - Handout Week 2 [Peter Kreeft, Truth](https://drive.google.com/open?id=10vTMcdduw_krSH_UeWy4IxIi09QIRi4n0GA2eIZY0VM)
 - Handout Week 2 [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1h64LJtuVoeCUAC_JxnIasksjSp7iyLqnenvQ-7YsvgU/edit#heading=h.e0aplekgl5p3)
 - Handout Week 3 [Utilitarianism](https://drive.google.com/open?id=1ajV9KYRrRDx67QJe8MqhfUle54WuaIvRoDTOalryu6Y)
-- Handout Week 4 [Kantian Deontology](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0RmbnRSSEtzRk0)
+- Handout Week 4 [Kantian Deontology](https://docs.google.com/document/d/11xSeb7zJyG01VBhOSsjL5VK1w7R0PVoxu0FRsCRhGPk/edit?usp=sharing)
 - Handout Week 5 [Virtue Ethics](https://drive.google.com/open?id=1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w)
 - Film Week 6 [Inside Job](http://www.sonyclassics.com/insidejob/)
 
