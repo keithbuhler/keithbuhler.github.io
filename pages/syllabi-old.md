@@ -3,7 +3,7 @@ layout: splash
 title: syllabi
 header: 
       image: kentucky.jpg
-permalink: /syllabi
+permalink: 
 feature_row:
   - image_path: syllabus-334.png
     alt: "Business Ethics"
