@@ -3,7 +3,7 @@ layout: philosophy
 title: Logic 101
 author: Keith Buhler
 permalink: /logic
-author_profile: true
+author_profile: false
 ---
 
 #### [(pdf version)](/philosophyportal/logic.pdf)
