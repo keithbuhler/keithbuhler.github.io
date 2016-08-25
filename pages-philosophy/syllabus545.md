@@ -1,9 +1,10 @@
 ---
 layout: philosophy
 permalink: /syllabus545
+title: 545 Philosophy of Religion Syllabus, Summer 2016
 ---
 
-### [545 Religion, Summer 2016](/pages-philosophy/syllabus545.pdf)
+#### [PDF version](/pages-philosophy/syllabus545.pdf)
 **PHI 545 Business Ethics**  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -32,11 +33,10 @@ Our goals are:
 Your grade for the class will depend on your performance in reading and writing philosophical papers. Papers will be medium-to-short weekly papers, and one final paper. There is no test. 
 
 
-|  Assessment category   |  Percent of semester grade |
-| -----------------------| ---------------------------|
-| Participation          |  10%                       |
-| Weekly papers          |  60%                       |
-| Term Paper             |  30%                       |
+Assessment category  /  Percent of semester grade   
+Participation         10%                        
+Weekly papers            60%                        
+Term Paper               30%                       
 
 
 ### Unit Papers:  
