@@ -1,6 +1,6 @@
 ---
-layout: splash
-title: syllabi
+layout: philosophy
+title: For My Students
 header: 
       image: kentucky.jpg
 permalink: /syllabi
