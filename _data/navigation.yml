@@ -13,28 +13,24 @@ main:
     url: http://keithbuhler.com/students
 
 phil:
+
+  - title: "For My Students"
+    url: http://www.keithbuhler.com/syllabi
+
   - title: "Succeeding"
     url: http://www.keithbuhler.com/philosophy-class
-
-  - title: "What's Next?"
-    url: http://www.keithbuhler.com/philosophy-6-next
-    children: 
-      - title: What can I do with a philosophy degree?""
-        url: http://www.keithbuhler.com/philosophy-3-major
-      - title: "Should I consider graduate school?"
-        url: http://www.keithbuhler.com/philosophy-7-profession
-
-  - title: "Major"
+    
+  - title: "Major?"
     url: http://www.keithbuhler.com/philosophy-3-major
 
   - title: "Grad School?"
     url: http://www.keithbuhler.com/philosophy-7-profession
 
-  - title: "Resources"
+  - title: "What's Next?"
+    url: http://www.keithbuhler.com/philosophy-6-next
+
+  - title: "More Resources"
     url: http://www.keithbuhler.com/philosophy-resources
 
-  - title: "Syllabi"
-    url: http://www.keithbuhler.com/syllabi
-
-  - title: "keithbuhler.com"
-    url: http://www.keithbuhler.com
+  - title: "About"
+    url: http://www.keithbuhler.com/

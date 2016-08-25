@@ -95,12 +95,15 @@ Practical wisdom cannot be taught, but must be acquired through experience. Like
 
 </section><section data-markdown>
 
-### 8. The "function" of humanity has to do with our rationality. 
+### 8. The 'function' of humanity has to do with our rationality. 
 
 What is it that humans do but no other creature does? 
 
 - Not life -- plants are alive, reproduce, grow, etc.
 - Not consciousness -- animals are conscious
+- Rational choice -- only humans make rational choices on the basis of reflection. We judge what is true or false, good or bad, and act accordingly. 
+
+- Put differently, you can't know what to do if you don't know (a) the facts and (b) what is worthwhile. Should I move to Canada or stay in the U.S.? I can only answer that if I know what each place is like, and how well each place would fit my goals and allow me to acquire more virtue.
 
 
 </section><section data-markdown>
