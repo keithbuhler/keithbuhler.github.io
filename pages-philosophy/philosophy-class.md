@@ -13,16 +13,19 @@ Philosophy is not, primarily, about memorizing historical figures, philosophical
 
 Good philosophy classes employ project-based learning. We learn by doing. Philosophy is better caught than taught.
 
+![Dory](/images/dory.jpg)
+
+
 The only obstacle to project-based learning is this: Thinking is hard. Every philosophy student hits the wall. If you can get over the hump, then you will enjoy your class and it may have a good effect on your life. The wall is the moment where you feel frustrated, confused. You feel like something is wrong. You are mad at your classmate, your professor, or yourself. You think maybe philosophy just isn't for you. Everyone who really reaps the rewards of doing philosophy has hit this wall and pushed through. 
 
 So don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
 
-![Dory](/images/dory.jpg)
 
 
 ## What do we DO?
 
 Just about every philosophy class will consist of: 
+
 - (A) reading classic texts or modern articles that make philosophical arguments
 - (B) listening to your professor lecture, 
 - (C) asking questions of the teacher or discussing with each other, and 
