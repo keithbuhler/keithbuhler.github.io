@@ -1,7 +1,7 @@
 ---
 title: Philosophy Portal
 layout: philosophy
-permalink: /philosophy1
+permalink: /philosophy-index
 author_profile: true
 --- 
 
