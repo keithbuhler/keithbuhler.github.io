@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-#### I Kinda Like Philosophy; What Should I Read Next? 
+#### I Kinda Like Philosophy; What Should I Read? 
 
 Here are some good, accessible yet challenging classics. 
 
@@ -30,7 +30,7 @@ Here are some good, accessible yet challenging classics.
   <img src="/images/wonka-metaphysics.jpeg" alt="condescending wonka philosopher" hspace="5" align="left" width="400" height="400">
 </a>
 
-OK, OK! Try these. Cut your teeth on Aristotle or Kant and you'll get the burn that only philosophy can give you.
+OK, OK! Try these. Cut your teeth on Aristotle or Kant. It'll give you the burn that only philosophy can.
 
 * Read [Plato, *Republic*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168), 
 * [Aristotle, *Metaphysics*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0052), 
