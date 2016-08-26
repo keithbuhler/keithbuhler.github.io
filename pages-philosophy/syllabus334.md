@@ -143,7 +143,7 @@ F       Aug-26  Introduction to Business Ethics (no reading)
 **Week 2 Truth and Goodness**  
 M       Aug-29  Basic Philosophy: Peter Kreeft, Truth Handout   
 W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism Handout   
-F       Sep-2   Basic Ethics: Religion & Reason  
+F       Sep-2   Basic Philosophy: Religion & Reason  
 
 **Week 3 Utilitarianism**  
 M       Sep-5   Labor Day (no class) 

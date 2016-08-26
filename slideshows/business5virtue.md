@@ -127,5 +127,5 @@ Friendship is not just a relationship but an activity -- the activity of being a
 
 * Questions?
 * Write a short response
-* Read for next time
+* Rent and watch "Inside Job" (anywhere online!), by yourself or in a group.
 

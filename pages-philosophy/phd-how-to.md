@@ -56,23 +56,27 @@ The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosoph
 Play it safe -- just be calm, be yourself, be frank, and say what you want to study. Your aspirations will change; just state what you want to study *today*. 
 
 
-### 4. Once you get in, how do you best make progress? ###
-At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list.](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing)
+### 4. Once you get in, how do you best make progress? -- MASTER LIST
 
-The list is 35 or so items, broken into 6 (very disproportionally sized) projects: 
+At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list.](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing) You should do the same. I call it the Master List.
 
-1. Complete 12 classes.                                                2 years
+A UK, the Master List is 35 or so items, broken into 6 (very dis-proportionally sized) projects: 
 
+1. Complete 12 classes.                                                (2 years)
 2. Complete language, logic, and Comprehensive exams 2-3 years
+3. Complete 5 more classes                                       (1 year)
+3. Write and defend an Area Proposal.                          (6 months)
+4. Write and defend three Qualifying Exams.                 (3 weeks)
+5. Write and defend a Dissertation Proposal.                 (6-12 months?)
+6. Write and defend a Dissertation.                                (1-3 years? 5 years?)
 
-3. Write and defend an Area Proposal.                          6 months
+This list is different for every school. Even at UK, it's changed since 2012 when I began. You 
 
-4. Write and defend three Qualifying Exams.                 3 weeks
+Find out from your professors, older students, recently finished, and (more probably) from the department administrative assistant *what you need to do*. Keep everything in one big list. Don't be fancy and break it down into multiple places. 
 
-5. Write and defend a Dissertation Proposal.                 6 months?
+And don't lose track, while simply working on courses, of the bigger picture. Getting to "Dr." requires taking courses and doing well -- but it also requires jumping through a bunch of bureaucratic hoops. Deadlines are hard and fast. Missing one could cost you a semester or a year. 
 
-6. Write and defend a Dissertation.                                1-3 years
-
+Know what's coming. What do you need to do by year three? By year two? By end of the year? Right now? Treat each course as a learning opportunity but also as checking a box on your master list. Each "A" or "B" is one step closer to "PHD". 
 
 
 
@@ -99,7 +103,7 @@ Comprehensive exams are required at U. Kentucky but the practice is fading. I st
 
 ### 7. How do you decide on an Area? ##
 
-Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like U. K. does. We do an Area Proposal, then Qualifying Exams, then a Dissertation Proposal, each of which must be written and orally defended before the committee. 
+Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like UK does. We do an Area Proposal, then Qualifying Exams, then a Dissertation Proposal, each of which must be written and orally defended before the committee. 
 
 My area proposal was the product of much soul-searching. When I applied to graduate school, I had intended to study Plato. However, my favorite themes in contemporary ethics and metaethics kept cropping up. Every semester I wrote a term paper or three for my courses. In these papers, I noticed that I kept gravitating towards attacking or defending metaphysical naturalism, ethical naturalism, and so on. 
 
