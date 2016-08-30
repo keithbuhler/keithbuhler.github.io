@@ -41,6 +41,19 @@ feature_row2:
     url: "http://bitly.com/ScriptureOrTradition"
     btn_label: "Read"
     btn_class: "btn--inverse"
+  - image_path: fun-plantinga.png
+    alt: "Advice"
+    title: "Advice to Christian Philosophers"
+    excerpt: "Interviews, stories, and advice from big name philosophers."
+    url: "http://bit.ly/22o8m7j"
+    btn_label: "Read"
+    btn_class: "btn--inverse"
+  - image_path: fun-meditation.jpg
+    title: "Meditation"
+    excerpt: "How (and why) to practice the ancient art of stillness."
+    url: "http://www.keithbuhler.com/buhlerreport/meditation"
+    btn_label: "Breathe"
+    btn_class: "btn--inverse"
 feature_row3:
   - image_path: fun-wither.png
     alt: "Art"
@@ -76,19 +89,7 @@ feature_row3:
 - Sandboxing -- how to innovate through low-risk play
 - Book Clubs -- starting and running an intellectual community centered around friendship and great books.
 
-  - image_path: fun-plantinga.png
-    alt: "Advice"
-    title: "Advice to Christian Philosophers"
-    excerpt: "Interviews, stories, and advice from big name philosophers."
-    url: "http://bit.ly/22o8m7j"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: fun-meditation.jpg
-    title: "Meditation"
-    excerpt: "How (and why) to practice the ancient art of stillness."
-    url: "http://www.keithbuhler.com/buhlerreport/meditation"
-    btn_label: "Breathe"
-    btn_class: "btn--inverse"
+
 
 
  - image_path: fun-writings.jpg
