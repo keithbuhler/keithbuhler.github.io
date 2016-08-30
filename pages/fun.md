@@ -62,14 +62,14 @@ feature_row3:
     url: "http://www.keithbuhler.com/art"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: fun-writings.jpg
+  - image_path: fun-writings.png
     alt: "Writings"
     title: "Writings"
     excerpt: "Fiction, poetry, and screenplays."
     url: "http://www.keithbuhler.com/writings"
     btn_label: "Read"
     btn_class: "btn--inverse"
-  - image_path: keithbuhler-teaching.jpg
+  - image_path: fun-speaking.png
     alt: "Speeches"
     title: "Speaking"
     excerpt: "Invite Keith to speak at your event!"
