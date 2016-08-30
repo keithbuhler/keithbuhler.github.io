@@ -33,7 +33,7 @@ feature_row:
     url: "http://www.readingintentionally.com/p/why-because-readers-are-leaders.html"
     btn_label: "More"
     btn_class: "btn--inverse"
-feature_row:
+feature_row2:
   - image_path: fun-sola.jpg
     alt: "Sola Scriptura:  Dialogue"
     title: "Sola Scriptura"
@@ -41,34 +41,7 @@ feature_row:
     url: "http://bitly.com/ScriptureOrTradition"
     btn_label: "Read"
     btn_class: "btn--inverse"
-  - image_path: fun-plantinga.png
-    alt: "Advice"
-    title: "Advice to Christian Philosophers"
-    excerpt: "Interviews, stories, and advice from big name philosophers."
-    url: "http://bit.ly/22o8m7j"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: fun-meditation.jpg
-    title: "Meditation"
-    excerpt: "How (and why) to practice the ancient art of stillness."
-    url: "http://www.keithbuhler.com/buhlerreport/meditation"
-    btn_label: "Breathe"
-    btn_class: "btn--inverse"
-feature_row:
- - image_path: fun-writings.jpg
-    alt: "Writings"
-    title: "Writings"
-    excerpt: "Fiction, poetry, and screenplays."
-    url: "http://www.keithbuhler.com/writings"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-- image_path: keithbuhler-teaching.jpg
-    alt: "Speeches"
-    title: "Speaking"
-    excerpt: "Invite Keith to speak at your event!"
-    url: "http://www.keithbuhler.com/speaking"
-    btn_label: "More"
-    btn_class: "btn--inverse"
+feature_row3:
 - image_path: fun-wither.png
     alt: "Art"
     title: "Art"
@@ -83,9 +56,6 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row %}
-
 
 {% include feature_row id="feature_row2" type="center"  %}
 
@@ -105,3 +75,34 @@ feature_row:
 - Orthodoxy -- a bit about the ancient church
 - Sandboxing -- how to innovate through low-risk play
 - Book Clubs -- starting and running an intellectual community centered around friendship and great books.
+
+  - image_path: fun-plantinga.png
+    alt: "Advice"
+    title: "Advice to Christian Philosophers"
+    excerpt: "Interviews, stories, and advice from big name philosophers."
+    url: "http://bit.ly/22o8m7j"
+    btn_label: "Read"
+    btn_class: "btn--inverse"
+  - image_path: fun-meditation.jpg
+    title: "Meditation"
+    excerpt: "How (and why) to practice the ancient art of stillness."
+    url: "http://www.keithbuhler.com/buhlerreport/meditation"
+    btn_label: "Breathe"
+    btn_class: "btn--inverse"
+
+
+ - image_path: fun-writings.jpg
+    alt: "Writings"
+    title: "Writings"
+    excerpt: "Fiction, poetry, and screenplays."
+    url: "http://www.keithbuhler.com/writings"
+    btn_label: "Read"
+    btn_class: "btn--inverse"
+- image_path: keithbuhler-teaching.jpg
+    alt: "Speeches"
+    title: "Speaking"
+    excerpt: "Invite Keith to speak at your event!"
+    url: "http://www.keithbuhler.com/speaking"
+    btn_label: "More"
+    btn_class: "btn--inverse"
+
