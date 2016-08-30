@@ -33,7 +33,9 @@ feature_row:
     url: "http://www.readingintentionally.com/p/why-because-readers-are-leaders.html"
     btn_label: "More"
     btn_class: "btn--inverse"
-feature_row2:
+intro2: 
+  - excerpt: ''
+feature_row:
   - image_path: fun-sola.jpg
     alt: "Sola Scriptura:  Dialogue"
     title: "Sola Scriptura"
@@ -83,6 +85,10 @@ feature_row3:
 <br>
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="intro2" type="center" %}
 
 {% include feature_row %}
 
