@@ -62,6 +62,22 @@ feature_row3:
     url: "http://www.keithbuhler.com/art"
     btn_label: "More"
     btn_class: "btn--inverse"
+  - image_path: fun-writings.jpg
+    alt: "Writings"
+    title: "Writings"
+    excerpt: "Fiction, poetry, and screenplays."
+    url: "http://www.keithbuhler.com/writings"
+    btn_label: "Read"
+    btn_class: "btn--inverse"
+  - image_path: keithbuhler-teaching.jpg
+    alt: "Speeches"
+    title: "Speaking"
+    excerpt: "Invite Keith to speak at your event!"
+    url: "http://www.keithbuhler.com/speaking"
+    btn_label: "More"
+    btn_class: "btn--inverse"
+
+
 ---
 
 <br>
@@ -91,19 +107,4 @@ feature_row3:
 
 
 
-
- - image_path: fun-writings.jpg
-    alt: "Writings"
-    title: "Writings"
-    excerpt: "Fiction, poetry, and screenplays."
-    url: "http://www.keithbuhler.com/writings"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-- image_path: keithbuhler-teaching.jpg
-    alt: "Speeches"
-    title: "Speaking"
-    excerpt: "Invite Keith to speak at your event!"
-    url: "http://www.keithbuhler.com/speaking"
-    btn_label: "More"
-    btn_class: "btn--inverse"
 
