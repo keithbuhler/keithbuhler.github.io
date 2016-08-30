@@ -34,11 +34,11 @@ feature_row:
     btn_label: "More"
     btn_class: "btn--inverse"
 feature_row2:
-  - image_path: fun-lewis.png
-    alt: "The Inklings"
-    title: "Inklings.info"
-    excerpt: "Information, books, and lists about the Oxford Dons."
-    url: "http://www.inklings.info"
+  - image_path: fun-sola.jpg
+    alt: "Sola Scriptura:  Dialogue"
+    title: "Sola Scriptura"
+    excerpt: "My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused."
+    url: "http://bitly.com/ScriptureOrTradition"
     btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: fun-plantinga.png
@@ -48,11 +48,33 @@ feature_row2:
     url: "http://bit.ly/22o8m7j"
     btn_label: "Read"
     btn_class: "btn--inverse"
-  - image_path: fun-newton.png
-    title: "Philosophy is Science"
-    excerpt: "A provocative argument regarding philosophy's relationship to other natural and formal sciences."
-    url: "http://www.philosophyisscience.com/"
+  - image_path: fun-meditation.jpg
+    title: "Meditation"
+    excerpt: "How (and why) to practice the ancient art of stillness."
+    url: "http://www.keithbuhler.com/buhlerreport/meditation"
+    btn_label: "Breathe"
+    btn_class: "btn--inverse"
+feature_row3:
+ - image_path: fun-writings.jpg
+    alt: "Writings"
+    title: "Writings"
+    excerpt: "Fiction, poetry, and screenplays."
+    url: "http://www.keithbuhler.com/writings"
     btn_label: "Read"
+    btn_class: "btn--inverse"
+- image_path: keithbuhler-teaching.jpg
+    alt: "Speeches"
+    title: "Speaking"
+    excerpt: "Invite Keith to speak at your event!"
+    url: "http://www.keithbuhler.com/speaking"
+    btn_label: "More"
+    btn_class: "btn--inverse"
+- image_path: fun-wither.png
+    alt: "Art"
+    title: "Art"
+    excerpt: "Drawings, paintings, and pumpkins"
+    url: "http://www.keithbuhler.com/art"
+    btn_label: "More"
     btn_class: "btn--inverse"
 ---
 
@@ -60,80 +82,23 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-
 {% include feature_row %}
 
-
 {% include feature_row id="feature_row2"  %}
+
+{% include feature_row id="feature_row3"  %}
 
 <br>
 
 ### Projects in Development
 
-
-<figure>
-   <a href="http://bitly.com/ScriptureOrTradition"><img src="/images/fun-sola.jpg"> </a>
-  <figcaption> <b> Sola Scriptura: A Dialogue:</b>  &nbsp; My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused.</figcaption>
-    </figure>
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/classical-education"> <img src="/images/"> </a>  
-    <p><figcaption> <b> Classical Education: </b> Three distinctive features of classical education. Resources, links, and more. </figcaption></p>
-</figure>
-
-<br>
-
-<figure>
-    <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"> <img src="/images/fun-discussion.png"></a>  
-    <figcaption>  <b> My YouTube Channel:</b> &nbsp; For discussion advice, philosophy talks, and comedy.</figcaption>
-</figure>
-
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/writings"><img src="/images/fun-writings.jpg"></a>
-      <figcaption> <b> Writings </b>:  &nbsp; Fiction, poetry, and screenplays. </figcaption>
-</figure>
-
-<br>
-
-
-<figure>
-    <a href="http://www.keithbuhler.com/speaking"> <img src="/images/keithbuhler-teaching.jpg"> </a>  
-    <figcaption> <b> Speaking</b>:  &nbsp; For speaking engagements, lectures, etc. </figcaption>
-</figure>
-
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/meditation"><img src="/images/fun-meditation.jpg"> </a>
-    <figcaption> <b>Meditation:</b>  &nbsp; How (and why) to practice the ancient art of stillness.  </figcaption>
-</figure>
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/art"><img src="/images/fun-wither.png"> </a>
-  <figcaption> <b> Art: </b>  &nbsp; Drawings, paintings, and pumpkins </figcaption>
-</figure>
-
-<br>
-
-<figure>
-   <a href="https://github.com/keithbuhler/"> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-256.png"> </a>
-  <figcaption> <b>Github: </b> &nbsp; My Github repos (including this site!)  </figcaption>
-</figure>
-
-<br>
-
-<figure>
-    <a href="http://www.keithbuhler.com/buhlerreport/bio"> <img src="/images/keithbuhler-bw-smaller.png"> </a>  
-    <figcaption> <b>Longer Bio</b>:  &nbsp; A bit more about me. </figcaption>
-</figure>
-
-<br>
-
+- [Philosophy is Science](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences.
+- [Inklings.info](http://www.inklings.info) -- Free books, lists, and information about the Oxford Dons.
+- [Classical Education 101](http://www.keithbuhler.com/buhlerreport/classical-education) -- Three distinctive features of classical education, plus resources, links, and more.
+- [My YouTube Channel](http://bit.ly/keithbuhler_youtube) -- For discussion advice, philosophy talks, and comedy.
+- [Longer Bio](http://www.keithbuhler.com/buhlerreport/bio) -- A bit more about me
+- [Web Design](/sites) -- Hire me to make a website for you.
+- [Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation.
+- Orthodoxy -- a bit about the ancient church
+- Sandboxing -- how to innovate through low-risk play
+- Book Clubs -- starting and running an intellectual community centered around friendship and great books.

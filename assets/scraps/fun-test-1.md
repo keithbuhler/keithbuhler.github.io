@@ -13,7 +13,7 @@ Welcome to keithbuhler.com/fun, my sandbox for experimental projects. These proj
 
 ----
 
-<figure class="third">
+<figure class="half">
     <a href="http://www.keithbuhler.com/blog"><img src="/images/favicon8.png"></a>
     <a href="http://bit.ly/36BooksPerYear"> <img src="/images/fun-books2.jpg"> </a>
     <a href="https://www.youtube.com/watch?v=yU9_t1sS6ws"><img src="/images/fun-discussion.jpg"> </a>

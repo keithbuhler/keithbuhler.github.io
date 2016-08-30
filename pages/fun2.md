@@ -241,7 +241,7 @@ intro:
        </div>
        <div class="product-info">
          <h10>Web Design</h10>
-         <p>Hire me to make a website for you. http://www.keithbuhler.com/sites</p>
+         <p> http://www.keithbuhler.com/sites</p>
        </div>
      </a>
    
@@ -285,6 +285,23 @@ intro:
        </div>
      </a>
     
+
+### Completed
+
+1. Buhler Report
+2. Philosophy Portal
+3. Reading Intentionally
+
+4. Advice to Christian Philosophers
+4. Sola Scriptura
+5. Meditation
+
+6. Writing
+7. Speaking
+8. Art
+
+
+### Developing
 
 - Philosophy is Science
 - Inklings.info
