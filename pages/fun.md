@@ -33,7 +33,7 @@ feature_row:
     url: "http://www.readingintentionally.com/p/why-because-readers-are-leaders.html"
     btn_label: "More"
     btn_class: "btn--inverse"
-intro2: 
+intro: 
   - excerpt: ''
 feature_row2:
   - image_path: fun-sola.png
@@ -56,7 +56,7 @@ feature_row2:
     url: "http://www.keithbuhler.com/buhlerreport/meditation"
     btn_label: "Breathe"
     btn_class: "btn--inverse"
-intro3: 
+intro: 
   - excerpt: ''
 feature_row3:
   - image_path: fun-wither.png
@@ -89,11 +89,11 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row2 id="intro2" type="center" %}
+{% include feature_row2 id="intro" type="center" %}
 
 {% include feature_row2 %}
 
-{% include feature_row3 id="intro3" type="center" %}
+{% include feature_row3 id="intro" type="center" %}
 
 {% include feature_row3 %}
 
