@@ -36,7 +36,7 @@ feature_row:
 intro2: 
   - excerpt: ''
 feature_row2:
-  - image_path: fun-sola.jpg
+  - image_path: fun-sola.png
     alt: "Sola Scriptura:  Dialogue"
     title: "Sola Scriptura"
     excerpt: "My book-length Socratic dialogue on Scripture and Tradition for Catholics, Protestants, and the utterly confused."
@@ -89,11 +89,11 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row id="intro2" type="center" %}
+{% include feature_row2 id="intro2" type="center" %}
 
 {% include feature_row2 %}
 
-{% include feature_row id="intro3" type="center" %}
+{% include feature_row3 id="intro3" type="center" %}
 
 {% include feature_row3 %}
 
