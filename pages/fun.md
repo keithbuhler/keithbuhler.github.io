@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: nasmith-banner.jpeg
   caption: "[**Nasmith**](http://www.tednasmith.com/)"
-excerpt: "A bunch of projects I am playing with. Some are complete, others in development."
+excerpt: "This sandbox includes various projects -- complete or in development -- that I am playing with. Enjoy!"
 intro: 
   - excerpt: ''
 feature_row:
