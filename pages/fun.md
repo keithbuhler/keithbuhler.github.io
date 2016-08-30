@@ -42,7 +42,7 @@ feature_row2:
     btn_label: "Read"
     btn_class: "btn--inverse"
 feature_row3:
-- image_path: fun-wither.png
+  - image_path: fun-wither.png
     alt: "Art"
     title: "Art"
     excerpt: "Drawings, paintings, and pumpkins"
