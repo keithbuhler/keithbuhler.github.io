@@ -85,9 +85,9 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row2 %}
+{% include feature_row2 id="feature_row2" %}
 
-{% include feature_row3 %}
+{% include feature_row3 id="feature_row3" %}
 
 <br>
 
