@@ -9,7 +9,7 @@ header:
   overlay_image: nasmith-banner.jpeg
   caption: "[**Nasmith**](http://www.tednasmith.com/)"
 excerpt: "This sandbox includes various projects -- complete or in development -- that I am playing with. Enjoy!"
-intro: 
+intro1: 
   - excerpt: ''
 feature_row1:
   - image_path: fun-buhler.png
@@ -85,7 +85,7 @@ feature_row3:
 
 <br>
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro1" type="center" %}
 
 {% include feature_row1 %}
 
