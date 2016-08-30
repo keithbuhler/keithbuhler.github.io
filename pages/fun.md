@@ -56,6 +56,8 @@ feature_row:
     url: "http://www.keithbuhler.com/buhlerreport/meditation"
     btn_label: "Breathe"
     btn_class: "btn--inverse"
+intro3: 
+  - excerpt: ''
 feature_row3:
   - image_path: fun-wither.png
     alt: "Art"
@@ -79,7 +81,6 @@ feature_row3:
     btn_label: "More"
     btn_class: "btn--inverse"
 
-
 ---
 
 <br>
@@ -92,9 +93,9 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2"  %}
+{% include feature_row id="intro3" type="center" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row %}
 
 <br>
 
