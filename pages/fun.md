@@ -11,7 +11,7 @@ header:
 excerpt: "This sandbox includes various projects -- complete or in development -- that I am playing with. Enjoy!"
 intro: 
   - excerpt: ''
-feature_row:
+feature_row1:
   - image_path: fun-buhler.png
     alt: "The Buhler Report"
     title: "Buhler Report"
@@ -35,7 +35,7 @@ feature_row:
     btn_class: "btn--inverse"
 intro2: 
   - excerpt: ''
-feature_row:
+feature_row2:
   - image_path: fun-sola.jpg
     alt: "Sola Scriptura:  Dialogue"
     title: "Sola Scriptura"
@@ -87,15 +87,15 @@ feature_row3:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row1 %}
 
 {% include feature_row id="intro2" type="center" %}
 
-{% include feature_row %}
+{% include feature_row2 %}
 
 {% include feature_row id="intro3" type="center" %}
 
-{% include feature_row %}
+{% include feature_row3 %}
 
 <br>
 
