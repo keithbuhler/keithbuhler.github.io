@@ -384,17 +384,16 @@ Ask yourself:
 
 ![Religion](/images/religion-in-us-small.png)
 
-In the US Today: 
-
-- 78% Religious 
-- 22% non-Religious
-
-
 </section> <section data-markdown>
 
 ## Religion and public morality
 
-In the US Today: 
+In the US Today:^[Pew Religious Landscape Survey, http://www.pewforum.org/religious-landscape-study/] 
+
+- 78% Religious 
+- 22% non-Religious
+
+Specifically:
 
 - 68% Christian
 - 10% other religious affiliation 
@@ -422,6 +421,7 @@ In the US Today:
 - Academia (50% religious)
 - Philosophy (15% religious)
 - Science (42% religious)
+- Kentucky (76% Christian)
 - Entertainment industry?
 - News Media?
 
