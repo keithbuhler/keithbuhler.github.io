@@ -388,9 +388,7 @@ Ask yourself:
 
 ## Religion and public morality
 
-In the US Today:^[Pew Religious Landscape Survey, http://www.pewforum.org/religious-landscape-study/] 
-
-
+In the US Today:[(citation 1)](Pew Religious Landscape Survey, http://www.pewforum.org/religious-landscape-study/)
 
 - 68% Christian
 - 10% other religious affiliation 
@@ -415,16 +413,13 @@ In the US Today:
 
 **Exceptions**
 
-- Academia (50-60% religious)[^2] 
-- Philosophy (15% religious)[^1] 
-- Science (42% religious)[^3] 
+- Academia (50-60% religious) [(citation 1)](http://religion.ssrc.org/reforum/Gross_Simmons.pdf) 
+- Philosophy (15% religious)[(citation 2)]("What Do Philosophers Believe?", Bourget and Chalmers, http://philpapers.org/archive/BOUWDP)
+- Science (42% religious)[(citation 3)]("Religion among Academic Scientists", Ecklund and Scheitle, http://www.owlnet.rice.edu/~ehe/doc/Ecklund_SocialProblems_54_2.pdf)
 - Kentucky (76% Christian)
 - Entertainment industry?
 - News Media?
 
-[^2]: http://religion.ssrc.org/reforum/Gross_Simmons.pdf
-[^1]:"What Do Philosophers Believe?", Bourget and Chalmers, http://philpapers.org/archive/BOUWDP
-[^3]: "Religion among Academic Scientists", Ecklund and Scheitle, http://www.owlnet.rice.edu/~ehe/doc/Ecklund_SocialProblems_54_2.pdf
 
 </section> <section data-markdown>
 
