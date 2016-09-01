@@ -390,10 +390,7 @@ Ask yourself:
 
 In the US Today:^[Pew Religious Landscape Survey, http://www.pewforum.org/religious-landscape-study/] 
 
-- 78% Religious 
-- 22% non-Religious
 
-Specifically:
 
 - 68% Christian
 - 10% other religious affiliation 
@@ -418,18 +415,23 @@ In the US Today:
 
 **Exceptions**
 
-- Academia (50% religious)
-- Philosophy (15% religious)
-- Science (42% religious)
+- Academia (50-60% religious)[^2] 
+- Philosophy (15% religious)[^1] 
+- Science (42% religious)[^3] 
 - Kentucky (76% Christian)
 - Entertainment industry?
 - News Media?
+
+[^2]: http://religion.ssrc.org/reforum/Gross_Simmons.pdf
+[^1]:"What Do Philosophers Believe?", Bourget and Chalmers, http://philpapers.org/archive/BOUWDP
+[^3]: "Religion among Academic Scientists", Ecklund and Scheitle, http://www.owlnet.rice.edu/~ehe/doc/Ecklund_SocialProblems_54_2.pdf
 
 </section> <section data-markdown>
 
 ## Religion and public morality
 
-- US 78% religious
+- 78% Religious 
+- 22% non-affiliated non-religious
 
 Compare with: 
 
