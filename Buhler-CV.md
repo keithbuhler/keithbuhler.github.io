@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /cv/
-2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected graduation in 2017)*  
 --- 
 
 ### CURRICULUM VITAE
@@ -164,4 +163,6 @@ International Society for MacIntyrean Enquiry, 2015-present
 
 
 ### DISSERTATION
-*Working Title:* "THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS"  (Chair: David Bradshaw)
+*Chair*: David Bradshaw
+
+*Working Title:* VIRTUE AND PRACTICAL REASON: TOWARD A FOUNDATION OF NEO-ARISTOTELIAN ETHICS
