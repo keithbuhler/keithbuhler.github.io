@@ -10,7 +10,7 @@ description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philo
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  
-**Office Hours**: CB Wed 2-3pm, , before/after class, and by appointment.   
+**Office Hours**: CB Wed 2-3pm, before/after class, and by appointment.   
 **Office**: Patterson Office Tower, 14th floor.   
 
 
@@ -202,16 +202,16 @@ F       Nov-18  Review. **Exam 2**
 
 **Week 14 Risk**  
 M       Nov-21  Safety, Risk, Harm  
-W       Nov-23  Safety, Risk, Harm  
-F       Nov-25  Creating Moral Organizations  
+W       Nov-23  Thanksgiving Break  
+F       Nov-25  Thanksgiving Break  
 
 **Week 15 Environment**  
-M       Nov-28  “Environmental Ethics and Business”  
-W       Nov-30  Thanksgiving Break  
-F       Dec-2   Thanksgiving Break  
+M       Nov-28  Creating Moral Organizations  
+W       Nov-30  Creating Moral Organizations  
+F       Dec-2   Discussion
 
 **Week 16**  
-M       Dec-5   Film  
+M       Dec-5   “Environmental Ethics and Business”  
 W       Dec-7   Film  
 F       Dec-9   Last day UK  
 
