@@ -166,57 +166,57 @@ W       Sep-28  Inside Job Parts I-IV
 F       Sep-30  Inside Job Part V and discussion  
 
 **Week 7 Methods of Business Ethics**  
-M       Oct-3   Business Ethics, Methods of Business Ethics  
-W       Oct-5   Business Ethics, the Place of Ethical Theory  
+M       Oct-3   Business Ethics, Methods of Business Ethics  (Group 1 presents)  
+W       Oct-5   Business Ethics, the Place of Ethical Theory  (Group 2)  
 F       Oct-7   Discussion  
 
 **Week 8 Capitalism**  
-M       Oct-10  Competitive Markets, Ideal of Capitalism  
-W       Oct-12  Competitive Markets, Corporate Responsibility  
+M       Oct-10  Competitive Markets, Ideal of Capitalism  (Group 3)
+W       Oct-12  Competitive Markets, Corporate Responsibility (Group 4)  
 F       Oct-14  Discussion  
 
 **Week 9 Compensation**  
-M       Oct-17  Economic Justice, Executive Compensation  
-W       Oct-19  Economic Justice, Just Access to Health Care  
+M       Oct-17  Economic Justice, Executive Compensation (Group 5)   
+W       Oct-19  Economic Justice, Just Access to Health Care  (Group 6)  
 F       Oct-21  Discussion  
 
 **Week 10 Universal Norms**  
-M       Oct-24  Universal Norms  
-W       Oct-26  Universal Norms  
+M       Oct-24  Universal Norms  (Group 7)  
+W       Oct-26  Universal Norms  (Group 8)  
 F       Oct-28  Discussion  
  
 **Week 11 Information**  
-M       Oct-31  Information  
-W       Nov-2   Information  
+M       Oct-31  Information  (Group 9)   
+W       Nov-2   Information  (Group 10)   
 F       Nov-4   Discussion  
 
 **Week 12 Incentives**  
-M       Nov-7   Incentives and Influence  
-W       Nov-9   Incentives and Influence  
+M       Nov-7   Incentives and Influence  (Group 1)  
+W       Nov-9   Incentives and Influence  (Group 2)  
 F       Nov-11  Discussion  
 
 **Week 13 Employee Rights**  
-M       Nov-14  Employee Rights  
-W       Nov-16  Employee Rights  
-F       Nov-18  Review. **Exam 2**
+M       Nov-14  Employee Rights  (Group 3)  
+W       Nov-16  Employee Rights  (Group 4)  
+F       Nov-18  Safety, Risk, Harm  (Group 5)   **Exam 2**
 
 **Week 14 Risk**  
-M       Nov-21  Safety, Risk, Harm  
+M       Nov-21  Safety, Risk, Harm  (Group 6)  
 W       Nov-23  Thanksgiving Break  
 F       Nov-25  Thanksgiving Break  
 
 **Week 15 Environment**  
-M       Nov-28  Creating Moral Organizations  
-W       Nov-30  Creating Moral Organizations  
+M       Nov-28  Creating Moral Organizations (Group 7)  
+W       Nov-30  Creating Moral Organizations  (Group 8)  
 F       Dec-2   Discussion
 
 **Week 16**  
-M       Dec-5   “Environmental Ethics and Business”  
-W       Dec-7   Film  
-F       Dec-9   Last day UK  
+M       Dec-5   Environmental Ethics and Business  (Group 9)  
+W       Dec-7   Environmental Ethics and Business (Group 10)
+F       Dec-9   Film & Discussion
 
 M       Dec-12  Finals Week UK   
-W       Dec-16  Paper Due by 11:59PM online.    
+W       Dec-16  Final Paper Due by 11:59PM online.    
 F       Dec-18  Grades Due UK    
 
 
