@@ -71,9 +71,9 @@ Other virtues have to do with how I comport myself in society. I can't be unjust
 
 ### 6. Ethics is not just about actions but about the whole of life. 
 
-Dilemmas are important. 
+Ethical dilemmas are crucially important in Utilitarianism and Deontology.
 
-But dilemmas are not *as important* as daily life. Daily life is about setting priorities, pursuing them, and thinking long-term. 
+In virtue ethics, dilemmas are still important, but not  *as important* as daily life. Daily life is about setting priorities, pursuing them, and thinking long-term. 
 
 The primary question is: "how should I live?" What kind of life should I live? 
 
