@@ -75,7 +75,7 @@ Dilemmas are important.
 
 But dilemmas are not *as important* as daily life. Daily life is about setting priorities, pursuing them, and thinking long-term. 
 
-The primary question is: "how should I love?" What kind of life should I live? 
+The primary question is: "how should I live?" What kind of life should I live? 
 
 For example, what major goods should I pursue? What career should I choose? Marriage or no? Kids or no? Where should I live? 
 

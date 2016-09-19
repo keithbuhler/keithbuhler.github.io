@@ -3,9 +3,9 @@ layout: single
 permalink: /cv/
 --- 
 
-### CURRICULUM VITAE
-
 #### [(PDF version)](/Buhler-CV.pdf)
+
+### CURRICULUM VITAE
 
 Keith Buhler  
 Doctoral Candidate  
@@ -13,6 +13,7 @@ Department of Philosophy
 University of Kentucky   
 Lexington, KY, 40506  
 keith.buhler@uky.edu   
+
 
 ### AREAS OF SPECIALIZATION
 Ethics, Metaethics.       
@@ -23,7 +24,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### EDUCATION
 
-2017 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected graduation in 2017)*  
+2016 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected completion in 2016)*  
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
@@ -37,19 +38,30 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2014 &nbsp;&nbsp;  “Socratic Spiritual Direction,” SOPHIA Conference, TX.  
 2014 &nbsp;&nbsp;  “I Wouldn’t Imagine That if I Were You: Moral Imaginative Resistance in a Virtue Ethical Frame,” South Carolina Society for Philosophy, SC; and Midsouth Philosophy Conference, MI.  
 
+### CONFERENCE COMMENTS AND SERVICE
+2016 &nbsp;&nbsp; On David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism"  
+2014 &nbsp;&nbsp; Session Chair, *Special Divine Action* Conference, Oxford University.   
+2014  &nbsp;&nbsp; On Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics", Midsouth Philosophy Conference, MI.  
+
+
 
 
 ### ACADEMIC APPOINTMENTS
 
-2014-16 &nbsp;&nbsp;Instructor of Philosophy, Asbury University  
-2012-16 &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
+2014-present &nbsp;&nbsp;Instructor of Philosophy, Asbury University  
+2012-present &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
 
+
+### QUANTITATIVE EVALUATIONS 
+
+2015-2016 Teaching Quality Mean: 3.7 out of 4.  
+2015-2016 Course Quality Mean: 3.6 out of 4. 
 
 ### COURSES TAUGHT, University of Kentucky
 
 2016 &nbsp;&nbsp; Business Ethics (upper division)  
-2015-16 &nbsp;&nbsp; Health Care Ethics (upper division)  
-2013-14 &nbsp;&nbsp; Introduction to Philosophy   
+2015 &nbsp;&nbsp; Health Care Ethics (upper division)  
+2014 &nbsp;&nbsp; Introduction to Philosophy   
 2013 &nbsp;&nbsp; Introduction to Ethics    
 2013 &nbsp;&nbsp; Introduction to Logic  
 2012 &nbsp;&nbsp; Introduction to Logic  (teaching assistant) 
@@ -57,22 +69,24 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 ### Asbury University 
 2016 &nbsp;&nbsp; Philosophy of C.S. Lewis  (upper division)  
 2016 &nbsp;&nbsp; Philosophy of Religion (upper division)  
-2016 &nbsp;&nbsp; Wisdom & Virtue    (upper division)  
-2014-2016 &nbsp;&nbsp; Introduction to Philosophy   
+2016 &nbsp;&nbsp; Wisdom & Virtue Ethics   (upper division)  
+2016 &nbsp;&nbsp; Introduction to Philosophy   
+2015 &nbsp;&nbsp; Introduction to Philosophy   
+2014 &nbsp;&nbsp; Introduction to Philosophy   
 
 ### Biola University
 2004 &nbsp;&nbsp; Philosophy of Science (teaching assistant) 
 
 
 ### Veritas Academy
-2013 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+2013 &nbsp;&nbsp;  20th Century British Literature  
 
 ### Torrey Academy
-2011 &nbsp;&nbsp; Plato Seminar   
+2011 &nbsp;&nbsp;&nbsp;&nbsp; Plato on Being and Knowing   
 2009-2010 &nbsp;&nbsp; Aristotelian Logic   
-2009-2012 &nbsp;&nbsp; Western Civilization: American Thought    
-2008-2012 &nbsp;&nbsp; Western Civilization: Ancient and Medieval Thought   
-2007-2012 &nbsp;&nbsp; Western Civilization: 20th Century British Thought  
+2009-2012 &nbsp;&nbsp; Foundations of American Thought    
+2008-2012 &nbsp;&nbsp; Ancient and Medieval Literature   
+2007-2012 &nbsp;&nbsp; 20th Century British Literature  
 
 
 ### OTHER LEADERSHIP AND TEACHING POSITIONS 
@@ -83,7 +97,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2007-2010 &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
 2004-2005 &nbsp;&nbsp;  Assistant Director, Wheatstone Academy     
 2001-2002 &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
-2001 &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.   
+2001 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.   
 
  
 
@@ -99,7 +113,39 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2009 &nbsp;&nbsp; "The Virtue of Constancy", Hope Academy.     
 2007 &nbsp;&nbsp; "Learning From Experience", Torrey Honors Institute, Biola University.   
 
- 
+### GRADUATE COURSEWORK
+
+### Ethics
+
+S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
+F2015 &nbsp;&nbsp;  Metaethics (Dissertation residency). David Bradshaw.     
+S2014 &nbsp;&nbsp;  Seminar on Ethics and Bodily Autonomy. Anita Superson.  
+S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study). David Bradshaw.      
+F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.   
+F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson.  
+F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study). David Bradshaw.     
+
+### Ancient 
+S2016 &nbsp;&nbsp;  Seminar on Plato's Forms and the Death of Gods (audit). Eric Sanday  
+S2014 &nbsp;&nbsp;  Seminar on Plato's *Philebus* and Timaeus. Eric Sanday.    
+S2013 &nbsp;&nbsp;  Seminar on Plato’s *Parmenides*. Eric Sanday.  
+S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
+F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.     
+
+### Philosophy of Mind 
+F2013 &nbsp;&nbsp;  Seminar on Mind and Imagination. Clare Batty.   
+S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.  
+F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
+
+### Metaphysics, Epistemology, etc.
+S2016 &nbsp;&nbsp; Preparing Future Faculty. Morris Grubbs.   
+F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.   
+S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
+S2013 &nbsp;&nbsp;  Seminar on Metaethics and Normative Language. Tim Sundell.    
+F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
+F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland.   
+
+
 ### REFERENCES
 
 
@@ -113,56 +159,24 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 | University of Kentucky, 1417 Patterson          | Asbury University                 |
 | [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clair.budd@asbury.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
 
-### GRADUATE COURSES 
-
-### Ethics
-
-S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
-F2015 &nbsp;&nbsp;  Metaethics (Dissertation research).    
-S2014 &nbsp;&nbsp;  Seminar on Ethics: Bodily Autonomy. Anita Superson.  
-S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study). David Bradshaw.      
-F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.   
-F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson.  
-F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study). David Bradshaw.     
-
-### Ancient 
-S2016 &nbsp;&nbsp;  Seminar on the Death of God: Plato's Forms (audit). Eric Sanday  
-S2014 &nbsp;&nbsp;  Seminar on Plato: Philebus and Timaeus. Eric Sanday.    
-S2013 &nbsp;&nbsp;  Seminar on Plato’s Parmenides. Eric Sanday.  
-S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
-F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.     
-
-### Philosophy of Mind 
-F2013 &nbsp;&nbsp;  Seminar on Mind: Imagination. Clare Batty.   
-S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.  
-F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
-
-### Metaphysics, Epistemology, etc.
-F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.  
-S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
-S2013 &nbsp;&nbsp;  Seminar on Language & Normativity. Tim Sundell.    
-F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
-F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland.  
 
 
 ### LANGUAGES
-Ancient Greek (proficient reading knowledge)  
-Spanish  (fluent speaking knowledge)  
+Reading proficiency in Ancient Greek  
+Speaking fluency in Spanish  
 
 
-### AFFILIATIONS
+### MEMBERSHIPS
 American Philosophical Association, 2014-present  
 Society of Orthodox Philosophers in America, 2014-present  
 International Society for MacIntyrean Enquiry, 2015-present 
+Torrey Honors Institute (Academic Honors Society) 2011-present
 
-
-### TEACHING EVALUATIONS
-
-3.6 out of 4, cumulative average in overall teaching quality (University of Kentucky and Asbury University)  
-3.5 out of 4, cumulative average in overall course quality  
 
 
 ### DISSERTATION
+*Title:* BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS IN RECENT NEO-ARISTOTELIAN ETHICS  
+
 *Chair*: David Bradshaw
 
-*Working Title:* VIRTUE AND PRACTICAL REASON: TOWARD A FOUNDATION OF NEO-ARISTOTELIAN ETHICS
+

@@ -186,12 +186,11 @@ F       Sep-30  Discussion / Paper Workshop
 
 **M       Oct-3  (Film) 1st half** 
 **W       Oct-5   (Film) 2nd half**  
-
-F       Oct-7   Midterm   
+**F       Oct-7   Midterm Exam (online)**   
 
 Week 8  (quiz here)   
 **M       Oct-10  Miracles, part I**        What is NOT a miracle? How could one prove a miracle?     
-**W       Oct-12  Miracles, part II**        
+**W       Oct-12  Miracles, part II**        What makes the "grand miracle" special? And what makes it normal? 
 **F       Oct-14  No Class, Fall Break**     
 
 Week 9   
