@@ -146,9 +146,9 @@ W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism Handout
 F       Sep-2   Basic Philosophy: Religion & Reason  
 
 **Week 3 Utilitarianism**  
-M       Sep-5   Labor Day (no class) 
-W       Sep-7   Basic Ethics: Utilitarianism Handout  
-F       Sep-9   Discussion  
+M       Sep-5   Labor Day (no class)  
+W       Sep-7   Basic Ethics: Utilitarianism Handout   
+F       Sep-9   Discussion   
 
 **Week 4 Kantian Deontology**  
 M       Sep-12  Basic Ethics: Kantian Deontology Handout  
@@ -171,7 +171,7 @@ W       Oct-5   Business Ethics, the Place of Ethical Theory  (Group 2)
 F       Oct-7   Discussion  
 
 **Week 8 Capitalism**  
-M       Oct-10  Competitive Markets, Ideal of Capitalism  (Group 3)
+M       Oct-10  Competitive Markets, Ideal of Capitalism  (Group 3)  
 W       Oct-12  Competitive Markets, Corporate Responsibility (Group 4)  
 F       Oct-14  Discussion  
 
@@ -212,7 +212,7 @@ F       Dec-2   Discussion
 
 **Week 16**  
 M       Dec-5   Environmental Ethics and Business  (Group 9)  
-W       Dec-7   Environmental Ethics and Business (Group 10)
+W       Dec-7   Environmental Ethics and Business (Group 10)  
 F       Dec-9   Film & Discussion
 
 M       Dec-12  Finals Week UK   
