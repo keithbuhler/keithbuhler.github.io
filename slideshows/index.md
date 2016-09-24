@@ -11,7 +11,8 @@ permalink:
 * [Week 3 Utilitarianism](/slideshows/business3util)
 * [Week 4 Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
 * [Week 5 Virtue ethics](http://www.keithbuhler.com/slideshows/business5virtue)
-* [Week 6 Inside Job (Film)] coming soon
+* [Week 6 Inside Job (Film)](http://www.keithbuhler.com/slideshows/business6insidejob)
+* [Week 7 Methods of Business ethics](http://www.keithbuhler.com/slideshows/business7methods)
 
 
 ## CS Lewis Slides

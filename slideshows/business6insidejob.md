@@ -1,12 +1,14 @@
 ---
 layout: slide
 title: here
+style: 
 ---
 
 <section data-background="https://fanart.tv/fanart/movies/44639/moviethumb/inside-job-5347501bbe29f.jpg">
 <section data-markdown>
 
-</section><section data-markdown>
+</section></section>
+<section data-markdown>
 
 # About the film
 
@@ -43,6 +45,10 @@ title: here
 4. **Hierarchical Ownership.** Some shares are owned by the board, the CEO, and the employees, and the rest are owned by the public investors. For example, Mark Zuckerberg's wealth is largely in shares of FB, not cash. Same for Bill Gates. Zuckerberg owns 28% of FB, which is worth about $24 billion. Jeff Rothschild owns 0.8% of FB, which is worth $680 million.
 5. **Trading.** Individual investors and investment firms "buy low and sell high." They try to make educated guesses about the future value of a company. If they think it is likely to go up, they buy low and wait it out, then sell high. If they think it is likely to go down, they sell high before the drop. 
 6. **Secondary Markets**. You can buy stocks or "stock options." Stock options are not actual shares. Stock options are like coupons that you can buy future shares at today's price. Stock options are cheaper than actual stocks, so you can buy more of them. You can easily lose money. 
+
+</section><section data-markdown>
+
+# Basics of the Stock Market (cont'd)
 
 </section><section data-markdown>
 
