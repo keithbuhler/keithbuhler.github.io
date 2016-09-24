@@ -1,37 +1,18 @@
 ---
 layout: slide
-title: here
-style: 
+title: Inside Job (Film)
+theme: simple
+
 ---
 
 <section data-background="https://fanart.tv/fanart/movies/44639/moviethumb/inside-job-5347501bbe29f.jpg">
 <section data-markdown>
 
 </section></section>
+<section>
 <section data-markdown>
 
-# About the film
-
-1. Made in 2010 by Charles Ferguson.
-2. Intended to expose the corruption in the U.S. Finance system.
-3. Won 2010 Academy Award for Best Documentary.
-4.  
-
-
-</section><section data-markdown>
-
-# Outline of film 
-
-0. Introduction: Iceland's deregulation and privatization of banks
-1. How We Got Here (1940-2000): The U.S. finance industry invests in collateralized debt obligations (CDO)
-2. The Bubble (2001-2007): The finance industry invests in credit default swaps 
-3. The Crisis (2007): Bear Stearns, Lehman Brothers, Fannie Mae and Freddie Mac, Merrill Lynch all lose all their money. Lehman Brothers declares bankruptcy. Millions of American homeowners were forclosed.
-4. Accountability: Finance executives, government regulators, and ratings agencies make money and avoid reform.
-5. Where We Are Now: 10,000s of U.S. Factory workers lost their jobs, and there are no new regulations. Ben Bernanke was re-appointed Fed Chair. 
-
-</section><section data-markdown>
-
-# Basics of the Stock Market
+## Stock Market Basics
 
 1. **Communal ownership.** All shareholders own tiny percentages ("shares") of a company. You can buy one part of Google for $800, one part of Facebook for $127, Twitter for $22. Uber is not publicly traded. Google has 2 billion shares, so you're buying one billionth of the company for $800. 
 2. **Communal wealth.** If Google masters the self-driving car and makes a trillion dollars on it, their stock value goes up. Your $800 share might be worth $1,600 overnight. (If you own 100 shares, you could make $800,000 overnight.)
@@ -40,7 +21,7 @@ style:
 
 </section><section data-markdown>
 
-# Basics of the Stock Market (cont'd)
+## Stock Market Basics (cont'd)
 
 4. **Hierarchical Ownership.** Some shares are owned by the board, the CEO, and the employees, and the rest are owned by the public investors. For example, Mark Zuckerberg's wealth is largely in shares of FB, not cash. Same for Bill Gates. Zuckerberg owns 28% of FB, which is worth about $24 billion. Jeff Rothschild owns 0.8% of FB, which is worth $680 million.
 5. **Trading.** Individual investors and investment firms "buy low and sell high." They try to make educated guesses about the future value of a company. If they think it is likely to go up, they buy low and wait it out, then sell high. If they think it is likely to go down, they sell high before the drop. 
@@ -48,22 +29,67 @@ style:
 
 </section><section data-markdown>
 
-# Basics of the Stock Market (cont'd)
+
+## Stock Market Basics (cont'd)
+
+1. **Crowdfunding**. The stock market allows entrepreneurs to collect vast sums of money in small amounts. They offer part-ownership of the company, and part of the profits, to the public and investors. Entrepreneurs must prove that the company has promise. Investors offer small sums of money to the company. Entrepreneurs must do their research to ensure that the company has a good idea, a solid business plan, and reliable leadership. 
+
+</section><section data-markdown>
+
+## Stock Market Basics (cont'd)
+
+2. **Unprecedented wealth creation.** The stock market allows for the creation of new value. For example, before Post It notes, no one used them and no one demanded them. In 1968, Dr. Spencer Silver invented the glue that would stick, un-stick, and re-stick easily. Post Its were patented and sold, everyone bought them and used them. They now sell 50 million per year, and 3M is worth 100 billion in part due to Post-Its.
+
+## Stock Market Case Study: Apple Inc.
+
+1. Apple is the most valuable U.S. tech company at $348 billion, or $403 per share.
+2. It was founded in 1980. The stock price was $2.75 per share. They sold mostly computers, keyboards, mice, and software.
+3. The value went up and down for 20 years, as they released new products.
+4. It crashed in 2000, to about $12 per share, after the "dot-com bust". 
+3. The first iPod was sold in 2001. Sales took off in 2004. The shares went to $200 again.
+4. The first iPhone was sold 2007. Sales took off immediately, and have remained high.
+5. The first iPad was sold in 2010. Sales have remained high.
+6. After Steve Jobs stepped down as CEO, value dropped 5%.  
+7. Should you buy Apple stock? Should you sell? Will the next iPhone revolutionize the market? Will the next unknown product become a household name? Is the new CEO (Tim Cook) as good as Jobs? That's how the stock market creates, and destroys wealth. 
+
+
+</section><section data-markdown>
+
+# About "Inside Job"
+
+1. Made in 2010 by Charles Ferguson.
+2. Intended to expose the corruption in the U.S. Finance system.
+3. Won 2010 Academy Award for Best Documentary.
+4. Basic thesis: The finance industry and U.S. government are corrupt and needs more rules. Government regulation would have prevented the 2008 crash, and could prevent the next crash.
+
+
+</section><section data-markdown>
+
+## Outline of film 
+
+0. Introduction: Iceland's deregulation and privatization of banks
+1. How We Got Here (1940-2000): The U.S. finance industry invests in collateralized debt obligations (CDO)
+2. The Bubble (2001-2007): The finance industry invests in credit default swaps 
+3. The Crisis (2007): Bear Stearns, Lehman Brothers, Fannie Mae and Freddie Mac, Merrill Lynch all lose all their money. Lehman Brothers declares bankruptcy. Millions of American homeowners were foreclosed.
+
+
+</section><section data-markdown>
+
+## Outline of film 
+
+4. Accountability: Finance executives, government regulators, and ratings agencies make money and avoid reform.
+5. Where We Are Now: 10,000s of U.S. Factory workers lost their jobs, and there are no new regulations. Ben Bernanke was re-appointed Fed Chair. 
 
 </section><section data-markdown>
 
 
 # Key Terms
 
-1. Collateralized Debt Obligation (CDO): a single bundle of debts you can invest in. 
-2. Credit Default Swaps (CDS):
-3. Regulation: government or non-government rules intended to keep the stock market secure, stable, legal, and to protect investors. 
-4. Ratings Agencies: Moody's, Standard & Poor's, Fitch. They "rate a debtor's ability to pay back debt." Will the debtor default (miss payments)? 
-
-
-
-
-
+1. **Collateralized Debt Obligation (CDO):** a single bundle of debts you can invest in. 
+2. **Credit Default Swaps (CDS):**
+3. **Regulation:** government or non-government rules intended to keep the stock market secure, stable, legal, and to protect investors. 
+4. **Ratings Agencies:** Moody's, Standard & Poor's, Fitch. They "rate a debtor's ability to pay back debt." Will the debtor default (miss payments)? 
+5. **Stock Exchange:** 
 
 
 
@@ -78,10 +104,3 @@ style:
 
 * Questions?
 * Write a short response
-* Read for next time
-
-
-
-</section><section data-markdown>
-
-# Business Ethics Week 07 Place of Ethical Theory
