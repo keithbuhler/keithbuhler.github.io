@@ -6,7 +6,6 @@ theme: simple
 ---
 
 <section data-background="https://fanart.tv/fanart/movies/44639/moviethumb/inside-job-5347501bbe29f.jpg">
-<section data-markdown>
 
 </section>
 <section>
@@ -41,11 +40,17 @@ theme: simple
 
 
 
-## Key Terms
+## Key Terms 1
 
 1. **Collateralized Debt Obligation (CDO):** a single bundle of debts you can invest in. Might include high-risk products you wouldn't buy on their own balanced against low-risk products for a total, low-risk product.
 2. **Credit Default Swaps (CDS):** A sort of insurance against a CDO. If the debtors of the debts in the CDO default, the CDO owner is out of luck. So he can buy a CDS from a bank. If the CDO goes bad, the bank pays the CDO owner. 
 3. **Regulation:** government or non-government rules intended to keep the stock market secure, stable, legal, and to protect investors. 
+
+</section><section data-markdown>
+
+
+## Key Terms 1
+
 4. **Ratings Agencies:** Moody's, Standard & Poor's, Fitch. They "rate a debtor's ability to pay back debt." Will the debtor default (miss payments)? 
 5. **Stock Exchange:** A physical location where stocks are traded, i.e., the New York Stock Exchange. The NASDAQ is an electronic stock exchange. 
 
