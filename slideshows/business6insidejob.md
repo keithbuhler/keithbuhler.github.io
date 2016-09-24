@@ -42,8 +42,8 @@ theme: simple
 
 ## Key Terms
 
-1. **Collateralized Debt Obligation (CDO):** a single bundle of debts you can invest in. 
-2. **Credit Default Swaps (CDS):**
+1. **Collateralized Debt Obligation (CDO):** a single bundle of debts you can invest in. Might include high-risk products you wouldn't buy on their own balanced against low-risk products for a total, low-risk product.
+2. **Credit Default Swaps (CDS):** A sort of insurance against a CDO. If the debtors of the debts in the CDO default, the CDO owner is out of luck. So he can buy a CDS from a bank. If the CDO goes bad, the bank pays the CDO owner. 
 3. **Regulation:** government or non-government rules intended to keep the stock market secure, stable, legal, and to protect investors. 
 4. **Ratings Agencies:** Moody's, Standard & Poor's, Fitch. They "rate a debtor's ability to pay back debt." Will the debtor default (miss payments)? 
 5. **Stock Exchange:** A physical location where stocks are traded, i.e., the New York Stock Exchange. The NASDAQ is an electronic stock exchange. 
@@ -54,6 +54,12 @@ theme: simple
 
 ## Stock Market Basics
 
+What is the stock market and why does it exist? 
+
+</section><section data-markdown>
+
+## Stock Market Basics 1
+
 * **Communal ownership.** All shareholders own tiny percentages ("shares") of a company. You can buy one part of Google for $800, one part of Facebook for $127, Twitter for $22. Uber is not publicly traded. Google has 2 billion shares, so you're buying one billionth of the company for $800. 
 -  **Communal wealth.** If Google masters the self-driving car and makes a trillion dollars on it, their stock value goes up. Your $800 share might be worth $1,600 overnight. (If you own 100 shares, you could make $800,000 overnight.)
 -  **Communal risk.** If Twitter's new policies drive away users and scare investors, and their stock value goes down, your $22 share might be worth $11 overnight. 
@@ -61,20 +67,28 @@ theme: simple
 
 </section><section data-markdown>
 
-## Stock Market Basics (cont'd)
+## Stock Market Basics 2
 
 - **Hierarchical Ownership.** Some shares are owned by the board, the CEO, and the employees, and the rest are owned by the public investors. For example, Mark Zuckerberg's wealth is largely in shares of FB, not cash. Same for Bill Gates. Zuckerberg owns 28% of FB, which is worth about $24 billion. Jeff Rothschild owns 0.8% of FB, which is worth $680 million.
 - **Trading.** Individual investors and investment firms "buy low and sell high." They try to make educated guesses about the future value of a company. If they think it is likely to go up, they buy low and wait it out, then sell high. If they think it is likely to go down, they sell high before the drop. 
 
-## Stock Market Basics (cont'd)
+</section><section data-markdown>
+
+## Stock Market Basics 3
 
 - **Crowdfunding**. The stock market allows entrepreneurs to collect vast sums of money in small amounts. They offer part-ownership of the company, and part of the profits, to the public and investors. Entrepreneurs must prove that the company has promise. Investors offer small sums of money to the company. Entrepreneurs must do their research to ensure that the company has a good idea, a solid business plan, and reliable leadership. 
 
 </section><section data-markdown>
 
-## Stock Market Basics (cont'd)
+- **Secondary Markets**. You can buy stocks or "stock options." Stock options are not actual shares. Stock options are like coupons that you can buy future shares at today's price. Stock options are cheaper than actual stocks, so you can buy more of them. You can easily lose money. 
+
+
+</section><section data-markdown>
+
+## Stock Market Basics 4
 
 - **Unprecedented wealth creation.** The stock market allows for the creation of new value. For example, before Post It notes, no one used them and no one demanded them. In 1968, Dr. Spencer Silver invented the glue that would stick, un-stick, and re-stick easily. Post Its were patented and sold, everyone bought them and used them. They now sell 50 million per year, and 3M is worth 100 billion in part due to Post-Its.
+
 
 </section><section data-markdown>
 
@@ -91,7 +105,6 @@ theme: simple
 7. Should you buy Apple stock? Should you sell? Will the next iPhone revolutionize the market? Will the next unknown product become a household name? Is the new CEO (Tim Cook) as good as Jobs? That's how the stock market creates, and destroys wealth. 
 
 
-- **Secondary Markets**. You can buy stocks or "stock options." Stock options are not actual shares. Stock options are like coupons that you can buy future shares at today's price. Stock options are cheaper than actual stocks, so you can buy more of them. You can easily lose money. 
 
 
 
