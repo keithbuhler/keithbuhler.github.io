@@ -8,7 +8,7 @@ theme: simple
 <section data-background="https://fanart.tv/fanart/movies/44639/moviethumb/inside-job-5347501bbe29f.jpg">
 <section data-markdown>
 
-</section></section>
+</section>
 </section><section data-markdown>
 
 # About "Inside Job"
@@ -80,12 +80,14 @@ What is the stock market and why does it exist?
 
 </section><section data-markdown>
 
+## Stock Market Basics 4
+
 - **Secondary Markets**. You can buy stocks or "stock options." Stock options are not actual shares. Stock options are like coupons that you can buy future shares at today's price. Stock options are cheaper than actual stocks, so you can buy more of them. You can easily lose money. 
 
 
 </section><section data-markdown>
 
-## Stock Market Basics 4
+## Stock Market Basics 5
 
 - **Unprecedented wealth creation.** The stock market allows for the creation of new value. For example, before Post It notes, no one used them and no one demanded them. In 1968, Dr. Spencer Silver invented the glue that would stick, un-stick, and re-stick easily. Post Its were patented and sold, everyone bought them and used them. They now sell 50 million per year, and 3M is worth 100 billion in part due to Post-Its.
 
@@ -103,13 +105,6 @@ What is the stock market and why does it exist?
 5. The first iPad was sold in 2010. Sales have remained high.
 6. After Steve Jobs stepped down as CEO, value dropped 5%.  
 7. Should you buy Apple stock? Should you sell? Will the next iPhone revolutionize the market? Will the next unknown product become a household name? Is the new CEO (Tim Cook) as good as Jobs? That's how the stock market creates, and destroys wealth. 
-
-
-
-
-
-
-
 
 </section><section data-markdown>
 </section><section data-markdown>
