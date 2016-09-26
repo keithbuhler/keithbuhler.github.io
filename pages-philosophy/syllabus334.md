@@ -171,48 +171,48 @@ W       Oct-5   Business Ethics, the Place of Ethical Theory  (Group 2)
 F       Oct-7   Discussion  
 
 **Week 8 Capitalism**  
-M       Oct-10  Competitive Markets, Ideal of Capitalism  (Group 3)  
-W       Oct-12  Competitive Markets, Corporate Responsibility (Group 4)  
+M       Oct-10  The Idea and Ideal of Capitalism  (Group 3)    
+W       Oct-12  Corporate Responsibility and its Constituents (Group 4)    
 F       Oct-14  Discussion  
 
 **Week 9 Compensation**  
-M       Oct-17  Economic Justice, Executive Compensation (Group 5)   
-W       Oct-19  Economic Justice, Just Access to Health Care  (Group 6)  
+M       Oct-17  Economic Justice, Executive Compensation 161-176 (Group 5)   
+W       Oct-19  Economic Justice, Executive Compensation 176-191 (Group 6)  
 F       Oct-21  Discussion  
 
 **Week 10 Universal Norms**  
-M       Oct-24  Universal Norms  (Group 7)  
-W       Oct-26  Universal Norms  (Group 8)  
+M       Oct-24  Moral Issues in Globalization 305-312  (Group 7)  
+W       Oct-26  Moral Issues in Globalization  313-325 (Group 8)  
 F       Oct-28  Discussion  
  
 **Week 11 Information**  
-M       Oct-31  Information  (Group 9)   
-W       Nov-2   Information  (Group 10)   
+M       Oct-31  Deception and Information Disclosure 335-350  (Group 9)   
+W       Nov-2   Deception and Information Disclosure 351-365  (Group 10)   
 F       Nov-4   Discussion  
 
 **Week 12 Incentives**  
-M       Nov-7   Incentives and Influence  (Group 1)  
-W       Nov-9   Incentives and Influence  (Group 2)  
+M       Nov-7   Business in Politics: Lobbying 501-516  (Group 1)  
+W       Nov-9   Business in Politics: Lobbying 517-534  (Group 2)  
 F       Nov-11  Discussion  
 
 **Week 13 Employee Rights**  
-M       Nov-14  Employee Rights  (Group 3)  
-W       Nov-16  Employee Rights  (Group 4)  
-F       Nov-18  Safety, Risk, Harm  (Group 5)   **Exam 2**
+M       Nov-14  Discrimination, Affirmative Action, and Diversity 535-549  (Group 3)  
+W       Nov-16  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
+F       Nov-18  Whistle-Blowing, Moral Integrity 563-580  (Group 5)   **Exam 2**
 
-**Week 14 Risk**  
-M       Nov-21  Safety, Risk, Harm  (Group 6)  
-W       Nov-23  Thanksgiving Break  
-F       Nov-25  Thanksgiving Break  
+**Week 14 Employee Rights**  
+M       Nov-21  Whistle-Blowing, Moral Integrity 581-602  (Group 6)  
+W       Nov-23  *Thanksgiving Break*  
+F       Nov-25  *Thanksgiving Break*  
 
-**Week 15 Environment**  
-M       Nov-28  Creating Moral Organizations (Group 7)  
-W       Nov-30  Creating Moral Organizations  (Group 8)  
+**Week 15 Safety**  
+M       Nov-28  Environmental Ethics and Business  (Group 7)  
+W       Nov-30  The Mirage of Product Safety  (Group 8)  
 F       Dec-2   Discussion
 
-**Week 16**  
-M       Dec-5   Environmental Ethics and Business  (Group 9)  
-W       Dec-7   Environmental Ethics and Business (Group 10)  
+**Week 16 Moral Organizations**   
+M       Dec-5   Organizational Integrity and Moral Climates 701-711 (Group 9)  
+W       Dec-7   Organizational Integrity and Moral Climates 712-724 (Group 10)  
 F       Dec-9   Film & Discussion
 
 M       Dec-12  Finals Week UK   
