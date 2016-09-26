@@ -180,8 +180,8 @@ Week 6
 
 Week 7   
 
-**M       Sep-26  Abolition of Man Chapters 1, 2**   What is the "Tao"? Why does it matter for education? How does "the Green Book" contradict itself?    
-**W       Sep-28  Abolition of Man 3**      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  
+**M       Sep-26  Abolition of Man Chapters 1, 2**   What is the "Tao"? Why does it matter for education? How does "the Green Book" contradict itself?    (Buhler)
+**W       Sep-28  Abolition of Man 3**      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  (2 Daniel)
 F       Sep-30  Discussion / Paper Workshop     
 
 **M       Oct-3  (Film) 1st half** 
@@ -189,37 +189,37 @@ F       Sep-30  Discussion / Paper Workshop
 **F       Oct-7   Midterm Exam (online)**   
 
 Week 8  (quiz here)   
-**M       Oct-10  Miracles, part I**        What is NOT a miracle? How could one prove a miracle?     
-**W       Oct-12  Miracles, part II**        What makes the "grand miracle" special? And what makes it normal? 
+**M       Oct-10  Miracles, part I**        What is NOT a miracle? How could one prove a miracle? (3 Mindi)     
+**W       Oct-12  Miracles, part II**        What makes the "grand miracle" special? And what makes it normal? (4 Ryan Harrison)   
 **F       Oct-14  No Class, Fall Break**     
 
 Week 9   
-**M       Oct-17  Miracles, part III**      What is the Grand Miracle and why does it matter? Any objections?   
-**W       Oct-19  Miracles, part IV**          
+**M       Oct-17  Miracles, part III**      What is the Grand Miracle and why does it matter? Any objections? (5 Elijah)     
+**W       Oct-19  Miracles, part IV** (6 Abby)            
 **F       Oct-21  Discussion**       
 
 Week 10  
-**M       Oct-24  Miracles, part V (chs. 12-14)**   
-**W       Oct-26  Miracles, part VI (chs. 15-16)**  
+**M       Oct-24  Miracles, part V (chs. 12-14)**   (1 Stephanie)  
+**W       Oct-26  Miracles, part VI (chs. 15-16)** (2 Daniel)    
 **F       Oct-28  Discussion**      
 
 Week 11
-**M       Oct-31  Experiment in Criticism ch. 1**   
-**W       Nov-2   Experiment in Criticism, 3, 11, epilogue.**       
+**M       Oct-31  Experiment in Criticism ch. 1**   (Buhler) 
+**W       Nov-2   Experiment in Criticism, 3, 11, epilogue.**        
 **F       Nov-4   Discussion**      
 
 Week 12    
-M       Nov-7   Great Divorce chs. 1-7  
-W       Nov-9   Great Divorce chs. 8-12 
+M       Nov-7   Great Divorce chs. 1-7 (3 Mindi)    
+W       Nov-9   Great Divorce chs. 8-12 (4 Ryan)    
 F       Nov-11  Discussion      
 
 Week 13   
-M       Nov-14  Perelandra 1-3   
-W       Nov-16  Perelandra 4-6   
+M       Nov-14  Perelandra 1-3   (5 Elijah)     
+W       Nov-16  Perelandra 4-6   (6 Abby)   
 F       Nov-18  Discussion       
 
 Week 14   
-M       Nov-21  Perelandra 7-10    
+M       Nov-21  Perelandra 7-10    (Buhler)
 W       Nov-23  Thanksgiving   
 F       Nov-25  Thanksgiving      
 
