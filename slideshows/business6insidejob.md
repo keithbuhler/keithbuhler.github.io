@@ -11,7 +11,7 @@ theme: simple
 <section>
 <section data-markdown>
 
-# About "Inside Job"
+# About Inside Job
 
 1. Made in 2010 by Charles Ferguson.
 2. Intended to expose the corruption in the U.S. Finance system.
@@ -49,7 +49,7 @@ theme: simple
 </section><section data-markdown>
 
 
-## Key Terms 1
+## Key Terms 2
 
 4. **Ratings Agencies:** Moody's, Standard & Poor's, Fitch. They "rate a debtor's ability to pay back debt." Will the debtor default (miss payments)? 
 5. **Stock Exchange:** A physical location where stocks are traded, i.e., the New York Stock Exchange. The NASDAQ is an electronic stock exchange. 
@@ -106,10 +106,20 @@ What is the stock market and why does it exist?
 2. It was founded in 1980. The stock price was $2.75 per share. They sold mostly computers, keyboards, mice, and software.
 3. The value went up and down for 20 years, as they released new products.
 4. It crashed in 2000, to about $12 per share, after the "dot-com bust". 
+
+</section><section data-markdown>
+
+## Stock Market Case Study: Apple Inc.
+
 3. The first iPod was sold in 2001. Sales took off in 2004. The shares went to $200 again.
 4. The first iPhone was sold 2007. Sales took off immediately, and have remained high.
 5. The first iPad was sold in 2010. Sales have remained high.
 6. After Steve Jobs stepped down as CEO, value dropped 5%.  
+
+</section><section data-markdown>
+
+## Stock Market Case Study: Apple Inc.
+
 7. Should you buy Apple stock? Should you sell? Will the next iPhone revolutionize the market? Will the next unknown product become a household name? Is the new CEO (Tim Cook) as good as Jobs? That's how the stock market creates, and destroys wealth. 
 
 </section><section data-markdown>

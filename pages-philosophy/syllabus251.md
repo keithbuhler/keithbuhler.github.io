@@ -13,7 +13,8 @@ title: Philosophy of C. S. Lewis (PHL 251 F2016 Syllabus)
 
 ### Required Texts
 
--   [*C. S. Lewis Signature Classics*, ISBN:  978-0060653026.](http://amzn.to/1TlVPvm). You may purchase the set or individually: *Mere Christianity*, *Problem of Pain*, *Abolition of Man*, *Miracles*, *Great Divorce*.
+-   [*C. S. Lewis Signature Classics*, ISBN:  978-0060653026.](http://amzn.to/1TlVPvm). You may purchase the set or individually: *Mere Christianity*, *Problem of Pain*, *Miracles*, *Great Divorce*.
+-   [*Abolition of Man*](http://www.amazon.com/)
 -   [*The Four Loves*. ISBN: 978-0156329309.](http://amzn.to/1RAw4Tj)
 -   [*Perelandra*. ISBN: 978-0743234917](http://amzn.to/1RAw71E)
 -   [*Experiment in Criticism. ISBN:978-1107604728*](http://amzn.to/1MEYb78)
@@ -174,19 +175,19 @@ Week 5
 
 Week 6  
 **M       Sep-19  Problem of Pain, I-X** Why is pain, animal pain especially, a particular problem for Christians? What strategies does Lewis use to solve it?  
-**W       Sep-21  Problem of Pain, XI-X**     What is Lewis' response to human pain that is *not* caused by our own choices? Why do we long for heaven? 
+**W       Sep-21  Problem of Pain, XI-X**     What is Lewis' response to human pain that is *not* caused by our own choices? Why do we long for heaven?    
 **F       Sep-23  Discussion**       
 
 
 Week 7   
 
-**M       Sep-26  Abolition of Man Chapters 1, 2**   What is the "Tao"? Why does it matter for education? How does "the Green Book" contradict itself?    (Buhler)
-**W       Sep-28  Abolition of Man 3**      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  (2 Daniel)
-F       Sep-30  Discussion / Paper Workshop     
+**M       Sep-26  Abolition of Man Chapters 1, 2**   What is the "Tao"? Why does it matter for education? How does "the Green Book" contradict itself?    (Buhler)   
+**W       Sep-28  Abolition of Man 3**      What is "man's conquest of nature"? What's the problem for the conquest when it comes to human nature? How can science solve the problem?  (2 Daniel)   
+F       Sep-30  Discussion / Paper Workshop      
 
-**M       Oct-3  (Film) 1st half** 
-**W       Oct-5   (Film) 2nd half**  
-**F       Oct-7   Midterm Exam (online)**   
+**M       Oct-3  (Film) 1st half**    
+**W       Oct-5   (Film) 2nd half**    
+**F       Oct-7   Midterm Exam (online)**    
 
 Week 8  (quiz here)   
 **M       Oct-10  Miracles, part I**        What is NOT a miracle? How could one prove a miracle? (3 Mindi)     
