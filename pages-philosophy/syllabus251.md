@@ -190,18 +190,18 @@ F       Sep-30  Discussion / Paper Workshop
 **F       Oct-7   Midterm Exam (online)**    
 
 Week 8  (quiz here)   
-**M       Oct-10  Miracles, part I**        What is NOT a miracle? How could one prove a miracle? (3 Mindi)     
-**W       Oct-12  Miracles, part II**        What makes the "grand miracle" special? And what makes it normal? (4 Ryan Harrison)   
+**M       Oct-10  Miracles I: Chp 1-3**        What is NOT a miracle? How could one prove a miracle? What is nature? What is the trouble with naturalism? (3 Mindi)     
+**W       Oct-12  Miracles II: 4-6**        What is Lewis argument for supernaturalism? (4 Ryan Harrison)   
 **F       Oct-14  No Class, Fall Break**     
 
 Week 9   
-**M       Oct-17  Miracles, part III**      What is the Grand Miracle and why does it matter? Any objections? (5 Elijah)     
-**W       Oct-19  Miracles, part IV** (6 Abby)            
+**M       Oct-17  Miracles III: 7-9**      Do miracles violate the laws of nature? Does the character of God exclude miracles?  (5 Elijah)     
+**W       Oct-19  Miracles IV: 10-12**   Are miracles proper? Are they probable? (6 Abby)            
 **F       Oct-21  Discussion**       
 
 Week 10  
-**M       Oct-24  Miracles, part V (chs. 12-14)**   (1 Stephanie)  
-**W       Oct-26  Miracles, part VI (chs. 15-16)** (2 Daniel)    
+**M       Oct-24  Miracles V: 13-14**  What is the Grand Miracle and why does it matter?    (1 Stephanie)  
+**W       Oct-26  Miracles VI: 15-17**  What is the pattern of the miracles of old creation? How do the miracles of the new creation fit this?  (2 Daniel)    
 **F       Oct-28  Discussion**      
 
 Week 11
