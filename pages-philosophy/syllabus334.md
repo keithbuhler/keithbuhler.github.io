@@ -284,4 +284,5 @@ F       Dec-18  Grades Due UK
 
 ### Links to Readings of Interest
 
-[Coming soon]
+1. [How to invest](https://www.nerdwallet.com/blog/investing/how-to-invest-500-2/?utm_source=fb&utm_medium=cpc&utm_campaign=in_mktg_paid_062216_500_c&utm_content=1e&mktg_place=1&mktg_hline=1121&mktg_img=657&mktg_body=451&mktg_link=113)
+2. [Regulation as panacea or placebo?](http://poseidon01.ssrn.com/delivery.php?ID=040088020003012068089068092004119023096031065012091090091113081031084097097080114000002033027047006112028085094112074090092001037094022080065064070095114098122030106025062083006086090073064120080086071104069088069007015099064111103018083075122087119022&EXT=pdf)
