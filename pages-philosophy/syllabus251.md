@@ -186,8 +186,8 @@ Week 7
 F       Sep-30  Discussion / Paper Workshop      
 
 **M       Oct-3  (Film) 1st half**    
-**W       Oct-5   (Film) 2nd half**    
-**F       Oct-7   Midterm Exam (online)**    
+**W       Oct-5   (Film) 2nd half**      
+**F       Oct-7   Film discussion**  
 
 Week 8  (quiz here)   
 **M       Oct-10  Miracles I: Chp 1-3**        What is NOT a miracle? How could one prove a miracle? What is nature? What is the trouble with naturalism? (3 Mindi)     
@@ -205,8 +205,8 @@ Week 10
 **F       Oct-28  Discussion**      
 
 Week 11
-**M       Oct-31  Experiment in Criticism ch. 1**   (Buhler) 
-**W       Nov-2   Experiment in Criticism, 3, 11, epilogue.**        
+**M       Oct-31  Experiment in Criticism ch. 1**   (Buhler)    
+**W       Nov-2   Experiment in Criticism, 3, 11, epilogue.**         
 **F       Nov-4   Discussion**      
 
 Week 12    

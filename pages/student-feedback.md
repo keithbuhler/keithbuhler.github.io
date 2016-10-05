@@ -20,7 +20,7 @@ permalink: /student-feedback
 
 ### Classroom Environment and respect
 
-"Instructor made the course. Great environment to learn and discuss- made the classroom a comfortable place to share ideas and grow in knowledge. One of my favorite professors."(2015, PHL200)
+"Instructor made the course. Great environment to learn and discuss-made the classroom a comfortable place to share ideas and grow in knowledge. One of my favorite professors." (2015, PHL200)
 
 "Buhler is a fantastic teacher. He is very theatrical about philosophy which is great. He treats us like adults and enjoys discussion. He really brings out the best about philosophy. None of his assignments are busy work. He learned our names very quickly and took time to understand our points in discussion. He is very knowledgeable about many things and has a very open view to discussion."
 
