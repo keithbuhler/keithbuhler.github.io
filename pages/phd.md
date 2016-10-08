@@ -12,32 +12,26 @@ Students can read the story of how I approached this massive project [here.](/ph
 
 ### Dissertation title (draft)
 
-My dissertation is tentatively titled: THE VIRTUE TRIANGLE: PRACTICAL REASON, EXCELLENCE, AND NATURAL TELEOLOGY IN THE RECENT NEO-ARISTOTELIANS.
+My dissertation is tentatively titled: BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS IN RECENT NEO-ARISTOTELIANISM
 
 
 ### Dissertation abstract (draft)
 
-Recent virtue ethicists such as Philippa Foot and John McDowell, Rosalind Hursthouse, and Alasdair MacIntyre are united on several beliefs: the good person is the virtuous person; virtues are human goods; and human goods are in some way "natural". They are divided on other questions: is virtue "natural" to humans because humans are rational animals, distinct from others in the animal kingdom or because humans are organisms, fundamentally continuous with all others in the evolutionary tree of life? 
+This dissertation is about ethical naturalism. I clarify and defend Philippa Foot's sort of neo-Aristotelian naturalism against John McDowell's sort. Foot and McDowell agree that virtue and excellent practical reasoning are 'natural goodness' for human beings; they disagree in their conceptions of 'nature' or 'the natural.' They are both scientific naturalists of a sort, but McDowell divides "second nature" from the "first nature", the normative space of reasons and values from the descriptive realm of facts and laws. Foot rejects this division. Natural goodness is a feature of first nature, and that the norms of virtue and practical reasoning are of a piece with the organic norms of life, health, and well-functioning. I defend Foot's view and augment it by presenting interlocking accounts of virtue, practical reason, human nature, and nature itself. I contend that some natural norms are just as scientifically respectable as generic life forms such as 'the wolf' and generic activities such as 'hunting in packs.' Hence, I argue that since  human beings are practical, rational primates and part of the same organic world, a subset of natural norms are ethical or rational norms governing a good human life. The good life, spent pursuing virtue and practical wisdom, can be known from both an "external" scientific view of ourselves and an "internal" ethical view. The normativity of my claim is clear; to bolster its naturalistic credentials, I explore three influential conceptions of 'nature'. I criticize McDowell's conception, and show how my account is consistent with either of the remaining two. On my view, which I call "recursive naturalism," practical reasoning is natural to human beings and human beings are part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
 
-Foot emphasizes the natural, biological aspect of virtue ethics (where virtues and vices are "natural goodness" and natural "defect"); John McDowell emphasizes the normative, rational aspect, where virtues are intersubjective, cultural forms of knowledge. Each has its advantages and drawbacks. Biological naturalism blocks cultural relativism but seems to require teleological realism.  "Second nature" naturalism seems more aligned to the scientific view of nature but makes it difficult to explain how to criticize injustice in other cultures and how make social progress within one's own. 
-
-Recent neo-Aristotelians have run aground of this difficult matter because, as Julia Annas explains, it reflects a broader perennial question about the relationship between normativity and nature, or between ethics and science. Humans exhibit normal biological processes as well as abstract and practical reasoning. So more generally, how are we to understand the relationship between rationality and biology?
-
-My dissertation systematically analyzes a set of related concepts: nature, virtue, practical reason, and teleology. I discuss the arguments of several recent neo-Aristotelian writers and offer a novel account of how these concepts fit together. I bolster the argument that virtues are human goods pertaining to our nature as practical, rational primates. Even within the confines of scientific naturalism and agnosticism, I give reasons to believe that Foot is right, contra McDowell, that scientific realists should (probably) also be teleological realists. 
-
-In brief,  I argue that virtue is the excellence of rational practices and practical reasoning that enables and partly constitutes the realization of one's human life form. I defend a conception of virtue according to which virtuous traits are rational practices and emotions, and practical reasoning is the process of identifying the good. On this view of virtue, the definitive criterion by which to judge human beings is our success or failure in acquiring virtues such as moderation and tolerance, and our overall success in the pursuit of the good life for humans. I also provide an outline of a secular, humanistic conception of flourishing according to which becoming wise is the natural telos of practical rational animals, even though they may individually die and (one day) go extinct. 
 
 ### Chapters
 
-Below are very early chapter drafts; please do not share or cite. As each becomes available, the titles below will become links. To request permission to peruse, please send me an email.
+Below are very early chapter drafts; please do not share or cite. 
+
+As each becomes available, the titles below will become links. To request permission to peruse, please send me an email.
 
 1. Introduction
-2. [Natural Norms: Organic Teleology](https://www.academia.edu/26571534/Natural_Norms)
-3. Natural Human Norms: Practical Primates
-4. Virtue and Vice: Rational and Irrational Practices
+2. [Organic Naturalism](https://www.academia.edu/26571534/Natural_Norms)
+3. Practical Primates
+4. What We Are
 5. Practical Reasoning
 6. Natural Reasoning
-7. Traditional Reasoning
-8. Conclusions
+8. Conclusion
 
 Whole Dissertation Link (coming soon)
