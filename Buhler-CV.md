@@ -167,10 +167,10 @@ Speaking fluency in Spanish
 
 
 ### MEMBERSHIPS
-American Philosophical Association, 2014-present  
-Society of Orthodox Philosophers in America, 2014-present  
-International Society for MacIntyrean Enquiry, 2015-present 
-Torrey Honors Institute (Academic Honors Society) 2011-present
+Torrey Honors Institute (Academic Honors Society) 2011-present  
+American Philosophical Association, 2014-present    
+Society of Orthodox Philosophers in America, 2014-present    
+International Society for MacIntyrean Enquiry, 2015-present   
 
 
 

@@ -1,20 +1,23 @@
 # Site settings
  locale:         "en"
  title:          "keithbuhler.com"
- description:    "Professional site of the philosopher and classical teacher."
-comments: 
-  provider:       "disqus"
-  disqus: 
-    shortname: "thebuhlerreport"
+ description:    "The professional site of Keith Buhler, philosopher and classical educator."
+ comments: 
+  provider:       "facebook"
+  facebook: 
+    appid:    #optional
+    num_posts: 5
+    colorscheme : #"light" (default", "dark")
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:       https://keithbuhler.com
+url:       http://keithbuhler.com
 facebook:
   username  : "keithedbuhler" 
 github      : 
   username  : "keithbuhler"
+# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+
 
 # author info
 author:

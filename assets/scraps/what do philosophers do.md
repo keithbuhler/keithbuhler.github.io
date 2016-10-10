@@ -1,0 +1,3 @@
+I write out arguments and/or talk with my spouse. I talk with some friends, colleagues, or students.  (Often, the people most keen on talking are students, whose grades depend on hearing what one says -- or who are genuinely coming awake to philosophy for the first time.) 
+
+Then I do some rummaging around on places like JSTOR, Google Scholar, and philpapers to see who else might be thinking about the same thing. I blog. I write a rough draft of a paper. I set it aside for awhile. And eventually submit something to a conference or publication. People respond. I read their responses, and think them through. And so it goes. 

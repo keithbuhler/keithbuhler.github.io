@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: Sandbox
 header:
   image: nasmith-banner.jpeg
