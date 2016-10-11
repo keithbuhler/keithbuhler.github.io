@@ -3,7 +3,7 @@ layout: single
 title: Research
 author_profile: false
 header:
-      image: oxford2.jpg
+      image: http://www.keithbuhler.com/images/oxford2.jpg
 --- 
 
 

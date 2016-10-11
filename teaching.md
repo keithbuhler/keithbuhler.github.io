@@ -3,7 +3,7 @@ layout: single
 title: Teaching
 author_profile: false
 header:
-      image: keith-teaching2.png
+      image: http://www.keithbuhler.com/images/keith-teaching2.png
 ---
 
 

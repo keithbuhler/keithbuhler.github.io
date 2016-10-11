@@ -4,7 +4,7 @@ title: About Keith Buhler
 permalink: /about/
 author_profile: false
 header:
-      image: wither-header.png
+      image: http://www.keithbuhler.com/images/wither-header.png
 ---
 
 *For other uses, see [Keith Buhler (disambiguation)](/disambiguation)*
