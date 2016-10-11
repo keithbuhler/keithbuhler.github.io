@@ -4,7 +4,6 @@ title: Research
 author_profile: false
 header:
       image: oxford2.jpg
-
 --- 
 
 
