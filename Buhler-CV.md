@@ -48,7 +48,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### ACADEMIC APPOINTMENTS
 
-2014-present &nbsp;&nbsp;Instructor of Philosophy, Asbury University  
+2014-present &nbsp;&nbsp; Instructor of Philosophy, Asbury University  
 2012-present &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
 
 
@@ -138,12 +138,14 @@ S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.
 F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
 
 ### Metaphysics, Epistemology, etc.
-S2016 &nbsp;&nbsp; Preparing Future Faculty. Morris Grubbs.   
 F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.   
 S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
 S2013 &nbsp;&nbsp;  Seminar on Metaethics and Normative Language. Tim Sundell.    
 F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.    
 F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland.   
+
+### Preparing Future Faculty Certification  
+S2016 &nbsp;&nbsp; Preparing Future Faculty. Morris Grubbs.     
 
 
 ### REFERENCES
