@@ -1,4 +1,6 @@
 # Site settings
+ url:       http://keithbuhler.com
+ baseurl: 
  locale:         "en"
  title:          "keithbuhler.com"
  description:    "The professional site of Keith Buhler, philosopher and classical educator."
@@ -10,7 +12,6 @@
     colorscheme : #"light" (default", "dark")
 reading_time:     true
 words_per_minute: 200
-url:       http://keithbuhler.com
 facebook:
   username  : "keithedbuhler" 
 github      : 
