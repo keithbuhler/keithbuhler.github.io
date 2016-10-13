@@ -5,26 +5,35 @@ permalink: /cv/
 
 #### [(PDF version)](/Buhler-CV.pdf)
 
-### CURRICULUM VITAE
+\begin{center}
 
-Keith Buhler  
-Doctoral Candidate  
+Keith Buhler
+
+Curriculum Vitae 
+
+October 2016  
+
+\end{center}
+
+### CONTACT
 Department of Philosophy  
 University of Kentucky   
 Lexington, KY, 40506  
 keith.buhler@uky.edu   
+keithbuhler.com   
 
 
-### AREAS OF SPECIALIZATION
+### RESEARCH SPECIALIZATION
 Ethics, Metaethics.       
 
-### AREAS OF COMPETENCE
-Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.  
+### RESEARCH AND TEACHING COMPETENCE
+Philosophy of Mind, Philosophy of Religion, History of Philosophy, Bioethics.  
 
 
 ### EDUCATION
 
-2016 &nbsp;&nbsp;  Ph.D. Philosophy, University of Kentucky *(in progress: expected completion in 2016)*  
+Ph.D. Philosophy, University of Kentucky (defense scheduled for 2016)    
+*Dissertation Title:* BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS IN RECENT NEO-ARISTOTELIAN ETHICS. *Advisor*: David Bradshaw     
 2015  &nbsp;&nbsp; M.A. Philosophy, University of Kentucky   
 2014  &nbsp;&nbsp; M.A. Applied Orthodox Theology, University of Lebanon   
 2004  &nbsp;&nbsp; B.A. Humanities, Biola University   
@@ -44,35 +53,27 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 2014  &nbsp;&nbsp; On Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics", Midsouth Philosophy Conference, MI.  
 
 
-
-
-### ACADEMIC APPOINTMENTS
-
-2014-present &nbsp;&nbsp; Instructor of Philosophy, Asbury University  
-2012-present &nbsp;&nbsp; Graduate Teaching Assistant, University of Kentucky
-
-
 ### QUANTITATIVE EVALUATIONS 
 
 2015-2016 Teaching Quality Mean: 3.7 out of 4.  
 2015-2016 Course Quality Mean: 3.6 out of 4. 
 
-### COURSES TAUGHT, University of Kentucky
+### TEACHING
+
+### University of Kentucky
 
 2016 &nbsp;&nbsp; Business Ethics (upper division)  
 2015 &nbsp;&nbsp; Health Care Ethics (upper division)  
-2014 &nbsp;&nbsp; Introduction to Philosophy   
-2013 &nbsp;&nbsp; Introduction to Ethics    
-2013 &nbsp;&nbsp; Introduction to Logic  
-2012 &nbsp;&nbsp; Introduction to Logic  (teaching assistant) 
+2014 &nbsp;&nbsp; Introduction to Philosophy  
+2013 &nbsp;&nbsp; Ethics    
+2013 &nbsp;&nbsp; Logic  
 
 ### Asbury University 
 2016 &nbsp;&nbsp; Philosophy of C.S. Lewis  (upper division)  
 2016 &nbsp;&nbsp; Philosophy of Religion (upper division)  
 2016 &nbsp;&nbsp; Wisdom & Virtue Ethics   (upper division)  
-2016 &nbsp;&nbsp; Introduction to Philosophy   
-2015 &nbsp;&nbsp; Introduction to Philosophy   
-2014 &nbsp;&nbsp; Introduction to Philosophy   
+2014-16 &nbsp;&nbsp; Introduction to Philosophy   
+
 
 ### Biola University
 2004 &nbsp;&nbsp; Philosophy of Science (teaching assistant) 
@@ -115,7 +116,7 @@ Ancient Philosophy, Bioethics, Philosophy of Religion, Philosophy of Mind.
 
 ### GRADUATE COURSEWORK
 
-### Ethics
+### In Ethics
 
 S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
 F2015 &nbsp;&nbsp;  Metaethics (Dissertation residency). David Bradshaw.     
@@ -125,19 +126,19 @@ F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.
 F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson.  
 F2014 &nbsp;&nbsp;  Virtue and After Virtue (Independent study). David Bradshaw.     
 
-### Ancient 
+### In Ancient Philosophy
 S2016 &nbsp;&nbsp;  Seminar on Plato's Forms and the Death of Gods (audit). Eric Sanday  
 S2014 &nbsp;&nbsp;  Seminar on Plato's *Philebus* and Timaeus. Eric Sanday.    
 S2013 &nbsp;&nbsp;  Seminar on Plato’s *Parmenides*. Eric Sanday.  
 S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
 F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.     
 
-### Philosophy of Mind 
+### In Philosophy of Mind 
 F2013 &nbsp;&nbsp;  Seminar on Mind and Imagination. Clare Batty.   
 S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland.  
 F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.    
 
-### Metaphysics, Epistemology, etc.
+### In Metaphysics, Epistemology, etc.
 F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.   
 S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.    
 S2013 &nbsp;&nbsp;  Seminar on Metaethics and Normative Language. Tim Sundell.    
@@ -153,13 +154,13 @@ S2016 &nbsp;&nbsp; Preparing Future Faculty. Morris Grubbs.
 
 |                                                            |                                                                   |
 |-------------------------------------------------------------|--------------------------------------------------------------------|
-| David Bradshaw, Professor of Philosophy                     | Anita Superson, Profesor of Philosophy                             |
-| University of Kentucky, 1415 Patterson                 | University of Kentucky, 1433 Patterson                       |
-| [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [superson@uky.edu](emailto:superson@uky.edu) / 859.257.4186        |
+| David Bradshaw, Professor of Philosophy                     | John Mark Reynolds, President, The Saint Constantine School                             |
+| University of Kentucky, 1415 Patterson                 | 6000 Dale Carnegie Lane Houston, TX, 77036                       |
+| [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [johnmarkreynolds@gmail.com](emailto:johnmarkreynolds@gmail.com) / 832.975.7075        |
 |                                                             |                                                                    |
-| Daniel Breazeale, Profesor of Philosophy                    | Clair Budd, Department Chair, Religion and Philosophy                      |
+| Daniel Breazeale, Professor of Philosophy                    | Christopher Bounds, Chair, Department of Philosophy and Religion                      |
 | University of Kentucky, 1417 Patterson          | Asbury University                 |
-| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [clair.budd@asbury.edu](emailto:clare.batty@uky.edu) / 859.257.7109. |
+| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859.257.7109. |
 
 
 
@@ -169,16 +170,10 @@ Speaking fluency in Spanish
 
 
 ### MEMBERSHIPS
-Torrey Honors Institute (Academic Honors Society) 2011-present  
-American Philosophical Association, 2014-present    
-Society of Orthodox Philosophers in America, 2014-present    
-International Society for MacIntyrean Enquiry, 2015-present   
-
-
-
-### DISSERTATION
-*Title:* BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS IN RECENT NEO-ARISTOTELIAN ETHICS  
-
-*Chair*: David Bradshaw
+Torrey Honors Institute (Academic Honors Society) 2011-present    
+American Philosophical Association, 2014-present      
+Society of Orthodox Philosophers in America, 2014-present      
+International Society for MacIntyrean Enquiry, 2015-present     
+National Association of Scholars, 2016-present  
 
 
