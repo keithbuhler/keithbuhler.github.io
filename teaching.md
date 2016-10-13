@@ -15,7 +15,7 @@ header:
 
 I've successfully helped learners of all ages to grow and flourish. My goal in teaching is immerse students in Socratic dialogue and empower them to grow intellectually. Students enjoy my theatrical approach to discussion and efficient course designs. 
 
-Recently, I've taught about 24 sections of philosophy at two universities. Before that, I taught and designed classical Great Books courses in literature, philosophy, and history as the High School Director.
+Recently, I've taught about eight philosophy courses at two universities. Before that, I taught and designed classical Great Books courses in literature, philosophy, and history as the High School Director.
 
 ### Courses
 
@@ -31,8 +31,10 @@ Recently, I've taught about 24 sections of philosophy at two universities. Befor
 
 ### Student Evaluations
 
-- 3.6 out of 4, cumulative average in overall teaching quality (combined University of Kentucky and Asbury University)
-- 3.5 out of 4, cumulative average in overall course quality
+Combined averages from University of Kentucky and Asbury University in 2015-2016. 
+
+- 3.7 out of 4, overall teaching quality 
+- 3.6 out of 4, overall course quality
 
  
 ### Student Feedback
