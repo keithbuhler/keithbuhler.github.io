@@ -33,4 +33,6 @@ This dissertation is about ethical naturalism. I defend and bolster Philippa Foo
 
 ### LINK
 
-[Becoming What We Are (PDF - Oct 7)](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)
+This is an early draft (14 Oct 2016). Do not cite or distribute without permission. Feel free to read or peruse and send me your comments.
+
+[Becoming What We Are: Virtue and Wisdom as Natural Ends (PDF)](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)
