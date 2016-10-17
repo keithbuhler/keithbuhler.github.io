@@ -22,7 +22,7 @@ I always enjoyed school growing up but my life was altered in college. Studying 
 
 As a sophomore, I started bringing others along. I taught "great books" to 4th grade public school students in Long Beach CA, and have continued teaching students of all ages to this day. 
 
-Even after teaching and researching philosophy all week, I host a weekly book club at my home to discuss literature, film, and politics with friends.
+Even after teaching and researching philosophy all week, I host a weekly meeting of the American Chesterton Society to discuss literature, film, and politics with friends.
 
 People sometimes wonder what a philosopher *does*. Most of the time I read and think through tough arguments about a variety of topics. When I have an objection or a thesis of my own, I present them to students, colleagues, or advisors or  write out an argument, and the dialogue continues. I also teach university courses and invite people to pursue wisdom with me.
 

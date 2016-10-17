@@ -9,11 +9,11 @@ author_profile: true
 
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
-I am currently a doctoral candidate in philosophy at the University of Kentucky. My research centers on contemporary analytic virtue ethics and ethical naturalism.
+I am currently finishing up my doctorate in philosophy at the University of Kentucky. My research centers on virtue ethics and the dialogue between religion and naturalism.
 
-In the classroom, I've been successfully helping learners of all ages to change and flourish for more than 8 years. I use humor and immersive Socratic dialogue to create a friendly yet rigorous learning environment. 
+I've been a full-time educator for more than eight years, where I've successfully helped learners of all ages to change and flourish. I use humor and immersive Socratic dialogue to create a friendly yet rigorous learning environment. 
 
-Click around to [read more about me](/about) or [peruse my curriculum vitae.](/cv) 
+You can read [more about me here](/about) or [peruse my curriculum vitae.](/cv) 
 
 Explore my [courses](/teaching) and [research.](/research) 
 
