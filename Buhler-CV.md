@@ -3,10 +3,10 @@ layout: single
 permalink: /cv/
 --- 
 
-#### [(PDF version)](/Buhler-CV Oct 17.pdf)
+#### [(PDF version)](/Buhler-CV.pdf)
 
 
-### KEITH BUHLER, Curriculum Vitae
+### CURRICULUM VITAE, KEITH BUHLER
 Department of Philosophy    
 University of Kentucky   
 Lexington, KY, 40506  
@@ -52,7 +52,7 @@ Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Rec
 
 
 
-### CONFERENCE COMMENTS AND SERVICE
+### COMMENTS AND SERVICE
 1. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." 2016
 2. Comments on Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics," Rhodes College, 2014
 3. Session Chair, *Special Divine Action* Conference, Oxford University, 2014
