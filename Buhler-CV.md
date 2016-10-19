@@ -5,15 +5,15 @@ permalink: /cv/
 
 #### [(PDF version)](/Buhler-CV.pdf)
 
-\begin{center}
+<center>
 
-Keith Buhler
+<font size="2em"> Keith Buhler </font>
 
 Curriculum Vitae 
 
 October 2016  
 
-\end{center}
+</center>
 
 ### CONTACT
 Department of Philosophy  
@@ -27,7 +27,7 @@ keithbuhler.com
 Ethics, Metaethics.       
 
 ### RESEARCH AND TEACHING COMPETENCE
-Philosophy of Mind, Philosophy of Religion, History of Philosophy, Bioethics.  
+Philosophy of Mind, History of Philosophy, Philosophy of Religion,  Bioethics.  
 
 
 ### EDUCATION
@@ -51,14 +51,12 @@ Ph.D. Philosophy, University of Kentucky (defense scheduled for 2016)
 2016 &nbsp;&nbsp; On David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism"  
 2014 &nbsp;&nbsp; Session Chair, *Special Divine Action* Conference, Oxford University.   
 2014  &nbsp;&nbsp; On Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics", Midsouth Philosophy Conference, MI.  
-
-
-### QUANTITATIVE EVALUATIONS 
-
-2015-2016 Teaching Quality Mean: 3.7 out of 4.  
-2015-2016 Course Quality Mean: 3.6 out of 4. 
+2013 &nbsp;&nbsp; Referee for Kentucky Graduate School Conference submissions
 
 ### TEACHING
+
+2015-2016 Teaching Quality Mean: 3.7 out of 4.  
+
 
 ### University of Kentucky
 
@@ -172,8 +170,8 @@ Speaking fluency in Spanish
 ### MEMBERSHIPS
 Torrey Honors Institute (Academic Honors Society) 2011-present    
 American Philosophical Association, 2014-present      
-Society of Orthodox Philosophers in America, 2014-present      
-International Society for MacIntyrean Enquiry, 2015-present     
-National Association of Scholars, 2016-present  
+Society of Orthodox Philosophers in America, 2014-present       
+International Society for MacIntyrean Enquiry, 2015-present      
+National Association of Scholars, 2016-present   
 
 
