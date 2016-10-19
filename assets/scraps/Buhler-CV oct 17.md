@@ -1,13 +1,26 @@
 ---
 layout: single
-permalink: /cv/
+permalink: 
 --- 
 
-#### [(PDF version)](/Buhler-CV Oct 17.pdf)
+#### [(PDF version)](/Buhler-CV.pdf)
+
+\begin{center}
+
+\LARGE
+Keith Buhler
+\normalsize
+
+Curriculum Vitae 
+
+October 2016  
 
 
-### KEITH BUHLER, Curriculum Vitae
-Department of Philosophy    
+\end{center}
+
+
+### CONTACT
+Department of Philosophy   
 University of Kentucky   
 Lexington, KY, 40506  
 keith.buhler@uky.edu   
@@ -16,13 +29,13 @@ keithbuhler.com
 
 ### RESEARCH
 *Specialization*: Ethics, metaethics.  
-*Competence*:  Ancient, philosophy of mind, philosophy of religion,  bioethics, and applied ethics.          
+*Competence*: History of philosophy (especially ancient, medieval), philosophy of mind, philosophy of religion,  bioethics, and applied ethics.          
 
 
 
 ### EDUCATION
 
-Ph.D. Philosophy, University of Kentucky (in progress, defense scheduled for 2016)    
+Ph.D. Philosophy, University of Kentucky (defense scheduled for 2016)    
 M.A. Philosophy, University of Kentucky, 2015    
 M.A. Applied Orthodox Theology, University of Lebanon, 2014     
 B.A. Humanities, Biola University, 2004  
@@ -53,64 +66,60 @@ Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Rec
 
 
 ### CONFERENCE COMMENTS AND SERVICE
-1. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." 2016
-2. Comments on Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics," Rhodes College, 2014
-3. Session Chair, *Special Divine Action* Conference, Oxford University, 2014
-4. Referee for Kentucky Graduate School Conference submissions, 2013
+1. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." 2016      
+2. Comments on Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics," Rhodes College, 2014      
+3. Session Chair, *Special Divine Action* Conference, Oxford University, 2014       
+4. Referee for Kentucky Graduate School Conference submissions, 2013     
 
 ### INVITED PUBLIC TALKS
-1. "Morality: Rule-following or New Life?," Wesleyan Society, 2014.
-2. "Reading Great Books in Classical Education," Veritas Academy, 2013.
-3. "The Goodness of the Tao: CS Lewis' *Abolition of Man*," Torrey Academy, 2012.
-4. "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*," Torrey Academy, 2012.
-5. "Does Love Cover a Multitude of Sins?," Hope Academy, 2011.
-6. "Hope and the Cycle of Desire," Hope Academy, 2011.
-7. "The Divided Self," Hephatha Lutheran Church, 2011.
-8. "The Art of Conversation; Conversation with Art," Wheatstone Academy, 2011.
-9. "The Virtue of Constancy," Hope Academy, 2009.
-10. "Life Experience as a Text: Learning From Initiatives," Torrey Honors Institute, 2007.
+1. "Morality: Rule-following or New Life?," Wesleyan Society, 2014.     
+2. "Reading Great Books in Classical Education," Veritas Academy, 2013.     
+3. "The Goodness of the Tao: CS Lewis' *Abolition of Man*," Torrey Academy, 2012.   
+4. "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*," Torrey Academy, 2012.       
+5. "Does Love Cover a Multitude of Sins?," Hope Academy, 2011.    
+6. "Hope and the Cycle of Desire," Hope Academy, 2011.   
+7. "The Divided Self," Hephatha Lutheran Church, 2011.       
+8. "The Art of Conversation; Conversation with Art," Wheatstone Academy, 2011.     
+9. "The Virtue of Constancy," Hope Academy, 2009.       
+10. "Life Experience as a Text: Learning From Initiatives," Torrey Honors Institute, Biola University, 2007.    
 
 
 
 
 ### TEACHING
 
+Asbury University and University of Kentucky quantitative teaching evaluation average, 2015-2016: **3.7 out of 4**     
+
 1. Business Ethics (upper division), UK F2016
-2. Health Care Ethics (upper division), UK 2015-2016
-3. Philosophy of Religion (upper division seminar) Asbury summer 2016
 2. Philosophy of C.S. Lewis  (upper division seminar), Asbury F2016
+3. Philosophy of Religion (upper division seminar) Asbury summer 2016
 4. Virtue Ethics and Wisdom   (upper division seminar)  Asbury S2016
+2. Health Care Ethics (upper division), UK 2015-2016
 3. Introduction to Philosophy,  UK and Asbury 2014-2016
 4. Ethics, UK 2013-2014
 5. Logic, UK S2013
-6. Philosophy of Science (as teaching assistant) Biola University, summer 2004
-
-
-### EVALUATIONS
-
-Quantitative teaching evaluation average: **3.7 out of 4** (Asbury University and University of Kentucky from 2015-2016)
-
+6. Philosophy of Science (as teaching assistant) Biola Universiy, summer 2004
 
 
 ### SECONDARY SCHOOL TEACHING
 
-1. 20th Century British Literature, Veritas Academy 2013
-2. Plato on Being and Knowing, Torrey Academy 2011
-3. Aristotelian Logic, Torrey Academy 2009-2010
-4. Foundations of American Thought, Torrey Academy 2009-2012
-5. Ancient and Medieval Literature, Torrey Academy 2008-2012
-6. 20th Century British Literature, Torrey Academy 2007-2012
+20th Century British Literature, Veritas Academy 2013    
+Plato on Being and Knowing, Torrey Academy 2011        
+Aristotelian Logic, Torrey Academy 2009-2010      
+Foundations of American Thought, Torrey Academy 2009-2012        
+Ancient and Medieval Literature, Torrey Academy 2008-2012       
+20th Century British Literature, Torrey Academy 2007-2012    
 
 
 ### OTHER LEADERSHIP AND TEACHING
-1. Director of High School Studies, Veritas Academy, 2013-2014
-2. Master Tutor, Torrey Academy, 2010-2012
-3. Tutor & Lecturer, Wheatstone Academy, 2001-2011.
-4.  ESL Tutor, Etum Academy, 2010-2012.
-5. Tutor, Torrey Academy, 2007-2010.
-6. Assistant Director, Wheatstone Academy, 2004-2005.     
-7. Tutor, Willow Elementary "Junior Great Books" GATE Program, 2001-2002.
-8. ESL English Teacher, Biola University Abroad in Mongolia, 2001    
+2013-2014 &nbsp;&nbsp;   Director of High School Studies, Veritas Academy       
+2010-2012 &nbsp;&nbsp;  Master Tutor, Torrey Academy     
+2001-2011 &nbsp;&nbsp;  Tutor & Lecturer, Wheatstone Academy, Fullerton, CA.   
+2010-2012 &nbsp;&nbsp;  Tutor, Etum Academy, Fullerton, CA    
+2007-2010 &nbsp;&nbsp;  Tutor, Torrey Academy, La Mirada CA   
+2004-2005 &nbsp;&nbsp;  Assistant Director, Wheatstone Academy     
+2001-2002 &nbsp;&nbsp;  Great Books Tutor, Willow Elementary, Long Beach, CA.  
+2001 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; English Teacher, Biola University Abroad, Mongolia.   
 
 
 
