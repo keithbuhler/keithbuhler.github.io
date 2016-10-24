@@ -16,15 +16,15 @@ keithbuhler.com
 
 ### RESEARCH
 *Specialization*: Ethics, metaethics.  
-*Competence*:  Ancient, philosophy of mind, philosophy of religion,  bioethics, and applied ethics.          
+*Competence*:  Ancient, mind, religion, bioethics, and applied ethics.          
 
 
 
 ### EDUCATION
 
 Ph.D. Philosophy, University of Kentucky (in progress, defense scheduled for 2016)    
-M.A. Philosophy, University of Kentucky, 2015    
-M.A. Applied Orthodox Theology, University of Lebanon, 2014     
+M.A. Philosophy, University of Kentucky, 2014    
+M.A. Eastern Orthodox Theology, University of Lebanon, 2012     
 B.A. Humanities, Biola University, 2004  
 
 ### DISSERTATION
@@ -33,13 +33,6 @@ Director: David Bradshaw
 Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics* 
 
 
-
-
-### WORKS IN PROGRESS
-
-1. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (submitted for initial review)
-2. "The Case for Agnosticism about Causal Closure" (submitted for initial review)
-4. "Practical, Rational Motivation"  (in progress)
 
 
 ### PRESENTATIONS
@@ -70,6 +63,13 @@ Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Rec
 9. "The Virtue of Constancy," Hope Academy, 2009.
 10. "Life Experience as a Text: Learning From Initiatives," Torrey Honors Institute, 2007.
 
+
+
+### WORKS IN PROGRESS
+
+1. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (submitted for initial review)
+2. "The Case for Agnosticism about Causal Closure" (submitted for initial review)
+4. "Practical, Rational Motivation"  (in progress)
 
 
 
@@ -116,7 +116,7 @@ Quantitative teaching evaluation average: **3.7 out of 4** (Asbury University an
 
 ### PROFESSIONAL TRAINING
 
-"Preparing Future Faculty," Morris Grubbs. 2016.  
+"Preparing Future Faculty," Morris Grubbs, 2016.  
 
 ### COURSEWORK
 
