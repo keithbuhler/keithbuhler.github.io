@@ -7,21 +7,17 @@ header:
 --- 
 
 
-* [Curriculum Vitae](/cv)
+* [Curriculum Vitae](emailto:keithedbuhler@gmail.com)
 * [Writing Samples](https://uky.academia.edu/KeithBuhler){:target="_blank"}
 
 <img src="/images/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">
 
-My research centers neo-Aristotelian ethical naturalism as a framework for thinking about the relationship between ethics and science. Neo-Aristotelianism is a thriving normative *and* descriptive research program because it exposes a systematic flaw in the putative fact-value or "is-ought" gap. Hence, I defend normative claims such as that everyone has an obligation to become wise and descriptive claims such as that human nature is to be a practical, rational primate. 
+My research uses neo-Aristotelian ethical naturalism as a framework for thinking about the relationship between facts and values, norms and nature, or ethics and science. On my view, neo-Aristotelianism is a thriving research program in ethics, political philosophy, sociology, and business because it overcomes the putative fact-value split. 
 
-My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are."  In it, I clarify and defend Philippa Foot's sort of neo-Aristotelian naturalism against that of John McDowell. [David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh){:target="_blank"} was my director. 
+My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are."  In it, I clarify and defend Philippa Foot's sort of neo-Aristotelian naturalism against that of John McDowell. [David Bradshaw](https://philosophy.as.uky.edu/users/dbradsh){:target="_blank"} was my director. The dissertation is one part of a broader dialogue between naturalist and non-naturalist philosophers about virtue, nature, and reason. 
 
-The dissertation is one part of a dialogue between religious and secular philosophers about virtue, nature, and reason. The implications of the recent revival of neo-Aristotelian virtue ethics instigated by Catholic thinkers such as Elizabeth Anscombe and Alasdair MacIntyre has been engaged by secular thinkers such as Foot and McDowell. 
+My dissertation is titled “Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics.” It explores the question of whether or not scientific naturalists can be realists about teleology, human nature, and traditional virtues such as practical wisdom. I conclude that what we are determines, in part, what we are to become: since we are practical rational animals capable of reasoning, we ought to become practically wise. I defend a neo-Thomist account of practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil in every action they undertake. 
 
-My ongoing project branches out from this research in three ways. First, though my dissertation defends what Mark Murphy calls Foot’s “secular natural law” theory ex hypothesi, I am developing a comparison of her non-religious view with other explicitly religious accounts of virtue and the Thomistic account of natural law. 
+The natural result of this project is to publish a monograph on the topic of ethical naturalism. However, my project also has implications both inside and outside of ethics. I am developing a bioethical argument against transhumanist projects (such as immortality and space colonization) that uses only the assumptions of secular humanism. Furthermore, if modern science supports rather than debunks natural teleology, then we must reject a hard line division between normative disciplines such as ethics and political philosophy and descriptive disciplines such as biology and sociology. Hence, neo-Aristotelians can and should develop a philosophy of science and philosophy of education according to which the various formal and material sciences have much in common with the humanities than is commonly supposed.  
 
-Secondly, my account of human nature contributes to recent bioethical conversations to indicate, among other things, that the pursuit of immortality through technology and the pursuit of planetary colonization are foolhardy projects, even on the assumptions of secular humanism. 
-
-Third, my version of ethical natural rejects a hard line disciplinary division between normative ethics and descriptive sciences, so I am developing a neo-Aristotelian philosophy of science according to which both formal and material sciences share a hylomorphic structure in common. 
-
-Outside of these topics, I work on physicalism (e.g., the causal closure principle), and Plato's concept of dialectic. 
+In addition to this core project, I have a long-standing interest in philosophy of mind, ancient philosophy (especially Plato's concept of dialectic), and philosophy of religion.

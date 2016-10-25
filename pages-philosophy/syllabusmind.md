@@ -1,51 +1,53 @@
 ---
 layout: philosophy
-permalink: /syllabus334
-title: Business Ethics Syllabus (PHI 334, Fall 2016)
-description: Business Ethics Syllabus (PHI 334, Fall 2016), Keith Buhler's philosophy class at the university of Kentucky.
+permalink: /syllabusmind
+title: Philosophy of Mind Syllabus (PHI 334, Fall 2016)
+description: Keith Buhler's philosophy of mind syllabus
 ---
 
-#### [(PDF Version)](/pages-philosophy/syllabus334.pdf)   
+#### [(PDF Version)](/pages-philosophy/syllabusmind.pdf)   
 
 **Instructor**: Keith Buhler   
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler  
-**Office Hours**: CB Wed 2-3pm, before/after class, and by appointment.   
-**Office**: Patterson Office Tower, 14th floor.   
+**Office Hours**: TBA
+
 
 
 ### Required Readings 
-- [Brenkert & Beauchamp, *Oxford Handbook of Business Ethics*](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. (Should be less than $60 new, $40 used). 
-- Handout Week 2 [Peter Kreeft, Truth](https://drive.google.com/open?id=10vTMcdduw_krSH_UeWy4IxIi09QIRi4n0GA2eIZY0VM)
-- Handout Week 2 [Peter Kreeft, Goodness.](https://docs.google.com/document/d/1h64LJtuVoeCUAC_JxnIasksjSp7iyLqnenvQ-7YsvgU/edit#heading=h.e0aplekgl5p3)
-- Handout Week 3 [Utilitarianism](https://drive.google.com/open?id=1ajV9KYRrRDx67QJe8MqhfUle54WuaIvRoDTOalryu6Y)
-- Handout Week 4 [Kantian Deontology](https://docs.google.com/document/d/11xSeb7zJyG01VBhOSsjL5VK1w7R0PVoxu0FRsCRhGPk/edit?usp=sharing)
-- Handout Week 5 [Virtue Ethics](https://drive.google.com/open?id=1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w)
-- Film Week 6 [Inside Job](http://www.sonyclassics.com/insidejob/)
 
+- Heraclitus, Fragments
+- Parmenides, Fragments
+- Pythagoras, Internet Encyclopeida of Philosophy
+- Plato, Euthyphro
+- Plato, Apology
+- Plato, Phaedo
+- Plato, Meno
+- Aristotle, Nicomachean Ethics
+- Aristotle, De Anima
+- Aristotle, Metaphysics
+- Aristotle, Posterior Analytics
+- Epictetus, Encheridion
+- Epicurus, Letter to Menoeus
 
 ### Course Description
-Some of the hardest decisions we make have to do with making money working in a business or running a business. As employees, professionals, managers, investors, or entrepreneurs, we will make tough business decisions every day. Even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. This course attempts to help us to think deeply about the issues of wealth, fairness, politics, trade, payment, and work. The aim is that we can act well when hard decisions come. 
 
-Philosophy in general asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? Philosophy is continuous with science, mathematics, religion. So when we conduct business, our whole world view is engaged. Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable? 
 
-So, in business ethics, we ask about foundations: What is a good business? What is success? What is private and public property? Are there constraints on products and services one can provide? 
+Philosophy begins with the Greeks. While wisdom literature exists all over the ancient world, Pythagoras professed to be not wise but a lover of wisdom. Socrates approved of this phrase, and adopted it, as did his students. Since that time, all of western philosophy has been "a series of footnotes to Plato." (Whitehead) 
 
-These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
+Philosophy in general asks questions about foundations of the world and our knowledge of it: what is real, how do we know what we know, what is the meaning of life? In the most broad sense, philosophy is continuous with science, mathematics, and even religion. Over the centuries, various disciplines such as mathematics, theology, and psychology have peeled away from their original holism. 
 
-Each of us belongs to a tradition and a community. Our goal is to understand our own tradition and understand rival traditions, and why they disagree. We will disagree, but do so peaceably and with understanding. 
+There are many ways to approach ancient Greek philosophy. This class takes its approach from the notion of the unity of knowledge. The unity of many disciplines is prior to their diversity. In other words, in order to grasp the current diversity and fragmentation of disciplines, it is useful to study the original non-dualistic discipline. 
 
-The bottom line is always to think hard about hard questions, to discard wrong answers and discover and prove right answers to these questions. The hard questions will revolve around business, wealth, justice, safety, information, incentives, globalization, etc. but may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
+These questions and more we will attempt to answer by reading primary sources from the pre-Socratic, Socratic, and Academic/Platonic eras. We will be sensitive to historical context while exploring the questions and substantive answers that occupied the Greeks. We will critique and analyze their views and attempt to form our own. 
 
 ### Course Goals 
 
-* to understand business as part of life
-* to understand business as part of applied ethics, public policy, and as a sub-discipline of ethical philosophy
-* to become familiar with major ethical theories, especially: virtue ethics, utilitarianism, and deontology 
-* to grow intellectually by critically analyzing articles, books, studies, and news articles about business
-* to understand our own ethical tradition better and make clear plans for how to make hard decisions
-* Also to understand the tradition of others (religious ethics, deontology, utilitarianism, virtue ethics) in approaching ethical issues;
-* and thereby to become more virtuous people capable of handling difficult life circumstances.
+* to understand ancient Greek philosophy on its own terms
+* to understand ancient Greek philosophy as the fountainhead of western philosophy 
+* to become familiar with major metaphysical and ethic theories of Plato, Aristotle, and others
+* to grow intellectually by critically analyzing articles, books, studies, and articles 
+* and to become more intellectually and morally virtuous people
 
 
 
@@ -136,81 +138,81 @@ Those who opt for extra credit may do so. Instructions are posted online.
 *This outline tells you what is due when. A detailed outline is available online. Always check this outline for updates, as well as Canvas for quizzes and announcements. Dates are subject to minor changes due to weather, illness, teacher travel, etc. The online version is always up to date.*
 
 
-**Week 1 Business Ethics**  
+**Week 1 Philosophy of Mind**  
 W       Aug-24  Syllabus day (no reading)  
-F       Aug-26  Introduction to Business Ethics (no reading)    
+F       Aug-26  Introduction to Mind (no reading)    
 
-**Week 2 Truth and Goodness**  
-M       Aug-29  Basic Philosophy: Peter Kreeft, Truth Handout   
-W       Aug-31  Basic Philosophy: Peter Kreeft, Relativism Handout   
-F       Sep-2   Basic Philosophy: Religion & Reason  
+**Week 2 Basics**  
+M       Aug-29  
+W       Aug-31  
+F       Sep-2   
 
-**Week 3 Utilitarianism**  
+**Week 3 Dualism**  
 M       Sep-5   Labor Day (no class)  
 W       Sep-7   Basic Ethics: Utilitarianism Handout   
 F       Sep-9   Discussion   
 
-**Week 4 Kantian Deontology**  
+**Week 4 Dualism**  
 M       Sep-12  Basic Ethics: Kantian Deontology Handout  
 W       Sep-14  Basic Ethics: Kantian Deontology Handout    
 F       Sep-16  Discussion  
 
-**Week 5 Virtue Ethics**  
+**Week 5 Physicalism**  
 M       Sep-19  Basic Ethics: Virtue Ethics Handout    
 W       Sep-21  Basic Ethics: Virtue Ethics Handout    
 F       Sep-23  Review of Ethical Theories. **Exam 1**   
 
-**Week 6 Inside Job**  
+**Week 6 Physicalism**  
 M       Sep-26  Inside Job (film) Parts I-III introduction  
 W       Sep-28  Inside Job Parts I-IV  
 F       Sep-30  Inside Job Part V and discussion  
 
-**Week 7 Methods of Business Ethics**  
+**Week 7 Panpsychism**  
 M       Oct-3   Business Ethics, Methods of Business Ethics  (Group 1 presents)  
 W       Oct-5   Business Ethics, the Place of Ethical Theory  (Group 2)  
 F       Oct-7   Discussion  
 
-**Week 8 Capitalism**  
+**Week 8 Panpsychism**  
 M       Oct-10  The Idea and Ideal of Capitalism  (Group 3)    
 W       Oct-12  Corporate Responsibility and its Constituents (Group 4)    
 F       Oct-14  Discussion  
 
-**Week 9 Compensation**  
+**Week 9 Hylomorphism**  
 M       Oct-17  Economic Justice, Executive Compensation 161-176 (Group 5)   
 W       Oct-19  Economic Justice, Executive Compensation 176-191 (Group 6)  
 F       Oct-21  Discussion  
 
-**Week 10 Universal Norms**  
+**Week 10 Hylomorphism**  
 M       Oct-24  Moral Issues in Globalization 305-312  (Group 7)  
 W       Oct-26  Moral Issues in Globalization  313-325 (Group 8)  
 F       Oct-28  Discussion  
  
-**Week 11 Information**  
+**Week 11 Hylomorphism**  
 M       Oct-31  Deception and Information Disclosure 335-350  (Group 9)   
 W       Nov-2   Deception and Information Disclosure 351-365  (Group 10)   
 F       Nov-4   Discussion  
 
-**Week 12 Incentives**  
+**Week 12 Hylomorphism**  
 M       Nov-7   Business in Politics: Lobbying 501-516  (Group 1)  
 W       Nov-9   Business in Politics: Lobbying 517-534  (Group 2)  
 F       Nov-11  Discussion  
 
-**Week 13 Employee Rights**  
+**Week 13 Biological Naturalism**  
 M       Nov-14  Discrimination, Affirmative Action, and Diversity 535-549  (Group 3)  
 W       Nov-16  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
 F       Nov-18  Whistle-Blowing, Moral Integrity 563-580  (Group 5)   **Exam 2**
 
-**Week 14 Employee Rights**  
+**Week 14 Eliminative Materialism**  
 M       Nov-21  Whistle-Blowing, Moral Integrity 581-602  (Group 6)  
 W       Nov-23  *Thanksgiving Break*  
 F       Nov-25  *Thanksgiving Break*  
 
-**Week 15 Safety**  
+**Week 15 Review**  
 M       Nov-28  Environmental Ethics and Business  (Group 7)  
 W       Nov-30  The Mirage of Product Safety  (Group 8)  
 F       Dec-2   Discussion
 
-**Week 16 Moral Organizations**   
+**Week 16 Papers**   
 M       Dec-5   Organizational Integrity and Moral Climates 701-711 (Group 9)  
 W       Dec-7   Organizational Integrity and Moral Climates 712-724 (Group 10)  
 F       Dec-9   Film & Discussion
@@ -221,68 +223,4 @@ F       Dec-18  Grades Due UK
 
 
 
-
-### Course Outline (Detailed)
-
-*Each date tells you the reading due and the topic. Each date also includes detailed lecture notes because students asked for them to help prepare. Subject to minor changes due to weather, illness, etc. The online version is always up to date.*
-
-
-**Aug-24  W       Syllabus day.** Realistic expectations for this class. How to get an "A".     
-**Aug-26  F       Introduction to Business Ethics.** What is business ethics? What is an ethical business? Philosophy, in general, is a search for causes. Philosophers aim to prove what things are and why they are that way. Ethical philosophy is a search for the good. Ethicists aim to prove what ought to be done, and what avoided, and why. Science is the process of mapping the order of being; ethics is the process of mapping the "practical order", the order of doing.   
-**Aug-29  M       "Basic Philosophy: Peter Kreeft, Truth.** Is there any objective truth -- in science, philosophy, religion, mathematics? If not how would we know it? If so, how do we know truth? Kreeft argues that truth is correspondence to reality. Other alleged definitions of truth presuppose the correspondence definition. And truth is knowable to anyone who has language. He refutes various objections to the possibility of knowing truth.  
-**Aug-31  W       "Basic Philosophy: Peter Kreeft, Relativism.** Is there any objective goodness in morality or ethics? If so, how would we know it? Kreeft argues against moral relativism, moral nihilism, and moral skepticism and argues that some moral laws are like mathematical and logical laws.   
-**Sep-2   F       "Basic Ethics: Religion & Reason**. Many people derive their ethics in part from their religion. What is the role -- if any -- of religion in business and in ethics?"  
-**Sep-5   M       Labor Day -- no class**  
-**Sep-7   W       Basic Ethics: Utilitarianism.** John Stuart Mill and Jeremy Bentham resurrected a modern version of the ancient doctrine of Epicurus: that the only intrinsic good is pleasure. Hence, the one objective moral rule is that we ought to maximize pleasure. Make as many people happy as possible. Make everyone as happy as possible.  Alternately, reduce pain as much as possible.   
-**Sep-9   F       Discussion What is right about utilitarianism or consequentialism? What is wrong with it?
-**Sep-12  M       "Basic Ethics: Kantian Deontology.** Immanuel Kant resurrected a modern version of the ancient doctrine of Stoicism: the only good is conformity to the moral law. The good will always wills the good. What is the good? Your duty. Always do your duty. How do you know your duty, what command or imperative should you obey?  Kant's "imperative" was a formal principle that should always be obeyed by rational creatures. It is categorical, not hypothetical. There are three expressions of his Categorical Imperative. Kantianism has come to be known as "deontology", the moral theory grounded in duty.  
-**Sep-14  W       "Basic Ethics: Deontology cont'd"**
-**Sep-16  F       "Discussion What is right about Kantianism? What is wrong?"
-**Sep-19  M       "Basic Ethics: Virtue Ethics Elizabeth Anscombe, Philippa Foot, Bernard Williams, and others resurrected a modern version of the ancient doctrine of Aristotle: that the good person is the virtuous person. Moral virtue is a mean between extremes of too much and too little,  while intellectual virtue is a consistency in knowing truth. "
-**Sep-21  W       "Basic Ethics: Virtue Ethics"**
-**Sep-23  F       "Review of Ethical Theories for Exam"** What is right about virtue ethics? What is wrong?"
-
-**Online Exam Quarter 1**
-
-**Sep-26  M       "Film: Inside Job Parts I-III.** The "Inside Job" documentary is about the 2008 housing crisis. Everyone felt the effects of this terrible financial meltdown. What caused it?  
-**Sep-28  W       "Film: Inside Job Parts I-IV"**: 
-**Sep-30  F       "Film: Inside Job Part V and discussion"**
-**Oct-3   M       "Business Ethics, Methods of Business Ethics"**:  
-**Oct-5   W       "Business Ethics, the Place of Ethical Theory"**: 
-**Oct-7   F       "Discussion"**:  
-**Oct-10  M       (76-96) Gaus, "Competitive Markets, Ideal of Capitalism" 1**: What is capitalism? Can capitalism be ethical? Can it be unethical?    
-**Oct-12  W       Gaus, "Competitive Markets, Ideal of Capitalism" 2**:    
-**Oct-14  F       "Discussion"**:   
-**Oct-17  M       "Economic Justice, Executive Compensation"**:    
-**Oct-19  W       "Economic Justice, Just Access to Health Care"**:  
-**Oct-21  F       "Discussion"**  
-**Oct-24  M       "Universal Norms"**  
-**Oct-26  W       "Universal Norms"**  
-**Oct-28  F       "Discussion"**  
-**Oct-31  M       "Information"**  
-**Nov-2   W       "Information"**  
-**Nov-4   F       "Discussion"**  
-**Nov-7   M       "Incentives and Influence"**  
-**Nov-9   W       "Incentives and Influence"**  
-**Nov-11  F       "Discussion"**  
-**Nov-14  M       "Employee Rights"**  
-**Nov-16  W       "Employee Rights"**  
-**Nov-18  F       "Discussion"**  
-**Nov-21  M       "Safety, Risk, Harm"**  
-**Nov-23  W       "Safety, Risk, Harm"**  
-**Nov-25  F       "Creating Moral Organizations"**  
-**Nov-28  M       “Environmental Ethics and Business”**  
-**Nov-30  W       Thanksgiving Break - No class**  
-**Dec-2   F       Thanksgiving Break - No class**  
-**Dec-5   M       Film viewing and discussion**  
-**Dec-7   W       Film viewing and discussion**  
-**Dec-9   F       Last day UK**  
-**Dec-12  M       Final Exams**  
-**Dec-18  F       Grades Due UK**  
-
-
-
 ### Links to Readings of Interest
-
-1. [How to invest](https://www.nerdwallet.com/blog/investing/how-to-invest-500-2/?utm_source=fb&utm_medium=cpc&utm_campaign=in_mktg_paid_062216_500_c&utm_content=1e&mktg_place=1&mktg_hline=1121&mktg_img=657&mktg_body=451&mktg_link=113)
-2. [Regulation as panacea or placebo?](http://poseidon01.ssrn.com/delivery.php?ID=040088020003012068089068092004119023096031065012091090091113081031084097097080114000002033027047006112028085094112074090092001037094022080065064070095114098122030106025062083006086090073064120080086071104069088069007015099064111103018083075122087119022&EXT=pdf)

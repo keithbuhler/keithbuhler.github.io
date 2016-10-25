@@ -46,7 +46,7 @@ permalink: /student-feedback
 ### Busy work
 
 
-"The vast majority was discussion driven. Most other Philosophy classes I hear of are filled with terms, theories, and endless quizes. This class was focused on having the class externally or internally process the topics we went over. The reading in the course was not some impersonal textbook with dates, names, and definitions. We read the words of actual philosophers." (PHL200, 2015)
+"The vast majority was discussion driven. Most other Philosophy classes I hear of are filled with terms, theories, and endless quizzes. This class was focused on having the class externally or internally process the topics we went over. The reading in the course was not some impersonal textbook with dates, names, and definitions. We read the words of actual philosophers." (PHL200, 2015)
 
 "I enjoyed that the main focus of this course was not about the grade, but more outlined on learning and understanding ethical concepts and formulating your own opinion on them." (PHI305-002 2016)
 

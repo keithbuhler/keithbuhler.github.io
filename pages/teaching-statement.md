@@ -11,6 +11,7 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 
 ----
+### Statement of Teaching 
 
 My goal in teaching is to build an immersive environment of philosophical thinking and to enable students to grow intellectually. To this end, I invite students to think about new ideas in new ways. Thinking philosophically is a risk; so I give students the space, the tools, and the inspiration they need to be motivated to take that risk. 
 
