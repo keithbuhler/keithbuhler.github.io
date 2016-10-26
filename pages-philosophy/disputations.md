@@ -18,14 +18,13 @@ http://www.keithbuhler.com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mS8QnAT3MRw" frameborder="0" allowfullscreen></iframe>
 
-
 Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide good arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
 
 Here is an example disputation for us to discuss: 
 
-1. **Are McDonald's chicken nuggets made of chicken meat?**
-2. **Objection 1**. It seems that }
-McDonald's "chicken" nuggets are not made of meat. For they do not have the right texture, like a chicken breast or chicken wing. 
+**Are McDonald's chicken nuggets made of chicken meat?**
+
+1. **Objection 1**. It seems that McDonald's "chicken" nuggets are not made of meat. For they do not have the right texture, like a chicken breast or chicken wing. 
 3. **Objection 2**. Furthermore, there is a picture of "pink goo" on the internet showing what McNuggets look like before they are molded and cooked. 
 4. **Appeal to authority**. On the other hand, CNBC reporter Landon Dowdy says that "it's just chicken." 
 5. **Argument**. I answer that McNuggets are made of ground chicken meat. Mythbusters host Grant Imahara did a report inside the Tyson factory and took video footage showing that the nuggets are made from whole chickens, cut up, ground, flavored, and pressed into molds.[^3] Although industrially produced ground chicken may be unappetizing before it is breaded and fried, it is indeed chicken meat. The final product is so heavily salted and preserved, that it may not be healthy, but it is still meat. 
@@ -34,13 +33,14 @@ McDonald's "chicken" nuggets are not made of meat. For they do not have the righ
 
 This example shows several key points. Let's consider them. 
 
-A passing Disputation is in five-point format: 
+A passing Disputation is in four-point format: 
 
-1. **Question**. This is your title. It is a question with two alternatives, basically a yes/no question. 
-2. **Objections**. These succinctly state objections to your thesis. These summarize your opponent's answer to the question. You will eventually refute the objection below. For now, just state it as sympathetically as you can. You may have one to three objections. Avoid having more than three.
-3. **Authority**. This section quotes an authority who agrees with your thesis. Actually cite them, word for word. Use Plato, Socrates, Scripture, science, or anyone whom you consider to be an authority. 
-4. **Argument**. This section actually argues for your thesis. Begin by stating your thesis. The thesis is a truth claim. It is the governing principle of the whole essay. Each paper should have only one thesis, and every word, every sentence, and every paragraph should relate to the thesis. Then, provide support for your thesis. Why should we think your thesis is true? The evidence for a thesis may be: factual, logical,  statistical, anecdotal, intuitive, and so on.  But the arguments must be strong and support the thesis. The argument is the heart of the paper. This is where you attempt to provide sound, solid reasoning why anyone should think your thesis is true. You should aim for at least two or three different arguments in defense of your conclusion. Define your terms. Each argument uses one or a few key terms. Make sure your sentences are clear and exact. And finally, make sure that your argument form is valid. Make sure your premises are true (or very likely). You can use evidence from your own research, the text, or your own thinking.  
-5. **Reply to objections.** Your last paragraph(s) deals with your counterclaim. How can you refute your opponent’s counter argument? You must either refute their evidence or acknowledge but re-interpret it to show that it does not damage your conclusion. 
+**Question**. This is your title. It is a question with two alternatives, basically a yes/no question. 
+
+1. **Objections**. These succinctly state objections to your thesis. These summarize your opponent's answer to the question. You will eventually refute the objection below. For now, just state it as sympathetically as you can. You may have one to three objections. Avoid having more than three.
+2. **Authority**. This section quotes an authority who agrees with your thesis. Actually cite them, word for word. Use Plato, Socrates, Scripture, science, or anyone whom you consider to be an authority. 
+3. **Argument**. This section actually argues for your thesis. Begin by stating your thesis. The thesis is a truth claim. It is the governing principle of the whole essay. Each paper should have only one thesis, and every word, every sentence, and every paragraph should relate to the thesis. Then, provide support for your thesis. Why should we think your thesis is true? The evidence for a thesis may be: factual, logical,  statistical, anecdotal, intuitive, and so on.  But the arguments must be strong and support the thesis. The argument is the heart of the paper. This is where you attempt to provide sound, solid reasoning why anyone should think your thesis is true. You should aim for at least two or three different arguments in defense of your conclusion. Define your terms. Each argument uses one or a few key terms. Make sure your sentences are clear and exact. And finally, make sure that your argument form is valid. Make sure your premises are true (or very likely). You can use evidence from your own research, the text, or your own thinking.  
+4. **Reply to objections.** Your last paragraph(s) deals with your counterclaim. How can you refute your opponent’s counter argument? You must either refute their evidence or acknowledge but re-interpret it to show that it does not damage your conclusion. 
 
 
 A PASSING DISPUTATION achieves seven goals: 
