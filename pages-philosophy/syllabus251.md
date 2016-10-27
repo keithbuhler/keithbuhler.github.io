@@ -220,9 +220,9 @@ W       Nov-16  Perelandra 4-6   (6 Abby)
 F       Nov-18  Discussion       
 
 Week 14   
-M       Nov-21  Perelandra 7-10    (Buhler)
-W       Nov-23  Thanksgiving   
-F       Nov-25  Thanksgiving      
+M       Nov-21  Perelandra 7-10    (Buhler)    
+W       Nov-23  Thanksgiving    
+F       Nov-25  Thanksgiving       
 
 Week 15  
 M       Nov-28  Perelandra 11-15        
