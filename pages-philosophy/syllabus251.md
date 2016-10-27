@@ -205,8 +205,8 @@ Week 10
 **F       Oct-28  Discussion**      
 
 Week 11
-**M       Oct-31  Experiment in Criticism ch. 1**   (Buhler)    
-**W       Nov-2   Experiment in Criticism, 3, 11, epilogue.**         
+**M       Oct-31  Experiment in Criticism ch. 1, 2, 3**   (Buhler)    
+**W       Nov-2   Experiment in Criticism, 4, 5, 11, epilogue.** (Buhler)             
 **F       Nov-4   Discussion**      
 
 Week 12    
