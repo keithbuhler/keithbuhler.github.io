@@ -3,63 +3,50 @@ layout: philosophy
 permalink: /syllabusfpa
 ---
 
-### [Spring 2017 Syllabus](/pages-philosophy/syllabus200.pdf)
-**Logic**  
-**Instructor**: Keith Buhler  
-**Email**: [kbuhler@fpa.edu](kbuhler@fpa.edu)  
-**Office Hours:** Wednesday   
+### [**Spring 2017 Syllabus**](/pages-philosophy/syllabusfpa.pdf)   
+### Philosophy & Rhetoric, Semester 2 -- Introduction to Philosophy
+**Freedom Project Academy**    
+**Instructor: Keith Buhler**   
+**Email:** [kbuhler@fpa.edu](kbuhler@fpa.edu)    
+**Teacher Talk:** Wednesday, 2-3pm (tentative)  
 
-### Required Texts
+### Required Texts:
 
 - [Plato, *Last Days of Socrates* (Euthyphro, Apology, Phaedo) ISBN: 0140449280](http://amzn.to/1NMMNB6)
-
-**Other texts provided online**
-
-- [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
-- [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
-- [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
-- [Keith Buhler, "Logic 101"](/logic)
-- [Peter Kreeft, “Are universals real?”](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
-- [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64)
-- [Richard Dawkins, “Why there is almost certainly no god”](https://drive.google.com/open?id=0B0CYQDZ8AWu8WV9IZ1liNmRDa28)
-- [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM)
-- [Hume, Inquiry Concerning Human Understanding](http://www.gutenberg.org/files/9662/9662-h/9662-h.htm)
-
-- [The Gospel of John (without chapters, verses, or cross-references)](https://docs.google.com/document/d/1lnOhyN_7l1vL6dviWXqY65uoEigEvEFV0eFMhhTB6qw/edit)
-- [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk)
-- [The Matrix](https://drive.google.com/open?id=0B0CYQDZ8AWu8OEtYcnlxbl9mQ0E)
-- [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k)
-- [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
+- [Peter Kreeft, Socratic Logic](https://www.amazon.com/Socratic-Logic-Questions-Aristotelian-Principles/dp/1587318083/ref=sr_1_1?ie=UTF8&qid=1477922845&sr=8-1&keywords=socratic+logic)
+- [Jostein Gaardner, Sophie's World](https://www.amazon.com/Sophies-World-History-Philosophy-Classics/dp/0374530718/ref=sr_1_1?ie=UTF8&qid=1477934958&sr=8-1&keywords=sophie%27s+world)
 
 
-**Course Description:** This course is an exercise in a different way of thinking. We will also learn some historical facts, new vocabulary words, some big names and big philosophical concepts. But our main task is to grow by thinking slowly, carefully, methodically, and deeply.  
+###Course Description:
+This course is an exercise in a different way of thinking: philosophical thinking. This class is not an "introduction" to philosophical thinking because everybody already thinks this way *sometimes*. Rather, this class is an *exercise*. We will do more such thinking, and do it better. The means to that end is reading the Greek philosophers. In order to think philosophically, we will practice  read, discuss, and write about these philosophers. The "topics" the Greeks will lead us to think about are eclectic: reality, the origin of the world, unhappiness, knowledge, the soul, and death. Some of these questions are more abstract, some are more practical -- all of them are windows into a reality beyond the day-to-day. There are no long lectures; every class period will consist of *dialogue* together. Philosophical thinking cannot be programed into you; you must take responsibility for dialogging in class and out of class. There are no easy answers. You will be confused, at points. And the answers we will find will only come after hard work. So enjoy the ride. Ask questions. Get frustrated. Doodle. Guess. Take risks. The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We enter into the Great Conversation with our own, often confused, thoughts. We may learn to love God with our minds. We may become more connected, integrated, thoughtful, reflective human beings. We may become part of the Conversation, and by it be forever changed. 
 
-This course is eclectic in themes. Recurring questions are (1) "Who are you?" (2) "Where does the world come from?" (3) "Why is there evil?" (4) "What is happiness?" Some of these are more abstract, others more practical. All of them are windows into a reality beyond the day-to-day.
+**Goals:**
 
-There is no textbook; instead, we will consume books, essays, and film including history, Scripture, biography, and fiction. There are no long lectures; we will dialogue together every day. Don't just sit back waiting to be programmed with knowledge. Rather, begin to discuss these topics in class and out of class. You will be confused. Enjoy the ride. Ask questions. Get frustrated. Doodle. Guess. Take risks. 
+* To understand and evaluate difficult philosophical arguments.
+* To become familiar with the thought of major Greek philosophers such as Plato, Aristotle.
+* To understand the Christian worldview
+* To reflect on our own lives, thoughts, and actions
+* To become more virtuous, thoughtful, and wise human beings in the pursuit of goodness, truth, and beauty.
 
-There are no tests to memorize; we will become competent in skills like reading, dialoguing, and writing clearly and logically. These skills are not just useful for philosophy. They will make you better in computer programming or chemistry, better in motherhood or the ministry. (The top five most coveted job skills are communication, teamwork, critical thinking, and creativity, and self-discipline.)
+### Scope and Sequence:
 
-There are no *easy* answers; instead, we will find hard answers, if we work at it. The ultimate motivation for having the conversation we call philosophy must be that it can make us better. We enter into the Great Conversation with our own, often confused, thoughts. We may learn to love God with our minds. We may become more connected, integrated, thoughtful, reflective human beings. We may become part of the Conversation, and by it be forever changed. 
+The course is broken into five units of about 4 weeks each. Each unit consists of four components: 
 
-**Our goals then are:**
+- Reading
+- Quizzes
+- Discussion in class
+- Writing
 
-* To read, comprehend, evaluate and discuss difficult philosophical arguments.
-* To become familiar with the thought of major philosophers such as Plato, Aristotle, Augustine, Aquinas, and to understand the major questions they seek to answer.
-* To understand the Christian answers to questions about the meaning of life, the structure of the cosmos, the possibility of scientific knowledge, and the ground of morality, as contrasted with metaphysical naturalism, nihilism, and deism.
-* To practice reflect thinking upon our own lives, beliefs, attitudes, culture, and goals, in order to become more thoughtful human beings in the pursuit of goodness, truth, and beauty.
+Therefore, the best way to earn an 'A' is to read carefully, participate, study, and write. 
 
-**Course Outline:** This tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. The outline is *subject to minor changes.*
 
-<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="600"></iframe>
+### Grading:
 
-**Scope and Sequence:** This course focuses on an ecclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
-
-**Grading:** You will be graded equally on each component, plus applicable extra credit.
+You will be graded equally on each of the above four components, plus applicable extra credit.
 
 |  Assessment category              |  Percent of semester grade |
 | --------------------------------------|----------------------- |
-| Reading/quizzes                       | 25%  |  
+| Reading/quizzes                       | 25% |  
 | Participation (Talking, writing)      | 25% |
 | Tests (Q1, Q3)                        | 25% |
 | Disputations                          | 25% |
@@ -74,45 +61,47 @@ Letter Grade | Percentage
 | D   | 69% - 60%  |
 | F  | < 59%         |
 
-I typically do not round up. So 89.5 is a “B”. Your best bet for getting an ‘A’ is to (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Papers according to the given instructions.
 
-**Readings:** The primary work of this class is reading and thinking about these books, essays, and films. It will take about 5 hours per week of reading and writing. And some is very hard, requiring re-reading and time. Read actively, read ahead, and try to understand the book. Primarily, your goal is not just to read but to *understand*. Reflect on
-what you’ve read. Bring to class a question from the reading -- focus on
-what confuses you. Reading tips are online. 
+### Outline:
 
-Short, online reading quizzes are due almost every class day. The quiz covers that day's reading. It closes at 9am when class starts. The quizzes are timed and can only be taken once, so please complete them when you finish your reading. Don't start them before your reading is done as you will not have enough time to search the reading for answers.  You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes. Please keep up.
+This tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. The outline is *subject to minor changes.*
 
-**Attendance:** We need you here! Attendance is mandatory. 
 
-**Participation:** The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
+## Assignment Sheet 1, Jan 23
 
-We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
+- M:
+- T:
+- W:
+- R:
+- F: 
 
-*You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
 
-To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. You are not required to write posts on the discussion board online. By default, everyone is an "external processor".  *"Internal procesors"*: Some may wish to opt out of speaking in class and emphasize writing.  To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+## Assignment Sheet 2
 
-Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. (I prohibit the use of electronic devices in class, although laptop users may request permission to sit in the front of class with their computers.) 
+## Assignment Sheet 3
 
-What are the "ground rules" for discussion? The rules are hard to articulate. I give you a few rules that I have found to help, but the real rules are bigger and deeper. In fact, you can break my little rules and you’re still OK. I can criticize your opinion and you’re still OK. You can criticize my opinions and we’re still OK. You can say something “mean” or politically incorrect and we’re all OK. You can ask people to be nicer, and we’re OK. You can even criticize my teaching, and I’m OK. Trust the process. We’re going to try, *together* to make something of our discussions. 
+## Assignment Sheet 4
 
-Other discussion ground rules are posted online. 
+## Assignment Sheet 5
 
-**Quarter Tests:**  There are two quarter exams: one at the end of the first quarter, and one at the end of the third quarter. (No midterm or final). These exams will assess your knowledge of historical facts, philosophical definitions, and the ability to synthesize and apply concepts. The Study Guide is posted online.
+## Assignment Sheet 6
 
-**Disputations:** Every 2 weeks or so, you will write a Philosophical Disputation paper. Each disputation is pass/fail and worth approximately 4% of the semester grade. The instructions are posted online. 
+## Assignment Sheet 7
 
-**Extra Credit?** Those who opt for extra credit may do so. Instructions are posted online.
+## Assignment Sheet 8
 
-### Miscellany:
+## Assignment Sheet 9
 
-1. **Bring your textbook** to every class. 
-2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
-3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
-5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
-6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu email.
-7.  **Contact**. For short, quick questions, use Twitter (@keith\_buhler)
-8.  **Email**. You are expected to have an active e-mail account that you check regularly, and to check Canvas announcements. Section related announcements will be made on Canvas and/or via e-mail  (e.g. if I am sick, pointers for home work, change in due dates).
-7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
-8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the academic community. Cite your sources. 
-9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
+## Assignment Sheet 10
+
+## Assignment Sheet 11
+
+## Assignment Sheet 12
+
+## Assignment Sheet 13
+
+## Assignment Sheet 14
+
+## Assignment Sheet 15
+
+## Assignment Sheet 16
