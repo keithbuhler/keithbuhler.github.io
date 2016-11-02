@@ -6,7 +6,7 @@ header:
       image: 
 --- 
 
-
+## President Hillary Clinton?
 
 It seems pretty obvious to many people that Clinton is destined for the White House. 
 
@@ -14,9 +14,12 @@ It seems pretty obvious to many people that Clinton is destined for the White Ho
 2. Furthermore, Clinton has enjoyed a lead in the polls for months. [The Real Clear Politics average favors her on Nov 2nd and has unabated since October 2015.](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html) The 538 Blog favors her, even though Nate Silver [acknowledges on Nov 2 that Trump has a chance, (about 30% on Nov 2nd.)](http://fivethirtyeight.com/features/election-update-yes-donald-trump-has-a-path-to-victory/) Also, most individual polls favor her -- [YouGov](https://today.yougov.com/news/2016/11/02/yougoveconomist-poll-october-30-november-1-2016/), [ABC](http://abcnews.go.com/Politics/trump-rated-honest-contest-stays-dead-heat-poll/story?id=43225421), [NBC](http://www.nbcnews.com/storyline/data-points/poll-clinton-maintains-national-lead-over-trump-despite-fbi-letter-n675771), etc.  
 3. Finally, Trump is the most hated presidential candidate in decades. People think he is a boorish, psychologically unwell, adulterous racist. One 21 year old student said: ["If Trump wins, the next four years will look like hell. It will probably be the worst four years ever."](http://www.newyorker.com/magazine/2016/10/31/first-time-voters)
 
+
+## My Bet
+
 Nevertheless, I am [putting my money](https://www.predictit.org/Browse/Featured) on Trump/Pence. Why? Two kinds of reasons. 
 
-## First, Qualitative reasons: 
+### Qualitative reasons: 
 
 1. No one bet on him in the Republican primaries (except [Ann Coulter](https://www.youtube.com/watch?v=0-2uSG1xUEg)) yet Trump surprised everyone and won -- by a lot. No one bets on him in the general. But it stands to reason he might surprise and win -- by a lot. Why? Partly because the same thing might happen as happened with Obama -- lots of new voters who aren't reflected in past patterns.  No one yet has been able to predict who and how many Trump voters will come out of the woodworks to vote for the first time.
 2. [Michael Moore thinks Trump will win, and doesn't trust the polls that say otherwise.](http://michaelmoore.com/trumpwillwin/) He thinks rustbelt voters, angry white men, Hillary's unpopularity, depressed Sanders voters who stay home, and the "screw you" to the establishment indicate that Trump will win. 
@@ -24,7 +27,7 @@ Nevertheless, I am [putting my money](https://www.predictit.org/Browse/Featured)
 4. [Scott Adams favors Trump because Trump is more persuasive.](http://blog.dilbert.com/post/148740944816/trump-prediction-update)
 
 
-## Quantitative Reasons: 
+### Quantitative Reasons: 
 
 1. [USC Dornsife favors Trump, and has consistently (with exceptions) since about August.](http://cesrusc.org/election/) As of Nov 2, it is outside the 95% confidence interval.
 2. [The IBD/Tipp favors Trump, and has for several weeks.](http://www.investors.com/politics/ibd-tipp-presidential-election-poll/) At Nov 2, they were technically tied, but Tipp h
@@ -33,6 +36,8 @@ Nevertheless, I am [putting my money](https://www.predictit.org/Browse/Featured)
 6. [Another Political Science Professor, Helmut Norpoth, used a statistical model that predicts Trump.](https://www.sbstatesman.com/2016/02/23/political-science-professor-forecasts-trump-as-general-election-winner/) He's been 
 7. [The incumbant party rarely wins; it's the Republicans "turn" for the White House.](http://thefederalist.com/2014/09/04/history-is-not-on-the-democrats-side-in-2016/)
 9. [Internet searches reflect more Trump ](http://www.cnbc.com/2016/10/28/donald-trump-will-win-the-election-and-is-more-popular-than-obama-in-2008-ai-system-finds.html) "If Trump loses, it will defy the data trend for the first time in the last 12 years since Internet engagement began in full earnest," Rai wrote in a report sent to CNBC."
+
+### Only time will tell
 
 We will see!
 
