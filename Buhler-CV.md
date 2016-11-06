@@ -8,18 +8,24 @@ permalink: /cv/
 
 <center>
 <h1>Keith Buhler</h1>   
+
 Department of Philosophy   
+
 University of Kentucky    
+
 Lexington, KY 40506  
+
 keith.buhler@uky.edu   
+
 keithbuhler.com    
+
 </center>
 
 
 
 ### EDUCATION
 
-Ph.D.&nbsp;  Philosophy, University of Kentucky, 2016
+Ph.D.&nbsp;  Philosophy, University of Kentucky, 2016  
 M.A.&nbsp; Philosophy, University of Kentucky, 2014    
 M.A.&nbsp; Eastern Orthodox Theology, University of Lebanon, 2012      
 B.A.&nbsp;&nbsp; Humanities, Biola University, 2004    
