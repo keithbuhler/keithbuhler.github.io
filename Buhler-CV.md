@@ -9,15 +9,15 @@ permalink: /cv/
 <center>
 <h1>Keith Buhler</h1>   
 
-Department of Philosophy   
+<p> Department of Philosophy   </p>
 
-University of Kentucky    
+<p> University of Kentucky    </p>
 
-Lexington, KY 40506  
+<p> Lexington, KY 40506  </p>
 
-keith.buhler@uky.edu   
+<p> keith.buhler@uky.edu   </p>
 
-keithbuhler.com    
+<p> keithbuhler.com    </p>
 
 </center>
 
@@ -61,7 +61,7 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 
 
 
-### TEACHING 
+### UNIVERSITY TEACHING 
 
 *University of Kentucky, Lexington KY*   
 
@@ -83,7 +83,7 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 
 10. Philosophy of Science (as TA, summer 2004)
 
-*Secondary Schools*
+### SECONDARY SCHOOL TEACHING
 
 11. 20th Century British Literature (Veritas Academy, KY 2013)
 13. Plato on Being and Knowing (Torrey Academy, CA 2011)
