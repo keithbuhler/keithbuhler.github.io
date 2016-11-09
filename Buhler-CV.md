@@ -32,7 +32,7 @@ B.A.&nbsp;&nbsp; Humanities, Biola University, 2004
 
 ### DISSERTATION 
 
-Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics* \newline   
+Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics*       
 Committee: David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger     
 
 ### AREA OF SPECIALIZATION
@@ -49,7 +49,7 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 
 ### PRESENTATIONS
 
-1. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos" Society of Christian Philosophers, University of San Diego, 2016.
+1. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 2. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*”,  Faith and Film Conference, Baylor University, 2014.
 3. “Is the Cosmos Causally Closed?” Ian Ramsey Centre, Oxford University, 2014.
 4. “Socratic Therapy,” SOPHIA Conference, Spring Branch, TX 2014.
@@ -69,14 +69,14 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 2. Health Care Ethics (upper division, Spring 2015 and Fall 2016)
 3. Introduction to Philosophy (2013-2014)
 4. Ethics (Fall 2013)
-5. Logic (Spring 2013)  \newline
+5. Logic (Spring 2013)     
 
 *Asbury University, Wilmore KY*  
 
 6. Philosophy of Religion (upper division, Summer 2016)
 7. Philosophy of C.S. Lewis  (upper division, Fall 2016)
 8. Virtue Ethics and Wisdom   (upper division, Spring 2016)
-9. Introduction to Philosophy (2014-2017)  \newline
+9. Introduction to Philosophy (2014-2017)     
 
 
 *Biola University, La Mirada, CA*  
@@ -136,7 +136,7 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 2. F2015 &nbsp;&nbsp;  Metaethics (Dissertation residency). David Bradshaw. 
 5. S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study). David Bradshaw. 
 6. F2014 &nbsp;&nbsp;  MacIntyre and After Virtue (Independent study). David Bradshaw. 
-8. F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.   \newline
+8. F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.      
 
 
 
@@ -146,14 +146,14 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 10. S2014 &nbsp;&nbsp;  Seminar on Plato's *Philebus* and Timaeus. Eric Sanday. 
 11. S2013 &nbsp;&nbsp;  Seminar on Plato’s *Parmenides*. Eric Sanday.
 12. S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.
-13. F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.   \newline  
+13. F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.        
 
 *Philosophy of Mind*    
 
 14. F2013 &nbsp;&nbsp;  Seminar on Mind and Imagination. Clare Batty.
 15. S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland (Biola).
 16. F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.
-17. F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.  \newline 
+17. F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.      
 
 *Professional Development*  
 
@@ -164,7 +164,7 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 
 20. S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.
 19. F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.
-20. F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland (Biola).   \newline
+20. F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland (Biola).      
 
 
 
