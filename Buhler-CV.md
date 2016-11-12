@@ -4,9 +4,11 @@ permalink: /cv/
 --- 
 
 
-#### [Download PDF](/Buhler-CV.pdf)
+#### [Abbreviated CV -- PDF](/Buhler-CV.pdf)
 
 <center>
+<h1>Curriculum Vitae 2016 (Brief)</h1>   
+
 <h1>Keith Buhler</h1>   
 
 <p> Department of Philosophy   </p>
@@ -35,19 +37,11 @@ B.A.&nbsp;&nbsp; Humanities, Biola University, 2004
 Title: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics*       
 Committee: David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger     
 
-### AREA OF SPECIALIZATION
-Ethics
+### RESEARCH
+*Specialization*: Ethics  
+*Competence*: Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics      
 
-### AREAS OF COMPETENCE
-Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics      
-
-
-### WORKS IN PROGRESS
-1. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (submitted for initial review)
-2. "The Case for Agnosticism about Causal Closure" (submitted for initial review)
-
-
-### PRESENTATIONS
+### CONFERENCE TALKS
 
 1. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 2. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*”,  Faith and Film Conference, Baylor University, 2014.
@@ -58,10 +52,7 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 
 
 
-
-
-
-### UNIVERSITY TEACHING 
+### TEACHING 
 
 *University of Kentucky, Lexington KY*   
 
@@ -124,52 +115,6 @@ Philosophy of Mind, Ancient Philosophy, Philosophy of Religion, Bioethics
 10. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
 
 
-
-### COURSEWORK 
-
-*Ethics*  
-
-1. S2016  &nbsp;&nbsp;  Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.
-3. F2015 &nbsp;&nbsp;  Seminar on Metaethics and Motivation. Anita Superson. 
-4. S2014 &nbsp;&nbsp;  Seminar on Ethics and Bodily Autonomy. Anita Superson. 
-7. S2013 &nbsp;&nbsp;  Seminar on Metaethics and Normative Language. Tim Sundell. 
-2. F2015 &nbsp;&nbsp;  Metaethics (Dissertation residency). David Bradshaw. 
-5. S2014 &nbsp;&nbsp;  Ethical Naturalism (Independent study). David Bradshaw. 
-6. F2014 &nbsp;&nbsp;  MacIntyre and After Virtue (Independent study). David Bradshaw. 
-8. F2012 &nbsp;&nbsp;  Ethics from Hobbes to Feminism. Anita Superson.      
-
-
-
-*Ancient Philosophy* 
-
-9. S2016 &nbsp;&nbsp;  Seminar on Plato's Forms and the Death of Gods (audit). Eric Sanday
-10. S2014 &nbsp;&nbsp;  Seminar on Plato's *Philebus* and Timaeus. Eric Sanday. 
-11. S2013 &nbsp;&nbsp;  Seminar on Plato’s *Parmenides*. Eric Sanday.
-12. S2013 &nbsp;&nbsp;  Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.
-13. F2012 &nbsp;&nbsp;  Ancient Greek Metaphysics. Eric Sanday.        
-
-*Philosophy of Mind*    
-
-14. F2013 &nbsp;&nbsp;  Seminar on Mind and Imagination. Clare Batty.
-15. S2009 &nbsp;&nbsp;  Philosophy of Mind. JP Moreland (Biola).
-16. F2012 &nbsp;&nbsp;  Seminar on Kantian Idealism. Stefan Bird-Pollan.
-17. F2013 &nbsp;&nbsp;  Seminar on Metaphysical Naturalism. David Bradshaw.      
-
-*Professional Development*  
-
-18. F2016 &nbsp;&nbsp;  Preparing Future Faculty, Morris Grubbs.
-19. F2012 &nbsp;&nbsp; Proseminar on Teaching Philosophy, David Bradshaw.
-
-*Other*  
-
-20. S2013 &nbsp;&nbsp;  Philosophy of Religion. David Bradshaw.
-19. F2013 &nbsp;&nbsp;  Symbolic Logic. Tim Sundell.
-20. F2008 &nbsp;&nbsp;  Metaphysics of Substance and Property. JP Moreland (Biola).      
-
-
-
-
-
 ### LANGUAGES
 Reading proficiency in Ancient Greek  
 Speaking fluency in Spanish  
@@ -180,16 +125,6 @@ Basic LaTex and Markdown
 Torrey Honors Institute (Academic Honors Society) 2004-present    
 American Philosophical Association, 2014-present      
 International Society for MacIntyrean Enquiry, 2015-present      
-
-### DISSERTATION ABSTRACT
-
-*Becoming What We Are: Virtue and Practical Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics*   
-
-This dissertation defends and augments the ethical naturalism of Philippa Foot against that of John McDowell. Foot and McDowell are united in the affirmation that virtue is 'natural goodness' for human beings. They are also united in endorsing scientific naturalism.  Nevertheless, they are divided in their rival conceptions of 'nature.' I defend Foot's view of natural goodness by appealing to "generic propositions," a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. Human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an "external" scientific point of view as well as from an "internal" ethical point of view. 
-
-I also articulate neo-Aristotelian accounts of virtue and practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil in every action they undertake. In short, virtue and  practical wisdom are natural ends for human beings. Even on scientific naturalism, what we are partially determines what we are to become: since we are practical rational animals capable of reasoning, we ought to become practically wise, despite varying abilities and life circumstances. 
-
-While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
 
 
 
