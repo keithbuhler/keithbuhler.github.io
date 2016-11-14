@@ -198,12 +198,12 @@ F       Nov-11  Discussion
 **Week 13 Employee Rights**  
 M       Nov-14  Discrimination, Affirmative Action, and Diversity 535-549  (Group 3)  
 W       Nov-16  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
-F       Nov-18  Whistle-Blowing, Moral Integrity 563-580  (Group 5)   **Exam 2**
+F       Nov-18  Whistle-Blowing, Moral Integrity 563-580  (Group 5); and 581-602  (Group 6)   
 
 **Week 14 Employee Rights**  
-M       Nov-21  Whistle-Blowing, Moral Integrity 581-602  (Group 6)  
-W       Nov-23  *Thanksgiving Break*  
-F       Nov-25  *Thanksgiving Break*  
+M       Nov-21  No class **Exam 2 online**  
+W       Nov-23  *Thanksgiving Break*   
+F       Nov-25  *Thanksgiving Break*   
 
 **Week 15 Safety**  
 M       Nov-28  Environmental Ethics and Business  (Group 7)  

@@ -11,6 +11,7 @@ Being a professional academic is not for everyone. Is it for you?
 * [The Leiter Report](http://leiterreports.typepad.com/) is a great blog for many aspects of the profession.
 * [Phil Events](http://philevents.org/) helps you find upcoming conferences on interesting themes.
 * [Phil Jobs](http://philjobs.org/) helps you scope out the job market in academic philosophy.
+* [US Bureau of Labor Statistics on how philosophers average $75k per year.](http://www.bls.gov/oes/current/oes251126.htm)
 * [What it's like to be a woman in philosophy](https://beingawomaninphilosophy.wordpress.com/) collects stories of the good, and the bad. 
 * [Why women stay (or leave) philosophy](http://quod.lib.umich.edu/p/phimp/3521354.0016.006/1) A case that the philosophical field is sexist.
 * [Does philosophy have a woman problem?](http://heterodoxacademy.org/2016/07/22/does-philosophy-have-a-woman-problem/) A feminist and female philosopher makes the case that philosophical field is not sexist. 
