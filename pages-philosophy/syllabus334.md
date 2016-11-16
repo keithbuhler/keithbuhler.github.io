@@ -201,12 +201,12 @@ W       Nov-16  Discrimination, Affirmative Action, and Diversity 550-563  (Grou
 F       Nov-18  Whistle-Blowing, Moral Integrity 563-580  (Group 5); and 581-602  (Group 6)   
 
 **Week 14 Employee Rights**  
-M       Nov-21  No class **Exam 2 online**  
+M       Nov-21  *Thanksgiving Break*   
 W       Nov-23  *Thanksgiving Break*   
 F       Nov-25  *Thanksgiving Break*   
 
 **Week 15 Safety**  
-M       Nov-28  Environmental Ethics and Business  (Group 7)  
+M       Nov-28  Environmental Ethics and Business  (Group 7)  **Unit Paper 3 Due at midnight -- see instructions online**  
 W       Nov-30  The Mirage of Product Safety  (Group 8)  
 F       Dec-2   Discussion
 

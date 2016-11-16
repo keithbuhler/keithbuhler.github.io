@@ -117,9 +117,8 @@ Committee: David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kight
 
 ### LANGUAGES
 Reading proficiency in Ancient Greek  
-Speaking fluency in Spanish  
-Basic HTML and CSS
-Basic LaTex and Markdown
+Speaking fluency in Spanish    
+Basic HTML, CSS, and LaTex   
 
 ### AFFILIATIONS
 Torrey Honors Institute (Academic Honors Society) 2004-present    
@@ -136,7 +135,7 @@ International Society for MacIntyrean Enquiry, 2015-present
 | University of Kentucky, 1415 Patterson, Lexington KY.                 | 6000 Dale Carnegie Lane Houston, TX.                       |
 |  [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832.975.7075        |
 |                                                             |                                                                    |
-| Stefan Bird-Pollan, Professor of Philosophy                    | Chris Bounds, Chair, Philosophy and Religion                      |
+| Dan Breazeale, Professor of Philosophy                    | Chris Bounds, Chair, Philosophy and Religion                      |
 | University of Kentucky, 1417 Patterson, Lexington KY.          | Asbury University, One Macklem Drive, Wilmore KY.                 |
-| [stefanbirdpollan@uky.edu](emailto:stefanbirdpollan@uky.edu) / 859.257.4376 | [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859.257.7109. |
+| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859.257.7109. |
 
