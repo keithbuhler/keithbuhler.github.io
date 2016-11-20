@@ -20,27 +20,27 @@ http://www.keithbuhler.com
 2. Health Care Ethics (x2, upper level 30 students)
 3. Introduction to Philosophy (x2, 30 students)
 4. Ethics (x4, 30 students)
-5. Logic (x2, 30 students)\newline
+5. Logic (x2, 30 students)
 
 *Asbury University, Wilmore KY*  
 
 6. Philosophy of Religion (upper level, independent study)
 7. Philosophy of C.S. Lewis (upper level, 6 students)
 8. Virtue Ethics and Wisdom (upper level, 8 students)
-9. Introduction to Philosophy (x6, 40 students)\newline
+9. Introduction to Philosophy (x6, 40 students)
 
 *Courses Taught as Teaching Assistant, University of Kentucky*
 
-10. Logic (x2, 30 students)\newline
+10. Logic (x2, 30 students)
 
 *Courses Taught as Teaching Assistant, Biola University*  
 
-11. Philosophy of Science (20 students)\newline
+11. Philosophy of Science (20 students)
 
 
 ## Student Evaluation Data 
 
-The following charts provide a representative selection of quantitative student evaluation scores from five courses I've taught at Asbury University and the University of Kentucky over the last several years.  Complete statistical information is available upon request. \newline
+The following charts provide a representative selection of quantitative student evaluation scores from five courses I've taught at Asbury University and the University of Kentucky over the last several years.  
 
 
 ### Health Care Ethics, Spring 2016, University of Kentucky

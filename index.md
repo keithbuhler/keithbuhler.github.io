@@ -11,9 +11,9 @@ author_profile: true
 
 I am currently a postdoc at the University of Kentucky, where I completed my PhD in philosophy in 2016. 
 
-My primary research centers on virtue ethics. Specifically, I investigate concepts such as practical reason, nature, and 'natural reasoning.' For example, what does it mean to assert that virtue is 'natural' for human beings? Can ethical knowledge be (or be like) scientific knowledge? I address such questions in dialogue with both religious and secular thinkers. In addition to ethics, I have long-standing interests in philosophy of mind, Plato and Aristotle, and interdisciplinary interests in bioethics and the philosophy of biology. 
+I've been an educator for more than nine years. At public research universities, private liberal arts universities, and classical high schools, I've helped successfully helped learners of all ages, backgrounds, and beliefs to practice "the art of liberation." Reading ancient, medieval, modern, and contemporary works from a variety of disciplines helps us to transcend or our place and time and aim for timeless insights. 
 
-In the classroom, I've successfully helped learners to practice "the art of liberation" for more than 10 years at public research universities, private liberal arts universities, and classical high schools. 
+My main research project attempts to find contemporary answers to ancient questions such as: what is a human being? What is a *good* human being? Is the happy life a rational life? Answering these primary questions requires rethinking the relation between facts and values, or between nature and normativity: does science have anything to contribute to ethics? Is ethics a science? To answer these questions, I dialogue with both religious and secular thinkers. I also have long-standing interests in philosophy of mind, Plato and Aristotle, and philosophy of religion. 
 
 You can read [more about me here](/about). Alternatively, you can [peruse my curriculum vitae,](/cv) explore my [courses](/teaching) and [research.](/research) 
 
