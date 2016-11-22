@@ -18,3 +18,6 @@ My main research project attempts to find contemporary answers to ancient questi
 You can read [more about me here](/about). Alternatively, you can [peruse my curriculum vitae,](/cv) explore my [courses](/teaching) and [research.](/research) 
 
 Students are invited to enter the [Student Portal.](/students) 
+
+Contact: 562 23O - 292O  
+Email: keithedbuhler at gmail
