@@ -39,6 +39,6 @@ ABSTRACT: This dissertation is about ethical naturalism. I defend and bolster Ph
 
 ### LINK
 
-Feel free to read or peruse and send me your comments. Please do not cite or distribute this draft without permission. 
+Feel free to read or peruse this PDF and send me your comments. Please do not cite or distribute this draft without permission. 
 
-[Becoming What We Are: Virtue and Wisdom as Natural Ends in Recent Neo-Aristotelian Ethics (PDF)](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)
+[Becoming What We Are: Virtue and Wisdom as Natural Ends](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)
