@@ -227,11 +227,11 @@ F       Nov-25  Thanksgiving
 Week 15  
 M       Nov-28  Perelandra 11-15        
 W       Nov-30  Perelandra 16-17        
-F       Dec-2   Weight of Glory 
+F       Dec-2   [Solaryis (film)](https://www.youtube.com/watch?v=GG9Anstjlro) part 1 
 
 Week 16   
-M       Dec-5   Solaryis (film) Final papers due   
-W       Dec-7            
+M       Dec-5   [Solaryis part 2](https://www.youtube.com/watch?v=GG9Anstjlro&feature=youtu.be), Final papers due   
+W       Dec-7   Solaryis part 2         
 
 
 
