@@ -3,7 +3,7 @@ layout: philosophy
 permalink: /syllabusfpa
 ---
 
-### [**Spring 2017 Syllabus**](/pages-philosophy/syllabusfpa.pdf)   
+### [**Spring 2017 Syllabus**](/pages-philosophy/syllabus-fpa.pdf)   
 ### Philosophy & Rhetoric, Semester 2 -- Introduction to Philosophy
 **Freedom Project Academy**    
 **Instructor: Keith Buhler**   

@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Syllabus S2016 PHL 293 Syllabus
-permalink: /syllabus-S2016-293-wisdom
+permalink: /syllabus293wisdom
 ---
 
 ## [Syllabus, Spring 2016](/pages-philosophy/syllabus-S2016-293-wisdom.pdf)
