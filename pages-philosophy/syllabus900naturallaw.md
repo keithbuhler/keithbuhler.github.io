@@ -10,21 +10,31 @@ permalink:
 **Office Hours:** TBA
 
 
-### Readings
+### Textbooks and Handouts
 
-1. 
-2. 
-3. 
-
-
-### [Handouts](https://drive.google.com/folderview?id=0B0CYQDZ8AWu8c1VxY1ZkelhHdms&usp=sharing) ###
-
+10. John Finnis, *Natural Law and Natural Rights*
+13. Robert George,  *In Defence of Natural Law.* 
+14. Mark Murphy, *God and Moral Law*
+15. Philippa Foot, *Natural Goodness*
+16. HLA Hart, *The Concept of Law*
+1. Bible (selections) 
+2. Plato, Laws (selections)
+3. Iris Murdoch, "The Sovereignty of Good Over Other Concepts"
+4. Aristotle, Nicomachean Ethics V
+5. Aristotle, *Rhetoric*
+6. Aquinas, Summa Theologiae (selections)
+7. Anscombe, "Modern Moral Philosophy"
+8. Finnis et al., “Practical Principles, Moral Truth, and Ultimate Ends.” American Journal of Jurisprudence 32 (1987): 99–151.
+12. Grisez, ["First Principle of Practical Reason"](http://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1106&context=nd_naturallaw_forum)
+13. Buhler, "Practical Rational Primates" (selections)
+14. Foot, *Natural Goodness* (selections)
 
 *(Readings are subject to change slightly to suit the needs of the semester.)*
 
 
 ### Course Description: 
 
+Natural law is one of the oldest and most influential theories of morality and of law. 
 
 ### Course Goals: 
 
@@ -158,12 +168,10 @@ Robert George,  *In Defence of Natural Law.* Oxford: Clarendon Press, 1999.
 
 **Unit 4: Contemporary: Natural Law and Human Nature**
 
-Suarez
 Buhler, "Practical Rational Primates" (selections)
 Foot, *Natural Goodness* (selections)
 
 **Unit 5: Contemporary: Natural Law and Human Nature**
-
 
 H.L.A Hart, 
 Mark Murphy
