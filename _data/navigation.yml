@@ -1,26 +1,24 @@
 #Main links
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: http://keithbuhler.com/about
-  - title: "Research"
+  - title: "RESEARCH"
     url: http://keithbuhler.com/research
-  - title: "Teaching"
+  - title: "TEACHING"
     url: http://keithbuhler.com/teaching
-  - title: "For Students"
+  - title: "FOR STUDENTS"
     url: http://keithbuhler.com/students
 
 phil:
-  - title: "For My Students"
-    url: http://www.keithbuhler.com/syllabi
-  - title: "Succeeding"
+  - title: "SUCCEEDING"
     url: http://www.keithbuhler.com/philosophy-class
-  - title: "Major?"
+  - title: "MAJORING"
     url: http://www.keithbuhler.com/philosophy-3-major
-  - title: "Grad School?"
+  - title: "GRAD SCHOOL"
     url: http://www.keithbuhler.com/philosophy-7-profession
-  - title: "What's Next?"
+   - title: "SYLLABI"
+    url: http://www.keithbuhler.com/syllabi
+  - title: "NEXT"
     url: http://www.keithbuhler.com/philosophy-6-next
-  - title: "More Resources"
+  - title: "RESOURCES"
     url: http://www.keithbuhler.com/philosophy-resources
-  - title: "About"
-    url: http://www.keithbuhler.com/
