@@ -136,6 +136,10 @@ body:hover .visually-hidden a,body:hover .visually-hidden input,body:hover .visu
 .social-icons .fa-vine{color:#00bf8f}
 .social-icons .fa-youtube,.social-icons .fa-youtube-square,.social-icons .fa-youtube-play{color:#b00}
 .social-icons .fa-xing,.social-icons .fa-xing-square{color:#006567}
+.navicon{position:relative;width:28px;height:4px;background:#fff;margin:auto;-webkit-transition:0.3s;transition:0.3s}
+.navicon:before,.navicon:after{content:"";position:absolute;left:0;width:28px;height:4px;background:#fff;-webkit-transition:0.3s;transition:0.3s}
+.navicon:before{top:-8px}
+.navicon:after{bottom:-8px}
 .close .navicon{background:transparent}
 .close .navicon:before,.close .navicon:after{-webkit-transform-origin:50% 50%;transform-origin:50% 50%;top:0;width:28px}
 .close .navicon:before{-webkit-transform:rotate3d(0, 0, 1, 45deg);transform:rotate3d(0, 0, 1, 45deg)}
