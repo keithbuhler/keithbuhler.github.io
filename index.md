@@ -15,7 +15,7 @@ I've been an educator for more than nine years. At public research universities,
 
 My main research project attempts to find contemporary answers to ancient questions such as: what is a human being? What is a *good* human being? Is the happy life a rational life? Answering these primary questions requires rethinking the relation between facts and values, or between nature and normativity: does science have anything to contribute to ethics? Is ethics a science? To answer these questions, I dialogue with both religious and secular thinkers. I also have long-standing interests in philosophy of mind, Plato and Aristotle, and philosophy of religion. 
 
-You can read [more about me here](/about). Alternatively, you can [peruse my curriculum vitae,](/cv) explore my [courses](/teaching) and [research.](/research) 
+You can read [more about me here](/about). Alternatively, you can explore my [courses](/teaching) and [research.](/research) 
 
 Students are invited to enter the [Student Portal.](/students) 
 
