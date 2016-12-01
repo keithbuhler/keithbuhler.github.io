@@ -3,37 +3,69 @@ title: Syllabus
 permalink: 
 ---
 
-## [PHI 500 Natural Law Ethics - Syllabus ](/)
+### Critical Thinking
 **Instructor**: Keith Buhler   
-**Email**: [keithedbuhler@gmail.com](emailto:keith.buhler@uky.edu)   
-**Twitter**: keith_buhler  
-**Office Hours:** TBA
+**Email**: [keithedbuhler@gmail.com](emailto:keithedbuhler@gmail.com)   
+**Office Hours**: TBA
 
 
 ### Readings
 
 1. *With Good Reason*, Morris Engel
 2. *Socratic Logic*, Peter Kreeft
-3. *
-
+3. *Asking the Right Questions*, Brown and Keeley
 
 
 ### Course Description: 
 
+Everyone thinks and makes decisions every day. However, we all make mistakes. Some mistakes are easy to avoid, but others are much more difficult to avoid. Critical thinking is a set of skills that help one to avoid errors in thinking and in life. For example, it includes the skill of noticing why you believe what you believe and why others believe what they do; and of examining the evidence for or against a belief, including assessing the sources of information or evidence you use. 
+
+This course is designed to give you a lot of practice in thinking critically about a variety of topics. You will learn new concepts from logic, science, statistics, and rhetoric while putting them to use in analyzing arguments and making your own.
+
 
 ### Course Goals: 
 
-Our overriding goals are:
-
-* To become familiar with the history of and various meanings of the terms 'natural law';
-* To analyze dominant accounts of natural law from Stoics, Thomists, and contemporary thinkers both religious and secular
-* To analyze recent Anglo-American accounts of virtue in Philippa Foot, Peter Geach, Rosalind Hursthouse, and others. 
-* To compare and contrast Biblical models of virtue with others; 
+* To become familiar key terms such as argument, validity, conclusion, and premise
+* To critically analyze arguments from advertising, politics, philosophy, literature, and everyday conversation 
+* To learn to ask good questions about our own lives, our decisions, our beliefs, our goals, and our sources of information or evidence
+* To compare and contrast the evidence for a variety of current controversies
 
 ### Sequence:
 
 To accomplish these goals, this 16-week course is divided into into 5 units.  Unit work consists of three components: (a) readings and class preparation (b) participation in interactive lectures and discussion, and (c) disputation papers. 
 
+### Outline:
+
+Unit 1: Asking the Right Questions
+
+1. Syllabus. Right Answers, Right Questions
+2. Issue and Conclusion
+3. Reasons and Structured Arguments
+
+Unit 2: Fallacies
+
+4. Ambiguity
+5. Facts and Values
+6. Unfair arguments -- Assumption, Ad Hominem, Non Sequitur
+
+Unit 3: Evidence
+
+7. Intuition and Authority
+8. Observation and Science
+9. Analogies
+
+Unit 4: Information
+
+10. Rival Causes, Explanations
+11. Statistics
+12. Missing Information
+
+Unit 5: Reasonable Conclusions
+
+13. Multiple Conclusions
+14. Application: Thinking critically about God 
+15. Application: Thinking critically about Climate Change
+16. Finals week and projects
 
 
 
@@ -41,9 +73,10 @@ To accomplish these goals, this 16-week course is divided into into 5 units.  Un
 
 The class work consists of four components: reading, participating, and writing. You will be graded on each component.
 
-Reading                 25%  
-Participation           25%  
-Disputation Papers      50%   
+Reading                 25%   
+Participation           25%   
+Quarter Tests           25%  
+Final Exam              25%     
 
 I typically do not round up. So 89.5 is a “B”
 
@@ -57,17 +90,7 @@ D  = 69% - 60%   |  F  < 59%
 
 ### Reading
 
-The primary work if this class will be to read, understand, and critique these books and articles. This course is inspired by the “Great Books” approach. I am aware that reading primary sources can be more challenging than a textbook; it is also more rewarding. As this is an upper division course, you should plan to be reading about 3-4 hours a week. Read well. Read every assignment entirely. Skimming is sometimes necessary, but don’t skim every week.  
-
-* Read ahead. 
-* Give yourself enough time to read carefully. You will get better and faster. 
-* *Try to understand* the book. What is the author’s key terms? The author’s main point? 
-* Dialogue with the book before class. Take notes. Email me. Talk with each other. Talk with other friends. Process your thoughts. 
-* Take notes on: Is the author correct? What confused you? What questions did you have? What does the book mean?
-* The two most important questions for each reading 1. What is the main truth claim? 2. What is the evidence?
-* Pay attention to what confuses you and what you disagree with. Bring your questions to class.
-* Don’t read the introduction for the book (which is often more confusing than the book). If you do want to read it, read it after reading the primary source — that may help. 
-* Use things like Sparknotes sparingly. I want you to have your own encounter with the text. Get your own first impression. Sparknotes can pretty useful but don’t rely on it and only read it after reading the primary source.
+The primary work if this class will be to do the readings, exercises, and participate in class. Think critically as you read -- that's why we're here!
 
 ### Quizzes
 Short reading quizzes will be posted online. They are due before class and assess whether you finished the reading. 
@@ -75,24 +98,19 @@ Short reading quizzes will be posted online. They are due before class and asses
 ### Attendance:
 We need you here! Attendance is mandatory. Roll will be taken each class. (Being repeatedly or egregiously late will count as an absence.) 1 to 3 unexcused absences are freebies — no credit lost. 4 or more unexcused absences cause bigger and bigger deductions from your participation grade. (6 is a letter grade) You are paying for this education including this class, so why wouldn’t you make the most of it?  
 
-### Participation through dialogue/writing:
+### Participation
 
-This is a dialogue-oriented class. Every person is responsible to participate.  Participation in this class takes two forms: discussing (external processing) and writing (internal processing). Everyone will participate in these two ways. Class discussions will be lead by me and by students. Everyone will lead the discussion about 1-2 during the semester. 
+This is a dialogue-oriented class. Every person is responsible to participate. Some may wish to prepare comments to share in class while others may wish to write in the online forum. Either way, a discussion is more than just sharing opinions; it is a friendly, eager, sincere search for truth. We can't judge each other, but we must judge each other's opinions, and test them for truth. We discuss because it is more interesting; it helps us retain the information; it challenges our own viewpoint.
 
-Everyone will write short, argumentative synthesis papers. These will be assigned throughout the semester. That said, you get to pick your emphasis. Are you an internal or external processor?  *Writing Emphasis:* If you want to emphasize writing, to earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+### Quarter Tests
 
-*Speaking Emphasis:* If you want to emphasize talking, you will be on my “go to” team to talk in class (instead of posting reflections after class).  
+There are tests at about the first month and third month. These will assess your mastery of key concepts and your ability to put critical thinking skills into action. The study guides will be posted online. 
 
-Everyone starts at an 80% for the discussion grade; you can move up from there or down, depending on whether you speak or write once per week, pay attention, and offer helpful contributions.
+### Final Exam
 
-Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs. 
-
-A discussion is more than just sharing opinions; it is a friendly, eager, sincere search for truth. We can't judge each other, but we must judge each other's opinions, and test them for truth. We discuss because it is more interesting; it helps us retain the information; it challenges our own viewpoint; and because philosophy itself is a dialogue. Discussion ground rules are posted online. 
+The final exam is cumulative. It will consist of nearly 100 questions, including multiple choice, true/false, and possibly short answer or essay questions from each of our core topics. The study guide will be posted online. 
 
 
-
-### Philosophical Disputation Papers: 
-At midterm and end of term, you will write a philosophical paper arguing a thesis and defending it against objections. Each paper is worth 25% of the semester grade. The instructions for these assignments are online.
 
 ### Miscellany
 1. **Bring your** textbook every day. 
@@ -106,42 +124,3 @@ At midterm and end of term, you will write a philosophical paper arguing a thesi
 7. **Make up work** is not accepted after the due date. It must be submitted within a week of an excused absence, with written consent. Let me know if you are going to be absent for any reason.
 9. **Enjoy philosophy**. We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it. 
 8. **Plagiarism**. Even unintentional plagiarism earns a zero for the assignment and, in intentional or egregious cases, failing the course and receiving a permanent mark on your academic record. You’ll submit your papers to SafeAssign on Blackboard to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. 
-
-
-
-### Outline 
-
-*(Outline subject to revisions due to snow days, instructor sickness, academic conferences, etc.)*
-
-<iframe src="https://docs.google.com/spreadsheets/d/17hB4AAS_K7T2vTSn19IXTowU73UFUP_WMnvDWy23fGY/pubhtml?widget=true&amp;headers=false" width="1000" height="1000"></iframe>
-
-Week 1: What is critical thinking?
-
-Week 2: Claims, issues, and arguments
-
-Week 3: Argument structure
-
-Week 4: Ways to be imprecise
-
-Week 5: Evaluating claims
-
-Week 6: Arguing fairly
-
-Week 7: Informal fallacies
-
-Week 8: Review
-
-Week 9: Midterm
-
-Week 10: Consistency and contradiction
-
-Week 11: Deductive logic
-
-Week 12: Explanations
-
-Week 13: Inductive Arguments
-
-Week 14: Scientific reasoning
-
-Week 15: Review for the final exam
-

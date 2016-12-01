@@ -7,7 +7,6 @@
 
 /* other fonts to consider: PT Sans Pro Bold for headings, Shannon Holzer; Maisee light Paulosophia */
 
-
 a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px}
 *,
 *:before,*:after{box-sizing:border-box}
@@ -41,7 +40,7 @@ label,select,button,input[type="button"],input[type="reset"],input[type="submit"
 input[type="search"]{box-sizing:content-box;-webkit-appearance:textfield}
 input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none}
 textarea{overflow:auto;vertical-align:top}
-body{margin:0;padding:0;color:#303336;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;line-height:1.5}
+body{margin:0;padding:0;color:#303336;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;line-height:1.5}
 body.overflow--hidden{overflow:hidden}
 h1,h2,h3,h4,h5,h6{margin:2em 0 0.5em;line-height:1.2;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
 h1{margin-top:0;font-size:1.763em}
@@ -50,6 +49,7 @@ h3{font-size:1.25em}
 h4{font-size:1em}
 h5{font-size:0.75em}
 h6{font-size:0.75em}
+
 small,.small{font-size:0.75em}
 p{margin-bottom:1.3em}
 u,ins{text-decoration:none;border-bottom:1px solid #303336}
@@ -69,7 +69,7 @@ p>code:before,p>code:after,a>code:before,a>code:after,li>code:before,li>code:aft
 hr{display:block;margin:1em 0;border:0;border-top:1px solid #f2f3f3}
 ul li,ol li{margin-bottom:0.5em}
 li ul,li ol{margin-top:0.5em}
-figure{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:2em 0}
+figure{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:flex-end;-ms-flex-pack:justify;justify-content:flex-end;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:2em 0}
 figure img,figure iframe,figure .fluid-width-video-wrapper{margin-bottom:1em}
 figure img{width:100%;border-radius:4px;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out}
 figure>a{display:block}
@@ -95,7 +95,7 @@ b,i,strong,em,blockquote,p,q,span,figure,img,h1,h2,header,input,a,tr,td,form but
 .visually-hidden,.screen-reader-text,.screen-reader-text span,.screen-reader-shortcut{position:absolute !important;clip:rect(1px, 1px, 1px, 1px);height:1px !important;width:1px !important;border:0 !important;overflow:hidden}
 body:hover .visually-hidden a,body:hover .visually-hidden input,body:hover .visually-hidden button{display:none !important}
 .screen-reader-text:focus,.screen-reader-shortcut:focus{clip:auto !important;height:auto !important;width:auto !important;display:block;font-size:1em;font-weight:bold;padding:15px 23px 14px;background:#fff;z-index:100000;text-decoration:none;box-shadow:0 0 2px 2px rgba(0,0,0,0.6)}
-.skip-link{position:fixed;z-index:20;margin:0;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;white-space:nowrap}
+.skip-link{position:fixed;z-index:20;margin:0;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;white-space:nowrap}
 .skip-link li{height:0;width:0;list-style:none}
 .text-left{text-align:left}
 .text-center{text-align:center}
@@ -160,13 +160,13 @@ a.reversefootnote:hover{text-decoration:underline}
 @keyframes intro{0%{opacity:0}
 100%{opacity:1}
 }
-table{margin-bottom:1em;width:100%;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;border-collapse:collapse;border:1px solid #bdc1c4}
+table{margin-bottom:1em;width:100%;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em;border-collapse:collapse;border:1px solid #bdc1c4}
 table+table{margin-top:1em}
 thead{background-color:#f2f3f3;border-bottom:1px solid #bdc1c4}
 th{padding:0.5em;font-weight:bold;text-align:left;border-right:1px solid #bdc1c4}
 td{padding:0.5em;border-bottom:1px solid #bdc1c4;border-right:1px solid #bdc1c4}
 tr,td,th{vertical-align:middle}
-.btn,#goog-wm-sb{display:inline-block;margin-bottom:0.25em;padding:0.5em 1em;color:#fff !important;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;font-weight:bold;text-align:center;text-decoration:none;background-color:#7a8288;border:0 !important;border-radius:4px;cursor:pointer}
+.btn,#goog-wm-sb{display:inline-block;margin-bottom:0.25em;padding:0.5em 1em;color:#fff !important;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em;font-weight:bold;text-align:center;text-decoration:none;background-color:#7a8288;border:0 !important;border-radius:4px;cursor:pointer}
 .btn:hover,#goog-wm-sb:hover{background-color:#333}
 .btn .icon,#goog-wm-sb .icon{margin-right:0.5em}
 .btn .icon+.hidden,#goog-wm-sb .icon+.hidden{margin-left:-0.5em}
@@ -195,7 +195,7 @@ tr,td,th{vertical-align:middle}
 .btn--x-large{font-size:1.25em}
 .btn--large{font-size:1em}
 .btn--small{font-size:0.6875em}
-.notice{margin:2em 0 !important;padding:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em !important;text-indent:initial;background-color:#f8f9f9;border-radius:4px;box-shadow:0 1px 1px rgba(189,193,196,0.25)}
+.notice{margin:2em 0 !important;padding:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em !important;text-indent:initial;background-color:#f8f9f9;border-radius:4px;box-shadow:0 1px 1px rgba(189,193,196,0.25)}
 .notice h4{margin-top:0 !important;margin-bottom:0.75em}
 .page__content .notice h4{margin-bottom:0;font-size:1em}
 .notice p:last-child{margin-bottom:0 !important}
@@ -204,7 +204,7 @@ tr,td,th{vertical-align:middle}
 .notice a:hover{color:#717476}
 .notice code{background-color:#fcfcfc}
 .notice ul:last-child{margin-bottom:0}
-.notice--primary{margin:2em 0 !important;padding:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em !important;text-indent:initial;background-color:#f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(122,130,136,0.25)}
+.notice--primary{margin:2em 0 !important;padding:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em !important;text-indent:initial;background-color:#f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(122,130,136,0.25)}
 .notice--primary h4{margin-top:0 !important;margin-bottom:0.75em}
 .page__content .notice--primary h4{margin-bottom:0;font-size:1em}
 .notice--primary p:last-child{margin-bottom:0 !important}
@@ -213,7 +213,7 @@ tr,td,th{vertical-align:middle}
 .notice--primary a:hover{color:#494e52}
 .notice--primary code{background-color:#f8f9f9}
 .notice--primary ul:last-child{margin-bottom:0}
-.notice--info{margin:2em 0 !important;padding:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em !important;text-indent:initial;background-color:#eef7fa;border-radius:4px;box-shadow:0 1px 1px rgba(82,173,200,0.25)}
+.notice--info{margin:2em 0 !important;padding:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em !important;text-indent:initial;background-color:#eef7fa;border-radius:4px;box-shadow:0 1px 1px rgba(82,173,200,0.25)}
 .notice--info h4{margin-top:0 !important;margin-bottom:0.75em}
 .page__content .notice--info h4{margin-bottom:0;font-size:1em}
 .notice--info p:last-child{margin-bottom:0 !important}
@@ -222,7 +222,7 @@ tr,td,th{vertical-align:middle}
 .notice--info a:hover{color:#316878}
 .notice--info code{background-color:#f6fbfc}
 .notice--info ul:last-child{margin-bottom:0}
-.notice--warning{margin:2em 0 !important;padding:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em !important;text-indent:initial;background-color:#fef4e6;border-radius:4px;box-shadow:0 1px 1px rgba(248,148,6,0.25)}
+.notice--warning{margin:2em 0 !important;padding:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em !important;text-indent:initial;background-color:#fef4e6;border-radius:4px;box-shadow:0 1px 1px rgba(248,148,6,0.25)}
 .notice--warning h4{margin-top:0 !important;margin-bottom:0.75em}
 .page__content .notice--warning h4{margin-bottom:0;font-size:1em}
 .notice--warning p:last-child{margin-bottom:0 !important}
@@ -231,7 +231,7 @@ tr,td,th{vertical-align:middle}
 .notice--warning a:hover{color:#955904}
 .notice--warning code{background-color:#fffaf3}
 .notice--warning ul:last-child{margin-bottom:0}
-.notice--success{margin:2em 0 !important;padding:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em !important;text-indent:initial;background-color:#eff9ef;border-radius:4px;box-shadow:0 1px 1px rgba(98,196,98,0.25)}
+.notice--success{margin:2em 0 !important;padding:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em !important;text-indent:initial;background-color:#eff9ef;border-radius:4px;box-shadow:0 1px 1px rgba(98,196,98,0.25)}
 .notice--success h4{margin-top:0 !important;margin-bottom:0.75em}
 .page__content .notice--success h4{margin-bottom:0;font-size:1em}
 .notice--success p:last-child{margin-bottom:0 !important}
@@ -240,7 +240,7 @@ tr,td,th{vertical-align:middle}
 .notice--success a:hover{color:#3b763b}
 .notice--success code{background-color:#f7fcf7}
 .notice--success ul:last-child{margin-bottom:0}
-.notice--danger{margin:2em 0 !important;padding:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em !important;text-indent:initial;background-color:#fdefef;border-radius:4px;box-shadow:0 1px 1px rgba(238,95,91,0.25)}
+.notice--danger{margin:2em 0 !important;padding:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em !important;text-indent:initial;background-color:#fdefef;border-radius:4px;box-shadow:0 1px 1px rgba(238,95,91,0.25)}
 .notice--danger h4{margin-top:0 !important;margin-bottom:0.75em}
 .page__content .notice--danger h4{margin-bottom:0;font-size:1em}
 .notice--danger p:last-child{margin-bottom:0 !important}
@@ -250,7 +250,7 @@ tr,td,th{vertical-align:middle}
 .notice--danger code{background-color:#fef7f7}
 .notice--danger ul:last-child{margin-bottom:0}
 .masthead{position:relative;border-bottom:1px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.15s;animation-delay:0.15s;z-index:20}
-.masthead__inner-wrap{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;padding:1em 1em 1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;}
+.masthead__inner-wrap{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;padding:1em 1em 1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;}
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
@@ -260,7 +260,8 @@ tr,td,th{vertical-align:middle}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap}
 .masthead__menu-item--lg{padding-right:2em;font-weight:700}
-.breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
+.masthead__menu-item--lg2{padding-right:2em;font-weight:700; float: right}
+.breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
 .breadcrumbs:after{content:" ";display:block;clear:both}
 .breadcrumbs::after{clear:both;content:"";display:table}
 @media (min-width: 64em){.breadcrumbs{padding-left:1em;padding-right:1em}
@@ -276,16 +277,16 @@ tr,td,th{vertical-align:middle}
 .breadcrumbs .current{font-weight:bold}
 .pagination{clear:both;width:100%;float:left;margin-left:0;margin-right:0;clear:both;margin-top:1em;padding-top:1em}
 .pagination::after{clear:both;content:"";display:table}
-.pagination ul{margin:0;padding:0;list-style-type:none;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;}
+.pagination ul{margin:0;padding:0;list-style-type:none;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;}
 .pagination li{display:block;float:left;margin-left:-1px}
-.pagination li a{margin-bottom:0.25em;padding:0.5em 1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:14px;font-weight:bold;line-height:1.5;text-align:center;text-decoration:none;color:#9ba1a6;border:1px solid #bdc1c4;border-radius:0}
+.pagination li a{margin-bottom:0.25em;padding:0.5em 1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:14px;font-weight:bold;line-height:1.5;text-align:center;text-decoration:none;color:#9ba1a6;border:1px solid #bdc1c4;border-radius:0}
 .pagination li a:hover{color:#3e8296}
 .pagination li a.current{color:#fff;background:#7a8288}
 .pagination li a.disabled{color:#bdc1c4;pointer-events:none;cursor:not-allowed}
 .pagination li:first-child{margin-left:0}
 .pagination li:first-child a{border-top-left-radius:4px;border-bottom-left-radius:4px}
 .pagination li:last-child a{border-top-right-radius:4px;border-bottom-right-radius:4px}
-.pagination--pager{display:block;padding:1em 2em;float:left;width:50%;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em;font-weight:bold;text-align:center;text-decoration:none;color:#9ba1a6;border:1px solid #bdc1c4;border-radius:4px}
+.pagination--pager{display:block;padding:1em 2em;float:left;width:50%;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:1em;font-weight:bold;text-align:center;text-decoration:none;color:#9ba1a6;border:1px solid #bdc1c4;border-radius:4px}
 .pagination--pager:hover{color:#3e8296}
 .pagination--pager:first-child{border-top-right-radius:0;border-bottom-right-radius:0}
 .pagination--pager:last-child{margin-left:-1px;border-top-left-radius:0;border-bottom-left-radius:0}
@@ -317,9 +318,9 @@ tr,td,th{vertical-align:middle}
 .nav__list a:hover{text-decoration:underline}
 .nav__list .active{margin-left:-0.5em;padding-left:0.5em;padding-right:0.5em;color:#fff;font-weight:bold;background:#cc7a00;border-radius:4px}
 .nav__list .active:hover{color:#256274}
-.nav__title{margin:0;padding:0.5rem 1rem;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em;font-weight:bold}
-.nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
-.toc{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;color:#7a8288;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
+.nav__title{margin:0;padding:0.5rem 1rem;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:1em;font-weight:bold}
+.nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
+.toc{font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;color:#7a8288;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
 .toc .nav__title{color:#fff;font-size:0.75em;background:#7a8288;border-top-left-radius:4px;border-top-right-radius:4px}
 .toc__menu{margin:0;padding:0;width:100%;list-style:none;font-size:0.8rem}
 .toc__menu a{display:block;padding:0.5rem 1rem;color:#7a8288;font-size:0.6875em;font-weight:bold;line-height:1.5;border-bottom:1px solid #f2f3f3}
@@ -339,9 +340,9 @@ tr,td,th{vertical-align:middle}
 .page__footer a{color:inherit;text-decoration:none}
 .page__footer a:hover{text-decoration:underline; color:#cc7a00}
 .page__footer .fa{color:#9ba1a6}
-.page__footer-copyright{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.6875em}
+.page__footer-copyright{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size: 0.6875em}
 .page__footer-follow ul{margin:0;padding:0;list-style-type:none}
-.page__footer-follow li{display:inline-block;padding-top:5px;padding-bottom:5px;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;text-transform:uppercase}
+.page__footer-follow li{display:inline-block;padding-top:5px;padding-bottom:5px;-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;text-transform:uppercase}
 .page__footer-follow li+li:before{content:"";padding-right:5px}
 .page__footer-follow a{padding-right:10px;font-weight:bold}
 div.highlighter-rouge,figure.highlight{position:relative;margin-bottom:1em;padding:1em;border:1px solid #f2f3f3;border-radius:4px;background-color:#fafafa;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
@@ -424,7 +425,7 @@ btnform p{margin-bottom:5px / 2}
 btnform ul{list-style-type:none;margin:0 0 5px 0;padding:0}
 btnform br{display:none}
 label,input,button,select,textarea{vertical-align:baseline;*vertical-align:middle}
-input,button,select,textarea{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;box-sizing:border-box}
+input,button,select,textarea{font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;box-sizing:border-box}
 label{display:block;margin-bottom:10px / 8;font-weight:bold;color:#494e52;cursor:pointer}
 label input,label textarea,label select{display:block}
 input,textarea,select{display:inline-block;width:100%;padding:4px;margin-bottom:5px / 4;background-color:#fff;border:1px solid #ccc;color:#494e52}
@@ -474,15 +475,15 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page .page__inner-wrap .page__content,.page .page__inner-wrap .page__meta,.page .page__inner-wrap .page__share{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
 .page__title{margin-top:0;line-height:1}
 .page__title+.page__meta{margin-top:-0.5em}
-.page__lead{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1.25em}
+.page__lead{font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:1.25em}
 .page__content h2{padding-bottom:0.5em;border-bottom:1px solid #f2f3f3}
 .page__content p,.page__content li,.page__content dl{font-size:1em}
 .page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}
 .page__content a:hover{color: #256274; text-decoration:underline}
 .page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
-.page__content dt{margin-top:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
-.page__content dd{margin-left:1em;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em}
+.page__content dt{margin-top:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-weight:bold}
+.page__content dd{margin-left:1em;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em}
 .page__content .small{font-size:0.75em}
 .page__content blockquote+.small{margin-top:-1.5em;padding-left:1.25rem}
 .page__hero{position:relative;margin-bottom:2em;clear:both;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
@@ -507,7 +508,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 @media (max-width: 37.5em){.page__share .btn span,.page__share #goog-wm-sb span{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}
 }
 .page__share-title{margin-bottom:10px;font-size:0.75em;text-transform:uppercase}
-.page__meta{margin-top:2em;color:#9ba1a6;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em}
+.page__meta{margin-top:2em;color:#9ba1a6;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em}
 .page__meta p{margin:0}
 .page__meta a{color:inherit}
 .page__meta-title{margin-bottom:10px;font-size:0.75em;text-transform:uppercase}
@@ -598,7 +599,7 @@ a:hover .archive__item-title{text-decoration:underline}
 }
 .sidebar h2,.sidebar h3,.sidebar h4,.sidebar h5,.sidebar h6{margin-bottom:0;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
 .sidebar h3,.sidebar h4{font-size:1em}
-.sidebar p,.sidebar li{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;line-height:1.5}
+.sidebar p,.sidebar li{font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:0.75em;line-height:1.5}
 .sidebar img{width:100%}
 .sidebar__right{margin-bottom:1em}
 @media (min-width: 64em){.sidebar__right{position:relative;float:right;width:200px;margin-left:2.54237%;z-index:10}
@@ -617,11 +618,11 @@ a:hover .archive__item-title{text-decoration:underline}
 .author__name{margin:0}
 @media (min-width: 64em){.author__name{margin-top:10px;margin-bottom:10px}
 }
-.sidebar .author__name{font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em}
+.sidebar .author__name{font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;font-size:1em}
 .author__bio{margin:0}
 @media (min-width: 64em){.author__bio{margin-top:10px;margin-bottom:20px}
 }
-.author__urls-wrapper{position:relative;display:table-cell;vertical-align:middle;font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;z-index:10;position:relative;cursor:pointer}
+.author__urls-wrapper{position:relative;display:table-cell;vertical-align:middle;font-family:'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;z-index:10;position:relative;cursor:pointer}
 .author__urls-wrapper li:last-child a{margin-bottom:0}
 @media (min-width: 64em){.author__urls-wrapper{display:block}
 }
@@ -1397,4 +1398,3 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
 }
 
 }
-
