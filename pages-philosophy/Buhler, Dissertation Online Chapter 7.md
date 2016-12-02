@@ -7,7 +7,9 @@ layout: single
 
 # Chapter 7: Conclusion 
 
-Not everything that is last claims to be an end, but only that which is best. (Aristotle, *Physics* 194a.)
+>Not everything that is last claims to be an end, but only that which is best. (Aristotle, *Physics* 194a.)
+
+---
 
 In this chapter, I briefly take stock of the main argument of this dissertation before examining its broader significance and noting a few connections to other philosophical problems. 
 
@@ -29,7 +31,7 @@ First, it is always dangerous to do moral philosophy *without* considering the t
 
 Secondly, neo-Aristotelian ethical naturalism provides a satisfying possible answer to the problem of the relation between nature and reason. It pictures facts and norms as an organic whole, presented to us by the world and studied by all the sciences, including formal or abstract sciences. It even suggests that Aristotle was right to classify ethics as a different sort of science with its own subject matter, its own standards, and its own aims.^[Cf. “For a well schooled man searches for that degree of precision in each kind of study which the nature of the subject at hand admits: is obviously just as foolish to accept arguments of probability from a mathematician has to demand strict demonstrations from an orator.” Aristotle, *Nicomachean Ethics*, Book I.3] 
 
-Neither subsuming ethics under (merely descriptive) disciplines nor subsuming descriptive disciplines into normative categories, neo-Aristotelian theory holds great promise for coordinating the descriptive and normative dimensions of ethics, biology, and other sciences. Perhaps this is part of the explanation why the Footian sort of neo-Aristotelian virtue ethics is rightly enjoying a renaissance in contemporary analytic ethics and beyond. In my view, it is both perfectly compatible with the modern scientific worldview and also useful in political life, bioethics,[@beauchamp2001principles] business,[@beadle2015macintyre] education,[@carr2005virtue] and everyday life. It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. 
+Neither subsuming ethics under (merely descriptive) disciplines nor subsuming descriptive disciplines into normative categories, neo-Aristotelian theory holds great promise for coordinating the descriptive and normative dimensions of ethics, biology, and other sciences. Perhaps this is part of the explanation why the Footian sort of neo-Aristotelian virtue ethics is rightly enjoying a renaissance in contemporary analytic ethics and beyond. In my view, it is both perfectly compatible with the modern scientific worldview and also useful in political life, bioethics,^[@beauchamp2001principles] business,^[@beadle2015macintyre] education,^[@carr2005virtue] and everyday life. It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. 
 
 Virtue, practical reason, and nature are age-old themes which demand more work than I can claim to have done here adequately. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato, *Republic* 450b.] 
 
