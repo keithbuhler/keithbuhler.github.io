@@ -25,8 +25,8 @@ This dissertation is about ethical naturalism. I defend and bolster Philippa Foo
 
 Feel free to read or peruse these documents and send me your comments. Please do not cite or distribute this draft without permission. 
 
-1. [Chapter 1: Many Sorts of Naturalism]()
-2. [Chapter 2: Organic Naturalism](https://www.academia.edu/26571534/Natural_Norms)
+1. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
+2. [Chapter 2: Organic Naturalism](/dissertation2)
 3. Chapter 3: Practical Primates
 4. Chapter 4: What We Are
 5. Chapter 5: Practical Reasoning

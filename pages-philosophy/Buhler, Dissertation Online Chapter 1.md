@@ -1,12 +1,12 @@
 ---
 title: Buhler, Becoming What You Are
-permalink: http://www.keithbuhler.com/dissertation1
+permalink: /dissertation1
 layout: single
 ---
 
 
-# BECOMING WHAT WE ARE:VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
+# BECOMING WHAT WE ARE:VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
 
 A dissertation submitted in partial fulfillment    
@@ -216,11 +216,4 @@ Chapter 5 returns to the notion of practical reasoning. I provide a more detaile
 Chapter 6 defends the foregoing account in light of a renewed discussion about nature and naturalism. I provide a full critique of McDowell's brand of naturalism, which, I argue, is ultimately inconsistent within itself. As alternatives, I explore two other forms of naturalism: "unrestricted naturalism" and the Footian form of "organic naturalism," and show how the accounts of virtue and practical reason already developed are compatible with both. 
 
 Chapter 7 concludes with a brief summary of the argument and some reflections on related topics. 
-
-
-
-
-
-
-
 
