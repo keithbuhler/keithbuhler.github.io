@@ -5,6 +5,18 @@ layout: single
 ---
 
 
+1. [Preface](/dissertation0)
+2. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
+2. [Chapter 2: Organic Naturalism](/dissertation2)
+3. [Chapter 3: Practical Primates](/dissertation3)
+4. [Chapter 4: What We Are](/dissertation4)
+5. [Chapter 5: Practical Reasoning](/dissertation5)
+6. [Chapter 6: Natural Reasoning](/dissertation6)
+7. [**Chapter 7: Conclusion**](/dissertation7)
+
+<p></p>
+
+
 # Chapter 7: Conclusion 
 
 >Not everything that is last claims to be an end, but only that which is best. (Aristotle, *Physics* 194a.)
@@ -33,7 +45,7 @@ Secondly, neo-Aristotelian ethical naturalism provides a satisfying possible ans
 
 Neither subsuming ethics under (merely descriptive) disciplines nor subsuming descriptive disciplines into normative categories, neo-Aristotelian theory holds great promise for coordinating the descriptive and normative dimensions of ethics, biology, and other sciences. Perhaps this is part of the explanation why the Footian sort of neo-Aristotelian virtue ethics is rightly enjoying a renaissance in contemporary analytic ethics and beyond. In my view, it is both perfectly compatible with the modern scientific worldview and also useful in political life, bioethics,^[@beauchamp2001principles] business,^[@beadle2015macintyre] education,^[@carr2005virtue] and everyday life. It would be an improvement to almost any area of human life if we were aware of our own vices and worked to expunge them, and if we understood the virtues and pursued them. 
 
-Virtue, practical reason, and nature are age-old themes which demand more work than I can claim to have done here adequately. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."[@plato, *Republic* 450b.] 
+Virtue, practical reason, and nature are age-old themes which demand more work than I can claim to have done here adequately. As Glaucon said to Socrates, "The measure of listening to such discussions is the whole of life."^[@plato, *Republic* 450b.] 
 
 
 
