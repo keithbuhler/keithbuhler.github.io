@@ -17,7 +17,7 @@ layout: single
 
 # Chapter 1: Many Sorts of Naturalism
 
->The most striking occurrence in the history of thought between Aristotle and ourselves is the rise of modern science. (John McDowell, "Two Sorts of Naturalism", 174.)
+*The most striking occurrence in the history of thought between Aristotle and ourselves is the rise of modern science.* (John McDowell, "Two Sorts of Naturalism", 174.)
 
 ---
 

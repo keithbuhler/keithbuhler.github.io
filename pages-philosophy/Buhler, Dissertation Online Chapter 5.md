@@ -18,7 +18,7 @@ layout: single
 
 # Chapter 5: Practical Reasoning
 
->There could be no reasons unless a rational animal has a general conception of its own good, and thus a general sense of how to live. (Jennifer Frey, *The Will to Do Good*, 79.)
+*There could be no reasons unless a rational animal has a general conception of its own good, and thus a general sense of how to live.* (Jennifer Frey, *The Will to Do Good*, 79.)
 
 ---
 

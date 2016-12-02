@@ -5,7 +5,8 @@ layout: single
 ---
 
 
-1. [Preface](/dissertation0)
+[Preface](/dissertation0)
+
 2. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
 2. [Chapter 2: Organic Naturalism](/dissertation2)
 3. [Chapter 3: Practical Primates](/dissertation3)
@@ -19,7 +20,7 @@ layout: single
 
 # Chapter 7: Conclusion 
 
->Not everything that is last claims to be an end, but only that which is best. (Aristotle, *Physics* 194a.)
+*Not everything that is last claims to be an end, but only that which is best.* (Aristotle, *Physics* 194a.)
 
 ---
 

@@ -18,7 +18,7 @@ layout: single
 
 # Chapter 4: What We Are
 
->Human nature is normative, such that to be morally good is to fulfill one’s nature. (Christopher Toner, "Sorts of Naturalism," 221.)
+*Human nature is normative, such that to be morally good is to fulfill one’s nature.* (Christopher Toner, "Sorts of Naturalism," 221.)
 
 ---
 

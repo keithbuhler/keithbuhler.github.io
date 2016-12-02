@@ -18,7 +18,7 @@ layout: single
 
 # Chapter 3 Practical Primates
 
->When we are investigating what the good life is... and how living virtuously might achieve it, we are aided by investigating our human nature. This in turn we do by seeing how we humans are a part, though a distinctive part, to the world that the sciences tell us about. (Julia Annas, "Virtue Ethics: What Kind of Naturalism?" 11.)
+*When we are investigating what the good life is... and how living virtuously might achieve it, we are aided by investigating our human nature. This in turn we do by seeing how we humans are a part, though a distinctive part, to the world that the sciences tell us about.* (Julia Annas, "Virtue Ethics: What Kind of Naturalism?" 11.)
 
 ---
 

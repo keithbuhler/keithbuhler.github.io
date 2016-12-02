@@ -17,7 +17,7 @@ layout: single
 
 # Chapter 6: Natural Reasoning
 
->Mountain peaks do not float unsupported; they do not even just rest upon the earth. They are the earth in one of its manifest operations. (John Dewey, *Experience and Nature*, 3-4.)
+*Mountain peaks do not float unsupported; they do not even just rest upon the earth. They are the earth in one of its manifest operations.* (John Dewey, *Experience and Nature*, 3-4.)
 
 ---
 

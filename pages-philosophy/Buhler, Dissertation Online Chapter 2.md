@@ -18,7 +18,7 @@ layout: single
 
 # Chapter 2: Organic Naturalism
 
->Biology cannot, or at least in practice does not, eliminate functions and purposes. (Mark Perlman, "The Modern Resurrection of Teleology in Biology", 6.)
+*Biology cannot, or at least in practice does not, eliminate functions and purposes.* (Mark Perlman, "The Modern Resurrection of Teleology in Biology", 6.)
 
 ---
 

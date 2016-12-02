@@ -5,28 +5,35 @@ layout: single
 ---
 
 
+1. [Preface](/dissertation0)
+2. [**Chapter 1: Many Sorts of Naturalism**](/dissertation1)
+2. [Chapter 2: Organic Naturalism](/dissertation2)
+3. [Chapter 3: Practical Primates](/dissertation3)
+4. [Chapter 4: What We Are](/dissertation4)
+5. [Chapter 5: Practical Reasoning](/dissertation5)
+6. [Chapter 6: Natural Reasoning](/dissertation6)
+7. [Chapter 7: Conclusion](/dissertation7)
 
-A dissertation submitted in partial fulfillment    
+---- 
 
-of the requirements for the degree of Doctor of Philosophy 
+**Preface Contents**
 
-in the  College of Arts and Sciences       
+- Abstract
+- Dedication
+- Acknowledgments
+- Epigraph
+- Preface
+- Table of Contents
 
-at the University of Kentucky     
+---
 
-By 
-    
-Keith Buhler
+# Becoming What You Are, Virtue and Practical Wisdom as Natural Ends
 
-Lexington, Kentucky
+A dissertation submitted in partial fulfillment of the requirements for a doctorate in philosophy at the University of Kentucky.
 
-Director: Dr. David Bradshaw, Professor of Philosophy
+By Keith Buhler
 
-Lexington Kentucky
-
-Copyright © Keith Buhler 2016  
-
-
+Directed by Dr. David Bradshaw
 
 
 # Abstract
@@ -102,6 +109,8 @@ McDowell's and Foot's respective approaches to neo-Aristotelian ethical naturali
 Though my research focus changed, there remains one respect in which these chapters might be seen as fulfilling my original resolution to study Plato's later dialectic -- not by examination but by enactment. That is, I aim to construct the argument as a sort of dialogue between author and reader. I take my primary audience to be readers who share (with Foot) an attraction to moral realism about virtue but who share (with McDowell) a commitment to modern science. In order to persuade this kind of audience that the two are not incompatible, I aim to assume nothing they would not assume, and to address first the objections that might arise in their minds.I would have written differently for a different implied audience, but every dialogue must have a limited scope and a definite voice.  For this reason, I have bracketed worthy discussions of supernaturalism and non-naturalism. If my study of the Platonic dialectic has taught me nothing else, it is that one must not only *understand* one's interlocutors but in some sense *become* them.  
 
 ---
+
+# Table of Contents
 
 1. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
 2. [Chapter 2: Organic Naturalism](/dissertation2)
