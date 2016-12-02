@@ -5,8 +5,9 @@ layout: single
 ---
 
 
-1. [Preface](/dissertation0)
-2. [**Chapter 1: Many Sorts of Naturalism**](/dissertation1)
+[Introduction](/dissertation0)
+
+1. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
 2. [Chapter 2: Organic Naturalism](/dissertation2)
 3. [Chapter 3: Practical Primates](/dissertation3)
 4. [Chapter 4: What We Are](/dissertation4)
@@ -16,7 +17,7 @@ layout: single
 
 ---- 
 
-**Preface Contents**
+**Introduction Table of Contents**
 
 - Abstract
 - Dedication
@@ -88,7 +89,9 @@ I am sincerely grateful to Dr. David Bradshaw for being my advisor on this proje
 
 # Preface
 
->It is all very well to talk of clarity, but when it becomes an obsession it is liable to nip the living thought in the bud. (Friedrich Waismann, How I See Philosophy, 16.)
+*It is all very well to talk of clarity, but when it becomes an obsession it is liable to nip the living thought in the bud.* (Friedrich Waismann, How I See Philosophy, 16.)
+
+---
 
 I went down to graduate school with a decade-long resolution to write on Plato's later dialectic. My resolution was challenged by Philippa Foot's  *Natural Goodness*. The astonishment I felt when first reading her work  can only be compared to my first encounters with the Platonic dialogues: confusion, tempered with delight. 
 
