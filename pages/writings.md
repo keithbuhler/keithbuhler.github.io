@@ -4,7 +4,7 @@ layout: single
 permalink: /writings/
 ---
 
-This site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
+This part of my [Fun Stuff](http://www.keithbuhler.com/fun/) site captures a few of my articles, short stories, fairy tales, screenplays, poems, and satire. Hope you enjoy. 
 
 I am a devout amateur: I believe that everyone should create, write, draw, sculpt, code, or what have you -- even if they can't or don't make a living at it. Just create. 
 
@@ -72,3 +72,4 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 * [Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
 
 
+- Go back to [Fun Stuff](http://www.keithbuhler.com/fun/)
