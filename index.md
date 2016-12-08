@@ -2,7 +2,7 @@
 layout: single
 title: Buhler... Anyone...?
 header: 
-      image: http://www.keithbuhler.com/images/kentucky3.jpg
+      image: http://www.keithbuhler.com/images/arboretum2.jpg
 excerpt: 
 author_profile: true
 ---
