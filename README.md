@@ -6,9 +6,7 @@ author_profile: true
 
 Thanks for visiting. I hope you find it informative and easy on the eyes. 
 
-The main site consist of four pages: about me, my research and teaching, and a link to the student portal. 
-
-Follow the student portal link  to find resources and coaching for philosophy students.
+The main site consist of five pages: HOME, ABOUT, RESEARCH, TEACHING, and STUDENT PORTAL entrance. (Follow the student portal link  to find resources and coaching for philosophy students.)
 
 ([Send an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.) 
 
