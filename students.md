@@ -3,7 +3,7 @@ layout: single
 title: 
 permalink: /students
 header:
-      image: https://imgflip.com/i/1fm6ar
+      image: http://www.keithbuhler.com/images/morpheushd.jpg
 --- 
 
 
