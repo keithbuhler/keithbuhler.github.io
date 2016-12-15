@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Disambiguation
+layout: single
 permalink: /disambiguation/
 --- 
 

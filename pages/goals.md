@@ -2,6 +2,7 @@
 title: 2016 Goals 
 layout: slide
 permalink: /goals
+
 ---
 
 

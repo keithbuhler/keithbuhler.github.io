@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Speaking Engagements
+layout: single
 permalink: /speaking/
 
 ---

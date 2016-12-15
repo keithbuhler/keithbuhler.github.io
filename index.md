@@ -9,13 +9,10 @@ author_profile: true
 
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
-Keith Buhler is a philosopher and classical educator. He currently works as a postdoctoral lecturer at the University of Kentucky (where he recently completed his PhD) and part-time instructor at Asbury University. 
+Keith Buhler is a philosopher and classical educator currently working at the University of Kentucky. He has been an educator for more than nine years, teaching high school, college, and lecturing publicly to all ages. His teaching interests span the curriculum, from Plato and Aristotle to contemporary film. 
 
-His research focuses on virtue ethics, metaethics, and related topics in the history of philosophy and the philosophy of science. For example, he investigates the concept of a human being and a *good* human being. Is the happy life a rational life? Answering these primary questions requires rethinking the relation between facts and values, or between nature and normativity: does science have anything to contribute to ethics? Is ethics a science? 
+His primary research provides a modern defense of the old concept that a good human life is a virtuous and rational life. More broadly, he investigates multiple themes in the history of philosophy and the philosophy of science where the split between facts and values holds sway. For example, does science have anything to contribute to ethics? And is ethics a science? Is virtue ethics religious ethics or can it be secular? 
 
-Dr. Buhler has been an educator for more than nine years. He has taught at the high school and college level, as well as given public lectures to all ages. His teaching interests span the curriculum, from Plato and Aristotle to contemporary film. 
+Dr. Buhler completed his PhD in Philosophy at the University of Kentucky in 2016. He holds a Masters degrees in Orthodox Theology from the University of Lebanon.  His undergraduate studies were in Humanities (History) at the Torrey Honors Institute at Biola University. 
 
-You can read [more about Dr. Buhler](/about), or read about his [research](/research) and [courses](/teaching). Students are invited to enter the [Student Portal.](/students) 
-
-Contact: 562 23O - 292O  
-Email: keithedbuhler at gmail
+      Contact: 562.23O.292O  or keithedbuhler at gmail 

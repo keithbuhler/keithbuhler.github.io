@@ -1,5 +1,6 @@
 ---
 title: Student Feedback, the Good and Bad
+layout: single
 permalink: /student-feedback
 ---
 
