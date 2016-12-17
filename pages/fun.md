@@ -99,7 +99,7 @@ feature_row3:
 - [Inklings.info](http://www.inklings.info) -- Free books, lists, and information about the Oxford Dons.
 - [Classical Education 101](http://www.keithbuhler.com/buhlerreport/classical-education) -- Three distinctive features of classical education, plus resources, links, and more.
 - [My YouTube Channel](http://bit.ly/keithbuhler_youtube) -- For discussion advice, philosophy talks, and comedy.
-- [Longer Bio](http://www.keithbuhler.com/buhlerreport/bio) -- A bit more about me
+- [Longer Bio](http://www.keithbuhler.com/bio) -- A bit more about me
 - [Web Design](/sites) -- Hire me to make a website for you.
 - [Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation.
 - Orthodoxy -- a bit about the ancient church

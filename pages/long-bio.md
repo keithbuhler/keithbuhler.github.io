@@ -1,7 +1,7 @@
 ---
 title: Long Bio
 layout: single
-permalink: /long-bio
+permalink: /bio
 author_profile: true
 ---
 
