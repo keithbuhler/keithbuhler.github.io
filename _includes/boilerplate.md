@@ -60,8 +60,11 @@ Every student will write several Unit Papers. These Unit Papers help you synthes
 
 ### Extra Credit
 
-Those who opt for extra credit may do so. Instructions are posted online. 
+Those who opt for extra credit may do so. You may do extra reading, extra writing, extra class preparation. Full instructions are posted online. 
 
+
+### Late Work
+In general, I do not accept late work. Plan ahead and do work early before vacations, sports trips, or busy times. Valid excuses for turning in papers late include medical and family emergencies. That said, due dates are not eternal laws; I willing to negotiate within reason. If you are very stressed, or if I have not graded everything yet, we can talk about moving a due date. Just ask. 
 
 ### Miscellany:
 
