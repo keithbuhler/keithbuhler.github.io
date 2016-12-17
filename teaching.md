@@ -31,14 +31,9 @@ Recently, I've taught about eight philosophy courses at two universities. Before
 
 ### Student Evaluations
 
-Combined averages from University of Kentucky and Asbury University in 2015-2016. 
-
-- 3.7 out of 4, overall teaching quality 
-- 3.6 out of 4, overall course quality
-
- 
-### Student Feedback
-
+> * "This business ethics course based in philosophy has been hands-down my favorite course of the Fall 2016 semester. I felt there was an incredible atmosphere constructed in the course leading to extreme comfort ability and a safe place to express opinions. (PHI334 2016)"
+> * "Positivity that radiates is something that several people do not have or have simply lost throughout the years." (PHI334 2016)
+> * "You've had considerable influence on me regarding how to carry oneself, how to get a group of people involved and enthused, and most importantly, how to make an individual interested in the material." (PHI334 2016)
 > * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
 > * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
 > * "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
