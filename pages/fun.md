@@ -93,6 +93,8 @@ feature_row3:
 
 ### Projects in Development
 
+
+- [Talk to a Philosopher](http://www.keithbuhler.com/talk) -- You have questions about philosophy but don't know where to start. You can share your ideas and get feedback from Keith, a professional philosopher, or Sabine,  a professional physicist. 
 - [Philosophy is Science](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences.
 - [Inklings.info](http://www.inklings.info) -- Free books, lists, and information about the Oxford Dons.
 - [Classical Education 101](http://www.keithbuhler.com/buhlerreport/classical-education) -- Three distinctive features of classical education, plus resources, links, and more.
@@ -103,7 +105,7 @@ feature_row3:
 - Orthodoxy -- a bit about the ancient church
 - Sandboxing -- how to innovate through low-risk play
 - Book Clubs -- starting and running an intellectual community centered around friendship and great books.
-
+- [Academics](/) -- Click the toolbar above to see my academic site, with information about my research, teaching, and scholarship. 
 
 
 
