@@ -3,15 +3,17 @@
  baseurl:   
  locale:         "en"
  title:          "keithbuhler.com"
- description:    "The professional site of Keith Buhler, philosopher and classical educator."
+ description:    "The professional site of Keith Buhler, philosopher, educator, and writer -- including coaching for philosophy students."
  comments: 
   provider:       "facebook"
   facebook: 
     appid:    #optional
     num_posts: 5
     colorscheme : #"light" (default", "dark")
-reading_time:     true
-words_per_minute: 200
+reading_time    :     true
+words_per_minute: "200"
+
+
 facebook:
   username  : "keithedbuhler" 
 github      : 
