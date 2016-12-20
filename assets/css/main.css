@@ -1,4 +1,4 @@
-/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange (256274 dark Github Teal) (24248f old dark blue) */
+/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange,  (256274 dark Github Teal) #3b7aae darker Github Teal (24248f old dark blue) */
 
 
 /* sans serif font family 'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif */
@@ -258,10 +258,10 @@ tr,td,th{vertical-align:middle}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
 }
 .masthead__inner-wrap nav{z-index:10}
-.masthead__inner-wrap a{text-decoration:none}
+.masthead__inner-wrap a{text-decoration:none; color:#3b7aae}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap}
-.masthead__menu-item--lg{padding-right:2em;font-weight:700}
+.masthead__menu-item--lg{padding-right:6em;font-weight:700; color:#3b7aae;}
 .masthead__menu-item--lgcenter{padding-right:2em;font-weight:700}
 .masthead__menu-item--lgright{padding-right:2em;font-weight:700}
 .breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
@@ -297,7 +297,7 @@ tr,td,th{vertical-align:middle}
 .page__content+.pagination,.page__meta+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;padding-top:2em;border-top:1px solid #f2f3f3}
 .greedy-nav{position:relative;min-width:250px;background:#fff}
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#000000;text-decoration:none}
-.greedy-nav a:hover{color:#cc7a00}
+.greedy-nav a:hover{color:#3b7aae}
 .greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#ccc;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle}
@@ -341,7 +341,7 @@ tr,td,th{vertical-align:middle}
 @media (min-width: 80em){.page__footer footer{max-width:1280px}
 }
 .page__footer a{color:inherit;text-decoration:none}
-.page__footer a:hover{text-decoration:underline; color:#cc7a00}
+.page__footer a:hover{text-decoration:underline; color:#3b7aae}
 .page__footer .fa{color:#9ba1a6}
 .page__footer-copyright{font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.6875em}
 .page__footer-follow ul{margin:0;padding:0;list-style-type:none}
