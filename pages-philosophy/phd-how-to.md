@@ -4,6 +4,9 @@ title: How to Complete a PhD (in Philosophy)
 permalink: /phd-how-to
 --- 
 
+
+{% include toc %}
+
 *[Another page explains my research.](/phd) This post gives some advice on each stage of the process.*
 
 ### Do you want to go to graduate school?
