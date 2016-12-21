@@ -6,7 +6,6 @@ header:
 permalink: /phd
 ---
 
-{% include toc %}
 
 ### INTRODUCTION
 
