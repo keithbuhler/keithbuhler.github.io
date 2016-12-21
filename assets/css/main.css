@@ -490,7 +490,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__content p,.page__content li,.page__content dl{font-size:1em}
 .page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}
-.page__content a:hover{color: #256274; text-decoration:underline}
+.page__content a:hover{color: #E27200; text-decoration:underline}
 .page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .page__content dt{margin-top:1em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
 .page__content dd{margin-left:1em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em}
@@ -540,7 +540,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 @media (min-width: 64em){.archive{width:83.05085%;float:right;margin-right:0;padding-left:4.23729%}
 }
 .archive a{color:inherit;text-decoration:underline;}
-.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:3em;color:#990000;border-bottom:2px solid #cc7a00}
+.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:2.5em;color:#4A2500;border-bottom:2px solid #cc7a00}
 .archive__subtitle+.list__item .archive__item-title{margin-top:0.5em}
 .archive__item-title{margin-bottom:0.25em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
 .page__content .archive__item-title{margin-top:1em;border-bottom:none}
