@@ -1,5 +1,11 @@
 /* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange,  (256274 dark Github Teal) #3b7aae darker Github Teal (24248f old dark blue) */
 
+/* #FFA64B light orange, complement from Paletton. */
+/* #E27200 darker orange, complement from Paletton. */
+/* #4A2500 dark brown/orange, complement from Paletton */
+/* #CCDDE2 near white, blue */
+/* #00242E near navy black, blue */
+
 
 /* sans serif font family 'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif */
 
@@ -8,6 +14,7 @@
 /* other fonts to consider: PT Sans Pro Bold for headings, Shannon Holzer; Maisee light Paulosophia */
 
 /* tried Josefin Sans from Google Fonts. It's nice except for the slanty "e". Tried another serif font but it looks too technical. Trying Raleway now */
+
 
 
 a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px}
@@ -258,7 +265,7 @@ tr,td,th{vertical-align:middle}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
 }
 .masthead__inner-wrap nav{z-index:10}
-.masthead__inner-wrap a{text-decoration:none; color:#3b7aae}
+.masthead__inner-wrap a{text-decoration:none; color:#FFA64B}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap}
 .masthead__menu-item--lg{padding-right:6em;font-weight:700; color:#3b7aae;}
@@ -333,7 +340,7 @@ tr,td,th{vertical-align:middle}
 .toc__menu li>ul li{display:none}
 @media (min-width: 48em){.toc__menu li>ul li{display:block}
 }
-.page__footer{clear:both;width:100%;float:left;margin-left:0;margin-right:0;clear:both;margin-top:3em;color:#9ba1a6;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.45s;animation-delay:0.45s;background-color:#f2f3f3;border-top:1px solid #bdc1c4}
+.page__footer{clear:both;width:100%;float:left;margin-left:0;margin-right:0;clear:both;margin-top:3em;color:#465DBB;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.45s;animation-delay:0.45s;background-color:#f2f3f3;border-top:1px solid #bdc1c4}
 .page__footer::after{clear:both;content:"";display:table}
 .page__footer footer{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:2em;padding:0 1em 2em}
 .page__footer footer:after{content:" ";display:block;clear:both}
