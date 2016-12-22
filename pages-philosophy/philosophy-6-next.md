@@ -14,6 +14,7 @@ Here are some good, accessible yet challenging classics.
 * [Laozi, *The Tao Te Ching*](http://www.sacred-texts.com/tao/taote.htm)
 * [Plato, *Alcibiades I*](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168)
 * [Marcus Aurelius, *Meditations*](http://classics.mit.edu/Antoninus/meditations.1.one.html)
+* [Boethius, Consolation of Philosophy](https://www.gutenberg.org/files/14328/14328-h/14328-h.htm)
 * [Pascal, *Pensees*](http://www.ccel.org/ccel/pascal/pensees.ii.html)
 * [Dosteyevsky, *Brothers Karamasov*](http://www.gutenberg.org/files/28054/28054-h/28054-h.html)
 * [Thomas Nagel, *What Does it All Mean*?](http://sjmse-library.sch.ng/E-Books%20Phil/WHAT%20DOES%20IT%20ALL%20MEAN_.pdf)

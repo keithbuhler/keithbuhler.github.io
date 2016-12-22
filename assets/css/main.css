@@ -268,7 +268,7 @@ tr,td,th{vertical-align:middle}
 .masthead__inner-wrap a{text-decoration:none; color:#FFA64B}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap}
-.masthead__menu-item--lg{padding-right:6em;font-weight:700; color:#3b7aae;}
+.masthead__menu-item--lg{padding-right:4em;font-weight:700; color:#3b7aae;}
 .masthead__menu-item--lgcenter{padding-right:2em;font-weight:700}
 .masthead__menu-item--lgright{padding-right:2em;font-weight:700}
 .breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
@@ -1405,6 +1405,60 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
 .mfp-ie7 .mfp-content{padding-top:44px}
 .mfp-ie7 .mfp-close{top:0;right:0;padding-top:0}
 @media print{.masthead,.toc,.page__share,.page__related,.ads,.page__footer{display:none}
+}
+
+/*
+ * jQuery Table of Content Generator for Markdown v1.0
+ *
+ * https://github.com/dafi/tocmd-generator
+ * Examples and documentation at: https://github.com/dafi/tocmd-generator
+ *
+ * Requires: jQuery v1.7+
+ *
+ * Copyright (c) 2013 Davide Ficano
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.gnu.org/licenses/gpl.html
+ */
+
+#toc, .toc, .mw-warning {
+    background-color: #F9F9F9;
+    border: 1px solid #AAAAAA;
+    font-size: 95%;
+    padding: 5px;
+}
+#toc h2, .toc h2 {
+    border: medium none;
+    display: inline;
+    font-size: 100%;
+    font-weight: bold;
+    padding: 0;
+}
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
+    text-align: center;
+}
+#toc ul, .toc ul {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    text-align: left;
+}
+#toc ul ul, .toc ul ul {
+    margin: 0 0 0 2em;
+}
+#toc .toctoggle, .toc .toctoggle {
+    font-size: 94%;
+}
+
+#toc ul li {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#toc-container {
+	margin-bottom: 10px;
 }
 
 }
