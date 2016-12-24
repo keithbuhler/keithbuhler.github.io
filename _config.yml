@@ -1,6 +1,6 @@
 # Site settings
- url:       http://keithbuhler.com/
- baseurl:   http://keithbuhler.com/
+ url:       http://keithbuhler.com
+ baseurl:   /
  locale:         "en"
  title:          "keithbuhler.com"
  description:    "The professional site of Keith Buhler, philosopher, educator, and writer -- including coaching for philosophy students."

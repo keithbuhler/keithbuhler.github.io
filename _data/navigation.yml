@@ -25,7 +25,7 @@ phil:
 
 philosophy:
   - title: "Before Class"
-    children: 
+    children:
       - title: "Just added?"
         url: /philosophy
       - title: "Get to Know You Survey"
@@ -34,7 +34,7 @@ philosophy:
         url: /syllabi
 
   - title: "Succeeding in Philosophy"
-    children: 
+    children:
       - title: "Succeeding in Philosophy"
         url: /philosophy-class
       - title: "Reading Philosophy"
