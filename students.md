@@ -4,6 +4,8 @@ title:
 permalink: /students
 header:
       image: http://www.keithbuhler.com/images/morpheushd.jpg
+sidebar: 
+      nav: philosophy
 --- 
 
 
@@ -22,7 +24,7 @@ Why is philosophy interesting? Perhaps because it invites you to think deeply ab
 
 <center>
 
-<h1> <a href="/philosophyportal-splash"> Click here for the Philosophy Portal</a> </h1>
+Click the sidebar on the left for the Philosophy Portal
 
 <a target="_blank" href="/philosophyportal-splash">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
