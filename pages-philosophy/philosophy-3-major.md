@@ -1,5 +1,5 @@
 ---
-layout: philosophy
+layout: single
 title: Should I consider a philosophy major/minor?
 permalink: /philosophy-3-major
 header:

@@ -3,7 +3,7 @@ title: Philosophy Portal
 layout: single
 author_profile: false
 sidebar:
-  nav: "philosophy"
+  nav: philosophy
 --- 
 
 ![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")

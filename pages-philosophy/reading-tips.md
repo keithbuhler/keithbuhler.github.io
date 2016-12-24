@@ -1,6 +1,8 @@
 ---
 title: Reading Tips
 permalink: /reading
+sidebar:
+      nav: philosophy
 ---
 
 http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/Reading-Philosophy-Concepcion-2004.pdf

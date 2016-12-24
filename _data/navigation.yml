@@ -32,7 +32,7 @@ philosophy:
         url: https://docs.google.com/forms/d/e/1FAIpQLSfkn9Ri7nuLqDmAFlh0J6mwi0mMaC37jAgMI4um1-i-wgqlYA/viewform
       - title: "Syllabi"
         url: http://www.keithbuhler.com/syllabi
-  - title: "Succeeding in Philosophy"
+  - title: "Before Class"
     children:
       - title: "Succeeding in Philosophy"
         url: http://www.keithbuhler.com/philosophy-class
@@ -60,5 +60,5 @@ philosophy:
     children:
       - title: "My Story"
         url: http://www.keithbuhler.com/phd-how-to
-      - title: "About Proffesional Philosophy"
+      - title: "Proffesional Philosophy"
         url: http://www.keithbuhler.com/philosophy-7-profession

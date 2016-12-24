@@ -1,8 +1,8 @@
 ---
-layout: philosophy
+layout: single
 title: How to Succeed in Philosophy Class
 permalink: /philosophy-class
-author_profile: false
+author_profile: true
 sidebar: 
       nav: philosophy
 --- 
