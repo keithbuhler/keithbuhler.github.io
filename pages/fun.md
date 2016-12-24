@@ -23,7 +23,7 @@ feature_row:
     alt: "Philosophy"
     title: "Philosophy Portal"
     excerpt: "Coaching in how to succeed in philosophy classes for my students and others who might be interested."
-    url: "http://www.keithbuhler.com/philosophyportal"
+    url: "http://www.keithbuhler.com/philosophy"
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-books3.png

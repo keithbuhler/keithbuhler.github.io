@@ -22,3 +22,50 @@ phil:
     url: http://www.keithbuhler.com/philosophy-6-next
   - title: "RESOURCES"
     url: http://www.keithbuhler.com/philosophy-resources
+
+philosophy:
+  - title: "Before Class"
+    children: 
+      - title: "Just added?"
+        url: /philosophy
+      - title: "Get to Know You Survey"
+        url: https://docs.google.com/forms/d/e/1FAIpQLSfkn9Ri7nuLqDmAFlh0J6mwi0mMaC37jAgMI4um1-i-wgqlYA/viewform
+      - title: "Syllabi"
+        url: /syllabi
+
+  - title: "Succeeding in Philosophy"
+    children: 
+      - title: "Succeeding in Philosophy"
+        url: /philosophy-class
+      - title: "Reading Philosophy"
+        url: /reading
+      - title: "Discussion 101"
+        url: /discussion101
+      - title: "Participation"
+        url: /participation
+      - title: "Disputations"
+        url: /disputations
+
+  - title: After Class
+    children:
+      - title: "What to Read Next"
+        url: /philosophy-6-next
+      - title: "Should I Major?"
+        url: /philosophy-3-major
+      - title: "Other Resources"
+        url: /philosophy-resources
+
+
+  - title: Majoring
+    children:
+      - title: "Why Study Philosophy?"
+        url: http://www.whystudyphilosophy.com/  
+      
+
+  - title: Graduate School 
+    children:
+      - title: "My Story"
+        url: /phd-how-to
+      - title: "About Proffesional Philosophy"
+        url: /philosophy-7-profession
+

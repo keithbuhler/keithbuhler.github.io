@@ -120,3 +120,6 @@ As a student at Asbury University I always ask upperclassmen what courses they t
 
 >    This class was about not panicking when you’re hit with difficult question/thought it taught you not to take the easy way out but instead to look into the depths of the questions and ride it out until you can’t anymore regardless if you couldn’t find a solution. 
 >    
+>    
+>    
+>    Coming into the class I think I expected to be learning about countless philosophers, specific dates of their theories, and a bunch of textbook reading. Luckily the class was not anything like I expected. This class was primarily about preparing us to be able to think like a philosopher and therefore be able to understand philosophical works more proficiently. 
