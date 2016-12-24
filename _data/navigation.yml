@@ -24,11 +24,11 @@ phil:
     url: http://www.keithbuhler.com/philosophy-resources
 
 philosophy:
-  - title: "Before Class"
+  - title: "Philosophy Portal"
     children:
-      - title: "Just added?"
+      - title: "Start Here"
         url: /philosophy
-      - title: "Get to Know You Survey"
+      - title: "Get to Know You"
         url: https://docs.google.com/forms/d/e/1FAIpQLSfkn9Ri7nuLqDmAFlh0J6mwi0mMaC37jAgMI4um1-i-wgqlYA/viewform
       - title: "Syllabi"
         url: /syllabi
@@ -49,9 +49,9 @@ philosophy:
       - title: "What to Read Next"
         url: /philosophy-6-next
       - title: "Should I Major?"
-        url: /philosophy-3-major
+        url:philosophy-3-major
       - title: "Other Resources"
-        url: /philosophy-resources
+        url:philosophy-resources
   - title: Majoring
     children:
       - title: "Why Study Philosophy?"
@@ -59,7 +59,7 @@ philosophy:
   - title: Graduate School 
     children:
       - title: "My Story"
-        url: phd-how-to
+        url:phd-how-to
       - title: "About Proffesional Philosophy"
-        url: philosophy-7-profession
+        url:philosophy-7-profession
 
