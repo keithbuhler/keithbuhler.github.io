@@ -4,16 +4,21 @@ layout: single
 author_profile: true
 ---
 
-Thanks for visiting. I hope you find it informative and easy on the eyes. 
+Thanks for visiting. 
 
-The main site consist of five pages: HOME, ABOUT, RESEARCH, TEACHING, and STUDENT PORTAL entrance. (Follow the student portal link  to find resources and coaching for philosophy students.)
+The main site consists of five pages: HOME, ABOUT, RESEARCH, TEACHING, and the PHILOSOPHY PORTAL for students. 
+
+I hope you find the site informative and easy on the eyes. 
+
 
 ([Send an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.) 
 
 
 ### Code and Design
 
-The content and style was created by Keith Buhler using a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax). The source HTML is *stored* on my hard-drive, but it's *hosted* for free by an open-source community called [Github](http://www.github.com). Plain text Markdown files are converted to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) 
+The content and style was created by Keith Buhler using a simple programming language called [Markdown](https://daringfireball.net/projects/markdown/syntax). 
+
+The source HTML is *stored* on my hard-drive, but it's *hosted* for free by an open-source community called [Github](http://www.github.com). Plain text Markdown files are converted to HTML by an amazing software called [Jekyll.](https://jekyllrb.com/) 
 
 This site is my *eighth* draft. The [2013 first try](https://web.archive.org/web/20130511005256/http://keithbuhler.com) used GoDaddy's automatic one page builder and it was terrible. The [2015 second try](https://web.archive.org/web/20141217142037/http://keithbuhler.com/) with Web Zyro's automatic builder was also not great. Ultimately, I wanted more control over content and style, so I kept searching. 
 
