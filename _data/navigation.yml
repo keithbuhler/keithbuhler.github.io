@@ -32,7 +32,6 @@ philosophy:
         url: https://docs.google.com/forms/d/e/1FAIpQLSfkn9Ri7nuLqDmAFlh0J6mwi0mMaC37jAgMI4um1-i-wgqlYA/viewform
       - title: "Syllabi"
         url: /syllabi
-
   - title: "Succeeding in Philosophy"
     children:
       - title: "Succeeding in Philosophy"
@@ -45,7 +44,6 @@ philosophy:
         url: /participation
       - title: "Disputations"
         url: /disputations
-
   - title: After Class
     children:
       - title: "What to Read Next"
@@ -54,18 +52,14 @@ philosophy:
         url: /philosophy-3-major
       - title: "Other Resources"
         url: /philosophy-resources
-
-
   - title: Majoring
     children:
       - title: "Why Study Philosophy?"
         url: http://www.whystudyphilosophy.com/  
-      
-
   - title: Graduate School 
     children:
       - title: "My Story"
-        url: /phd-how-to
+        url: phd-how-to
       - title: "About Proffesional Philosophy"
-        url: /philosophy-7-profession
+        url: philosophy-7-profession
 
