@@ -1,6 +1,8 @@
 ---
-layout: philosophy
+layout: single
 title: For My Students
+sidebar:
+    nav: philosophy
 header: 
       image: kentucky.jpg
 permalink: /syllabi

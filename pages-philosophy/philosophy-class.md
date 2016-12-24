@@ -2,7 +2,9 @@
 layout: philosophy
 title: How to Succeed in Philosophy Class
 permalink: /philosophy-class
-author_profile: true
+author_profile: false
+sidebar: 
+      nav: philosophy
 --- 
 
 Philosophy is about making and understanding *arguments*. 

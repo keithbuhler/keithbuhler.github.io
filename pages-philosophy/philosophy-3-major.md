@@ -4,7 +4,9 @@ title: Should I consider a philosophy major/minor?
 permalink: /philosophy-3-major
 header:
       image: http://keithbuhler.com/images/phil-psych-major.jpg
-author_profile: true
+author_profile: false
+sidebar: 
+      nav: philosophy
 ---
 
 #### [(pdf version)](/philosophy-3-major.pdf)

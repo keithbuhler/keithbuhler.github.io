@@ -2,6 +2,8 @@
 layout: philosophy
 title: How to Complete a PhD (in Philosophy)
 permalink: /phd-how-to
+sidebar: 
+      nav: philosophy
 --- 
 
 

@@ -3,6 +3,8 @@ layout: philosophy
 title: Critical Reading Instructions
 permalink: /critical-reading
 author_profile: true
+sidebar: 
+      nav: philosophy
 ---
 
 #### [(pdf version)](/philosophy-portal/critical-reading.pdf)

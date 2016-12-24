@@ -2,7 +2,9 @@
 layout: philosophy
 title: Class is over; what's next?
 permalink: /philosophy-6-next
-author_profile: true
+author_profile: false
+sidebar: 
+      nav: philosophy
 --- 
 
 

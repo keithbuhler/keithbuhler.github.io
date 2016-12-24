@@ -2,6 +2,8 @@
 layout: philosophy
 title: Disputations
 permalink: /disputations
+sidebar: 
+      nav: philosophy
 ---
 
 #### [(pdf version)](/philosophy-portal/disputations.pdf)

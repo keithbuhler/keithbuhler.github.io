@@ -3,6 +3,8 @@ layout: philosophy
 title: Discussion 101
 permalink: /discussion101
 author_profile: true
+sidebar: 
+      nav: philosophy
 ---
 
 #### [(pdf version)](/pages-philosophy/discussion101.pdf)
