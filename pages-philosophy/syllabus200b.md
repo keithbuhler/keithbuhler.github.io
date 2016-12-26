@@ -3,13 +3,6 @@ layout: philosophy
 permalink: /syllabus200b
 ---
 
-Course Outline: 
-
-The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
-
-<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
-
-
 ### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/pages-philosophy/syllabus200b.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
@@ -59,8 +52,18 @@ There are no *easy* answers; instead, we will find hard answers, if we work at i
 * To understand the Christian answers to questions about the meaning of life, the structure of the cosmos, the possibility of scientific knowledge, and the ground of morality, as contrasted with metaphysical naturalism, nihilism, and deism.
 * To practice reflect thinking upon our own lives, beliefs, attitudes, culture, and goals, in order to become more thoughtful human beings in the pursuit of goodness, truth, and beauty.
 
-## Scope and Sequence
+### Scope and Sequence
 This course focuses on an eclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
+
+
+### Course Outline: 
+
+The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
+
+<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
+
+
+
 
 ### Grading
 You will be graded equally on each component, plus applicable extra credit.

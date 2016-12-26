@@ -4,6 +4,7 @@ layout: single
 author_profile: false
 sidebar:
   nav: philosophy
+permalink: /philosophy
 --- 
 
 ![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")

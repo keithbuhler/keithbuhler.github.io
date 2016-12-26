@@ -8,14 +8,6 @@ permalink: /syllabus200
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** T, 12-1.
 
-### Course Outline
-
-The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
-
-<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
-
-
-
 ### Required Texts
 
 - [Jostein Gaarder, *Sophie’s World*  ISBN: 0374530718](http://amzn.to/1QJ7mEs)
@@ -62,6 +54,18 @@ There are no *easy* answers; instead, we will find hard answers, if we work at i
 
 ## Scope and Sequence
 This course focuses on an eclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
+
+
+
+### Course Outline
+
+The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
+
+<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
+
+
+
+
 
 ### Grading
 You will be graded equally on each component, plus applicable extra credit.
