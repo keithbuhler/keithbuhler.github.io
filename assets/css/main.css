@@ -269,7 +269,7 @@ tr,td,th{vertical-align:middle}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap}
 .masthead__menu-item--lg{padding-right:2.5em;font-weight:600; color:#3b7aae;}
-.masthead__menu-item--lgcenter{padding-right:2em;font-weight:700
+.masthead__menu-item--lgcenter{padding-right:2em;font-weight:700}
 .masthead__menu-item--lgright{padding-right:2em;font-weight:700}
 .breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
 .breadcrumbs:after{content:" ";display:block;clear:both}
