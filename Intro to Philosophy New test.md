@@ -243,6 +243,3 @@ R Tree of Life Discussion
 
 ## Assignment Sheet 16
 
-
-
-{% include boilerplate.html %}
