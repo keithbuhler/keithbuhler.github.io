@@ -27,7 +27,7 @@ while(x=eval(x));
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
 * Secure mail:  [circularreason at protonmail.com](emailto:circularreason@protonmail.com)
 * Social: [Facebook](http://www.facebook.com/kedbuhler/)  &  [Twitter](https://twitter.com/Keith_Buhler) 
-* Call:  area 859 number 955 o822
+* Call:  area 562 number 23O 292O
 * Mail: 
 
 Keith Buhler, c/o Katie Barrett  

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Reading Tips
 permalink: /reading
 sidebar:
