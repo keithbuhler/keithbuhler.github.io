@@ -56,9 +56,16 @@ philosophy:
     children:
       - title: "Why Study Philosophy?"
         url: http://www.whystudyphilosophy.com/  
-  - title: Graduate School 
+  - title: "Graduate School?" 
     children:
       - title: "My Story"
         url: http://www.keithbuhler.com/phd-how-to
-      - title: "Proffesional Philosophy"
+      - title: "professional Philosophy"
         url: http://www.keithbuhler.com/philosophy-7-profession
+  - title: "Fun Stuff"
+      - title: "Contact me"
+        url: http://www.keithbuhler.com/contact
+      - title: "Wikipedia's Philosophy Trick"
+        url: http://www.keithbuhler.com/wikipedia
+      - title: "More Dr. Buhler Things"
+        url: http://www.keithbuhler.com/fun

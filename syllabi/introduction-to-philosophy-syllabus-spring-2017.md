@@ -1,16 +1,16 @@
 ---
 layout: philosophy
-permalink: /syllabusintro
+permalink: /intro
 ---
 
 #### [PDF of Spring 2017 Syllabus](/pages-philosophy/syllabusintro.pdf)    
-
 
 **Introduction to Philosophy**   
 **Spring 2017 Syllabus**  
 **Instructor: Keith Buhler**     
 **Email:** keith.buhler@uky.edu (this forwards to kbuhler@fpa.edu)  
-**Teacher Talk: Wednesday, 2-3pm (tentative)**  
+**Teacher Talk: Wednesday, 2-3pm** (tentative)
+**Office Hours: Tuesday, 11am-12pm** (tentative)
 
 ### Books: 
 
@@ -64,19 +64,15 @@ R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/ope
 
 ### Unit 1, Week 2 Myth 
 
-T "How to Write A Paper in this Class"; Read [Sophie's World,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
+T [Sophie's World,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); Sophie's World, "Natural Philosophers, Democritus, and Fate"  
 
 ### Unit 1, Week 3 Holiness 
-
-M Unit Paper 1 Outline and Peer Review. Review the instructions for the paper. Write an outline. 
 
 T Sophie's World, "Socrates, Athens, Plato"; Plato, Euthyphro  
 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
 ### Unit 2, Week 4 Socrates (Philosophy, Dialectic, Death)
-
-M Unit Paper 1 Final Draft Due: Is Christian doctrine primarily supported by faith or reason?    
 
 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
 R Apology Discussion  
@@ -87,10 +83,6 @@ T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?
 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
 
 ### Unit 2, Week 6 Death
-
-M Unit Paper 2 Due: Does philosophical conversation (dialectic) harm or benefit children? 
-
-
 T Plato, Phaedo (116-143) - Was Socrates true to his principles, even in death?  
 R Plato, Phaedo II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
@@ -108,8 +100,6 @@ R Forms Discussion (Optional: Read Sophie's World "Major's Cabin", "Aristotle," 
 
 ### Unit 4, Week 9 Logic 
 
-M Unit Paper 3 Due: Does the soul die with the body? 
-
 T Kreeft, Socratic Logic, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  
 R Kreeft, Socratic Logic III, "Material Fallacies"  
 
@@ -118,28 +108,28 @@ T Kreeft, Socratic Logic, V, "Judgment", Section 1 and 2 "Judgments, Proposition
 R Kreeft, Socratic Logic VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
 ### Unit 5, Week 11 Augustine
-M Unit Paper 4 due: Is all truth subjective or is some truth objective? 
 
 T *Confessions* 1 - Augustine and longing for God's presence. Sophie's World "Two Cultures"   
 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
+
 ### Unit 5, Week 12 Evil
 
 T  *Confessions*, 7 - Does evil exist?   
-R *Confessions* Discussion; Sophie's World "The Middle Ages" 
+R *Confessions* Discussion  
+
 
 ### Unit 5, Week 13 God
 
-T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? Does evil disprove the existence of a good god? The First Way; 
+T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; Sophie's World "The Middle Ages"  
 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.   
 
 
 ### Unit 6, Week 14 2001: A Space Odyssey
-
-Unit Paper 5 due: Is evil a substance or merely a privation of goodness? 
  
 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
 R Dave as the New Adam  
+
 
 ### Unit 6, Week 15 Wall-E
 
@@ -151,11 +141,7 @@ T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
 R Tree of Life Discussion  
 
-Final Paper Due: Re-write one of your previous Disputations
 
-Extra Credit Due: Extra Reading or Writing. 
-
-Reflection paper Due: 
 
 ## Policies
 
@@ -227,7 +213,7 @@ In general, I do not accept late work. Plan ahead and do work early before vacat
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
 3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back. (If you have an important phone call or text, please step outside the class for a moment, then return.)
 4. **No smart phones.** No other electronics, laptops, iPhones, or iPads, iPods, smartphones, etc. Unplug, listen and engage.
-4.  **Laptop/tablet users** must request permission to use their device. If approved, you must sit in the front row.
+4.  **No laptop/tablets**. Rare exceptions must request permission to use their device. If approved, you must sit in the front row.
 5. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up early. 
 6.  **Contact me.** Best method is to chat after class. I read every email but may not respond to every email. You need a response, and I haven’t responded within three (3) business days, email again with the subject “nudge”. Please use keith.buhler@uky.edu.
 7.  **Contact**. For short, quick questions, use Twitter (keith\_buhler)

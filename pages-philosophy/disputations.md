@@ -75,3 +75,16 @@ I recommend that you write the paper in your preferred text editor (like Word or
 * Serif font such as Times New Roman or Baskerville
 * Insert page numbers
 
+## Topics 
+
+- Intro to Philosophy
+- Intro to Ethics
+- Business Ethics
+
+
+
+
+## Examples
+
+<iframe src="https://docs.google.com/document/d/1nboSr132d7t2gTmztxEL6vTiAj9NT9OCp7_OaCX9Pwc/pub?embedded=true"></iframe>
+

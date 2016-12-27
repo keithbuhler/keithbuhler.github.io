@@ -1,9 +1,9 @@
 {% include base_path %}
 
 
-<h1> Grading </h1>
+### Grading
 
-<p> Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.</p>
+Your grade for the class will depend on your performance in each course component, plus tests and applicable extra credit.To get an ‘A’: (a) read carefully every week, (b) attend and participate in class through talking and/or writing, (c) study hard for the tests, and (d) write the Unit Papers according to the given instructions.</p>
 
 
 |  Assessment                             |      %                 |

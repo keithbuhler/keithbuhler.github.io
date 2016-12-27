@@ -1,9 +1,9 @@
 ---
 layout: philosophy
-permalink: /syllabus200b
+permalink: syllabus2002016
 ---
 
-### [Introduction to Philosophy: "God, Man, and World" (PHL 200b, Fall 2016 Syllabus)](/pages-philosophy/syllabus200b.pdf)  
+### [Introduction to Philosophy: "God, Man, and World" (PHL 200, Fall 2016 Syllabus)](/pages-philosophy/syllabus200.pdf)  
 **Instructor**: Keith Buhler  
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Office Hours:** T, 12-1.
@@ -18,8 +18,8 @@ Buy these three books right away. Use these ISBNS only, please. No Kindle unless
 
 **Handouts:**
 
-- [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV)
+- [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 - [Peter Kreeft, “Is truth objective?”](https://drive.google.com/open?id=1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA)
 - [Keith Buhler, "Logic 101"](http://www.keithbuhler.com/logic)
 - [Peter Kreeft, “Are universals real?”](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
@@ -52,15 +52,17 @@ There are no *easy* answers; instead, we will find hard answers, if we work at i
 * To understand the Christian answers to questions about the meaning of life, the structure of the cosmos, the possibility of scientific knowledge, and the ground of morality, as contrasted with metaphysical naturalism, nihilism, and deism.
 * To practice reflect thinking upon our own lives, beliefs, attitudes, culture, and goals, in order to become more thoughtful human beings in the pursuit of goodness, truth, and beauty.
 
-### Scope and Sequence
+## Scope and Sequence
 This course focuses on an eclectic set of eleven related themes: Truth, Socrates, Causes, Logic, God, Evil, Time, Empiricism, Miracles,  Cosmos, and the Tree of Life. Each Unit consists of readings, quizzes, and philosophical dialogue. There are five papers and two quarter tests. 
 
 
-### Course Outline: 
+
+### Course Outline
 
 The outline tells you the reading due and the topic for each day. It also provides detailed notes to help you prepare your thoughts. Subject to revisions due to snow days, instructor sickness, academic conferences, etc. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1XKbccyR-HgIuw-4lacZNGGfOFi8PGdrw2_bv6bFiQtw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1KL9PBrmhnAizK_JWSbfKXUmWYDu-uvl3VNOv-LZM0HQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="800"></iframe>
+
 
 
 
@@ -98,20 +100,20 @@ We need you here! Attendance is mandatory. Roll will be taken each class by mark
 
 That said, I give everyone up to 3 "Personal absences". These 3 absences apply for *for any reason*, including emergencies, family visits, sickness, sports, or sleep. One week is usually sufficient for emergencies, and sometimes you just need a break. But after that, absences *require an excuse*. After 3 personal absences, any unexcused absences will cost 2% deduction from the semester grade *per absence*. 6 unexcused absences is a letter grade and 9 will make a passing grade impossible. 
 
-1 = -0   
-2 = -0   
-3 = -0   
-4 = -2%    
-5 = -4%    
-6 = -10%  (a letter grade)    
-7 = -12%     
-8 = -14%   
-9 = -50%   
+1 = -0  
+2 = -0  
+3 = -0  
+4 = -2%  
+5 = -4%  
+6 = -10%  (a letter grade)   
+7 = -12%   
+8 = -14%
+9 = -50%
 
 ### Participation
 The primary competency of this class is philosophical dialogue. Hence, you must attend and participate. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. 
 
-We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is intrinsically dialogical. 
+We do dialogue for five main reasons: (1) You must take responsibility for your own learning. (2) We can actually get to know each other.  (3) I learn best in discussion. (4) Most people learn (and retain) best in discussion. (5) Philosophy is dialogical. 
 
 *You are responsible to talk in class.* Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come *prepared*. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others' viewpoints, and critique theirs.  
 
@@ -148,3 +150,5 @@ Those who opt for extra credit may do so. Instructions are posted online.
 7. Make up work is not accepted after the due date, unless you obtain prior (email) permission. 
 8. **Plagiarism**. Do not plagiarize. Intentional or unintentional plagiarism will result in a a zero for the assignment, and jeopordizes your standing in the class. Do not intentionally take anyone else’s work nor provide your work to anyone else (under whatever auspices). Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the Asbury University academic community. Cite your sources. [See also the Asbury academic integrity appendix](/plagiarism).
 9. **Enjoy philosophy.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
+
+

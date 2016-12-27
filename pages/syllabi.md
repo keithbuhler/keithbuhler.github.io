@@ -1,6 +1,6 @@
 ---
 layout: single
-title: For My Students
+title: Syllabi
 sidebar:
     nav: philosophy
 header: 
