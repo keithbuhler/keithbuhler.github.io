@@ -10,18 +10,14 @@ main:
     url: http://keithbuhler.com/students
 
 phil:
-  - title: "SUCCEEDING"
-    url: http://www.keithbuhler.com/philosophy-class
-  - title: "MAJORING"
-    url: http://www.keithbuhler.com/philosophy-3-major
-  - title: "GRAD SCHOOL"
-    url: http://www.keithbuhler.com/philosophy-7-profession
+  - title: "PHILOSOPHY PORTAL"
+    url: http://www.keithbuhler.com/students
   - title: "SYLLABI"
     url: http://www.keithbuhler.com/syllabi
-  - title: "NEXT"
+  - title: "HOW TO SUCCEED IN PHILOSOPHY"
+    url: http://www.keithbuhler.com/philosophy-class
+  - title: "WHAT TO DO NEXT"
     url: http://www.keithbuhler.com/philosophy-6-next
-  - title: "RESOURCES"
-    url: http://www.keithbuhler.com/philosophy-resources
 
 philosophy:
   - title: "before class"

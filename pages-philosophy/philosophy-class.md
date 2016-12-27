@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 title: How to Succeed in Philosophy Class
 permalink: /philosophy-class
 author_profile: true

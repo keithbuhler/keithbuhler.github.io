@@ -4,7 +4,7 @@ title: Philosophy Tips
 permalink: /philosophy-tips
 author_profile: true
 sidebar: 
-      nav: philosophy
+
 ---
 
 <img src="/images/beard-mechanics.jpg">

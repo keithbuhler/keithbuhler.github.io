@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 title: Philosophy Resources
 permalink: /philosophy-resources
 author_profile: true

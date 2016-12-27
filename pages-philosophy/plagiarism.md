@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 title: Plagiarism
 permalink: /plagiarism
 ---

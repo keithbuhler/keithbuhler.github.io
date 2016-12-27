@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 title: Participation Instructions
 author_profile: true
 sidebar: 

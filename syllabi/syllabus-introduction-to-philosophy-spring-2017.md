@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: philosophy
 permalink: /intro
 title: Introduction to Philosophy Syllabus
 ---
@@ -69,7 +69,7 @@ Jan-26 R [JP Moreland, "Love your God with all your mind"](https://drive.google.
 ### Unit 1, Week 2 -- Myth 
 
 Jan-31 T [*Sophie's World*,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
-Feb-2 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); *Sophie's World*, "Natural Philosophers, Democritus, and Fate"  
+Feb-2 R [Genesis (Chps. 1-3)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); *Sophie's World*, "Natural Philosophers, Democritus, and Fate"  
 
 ### Unit 1, Week 3 -- Holiness 
 
