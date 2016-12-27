@@ -9,11 +9,14 @@ permalink: /philosophy
 
 ![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")
 
+Most college students will take exactly *one* philosophy class. [You should make the most of it.](/philosophy) 
 
-You're taking philosophy -- awesome. [Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
+[Philosophy can help you to find a good job, earn a higher salary than a business degree, become fully human, and find answers to life's deepest questions.](/philosophy-3-major)
 
 
-Use this page to help you succeed.
+If you do take a class, you might find it surprisingly good -- depending on the professor, of course. (A bad professor could make *Disneyland* boring.) 
+
+Why is philosophy interesting? Perhaps because it invites you to think deeply about your life and your world, about reality, death, meaning, science, religion, and beauty. Everyone has opinions. Philosophy invites you to reflect, learn from others, and grow. 
 
 
 ### Just added? 
@@ -49,6 +52,7 @@ Use this page to help you succeed.
 - check out some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
 - and my [personal site](/fun) for fiction, art, and more fun stuff. 
 
+professional 
 
 ### Random Fun Things?
 

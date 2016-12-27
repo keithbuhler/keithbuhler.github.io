@@ -6,6 +6,8 @@ sidebar:
       nav: philosophy
 ---
 
+# Intro to Philosophy  (Spring 2017)
+
 ### Disputation, Unit 1. (Origins) Is Christian belief primarily supported by faith or by reason? 
 Three core Christian beliefs are that God exists and created the world, that all men are sinful, and that Christ died and rose again for our salvation. JP Moreland argues that non-Christians (as well as anti-intellectual Christians) have a secular view of knowledge. Using one or more of these three doctrines as examples of “Christian belief”, summarize whether Christians accept this/these belief(s) because of faith or reason. Summarize in the “objections” section at least one reason to accept the opposite of your thesis. You are free to argue that these beliefs are supported by both faith and reason, but you must answer the question about which one is primary. 
 

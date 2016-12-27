@@ -28,7 +28,7 @@ philosophy:
     children:
       - title: "Start Here"
         url: http://www.keithbuhler.com//philosophy
-      - title: "Get to Know You"
+      - title: "An Optional Survey"
         url: https://docs.google.com/forms/d/e/1FAIpQLSfkn9Ri7nuLqDmAFlh0J6mwi0mMaC37jAgMI4um1-i-wgqlYA/viewform
       - title: "Syllabi"
         url: http://www.keithbuhler.com/syllabi
@@ -50,22 +50,14 @@ philosophy:
         url: http://www.keithbuhler.com/philosophy-6-next
       - title: "Should I Major?"
         url: http://www.keithbuhler.com/philosophy-3-major
-      - title: "Other Resources"
-        url: http://www.keithbuhler.com/philosophy-resources
-  - title: "Majoring"
-    children:
-      - title: "Why Study Philosophy?"
-        url: http://www.whystudyphilosophy.com/  
-  - title: "Graduate School?" 
-    children:
-      - title: "My Story"
+      - title: "Should I Consider Grad School?" 
         url: http://www.keithbuhler.com/phd-how-to
-      - title: "professional Philosophy"
+      - title: "Should I Consider a Career?"
         url: http://www.keithbuhler.com/philosophy-7-profession
   - title: "Fun Stuff"
       - title: "Contact me"
         url: http://www.keithbuhler.com/contact
       - title: "Wikipedia's Philosophy Trick"
         url: http://www.keithbuhler.com/wikipedia
-      - title: "More Dr. Buhler Things"
+      - title: "More Dr Buhler Things"
         url: http://www.keithbuhler.com/fun
