@@ -55,6 +55,7 @@ philosophy:
       - title: "Should I Consider a Career?"
         url: http://www.keithbuhler.com/philosophy-7-profession
   - title: "Fun Stuff"
+    children:
       - title: "Contact me"
         url: http://www.keithbuhler.com/contact
       - title: "Wikipedia's Philosophy Trick"
