@@ -54,98 +54,98 @@ You will be graded primarily on reading, participation, and papers, plus applica
 
 This tells you the reading, topic for each day. The outline is *subject to minor changes.*
 
+## Outline FPA:
+
+This tells you the reading, topic for each day. The outline is *subject to minor changes.*
+
 ### Unit 1, Week 1 Origins (Faith and Reason, Myth, Holiness)
 
-Jan-10 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
-Jan-12 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
+Jan-23 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
+Jan-26 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 
- 
 
 
 ### Unit 1, Week 2 Myth 
 
-Jan-17 T [Sophie's World,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
-Jan-19 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); Sophie's World, "Natural Philosophers, Democritus, and Fate"  
+Jan-31 T [Sophie's World,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
+Feb-2 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); Sophie's World, "Natural Philosophers, Democritus, and Fate"  
 
 ### Unit 1, Week 3 Holiness 
 
-Jan-24 T Sophie's World, "Socrates, Athens, Plato"; Plato, Euthyphro  
-Jan-26 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
+Feb-7 T Sophie's World, "Socrates, Athens, Plato"; Plato, Euthyphro  
+Feb-9 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
 ### Unit 2, Week 4 Socrates (Philosophy, Dialectic, Death)
 
-Jan-31 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
-Feb-2 R Apology Discussion  
+Feb-14 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
+Feb-16 R Apology Discussion  
 
 ### Unit 2, Week 5 Dialectic
 
-Feb-7 T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?   
-Feb-9 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
+Feb-21 T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?   
+Feb-23 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
 
 ### Unit 2, Week 6 Death
-Feb-14 T Plato, Phaedo (116-143) - Was Socrates true to his principles, even in death?  
-Feb-16 R Plato, Phaedo II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
+Feb-28 T Plato, Phaedo (116-143) - Was Socrates true to his principles, even in death?  
+Mar-2 R Plato, Phaedo II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
 
 ### Unit 3, Week 7 The Soul
 
-Feb-21 T Plato, Phaedo (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
-Feb-23 R Phaedo Discussion, Kreeft *Philosophy 101* (131-148)  
+Mar-7 T Plato, Phaedo (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
+Mar-9 R Phaedo Discussion, Kreeft *Philosophy 101* (131-148)  
 
 ### Unit 3, Week 8 Forms
 
-Feb-28 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
-Mar-2 R Forms Discussion (Optional: Read Sophie's World "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
+Mar-14 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
+Mar-16 R Forms Discussion (Optional: Read Sophie's World "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
 ### Unit 4, Week 9 Logic 
 
-Mar-7 T Kreeft, Socratic Logic, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  (Midterms Due)
-Mar-9 R Kreeft, Socratic Logic III, "Material Fallacies"   
-
-Mar 13-20 *Spring Break*  
+Mar-21 T Kreeft, Socratic Logic, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  
+Mar-23 R Kreeft, Socratic Logic III, "Material Fallacies"  
 
 ### Unit 4, Week 10 Reasoning
-Mar-21 T Kreeft, Socratic Logic, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
-Mar-23 R Kreeft, Socratic Logic VIII, "Reasoning"; Willard, "Jesus the Logician"  
+Mar-28 T Kreeft, Socratic Logic, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
+Mar-30 R Kreeft, Socratic Logic VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
 ### Unit 5, Week 11 Augustine
 
-Mar-28 T *Confessions* 1 - Augustine and longing for God's presence. Sophie's World "Two Cultures"   
-Mar-30 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
+Apr-4 T *Confessions* 1 - Augustine and longing for God's presence. Sophie's World "Two Cultures"   
+Apr-6 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
 
 ### Unit 5, Week 12 Evil
 
-Apr-4 T  *Confessions*, 7 - Does evil exist?   
-Apr-6 R *Confessions* Discussion  
+Apr-11 T  *Confessions*, 7 - Does evil exist?   
+Apr-13 R *Confessions* Discussion  
 
+**Apr 17-21 Easter Break**
 
 ### Unit 5, Week 13 God
 
-Apr-11 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; Sophie's World "The Middle Ages"  
-Apr-13 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
+Apr-25 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; Sophie's World "The Middle Ages"  
+Apr-27 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
+
 
 ### Unit 6, Week 14 2001: A Space Odyssey
  
-Apr-25 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
-Apr-27 R Dave as the New Adam  
+May-2 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
+May-4 R Dave as the New Adam  
 
 
 ### Unit 6, Week 15 Wall-E
 
-May-2 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) as E.T., Hal 9000, and Adam  
-May-4 R Wall-E and Coming Down to Earth  
+May-9 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) as E.T., Hal 9000, and Adam  
+May-11 R Wall-E and Coming Down to Earth  
 
 ### Unit 6, Week 16 Tree of Life
-May-9 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
+May-16 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
-May-11 R Tree of Life Discussion  
+May-18 R Tree of Life Discussion  
+
 
 FPA 
-
-May-16 T
-May-18 R
-
 
 May-23 T
 May-25 R
@@ -245,98 +245,86 @@ This tells you the reading, topic for each day. The outline is *subject to minor
 
 ### Unit 1, Week 1 Origins (Faith and Reason, Myth, Holiness)
 
-Jan-23 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
-Jan-26 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
-
- 
+Jan-10 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
+Jan-12 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 
 
 ### Unit 1, Week 2 Myth 
 
-Jan-31 T [Sophie's World,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
-Feb-2 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); Sophie's World, "Natural Philosophers, Democritus, and Fate"  
+Jan-17 T [Sophie's World,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
+Jan-19 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); Sophie's World, "Natural Philosophers, Democritus, and Fate"  
 
 ### Unit 1, Week 3 Holiness 
 
-Feb-7 T Sophie's World, "Socrates, Athens, Plato"; Plato, Euthyphro  
-Feb-9 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
+Jan-24 T Sophie's World, "Socrates, Athens, Plato"; Plato, Euthyphro  
+Jan-26 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
 ### Unit 2, Week 4 Socrates (Philosophy, Dialectic, Death)
 
-Feb-14 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
-Feb-16 R Apology Discussion  
+Jan-31 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
+Feb-2 R Apology Discussion  
 
 ### Unit 2, Week 5 Dialectic
 
-Feb-21 T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?   
-Feb-23 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
+Feb-7 T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?   
+Feb-9 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
 
 ### Unit 2, Week 6 Death
-Feb-28 T Plato, Phaedo (116-143) - Was Socrates true to his principles, even in death?  
-Mar-2 R Plato, Phaedo II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
+Feb-14 T Plato, Phaedo (116-143) - Was Socrates true to his principles, even in death?  
+Feb-16 R Plato, Phaedo II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
 
 ### Unit 3, Week 7 The Soul
 
-Mar-7 T Plato, Phaedo (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
-Mar-9 R Phaedo Discussion, Kreeft *Philosophy 101* (131-148)  
+Feb-21 T Plato, Phaedo (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
+Feb-23 R Phaedo Discussion, Kreeft *Philosophy 101* (131-148)  
 
 ### Unit 3, Week 8 Forms
 
-Mar-14 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
-Mar-16 R Forms Discussion (Optional: Read Sophie's World "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
+Feb-28 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
+Mar-2 R Forms Discussion (Optional: Read Sophie's World "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
 ### Unit 4, Week 9 Logic 
 
-Mar-21 T Kreeft, Socratic Logic, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  
-Mar-23 R Kreeft, Socratic Logic III, "Material Fallacies"  
+Mar-7 T Kreeft, Socratic Logic, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  (Midterms Due)
+Mar-9 R Kreeft, Socratic Logic III, "Material Fallacies"   
+
+**Mar 13-20 *Easter Break***  
 
 ### Unit 4, Week 10 Reasoning
-Mar-28 T Kreeft, Socratic Logic, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
-Mar-30 R Kreeft, Socratic Logic VIII, "Reasoning"; Willard, "Jesus the Logician"  
+Mar-21 T Kreeft, Socratic Logic, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
+Mar-23 R Kreeft, Socratic Logic VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
 ### Unit 5, Week 11 Augustine
 
-Apr-4 T *Confessions* 1 - Augustine and longing for God's presence. Sophie's World "Two Cultures"   
-Apr-6 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
+Mar-28 T *Confessions* 1 - Augustine and longing for God's presence. Sophie's World "Two Cultures"   
+Mar-30 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
 
 ### Unit 5, Week 12 Evil
 
-Apr-11 T  *Confessions*, 7 - Does evil exist?   
-Apr-13 R *Confessions* Discussion  
+Apr-4 T  *Confessions*, 7 - Does evil exist?   
+Apr-6 R *Confessions* Discussion  
 
-**Easter Break**
 
 ### Unit 5, Week 13 God
 
-Apr-25 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; Sophie's World "The Middle Ages"  
-Apr-27 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
-
+Apr-11 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; Sophie's World "The Middle Ages"  
+Apr-13 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
 
 ### Unit 6, Week 14 2001: A Space Odyssey
  
-May-2 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
-May-4 R Dave as the New Adam  
+Apr-18 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
+Apr-20 R Dave as the New Adam  
 
 
 ### Unit 6, Week 15 Wall-E
 
-May-9 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) as E.T., Hal 9000, and Adam  
-May-11 R Wall-E and Coming Down to Earth  
+Apr-25 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) as E.T., Hal 9000, and Adam  
+Apr-27 R Wall-E and Coming Down to Earth  
 
 ### Unit 6, Week 16 Tree of Life
-May-16 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
+May-2 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
-May-18 R Tree of Life Discussion  
-
-FPA 
-
-May-23 T
-May-25 R
-
-May-30 T
-Jun-1 R
-
-
+May-4 R Tree of Life Discussion  
 
