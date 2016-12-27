@@ -6,7 +6,7 @@ layout: single
 
 ### Introduction
 
-There is a growing trend -- and a positive trend, in my view -- of making explicit how web sites collect and use information of their visitors. I want to ensure that my readers feel as safe as possible and the information below is full disclosure on what happens on keithbuhler.com
+There is a growing trend -- and a positive trend, in my view -- of making explicit how web sites collect and use information of their visitors.[^1] I want to ensure that my readers feel as safe as possible and the information below is full disclosure on what happens on keithbuhler.com
 
 Rest assured that **I will never share your information or email with anyone else.**
 
@@ -14,13 +14,16 @@ Rest assured that **I will never share your information or email with anyone els
 
 Like many other websites, keithbuhler.com uses log files to help learn about when, from where and how often traffic flows to this site. The information in the log files include:
 
-Internet Protocol addresses (IP)
-Types of browser
-Internet Service Provider (ISP)
-Date and time stamp
-Referring and exit pages
-Number of clicks
-All of this information is not linked to anything that is personally identifiable.
+
+Internet Protocol addresses (IP)  
+Types of browser  
+Internet Service Provider (ISP)  
+Date and time stamp  
+Referring and exit pages  
+Number of clicks  
+
+
+None of this type of information is linked to anything that is personally identifiable.
 
 ## Cookies and web beacons
 
@@ -32,7 +35,7 @@ Amazon, a third party affiliate marketing network, uses cookies to help make sur
 
 >keithbuhler.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, amazonsupply.com, or myhabit.com.
 
-I am an "Amazon Affiliate" which means I earn a very small commission on products you buy on Amazon.com after clicking there through my pages. Amazon offers these commissions in exchange for sites like myself to advertise for them and drive traffic to their market. These commissions are very small (usually around 3%) but they can accumulate and help me to feed my family and continue providing you content. 
+I am an "Amazon Affiliate" which means I earn a very small commission on products you buy on Amazon.com after entering through [any of my pages](http://amzn.to/2hIJTol). Amazon offers these commissions in exchange for sites like myself to advertise for them and drive traffic to their market. These commissions are very small (usually around 3%) but they can accumulate and help me to feed my family and continue providing you content. 
 
 Furthermore, these small commissions *never* cost you any extra money, and I will never recommend a product just to make a sale. I only link to products (mostly books) that I have read and honestly enjoy and commend to your interest. 
 
@@ -48,9 +51,10 @@ To measure performance, Google uses small strings of text (known as cookies) tha
 
 Subscribers may choose to receive email updates via MailChimp by submitting an email address to the email subscription form. I use a secure opt-in subscription system and I reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
+Thank you for reading. 
 
-With that said, I’d like to sincerely thank you and my readers.
-
-Keith
+-Keith
 
 Last Updated: Dec 26, 2016
+
+[^1]: Thanks to [Code With Chris](http://codewithchris.com/privacy-policy-and-disclosure/) for inspiring me to create this page. 
