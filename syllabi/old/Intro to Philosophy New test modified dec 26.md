@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-permalink: /syllabusintro
+permalink: 
 ---
 
 #### [PDF of Spring 2017 Syllabus](/pages-philosophy/syllabusintro.pdf)    
