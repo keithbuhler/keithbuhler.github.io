@@ -4,7 +4,7 @@ permalink: /intro
 title: Introduction to Philosophy Syllabus
 ---
 
-#### [PDF of Syllabus, Spring 2017 (FPA)](/pages-philosophy/syllabusintro.pdf)    
+#### [PDF of Syllabus, Spring 2017 (FPA)](/syllabi/syllabus-introduction-to-philosophy-spring-2017.pdf)    
  
 **Instructor: Keith Buhler**     
 **Email:** keith.buhler@uky.edu (this forwards to kbuhler@fpa.edu)  
