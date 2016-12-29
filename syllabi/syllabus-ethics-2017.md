@@ -54,12 +54,12 @@ The Outline (*subject to minor changes.*) tells you the reading, topic for each 
 W       Jan-11  Syllabus day (no reading)   
 F       Jan-13  Introduction (pp. 1-5) 
 
-**Week 2 Purpose of Morality**  
+**Week 2 The Nature and Purpose of Morality**  
 M       Jan-16  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality" (10-39) 
 W       Jan-18  Chapter 1, Thomas Hobbes "On the State of Nature" (39-49)
-F       Jan-20  Discussion of Morality, Good, and Evil
+F       Jan-20  Discussion of the Purpose of Morality
 
-**Week 3 Good and Evil**  
+**Week 3 Good, Evil, and Relativism**  
 M       Jan-23   Chapter 2, "Good and Evil" Introduction, and Melville, "Why is there evil?" (51-63)
 W       Jan-25   
 F       Jan-27   Chapter 3, Herodotus, "Custom is King", Ruth Benedict, "The Case for Moral Relativism" Relativism Discussion   
