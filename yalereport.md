@@ -1,14 +1,8 @@
 ---
 layout: single
-permalink: 
+permalink: /yalereport
 title: The Yale Report of 1828
 ---
-
-- [PDF](/ebooks/yalereport.pdf)
-- [.DOCx](/ebooks/yalereport.docx)
-- [Plain text](/ebooks/yalereport.txt)
-- [Markdown](/ebooks/yalereport.md)
-
 
 ### Introduction by Keith Buhler
 
@@ -22,8 +16,16 @@ In the opening Resolution, the authors explain the structure of the report:
 
 Accordingly, Part I presents a bristling defense of traditional liberal education against the gnawing deprecation of pragmatic and technocratic alternatives. Part II answers the original question about Greek and Latin by extending the argument of Part I to classical languages in particular.
 
+| Downloadable Files                | 
+|-----------------------------------|
+| [PDF](/ebooks/yalereport.pdf)     |
+| [.DOCx](/ebooks/yalereport.docx)  |
+| [Plain text](/ebooks/yalereport.txt) |
+| [Markdown](/ebooks/yalereport.md) |
+
 
 ---
+
 
 
 ### REPORTS ON THE COURSE OF INSTRUCTION IN YALE COLLEGE
