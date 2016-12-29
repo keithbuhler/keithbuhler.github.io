@@ -1,20 +1,46 @@
 ---
 layout: single
-permalink: /yalereport/
+permalink: /yale-report/
 title: The Yale Report of 1828
 description: Readable and downloadable e-text of the famous Yale Report defending Greek, Latin, liberal arts, science, and general education
 ---
 
 - [e-Pub version]
-- [PDF version]
-- [.Doc version]
+- [PDF version](/pages/yale-report.pdf)
+- [.Doc version](/pages/yale-report.docx)
 - [Plain text version]
 
-## Resolution
+### Introduction by Keith Buhler
 
-REPORTS ON THE COURSE OF INSTRUCTION IN YALE COLLEGE; BY A COMMITTEE OF THE CORPORATION, AND THE ACADEMICAL FACULTY. 
+The "Yale Report of 1828" is one of the "most influential documents in the history of American higher education" according to R.J. O'Hara. (Confer *The American College and University: A History* by Frederick Rudolph for an examination of the influence of the Yale Report.) It is still a pleasure to read, and its influence should not wane. 
 
-NEW HAVEN: PRINTED BY HEZEKIAH HOWE. 1828.
+Originally titled "Report of the Faculty", the document was chartered for the simple purpose of defending the study of Greek and Latin languages in higher education. However, to answer the question "Why Greek and Latin?" required (and still requires) answering the fundamental question, "Why education at all?
+
+In the opening Resolution, the authors explain the structure of the report: 
+
+>The expediency of retaining the ancient languages, as an essential part of our course of instruction, is so obviously connected with the object and plan of education in the college, that justice could not be done to the particular subject of inquiry in the resolution, without a brief statement of the nature and arrangement of the various branches of the whole system.
+
+Accordingly, Part I presents a bristling defense of traditional liberal education against the gnawing deprecation of pragmatic and professional alternatives. Part II answers the original question about Greek and Latin by extending the argument of Part I to classical languages in particular. 
+
+It stands today as prophetic of the rise of technical colleges, the proliferation of majors to fit student taste, the elimination of Shakespeare from English Literature curricula, the prejudice of scientific learning against humanistic learning (as if science were not one of the humanities and [philosophy not a science](http://www.philosophyisscience.com)). It also stands as witness against mechanistic, utilitarian, socialist, and technocratic fads that appear to hold sway almost universally, from Berlin to Berkeley. For this reason, The Yale Report a blueprint and outline of humane and generous educational content and methods that classical colleges and high schools (and primary schools) can study, debate, modify, and implement. 
+
+The only objections one can imagine arising in a reader's mind are objections pertaining to the pet obsessions of cultural Marxism -- race, class, sex, gender. The Report was written when only males attended college and when it was openly acknowledged that working class professionals needed less college education.  But these bugbears should not distract the attentive and sympathetic reader, except those for whom identity politics trumps any interest in education per se. For the educator and the student who actually want to become mentally free, the Yale Report is as fresh and wise as when it was written in 1828. 
+
+
+---
+
+
+### REPORTS ON THE COURSE OF INSTRUCTION IN YALE COLLEGE
+
+BY A COMMITTEE OF THE CORPORATION, 
+
+AND THE ACADEMICAL FACULTY. 
+
+PRINTED BY HEZEKIAH HOWE.
+
+NEW HAVEN: 1828.
+
+### Resolution 
 
 *At a Meeting of the President and Fellows of Yale College, Sept. 11th, 1827, the following resolution was passed:*
 
@@ -26,9 +52,9 @@ The expediency of retaining the ancient languages, as an essential part of our c
 
 This report was read to the committee, at their meeting in August. The committee reported their views to the corporation, at their session in September; who voted to accept the report, and ordered it to be printed, together with the papers read before the committee, or such parts of them as the prudential committee and the faculty should judge it expedient to publish. 
 
-# REPORT OF THE FACULTY.
+## The Course of Liberal Education 
 
-## Part I: Containing a summary view of the plan of education in the college.
+*Containing a summary view of the plan of education in the college.*  
 
 The committee of the corporation, to whom was referred the motion, to inquire into the expediency of dispensing with the study of the ancient languages, as a part of the regular course of instruction in this college, having requested the views of the faculty on the subject, we would respectfully submit the following considerations.
 
@@ -36,8 +62,6 @@ We are decidedly of the opinion, that our present plan of education admits of im
 
 The guardians of the college appear to have ever acted upon the principle, that it ought not to be stationary, but continually advancing. Some alteration has accordingly been proposed, almost every year, from its first establishment. It is with no small surprise, therefore, we occasionally hear the suggestion, that our system is unalterable; that colleges were originally planned, in the days of monkish ignorance; and that, “by being immovably moored to the same station, they serve only to measure the rapid current of improvement which is passing by them.”
 
-
-## Report on a Course of Liberal Education
 
 How opposite to all this, is the real state of facts, in this and the other seminaries in the United States. Nothing is more common, than to hear those who revisit the college, after a few years absence, express their surprise at the changes which have been made since they were graduated. Not only the course of studies, and the modes of instruction, have been greatly varied; but whole sciences have, for the first time, been introduced; chemistry, mineralogy, geology, political economy, &c. By raising the qualifications for admission, the standard of attainment has been elevated. Alterations so extensive and frequent, satisfactorily prove, that if those who are entrusted with the superintendence of the institution, still firmly adhere to some of its original features, it is from a higher principle, than a blind opposition to salutary reform. Improvements, we trust, will continue to be made, as rapidly as they can be, without hazarding the loss of what has been already attained.
 
@@ -145,7 +169,9 @@ Young men intended for active employments ought not to be excluded from the coll
 
 The active, enterprising character of our population, renders it highly important, that this bustle and energy should be directed by sound intelligence, the result of deep thought and early discipline. The greater the impulse to action, the greater is the need of wise and skilful guidance. When nearly all the ship’s crew are aloft, setting the topsails, and catching the breezes, it is necessary there should be a steady hand at helm. Light and moderate learning is but poorly fitted to direct the energies of a nation, so widely extended, so intelligent, so powerful in resources, so rapidly advancing in population, strength, and opulence. Where a free government gives full liberty to the human intellect to expand and operate, education should be proportionately liberal and ample. When even our mountains, and rivers, and lakes, are upon a scale which seems to denote, that we are destined to be a great and mighty nation, shall our literature be feeble, and scanty, and superficial?
 
-## Part II: Containing extracts from that part of the report of the faculty in which the resolution of the corporation is more particularly considered.*
+## On the Study of Greek and Latin Classics
+
+*Containing extracts from that part of the report of the faculty in which the resolution of the corporation is more particularly considered.*  
 
 By a liberal education, it is believed, has been generally understood, such a course of discipline in the arts and sciences, as is best calculated, at the same time, both to strengthen and enlarge the faculties of the mind, and to familiarize it with the leading principles of the great objects of human investigation and knowledge. A liberal, is obviously distinct from a professional, eduction. The former is conversant with those topics, an acquaintance with which is necessary or convenient, in any situation of life, the latter, with those which qualify the individual for a particular station, business or employment. The former is antecedent in time, the latter rests upon the former as its most appropriate foundation. A liberal education is fitted to occupy the mind, while its powers are opening and enlarging; a professional education requires an understanding already cultivated by study, and prepared by exercise for methodical and persevering efforts. 
 
@@ -288,15 +314,3 @@ The considerations briefly adverted to, in the necessarily rapid view which they
 Fully convinced of the importance of the thorough study, and an accurate knowledge of the ancient languages, and believing that much misconception regarding their utility has arisen from the fact that they have been but partially studied and acquired, the committee have seen with approbation, that within the last twenty-five years those languages have here received increased attention, and that the classical and other attainments required as a qualification for admittance into the college, have been considerably augmented. The effect of such augmentation has evidently been to elevate the character of the institution, and the standard of scholarship. The period of academic preparation having been prolonged, and consequently the age, at which students will ordinarily apply for admittance extended, they are enabled the more successfully to pursue the studies requiring maturity of intellect, and further to advance in learning and science.
 
 Approving highly the course which has hitherto been pursued, the committee entertain the opinion that the terms of admission may very properly, be gradually raised so as ultimately to render necessary, as a condition of admission, much greater acquirements, especially in the classics, than the laws of the college at present prescribe. The committee, however, do not deem it advisable that the corporation should act on this subject, until they shall have availed themselves of the information and experience of the Faculty, and received from them a specific recommendation.
-
-
-
-## Introduction by R.J. O'Hara
-
-ONE OF THE MOST INFLUENTIAL DOCUMENTS in the history of American higher education was “The Yale Report of 1828.” The report consisted of two parts: a general discussion of the nature of liberal education, and an argument for the retention of Greek and Latin literature in the college curriculum. This transcript of the first part of the Yale Report has been prepared for the Collegiate Way website because one of the report’s themes is the importance of collegiate life itself to student development. The second part of the report, on Classical languages, is more narrowly focused but has also been transcribed for the sake of completeness. 
-
-The historical context in which the Yale Report was written was complex. It included the rise of Jacksonian democracy in the United States, the growing economic power of the young American republic, the increasing prestige of the universities of Germany, and the founding of the University of London. The report functioned as both a public target for critics of American colleges, and as a sword and shield for college defenders. Frederick Rudolph’s classic work The American College and University: A History examines the influence of the Yale Report in detail and is an excellent source of additional information.
-
-What may be lost in detached analysis, however, is the extent to which the report reveals that collegiate life today—the corporate life of small academic societies—is not all that different in many respects from what it was 175 years ago. Have times changed? Of course they have—for one thing, modern students rarely enter a university at age sixteen. But anyone who has taught college students today and who has listened to laments about how terribly hard it is for them to study a subject they don’t like, such as mathematics (or biology, or philosophy, or history, or poetry, or French, or chemistry), will feel right at home among the Yale faculty of 1828 who were “well persuaded, that our students are not so deficient in intellectual powers, as they sometimes profess to be.” And while it has been fashionable for many years to deride the doctrine of in loco parentis as obsolete and oppressive, any unprejudiced reading of the Yale Report will show that the attitude of the faculty toward the students at that time was affectionate, humane, and practical. Times have changed, but as they have changed many aspects of collegiate life have remained the same. Residential college members looking for a provocative document to read for a student discussion group or a freshman tutorial may find in this old report an ideal selection.
-
-—R.J. O’Hara
