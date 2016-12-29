@@ -5,9 +5,10 @@ title: The Yale Report of 1828
 description: Readable and downloadable e-text of the famous Yale Report defending Greek, Latin, liberal arts, science, and general education
 ---
 
-- [PDF](/ebooks/yale-report.pdf)
-- [.DOCx](/ebooks/yale-report.docx)
-- [Plain text][/ebooks/yale-report.txt]
+- [PDF](/pages/yale-report.pdf)
+- [.DOCx](/pages/yale-report.docx)
+- [Plain text](/pages/yale-report.txt)
+- [Markdown](/pages/yale-report.md)
 
 ### Introduction by Keith Buhler
 
