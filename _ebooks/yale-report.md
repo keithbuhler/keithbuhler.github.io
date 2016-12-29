@@ -8,7 +8,6 @@ description: Readable and downloadable e-text of the famous Yale Report defendin
 - [PDF](/ebooks/yale-report.pdf)
 - [.DOCx](/ebooks/yale-report.docx)
 - [Plain text][/ebooks/yale-report.txt]
-- [Kindle](/ebooks/yale-report.epub)
 
 ### Introduction by Keith Buhler
 
