@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /yalereport/
+permalink: 
 title: The Yale Report of 1828
 ---
 

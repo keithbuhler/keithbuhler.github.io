@@ -10,8 +10,6 @@ main:
     url: http://keithbuhler.com/students
 
 phil:
-  - title: "PHILOSOPHY PORTAL"
-    url: http://www.keithbuhler.com/students
   - title: "SYLLABI"
     url: http://www.keithbuhler.com/syllabi
   - title: "HOW TO SUCCEED IN PHILOSOPHY"
@@ -24,13 +22,11 @@ philosophy:
     children:
       - title: "Start Here"
         url: http://www.keithbuhler.com//philosophy
-      - title: "An Optional Survey"
-        url: https://docs.google.com/forms/d/e/1FAIpQLSfkn9Ri7nuLqDmAFlh0J6mwi0mMaC37jAgMI4um1-i-wgqlYA/viewform
       - title: "Syllabi"
         url: http://www.keithbuhler.com/syllabi
   - title: "During Class"
     children:
-      - title: "Succeeding in Philosophy"
+      - title: "How to Succeed "
         url: http://www.keithbuhler.com/philosophy-class
       - title: "Reading Philosophy"
         url: http://www.keithbuhler.com/reading
@@ -40,21 +36,25 @@ philosophy:
         url: http://www.keithbuhler.com/participation
       - title: "Disputations"
         url: http://www.keithbuhler.com/disputations
+      - title: "Logic 101"
+        url: http://www.keithbuhler.com/logic
+      - title: "Slideshows"
+        url: http://www.keithbuhler.com/slideshows
   - title: "After Class"
     children:
       - title: "What to Read Next"
         url: http://www.keithbuhler.com/philosophy-6-next
       - title: "Should I Major?"
         url: http://www.keithbuhler.com/philosophy-3-major
-      - title: "Should I Consider Grad School?" 
-        url: http://www.keithbuhler.com/phd-how-to
-      - title: "Should I Consider a Career?"
+      - title: "What about Grad School?" 
         url: http://www.keithbuhler.com/philosophy-7-profession
   - title: "Fun Stuff"
     children:
       - title: "Contact me"
         url: http://www.keithbuhler.com/contact
-      - title: "Wikipedia's Philosophy Trick"
+      - title: "The Wikipedia Philosophy Trick"
         url: http://www.keithbuhler.com/wikipedia
+      - title: "Blog"
+        url: http://www.keithbuhler.com/buhlerreport/
       - title: "More Dr Buhler Things"
         url: http://www.keithbuhler.com/fun
