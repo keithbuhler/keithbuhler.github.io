@@ -78,71 +78,78 @@ W       Jan-25   Business Ethics, the Place of Ethical Theory
 F       Jan-27   Discussion   
 
 **Week 4 Moral Theories III Virtue Ethics**
-M       Jan-  Virtue Ethics Handout
-W       Jan-  Religious Ethics
-F       Jan-  Discussion of Ethical Theories 
+M       Jan-30  Virtue Ethics Handout
+W       Feb-1  Religious Ethics
+F       Feb-3  Discussion of Ethical Theories 
 
 **Week 5 Inside Job**
-M       Jan-  Inside Job (film) Parts I-III introduction  
-W       Jan-  Inside Job Parts I-IV  
-F       Jan-  Inside Job Part V and discussion   
+M       Feb-6  Inside Job (film) Parts I-III introduction  
+W       Feb-8  Inside Job Parts I-IV  
+F       Feb-10  Inside Job Part V and discussion   
 
 **Week 6 Capitalism**
-M       Oct-10  The Idea and Ideal of Capitalism  (Group 3)    
-W       Oct-12  Corporate Responsibility and its Constituents (Group 4)    
-F       Oct-14  Discussion   
+M       Feb-13  The Idea and Ideal of Capitalism  (Group 3)    
+W       Feb-15  Corporate Responsibility and its Constituents (Group 4)    
+F       Feb-17  Discussion   
 
 **Week 7 Compensation**  
-M       Oct-17  Economic Justice, Executive Compensation 161-176 (Group 5)   
-W       Oct-19  Economic Justice, Executive Compensation 176-191 (Group 6)  
-F       Oct-21  Discussion  
+M       Feb-20  Economic Justice, Executive Compensation 161-176 (Group 5)   
+W       Feb-22  Economic Justice, Executive Compensation 176-191 (Group 6)  
+F       Feb-24  Discussion  
 
 
 **Week 8 Universal Norms**  
-M       Oct-24  Moral Issues in Globalization 305-312  (Group 7)  
-W       Oct-26  Moral Issues in Globalization  313-325 (Group 8)  
-F       Oct-28  Discussion  
+M       Feb-27  Moral Issues in Globalization 305-312  (Group 7)  
+W       Mar-1  Moral Issues in Globalization  313-325 (Group 8)  
+F       Mar-3  Discussion  
 
-**Week 9 
+**Week 9 Universal Norms**  
+M       Mar-6  Moral Issues in Globalization 305-312  (Group 7)  
+W       Mar-8  Moral Issues in Globalization  313-325 (Group 8)  
+F       Mar-10  Discussion    
 
-**Week 10 Universal Norms**  
-M       Oct-24  Moral Issues in Globalization 305-312  (Group 7)  
-W       Oct-26  Moral Issues in Globalization  313-325 (Group 8)  
-F       Oct-28  Discussion  
+**Easter Break**  
+M     Mar-13 Easter Break
+W     Mar-15 Easter Break
+F     Mar-17 Easter Break
+
+**Week 10 Information**  
+M       Mar-20  Deception and Information Disclosure 335-350  (Group 9)   
+W       Mar-22   Deception and Information Disclosure 351-365  (Group 10)   
+F       Mar-24   Discussion  
+
  
-**Week 11 Information**  
-M       Oct-31  Deception and Information Disclosure 335-350  (Group 9)   
-W       Nov-2   Deception and Information Disclosure 351-365  (Group 10)   
-F       Nov-4   Discussion  
+**Week 11 Incentives** 
+M       Mar-27   Business in Politics: Lobbying 501-516  (Group 1)  
+W       Mar-29   Business in Politics: Lobbying 517-534  (Group 2)  
+F       Mar-31  Discussion  
 
-**Week 12 Incentives**  
-M       Nov-7   Business in Politics: Lobbying 501-516  (Group 1)  
-W       Nov-9   Business in Politics: Lobbying 517-534  (Group 2)  
-F       Nov-11  Discussion  
+**Week 12  Employee Rights**
+M       Apr-3  Discrimination, Affirmative Action, and Diversity 535-549  (Group 3)  
+W       Apr-5  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
+F     Apr-7 Discussion
 
-**Week 13 Employee Rights**  
-M       Nov-14  Discrimination, Affirmative Action, and Diversity 535-549  (Group 3)  
-W       Nov-16  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
-F       Nov-18  Whistle-Blowing, Moral Integrity 563-580  (Group 5); and 581-602  (Group 6)   
+**Week 13 Safety**  
+M       Apr-10 The Mirage of Product Safety  (Group 8)    **Unit Paper 3 Due at midnight -- see instructions online**  
+W       Apr-12  The Mirage of Product Safety  (Group 9)  
+F       Apr-14   Discussion
 
-**Week 14 Employee Rights**  
-M       Nov-21  *Thanksgiving Break*   
-W       Nov-23  *Thanksgiving Break*   
-F       Nov-25  *Thanksgiving Break*   
+**Week 14 Moral Organizations**  
+M       Apr-17   Organizational Integrity and Moral Climates 701-711 (Group 9)  
+W       Apr-19   Organizational Integrity and Moral Climates 712-724 (Group 10)  
+F       Apr-21   Film & Discussion
 
-**Week 15 Safety**  
-M       Nov-28  Environmental Ethics and Business  (Group 7)  **Unit Paper 3 Due at midnight -- see instructions online**  
-W       Nov-30  The Mirage of Product Safety  (Group 8)  
-F       Dec-2   Discussion
 
-**Week 16 Moral Organizations**   
-M       Dec-5   Organizational Integrity and Moral Climates 701-711 (Group 9)  
-W       Dec-7   Organizational Integrity and Moral Climates 712-724 (Group 10)  
-F       Dec-9   Film & Discussion
+**Week 15 TBA**
+M     Apr-24 TBA
+W     Apr-26 TBA
+F     Apr-28 TBA
 
-M       Dec-12  Finals Week UK   
-W       Dec-16  Final Paper Due by 11:59PM online.    
-F       Dec-18  Grades Due UK    
+**Finals Week**
+
+M       May-1  Finals Week UK   
+W       May-3  Final Paper Due by 11:59PM online.    
+F       May-5  Grades Due UK    
 
 
 
