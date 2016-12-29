@@ -18,10 +18,10 @@ Accordingly, Part I presents a bristling defense of traditional liberal educatio
 
 | Downloadable Files                | 
 |-----------------------------------|
-| [PDF](/ebooks/yalereport.pdf)     |
-| [.DOCx](/ebooks/yalereport.docx)  |
-| [Plain text](/ebooks/yalereport.txt) |
-| [Markdown](/ebooks/yalereport.md) |
+| [PDF](/yalereport.pdf)     |
+| [.DOCx](/yalereport.docx)  |
+| [Plain text](/yalereport.txt) |
+| [Markdown](/yalereport.md) |
 
 
 ---
