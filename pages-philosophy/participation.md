@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 title: Participation Instructions
-author_profile: true
+author_profile: false
 sidebar: 
       nav: philosophy
 permalink: /participation

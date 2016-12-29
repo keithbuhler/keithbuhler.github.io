@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-title: Disputations
+title: How to Write a Disputation
 permalink: /disputations
 sidebar: 
       nav: philosophy
@@ -15,8 +15,6 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 
 ----
-
-## How to write a disputation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mS8QnAT3MRw" frameborder="0" allowfullscreen></iframe>
 

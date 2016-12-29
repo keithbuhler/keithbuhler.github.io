@@ -2,7 +2,7 @@
 layout: philosophy
 title: Discussion 101
 permalink: /discussion101
-author_profile: true
+author_profile: false
 sidebar: 
       nav: philosophy
 ---

@@ -1,15 +1,14 @@
 ---
 layout: single
-permalink: /yalereport
+permalink: /yalereport/
 title: The Yale Report of 1828
-description: Readable and downloadable e-text of the famous Yale Report defending Greek, Latin, liberal arts, science, and general education
 ---
-
 
 - [PDF](/ebooks/yalereport.pdf)
 - [.DOCx](/ebooks/yalereport.docx)
 - [Plain text](/ebooks/yalereport.txt)
 - [Markdown](/ebooks/yalereport.md)
+
 
 ### Introduction by Keith Buhler
 
