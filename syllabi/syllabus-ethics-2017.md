@@ -47,22 +47,22 @@ You will be graded primarily on reading, participation, and papers, plus applica
 
 ## Outline:
 
-The Outline tells you the reading, topic for each day. The outline is *subject to minor changes.*
+The Outline (*subject to minor changes.*) tells you the reading, topic for each day. All readings are from Pojman, "The Moral Life" unless otherwise noted. 
 
 
-**Week 1 Basics**
-W       Jan-11  Syllabus day (no reading)  
-F       Jan-13  Introduction, "On the Nature of Morality" (1-6) 
+**Week 1 Fundamentals**  
+W       Jan-11  Syllabus day (no reading)   
+F       Jan-13  Introduction (pp. 1-5) 
 
-**Week 2 Good and Evil**  
-M       Jan-16  "Lord of the Flies" and "On the Nature and Purpose of Morality (10-39)
-W       Jan-18  Chapter 2, Introduction, and Melville, "Why is there evil?" (51-63)
-F       Jan-20  Dostoevsky, "Why is there evil?" (63-69)
+**Week 2 Purpose of Morality**  
+M       Jan-16  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality" (10-39) 
+W       Jan-18  Chapter 1, Thomas Hobbes "On the State of Nature" (39-49)
+F       Jan-20  Discussion of Morality, Good, and Evil
 
-**Week 3 Relativism**  
-M       Jan-23   Herodotus, "Custom is King", Ruth Benedict, "The Case for Moral Relativism"
+**Week 3 Good and Evil**  
+M       Jan-23   Chapter 2, "Good and Evil" Introduction, and Melville, "Why is there evil?" (51-63)
 W       Jan-25   
-F       Jan-27   Discussion   
+F       Jan-27   Chapter 3, Herodotus, "Custom is King", Ruth Benedict, "The Case for Moral Relativism" Relativism Discussion   
 
 **Week 4 Utilitarianism**
 M       Jan-30  (Unit Paper 1 Due by Midnight)
@@ -70,18 +70,18 @@ W       Feb-1
 F       Feb-3  
 
 **Week 5 Deontological Ethics**
-M       Feb-6  Inside Job (film) Parts I-III introduction  
-W       Feb-8  Inside Job Parts I-IV  
+M       Feb-6  
+W       Feb-8  
 F       Feb-10  Inside Job Part V and discussion   
 
 **Week 6 Virtue Ethics**
-M       Feb-13  The Idea and Ideal of Capitalism  (Group 3)    
-W       Feb-15  Corporate Responsibility and its Constituents (Group 4)    
+M       Feb-13  
+W       Feb-15  
 F       Feb-17  Discussion   
 
-**Week 7 Feminist**  
+**Week 7 Feminist Ethics**  
 M       Feb-20  (Unit Paper 2 Due by Midnight)
-W       Feb-22  Economic Justice, Executive Compensation 176-191 (Group 6)  
+W       Feb-22  
 F       Feb-24  Discussion  
 
 

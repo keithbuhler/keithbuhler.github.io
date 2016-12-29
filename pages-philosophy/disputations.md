@@ -129,3 +129,9 @@ Socrates argues that truly real objects he calls "forms" exist and are stable, e
 
 # Topics Business Ethics
 
+
+# Topics Introduction to Ethics
+
+### Unit 1. (Nature of Morality) Is the moral law a law of nature or a social convention? 
+
+If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies* and others, argue for one of these two claims. 
