@@ -1,17 +1,17 @@
 ---
 layout: single
-permalink: /yale-report/
+permalink: /yalereport
 title: The Yale Report of 1828
 description: Readable and downloadable e-text of the famous Yale Report defending Greek, Latin, liberal arts, science, and general education
 ---
 
-- [PDF](/pages/yale-report.pdf)
-- [.DOCx](/pages/yale-report.docx)
-- [Plain text](/pages/yale-report.txt)
-- [Markdown](/pages/yale-report.md)
+
+- [PDF](/ebooks/yalereport.pdf)
+- [.DOCx](/ebooks/yalereport.docx)
+- [Plain text](/ebooks/yalereport.txt)
+- [Markdown](/ebooks/yalereport.md)
 
 ### Introduction by Keith Buhler
-
 
 The “Yale Report of 1828” is one of the “most influential documents in the history of American higher education” according to R.J. O’Hara. It is still a pleasure to read, and its influence should not wane.
 
@@ -315,11 +315,9 @@ Approving highly the course which has hitherto been pursued, the committee enter
 
 ## Post Script on Classical Education, By Keith Buhler
 
-## Commentary  ##
-
 The Yale Report is a blueprint and outline of humane and generous educational content and methods that classical colleges and high schools (and primary schools) can study, debate, modify, and implement. It stands as witness against mechanistic, utilitarian, socialist, and technocratic fads that now appear to hold sway almost universally, from Berlin to Berkeley. 
 
-The Report strikes one today as prophetic. In retrospect, one can already see the fermenting soil that would result in abandongment of Great Books, the proliferation of majors to fit student taste, the rise of meaningless for-profit colleges, and gradual the elimination of Shakespeare from English Literature curricula. 
+The Report strikes one today as prophetic. In retrospect, one can already see the fermenting soil that would result in abandonment of Great Books, the proliferation of majors to fit student taste, the rise of meaningless for-profit colleges, and gradual the elimination of Shakespeare from English Literature curricula. 
 
 Today, while one can find academics fighting against the barbaric prejudice for technical, scientific learning over humanistic learning, few seem to have the courage to conclude that science itself is one of the humanities and philosophy itself is one of the sciences. The Report shows a way. 
 
