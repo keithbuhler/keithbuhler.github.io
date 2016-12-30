@@ -3,25 +3,23 @@ layout: single
 title: 
 permalink: /students
 header:
-      image: http://www.keithbuhler.com/images/morpheushd.jpg
+      image: 
 sidebar: 
-      nav: philosophy
+      nav: 
 --- 
 
+![Morpheus](http://www.keithbuhler.com/images/morpheushd.jpg)
 
+Morpheus is right. <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> Philosophy majors do well in today's job market. </a>
 
-<a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> It's true.  Philosophy majors do well in today's job market. </a>
-
-You're taking philosophy? Awesome![Studying philosophy is very good idea](/philosophy-3-major) -- not only for your career and life goals. It's a good idea because it allows you to explore answers to some of life's deepest questions and have a lot of fun doing it.
+More important than money, [studying philosophy is can make you happier, wiser, and can help you achieve your life goals.](http://www.keithbuhler.com/philosophy-3-major)
 
 <br>
 
 <center>
 
-Click the navigation sidebar to explore the Philosophy Portal.
+[Click here to enter the Philosophy Portal.](http://www.keithbuhler.com/philosophy)
 
 <a target="_blank" href="/philosophyportal-splash">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
 </center>
-
-<br>
