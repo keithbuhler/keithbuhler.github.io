@@ -90,8 +90,9 @@ I articulate neo-Aristotelian accounts of virtue and practical reason according 
 While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
 
 ### WORKS IN PROGRESS
-"Organic Naturalism: Teleological Realism in the Foundation of Ethics" (submitted for initial review)  
-"The Case for Agnosticism about Causal Closure" (submitted for initial review)  
+1. "The Case for Agnosticism about Causal Closure" (revise and resubmit)  
+2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (undergoing revisions)  
+3. "Virtue and Imaginative Resistance" (undergoing revisions)  
 
 
 ### PRESENTATIONS

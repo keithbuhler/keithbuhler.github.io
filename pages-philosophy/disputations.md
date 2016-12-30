@@ -129,6 +129,16 @@ Socrates argues that truly real objects he calls "forms" exist and are stable, e
 
 # Topics Business Ethics
 
+### Unit 1 (Nature of Morality)
+
+### Unit 2 (Moral Theories)
+
+### Unit 3 (Capitalism and Money)
+
+### Unit 5 (Equality and Justice)
+
+### Unit 6 ()
+
 
 # Topics Introduction to Ethics
 
@@ -137,11 +147,20 @@ Socrates argues that truly real objects he calls "forms" exist and are stable, e
 If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies*, "Billy Budd", or others from the text, argue for one of these two claims. 
 
 
-### Unit 2 (Moral Theories)
+### Unit 2 (Moral Theories) Option A - Defend a moral theory against a rival
 
-### Unit 3 (Moral Issues)
+One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot replace one's lived moral but it can help to prune and grow it. We discussed six related but distinct moral theories: utilitarianism, Kantian deontology, divine command theory, virtue ethics, stoicism, feminism/ethics of care. Which of the six moral theories do you find most useful and persuasive? For your objections section, state the "second best" or runner up moral theory. You may analyze an example such as the Ring of Gyges, the Good Samaritan, Lord of the Flies, Billy Budd, the Longboat, etc. In your "replies" section show how the "runner up" gives an inadequate response  to this example and how your theory gives a more adequate response.
 
-### Unit 4 (Moral Problems)
+### Unit 2 (Moral Theories) Option B -- Virtue Ethics
+William Frankena critiques virtue-based ethical systems while Williams defends virtue. 
+
+### Unit 3 (Moral Issues) Option A
+
+### Unit 3 (Moral Issues) Option B
+
+### Unit 4 (Moral Problems) Option A
+
+### Unit 4 (Moral Problems) Option B
 
 ### Unit Paper #5 (Paper Revision) 
 
