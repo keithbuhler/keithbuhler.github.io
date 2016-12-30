@@ -41,7 +41,7 @@ Furthermore, these small commissions *never* cost you any extra money, and I wil
 
 ### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy.](https://support.google.com/analytics/answer/6004245)
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy.](https://support.google.com/analytics/answer/6004245) Also, you can use [Google's Chrome app](https://tools.google.com/dlpage/gaoptout) to opt out of analytic data collection.
 
 ### Google Site Stats
 

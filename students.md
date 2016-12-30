@@ -18,7 +18,7 @@ More important than money, [studying philosophy is can make you happier, wiser, 
 
 <center>
 
-[Click here to enter the Philosophy Portal.](http://www.keithbuhler.com/philosophy)
+<a target="_blank" href="http://www.keithbuhler.com/philosophy"> Click here to enter the Philosophy Portal.</a>
 
 <a target="_blank" href="/philosophyportal-splash">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
