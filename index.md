@@ -9,10 +9,16 @@ author_profile: true
 
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
-Keith Buhler is a philosopher and classical educator currently working at the University of Kentucky. He has been an educator for more than nine years, teaching both high school and college as well as speaking publicly. His teaching experience spans the curriculum, from Plato to contemporary film. 
+I'm Keith Buhler, a philosopher and classical educator. I currently teach as a postdoc at the University of Kentucky. 
 
-His primary research provides a contemporary naturalistic defense of the notion that a good human life is a virtuous and rational life. More broadly, he investigates multiple themes in the history of philosophy and the philosophy of science that center on the putative split between facts and values. For example, does science have anything to contribute to ethics? And is ethics a science? Is virtue ethics religious ethics or can it be secular? 
+For more than nine years, I've been helping students of all ages to grow intellectually by reflecting on great books, film, art, and their own lives.
 
-Dr. Buhler completed his PhD in Philosophy at the University of Kentucky in 2016. He holds a Master's degree in Eastern Orthodox Theology from the University of Balamand in Lebanon and a BA in Humanities at the Torrey Honors Institute at Biola University. 
+My primary research in contemporary naturalism defends the notion that the good life is the virtuous and rational life. More broadly, I investigate themes in metaethics and the philosophy of science such as the putative split between facts and values. Does science have anything to contribute to ethics? Is ethics, in any real sense, a science? 
 
-      Contact: 562.23O.292O  or keithedbuhler at gmail 
+I completed my PhD in philosophy in 2016, and I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+
+
+| Contact                |
+|------------------------|
+| 562.23O.292O           |
+| keithedbuhler at gmail |

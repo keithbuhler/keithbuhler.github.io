@@ -65,19 +65,19 @@ W       Jan-25   Chapter 2 (second half, 90-128)
 F       Jan-27   Chapter 3 (130-152) and Discussion
 
 **Week 4 Utilitarianism**
-M       Jan-30  (Unit Paper 1, Nature of Morality Due by Midnight)
-M       Jan-30  Part II Introduction, Chapter 4 "Seaman Holmes and the Longboat" (191-205)
-W       Feb-1  
-F       Feb-3  
+M       Jan-30  (Unit Paper 1, Nature of Morality Due by Midnight)  
+M       Jan-30  Part II Introduction, Chapter 4 "Seaman Holmes and the Longboat" (191-205)  
+W       Feb-1   Chapter 4, 205-234
+F       Feb-3  Discussion
 
 **Week 5 Deontological Ethics**
-M       Feb-6  
-W       Feb-8  
-F       Feb-10  Inside Job Part V and discussion   
+M       Feb-6  Chapter 5. "Immanual Kant" and "Kant's Theory" (237-259)
+W       Feb-8  Chapter 5. "Does Morality Depend on Religion?" and "Divine Command Theory" (294-300)
+F       Feb-10  Discussion   
 
 **Week 6 Virtue Ethics**
-M       Feb-13  
-W       Feb-15  
+M       Feb-13  Chapter 6, Aristotle, "Virtue Ethics" and MacIntyre "the Virtues", (314-346)
+W       Feb-15  "Sermon on the Mount" (388-391) and "Stoic Catechism" (415-425)
 F       Feb-17  Discussion   
 
 **Week 7 Feminist Ethics**  
