@@ -21,7 +21,7 @@ Accordingly, Part I presents a bristling defense of traditional liberal educatio
 | [PDF](/yalereport.pdf)     |
 | [.DOCx](/yalereport.docx)  |
 | [Plain text](/yalereport.txt) |
-| [Markdown](/https://raw.githubusercontent.com/keithbuhler/keithbuhler.github.io/master/yalereport.md) |
+| [Markdown](https://raw.githubusercontent.com/keithbuhler/keithbuhler.github.io/master/yalereport.md) |
 
 
 ---

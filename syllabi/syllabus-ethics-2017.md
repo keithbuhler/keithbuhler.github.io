@@ -55,17 +55,18 @@ W       Jan-11  Syllabus day (no reading)
 F       Jan-13  Introduction (pp. 1-5) 
 
 **Week 2 The Nature and Purpose of Morality**  
-M       Jan-16  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality" (10-39) 
-W       Jan-18  Chapter 1, Thomas Hobbes "On the State of Nature" (39-49)
+M       Jan-16  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality", Thomas Hobbes "On the State of Nature" (10-49)
+W       Jan-18  Chapter 1, and ["Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit?usp=sharing)
 F       Jan-20  Discussion of the Purpose of Morality
 
 **Week 3 Good, Evil, and Relativism**  
-M       Jan-23   Chapter 2, "Good and Evil" Introduction, and Melville, "Why is there evil?" (51-63)
-W       Jan-25   
-F       Jan-27   Chapter 3, Herodotus, "Custom is King", Ruth Benedict, "The Case for Moral Relativism" Relativism Discussion   
+M       Jan-23   Chapter 2 (first half, 51-89)
+W       Jan-25   Chapter 2 (second half, 90-128)
+F       Jan-27   Chapter 3 (130-152) and Discussion
 
 **Week 4 Utilitarianism**
-M       Jan-30  (Unit Paper 1 Due by Midnight)
+M       Jan-30  (Unit Paper 1, Nature of Morality Due by Midnight)
+M       Jan-30  Part II Introduction, Chapter 4 "Seaman Holmes and the Longboat" (191-205)
 W       Feb-1  
 F       Feb-3  
 
@@ -80,19 +81,19 @@ W       Feb-15
 F       Feb-17  Discussion   
 
 **Week 7 Feminist Ethics**  
-M       Feb-20  (Unit Paper 2 Due by Midnight)
+M       Feb-20  
 W       Feb-22  
 F       Feb-24  Discussion  
 
 
 **Week 8 Egoism**  
-M       Feb-27  Moral Issues in Globalization 305-312  (Group 7)  
-W       Mar-1  Moral Issues in Globalization  313-325 (Group 8)  
+M       Feb-27  (Unit Paper 2, Moral Theories Due by Midnight)
+W       Mar-1  
 F       Mar-3  Discussion  
 
 **Week 9 The Meaning of Life**  
-M       Mar-6  (Unit Paper 3 Due by Midnight)
-W       Mar-8  Moral Issues in Globalization  313-325 (Group 8)  
+M       Mar-6  
+W       Mar-8  
 F       Mar-10  Discussion    
 
 **Easter Break**  
@@ -101,41 +102,41 @@ W     Mar-15 Easter Break
 F     Mar-17 Easter Break
 
 **Week 10 Autonomy**  
-M       Mar-20  Deception and Information Disclosure 335-350  (Group 9)   
-W       Mar-22   Deception and Information Disclosure 351-365  (Group 10)   
+M       Mar-20  
+W       Mar-22  
 F       Mar-24   Discussion  
 
  
 **Week 11 Sexual Ethics** 
-M       Mar-27   Business in Politics: Lobbying 501-516  (Group 1)  
-W       Mar-29   Business in Politics: Lobbying 517-534  (Group 2)  
+M       Mar-27  (Unit Paper 3, Moral Issues Due by Midnight)
+W       Mar-29  
 F       Mar-31  Discussion  
 
 **Week 12  Abortion**
-M       Apr-3  (Unit Paper 4 Due by Midnight)  
-W       Apr-5  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
+M       Apr-3  
+W       Apr-5  
 F     Apr-7 Discussion
 
 **Week 13 Euthanasia**  
-M       Apr-10 The Mirage of Product Safety  (Group 8)    
-W       Apr-12  The Mirage of Product Safety  (Group 9)  
+M       Apr-10 
+W       Apr-12 
 F       Apr-14   Discussion
 
-**Week 14 Animals**  
-M       Apr-17   Organizational Integrity and Moral Climates 701-711 (Group 9)  
-W       Apr-19   Organizational Integrity and Moral Climates 712-724 (Group 10)  
-F       Apr-21   Film & Discussion
+**Week 14 Animal Rights**  
+M       Apr-17   
+W       Apr-19    
+F       Apr-21   Discussion
 
 
 **Week 15 Globalism**
-M     Apr-24 (Unit Paper 5 Due by Midnight)
-W     Apr-26 TBA
-F     Apr-28 TBA
+M     Apr-24 (Unit Paper 4, Moral Problems Due by Midnight)
+W     Apr-26 
+F     Apr-28 Discussion
 
 **Finals Week**
 
-M       May-1  Final Paper Due (A Re-Written Unit Paper)
-W       May-3  Final Paper Due by 11:59PM online.    
-F       May-5  Grades Due UK    
+M       May-1  Unit Paper 5, Final Paper (Revision) Due by 11:59pm online
+W       May-3  
+F       May-5  Reflection and Extra Credit due by 11:59PM online.    
 
 {% include boilerplate.html %}

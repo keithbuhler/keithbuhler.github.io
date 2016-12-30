@@ -107,7 +107,7 @@ Kreeft shows how traditional logic and language indicates that reality is real a
 One of Augustine's big concerns is evil and goodness. He calls the Christian God good from the very first page, and says he struggled with how to understand evil. Does it exist? Certainly some people are evil (satan, Stalin) and some deeds are evil (like Augustine’s stealing the pear) but is evil a substance or the privation of goodness?  Use Augustine’s arguments (especially Book VII) either in your arguments or objections, and argue your thesis answering this question. 
 
 ### Disputation, Unit 6 (Re-Write)
-Choose one of your previous disputations, and make the following modifications. Remove the section headings ("Objection", "I argue", etc.); write a strong introduction and conclusion and introduction; add new arguments if and new citations if you find any; make any other improvements; triple-check for spelling errors and polish it. 
+Choose one of your previous disputations, and make the following modifications. Remove the section headings ("Objection", "I argue", etc.); write a strong introduction and conclusion and introduction; add new arguments and new citations if you find any; make any other improvements; triple-check for spelling errors and polish it. 
 
 ### Extra Credit Disputation Options (1000 minimum)
 
@@ -134,4 +134,28 @@ Socrates argues that truly real objects he calls "forms" exist and are stable, e
 
 ### Unit 1. (Nature of Morality) Is the moral law a law of nature or a social convention? 
 
-If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies* and others, argue for one of these two claims. 
+If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies*, "Billy Budd", or others from the text, argue for one of these two claims. 
+
+
+### Unit 2 (Moral Theories)
+
+### Unit 3 (Moral Issues)
+
+### Unit 4 (Moral Problems)
+
+### Unit Paper #5 (Paper Revision) 
+
+For this paper, you are going to transform one of your previous four disputations into a term paper. Choose your favorite/best paper and make the following modifications: 
+
+1. Remove the bold section headings ("Objection", "I argue", etc.)
+2. Add a strong introduction
+3. Add a strong conclusion
+2. Add at least one new argument into the body if you can think of any
+3. Consider adding a third objection and reply
+4. Consider adding new citations to support your points
+5. Triple-check for spelling errors
+6. Print and read your paper, "grading" it yourself. Grade mercilessly.
+7. Make corrections, print, and re-read again.
+
+
+For the introduction, 
