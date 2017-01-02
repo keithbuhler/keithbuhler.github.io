@@ -2,6 +2,7 @@
 title: Source Code
 layout: single
 author_profile: true
+permalink: /source/
 ---
 
 The content and style of this site was created by Keith Buhler with [Jekyll.](https://jekyllrb.com/)  You can view the source code [here.](github.com/keithbuhler/keithbuhler.github.io)
