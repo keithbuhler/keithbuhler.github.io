@@ -4,8 +4,7 @@ permalink: /dissertation4
 layout: single
 ---
 
-[Introduction](/dissertation0)
-
+1. [Introduction](/dissertation0)
 2. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
 2. [Chapter 2: Organic Naturalism](/dissertation2)
 3. [Chapter 3: Practical Primates](/dissertation3)

@@ -5,17 +5,18 @@ title: Introduction to Morality and Society Syllabus
 ---
 
 #### [PDF version](/syllabi/syllabus-ethics-2017.pdf)    
- 
-**Instructor:** Keith Buhler   
-**Email:** keith.buhler@uky.edu     
-**Twitter:** keith_buhler   
-**Office Hours:** Monday, Wednesday, 12-1pm; after class; by appointment  
+ **Instructor:** Keith Buhler     
 
-### Text: 
-[*The Moral Life*, Pojman and Vaughn (Fifth Edition)](http://amzn.to/2iFegft)
+**Email:** keith.buhler@uky.edu     
+
+**Twitter:** keith_buhler   
+
+**Office Hours:** Monday, Wednesday, 12-1pm; after class; by appointment    
+
+**Text:** [*The Moral Life*, Pojman and Vaughn (Fifth Edition)](http://amzn.to/2iFegft)  
 
 ### Description:
-This course introduces you to deeper and more careful thinking about morality, society, good, and evil. Each week will introduce a topic and encourage reflection on a literary or philosophical writing, which will be discussed in class. You will not only learn some new terms, concepts, and facts, but we will practice thinking philosophically about these topics and about our own lives. We will argue for and against significant truth claims, testing ourselves and the argument. In this way, we will not only think abstractly but may see our own moral failings, become more self-aware, more humble, and more moral.
+This course is an exercise in careful and deep thinking about morality, society, good, and evil. Each week will introduce a topic and encourage reflection on a literary or philosophical writing, which will be discussed in class. You will not only learn some new terms, concepts, and facts, but we will practice thinking philosophically about these topics and about our own lives. We will argue for and against significant truth claims, testing ourselves and the argument. In this way, we will not only think abstractly but may see our own moral failings, become more self-aware, more humble, and more moral.
 
 
 ### Goals:
@@ -25,7 +26,14 @@ This course introduces you to deeper and more careful thinking about morality, s
 * To reflect on our own lives, thoughts, and actions and become more virtuous, thoughtful, and wise human beings in the pursuit of goodness, truth, and beauty.
 
 ### Scope and Sequence:
-The course is broken into 4 Units of 3-4 weeks each: Unit 1. The Nature and Purpose of Morality (weeks 1, 2, 3; Unit 2. Moral Theory (weeks 4, 5, 6, 7); Unit 3, What is Worthwhile (weeks 8, 9, 10); and Unit 4 Applied Ethics (weeks 11-16).  Each unit consists of three components. (1) Reading and weekly quizzes, (2) Discussion in class, (3) Writing.  
+The course is broken into 4 Units of 3-4 weeks each: 
+
+- Unit 1. The Nature and Purpose of Morality (weeks 1, 2, 3) 
+- Unit 2. Moral Theory (weeks 4, 5, 6, 7); 
+- Unit 3, What is Worthwhile (weeks 8, 9, 10); and 
+- Unit 4 Applied Ethics (weeks 11, 12, 13, 14, 15, 16).  
+
+Each unit consists of three components. (1) Reading and weekly quizzes, (2) Discussion in class, (3) Writing. 
 
 ### Grades:
 You will be graded on reading, participation, and papers, plus applicable extra credit. The best way to earn an 'A' is to read carefully, participate in and out of class, and write well.  
@@ -36,17 +44,18 @@ You will be graded on reading, participation, and papers, plus applicable extra 
 | Readings (weekly quizzes)             | 25%         |  
 | Participation                         | 25%         |
 | Disputation Papers                    | 50%         |
-| Extra Credit                          | 0-5% max    |
+| Extra Credit                          | 0-5%        |
 
 
 ## Outline:
 
 The Outline (*subject to minor changes.*) tells you the reading, topic for each day. All readings are from Pojman, *The Moral Life* unless otherwise noted. 
 
+<p></p>
 
 **Week 1 Introductions**  
 W       Jan-11:  Syllabus day (no reading)    
-F       Jan-13:  Pojman, Introduction (pp. 1-5)  
+F       Jan-13:  Pojman, "Introduction" (pp. 1-5)  
 
 **Week 2 The Nature and Purpose of Morality**   
 M       Jan-16:  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality", Thomas Hobbes "On the State of Nature" (10-49)  
@@ -58,8 +67,8 @@ M       Jan-23   Chapter 2, Introduction, Melville "Billy Budd", Dostoyevsky "Wh
 W       Jan-25   Nietzsche, "Beyond Good and Evil", Taylor "on the Origin of Good and Evil" (90-128)  
 F       Jan-27   Chapter 3 Introduction; Herodotus "Custom is King", Benedict "The Case for Moral Relativism", Rachels "Why Morality is Not Relative" (130-152) 
 
-**Week 4 Utilitarianism**  
-M       Jan-30  (Unit Paper 1, Nature of Morality Due by Midnight)   
+**Week 4 Utilitarianism**   
+(Unit Paper 1, Nature of Morality Due Monday by Midnight)    
 M       Jan-30  Part II, Chapter 4 Introduction; "Seaman Holmes and the Longboat", Bentham "Classical Utilitarianism", Mill "Utilitarianism refined" (191-205)   
 W       Feb-1   Nielsen, "A Defense of Utilitarianism" and Williams, "Against Utilitarianism" (205-234)  
 F       Feb-3  Discussion  (Group 1)
@@ -81,7 +90,7 @@ F       Feb-24  Discussion (Group 4)
 
 
 **Week 8 Egoism**   
-M       Feb-27  (Unit Paper 2, Moral Theories Due by Midnight)  
+(Unit Paper 2, Moral Theories Due Monday by Midnight)    
 M       Feb-27  Chapter 8, Introduction; Plato, "Ring of Gyges" and Rand, "In Defense of Ethical Egoism" (495-513)    
 W       Mar-1  Chapter 8, Pojman, "Egoism and Altruism" and "Critique of Ethical Egoism" (521)  
 F       Mar-3  Discussion (Group 5) 
@@ -103,7 +112,7 @@ F       Mar-24   Discussion (Group 7)
 
  
 **Week 11 Sexual Ethics**     
-M       Mar-27  (Unit Paper 3, Moral Issues Due by Midnight)   
+(Unit Paper 3, Moral Issues Due by Midnight)     
 M       Mar-27  Chapter 11, Introduction; Kant, "On the Place of Sex", McMurtry "Monogamy: A Critique", and Bayles, "Marriage, Love, and Procreation" (619-635)   
 W       Mar-29  Levin "Homosexuality is Abnormal", Corvino "A Defense of Homosexuality" (664-688)  
 F       Mar-31  Discussion (Group 8)  
@@ -125,15 +134,16 @@ F       Apr-21   Discussion (Group 11)
 
 
 **Week 15 Globalism**   
-M     Apr-24 (Unit Paper 4, Moral Problems due by Midnight)  
+(Unit Paper 4, Moral Problems due Monday by Midnight)     
 M     Apr-24 Chapter 16, Introduction; Hardin "Living on a Lifeboat" (852-871)  
 W     Apr-26 Murdoch, "A Critique of Lifeboat Ethics" (872-887)   
 F     Apr-28 Discussion  
 
 **Finals Week**  
-M       May-1  Unit Paper 5, Final Paper (Revision) Due by midnight  
+(Unit Paper 5, Final Paper (Revision) Due Monday by midnight)  
 W       May-3  Reflections Due  by 11:59PM online.    
 F       May-5  Extra Credit due by 11:59PM online.    
+
 
 
 {% include boilerplate.html %}

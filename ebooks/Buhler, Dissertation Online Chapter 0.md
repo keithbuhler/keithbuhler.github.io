@@ -1,13 +1,13 @@
 ---
 title: Becoming What You Are, Virtue and Practical Wisdom as Natural Ends
-permalink: /dissertation0
+permalink: /dissertation0/
 layout: single
 ---
 
 
-[Introduction](/dissertation0)
 
-1. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
+1. [**Introduction**](/dissertation0)
+2. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
 2. [Chapter 2: Organic Naturalism](/dissertation2)
 3. [Chapter 3: Practical Primates](/dissertation3)
 4. [Chapter 4: What We Are](/dissertation4)
@@ -17,7 +17,7 @@ layout: single
 
 ---- 
 
-**Introduction Table of Contents**
+**Table of Contents**
 
 - Abstract
 - Dedication
