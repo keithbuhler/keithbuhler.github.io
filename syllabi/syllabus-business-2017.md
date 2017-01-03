@@ -54,96 +54,97 @@ Your grade for the class will depend on your performance in each course componen
 *This outline tells you what is due when. A detailed outline is available online. Always check this outline for updates, as well as Canvas for quizzes and announcements. Dates are subject to minor changes due to weather, illness, teacher travel, etc. The online version is always up to date.*
 
 
-**Week 1 Basics**
+**Week 1 Basics**  
 W       Jan-11  Syllabus day (no reading)  
-F       Jan-13  Basic Philosophy: Peter Kreeft, Truth Handout
+F       Jan-13  Basic Philosophy: Peter Kreeft, Truth Handout 
 
 **Week 2 Methods and Business Ethics**  
 M       Jan-16  Business Ethics, Methods of Business Ethics    
 W       Jan-18  Business Ethics, Methods of Business Ethics      
 F       Jan-20  Discussion of Methods
 
-**Week 3 Ethical Theories I**  
-M       Jan-23   Business Ethics, the Place of Ethical Theory 
-W       Jan-25   Business Ethics, the Place of Ethical Theory 
+**Week 3 Ethical Theories I**   
+M       Jan-23   Business Ethics, the Place of Ethical Theory   
+W       Jan-25   Business Ethics, the Place of Ethical Theory  
 F       Jan-27   Discussion of Ethical Theories   
 
-**Week 4 Ethical Theories II**
+**Week 4 Ethical Theories II**  
 M       Jan-30 Virtue Ethics Handout
 W       Feb-1  Religious Ethics
 F       Feb-3  Discussion of Virtue and religion   
 
-**Week 5 Capitalism**
+**Week 5 Capitalism**  
 (Unit paper 1 - Moral Theories, due Monday by midnight)   
 M       Feb-6  Gaus, The Idea and Ideal of Capitalism   
 W       Feb-8  Gaus, The Idea and Ideal of Capitalism  
 F       Feb-10  Discussion of Capitalism and Stock Market
 
 
-**Week 6 Economic Justice**
+**Week 6 Economic Justice**  
 M       Feb-13  Corporate Responsibility and its Constituents
 W       Feb-15  Executive Compensation 176-191 
 F       Feb-17  Discussion of Economic Justice and CEO Pay  
 
-**Week 7 Universal Norms**
-(Unit paper 2 - CEO pay)
+**Week 7 Universal Norms**  
+(Unit paper 2 - CEO pay Due Monday at midnight)  
 M       Feb-20  Relativism, Multiculturalism, and Universal Norms 
 W       Feb-22  Moral Issues in Globalization  313-325   
 F       Feb-24  Discussion of Moral Norms  
 
 
-**Week 8 Inside Job**
+**Week 8 Inside Job**  
 M       Feb-27  Inside Job (film) Parts I-III introduction   
 W       Mar-1  Inside Job Parts I-IV   
 F       Mar-3  Inside Job Part V and discussion  
 
-**Week 9 Information**
+**Week 9 Information**  
+(Unit paper 3 - Moral Law Due Monday at midnight)  
 M       Mar-6  Deception and Information Disclosure 
 W       Mar-8  Intellectual Property Rights
 F       Mar-10  Discussion
 
-**Easter Break**  
+**Easter Break**   
 M     Mar-13 Easter Break
 W     Mar-15 Easter Break
 F     Mar-17 Easter Break
 
-**Week 10 Incentives**  
+**Week 10 Incentives**   
 M       Mar-20  Conflicts of Interest 441
 W       Mar-22  Business in Politics: Lobbying 501-535
 F       Mar-24   Discussion  
 
  
-**Week 11 Affirmative Action**
-(Unit Paper 3 - Due Monday at midnight )  
+**Week 11 Affirmative Action**  
+(Unit Paper 4 - Deception or Lobbying, Due Monday at midnight)  
 M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity 
 W       Mar-29  Boxill, Discrimination, Affirmative Action, and Diversity 
 F       Mar-31  Discussion of 
 
-**Week 12  Employee Rights**
+**Week 12  Employee Rights**  
 M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity  
-W       Apr-5  Arnold, Working Conditions  
+W       Apr-5  Brenkert, Whistle-Blowing, Moral Integrity  
 F     Apr-7 Discussion
 
-**Week 13 Safety**
-M       Apr-10 Newton, Environmental Ethics 
+**Week 13 Safety**  
+M       Apr-10 Arnold, Working Conditions  
 W       Apr-12 Hasnas, The Mirage of Product Safety 
 F       Apr-14   Discussion of Safety  
 
-**Week 14 Moral Organizations**  
-(Unit Paper 4 - due monday at midnight)
-M       Apr-17   Organizational Integrity and Moral Climates 701-711 (Group 9)  
-W       Apr-19   Organizational Integrity and Moral Climates 712-724 (Group 10)  
-F       Apr-21   Film & Discussion
+**Week 14 Moral Organizations**     
+(Unit Paper 5 - Affirmative Action or Safety)   
+M       Apr-17   Bowie, Organizational Integrity and Moral Climates     
+W       Apr-19   Bowie, Organizational Integrity and Moral Climates   
+F       Apr-21   Discussion of Organizational Integrity
 
-**Week 15 TBA**
-M     Apr-24 Writing Workshop
-W     Apr-26 TBA
-F     Apr-28 TBA
+**Week 15 Christmas Carol**
+M     Apr-24 Writing Workshop  
+W     Apr-26 Christmas Carol   
+F     Apr-28 Christmas Carol  
 
 **Finals Week**
 
-M       May-1  Finals Week UK   
-W       May-3  Final Paper Due by 11:59PM online.    
+M       May-1  Finals Week UK    
+W       May-3  Final Paper Due by 11:59PM online.     
 F       May-5  Grades Due UK    
 
 
