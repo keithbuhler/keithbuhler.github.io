@@ -6,40 +6,31 @@ description: Business Ethics Syllabus (PHI 334, Spring 2017), Keith Buhler's phi
 ---
 
 #### [PDF of Syllabus](/syllabi/business.pdf)   
-
-**Instructor**: Keith Buhler   
+**Instructor**: Keith Buhler    
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
-**Twitter**: keith_buhler  
-**Office Hours**: TBA
-**Office**: Patterson Office Tower, 1402.
+**Twitter**: keith_buhler   
+**Office Hours**: TBA  
+**Office**: Patterson Office Tower, 1402.  
 
 
 ### Required Readings 
 - [*Oxford Handbook of Business Ethics*, Brenkert & Beauchamp](http://amzn.to/1ThV3ew) Oxford, 2010. First Edition. Available at UK bookstore and online.
 
 ### Course Description
-Some of the toughest decisions we make have to do with making money working in a business or running a business. We will make tough decisions as employees, professionals, managers, investors, or entrepreneurs; even as consumers we will "vote with our dollars" when we buy product, use, re-use, and recycle. 
+Some of the toughest decisions we make have to do with business and money. As employees, managers, business owners, and even as consumers, we buy, use, create, or recycle the products of business. This course helps us to think philosophically about business, capitalism and wealth, fairness, social justice, product safety, bribery and lobbying, globalization and trade, privacy and whistle blowing. We may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
 
-This course helps us to think philosophically about business, wealth, fairness, social justice, politics, trade, payment, and work. The objective is that we can act well when hard decisions come. 
+Ethics is a branch of philosophy. So we will also reflect on the basics of right and wrong. We will practice deep and careful thinking about fundamental topics and apply such thinking to business: what is worthwhile? Who is truly successful? What is private property? 
 
-When we conduct business, our whole world view is engaged.Philosophy in general asks questions about what is real, how we know what we know. It is on a continuum with investigations into science, mathematics, religion, and literature.  
+We will clarify our terms, evaluate arguments for and against reasonable positions and come to our own conclusions. Although each of us comes to this course from their own moral tradition and background, we will challenge ourselves and others with respect, understanding ourselves better, and disagreeing respectfully. 
 
-Ethics is the branch of philosophy that investigates right and wrong, good and bad. What is worthwhile or worthless and how to live a worthwhile life. What is good? Who is truly enviable? So, in business ethics, we ask about foundations: What is a good business? What is success? What is private and public property? Are there constraints on products and services one can provide? 
-
-These questions and more we will attempt to answer by clarifying terms, establishing secure ethical principles, being sensitive to contextual details, identifying reasonable answers, evaluating arguments for and against each reasonable answer, and coming to our own conclusions. Though we will consider arguments from Kantian, consequentialist, and religious standpoints, our official approach to these questions will be from the standpoint of traditional virtue ethics.
-
-Each of us belongs to a tradition and a community. Our goal is to understand our own tradition and understand rival traditions, and why they disagree. We will disagree, but do so peaceably and with understanding. 
-
-The bottom line is always to think hard about hard questions, to discard wrong answers and discover and prove right answers to these questions. The hard questions will revolve around business, wealth, justice, safety, information, incentives, globalization, etc. but may branch out to related tangents including logic, public policy, anthropology, religion, law, and more. 
+Despite the abstractness of these topics, the ultimate objective is that we can act well when hard decisions come. 
 
 ### Course Goals 
 
-* to understand business as part of life
-* to understand business as part of applied ethics, public policy, and as a sub-discipline of ethical philosophy
+* to understand business as part of life, and part of ethics, public policy, and philosophy
 * to become familiar with major ethical theories, especially: virtue ethics, utilitarianism, and deontology 
+* to understand our own ethical tradition better and that of others
 * to grow intellectually by critically analyzing articles, books, studies, and news articles about business
-* to understand our own ethical tradition better and make clear plans for how to make hard decisions
-* Also to understand the tradition of others (religious ethics, deontology, utilitarianism, virtue ethics) in approaching ethical issues;
 * and thereby to become more virtuous people capable of handling difficult life circumstances.
 
 ### Course Structure
@@ -67,81 +58,85 @@ Your grade for the class will depend on your performance in each course componen
 W       Jan-11  Syllabus day (no reading)  
 F       Jan-13  Basic Philosophy: Peter Kreeft, Truth Handout
 
-**Week 2 Moral Theories I Utilitarianism**  
+**Week 2 Methods and Business Ethics**  
 M       Jan-16  Business Ethics, Methods of Business Ethics    
 W       Jan-18  Business Ethics, Methods of Business Ethics      
-F       Jan-20  Basic Philosophy: Religion & Reason  
+F       Jan-20  Discussion of Methods
 
-**Week 3 Moral Theories II Kantianism**  
+**Week 3 Ethical Theories I**  
 M       Jan-23   Business Ethics, the Place of Ethical Theory 
 W       Jan-25   Business Ethics, the Place of Ethical Theory 
-F       Jan-27   Discussion   
+F       Jan-27   Discussion of Ethical Theories   
 
-**Week 4 Moral Theories III Virtue Ethics**
-M       Jan-30  Virtue Ethics Handout
+**Week 4 Ethical Theories II**
+M       Jan-30 Virtue Ethics Handout
 W       Feb-1  Religious Ethics
-F       Feb-3  Discussion of Ethical Theories 
+F       Feb-3  Discussion of Virtue and religion   
 
-**Week 5 Inside Job**
-M       Feb-6  Inside Job (film) Parts I-III introduction  
-W       Feb-8  Inside Job Parts I-IV  
-F       Feb-10  Inside Job Part V and discussion   
-
-**Week 6 Capitalism**
-M       Feb-13  The Idea and Ideal of Capitalism  (Group 3)    
-W       Feb-15  Corporate Responsibility and its Constituents (Group 4)    
-F       Feb-17  Discussion   
-
-**Week 7 Compensation**  
-M       Feb-20  Economic Justice, Executive Compensation 161-176 (Group 5)   
-W       Feb-22  Economic Justice, Executive Compensation 176-191 (Group 6)  
-F       Feb-24  Discussion  
+**Week 5 Capitalism**
+(Unit paper 1 - Moral Theories, due Monday by midnight)   
+M       Feb-6  Gaus, The Idea and Ideal of Capitalism   
+W       Feb-8  Gaus, The Idea and Ideal of Capitalism  
+F       Feb-10  Discussion of Capitalism and Stock Market
 
 
-**Week 8 Universal Norms**  
-M       Feb-27  Moral Issues in Globalization 305-312  (Group 7)  
-W       Mar-1  Moral Issues in Globalization  313-325 (Group 8)  
-F       Mar-3  Discussion  
+**Week 6 Economic Justice**
+M       Feb-13  Corporate Responsibility and its Constituents
+W       Feb-15  Executive Compensation 176-191 
+F       Feb-17  Discussion of Economic Justice and CEO Pay  
 
-**Week 9 Universal Norms**  
-M       Mar-6  Moral Issues in Globalization 305-312  (Group 7)  
-W       Mar-8  Moral Issues in Globalization  313-325 (Group 8)  
-F       Mar-10  Discussion    
+**Week 7 Universal Norms**
+(Unit paper 2 - CEO pay)
+M       Feb-20  Relativism, Multiculturalism, and Universal Norms 
+W       Feb-22  Moral Issues in Globalization  313-325   
+F       Feb-24  Discussion of Moral Norms  
+
+
+**Week 8 Inside Job**
+M       Feb-27  Inside Job (film) Parts I-III introduction   
+W       Mar-1  Inside Job Parts I-IV   
+F       Mar-3  Inside Job Part V and discussion  
+
+**Week 9 Information**
+M       Mar-6  Deception and Information Disclosure 
+W       Mar-8  Intellectual Property Rights
+F       Mar-10  Discussion
 
 **Easter Break**  
 M     Mar-13 Easter Break
 W     Mar-15 Easter Break
 F     Mar-17 Easter Break
 
-**Week 10 Information**  
-M       Mar-20  Deception and Information Disclosure 335-350  (Group 9)   
-W       Mar-22   Deception and Information Disclosure 351-365  (Group 10)   
+**Week 10 Incentives**  
+M       Mar-20  Conflicts of Interest 441
+W       Mar-22  Business in Politics: Lobbying 501-535
 F       Mar-24   Discussion  
 
  
-**Week 11 Incentives** 
-M       Mar-27   Business in Politics: Lobbying 501-516  (Group 1)  
-W       Mar-29   Business in Politics: Lobbying 517-534  (Group 2)  
-F       Mar-31  Discussion  
+**Week 11 Affirmative Action**
+(Unit Paper 3 - Due Monday at midnight )  
+M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity 
+W       Mar-29  Boxill, Discrimination, Affirmative Action, and Diversity 
+F       Mar-31  Discussion of 
 
 **Week 12  Employee Rights**
-M       Apr-3  Discrimination, Affirmative Action, and Diversity 535-549  (Group 3)  
-W       Apr-5  Discrimination, Affirmative Action, and Diversity 550-563  (Group 4)  
+M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity  
+W       Apr-5  Arnold, Working Conditions  
 F     Apr-7 Discussion
 
-**Week 13 Safety**  
-M       Apr-10 The Mirage of Product Safety  (Group 8)    **Unit Paper 3 Due at midnight -- see instructions online**  
-W       Apr-12  The Mirage of Product Safety  (Group 9)  
-F       Apr-14   Discussion
+**Week 13 Safety**
+M       Apr-10 Newton, Environmental Ethics 
+W       Apr-12 Hasnas, The Mirage of Product Safety 
+F       Apr-14   Discussion of Safety  
 
 **Week 14 Moral Organizations**  
+(Unit Paper 4 - due monday at midnight)
 M       Apr-17   Organizational Integrity and Moral Climates 701-711 (Group 9)  
 W       Apr-19   Organizational Integrity and Moral Climates 712-724 (Group 10)  
 F       Apr-21   Film & Discussion
 
-
 **Week 15 TBA**
-M     Apr-24 TBA
+M     Apr-24 Writing Workshop
 W     Apr-26 TBA
 F     Apr-28 TBA
 

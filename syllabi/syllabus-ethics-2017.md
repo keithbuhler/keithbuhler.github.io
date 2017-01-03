@@ -58,8 +58,8 @@ W       Jan-11:  Syllabus day (no reading)
 F       Jan-13:  Pojman, "Introduction" (pp. 1-5)  
 
 **Week 2 The Nature and Purpose of Morality**   
-M       Jan-16:  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality", Thomas Hobbes "On the State of Nature" (10-49)  
-W       Jan-18:  Chapter 1, and ["Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit?usp=sharing)  
+M       Jan-16:  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality"
+W       Jan-18:  Chapter 1, Thomas Hobbes "On the State of Nature" (10-49)  and ["Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit?usp=sharing)  
 F       Jan-20:  Discussion  (Buhler) 
 
 **Week 3 Good, Evil, and Relativism**   
