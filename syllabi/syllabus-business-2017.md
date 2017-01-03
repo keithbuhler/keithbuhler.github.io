@@ -1,11 +1,11 @@
 ---
 layout: philosophy
 permalink: /business
-title: Business Ethics Syllabus Spring 2017
+title: Business Ethics, Spring 2017 Syllabus
 description: Business Ethics Syllabus (PHI 334, Spring 2017), Keith Buhler's philosophy class at the university of Kentucky.
 ---
 
-#### [PDF of Syllabus](/syllabi/business.pdf)   
+#### [PDF of Syllabus](/syllabi/business.pdf)    
 **Instructor**: Keith Buhler    
 **Email**: [keith.buhler@uky.edu](emailto:keith.buhler@uky.edu)  
 **Twitter**: keith_buhler   
@@ -21,7 +21,7 @@ Some of the toughest decisions we make have to do with business and money. As em
 
 Ethics is a branch of philosophy. So we will also reflect on the basics of right and wrong. We will practice deep and careful thinking about fundamental topics and apply such thinking to business: what is worthwhile? Who is truly successful? What is private property? 
 
-We will clarify our terms, evaluate arguments for and against reasonable positions and come to our own conclusions. Although each of us comes to this course from their own moral tradition and background, we will challenge ourselves and others with respect, understanding ourselves better, and disagreeing respectfully. 
+Although each of us comes to this course from their own moral tradition and background, we will challenge ourselves and others with respect, understanding ourselves better, and disagreeing respectfully. We will clarify our terms, evaluate arguments for and against reasonable positions and come to our own conclusions. 
 
 Despite the abstractness of these topics, the ultimate objective is that we can act well when hard decisions come. 
 
@@ -51,7 +51,7 @@ Your grade for the class will depend on your performance in each course componen
 
 ### Outline (Short)
 
-*This outline tells you what is due when. A detailed outline is available online. Always check this outline for updates, as well as Canvas for quizzes and announcements. Dates are subject to minor changes due to weather, illness, teacher travel, etc. The online version is always up to date.*
+*This outline tells you what is due when. A detailed outline is available online. Always check this outline for updates, as well as Canvas for quizzes and announcements. Dates are subject to minor changes due to weather, illness, teacher travel, etc. The online version is always up to date.*  
 
 
 **Week 1 Basics**  
@@ -69,9 +69,9 @@ W       Jan-25   Business Ethics, the Place of Ethical Theory
 F       Jan-27   Discussion of Ethical Theories   
 
 **Week 4 Ethical Theories II**  
-M       Jan-30 Virtue Ethics Handout
-W       Feb-1  Religious Ethics
-F       Feb-3  Discussion of Virtue and religion   
+M       Jan-30 Virtue Ethics Handout  
+W       Feb-1  Religious Ethics   
+F       Feb-3  Writing Workshop  
 
 **Week 5 Capitalism**  
 (Unit paper 1 - Moral Theories, due Monday by midnight)   
@@ -81,13 +81,13 @@ F       Feb-10  Discussion of Capitalism and Stock Market
 
 
 **Week 6 Economic Justice**  
-M       Feb-13  Corporate Responsibility and its Constituents
-W       Feb-15  Executive Compensation 176-191 
+M       Feb-13  Corporate Responsibility and its Constituents  
+W       Feb-15  Executive Compensation   
 F       Feb-17  Discussion of Economic Justice and CEO Pay  
 
 **Week 7 Universal Norms**  
 (Unit paper 2 - CEO pay Due Monday at midnight)  
-M       Feb-20  Relativism, Multiculturalism, and Universal Norms 
+M       Feb-20  Relativism, Multiculturalism, and Universal Norms  
 W       Feb-22  Moral Issues in Globalization  313-325   
 F       Feb-24  Discussion of Moral Norms  
 
@@ -98,36 +98,36 @@ W       Mar-1  Inside Job Parts I-IV
 F       Mar-3  Inside Job Part V and discussion  
 
 **Week 9 Information**  
-(Unit paper 3 - Moral Law Due Monday at midnight)  
-M       Mar-6  Deception and Information Disclosure 
-W       Mar-8  Intellectual Property Rights
-F       Mar-10  Discussion
+(Unit paper 3 - Moral Law Due Monday at midnight)    
+M       Mar-6  Deception and Information Disclosure    
+W       Mar-8  Intellectual Property Rights   
+F       Mar-10  Discussion   
 
 **Easter Break**   
-M     Mar-13 Easter Break
-W     Mar-15 Easter Break
-F     Mar-17 Easter Break
+M     Mar-13 Easter Break  
+W     Mar-15 Easter Break  
+F     Mar-17 Easter Break  
 
-**Week 10 Incentives**   
-M       Mar-20  Conflicts of Interest 441
-W       Mar-22  Business in Politics: Lobbying 501-535
-F       Mar-24   Discussion  
+**Week 10 Incentives**    
+M       Mar-20  Conflicts of Interest   
+W       Mar-22  Business in Politics: Lobbying   
+F       Mar-24   Discussion    
 
  
-**Week 11 Affirmative Action**  
-(Unit Paper 4 - Deception or Lobbying, Due Monday at midnight)  
-M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity 
-W       Mar-29  Boxill, Discrimination, Affirmative Action, and Diversity 
-F       Mar-31  Discussion of 
+**Week 11 Affirmative Action**   
+(Unit Paper 4 - Deception or Lobbying, Due Monday at midnight)   
+M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity   
+W       Mar-29  Boxill, Discrimination, Affirmative Action, and Diversity    
+F       Mar-31  Discussion of Affirmative Action    
 
-**Week 12  Employee Rights**  
-M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity  
-W       Apr-5  Brenkert, Whistle-Blowing, Moral Integrity  
-F     Apr-7 Discussion
+**Week 12  Employee Rights**   
+M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity    
+W       Apr-5  Brenkert, Whistle-Blowing, Moral Integrity    
+F     Apr-7 Discussion   
 
 **Week 13 Safety**  
-M       Apr-10 Arnold, Working Conditions  
-W       Apr-12 Hasnas, The Mirage of Product Safety 
+M       Apr-10 Arnold, Working Conditions   
+W       Apr-12 Hasnas, The Mirage of Product Safety   
 F       Apr-14   Discussion of Safety  
 
 **Week 14 Moral Organizations**     
@@ -136,13 +136,12 @@ M       Apr-17   Bowie, Organizational Integrity and Moral Climates
 W       Apr-19   Bowie, Organizational Integrity and Moral Climates   
 F       Apr-21   Discussion of Organizational Integrity
 
-**Week 15 Christmas Carol**
-M     Apr-24 Writing Workshop  
-W     Apr-26 Christmas Carol   
-F     Apr-28 Christmas Carol  
+**Week 15 Christmas Carol**    
+M     Apr-24 Writing Workshop   
+W     Apr-26 Christmas Carol    
+F     Apr-28 Christmas Carol   
 
-**Finals Week**
-
+**Finals Week**  
 M       May-1  Finals Week UK    
 W       May-3  Final Paper Due by 11:59PM online.     
 F       May-5  Grades Due UK    
@@ -158,6 +157,4 @@ F       May-5  Grades Due UK
 2. [Regulation as panacea or placebo?](http://poseidon01.ssrn.com/delivery.php?ID=040088020003012068089068092004119023096031065012091090091113081031084097097080114000002033027047006112028085094112074090092001037094022080065064070095114098122030106025062083006086090073064120080086071104069088069007015099064111103018083075122087119022&EXT=pdf)
 
 
-### Boiler
-
-{% include boilerplate.html %}
+#### {% include boilerplate.html %}

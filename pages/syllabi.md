@@ -18,7 +18,7 @@ feature_row:
     alt: "Introduction to Ethics"
     title: "Introduction to Ethics"
     excerpt: "PHI 130 at UK, Morality and Society."
-    url: "http://www.keithbuhler.com/syllabus251"
+    url: "http://www.keithbuhler.com/ethics"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/syllabus-200.png
