@@ -1,5 +1,5 @@
 ---
-title: St. Elizabeth the New Martyr Scholarship
+title: St Elizabeth the New Martyr Scholarship
 layout: single
 author_profile: false
 permalink: /scholarship
