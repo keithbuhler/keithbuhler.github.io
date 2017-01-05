@@ -5,15 +5,11 @@ title: Introduction to Morality and Society Syllabus
 ---
 
 #### [PDF version](/syllabi/syllabus-ethics-2017.pdf)    
- **Instructor:** Keith Buhler     
-
-**Email:** keith.buhler@uky.edu     
-
-**Twitter:** keith_buhler   
-
-**Office Hours:** Monday, Wednesday, 12-1pm; after class; by appointment    
-
-**Text:** [*The Moral Life*, Pojman and Vaughn (Fifth Edition)](http://amzn.to/2iFegft)  
+**Instructor:** Keith Buhler     
+**Email:** keith.buhler@uky.edu      
+**Twitter:** keith_buhler    
+**Office Hours:** Monday, Wednesday, 12-1pm; after class; by appointment     
+**Text:** [*The Moral Life*, Pojman and Vaughn (Fifth Edition)](http://amzn.to/2iFegft)    
 
 ### Description:
 This course is an exercise in careful and deep thinking about morality, society, good, and evil. Each week will introduce a topic and encourage reflection on a literary or philosophical writing, which will be discussed in class. You will not only learn some new terms, concepts, and facts, but we will practice thinking philosophically about these topics and about our own lives. We will argue for and against significant truth claims, testing ourselves and the argument. In this way, we will not only think abstractly but may see our own moral failings, become more self-aware, more humble, and more moral.
