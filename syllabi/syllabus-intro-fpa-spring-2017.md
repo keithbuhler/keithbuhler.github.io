@@ -54,7 +54,7 @@ You will be graded primarily on reading, participation, and papers, plus applica
 | Extra Credit                          | 0-5% max    |
 
 
-## Course Outline (FPA):
+##  Outline (FPA):
 
 The outline tells you the reading due each day, the topic. The outline is *subject to minor changes.*
 
@@ -75,7 +75,7 @@ Feb-7 T *Sophie's World*, "Socrates, Athens, Plato"; Plato, Euthyphro
 Feb-9 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
 ### Unit 2, Week 4 -- Socrates (Philosophy, Dialectic, Death)
-
+(Unit Paper 1 due Tuesday at midnight)  
 Feb-14 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
 Feb-16 R Apology Discussion  
 
@@ -89,8 +89,8 @@ Feb-28 T Plato, *Phaedo* (116-143) - Was Socrates true to his principles, even i
 Mar-2 R Plato, *Phaedo* II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
 
-### Unit 3, Week 7 -- The Soul
-
+### Unit 3, Week 7 -- The Soul  
+Unit Paper 2, Due Tuesday at Midnight    
 Mar-7 T Plato, *Phaedo* (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
 Mar-9 R *Phaedo* Discussion, Kreeft *Philosophy 101* (131-148)  
 
@@ -100,6 +100,7 @@ Mar-14 T [Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIs
 Mar-16 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
 ### Unit 4, Week 9 -- Logic 
+Unit Paper 3, Due Tuesday by Midnight  
 
 Mar-21 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  
 Mar-23 R Kreeft, *Socratic Logic* III, "Material Fallacies"  
@@ -109,7 +110,7 @@ Mar-28 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Pr
 Mar-30 R Kreeft, *Socratic Logic* VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
 ### Unit 5, Week 11 -- Augustine
-
+Unit Paper 4, Due Tuesday by Midnight   
 Apr-4 T *Confessions* 1 - Augustine and longing for God's presence. *Sophie's World* "Two Cultures"   
 Apr-6 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
@@ -128,6 +129,7 @@ Apr-27 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.
 
 
 ### Unit 6, Week 14 -- 2001: A Space Odyssey
+Unit Paper 5, Due Tuesday by Midnight  
  
 May-2 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM);  Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
 May-4 R Dave as the New Adam  
@@ -146,6 +148,7 @@ May-18 R Tree of Life Discussion
 
 May-23 T   
 May-25 R   
+
 May-30 T    
 Jun-1 R    
 

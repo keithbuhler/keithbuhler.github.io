@@ -63,49 +63,49 @@ You will be graded primarily on reading, participation, and papers, plus applica
 
 The Outline tells you the reading, topic for each day. The outline is *subject to minor changes.*
 
-### Unit 1, Week 1 Origins (Faith and Reason, Myth, Holiness)
+### Week 1 Origins (Faith and Reason, Myth, Holiness)
 
 Jan-10 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
 Jan-12 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 
 
-### Unit 1, Week 2 Myth 
+### Week 2 Myth 
 
 Jan-17 T [*Sophie's World*,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
 Jan-19 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); *Sophie's World*, "Natural Philosophers, Democritus, and Fate"  
 
-### Unit 1, Week 3 Holiness 
+### Week 3 Holiness 
 
 Jan-24 T *Sophie's World*, "Socrates, Athens, Plato"; Plato, Euthyphro  
 Jan-26 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
-### Unit 2, Week 4 Socrates (Philosophy, Dialectic, Death)
-
+### Unit 2, Week 4 Socrates (Philosophy, Dialectic, Death)  
+(Unit Paper 1 due Tuesday at midnight)   
 Jan-31 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
 Feb-2 R Apology Discussion  
 
-### Unit 2, Week 5 Dialectic
+### Week 5 Dialectic
 
 Feb-7 T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?   
 Feb-9 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
 
-### Unit 2, Week 6 Death
+### Week 6 Death
 Feb-14 T Plato, *Phaedo* (116-143) - Was Socrates true to his principles, even in death?  
 Feb-16 R Plato, *Phaedo* II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
 
-### Unit 3, Week 7 The Soul
-
+### Week 7 The Soul
+Unit Paper 2, Due Tuesday at Midnight  
 Feb-21 T Plato, *Phaedo* (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
 Feb-23 R *Phaedo* Discussion, Kreeft *Philosophy 101* (131-148)  
 
-### Unit 3, Week 8 Forms
+### Week 8 Forms
 
 Feb-28 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
 Mar-2 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
 ### Unit 4, Week 9 Logic 
-
+Unit Paper 3, Due Tuesday by Midnight  
 Mar-7 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  (Midterms Due)
 Mar-9 R Kreeft, *Socratic Logic* III, "Material Fallacies"   
 
@@ -116,7 +116,7 @@ Mar-21 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Pr
 Mar-23 R Kreeft, *Socratic Logic* VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
 ### Unit 5, Week 11 Augustine
-
+Unit Paper 4, Due Tuesday by Midnight   
 Mar-28 T *Confessions* 1 - Augustine and longing for God's presence. *Sophie's World* "Two Cultures"   
 Mar-30 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
@@ -133,7 +133,7 @@ Apr-11 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.goo
 Apr-13 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
 
 ### Unit 6, Week 14 2001: A Space Odyssey
- 
+Unit Paper 5, Due Tuesday by Midnight   
 Apr-18 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
 Apr-20 R Dave as the New Adam  
 
