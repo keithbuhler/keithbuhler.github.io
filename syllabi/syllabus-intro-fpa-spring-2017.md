@@ -60,7 +60,7 @@ The outline tells you the reading due each day, the topic. The outline is *subje
 
 ### Unit 1, Week 1 -- Origins (Faith and Reason, Myth, Holiness)
 
-Jan-24 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
+Jan-24 T Syllabus Day   
 Jan-26 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 
 
@@ -128,28 +128,32 @@ Apr-25 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.goo
 Apr-27 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
 
 
-### Unit 6, Week 14 -- 2001: A Space Odyssey
+### Unit 6, Week 14 
 Unit Paper 5, Due Tuesday by Midnight  
  
-May-2 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM);  Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
-May-4 R Dave as the New Adam  
+May-2 T 
+May-4 R 
 
 
-### Unit 6, Week 15 -- Wall-E
+### Unit 6, Week 15 
 
-May-9 T Watch [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) -- Wall-E as E.T., Hal 9000, and Adam  
-May-11 R Discuss Wall-E -- Wall-E and Coming Down to Earth  
+May-9 T 
+May-11 R 
 
-### Unit 6, Week 16 -- Tree of Life
-May-16 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
+### Unit 6, Week 16 -- 2001: A Space Odyssey
+May-16 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM);  Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
+May-18 R  Dave as the New Adam  
+
+
+### Week 17 -- Wall-E
+
+Term Paper Due Tuesday by Midnight   
+May-23 T   Watch [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) -- Wall-E as E.T., Hal 9000, and Adam  
+May-25 R   Discuss Wall-E -- Wall-E and Coming Down to Earth  
+
+### Week 18 -- Tree of Life
+May-30 T    [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
-May-18 R Tree of Life Discussion   
-
-
-May-23 T   
-May-25 R   
-
-May-30 T    
-Jun-1 R    
+Jun-1 R    Tree of Life Discussion   
 
 {% include boilerplate.html %}
