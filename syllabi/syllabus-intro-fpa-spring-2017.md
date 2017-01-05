@@ -64,12 +64,12 @@ Jan-24 T Syllabus Day
 Jan-26 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
 
 
-### Unit 1, Week 2 -- Myth 
+### Week 2 -- Myth 
 
 Jan-31 T [*Sophie's World*,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
 Feb-2 R [Genesis (Chps. 1-3)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); *Sophie's World*, "Natural Philosophers, Democritus, and Fate"  
 
-### Unit 1, Week 3 -- Holiness 
+### Week 3 -- Holiness 
 
 Feb-7 T *Sophie's World*, "Socrates, Athens, Plato"; Plato, Euthyphro  
 Feb-9 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
@@ -79,12 +79,12 @@ Feb-9 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114
 Feb-14 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
 Feb-16 R Apology Discussion  
 
-### Unit 2, Week 5 -- Dialectic
+### Week 5 -- Dialectic
 
 Feb-21 T  Kreeft, *Philosophy 101* (13-49) - Why is philosophy misunderstood?   
 Feb-23 R Kreeft, *Philosophy 101* (50-86) - Why is philosophy happy and death-defying?  
 
-### Unit 2, Week 6 -- Death
+### Week 6 -- Death
 Feb-28 T Plato, *Phaedo* (116-143) - Was Socrates true to his principles, even in death?  
 Mar-2 R Plato, *Phaedo* II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
@@ -94,7 +94,7 @@ Unit Paper 2, Due Tuesday at Midnight
 Mar-7 T Plato, *Phaedo* (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
 Mar-9 R *Phaedo* Discussion, Kreeft *Philosophy 101* (131-148)  
 
-### Unit 3, Week 8 -- Forms
+### Week 8 -- Forms
 
 Mar-14 T [Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)  
 Mar-16 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
@@ -105,7 +105,7 @@ Unit Paper 3, Due Tuesday by Midnight
 Mar-21 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  
 Mar-23 R Kreeft, *Socratic Logic* III, "Material Fallacies"  
 
-### Unit 4, Week 10 -- Reasoning
+### Week 10 -- Reasoning
 Mar-28 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
 Mar-30 R Kreeft, *Socratic Logic* VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
@@ -115,14 +115,14 @@ Apr-4 T *Confessions* 1 - Augustine and longing for God's presence. *Sophie's Wo
 Apr-6 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
 
-### Unit 5, Week 12 -- Evil
+### Week 12 -- Evil
 
 Apr-11 T  *Confessions*, 7 - Does evil exist?   
 Apr-13 R *Confessions* Discussion  
 
 **Apr 17-21 Easter Break**
 
-### Unit 5, Week 13 -- God
+### Week 13 -- God
 
 Apr-25 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; *Sophie's World* "The Middle Ages"  
 Apr-27 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
@@ -135,7 +135,7 @@ May-2 T
 May-4 R 
 
 
-### Unit 6, Week 15 
+### Week 15 
 
 May-9 T 
 May-11 R 
