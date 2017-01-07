@@ -119,9 +119,12 @@ As a student at Asbury University I always ask upperclassmen what courses they t
 >    Overall, Intro to Philosophy changed me and my thinking for the better.  I can honestly say I have never thought so hard about life.  I used to think I thought a lot about life, but I can now say I was wrong to think so.  I now catch myself questioning different ideas and themes regarding humanity, God, the world, etc.  This questioning leads me to further contemplation and the action of seeking out answers.  Philosophy also taught me that it’s okay to admit to ourselves that we don’t know anything, and that this is the first step to finding a passion in learning.  I’m very thankful to have been able to take this course this semester.
 
 >    This class was about not panicking when you’re hit with difficult question/thought it taught you not to take the easy way out but instead to look into the depths of the questions and ride it out until you can’t anymore regardless if you couldn’t find a solution. 
+<<<<<<< HEAD
 
    
 >    Coming into the class I think I expected to be learning about countless philosophers, specific dates of their theories, and a bunch of textbook reading. Luckily the class was not anything like I expected. This class was primarily about preparing us to be able to think like a philosopher and therefore be able to understand philosophical works more proficiently. 
 
 
 > I really enjoyed the class layout and the way Dr. Buhler taught the class. The discussion format was quite conducive to learning. While I couldn't disagree with him more on many topics, and felt disrespected/insulted quite a few times, I did think that he did a great job teaching Socrates and Plato. 
+
+>    Coming into the class I think I expected to be learning about countless philosophers, specific dates of their theories, and a bunch of textbook reading. Luckily the class was not anything like I expected. This class was primarily about preparing us to be able to think like a philosopher and therefore be able to understand philosophical works more proficiently. 

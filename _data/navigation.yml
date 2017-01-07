@@ -52,12 +52,13 @@ philosophy:
     children:
       - title: "Contact me"
         url: http://www.keithbuhler.com/contact
-      - title: "The Wikipedia Philosophy Trick"
+      - title: "A Wikipedia Trick"
         url: http://www.keithbuhler.com/wikipedia
       - title: "Blog"
         url: http://www.keithbuhler.com/buhlerreport/
       - title: "More Dr Buhler Things"
         url: http://www.keithbuhler.com/fun
+
 
 future:
   - title: "HOME (Front page of blog, remove. Add posts by category and year)"
