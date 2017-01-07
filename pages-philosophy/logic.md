@@ -4,6 +4,8 @@ title: Logic 101
 author: Keith Buhler
 permalink: /logic
 author_profile: false
+sidebar: 
+      nav: philosophy
 ---
 
 #### [(pdf version)](/logic.pdf)

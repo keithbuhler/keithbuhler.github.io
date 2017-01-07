@@ -30,6 +30,8 @@ I aim to secure the naturalistic credentials of my view by examining three influ
 
 Feel free to read or peruse these documents and send me your comments. Please do not cite or distribute this draft without permission. The footnotes are still under conversion to HTML. 
 
+(Links may not be working.)
+
 1. [Preface](/dissertation0)
 2. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
 2. [Chapter 2: Organic Naturalism](/dissertation2)
@@ -40,5 +42,7 @@ Feel free to read or peruse these documents and send me your comments. Please do
 7. [Chapter 7: Conclusion](/dissertation7)
 
 ### WHOLE PDF
+
+(This link works!)
 
 [Becoming What We Are: Virtue and Wisdom as Natural Ends](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)

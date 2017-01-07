@@ -7,7 +7,7 @@ header:
 --- 
 
 
-* [Contact me for Full CV](emailto:keithedbuhler@gmail.com)
+* [CV](/cv)
 * [Writing Samples](https://uky.academia.edu/KeithBuhler){:target="_blank"}
 
 <img src="/images/possibleintellect.png" alt="dante-intellect" align="right" hspace="20" height="300" width="300">

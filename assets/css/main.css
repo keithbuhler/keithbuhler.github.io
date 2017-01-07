@@ -1,4 +1,10 @@
-/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange (256274 dark Github Teal) (24248f old dark blue) */
+/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange,  (256274 dark Github Teal) #3b7aae darker Github Teal (24248f old dark blue) */
+
+/* #FFA64B light orange, complement from Paletton. */
+/* #E27200 darker orange, complement from Paletton. */
+/* #4A2500 dark brown/orange, complement from Paletton */
+/* #CCDDE2 near white, blue */
+/* #00242E near navy black, blue */
 
 
 /* sans serif font family 'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif */
@@ -8,6 +14,7 @@
 /* other fonts to consider: PT Sans Pro Bold for headings, Shannon Holzer; Maisee light Paulosophia */
 
 /* tried Josefin Sans from Google Fonts. It's nice except for the slanty "e". Tried another serif font but it looks too technical. Trying Raleway now */
+
 
 
 a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px}
@@ -251,19 +258,19 @@ tr,td,th{vertical-align:middle}
 .notice--danger a:hover{color:#8f3937}
 .notice--danger code{background-color:#fef7f7}
 .notice--danger ul:last-child{margin-bottom:0}
-.masthead{position:relative;border-bottom:1px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.15s;animation-delay:0.15s;z-index:20}
-.masthead__inner-wrap{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;padding:1em 1em 1em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;}
+.masthead{position:relative;border-bottom:0px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.2s both;-webkit-animation-delay:0.10s;animation-delay:0.10s;z-index:20}
+.masthead__inner-wrap{max-width:800px;margin-left:auto;margin-right:auto;clear:both;padding:1em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;}
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
 }
 .masthead__inner-wrap nav{z-index:10}
-.masthead__inner-wrap a{text-decoration:none}
+.masthead__inner-wrap a{text-decoration:none; color:#FFA64B}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap}
-.masthead__menu-item--lg{padding-right:2em;font-weight:700}
+.masthead__menu-item--lg{padding-right:1em;font-weight:700; color:#3b7aae;}
 .masthead__menu-item--lgcenter{padding-right:2em;font-weight:700}
-.masthead__menu-item--lgright{padding-right:2em;font-weight:700}
+.masthead__menu-item--lgright{float:right; padding-right:2em;font-weight:700}
 .breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
 .breadcrumbs:after{content:" ";display:block;clear:both}
 .breadcrumbs::after{clear:both;content:"";display:table}
@@ -297,7 +304,7 @@ tr,td,th{vertical-align:middle}
 .page__content+.pagination,.page__meta+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;padding-top:2em;border-top:1px solid #f2f3f3}
 .greedy-nav{position:relative;min-width:250px;background:#fff}
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#000000;text-decoration:none}
-.greedy-nav a:hover{color:#cc7a00}
+.greedy-nav a:hover{color:#3b7aae}
 .greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#ccc;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle}
@@ -341,7 +348,7 @@ tr,td,th{vertical-align:middle}
 @media (min-width: 80em){.page__footer footer{max-width:1280px}
 }
 .page__footer a{color:inherit;text-decoration:none}
-.page__footer a:hover{text-decoration:underline; color:#cc7a00}
+.page__footer a:hover{text-decoration:underline; color:#3b7aae}
 .page__footer .fa{color:#9ba1a6}
 .page__footer-copyright{font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.6875em}
 .page__footer-follow ul{margin:0;padding:0;list-style-type:none}
@@ -483,7 +490,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__content p,.page__content li,.page__content dl{font-size:1em}
 .page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}
-.page__content a:hover{color: #256274; text-decoration:underline}
+.page__content a:hover{color: #E27200; text-decoration:underline}
 .page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .page__content dt{margin-top:1em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
 .page__content dd{margin-left:1em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em}
@@ -532,17 +539,17 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 @media (min-width: 64em){.archive{width:83.05085%;float:right;margin-right:0;padding-left:4.23729%}
 }
-.archive a{color:inherit;text-decoration:none}
-.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:1em;color:#DD7A11;border-bottom:1px solid #A8DAFA}
+.archive a{color:inherit;text-decoration:underline;}
+.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:2.5em;color:#4A2500;border-bottom:2px solid #cc7a00}
 .archive__subtitle+.list__item .archive__item-title{margin-top:0.5em}
-.archive__item-title{margin-bottom:0.25em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
+.archive__item-title{margin-bottom:0.12em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
 .page__content .archive__item-title{margin-top:1em;border-bottom:none}
 .archive__item-excerpt{margin-top:0;font-size:0.75em}
 .archive__item-excerpt+p{text-indent:0}
 .archive__item-teaser{border-radius:4px;overflow:hidden}
 .archive__item-teaser img{width:100%}
 a:hover .archive__item-teaser{box-shadow:0 0 10px rgba(0,0,0,0.25)}
-a:hover .archive__item-title{text-decoration:underline}
+a:hover .archive__item-title{text-decoration:underline; color:#3b7aae;}
 @media (min-width: 48em){.list__item{padding-right:200px}
 }
 @media (min-width: 64em){.list__item{padding-right:300px}
@@ -1398,6 +1405,60 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
 .mfp-ie7 .mfp-content{padding-top:44px}
 .mfp-ie7 .mfp-close{top:0;right:0;padding-top:0}
 @media print{.masthead,.toc,.page__share,.page__related,.ads,.page__footer{display:none}
+}
+
+/*
+ * jQuery Table of Content Generator for Markdown v1.0
+ *
+ * https://github.com/dafi/tocmd-generator
+ * Examples and documentation at: https://github.com/dafi/tocmd-generator
+ *
+ * Requires: jQuery v1.7+
+ *
+ * Copyright (c) 2013 Davide Ficano
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.gnu.org/licenses/gpl.html
+ */
+
+#toc, .toc, .mw-warning {
+    background-color: #F9F9F9;
+    border: 1px solid #AAAAAA;
+    font-size: 95%;
+    padding: 5px;
+}
+#toc h2, .toc h2 {
+    border: medium none;
+    display: inline;
+    font-size: 100%;
+    font-weight: bold;
+    padding: 0;
+}
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
+    text-align: center;
+}
+#toc ul, .toc ul {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    text-align: left;
+}
+#toc ul ul, .toc ul ul {
+    margin: 0 0 0 2em;
+}
+#toc .toctoggle, .toc .toctoggle {
+    font-size: 94%;
+}
+
+#toc ul li {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#toc-container {
+	margin-bottom: 10px;
 }
 
 }

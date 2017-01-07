@@ -2,6 +2,8 @@
 layout: philosophy
 title: Nagel
 permalink: /philosophy-nagel
+sidebar: 
+      nav: philosophy
 ---
 
 

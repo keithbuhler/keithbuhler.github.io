@@ -7,7 +7,7 @@ header:
 ---
 
 
-* [Fall 2016 syllabi](/syllabi)
+* [Spring 2017 syllabi](/syllabi)
 * [RateMyProfessors reviews](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 * [Teaching statement](/teaching-statement) 
 

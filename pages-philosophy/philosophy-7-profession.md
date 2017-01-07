@@ -2,6 +2,8 @@
 layout: philosophy
 title: Professional Philosophy
 permalink: /philosophy-7-profession
+sidebar: 
+      nav: philosophy
 --- 
 
 Being a professional academic is not for everyone. Is it for you? 

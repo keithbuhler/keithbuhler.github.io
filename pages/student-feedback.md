@@ -40,7 +40,9 @@ permalink: /student-feedback
 "I have a tough time thinking outside the box in a philosophical manner so this course really challenged me. I am grateful that the internal/external processor idea was put into action because I freak out if I have to talk in front of the class." (2015, PHL200)
 
 
-### Writing
+### Writing Disputations
+
+>Going back to the topic of is Evil a substance or privation of goodness. I would say that this topic was very challenging to me because I was constantly changing my mind and thoughts during the disputation, class talk, and readings...  the most influential change came from my disputation however because it was a time for me to reflect... and start to put my thoughts together instead of just letting them roam in my head. Each section of the disputation allowed me to grasp my thoughts and the question of the topic that much more. (PHL 200 2016)
 
 ### Quizzes
 
@@ -106,7 +108,20 @@ I enjoyed pretty much every aspect of the class. I really liked that I was able 
 Very funny and tried to crack a lot of jokes. Also, full of energy for an 8AM.(PHL200 2016)
 
 
+## (PHL 200 Fall 2016)
 
 >This business ethics course based in philosophy has been hands-down my favorite course of the Fall 2016 semester. I felt there was an incredible atmosphere constructed in the course leading to extreme comfort ability and a safe place to express opinions. (PHI334 2016)
 
 > Lastly, thank you for your time and consideration you've put forth in teaching a large majority of the philosophical content I have learned throughout my college experience. You've had considerable influence on me regarding how to carry oneself, how to get a group of people involved and enthused, and most importantly, how to make an individual interested in the material. I've been in several unique classes through which I've seen students of every which major state your course as more than "just an elective" and I think you'll continue to inspire people as you move forward. Positivity that radiates is something that several people do not have or have simply lost throughout the years, and I can't envision that being your case after the several classes I've taken part in. 
+> 
+As a student at Asbury University I always ask upperclassmen what courses they took and with what professor. I was told by many to take Philosophy with Buhler; “because he’s great and actually teaches you” they would tell me. Coming into this class, not only did I sign up late, but I had no idea what this class was even about. I didn’t even know what Philosophy was.    
+
+>    Overall, Intro to Philosophy changed me and my thinking for the better.  I can honestly say I have never thought so hard about life.  I used to think I thought a lot about life, but I can now say I was wrong to think so.  I now catch myself questioning different ideas and themes regarding humanity, God, the world, etc.  This questioning leads me to further contemplation and the action of seeking out answers.  Philosophy also taught me that it’s okay to admit to ourselves that we don’t know anything, and that this is the first step to finding a passion in learning.  I’m very thankful to have been able to take this course this semester.
+
+>    This class was about not panicking when you’re hit with difficult question/thought it taught you not to take the easy way out but instead to look into the depths of the questions and ride it out until you can’t anymore regardless if you couldn’t find a solution. 
+
+   
+>    Coming into the class I think I expected to be learning about countless philosophers, specific dates of their theories, and a bunch of textbook reading. Luckily the class was not anything like I expected. This class was primarily about preparing us to be able to think like a philosopher and therefore be able to understand philosophical works more proficiently. 
+
+
+> I really enjoyed the class layout and the way Dr. Buhler taught the class. The discussion format was quite conducive to learning. While I couldn't disagree with him more on many topics, and felt disrespected/insulted quite a few times, I did think that he did a great job teaching Socrates and Plato. 

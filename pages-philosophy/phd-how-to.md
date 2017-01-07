@@ -1,8 +1,11 @@
 ---
 layout: philosophy
-title: How to Get a PhD in Philosophy
+title: How to Complete a PhD (in Philosophy)
 permalink: /phd-how-to
+sidebar: 
+      nav: philosophy
 --- 
+
 
 *[Another page explains my research.](/phd) This post gives some advice on each stage of the process.*
 

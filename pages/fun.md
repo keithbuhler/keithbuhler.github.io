@@ -23,7 +23,7 @@ feature_row:
     alt: "Philosophy"
     title: "Philosophy Portal"
     excerpt: "Coaching in how to succeed in philosophy classes for my students and others who might be interested."
-    url: "http://www.keithbuhler.com/philosophyportal"
+    url: "http://www.keithbuhler.com/philosophy"
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-books3.png
@@ -91,21 +91,31 @@ feature_row3:
 
 <br>
 
-### Projects in Development
+
+### More Info
+
+- [For Academics](/) -- Click the toolbar above to see my academic site, with information about my research, teaching, and scholarship. 
+- [Longer Bio](http://www.keithbuhler.com/bio) -- A bit more about me (Draft 2)
+
+### Projects in Beta
 
 
 - [Talk to a Philosopher](http://www.keithbuhler.com/talk) -- You have questions about philosophy but don't know where to start. You can share your ideas and get feedback from Keith, a professional philosopher, or Sabine,  a professional physicist. 
-- [Philosophy is Science](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences.
-- [Inklings.info](http://www.inklings.info) -- Free books, lists, and information about the Oxford Dons.
-- [Classical Education 101](http://www.keithbuhler.com/buhlerreport/classical-education) -- Three distinctive features of classical education, plus resources, links, and more.
-- [My YouTube Channel](http://bit.ly/keithbuhler_youtube) -- For discussion advice, philosophy talks, and comedy.
-- [Longer Bio](http://www.keithbuhler.com/bio) -- A bit more about me
-- [Web Design](/sites) -- Hire me to make a website for you.
-- [Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation.
-- Orthodoxy -- a bit about the ancient church
+- [Philosophy is Science](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences. 
+- [Classical Education 101](http://www.keithbuhler.com/buhlerreport/classical-education) -- Three distinctive features of classical education, plus resources, links, and more. 
+- [Classical Education, The Yale Report of 1828 Ebook](http://www.keithbuhler.com/yalereport) -- Why this classic statement of the importance of Greek and Latin languages is still relevant today (Draft 1)
+- [My YouTube Channel](http://bit.ly/keithbuhler_youtube) -- For discussion advice, philosophy talks, and comedy. 
+- [Orthodoxy](http://www.keithbuhler.com/buhlerreport/orthodoxy) -- a bit about the ancient church 
+- [Web Design](/sites) -- Hire me to make a website for you. 
+- [Follow me on Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation. Suggest corrections, or fork the code and make your own site. 
+
+
+### Projects in Development
+
+- [Inklings.info](http://www.inklings.info) -- Free books, lists, and information about the Oxford Dons. 
+- [Classical Schools.Org](http://www.classicalschools.org) -- A list of all the good classical schools and colleges in the U.S. 
 - Sandboxing -- how to innovate through low-risk play
-- Book Clubs -- starting and running an intellectual community centered around friendship and great books.
-- [Academics](/) -- Click the toolbar above to see my academic site, with information about my research, teaching, and scholarship. 
+- Book Clubs -- starting and running an intellectual community centered around friendship and great books. 
 
 
 

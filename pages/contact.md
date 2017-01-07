@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Follow / Connect
 layout: single
 permalink: /contact/
----
+author_profile: true
 
-### Email to: 
+---
 
 <script type="text/javascript">
 //<![CDATA[
@@ -26,16 +26,11 @@ while(x=eval(x));
 
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
 * Secure mail:  [circularreason at protonmail.com](emailto:circularreason@protonmail.com)
-* Social: [Facebook](http://www.facebook.com/kedbuhler/)  &  [Twitter](https://twitter.com/Keith_Buhler) 
-* Call:  area 859 number 955 o822
-* Mail: 
+* Social: [Facebook](http://www.facebook.com/kedbuhler/)  &  [Twitter](https://twitter.com/Keith_Buhler) [Google Plus](https://plus.google.com/+KeithBuhler)
+* Call:  area 562 number 23O 292O
+* Mail: Keith Buhler, University of Kentucky, 1402 Patterson Office Tower    
+University of Kentucky, Lexington, KY 40506   
 
-Keith Buhler, c/o Katie Barrett  
-University of Kentucky   
-1402 Patterson Office Tower    
-University of Kentucky    
-Lexington, KY 40506   
-
-(Current as of June 2016)
+(Current as of December 2016)
 
 

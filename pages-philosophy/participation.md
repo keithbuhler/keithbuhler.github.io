@@ -1,7 +1,10 @@
 ---
 layout: philosophy
 title: Participation Instructions
-author_profile: true
+author_profile: false
+sidebar: 
+      nav: philosophy
+permalink: /participation
 ---
 
 The participation component is a large portion of your grade in this class. More importantly, your participation is essential to learning. Expressing your thoughts in words is essential to processing the new concepts and arguments we have covered in the reading, lecture, and discussion.

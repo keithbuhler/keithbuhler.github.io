@@ -1,8 +1,10 @@
 ---
-layout: philosophy
+layout: single
 title: Philosophy Tips
 permalink: /philosophy-tips
 author_profile: true
+sidebar: 
+
 ---
 
 <img src="/images/beard-mechanics.jpg">

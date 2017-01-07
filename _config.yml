@@ -1,6 +1,6 @@
 # Site settings
- url:       http://keithbuhler.com
- baseurl:   
+ url      : http://keithbuhler.com
+ baseurl  : 
  locale:         "en"
  title:          "keithbuhler.com"
  description:    "The professional site of Keith Buhler, philosopher, educator, and writer -- including coaching for philosophy students."
@@ -11,7 +11,7 @@
     num_posts: 5
     colorscheme : #"light" (default", "dark")
 reading_time    :     true
-words_per_minute: "200"
+words_per_minute: 200
 
 
 facebook:
@@ -98,9 +98,9 @@ og_image: "keithbuhler-bw-small.png"
 # Outputting
 
 permalink: /:categories/:title/
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
-timezone:     America/New_York   
+
 
 
 kramdown:
@@ -120,7 +120,7 @@ collections:
     output: true
 
 defaults:
-  -scope:
+  - scope:
       path: "" # empty string for all files
       values:
         read_time: false
@@ -128,20 +128,20 @@ defaults:
         share: false
         related: false  
         author_profile: true
-      layout: "single"
-  -
-    scope:
+        layout: "single"
+        words_per_minute: 200
+  - scope:
       path: "posts"
       type: ""
-      layout: "post" # overrides previous default layout
+      layout: "single" # overrides previous default layout
       values:
         read_time: false
         comments: true
         share: false
         related: false  
         author_profile: true
-
-scope:
+        words_per_minute: 200
+  - scope:
       path: "slideshows"
       type: "slideshows"
     values:
