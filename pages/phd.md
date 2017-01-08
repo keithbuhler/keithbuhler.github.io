@@ -7,11 +7,11 @@ permalink: /phd
 ---
 
 
-### INTRODUCTION
-
 Brian Tracy says you eat an elephant one bite at a time. Writing a dissertation is like that. If you like a challenge, it can be fun.  You can read the story of how I approached this massive project [here.](/phd-how-to)
 
-### TITLE
+--- 
+
+### DISSERTATION TITLE
 
 BECOMING WHAT WE ARE: VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 
@@ -30,7 +30,6 @@ I aim to secure the naturalistic credentials of my view by examining three influ
 
 Feel free to read or peruse these documents and send me your comments. Please do not cite or distribute this draft without permission. The footnotes are still under conversion to HTML. 
 
-(Links may not be working.)
 
 1. [Preface](/dissertation0)
 2. [Chapter 1: Many Sorts of Naturalism](/dissertation1)
@@ -43,6 +42,7 @@ Feel free to read or peruse these documents and send me your comments. Please do
 
 ### WHOLE PDF
 
-(This link works!)
 
 [Becoming What We Are: Virtue and Wisdom as Natural Ends](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf)
+
+[View abstract and citation info at University of Kentucky](http://uknowledge.uky.edu/philosophy_etds/13/)
