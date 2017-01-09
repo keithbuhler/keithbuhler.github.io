@@ -64,6 +64,7 @@ You will be graded primarily on reading, participation, and papers, plus applica
 The Outline tells you the reading, topic for each day. The outline is *subject to minor changes.*
 
 ### Unit 1
+
 ### Week 1 Origins (Faith and Reason, Myth, Holiness)
 
 Jan-10 T Syllabus Day (Jan 10 AU, Jan 23 FPA)  
@@ -81,6 +82,7 @@ Jan-24 T *Sophie's World*, "Socrates, Athens, Plato"; Plato, Euthyphro
 Jan-26 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
 ### Unit 2
+
 ### Week 4 Socrates (Philosophy, Dialectic, Death)  
 (Unit Paper 1 due Tuesday at midnight)   
 Jan-31 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
@@ -107,18 +109,22 @@ Feb-28 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1X
 Mar-2 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
 ### Unit 4
+
 ### Week 9 Logic 
 Unit Paper 3, Due Tuesday by Midnight  
 Mar-7 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  (Midterms Due)
 Mar-9 R Kreeft, *Socratic Logic* III, "Material Fallacies"   
 
+###  Break
+**Mar 13-20 *Easter Break***  
 **Mar 13-20 *Easter Break***  
 
-### Unit 4, Week 10 Reasoning
+### Week 10 Reasoning
 Mar-21 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
 Mar-23 R Kreeft, *Socratic Logic* VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
 ### Unit 5
+
 ### Week 11 Augustine
 Unit Paper 4, Due Tuesday by Midnight   
 Mar-28 T *Confessions* 1 - Augustine and longing for God's presence. *Sophie's World* "Two Cultures"   
@@ -130,13 +136,13 @@ Mar-30 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was thi
 Apr-4 T  *Confessions*, 7 - Does evil exist?   
 Apr-6 R *Confessions* Discussion  
 
-
 ### Week 13 God
 
 Apr-11 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; *Sophie's World* "The Middle Ages"  
 Apr-13 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
 
 ### Unit 6
+
 ### Week 14 2001: A Space Odyssey
 Unit Paper 5, Due Tuesday by Midnight   
 Apr-18 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM), Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
@@ -152,7 +158,6 @@ Apr-27 R Wall-E and Coming Down to Earth
 May-2 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
 May-4 R Tree of Life Discussion  
-
 
 
 {% include boilerplate.html %}

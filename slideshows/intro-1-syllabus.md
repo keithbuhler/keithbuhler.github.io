@@ -41,11 +41,11 @@ theme: league
 
 Will this class be awesome?
 
-</section><section data-background="http://www.collegehumor.com/images/download.jpg">
+</section><section data-background="https://img0.etsystatic.com/000/0/6230905/il_570xN.231283212.jpg">
 
 Is Abraham Lincoln riding a bear holding the Constitution awesome?
 
-</section><section data-background="http://www.backtoclassics.com/images/pics/guidoreni/guidoreni_themartyrdomofstcatherineofalexandria.jpg">
+</section><section data-background="http://www.wikigallery.org/paintings/223501-224000/223722/painting1.jpg">
 
 Is St. Katherine being beheaded because she won a debate with 50 philosophers as a teenager awesome?
 
@@ -79,7 +79,7 @@ Is St. Katherine being beheaded because she won a debate with 50 philosophers as
 
 ## What is this class about?
 
-Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
+Open your syllabus [or follow online.](http://www.keithbuhler.com/introduction)
 
 </section><section data-markdown>
 
@@ -96,7 +96,7 @@ Open your syllabus or follow [online.](http://www.keithbuhler.com/syllabus251)
 <section><!--Wed, Intro begin-->
 <section data-background="http://static.tumblr.com/6433c819c8544bb9e6d643dc5c92df28/x9itfym/Uvomgzw2x/tumblr_static_aslan-lion-3-chronicles-of-narnia-voyage-of-the-dawn-treader-wallpaper.jpg" data-markdown>
 
-# Philosophy of CS Lewis
+# Introductino to Philosophy
 
 ### Who is lewis?
 
