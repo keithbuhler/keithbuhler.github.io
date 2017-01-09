@@ -41,14 +41,15 @@ theme: league
 
 Will this class be awesome?
 
-</section><section data-markdown data-background="http://www.collegehumor.com/images/download.jpg">
+</section><section data-background="http://www.collegehumor.com/images/download.jpg">
 
 Is Abraham Lincoln riding a bear holding the Constitution awesome?
 
-</section><section data-markdown data-background="http://www.backtoclassics.com/images/pics/guidoreni/guidoreni_themartyrdomofstcatherineofalexandria.jpg">
+</section><section data-background="http://www.backtoclassics.com/images/pics/guidoreni/guidoreni_themartyrdomofstcatherineofalexandria.jpg">
 
 Is St. Katherine being beheaded because she won a debate with 50 philosophers as a teenager awesome?
 
+</section><section data-markdown>
 
 
 ## About me
