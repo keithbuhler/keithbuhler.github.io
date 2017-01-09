@@ -5,20 +5,20 @@ title: Introduction to Philosophy Syllabus
 ---
 
 #### [PDF of Syllabus, Spring 2017](/syllabi/syllabus-introduction-asbury-spring-2017.pdf)    
- 
-**Instructor: Keith Buhler**     
-**Email:** keith.buhler@uky.edu (keith.buhler@asbury.edu forward to the same destination)  
-**Asbury Office Hours: Tuesday, 11am-12pm** (tentative)
+   
+**Instructor:** Keith Buhler    
+**Email:** keith.buhler@uky.edu (asbury email also forwards here)   
+**Asbury Office Hours:** Tuesday, 12-1 (tentative)  
 
 ### Books: 
 
-- [Jostein Gaardner, **Sophie's World**](http://amzn.to/2ibvqVj)
+- [Jostein Gaardner, *Sophie's World](http://amzn.to/2ibvqVj)
 - [Plato, *Last Days of Socrates*](http://amzn.to/1NMMNB6)
 - [Peter Kreeft, *Philosophy 101*](http://amzn.to/2iy9Si9)
 - [Peter Kreeft, *Socratic Logic*](http://amzn.to/2iy4Mmb)
 - [Augustine, *Confessions*](http://amzn.to/1QJ7qEj)
 
-> Buy these ISBNS only, please, because I assign page numbers *from these editions*.  Get physical books, not e-books, unless the cost is prohibitive.  New or used are both OK. You may purchase from any online retailer or physical bookstore, but the links provided are from Amazon (I participate in their affiliate program). Other handouts are provided for free online. 
+> Buy the exact editions in the links only, please, because I assign page numbers *from these editions*.  Get physical books, not e-books, unless the cost is prohibitive.  New or used are both OK. You may purchase from any online retailer or physical bookstore, but the links provided are from Amazon (I participate in their affiliate program). Other handouts are provided for free online. 
 
 ### Course Description:
 This course is an exercise in a different way of thinking: philosophical thinking. Strictly speaking, this is not an "introduction" to philosophical thinking -- because everybody already thinks this way *sometimes*. Rather, we will *exercise* it more. We will practice thinking philosophically. The method is to read and discuss philosophical writings and movies. In order to think philosophically, we will practice  read, discuss, and write about these texts. 
@@ -158,6 +158,5 @@ Apr-27 R Wall-E and Coming Down to Earth
 May-2 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
 May-4 R Tree of Life Discussion  
-
 
 {% include boilerplate.html %}

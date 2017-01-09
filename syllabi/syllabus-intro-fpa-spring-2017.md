@@ -6,8 +6,8 @@ title: Introduction to Philosophy Syllabus
 
 #### [PDF of Syllabus, Spring 2017 (FPA)](/syllabi/syllabus-intro-fpa-spring-2017.pdf)     
 **Instructor:** Keith Buhler   
-**Email:** keith.buhler@uky.edu (this forwards to kbuhler@fpa.edu)  
-**Teacher Talk: Monday, 2-3pm** (tentative)   
+**Email:** keith.buhler@uky.edu (kbuhler@fpa.edu forwards to same place)  
+**Teacher Talk:** Thursday, 11:00-11:30am CT 
 
 ### Books: 
 
