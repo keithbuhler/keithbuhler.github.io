@@ -34,7 +34,7 @@ B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
 
 
 ### EMPLOYMENT
-Postdoctoral Lecturer, University of Kentucky  Spring 2017    
+Postdoctoral Lecturer, University of Kentucky,  Spring 2017    
 Instructor of Philosophy, Asbury University, 2013-2017      
 
 ### AREA OF SPECIALIZATION 
@@ -123,7 +123,7 @@ While the normative force of my view is clear, I secure its naturalistic credent
 Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)      
 Travel Funding, University of Kentucky Graduate School (2014)     
 Teaching Assistantship, University of Kentucky (2012-2016)     
-Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2014)         
+Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
 
 ### ADMINISTRATION POSITIONS
 1. Director of High School Studies (Veritas Academy, 2013-2014)
