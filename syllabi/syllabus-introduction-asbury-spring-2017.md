@@ -1,18 +1,19 @@
 ---
 layout: philosophy
 permalink: /introduction
-title: Introduction to Philosophy Syllabus
+title: 
 ---
 
 #### [PDF of Syllabus, Spring 2017](/syllabi/syllabus-introduction-asbury-spring-2017.pdf)    
-   
+
+### Introduction to Philosophy Syllabus, Spring 2017
 **Instructor:** Keith Buhler    
 **Email:** keith.buhler@uky.edu (asbury email also forwards here)   
-**Asbury Office Hours:** Tuesday, 12-1 (tentative)  
+**Asbury Office Hours:** Thursday, 12-1, Library  
 
 ### Books: 
 
-- [Jostein Gaardner, *Sophie's World](http://amzn.to/2ibvqVj)
+- [Jostein Gaardner, *Sophie's World*](http://amzn.to/2ibvqVj)
 - [Plato, *Last Days of Socrates*](http://amzn.to/1NMMNB6)
 - [Peter Kreeft, *Philosophy 101*](http://amzn.to/2iy9Si9)
 - [Peter Kreeft, *Socratic Logic*](http://amzn.to/2iy4Mmb)
@@ -59,9 +60,9 @@ You will be graded primarily on reading, participation, and papers, plus applica
 
 
 
-## Outline (Asbury):
+## Outline
 
-The Outline tells you the reading, topic for each day. The outline is *subject to minor changes.*
+The course outline tells you the reading and topic for each day. The outline is *subject to minor changes* for weather, sicknesses, travel, etc. The online version is always up to date.
 
 ### Unit 1
 
@@ -159,4 +160,4 @@ May-2 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFh
  as Evolution and Genesis  
 May-4 R Tree of Life Discussion  
 
-{% include boilerplate.html %}
+
