@@ -22,6 +22,7 @@ This course is an exercise in careful and deep thinking about morality, society,
 * To reflect on our own lives, thoughts, and actions and become more virtuous, thoughtful, and wise human beings in the pursuit of goodness, truth, and beauty.
 
 ### Scope and Sequence:
+
 The course is broken into 4 Units of 3-4 weeks each: 
 
 - Unit 1. The Nature and Purpose of Morality (weeks 1, 2, 3) 
@@ -32,114 +33,108 @@ The course is broken into 4 Units of 3-4 weeks each:
 Each unit consists of three components. (1) Reading and weekly quizzes, (2) Discussion in class, (3) Writing. 
 
 ### Grades:
+
+Readings = 25%  
+Participation = 25%  
+Disputations = 50%  
+Extra Credit = 0-5%  
+
 You will be graded on reading, participation, and papers, plus applicable extra credit. The best way to earn an 'A' is to read carefully, participate in and out of class, and write well.  
-
-
-|  Assessment category                  |  %          |
-| --------------------------------------|-------------|
-| Readings (weekly quizzes)             | 25%         |  
-| Participation                         | 25%         |
-| Disputation Papers                    | 50%         |
-| Extra Credit                          | 0-5%        |
 
 
 ## Outline:
 
-The Outline (*subject to minor changes.*) tells you the reading, topic for each day. All readings are from Pojman, *The Moral Life* unless otherwise noted. 
+The Outline (*subject to minor changes*) tells you the reading, topic for each day. All readings are from Pojman, *The Moral Life* unless otherwise noted. 
 
-<p></p>
-
-**Week 1 Introductions**  
+### Week 1 Introductions  
 W       Jan-11:  Syllabus day (no reading)    
-F       Jan-13:  Pojman, "Introduction" (pp. 1-5)  
+F       Jan-13:  Pojman, "Introduction" (pp. 1-5) and discussion of Ethics 
 
-**Week 2 The Nature and Purpose of Morality**   
-M       Jan-16:  Chapter 1 "Lord of the Flies", and "On the Nature and Purpose of Morality"
-W       Jan-18:  Chapter 1, Thomas Hobbes "On the State of Nature" (10-49)  and ["Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit?usp=sharing)  
-F       Jan-20:  Discussion  (Buhler) 
+### Week 2 The Nature and Purpose of Morality  
+M       Jan-16:  Chapter 1 Introduction;  "Lord of the Flies", and Pojman, "On the Nature and Purpose of Morality"  
+W       Jan-18:  Thomas Hobbes "On the State of Nature" (10-49) and [Kreeft "Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit#)   
+F       Jan-20:  Discussion of Nature of Morality (Buhler)  
 
-**Week 3 Good, Evil, and Relativism**   
-M       Jan-23   Chapter 2, Introduction, Melville "Billy Budd", Dostoyevsky "Why is there evil?", Styron "Sophie's Choice", Hallie "From Cruelty to Goodness", (51-76)  
-W       Jan-25   Nietzsche, "Beyond Good and Evil", Taylor "on the Origin of Good and Evil" (90-128)  
-F       Jan-27   Chapter 3 Introduction; Herodotus "Custom is King", Benedict "The Case for Moral Relativism", Rachels "Why Morality is Not Relative" (130-152) 
+### Week 3 Good and Evil
+M       Jan-23   Chapter 2, Introduction; Melville "Billy Budd", Dostoyevsky "Why is there evil?", Styron "Sophie's Choice",  (51-)  
+W       Jan-25   Chapter 3 Introduction; Herodotus "Custom is King", Benedict "The Case for Moral Relativism", Rachels "Why Morality is Not Relative" (130-152)  
+F       Jan-27   Discussion of Good and Evil (Buhler)  
 
-**Week 4 Utilitarianism**   
-(Unit Paper 1, Nature of Morality Due Monday by Midnight)    
+### Week 4 Utilitarianism
 M       Jan-30  Part II, Chapter 4 Introduction; "Seaman Holmes and the Longboat", Bentham "Classical Utilitarianism", Mill "Utilitarianism refined" (191-205)   
 W       Feb-1   Nielsen, "A Defense of Utilitarianism" and Williams, "Against Utilitarianism" (205-234)  
-F       Feb-3  Discussion  (Group 1)
+F       Feb-3  Discussion (Buhler)  and Writing Workshop for Unit Paper 1   
 
-**Week 5 Deontological Ethics**  
-M       Feb-6  Chapter 5, Introduction; "Immanual Kant" and "Kant's Theory" (237-259)
-W       Feb-8  "Does Morality Depend on Religion?" and "Divine Command Theory" (294-300)
-F       Feb-10  Discussion (Group 2)  
+### Week 5 Deontological Ethics
+(Unit Paper 1, Nature of Morality Due Monday by Midnight)    
+M       Feb-6  Chapter 5, Introduction; "Immanual Kant" and "Kant's Theory" (237-259)  
+W       Feb-8  "Does Morality Depend on Religion?" and "Divine Command Theory" (294-300)  
+F       Feb-10  Discussion of Deontological ethics (Group 1)   
 
-**Week 6 Virtue Ethics**  
-M       Feb-13  Chapter 6, Introduction; Aristotle, "Virtue Ethics" and MacIntyre "the Virtues", (314-346)
-W       Feb-15  "Sermon on the Mount" (388-391) and "Stoic Catechism" (415-425)
-F       Feb-17  Discussion (Group 3)  
+### Week 6 Virtue Ethics
+M       Feb-13  Chapter 6, Introduction; Aristotle, "Virtue Ethics" and MacIntyre "the Virtues", (314-346)  
+W       Feb-15  "Sermon on the Mount" (388-391) and "Stoic Catechism" (415-425)  
+F       Feb-17  Discussion on Virtue Ethics (Group 2)   
 
-**Week 7 Feminist Ethics**    
-M       Feb-20  Chapter 7, Introduction; "Feminist Ethics" (439-456)  
-W       Feb-22  "The Need for More than Justice", and "Ethics of Care" (465-490)
-F       Feb-24  Discussion (Group 4) 
+### Week 7 Feminist Ethics 
+M       Feb-20  Chapter 7, Introduction; "Feminist Ethics" (439-456)   
+W       Feb-22  "The Need for More than Justice", and "Ethics of Care" (465-490)  
+F       Feb-24  Discussion on Feminist Ethics  (Group 3)   
 
 
-**Week 8 Egoism**   
+### Week 8 Egoism 
 (Unit Paper 2, Moral Theories Due Monday by Midnight)    
 M       Feb-27  Chapter 8, Introduction; Plato, "Ring of Gyges" and Rand, "In Defense of Ethical Egoism" (495-513)    
-W       Mar-1  Chapter 8, Pojman, "Egoism and Altruism" and "Critique of Ethical Egoism" (521)  
-F       Mar-3  Discussion (Group 5) 
+W       Mar-1  Chapter 8, Pojman, "Egoism and Altruism" and "Critique of Ethical Egoism" (521)   
+F       Mar-3  Discussion on Egoism  (Group 4)  
 
-**Week 9 The Meaning of Life**   
-M       Mar-6  Chapter 9 Introduction; Voltaire, "Good Brahmin", Epicurus "Hedonism" (534-545)  
-W       Mar-8  Camus "Life is Absurd", and Pojman "Religion gives meaning to life" (545-557)  
-F       Mar-10  Discussion (Russell 569-571) (Group 6)     
+### Week 9 The Meaning of Life
+M       Mar-6  Chapter 9 Introduction; Voltaire, "Good Brahmin", Epicurus "Hedonism" (534-545)   
+W       Mar-8  Camus "Life is Absurd", and Pojman "Religion gives meaning to life" (545-557), and Russell, "Reflections on Suffering" 569-571
+F       Mar-10  Discussion on Meaning of Life  (Group 5)     
 
-**Easter Break**   
-M     Mar-13 *Easter Break*  
-W     Mar-15 *Easter Break*  
-F     Mar-17 *Easter Break*  
+### Break 
+M     Mar-13 *Spring Break*    
+W     Mar-15 *Spring Break*    
+F     Mar-17 *Spring Break*    
 
-**Week 10 Autonomy**  
-M       Mar-20  Chapter 10, Introduction; King "I have a dream", "Experiment in Autonomy" (573-593)  
-W       Mar-22  Sartre, "Existentialism is a Humanism" (593-601); Vonnegut "Harrison Bergeron" (612-617)  
-F       Mar-24   Discussion (Group 7) 
+### Week 10 Autonomy
+M       Mar-20  Chapter 10, Introduction; King "I have a dream", "Experiment in Autonomy" (573-593)   
+W       Mar-22  Sartre, "Existentialism is a Humanism" (593-601); Vonnegut "Harrison Bergeron" (612-617)   
+F       Mar-24   Discussion on Autonomy (Group 6) 
 
  
-**Week 11 Sexual Ethics**     
+### Week 11 Sexual Ethics  
 (Unit Paper 3, Moral Issues Due by Midnight)     
 M       Mar-27  Chapter 11, Introduction; Kant, "On the Place of Sex", McMurtry "Monogamy: A Critique", and Bayles, "Marriage, Love, and Procreation" (619-635)   
-W       Mar-29  Levin "Homosexuality is Abnormal", Corvino "A Defense of Homosexuality" (664-688)  
-F       Mar-31  Discussion (Group 8)  
+W       Mar-29  Levin "Homosexuality is Abnormal", Corvino "A Defense of Homosexuality" (664-688)   
+F       Mar-31  Discussion on Sexual Ethics (Group 7)    
 
-**Week 12  Abortion**  
-M       Apr-3  Chapter 12, Introduction; Marquis, "Why Abortion is Immoral" (689-709)   
-W       Apr-5  Thomson, "A Defense of Abortion" (710-727)  
-F     Apr-7 Discussion (Group 9)  
+### Week 12  Abortion
+M       Apr-3  Chapter 12, Introduction; Marquis, "Why Abortion is Immoral" (689-709)    
+W       Apr-5  Thomson, "A Defense of Abortion" (710-727)   
+F     Apr-7 Discussion on Abortion (Group 8)    
 
-**Week 13 Euthanasia**   
-M       Apr-10 Chapter 13, Introduction; Brock "Voluntary Active Euthanasia" (760-780)  
+### Week 13 Euthanasia 
+M       Apr-10 Chapter 13, Introduction; Brock "Voluntary Active Euthanasia" (760-780)   
 W       Apr-12 Gay-Williams, "The Wrongfulness of Euthanasia" (781)  
-F       Apr-14   Discussion (Group 10)
+F       Apr-14   Discussion on Euthanasia (Group 9)  
 
-**Week 14 Animal Rights**   
+### Week 14 Animal Rights
 M       Apr-17  Chapter 14, Introduction; Orwell "Shooting an Elephant" (793-800)     
 W       Apr-19 Singer "All Animals are Equal", Cohen "The Case Against Animal Rights" (801-820)     
-F       Apr-21   Discussion (Group 11)   
+F       Apr-21   Discussion on Animal rights (Group 10)     
 
 
-**Week 15 Globalism**   
+### Week 15 Globalism 
 (Unit Paper 4, Moral Problems due Monday by Midnight)     
 M     Apr-24 Chapter 16, Introduction; Hardin "Living on a Lifeboat" (852-871)  
 W     Apr-26 Murdoch, "A Critique of Lifeboat Ethics" (872-887)   
-F     Apr-28 Discussion  
+F     Apr-28 Discussion on Globalism  (Buhler)  and Term Paper Work Shop
 
-**Finals Week**  
-(Unit Paper 5, Final Paper (Revision) Due Monday by midnight)  
-W       May-3  Reflections Due  by 11:59PM online.    
-F       May-5  Extra Credit due by 11:59PM online.    
-
-
+### Finals Week  
+M       May-1  No class
+W       May-3  Reflections and Extra Credit Due  by 11:59PM online.    
+F       May-5  Term Paper by 11:59pm online  
 
 {% include boilerplate.html %}
