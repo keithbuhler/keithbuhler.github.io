@@ -43,7 +43,7 @@ The ultimate motivation for having the conversation we call philosophy must be t
 
 ### Scope, Sequence, and Grades:
 
-The course is broken into 6 Units of 2-3 weeks each: Origins, Socrates, Forms, Logic, God, and Human Nature. Each unit consists of four components. (1) Reading and daily quizzes, (2) Discussion in class, (3) Writing. Therefore, the best way to earn an 'A' is to read carefully, participate, and write. 
+The course is broken into 6 Units of 2-3 weeks each: Origins, Socrates, Forms, Logic, God, and Human Nature. Each unit consists of three components. (1) Reading and daily quizzes, (2) Discussion in class, (3) Writing. Therefore, the best way to earn an 'A' is to read carefully, participate, and write. 
 
 You will be graded primarily on reading, participation, and papers, plus applicable extra credit.
 
