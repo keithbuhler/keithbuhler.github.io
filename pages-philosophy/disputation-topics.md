@@ -12,17 +12,18 @@ sidebar:
 
 If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies*, "Billy Budd", or others from the text, argue for one of these two claims. 
 
-### Unit 2 (Moral Theories) Option A - Defend a moral theory against a rival
+### Unit 2 (Moral Theories) Option A - Which moral theory is most useful? 
 
 One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot replace one's lived moral but it can help to prune and grow it. We discussed six related but distinct moral theories: utilitarianism, Kantian deontology, divine command theory, virtue ethics, stoicism, feminism/ethics of care. Which of the six moral theories do you find most useful and persuasive? Discuss how that moral theory helps you know what to do in a particular moral example,  such as the Ring of Gyges, the Good Samaritan, Lord of the Flies, Billy Budd, the Longboat, etc. For your objections section, state the "second best" or runner up moral theory. In your "replies" section show how the "runner up" gives an inadequate response  to this example and how your theory gives a more adequate response.
 
-### Unit 2 (Moral Theories) Option B -- Virtue Ethics
+### Unit 2 (Moral Theories) Option B -- Does Virtue Ethics provide clear enough guidance?
 
-William Frankena critiques virtue-based ethical systems while Williams defends virtue. 
+William Frankena critiques virtue-based ethical systems while Williams defends virtue. Jesus commends virtue-talk in the Sermon on the Mount, and the Stoics commend virtue-talk in their catechism. One of Frankena's most cutting criticisms is that virtue theories don't provide clear action guidance. Is this true? State both sides of this issue and defend your answer, either 'yes' or 'no.'
 
-### Unit 3 (Moral Issues) Option A
+### Unit 3 (Moral Issues) Option A -- The meaning of life
 
-### Unit 3 (Moral Issues) Option B
+
+### Unit 3 (Moral Issues) Option B -- Egoism
 
 ### Unit 4 (Moral Problems) Option A 
 
