@@ -80,7 +80,7 @@ W       Feb-15  "Sermon on the Mount" (388-391) and "Stoic Catechism" (415-425)
 F       Feb-17  Discussion (Group 3)  
 
 **Week 7 Feminist Ethics**    
-M       Feb-20  Chapter 7, Introduction; "Feminist Ethics" (439-456)
+M       Feb-20  Chapter 7, Introduction; "Feminist Ethics" (439-456)  
 W       Feb-22  "The Need for More than Justice", and "Ethics of Care" (465-490)
 F       Feb-24  Discussion (Group 4) 
 
@@ -114,9 +114,9 @@ W       Mar-29  Levin "Homosexuality is Abnormal", Corvino "A Defense of Homosex
 F       Mar-31  Discussion (Group 8)  
 
 **Week 12  Abortion**  
-M       Apr-3  Chapter 12, Introduction; Marquis, "Why Abortion is Immoral" (689-709)
-W       Apr-5  Thomson, "A Defense of Abortion" (710-727)
-F     Apr-7 Discussion (Group 9)
+M       Apr-3  Chapter 12, Introduction; Marquis, "Why Abortion is Immoral" (689-709)   
+W       Apr-5  Thomson, "A Defense of Abortion" (710-727)  
+F     Apr-7 Discussion (Group 9)  
 
 **Week 13 Euthanasia**   
 M       Apr-10 Chapter 13, Introduction; Brock "Voluntary Active Euthanasia" (760-780)  

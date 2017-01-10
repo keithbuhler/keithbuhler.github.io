@@ -4,14 +4,15 @@ permalink: /intro
 title: Introduction to Philosophy Syllabus
 ---
 
-#### [PDF of Syllabus, Spring 2017 (FPA)](/syllabi/syllabus-intro-fpa-spring-2017.pdf)     
+#### [PDF of Syllabus, Spring 2017 (FPA)](/syllabi/syllabus-intro-fpa-spring-2017.pdf)    
+### Introduction to Philosophy, Syllabus 2017 
 **Instructor:** Keith Buhler   
 **Email:** keith.buhler@uky.edu (kbuhler@fpa.edu forwards to same place)  
 **Teacher Talk:** Thursday, 11:00-11:30am CT 
 
 ### Books: 
 
-- [Jostein Gaardner, *Sophie's World](http://amzn.to/2ibvqVj)
+- [Jostein Gaardner, *Sophie's World*](http://amzn.to/2ibvqVj)
 - [Plato, *Last Days of Socrates*](http://amzn.to/1NMMNB6)
 - [Peter Kreeft, *Philosophy 101*](http://amzn.to/2iy9Si9)
 - [Peter Kreeft, *Socratic Logic](http://amzn.to/2iy4Mmb)
@@ -54,11 +55,13 @@ You will be graded primarily on reading, participation, and papers, plus applica
 | Extra Credit                          | 0-5% max    |
 
 
-##  Outline (FPA):
+##  Outline:
 
-The outline tells you the reading due each day, the topic. The outline is *subject to minor changes.*
+The outline tells you the reading due each day, the topic. The outline is *subject to minor changes* for weather, sicknesses, travel, etc. The online version is always up to date.
 
-### Unit 1, Week 1 -- Origins (Faith and Reason, Myth, Holiness)
+### Unit 1 Origins
+
+### Week 1 -- Faith and Reason
 
 Jan-24 T Syllabus Day   
 Jan-26 R [JP Moreland, "Love your God with all your mind"](https://drive.google.com/open?id=0B0CYQDZ8AWu8ZFpxVkllVG5GQWs)
@@ -74,7 +77,9 @@ Feb-2 R [Genesis (Chps. 1-3)](https://www.biblegateway.com/passage/?search=Genes
 Feb-7 T *Sophie's World*, "Socrates, Athens, Plato"; Plato, Euthyphro  
 Feb-9 R Euthyphro Discussion;  Kreeft, *Philosophy 101*, (Chapter II, pp. 87-114) "Philosophy Exemplified"  
 
-### Unit 2, Week 4 -- Socrates (Philosophy, Dialectic, Death)
+### Unit 2 Socrates
+
+### Week 4 Philosophy
 (Unit Paper 1 due Tuesday at midnight)  
 Feb-14 T Plato, Apology - Is Socrates guilty? What is he being accused of?    
 Feb-16 R Apology Discussion  
@@ -89,7 +94,9 @@ Feb-28 T Plato, *Phaedo* (116-143) - Was Socrates true to his principles, even i
 Mar-2 R Plato, *Phaedo* II (116-143) The soul is immortal because opposites come from opposites, and because we remember Equality itself.   
 
 
-### Unit 3, Week 7 -- The Soul  
+### Unit 3 The Soul 
+
+### Week 7 -- The Soul  
 Unit Paper 2, Due Tuesday at Midnight    
 Mar-7 T Plato, *Phaedo* (143-199) The soul is immortal if it is philosophical because it is more like the Forms than it is like material things.   
 Mar-9 R *Phaedo* Discussion, Kreeft *Philosophy 101* (131-148)  
@@ -99,7 +106,9 @@ Mar-9 R *Phaedo* Discussion, Kreeft *Philosophy 101* (131-148)
 Mar-14 T [Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)  
 Mar-16 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
-### Unit 4, Week 9 -- Logic 
+### Unit 4 Logic
+
+### Week 9 -- Three Acts of the Mind
 Unit Paper 3, Due Tuesday by Midnight  
 
 Mar-21 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  
@@ -109,7 +118,9 @@ Mar-23 R Kreeft, *Socratic Logic* III, "Material Fallacies"
 Mar-28 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
 Mar-30 R Kreeft, *Socratic Logic* VIII, "Reasoning"; Willard, "Jesus the Logician"  
 
-### Unit 5, Week 11 -- Augustine
+### Unit 5 Medieval Philosophy
+
+### Week 11 -- Augustine
 Unit Paper 4, Due Tuesday by Midnight   
 Apr-4 T *Confessions* 1 - Augustine and longing for God's presence. *Sophie's World* "Two Cultures"   
 Apr-6 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
@@ -128,19 +139,23 @@ Apr-25 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.goo
 Apr-27 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
 
 
-### Unit 6, Week 14 
+### Unit 6 Skepticism
+
+### Week 14 -- Skepticism
 Unit Paper 5, Due Tuesday by Midnight  
  
-May-2 T 
-May-4 R 
+May-2 T Hume I
+May-4 R Hume II
 
 
-### Week 15 
+### Week 15 -- Atheism
 
-May-9 T 
-May-11 R 
+May-9 T  Dawkins I
+May-11 R  Dawkins II
 
-### Unit 6, Week 16 -- 2001: A Space Odyssey
+### Unit 6 Human Nature
+
+### Week 16 -- 2001: A Space Odyssey
 May-16 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM);  Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
 May-18 R  Dave as the New Adam  
 
