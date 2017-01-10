@@ -1,7 +1,7 @@
 ---
 layout: philosophy
 permalink: /introduction
-title: 
+title: Introduction to Philosophy Syllabus, Spring 2017
 ---
 
 #### [PDF of Syllabus, Spring 2017](/syllabi/syllabus-introduction-asbury-spring-2017.pdf)    
