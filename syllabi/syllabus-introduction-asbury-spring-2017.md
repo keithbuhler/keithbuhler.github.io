@@ -106,7 +106,7 @@ Feb-23 R *Phaedo* Discussion, Kreeft *Philosophy 101* (131-148)
 
 ### Week 8 Forms
 
-Feb-28 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)
+Feb-28 T [Peter Kreeft, “Forms” handout](https://drive.google.com/open?id=1XNd9NIsi0NuvAz6sYCRuKnLgnHPnGvM8sGJrvotp3yw)  
 Mar-2 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aristotle," "Hellenism", "Postcards")  
 
 ### Unit 4
