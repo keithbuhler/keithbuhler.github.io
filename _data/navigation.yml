@@ -24,24 +24,26 @@ philosophy:
         url: http://www.keithbuhler.com//philosophy
       - title: "Syllabi"
         url: http://www.keithbuhler.com/syllabi
+      - title: "Logic 101"
+        url: http://www.keithbuhler.com/logic
+      - title: "Discussion 101"
+        url: http://www.keithbuhler.com/discussion101
   - title: "During Class"
     children:
       - title: "How to Succeed "
         url: http://www.keithbuhler.com/philosophy-class
       - title: "Reading Philosophy"
         url: http://www.keithbuhler.com/reading
-      - title: "Discussion 101"
-        url: http://www.keithbuhler.com/discussion101
       - title: "Participation"
         url: http://www.keithbuhler.com/participation
       - title: "Disputations How To"
         url: http://www.keithbuhler.com/disputations
       - title: "Disputation Topics"
         url: http://www.keithbuhler.com/disputation-topics
-      - title: "Logic 101"
-        url: http://www.keithbuhler.com/logic
       - title: "Slideshows"
         url: http://www.keithbuhler.com/slideshows
+      - title: "Extra Credit"
+        url: http://www.keithbuhler.com/extra-credit
   - title: "After Class"
     children:
       - title: "What to Read Next"

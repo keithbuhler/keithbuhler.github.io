@@ -113,10 +113,7 @@ M       Mar-6  Deception and Information Disclosure
 W       Mar-8  Intellectual Property Rights   
 F       Mar-10  Discussion   
 
-### Break
-M     Mar-13 Easter Break  
-W     Mar-15 Easter Break  
-F     Mar-17 Easter Break  
+### Break Mar 13-17
 
 ### Week 10 Incentives    
 M       Mar-20  Conflicts of Interest   

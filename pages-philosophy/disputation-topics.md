@@ -1,16 +1,19 @@
 ---
 layout: philosophy
-title: How to Write a Disputation
+title: Disputation Topics
 permalink: /disputation-topics
 sidebar: 
       nav: philosophy
 ---
 
+
+
+
 # Introduction to Ethics Topics (UK 2017)
 
 ### Unit 1. (Nature of Morality) Is the moral law a law of nature or a social convention? 
 
-If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies*, "Billy Budd", or others from the text, argue for one of these two claims. 
+If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft argue that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples from *Lord of the Flies*, "Billy Budd", "Illustrations of the Tao" or others from the texts, argue for one of these two claims. 
 
 ### Unit 2 (Moral Theories) Option A - Which moral theory is most useful? 
 
@@ -50,15 +53,40 @@ For this paper, you are going to transform one of your previous four disputation
 
 ---
 
-# Business Ethics Topics
+# Business Ethics Topics (Spring 2017)
 
-### Unit 1 (Nature of Morality)
+### Unit Paper 1 (Moral Theories) Which moral theory is most useful? 
 
-### Unit 2 (Moral Theories)
+One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot *replace* one's lived moral but it can help to prune and grow it. Six ethical theories that we discussed help us to reflect on our morality. These are related but distinct: utilitarianism, Kantian deontology, divine command theory, virtue ethics, stoicism, feminism/ethics of care. Which of the six moral theories do you find most useful and persuasive? 
 
-### Unit 3 (Capitalism and Money)
+Discuss how that moral theory helps you know what to do in a particular moral example,  such as the Ring of Gyges, the Good Samaritan, Lord of the Flies, Billy Budd, the Longboat, etc. For your objections section, state the "second best" or runner up moral theory. In your "replies" section show how the "runner up" gives an inadequate response  to this example and how your theory gives a more adequate response.
 
-### Unit 4 (Equality and Justice)
+### Unit Paper 2 (Capitalism and Socialism) Is CEO Pay ever unjustifiably high? 
+
+This Unit Paper is about CEO compensation in the context of a capitalist society where entrepreneurs are paid with cash, bonuses, stocks, and "golden handshakes." Many people are uncomfortable with high CEO compensation -- in this paper, try to answer the question of whether or not it is possible that their pay is too high. 
+
+This is a yes/no question. So answer the question! Don't say you "see both sides." ARGUE ONE SIDE, even if you're not 100% sure about it. For example:  Yes: If you argue that CEO compensation is sometimes too high, state in your objections section the single best reason to think that CEO pay is just. Then explain, in the argument section,  when and why a certain amount is unjust. No: If you argue that CEO compensation is never too high, state in your objections section the single best reason to think CEO pay is sometimes unjust. Then explain, in the argument section, why even high amounts are just. 
+
+
+### Unit Paper 3 (Universal Norms)
+
+If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft agree that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples such as illustrated in the Tao, the Inside Job, or other readings, argue for one of these two claims. 
+
+
+### Unit Paper 4 Option A (Incentives) 
+
+Is the author (Andrew Stark) correct that small info and small money are the only morally acceptable forms of lobbying since they have the least risk of corruption? 
+
+
+### Unit Paper 4 Option B (Deception)
+
+Is it ever morally acceptable for a business to tell an untruth, a partial truth, or a combination of truth and BS? If so, when? If not, why not?
+
+
+### Unit Paper 5 Option A (Affirmative Action): 
+
+Is the author (Bernard Boxill) correct that affirmative action on behalf of black folks is only morally acceptable form of affirmative action, since diversity of other cultures at the top would not secure social stability?
+
 
 ### Term Paper
 
@@ -80,7 +108,7 @@ For this paper, you are going to transform one of your previous four disputation
 
 --- 
 
-# Topics Intro to Philosophy  (Spring 2017)
+# Introduction to Philosophy Topics  (Spring 2017)
 
 ### Disputation, Unit 1. (Origins) Is Christian belief primarily supported by faith or by reason? 
 Three core Christian beliefs are that God exists and created the world, that all men are sinful, and that Christ died and rose again for our salvation. JP Moreland argues that non-Christians (as well as anti-intellectual Christians) have a secular view of knowledge. Using one or more of these three doctrines as examples of “Christian belief”, summarize whether Christians accept this/these belief(s) because of faith or reason. Summarize in the “objections” section at least one reason to accept the opposite of your thesis. You are free to argue that these beliefs are supported by both faith and reason, but you must answer the question about which one is primary. 
@@ -112,12 +140,3 @@ For this paper, you are going to transform one of your previous five disputation
 6. Print and read your paper, "grading" it yourself. Grade mercilessly.
 7. Make corrections, print, and re-read again. Repeat until you are satisfied. 
 8. Turn it in!
-
-## Extra Credit Disputation Options (1000 word minimum)
-
-1. *Option A (Design your own) What is your question?* You may design your own question. I must approve the question before you begin. Your question prompt is due a week in advance of the paper. You may draw your question from any of the semester texts, handouts, books, or films.  The question must: Be clear; Deeply interest you; Admit of a yes/no answer; Be rooted in one of our semester texts. 
-2. *Option B (Moreland, Plato, Augustine, Sophie’s World) Does Platonism contradict Christianity?* Augustine was a Manichaean first, a Platonist second, and a traditional Christian third. He details why he thought each of these. Where do the teachings of "Platonism" differ from teachings of the historic Christian Church and where do they overlap? How does “Athens” relate to “Jerusalem”?  Does Platonism contradict Christianity? Does philosophy/science contradict theology? In your disputation, use Augustine’s arguments (especially Book VII) in either your argument or objections, and argue your answer to this question.
-3. *Option C. (Films) Is man evolving into something superhuman or devolving into something subhuman?* 2001 A Space Odyssey and Wall-E present very different pictures of the relationship between man and technology. Is humanity essentially good, and becoming better? Essentially evil, and becoming worse? Essentially bad but becoming good? Essentially good but becoming bad? 
-4. *Option D (Plato, Kreeft) Do forms exist in reality or only in our minds? Are they things and concepts or just concepts?* Socrates argues that truly real objects he calls "forms" exist and are stable, eternal things that underly all this changing flux. However, forms are (in one sense) invisible... What is a form and why think they exist? Why think they don’t? Are the just “in the mind”? In your disputation, use Plato and Kreeft article to present your own answer to this question. 
-
-
