@@ -5,8 +5,6 @@ title: Introduction to Philosophy Syllabus, Spring 2017
 ---
 
 #### [PDF of Syllabus, Spring 2017](/syllabi/syllabus-introduction-asbury-spring-2017.pdf)    
-
-### Introduction to Philosophy Syllabus, Spring 2017
 **Instructor:** Keith Buhler    
 **Email:** keith.buhler@uky.edu (asbury email also forwards here)   
 **Asbury Office Hours:** Thursday, 12-1, Library  
