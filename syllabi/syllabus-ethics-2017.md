@@ -90,13 +90,10 @@ F       Mar-3  Discussion on Egoism  (Group 4)
 
 ### Week 9 The Meaning of Life
 M       Mar-6  Chapter 9 Introduction; Voltaire, "Good Brahmin", Epicurus "Hedonism" (534-545)   
-W       Mar-8  Camus "Life is Absurd", and Pojman "Religion gives meaning to life" (545-557), and Russell, "Reflections on Suffering" 569-571
+W       Mar-8  Camus "Life is Absurd", and Pojman "Religion gives meaning to life" (545-557), and Russell, "Reflections on Suffering" 569-571  
 F       Mar-10  Discussion on Meaning of Life  (Group 5)     
 
-### Break 
-M     Mar-13 *Spring Break*    
-W     Mar-15 *Spring Break*    
-F     Mar-17 *Spring Break*    
+### Break Mar 13-17
 
 ### Week 10 Autonomy
 M       Mar-20  Chapter 10, Introduction; King "I have a dream", "Experiment in Autonomy" (573-593)   
@@ -133,7 +130,7 @@ W     Apr-26 Murdoch, "A Critique of Lifeboat Ethics" (872-887)
 F     Apr-28 Discussion on Globalism  (Buhler)  and Term Paper Work Shop
 
 ### Finals Week  
-M       May-1  No class
+M       May-1  No class  
 W       May-3  Reflections and Extra Credit Due  by 11:59PM online.    
 F       May-5  Term Paper by 11:59pm online  
 
