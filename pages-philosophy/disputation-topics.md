@@ -56,10 +56,11 @@ For this paper, you are going to transform one of your previous four disputation
 # Business Ethics Topics (Spring 2017)
 
 ### Unit Paper 1 (Moral Theories) Which moral theory is most useful? 
+One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot *replace* one's lived moral but it can help to prune and grow it. Six ethical theories that we discussed help us to reflect on our morality. These are related but distinct: utilitarianism, Kantian deontology, divine command theory, virtue ethics, common sense intuitionism. Which of the six moral theories do you find most useful and persuasive? 
 
-One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot *replace* one's lived moral but it can help to prune and grow it. Six ethical theories that we discussed help us to reflect on our morality. These are related but distinct: utilitarianism, Kantian deontology, divine command theory, virtue ethics, stoicism, feminism/ethics of care. Which of the six moral theories do you find most useful and persuasive? 
+Discuss how that moral theory helps you know what to do in a particular moral example, such as the 
 
-Discuss how that moral theory helps you know what to do in a particular moral example,  such as the Ring of Gyges, the Good Samaritan, Lord of the Flies, Billy Budd, the Longboat, etc. For your objections section, state the "second best" or runner up moral theory. In your "replies" section show how the "runner up" gives an inadequate response  to this example and how your theory gives a more adequate response.
+Ring of Gyges, the Good Samaritan, Lord of the Flies, Billy Budd, the Longboat, etc. For your objections section, state the "second best" or runner up moral theory. In your "replies" section show how the "runner up" gives an inadequate response  to this example and how your theory gives a more adequate response.
 
 ### Unit Paper 2 (Capitalism and Socialism) Is CEO Pay ever unjustifiably high? 
 
@@ -68,26 +69,26 @@ This Unit Paper is about CEO compensation in the context of a capitalist society
 This is a yes/no question. So answer the question! Don't say you "see both sides." ARGUE ONE SIDE, even if you're not 100% sure about it. For example:  Yes: If you argue that CEO compensation is sometimes too high, state in your objections section the single best reason to think that CEO pay is just. Then explain, in the argument section,  when and why a certain amount is unjust. No: If you argue that CEO compensation is never too high, state in your objections section the single best reason to think CEO pay is sometimes unjust. Then explain, in the argument section, why even high amounts are just. 
 
 
-### Unit Paper 3 (Universal Norms)
+### Unit Paper 3 (Moral Law) - Is the moral law objective or convention?
 
-If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Pojman, Hobbes, and Kreeft agree that morality is *useful* for keeping society together, reducing suffering, and promoting flourishing. But Pojman seems to think morality is *merely* useful (and not real), where Kreeft argues that it is *both useful and real* -- or perhaps useful because it is real. Using examples such as illustrated in the Tao, the Inside Job, or other readings, argue for one of these two claims. 
+If morality is not merely an illusion, then it is either a law of nature discovered by humans (like rules of mathematics or logic) or a convention created by humans (like the rules of spelling or and baseball). Certainly, morality is *useful* -- useful for keeping society together, reducing suffering, and promoting flourishing. But is it real or merely conventional?  Using examples such as illustrated in the Tao, the Inside Job, or other readings, argue for one of these two claims. 
 
 
-### Unit Paper 4 Option A (Incentives) 
+### Unit Paper 4 Option A (Incentives) -- Is small information and small money lobbying the only acceptable form of lobbying? 
 
 Is the author (Andrew Stark) correct that small info and small money are the only morally acceptable forms of lobbying since they have the least risk of corruption? 
 
 
-### Unit Paper 4 Option B (Deception)
+### Unit Paper 4 Option B (Deception) -- Is it ever permissable for businesses to deceive? 
 
-Is it ever morally acceptable for a business to tell an untruth, a partial truth, or a combination of truth and BS? If so, when? If not, why not?
+Is it ever morally permissible for a business to tell an untruth, a partial truth, or a combination of truth and BS? If so, when? If not, why not?
 
 
-### Unit Paper 5 Option A (Affirmative Action): 
+### Unit Paper 5 Option A (Affirmative Action) -- Is affirmative action for black Americans the only morally acceptable form? 
 
 Is the author (Bernard Boxill) correct that affirmative action on behalf of black folks is only morally acceptable form of affirmative action, since diversity of other cultures at the top would not secure social stability?
 
-### Unit Paper 5 Option B (Safety): 
+### Unit Paper 5 Option B (Safety) -- Do businesses have an obligation to provide safe products? 
 
 Is the author (Hasnas) correct that businesses do not have an obligation to provide safe products to the public but only to communicate the level of danger? 
 

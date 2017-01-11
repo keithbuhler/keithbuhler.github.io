@@ -84,7 +84,7 @@ W       Feb-1  Religious Ethics
 F       Feb-3  Writing Workshop for Unit Paper Disputation    
 
 ### Week 5 Capitalism
-(Unit paper 1 - Moral Theories, due Monday by midnight)   
+(Unit paper 1 - Ethical Theories, due Monday by midnight)   
 M       Feb-6  Gaus, "The Idea and Ideal of Capitalism"   
 W       Feb-8  Gaus, "The Idea and Ideal of Capitalism"  
 F       Feb-10  Discussion of Capitalism and Stock Market
