@@ -69,7 +69,7 @@ W       Jan-11  Syllabus day (no reading)
 F       Jan-13  [Basic Philosophy: Peter Kreeft, Truth Handout](https://docs.google.com/document/d/1yux6UZ8csZxhI-QqzQKeuf-fXiQm9fyvnq9IE6FPhxA/) 
 
 ### Week 2 Methods and Business Ethics 
-M       Jan-16  Green and Donovan, "Methods of Business Ethics"    
+M       Jan-16  MLK Day  
 W       Jan-18  Green and Donovan, "Methods of Business Ethics"      
 F       Jan-20  Discussion of Methods
 

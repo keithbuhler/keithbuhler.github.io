@@ -87,6 +87,10 @@ Is it ever morally acceptable for a business to tell an untruth, a partial truth
 
 Is the author (Bernard Boxill) correct that affirmative action on behalf of black folks is only morally acceptable form of affirmative action, since diversity of other cultures at the top would not secure social stability?
 
+### Unit Paper 5 Option B (Safety): 
+
+Is the author (Hasnas) correct that businesses do not have an obligation to provide safe products to the public but only to communicate the level of danger? 
+
 
 ### Term Paper
 

@@ -51,9 +51,9 @@ W       Jan-11:  Syllabus day (no reading)
 F       Jan-13:  Pojman, "Introduction" (pp. 1-5) and discussion of Ethics 
 
 ### Week 2 The Nature and Purpose of Morality  
-M       Jan-16:  Chapter 1 Introduction;  "Lord of the Flies", and Pojman, "On the Nature and Purpose of Morality"  
-W       Jan-18:  Thomas Hobbes "On the State of Nature" (10-49) and [Kreeft "Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit#)   
-F       Jan-20:  Discussion of Nature of Morality (Buhler)  
+M       Jan-16:  MLK Day   
+W       Jan-18:  Chapter 1 Introduction;  "Lord of the Flies", and Pojman, "On the Nature and Purpose of Morality"   
+F       Jan-20:  Thomas Hobbes "On the State of Nature" (10-49) and [Kreeft "Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit#)   and Discussion of Nature of Morality (Buhler)   
 
 ### Week 3 Good and Evil
 M       Jan-23   Chapter 2, Introduction; Melville "Billy Budd", Dostoyevsky "Why is there evil?", Styron "Sophie's Choice",  (51-)  
