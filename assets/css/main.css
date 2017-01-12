@@ -541,7 +541,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 .archive a{color:inherit;text-decoration:none; color: #3b7aae;}
 .archive__subtitle a:hover{color: #E27200; text-decoration:underline}
-.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.4em;font-size:2em;color:#3b7aae;border-bottom:2px solid #cc7a00}
+.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:1em;color:#9ba1a6;border-bottom:none;}
 .archive__subtitle+.list__item .archive__item-title{margin-top:0.5em}
 .archive__item-title{margin-bottom:0.12em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
 .page__content .archive__item-title{margin-top:1em;border-bottom:none}
