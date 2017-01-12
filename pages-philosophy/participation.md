@@ -7,6 +7,8 @@ sidebar:
 permalink: /participation
 ---
 
+{% include toc %}
+
 The participation component is a large portion of your grade in this class. More importantly, your participation is essential to learning. Expressing your thoughts in words is essential to processing the new concepts and arguments we have covered in the reading, lecture, and discussion.
 
 Successful students earn points every week by participating. Everyone starts at an 80% and works up from there. You don't have to sound smart. You can be confused. All you need to do to get an "A" in this component is to be diligent. 
