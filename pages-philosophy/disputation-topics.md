@@ -56,11 +56,14 @@ For this paper, you are going to transform one of your previous four disputation
 # Business Ethics Topics (Spring 2017)
 
 ### Unit Paper 1 (Moral Theories) Which moral theory is most useful? 
-One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot *replace* one's lived moral but it can help to prune and grow it. Six ethical theories that we discussed help us to reflect on our morality. These are related but distinct: utilitarianism, Kantian deontology, divine command theory, virtue ethics, common sense intuitionism. Which of the six moral theories do you find most useful and persuasive? 
+One's morality is a combination of "gut" feelings, parental training, social and cultural convention, personal habits, and moral theory. Moral theory -- or philosophical ethics -- cannot *replace* one's lived moral but it can help to prune and grow it. 
 
-Discuss how that moral theory helps you know what to do in a particular moral example, such as the 
+Five ethical theories that we discussed help us to reflect on our morality. These are related but distinct: utilitarianism, Kantian deontology, divine command theory, virtue ethics, common sense intuitionism. Which of the five moral theories do you find most useful and persuasive? 
 
-Ring of Gyges, the Good Samaritan, Lord of the Flies, Billy Budd, the Longboat, etc. For your objections section, state the "second best" or runner up moral theory. In your "replies" section show how the "runner up" gives an inadequate response  to this example and how your theory gives a more adequate response.
+For your objections section, state the "second best" or runner up moral theory. In your "replies" section show how the "runner up" gives an inadequate response  to an example and how your theory gives a more adequate response.
+
+In your argument section, show how your moral theory helps you know what to do in a particular moral example from Audi's "Place of Ethical Theory" chapter, such as affirmative action, whistle-blowing, or advertising and the ethics of creating desire. 
+
 
 ### Unit Paper 2 (Capitalism and Socialism) Is CEO Pay ever unjustifiably high? 
 

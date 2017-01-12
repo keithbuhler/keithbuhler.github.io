@@ -1,12 +1,13 @@
 ---
 layout: slide
-title: Week blank title
+title: Methods of business ethics
+theme: 
 ---
 
-<section data-background="url">
+<section data-background="url=">
 <section data-markdown>
 
-# Week 07 Methods of Business Ethics
+# Methods of Business Ethics
 
 Being a moral manager
 
@@ -62,10 +63,3 @@ Being a moral manager
 * Questions?
 * Write a short response
 * Read for next time
-
-
-
-</section><section data-markdown>
-
-# Business Ethics Week 07 Place of Ethical Theory
-
