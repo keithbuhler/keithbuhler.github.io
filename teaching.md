@@ -6,27 +6,17 @@ header:
       image: http://www.keithbuhler.com/images/keith-teaching2.png
 ---
 
+Over the last 15 years, I've successfully helped learners of all ages to succeed academically and grow intellectually. 
 
-* [Spring 2017 syllabi](/syllabi)
-* [RateMyProfessors reviews](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
-* [Teaching statement](/teaching-statement) 
+### [Spring 2017 syllabi](/syllabi)
+
+Syllabi for the current semester.
+
+### [RateMyProfessors reviews](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+
+The good, the bad, the ugly, the hilarious -- anonymous reviews from actual students.
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
-
-I've successfully helped learners of all ages to grow and flourish. My goal in teaching is immerse students in Socratic dialogue and empower them to grow intellectually. Students enjoy my theatrical approach to discussion and efficient course designs. 
-
-Recently, I've taught about eight philosophy courses at two universities. Before that, I taught and designed classical Great Books courses in literature, philosophy, and history as the High School Director.
-
-### Courses
-
-- Business Ethics ([Syllabus](/syllabus334))  
-- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-- Philosophy of Religion    
-- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
-- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
-- Introduction to Philosophy ([Syllabus](/syllabus200))   
-- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-- Introduction to Logic   
 
 
 ### Student Evaluations
@@ -51,3 +41,20 @@ Recently, I've taught about eight philosophy courses at two universities. Before
 
 > * "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
 > * Keith is a dedicated and motivated instructor, who imparts knowledge with just the right amount of humor to keep his students (and listening parents) engaged, and wanting to come back for more. He relates well with all ages, and is an asset to the teaching/tutoring community.   (Lynn Schott, Owner/Instructor at Founders Academy; Councilwoman, City of Irvine, California)
+
+
+### All Courses
+
+- Business Ethics ([Syllabus](/syllabus334))  
+- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+- Philosophy of Religion    
+- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
+- Introduction to Philosophy ([Syllabus](/syllabus200))   
+- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
+- Introduction to Logic   
+
+
+### [Teaching statement](/teaching-statement) 
+
+An explanation of a few key aspects of my pedagogical philosophy. 

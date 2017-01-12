@@ -539,8 +539,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 @media (min-width: 64em){.archive{width:83.05085%;float:right;margin-right:0;padding-left:4.23729%}
 }
-.archive a{color:inherit;text-decoration:underline;}
-.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:2.5em;color:#4A2500;border-bottom:2px solid #cc7a00}
+.archive a{color:inherit;text-decoration:none;}
+.archive__subtitle{margin:1.414em 0 0;padding-bottom:0.4em;font-size:2em;color:#3b7aae;border-bottom:2px solid #cc7a00}
 .archive__subtitle+.list__item .archive__item-title{margin-top:0.5em}
 .archive__item-title{margin-bottom:0.12em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
 .page__content .archive__item-title{margin-top:1em;border-bottom:none}
@@ -550,6 +550,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .archive__item-teaser img{width:100%}
 a:hover .archive__item-teaser{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 a:hover .archive__item-title{text-decoration:underline; color:#3b7aae;}
+a:hover .archive__item-subtitle{text-decoration:underline; color:#3793ae}
 @media (min-width: 48em){.list__item{padding-right:200px}
 }
 @media (min-width: 64em){.list__item{padding-right:300px}

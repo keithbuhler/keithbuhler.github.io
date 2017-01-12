@@ -7,7 +7,7 @@ sidebar:
 --- 
 
 
-*[Another page explains my research.](/phd) This post gives some advice on each stage of the process.*
+*[Another page explains my research.](/phd) This post offers advice on each stage of the process.*
 
 ### Do you want to go to graduate school?
 
@@ -60,6 +60,8 @@ Play it safe -- just be calm, be yourself, be frank, and say what you want to st
 
 
 ### 4. Once you get in, how do you best make progress? -- MASTER LIST
+
+Getting a degree is your job. Treat it like a business. Better, treat it like YOUR OWN business. You are an entrepreneur whose sole goal is to make yourself ready for the job market -- marketable research, strong publications, a wide base of teaching, friendly connections, and lots (I mean lots) of red tape 
 
 At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list.](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing) You should do the same. I call it the Master List.
 
