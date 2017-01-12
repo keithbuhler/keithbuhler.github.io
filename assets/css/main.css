@@ -550,7 +550,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .archive__item-teaser{border-radius:4px;overflow:hidden}
 .archive__item-teaser img{width:100%}
 a:hover .archive__item-teaser{box-shadow:0 0 10px rgba(0,0,0,0.25)}
-a:hover .archive__item-title{text-decoration:underline; color:#5c6266;}
+a:hover .archive__item-title{text-decoration:underline; color:#3b7aae;}
 a:hover .archive__item-subtitle{text-decoration:underline; color:#3793ae}
 @media (min-width: 48em){.list__item{padding-right:200px}
 }
