@@ -7,6 +7,8 @@ sidebar:
       nav: philosophy
 ---
 
+*Ground Rules for Following the Logos*
+
 #### [(pdf version)](/pages-philosophy/discussion101.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
@@ -16,9 +18,6 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 ----
 
-### Discussion 101
-
-*Ground Rules for Following the Logos*
 
 <center>
 
@@ -27,9 +26,13 @@ http://www.keithbuhler.com
 </center>
 
 
+### Why Discussion? 
+
 “All humans by nature desire knowledge.” (Aristotle, *Metaphysics* I). The ways we gain the knowledge we desire are: observation, scientific research, experience, reading literature, talking to friends, listening to experts, and a few other ways. Why discussion? 
 
 We discuss for several reasons:  is more interesting than lecture; it helps us retain the information; it challenges our own viewpoint; and because philosophy itself is a dialogue. Furthermore, discussion with friends and experts is one of the best ways to learn, especially about philosophical truths. But what is discussion? 
+
+### What is a discussion? 
 
 A good discussion is more than just sharing opinions; it is an eager, friendly search for truth. It is not combative or competitive but friendly; it is not full of posturing, disguises, but sincere and eager. It is not a search for “opinions” but a search for truths not known, or deeper understanding of truths known. Why search for truth? 
 
@@ -39,12 +42,28 @@ On the other hand, you desire to know when this happens: X is important, you do 
 
 We ask questions, and propose an answer. We then evaluate the answer: is it a good answer? Is it good enough? Are there any flaws? Are there any other more reasonable answers? 
 
-While answering questions and evaluating those answers, it is helpful to follow a few “ground rules.” 
 
-Here are 10 discussion “ground rules” to help us be productive.
+### Practical tips
+
+While answering questions and evaluating those answers, it is helpful to follow a few “ground rules.” Some are unfamiliar: 
+
+• Don’t raise hands
+• Address each other, not the teacher.
+• Address the key question.
+• Cite the text  (participants relate their statements to particular passages to clarify, and to elaborate.)
+• Address comments to the group (no side conversations)
+• Use sensitivity to take turns and not interrupt others
+• Monitor ‘air time’
+
+
+Here are a few more discussion “ground rules” to help us be productive.
+
+
+
+
 
 1. Say what you think.
-2. Listen to your neighbor.
+2. Listen carefully to your neighbor.
 3. Ask your question.
 4. Truth hurts; be kind.
 5. Proving your neighbor wrong is loving; argue with each other.
@@ -53,26 +72,29 @@ Here are 10 discussion “ground rules” to help us be productive.
 8. Silence is OK, too.
 9. Follow the argument wherever it goes; trust the process.
 
+## A few more details
 
-## Say what you think
+
+### Say what you think
 
 We are going to be discussing some big “hypothetical” topics. Don’t be fooled. We can only grow if we put ourselves on the line. 
 
-## Listen to your neighbor
+### Listen carefully to your neighbor.
+
 
 Some people are easy to listen to. Some are hard. Practice listening to both. If a person is crazy, annoying, loud, quiet, irrational, or irritatingly rational, listen anyway. At some point in this class, you will be hard to listen to — but you want others to listen anyway. 
 
-## Ask your question
+### Ask your question
 
 There is an opportunity to become someone new in this class. You can become someone you’ve never been, to ascend new vistas. If you challenge yourself, you will scale new heights, uncover unknown breadths, and plumb uncharted depths. But if you hide your real question, your vulnerable, dangerous, trembling, shy question, then none of this will happen. You will stay comfortable, but at what cost? 
 
-## Truth hurts; be kind
+### Truth hurts; be kind
 
 We can hurt each other and still be friends. You have hurt and been hurt by your family and you’re still family, aren’t you? But we don’t want to intentionally hurt each other with insults, teasing, and mocking. Sometimes the truth hurts. We have to say the truth. So sometimes we have to hurt each other. Try not to hurt your neighbor unless it is for this reason. 
 
 ## Proving your neighbor wrong is loving; argue with each other
 
-If the truth is life to us, and falsehood death, then helping each other out of error and falsehood is not optional — it is obligatory. It is not a debate tactic, a “gotcha” move, oppression, verbal abuse, hateful, or aggressive — it is loving. Of course, both parties in a philosophical argument have to (a) want the truth and (b) love each other.
+Be courageous in presenting your own thoughts and reasoning, but be flexible and willing to change your mind in the face of new and compelling evidence. If the truth is life to us, and falsehood death, then helping each other out of error and falsehood is not optional — it is obligatory. It is not a debate tactic, a “gotcha” move, oppression, verbal abuse, hateful, or aggressive — it is loving. Of course, both parties in a philosophical argument have to (a) want the truth and (b) love each other.
 
 ## Proving yourself wrong is wise; seek out your own mistakes
 
@@ -88,7 +110,7 @@ Just because it’s a “discussion day” doesn’t mean we have to discuss the
 
 ## Follow the argument wherever it goes; trust the process.  
 
-Human reason is not infallible, but it is reliable. Trust the argument, even if it leads to unexpected, surprising, painful, or implausible conclusions. If the conclusion we are lead to is in error, use the argument to expose that error. If not, then take courage, have faith, and change your mind (and if need be, change your life). 
+If the conversation gets off track, refocus on the opening question by restating it. Human reason is not infallible, but it is reliable. Trust the argument, even if it leads to unexpected, surprising, painful, or implausible conclusions. If the conclusion we are lead to is in error, use the argument to expose that error. If not, then take courage, have faith, and change your mind (and if need be, change your life). 
 
 
 ## How to Lead Discussion
