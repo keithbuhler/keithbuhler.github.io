@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: slide
-theme: white
+theme: serif
 ---
 
 <section><!--Friday begin-->
