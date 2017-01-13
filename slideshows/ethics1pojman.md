@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: slide
-theme: league
+theme: white
 ---
 
 <section><!--Friday begin-->
@@ -22,13 +22,6 @@ theme: league
 ## About me
 
 ![Josiah in the snow](/images/josiah-snow.jpg)
-
-- Grew up in the South... of CA
-- First time living outside the country
-
-</section><section data-markdown>
-
-## About me
 
 - Two toddlers, so I love sleep
 - Been teaching philosophy for 5 years now
@@ -52,17 +45,17 @@ theme: league
 
 </section><section data-markdown>
 
-</section><section data-markdown>
-
 ## What makes morality different?
 
 1. Morality is **Evaluative, not descriptive.** Example: "John was driving at reckless speeds" vs. "John was driving 100." Morality also evaluates or judges.
  
 </section><section data-markdown>
+
 1. Morality is **Evaluative, not descriptive.**
 2. Morality is **Overriding**. "I should drive the speed limit" versus "I ought to drive faster to get to the heart attack victim." Moral laws override civil laws.
 
 </section><section data-markdown>
+
 1. Morality is **Evaluative, not descriptive.**
 2. Morality is **Overriding**. 
 3. Morality is **Impartial**. "I should be friends with anyone I like, and don't have to be friends with anyone I don't like." versus "I should be nice to anyone I like and be mean to anyone I don't like." You can be partial about non-moral things but morality demands impartial treatment for moral equals. Morally relevant differences are exceptions -- felons can't vote!
@@ -74,8 +67,11 @@ theme: league
 4. Morality is **Universal**. "Drive on the left side of the road in England," versus "Be hospitable to strangers in England." Non-moral norms are relative to time, place, culture, etc. But moral norms are universal.  Deliberate cruelty is always wrong, in every culture, every time, and every place; sometimes, causing pain is not cruel, i.e., surgery.
  
 </section><section data-markdown>
-Morality is **Evaluative, not descriptive,**, **Overriding**, **Impartial**, **Universal**, and ...
 
+1. Morality is **Evaluative, not descriptive.**
+2. Morality is **Overriding**. 
+3. Morality is **Impartial**. 
+4. Morality is **Universal**. 
 5. Morality is **reason driven**. "I cut him because I was giving life-saving surgery" versus "I just cut him for no reason." Some actions don't need to be justified, i.e., whistleing a little song, but some do, i.e., yelling at a friend to avoid an accident. Actions can be justified with reasons. 
 
 </section><section data-markdown>
@@ -103,29 +99,38 @@ Conscience is a reliable but fallible guide. It is "conditioned by our upbringin
 
 ## Four moral categories: 
 
-1. Obligatory
-2a. Permissible - Beneficial but not obligatory (supererogatory)
-2b. Permissible - Harmful but not prohibited 
-3. Prohibited
+- Obligatory  
+- Permissible - Beneficial but not obligatory (supererogatory)  
+- Permissible - Harmful but not prohibited   
+- Prohibited  
 
 Both (1) and (2) are "right" and maybe even (3). (4) is wrong. 
 
-Is giving to charity (1) or (2)? Is smoking cigarettes (3) or (4)? 
+Examples: Is giving to charity (1) or (2)? Is smoking cigarettes (3) or (4)? 
 
 </section><section data-markdown>
 
 ## Personal and Social
 
-- Three aspects of morality: personal, social, and ultimate
-- Example: individual ships, the fleet, and the safe harbor
-- Example: players, the team, the sport itself
+- **Three aspects of morality:** personal, social, and ultimate
+- Example 1: individual ships, the fleet, and the safe harbor
+- Example 2: players, the team, the sport itself
+- Example 3: 
+- **Personal**. Your own personal well-being, mental emotional physical spiritual etc. Virtues, eating habits, thought-life.
+- **Social**.  How you treat others and are treated by others, including, legal status, friends, family, society, etc.
+- **Ultimate**. What you are living for, ultimate values, how you are preparing for the end of life, the point of it all. 
 
 </section><section data-markdown>
 
 ## Unresolved moral questions
 
-Take a moment to consider a moral question you are wrestling with. Is X right or wrong, permissable or 
+Take a moment to consider and write down ONE moral question you are wrestling with.
 
+1. Could be personal. Am I healthy? Good or bad? Should I change this habit?
+2. Could be social. Is X right or wrong, permissible or not, am I being treated fairly, am I treating this person well? 
+3. Could be ultimate. What is the meaning of life? Who is successful? What's it all about? 
+
+DON'T HAVE TO TURN THIS IN.
 
 </section><section data-markdown>
 
