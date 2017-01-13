@@ -5,7 +5,7 @@ theme: league
 ---
 
 <section><!--Friday begin-->
-<section data-background="http://cdn.bloody-disgusting.com/wp-content/uploads/2015/03/Sunshine.jpg" data-markdown><!--Intro slide begin-->
+<section data-background="http://img.scout.com/sites/default/files/2016/03/07/Fleet_5_nations.jpg" data-markdown><!--Intro slide begin-->
 
 # Introduction to Morality and Society
 
