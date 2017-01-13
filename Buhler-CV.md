@@ -4,10 +4,11 @@ permalink: /cv/
 --- 
 
 
-#### [Abbreviated CV -- PDF](/Buhler-CV.pdf)
+#### [Buhler CV - PDF](/Buhler-CV.pdf)
 
 <center>
-<h1>Curriculum Vitae 2017 (Brief)</h1>   
+
+<h1>Curriculum Vitae 2017</h1>   
 
 <h1>Keith Buhler</h1>   
 
@@ -27,14 +28,14 @@ permalink: /cv/
 
 ### EDUCATION
 
-Ph.D.&nbsp;  Philosophy, University of Kentucky, 2016   
+Ph.D.&nbsp;  Philosophy, University of Kentucky, Nov 2016   
 M.A.&nbsp; Philosophy, University of Kentucky, 2014     
 M.A.&nbsp; Orthodox Theology, University of Balamand, 2012         
 B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
 
 
 ### EMPLOYMENT
-Postdoctoral Lecturer, University of Kentucky,  Spring 2017    
+Postdoctoral Scholar, University of Kentucky,  Spring 2017    
 Instructor of Philosophy, Asbury University, 2013-2017      
 
 ### AREA OF SPECIALIZATION 
@@ -90,14 +91,14 @@ I articulate neo-Aristotelian accounts of virtue and practical reason according 
 While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
 
 ### WORKS IN PROGRESS
-1. "The Case for Agnosticism about Causal Closure" (revise and resubmit)  
+1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)  
 2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (undergoing revisions)  
-3. "Virtue and Imaginative Resistance" (undergoing revisions)  
+3. "Virtue and Imaginative Resistance" (in development)  
 
 
 ### PRESENTATIONS
 
-1. "Vice of Pride and Vainglory", SOPHIA Conference, Spring Branch, TX 2017.
+1. "Pride and Vainglory are Separate Vices", SOPHIA Conference, Spring Branch, TX 2017.
 2. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 2. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
 3. “Is the Cosmos Causally Closed?” Ian Ramsey Centre, Oxford University, 2014.
@@ -109,6 +110,7 @@ While the normative force of my view is clear, I secure its naturalistic credent
 
 ### COMMMENTS AND SERVICE
 
+1. Referee for Kentucky Graduate School Conference submissions, 2017.
 1. "How to Keep Momentum in Dissertation Writing," University of Kentucky Graduate School, Writing Bootcamp, 2016. 
 2. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." Society of Christian Philosophers, University of San Diego, 2016.
 3. Session Chair, Ian Ramsey Centre Conference, Oxford University, 2014.

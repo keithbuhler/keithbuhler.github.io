@@ -50,6 +50,28 @@ Saying of what is, that it is.
 
 </section> <section data-markdown>
 
+### Three senses of "Truth"
+
+|Name            |  Sense         |    Example       |
+|----------------|----------------|------------------|
+| Substantive Truth | Reality itself |          Mount Everest being a mountain. |
+| Knowledge       |  Thinking truly  |         Mount Everest is a mountain. |
+| True words      |  Speaking truly  |         “Mount Everest is a mountain.” |
+
+
+
+
+</section> <section data-markdown>
+
+>“Truth is saying of what is that it is, and of what is not that it is not.” (Aristotle)
+
+Reality —>              Thought —>        Expression in language 
+
+Truth itself                  True thought           True statement
+
+</section> <section data-markdown>
+
+
 ## Peter Kreeft, Summa Philosophica
 ### Q. VI, Article 2. Whether truth is objective? 
 
@@ -138,27 +160,6 @@ If so, does the argument use empirical methods? (yes or no)
 * **Objection 4:** To claim that we can know objective truth is to assume that we want to know it, or ought to know it. But Nietzsche, in an unprecedented flight of boldness, questions even this “will to truth” when he asks: “Why truth? Why not rather untruth?” 
 
 
-
-</section> <section data-markdown>
-
-### Three senses of "Truth"
-
-|Name            |  Sense         |    Example       |
-|----------------|----------------|------------------|
-| Substantive Truth | Reality itself |          Mount Everest being a mountain. |
-| Knowledge       |  Thinking truly  |         Mount Everest is a mountain. |
-| True words      |  Speaking truly  |         “Mount Everest is a mountain.” |
-
-
-
-
-</section> <section data-markdown>
-
->“Truth is saying of what is that it is, and of what is not that it is not.” (Aristotle)
-
-Reality —>              Thought —>        Expression in language 
-
-Truth itself                  True thought           True statement
 
 </section> <section data-markdown>
 
