@@ -152,34 +152,31 @@ May-2  [Aquinas, “Five Ways of Proving God's Existence”](https://drive.googl
 
 May-4 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.     
 
-T Hume I
-
-Hume II
-
-### Unit 6 Skepticism
-
-### Week 15 -- Atheism
-
-May-9 T  Dawkins I
-May-11 R  Dawkins II
-
-### Unit 6 Human Nature
-
-### Week 16 -- 2001: A Space Odyssey
-May-16 T Read [Dargis, “In Defense of Slow Movies”](https://drive.google.com/open?id=1r9viaG57913eA-tKXaemM9VJOuF33HsDoZLTnhhCXgM);  Watch [2001: A Space Odyssey](https://drive.google.com/open?id=0B0CYQDZ8AWu8MF93UXlES21lZ1k) film - Hal as Friend, Enemy, and Stepping Stone  
-May-18 R  Dave as the New Adam  
 
 
-### Week 17 -- Wall-E
+
+### Unit 6 
+
+### Week 15 -- 
+
+May-9 T  Hume I  
+May-11 R  Hume II  
+
+
+### Week 16 -- 
+May-16 T Hume III  
+May-18 R  Hume IV  
+
+
+### Week 17 -- 
 
 Term Paper Due Tuesday by 10:00pm CT   
-May-23 T   Watch [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) -- Wall-E as E.T., Hal 9000, and Adam  
-May-25 R   Discuss Wall-E -- Wall-E and Coming Down to Earth  
+May-23 T   Dawkins I
+May-25 R   Dawkins II
 
 ### Week 18 -- Tree of Life
-May-30 T    [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
- as Evolution and Genesis  
-Jun-1 R    Tree of Life Discussion   
+May-30 T  Gospel of John         
+Jun-1 R Gospel of John     
 
 
 ### Scale
