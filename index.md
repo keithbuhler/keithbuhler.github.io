@@ -2,7 +2,7 @@
 layout: single
 title: Buhler... Anyone...?
 header: 
-      image: http://www.kentuckytourism.com/!userfiles/listingImages/Horse%20Farm%20Pictures%20211.jpg?width=653&height=421&scale=down&crop=auto
+      image: http://www.keithbuhler.com/images/horses.jpg
 excerpt: 
 author_profile: true
 ---
@@ -20,5 +20,5 @@ I completed my PhD in philosophy in 2016, and I hold a master's degree in Orthod
 
 | Contact                |
 |------------------------|
-| 562.23O.292O           |
+| 562.23O.292 zero       |
 | keithedbuhler at gmail |
