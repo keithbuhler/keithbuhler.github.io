@@ -1,7 +1,7 @@
 ---
 title: Nature of Morality
 layout: slide
-theme: white
+theme: 
 ---
 
 <section><!--Friday begin-->
@@ -34,18 +34,22 @@ theme: white
 
 ## Personal and Social
 
-- **Three aspects of morality:** personal, social, and ultimate
-- Example 1: individual ships, the fleet, and the safe harbor
-- Example 2: players, the team, the sport itself
-- Example 3: 
+### **Three aspects of morality:** 
+
 - **Personal**. Your own personal well-being, mental emotional physical spiritual etc. Virtues, eating habits, thought-life.
 - **Social**.  How you treat others and are treated by others, including, legal status, friends, family, society, etc.
 - **Ultimate**. What you are living for, ultimate values, how you are preparing for the end of life, the point of it all. 
 
 
+### Examples
+1. individual ships, the fleet, and the safe harbor
+2. players, the team, the sport itself
+3. citizens, the state, the war itself
 
 
-</section><section data-markdown>
+
+
+</section><section data-markdown data-background="http://www.returnofkings.com/wp-content/uploads/2013/12/lordflies.jpg">
 
 
 
@@ -59,7 +63,7 @@ Take a moment to consider and write down ONE moral question you are wrestling wi
 2. Could be social. Is X right or wrong, permissible or not, am I being treated fairly, am I treating this person well? 
 3. Could be ultimate. What is the meaning of life? Who is successful? What's it all about? 
 
-DON'T HAVE TO TURN THIS IN.
+THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 
 
 
@@ -67,7 +71,7 @@ DON'T HAVE TO TURN THIS IN.
 
 
 
-</section><section data-markdown>
+</section><section data-background="https://i.ytimg.com/vi/CX4vZflew_A/maxresdefault.jpg" data-markdown >
 ## Lord of the Flies
 
 - Lawlessness versus moral law
