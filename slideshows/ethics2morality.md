@@ -1,7 +1,7 @@
 ---
 title: Nature of Morality
 layout: slide
-theme: 
+theme: blood
 ---
 
 <section><!--Friday begin-->
@@ -41,6 +41,9 @@ theme:
 - **Ultimate**. What you are living for, ultimate values, how you are preparing for the end of life, the point of it all. 
 
 
+</section><section data-markdown>
+
+
 ### Examples
 1. individual ships, the fleet, and the safe harbor
 2. players, the team, the sport itself
@@ -49,9 +52,10 @@ theme:
 
 
 
-</section><section data-markdown data-background="http://www.returnofkings.com/wp-content/uploads/2013/12/lordflies.jpg">
+</section><section data-markdown>
 
 
+![lord flies](http://www.returnofkings.com/wp-content/uploads/2013/12/lordflies.jpg)
 
 
 
@@ -71,7 +75,7 @@ THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 
 
 
-</section><section data-background="https://i.ytimg.com/vi/CX4vZflew_A/maxresdefault.jpg" data-markdown >
+</section><section data-markdown >
 ## Lord of the Flies
 
 - Lawlessness versus moral law
@@ -81,6 +85,7 @@ THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 - "Civilization's power is weak and vulnerable to atavistic, volcanic passions." (32)
 
 
+![lord flies 2](https://i.ytimg.com/vi/CX4vZflew_A/maxresdefault.jpg)
 
 
 
