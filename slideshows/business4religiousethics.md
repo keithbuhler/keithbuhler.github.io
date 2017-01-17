@@ -236,10 +236,9 @@ What are secular/humanist alternatives?
 <p class=fragment> 
 4. Scientific ethics — do what is objectively good for people.
       - Objection: How to resolve disagreements about the nature of science? 
-      - Objection: “Flourishing” — what is it? Humility or pride? </p>
+      - Objection: “Flourishing” — what is it? Humility or pride? </p></section>
 
-</section>
-<section data-markdown>
+<section data-markdown></section>
 
 ### Natural law, a compromise
 

@@ -73,7 +73,7 @@ Jan-12 R [JP Moreland, "Love your God with all your mind"](https://drive.google.
 ### Week 2 Myth 
 
 Jan-17 T [*Sophie's World*,  "Garden of Eden, Top Hat, The Myths"](https://books.google.com/books?id=jb9NGu6dEdkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
-Jan-19 R [Genesis (Chps. 1-2)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); *Sophie's World*, "Natural Philosophers, Democritus, and Fate"  
+Jan-19 R [Genesis (Chps. 1-3)](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=ESV); *Sophie's World*, "Natural Philosophers, Democritus, and Fate"  
 
 ### Week 3 Holiness 
 

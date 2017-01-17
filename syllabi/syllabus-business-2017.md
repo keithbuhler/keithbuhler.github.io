@@ -74,13 +74,13 @@ W       Jan-18  Green and Donovan, "Methods of Business Ethics"
 F       Jan-20  Discussion of Methods
 
 ### Week 3 Ethical Theories I
-M       Jan-23   Audi, "the Place of Ethical Theory"    
-W       Jan-25   Audi, "the Place of Ethical Theory"  
+M       Jan-23   Audi, "the Place of Ethical Theory"  46-56  
+W       Jan-25   Audi, "the Place of Ethical Theory"  56-66
 F       Jan-27   Discussion of Ethical Theories   
 
 ### Week 4 Ethical Theories II
-M       Jan-30 [Virtue Ethics Handout](https://docs.google.com/document/d/1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w/edit#)
-W       Feb-1  [Religious Ethics Handout]  
+M       Jan-30 [Virtue Ethics Handout](https://docs.google.com/document/d/1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w/edit#)  
+W       Feb-1  [Religious Ethics Handout]   
 F       Feb-3  Writing Workshop for Unit Paper Disputation    
 
 ### Week 5 Capitalism

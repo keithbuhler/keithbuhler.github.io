@@ -13,7 +13,7 @@ theme: serif
 
 </section><section data-markdown>
 
-**Kantianism: Everything you need to know**
+**Kantianism: Do your duty**
 
 1. Kantianism is the thesis that "The good will obeys the moral law for morality's sake."
 2. Kantianism is sometimes known as "duty-based" ethics or "deontology."
