@@ -96,7 +96,10 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 </section> <section data-markdown>
 
 5. ISCT integrates macrosocial contracts that take precedence, religious, philosophical, social beliefs, with microsocial agreements, in communities, regions, businesses, etc. 
-6. There is tension between normative and descriptive methods. (31) 
+
+</section> <section data-markdown>
+
+### A tension between normative and descriptive methods. (31) 
 
 >Normatively inclined business ethicist can us language that involves critical rational analysis of arguments. They also presume the autonomy and moral agency of those working in business environments. In contrast, empirical research or is use the language of description and empirical methods to measure, explain, and predict behavior in organizations. Their scientific orientation leads them to hold a more deterministic view of human nature. (31)
 
@@ -116,42 +119,80 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 4. A second effect of focusing on individual managers is understanding how individual decisions exist within a system that supports or doesn't lead to ethical conduct. (33). 
 5. John Boatright argued that the Moral Manager Model "rests on the assumption that the business organization is the fudamental unit of analysis for business ethics" when it should be "the market itself", a system of businesses, economic systems such as capitalism, and even the laws.
 
-</section> <section data-markdown>
 
-##
+## Some broader reflections on business
 
-</section> <section data-markdown>
+**Here’s the question: What is the point of business?**
 
-##
+Let’s reflect.
 
-</section> <section data-markdown>
+(Hypothesis 1, 2, 3 on the board)
 
-##
+</section><section data-markdown>
 
-</section> <section data-markdown>
+### What's the point of business?
 
-##
+**Hypothesis 1: The point of business is to make money for the business owner and employees.** 
 
-</section> <section data-markdown>
+* But it can’t just be that. For what if a snake oil salesmen “makes money” by cheating people out of their money. 
 
-##
 
-</section> <section data-markdown>
 
-##
 
-</section> <section data-markdown>
+</section><section data-markdown>
 
-##
+### What's the point of business?
 
-</section> <section data-markdown>
+* Hypothesis 1: Making money
+* **Hypothesis 2: The point of business is to “busy” itself producing goods and services necessary for community.**
 
-##
+</section><section data-markdown>
 
+### What's the point of business?
+
+* A community needs food, water, shelter, clothes, and so on.
+* A community can each provide all their needs for themselves, or it can “divide and conquer”, each doing one task. For example, farmers provide food and water, homemakers cook, tailors provide clothes, carpenters build shelters, blacksmiths build tools for farming and cooking, and so on. These would be the “farming business” (agriculture), the homemaking business (parenting), the clothing business (fashion and textile manufacturing), the carpentry business (general contractors, engineering, project management), tools, and so on.
+
+
+</section><section data-markdown>
+
+### What's the point of business?
+
+* But people are not just machines made of meat — they need “something to do. They need friendship, fun, art, religion, society, and entertainment. 
+
+
+</section><section data-markdown>
+
+* Hypothesis 1: Making money
+* Hypothesis 2: The point of business is to “busy” itself producing goods and services necessary for community.
+**Hypothesis 3: Business is what keeps everyone “busy”**
+
+
+</section><section data-markdown>
+
+* **Hypothesis 3: Business is what keeps everyone “busy”**
+* Once everyone’s basic “necessary” needs are met, people need “something to do.” Religion, art, philosophy, science, sports, music, friends, and other “unnecessary” things. These things are not necessary for survival but necessary for humanity, necessary to thrive. 
+
+</section><section data-markdown>
+
+* **Hypothesis 3: Business is what keeps everyone “busy”**
+* So, divide and conquer: teachers and wise ones provide education, singers and story-tellers and actors provide entertainment, common meeting places such as houses, churches, and halls provide a place for society and culture. 
+* These are all businesses.
+* But what is the point of these things? 
+
+</section><section data-markdown>
+
+
+* Hypothesis 1: Making money
+* Hypothesis 2: Providing needs
+* Hypothesis 3: Keeping "busy"
+* **Hypothesis 4: Business is any human activity one can undertake and trade for some other good.** 
+
+</section><section data-markdown>
 
 
 # Before you go
 
 * Questions?
-* Write a short response
+* Write a short response: What is purpose of business?
 * Read for next time
