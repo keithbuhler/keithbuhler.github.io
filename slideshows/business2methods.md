@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Methods of business ethics
-theme: 
+theme: white
 ---
 
 <section data-background="url=">
@@ -9,19 +9,19 @@ theme:
 
 # Methods of Business Ethics
 
-Being a moral manager
-
+How and why to do business ethics
 
 </section></section> <section data-markdown>
 
-1. Mission to *improve manager performance* (22)
-2. Co-presence of normative and descriptive methodologies (23)
-3. Individual business managers, versus Corporate Social Responsibility (CSR) (23)
+## Fundamental Issues in Business Ethics
+
+1. Mission: to *improve manager performance* v Corporate Social Responsibility (CSR) (23)
 4. Business ethics emerged in the 1970s.
-5. The manager is not just to serve the interest of social problems; but share holders (24)
-6. Stakeholder theory is that the manager has a responsibility to shareholders and anyone else. 
+5. "Shareholder" theory v. Stakeholder -- The manager's aim is to serve shareholders, not solve social problems; The manager's aim is to serve shareholders, stakeholders, and (possibly) society. 
 
 </section> <section data-markdown>
+
+### Co-presence of normative and descriptive methodologies (23)
 
 7. Philosophical theories have been used in ethical training, but the integration is lumpy (26)
 8. Integrating philosophical theory into business ethics remains one of its most persisent challenges of the field.
@@ -39,12 +39,12 @@ Being a moral manager
 
 </section> <section data-markdown>
 
-5. ISCT integrates macrosocial contracts that take presedence, religious, philosophical, social beliefs, with microsocial agreements, in communities, regions, businesses, etvs. 
-6. There is tension between normative and descriptive methods. (31) normatively inclined business ethicist Candy is a language that involves critical rational analysis of arguments. They also presume the autonomy and moral agency of those working in business environments. In contrast, empirical research or is use the language of description and empirical methods to measure, explain, and predict behavior in organizations. Their scientific orientation leads them to hold a more deterministic view of human nature." (31)
+5. ISCT integrates macrosocial contracts that take precedence, religious, philosophical, social beliefs, with microsocial agreements, in communities, regions, businesses, etc. 
+6. There is tension between normative and descriptive methods. (31) normatively inclined business ethicist can us language that involves critical rational analysis of arguments. They also presume the autonomy and moral agency of those working in business environments. In contrast, empirical research or is use the language of description and empirical methods to measure, explain, and predict behavior in organizations. Their scientific orientation leads them to hold a more deterministic view of human nature." (31)
 
 </section> <section data-markdown>
 
-## Focus on Individual Decision Making
+## Individual Decision Making
 
 1. Most methods focus on the manager. 
 2. Business ethics emerged in contrast to the "amoral" pragmatic view of management.
@@ -57,6 +57,38 @@ Being a moral manager
 5. John Boatright argued that the Moral Manager Model "rests on the assumption that the business organization is the fudamental unit of analysis for business ethics" when it should be "the market itself", a system of businesses, economic systems such as capitalism, and even the laws.
 
 </section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+</section> <section data-markdown>
+
+##
+
+
 
 # Before you go
 
