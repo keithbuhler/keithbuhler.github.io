@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Methods of business ethics
-theme: white
+theme: blood
 ---
 
 <section><!--begin splash-->
