@@ -119,6 +119,7 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 4. A second effect of focusing on individual managers is understanding how individual decisions exist within a system that supports or doesn't lead to ethical conduct. (33). 
 5. John Boatright argued that the Moral Manager Model "rests on the assumption that the business organization is the fudamental unit of analysis for business ethics" when it should be "the market itself", a system of businesses, economic systems such as capitalism, and even the laws.
 
+</section><section data-markdown>
 
 ## Some broader reflections on business
 
