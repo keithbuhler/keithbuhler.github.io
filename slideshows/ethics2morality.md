@@ -91,9 +91,6 @@ THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 - "Civilization's power is weak and vulnerable to atavistic, volcanic passions." (32)
 
 
-![lord flies 2](https://i.ytimg.com/vi/CX4vZflew_A/maxresdefault.jpg)
-
-
 
 
 </section><section data-markdown>
