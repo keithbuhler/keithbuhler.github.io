@@ -2,7 +2,7 @@
 layout: single
 title: Buhler... Anyone...?
 header: 
-      image: http://www.keithbuhler.com/images/arboretum2.JPG
+      image: http://www.kentuckytourism.com/!userfiles/listingImages/Horse%20Farm%20Pictures%20211.jpg?width=653&height=421&scale=down&crop=auto
 excerpt: 
 author_profile: true
 ---
