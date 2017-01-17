@@ -22,7 +22,7 @@ theme: night
 * Then the proof of his thesis ("I argue that")
 * Then he refutes to earlier objections ("Reply 1...")
 
-</section> <section data-markdown>
+</section><section data-markdown>
 
 ## What is Kreeft's basic thesis? 
 

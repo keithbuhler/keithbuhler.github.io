@@ -1,7 +1,11 @@
 ---
 title: Nature of Morality
 layout: slide
+<<<<<<< Updated upstream
 theme: blood
+=======
+theme: white
+>>>>>>> Stashed changes
 ---
 
 <section><!--Friday begin-->
@@ -11,13 +15,6 @@ theme: blood
 
 
 # The Nature and Purpose of Morality
-
-
-
-
-</section> <!--Intro slide end-->
-<section data-markdown>  <!--Slide Beginning-->
-
 
 
 ## Today
@@ -57,7 +54,6 @@ theme: blood
 
 ![lord flies](http://www.returnofkings.com/wp-content/uploads/2013/12/lordflies.jpg)
 
-</section><section data-markdown>
 
 
 ## Unresolved moral questions
@@ -77,11 +73,6 @@ THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 
 
 </section><section data-markdown >
-
-![lord flies 2](https://i.ytimg.com/vi/CX4vZflew_A/maxresdefault.jpg)
-
-</section><section data-markdown >
-
 ## Lord of the Flies
 
 - Lawlessness versus moral law
