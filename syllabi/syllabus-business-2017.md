@@ -71,34 +71,34 @@ F       Jan-13  [Basic Philosophy: Peter Kreeft, Truth Handout](https://docs.goo
 ### Week 2 Methods and Business Ethics 
 M       Jan-16  MLK Day  
 W       Jan-18  Green and Donovan, "Methods of Business Ethics"      
-F       Jan-20  Discussion of Methods
+F       Jan-20  Discussion of Methods  
 
 ### Week 3 Ethical Theories I
-M       Jan-23   Audi, "the Place of Ethical Theory"  46-56  
-W       Jan-25   Audi, "the Place of Ethical Theory"  56-66
-F       Jan-27   Discussion of Ethical Theories   
+M       Jan-23   Audi, "the Place of Ethical Theory"  46-56    
+W       Jan-25   Audi, "the Place of Ethical Theory"  56-66  
+F       Jan-27   Discussion of Ethical Theories    
 
 ### Week 4 Ethical Theories II
 M       Jan-30 [Virtue Ethics Handout](https://docs.google.com/document/d/1BQIkZ3dFCAgDaH_c3UmtpJMEmwOSeHMlpjozVR-4k8w/edit#)  
 W       Feb-1  [Religious Ethics Handout]   
-F       Feb-3  Writing Workshop for Unit Paper Disputation    
+F       Feb-3  Writing Workshop for Unit Paper Disputation     
 
 ### Week 5 Capitalism
-(Unit paper 1 - Ethical Theories, due Monday by midnight)   
-M       Feb-6  Gaus, "The Idea and Ideal of Capitalism"   
-W       Feb-8  Gaus, "The Idea and Ideal of Capitalism"  
-F       Feb-10  Discussion of Capitalism and Stock Market
+(Unit paper 1 - Ethical Theories, due Monday by midnight)    
+M       Feb-6  Gaus, "The Idea and Ideal of Capitalism"    
+W       Feb-8  Gaus, "The Idea and Ideal of Capitalism"   
+F       Feb-10  Discussion of Capitalism and Stock Market  
 
 
 ### Week 6 Economic Justice
 M       Feb-13  Goodpastor, "Corporate Responsibility and its Constituents"  
 W       Feb-15  Boatright, "Executive Compensation"   
-F       Feb-17  Discussion of Economic Justice and CEO Pay  
+F       Feb-17  Discussion of Economic Justice and CEO Pay   
 
 ### Week 7 Universal Norms
 (Unit paper 2 - CEO pay Due Monday at midnight)  
 M       Feb-20  Beauchamp, "Relativism, Multiculturalism, and Universal Norms"  
-W       Feb-22  Gould, "Moral Issues in Globalization"     
+W       Feb-22  Gould, "Moral Issues in Globalization"      
 F       Feb-24  [Kreeft, "Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit#heading=h.oznftkhgiu5u), and Discussion of Moral Norms  
 
 
