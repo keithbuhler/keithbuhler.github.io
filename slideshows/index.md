@@ -10,7 +10,7 @@ permalink:
 
 * [Week 1a Introduction](/slideshows/business1intro)
 * [Week 1b Truth](/slideshows/business1truth)
-* [Week 2 Methods](http://www.keithbuhler.com/slideshows/business7methods)
+* [Week 2 Methods](http://www.keithbuhler.com/slideshows/business2methods)
 * [Week 3 Ethical Theories]
 * [Utilitarianism](/slideshows/business3util)
 * [Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
