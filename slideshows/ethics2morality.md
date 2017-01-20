@@ -9,7 +9,6 @@ theme: blood
 
 
 
-
 # The Nature and Purpose of Morality
 
 
@@ -169,7 +168,9 @@ THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 </section><!--Slide end-->
 
 
-<section data-markdown>
+
+<section><!--Friday begin-->
+<section data-background="http://cgimg.s3.amazonaws.com/cg/g30/392830/392830_1290464228_orig.jpg" data-markdown><!--Intro slide begin-->
 
 # The Nature and Purpose of Morality
 
@@ -179,13 +180,6 @@ THIS IS FOR YOU. DON'T HAVE TO TURN THIS IN.
 * The State of Nature? 
 * Natural Law vs. Natural Lawlessness
 * Discussion
-
-</section><section data-markdown>
-
-
-# The Moral law
-
-**None of you are moral relativists!**
 
 </section><section data-markdown>
 
