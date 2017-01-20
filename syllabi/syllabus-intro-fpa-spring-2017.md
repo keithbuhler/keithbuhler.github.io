@@ -17,8 +17,11 @@ title: Introduction to Philosophy Syllabus
 - [Jostein Gaardner, *Sophie's World*](http://amzn.to/2ibvqVj)
 - [Plato, *Last Days of Socrates*](http://amzn.to/1NMMNB6)
 - [Peter Kreeft, *Philosophy 101*](http://amzn.to/2iy9Si9)
-- [Peter Kreeft, *Socratic Logic*](http://amzn.to/2iy4Mmb)
+
+### Handouts (provided)
 - [Augustine, *Confessions*](http://amzn.to/1QJ7qEj)
+- [*Peter Kreeft, *Socratic Logic*](http://amzn.to/2iy4Mmb)
+
 
 > Buy the proper ISBNS only, please, because I assign page numbers *from these editions*.  Get physical books, not e-books, unless the cost is prohibitive.  New or used are both OK. You may purchase from any online retailer or physical bookstore, but the links provided are from Amazon (I participate in their affiliate program). Other handouts are provided for free online. 
 
