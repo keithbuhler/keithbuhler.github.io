@@ -1,0 +1,499 @@
+/* Base */
+/* ----------------------------------------------------------*/
+html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+html, body { height: 100%; }
+
+
+
+/* Site header */
+
+header.site-header {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  color: #ccc;
+  background: #ffffff;
+  height: 6em;
+  width: 800px;
+  border-radius-top: 4px;
+}
+
+
+header.site-header.wrap {
+  max-width: 33em;
+  margin: 20px auto;
+  padding-top: 10px;
+  padding: 5px;
+  border-bottom: 4px;
+  border-color: #333;
+}
+
+.site-title {  float: left;}
+
+.site-title,.site-title:visited {
+  display: inline;
+  padding: 15px;
+  color: #ccc;
+  font-size: 2em; 
+  text-align: center;
+
+
+}
+
+.site-nav {display: inline;}
+
+.site-nav .trigger {
+    display: inline;
+    float: right;
+    padding: 0 1em;
+    color: #ccc;
+}
+
+.site-nav .trigger a{  display: block;
+    color: #333;
+    text-align: center;
+    padding: 16px 14px;
+    text-decoration: shadow; }
+
+.site-nav .trigger a:hover{ background-color: #ffd699;  color: #ffffff; }
+
+.site-title:hover{   color: #ffd699; }
+
+
+
+
+.cover-banner {
+  width: 100%;
+  height: 100vh;
+  max-height: 1067px;
+  
+  position: relative;
+  top: -294px;
+  margin: 0 auto;
+  padding: 0;
+  overflow: visible;
+  
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.shift-left {
+    padding-right: 12em;
+}
+
+
+
+/* Body styles, below header, including page.content, stops at footer. */ 
+
+body { color:#333;
+    font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    font-size:1em;
+    line-height:1.5em;
+    margin: 0 auto;
+    margin-top: 0;
+    width: 100%;
+    text-rendering: optimizeLegibility; 
+    -webkit-font-smoothing: antialiased;
+    background-image: url("http://www.vfinspections.com/backgrounds/squairy/squairy_light_@2X.png");
+    background-repeat: repeat;
+}
+
+/* Begin Page Content, central column styles */
+
+
+.page-content {
+  background-color: white;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+
+}
+
+/* End Page Content styles */
+
+
+#content-wrapper {
+margin:4em auto;
+max-width:800px;
+border-radius-bottom: 4px;
+
+
+}
+/* columns if I end up using them */
+
+#left-container{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+  float:left;
+  width:240px;
+  height; 400px;
+  font-size: 1em;
+}
+
+#right-container{
+  position: relative;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  float: left;
+  width: 500px;
+  height: 600px; 
+}
+
+
+
+
+/* body links*/
+
+a{ color: #205caa; text-decoration:none;}
+a:visited{ color: #0645ad; }
+a:hover{ color: #ffd699; }
+a:active{ color:#0645ad; }
+a:focus{ outline: thin dotted; }
+a:hover, a:active{ outline: 0; }
+
+
+
+/* body headings*/
+
+
+h1,h2,h3,h4,h5,h6{
+font-weight:normal;
+color:#111;
+line-height:1em;
+}
+h4,h5,h6{ font-weight: bold; }
+h1{ font-size:2.1em; }
+h2{ font-size:1.9em; }
+h3{ font-size:1.5em; }
+h4{ font-size:1.2em; }
+h5{ font-size:1em; }
+h6{ font-size:0.9em; }
+
+
+/* body text*/
+
+p{
+margin:1em 0;
+text-align: left;
+}
+
+
+
+/* body thumb pictures*/
+
+
+#thumbs {   
+    width: 300px;
+    margin-top:80px;
+    margin-left: auto; 
+    margin-right: auto;
+     text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+
+#thumbs a {
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+}
+
+
+
+
+/* Body lists */
+
+
+
+
+
+
+
+
+/* Site footer */ 
+
+
+site-footer {
+  text-align: center;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 3em;
+  width: 800px;
+  border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+/* Posts */ 
+
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Post styles */
+
+.post-header { margin: 0px 0 10px; }
+
+
+
+.post-header h1 {
+  font-size: 28px;
+  letter-spacing: -1.75px;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.post-header .meta {
+  font-size: 20px;
+  color: #818181;
+  margin-top: 1px;
+}
+
+.post-content { margin: 0 0 40px; }
+
+.post-content > * { margin: 20px 0; }
+
+
+.post-header h1 { font-size: 28px; }
+  .post-content h2 { font-size: 26px; }
+  .post-content h3 { font-size: 22px; }
+  .post-content h4 { font-size: 18px; }
+  .post-content blockquote { padding-left: 10px; }
+  .post-content ul,
+  .post-content ol { padding-left: 10px; }
+
+.post-content h2 {
+  font-size: 32px;
+  letter-spacing: -1.25px;
+}
+
+.post-content h3 {
+  font-size: 26px;
+  letter-spacing: -1px;
+}
+
+.post-content h4 {
+  font-size: 20px;
+  letter-spacing: -1px;
+}
+
+.post-content blockquote {
+  border-left: 4px solid #e8e8e8;
+  padding-left: 20px;
+  font-size: 18px;
+  opacity: .6;
+  letter-spacing: -1px;
+  font-style: italic;
+  margin: 30px 0;
+}
+
+.post-content ul,
+.post-content ol { padding-left: 20px; }
+
+.post pre,
+.post code {
+  border: 1px solid #d5d5e9;
+  background-color: #ffffff;
+  padding: 8px 1px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.post code { padding: 1px 5px; }
+
+.post ul,
+.post ol { margin-left: 1.35em; }
+
+.post pre code { border: none; }
+
+
+
+
+/* Tables */
+dl {
+  padding: 0;
+  margin: 1.5em 0;
+}
+
+dt {
+  float: left;
+  clear: left;
+  font-weight: bold;
+  margin-right: 1em;
+}
+
+dt::after {
+  content: ": ";
+}
+
+dd {
+  margin: 0 0 1.5em 0;
+  padding: 0;
+}
+
+dd p {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    clear: right;
+}
+
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Philosophy Custom CSS */
+
+
+header.site-header-philosophy {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: #2e2e38;
+  height: 4em;
+  width: 1000px;
+  border-radius: 6px;
+}
+
+
+
+.site-title-philosophy:hover{   color: #ffd699; }
+
+.site-title-philosophy {  float: left;}
+
+
+.site-title-philosophy,.site-title-philosophy:visited {
+  display: inline;
+  padding: 15px;
+  color: white;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* just short circuiting settings */
+
+div#wrapperHeader {
+ width:100%;
+ height;200px; /* height of the background image? */
+ background:url(/img/TheBuhlerReport1.png) repeat-x 0 0;
+ text-align:center;
+}
+
+div#wrapperHeader div#header {
+ width:800px;
+ height:200px;
+ margin:0 auto;
+}
+
+div#wrapperHeader div#header img {
+ width:; /* the width of the logo image */
+ height:; /* the height of the logo image */
+ margin:0 auto;
+}
