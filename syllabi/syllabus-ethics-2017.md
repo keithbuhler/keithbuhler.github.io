@@ -134,4 +134,16 @@ M       May-1  No class
 W       May-3  Reflections and Extra Credit Due  by 11:59PM online.    
 F       May-5  Term Paper by 11:59pm online  
 
+
+### UK Core
+
+PHI 130 is a UK Core class that satisfies Community, Culture and Citizenship in the USA. From UK Core guidelines:
+
+>These courses promote a student’s understanding of historical, societal, and cultural differences, such as those arising from race, ethnicity, gender, sexuality, language, nationality, religion,
+political and ethical perspectives, and socioeconomic class; engage students in grappling with conflicts, compromises, and/or ethical dilemmas stemming from the complex and diverse
+cultural contexts of US communities; and foster effective and responsible participation in a diverse community or society in the United States.
+
+Part of satisfying this learning goal will be doing outside research for your Term Paper. You will write on one of the specific Ethical Problems discussed in class. You will expand the disputation format of the Unit Paper in the Term Paper, and will include more outside research. 
+
+
 {% include boilerplate.html %}
