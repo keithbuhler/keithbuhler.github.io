@@ -5,14 +5,12 @@ theme: blood
 ---
 
 <section><!--Intro slide begin-->
-<section data-background="http://cgimg.s3.amazonaws.com/cg/g30/392830/392830_1290464228_orig.jpg" data-markdown><!--Intro slide begin-->
+<section data-background="https://mathmunch.files.wordpress.com/2013/06/wiki-sacred-geometry-e1325031356204.jpg" data-markdown><!--Intro slide begin-->
 
 
 
 
 # Good and Evil
-
-
 
 
 </section> <!--Intro slide end-->
@@ -22,20 +20,19 @@ theme: blood
 
 ## Today
 
-* General reflections on Good and Evil
-* Greater Good, Lesser Good, Evil
-* Nietzsche, *Beyond Good and Evil*
-* Billy Budd -- What is to be done? 
+1. What is Goodness? A defense of Platonism
+2. Greater Good, Lesser Good, Evil
+4. Billy Budd -- What is to be done? 
 
 
 </section><section data-markdown>
 
-### What is goodness? Three answers: 
+### What is goodness? Four options
 
 - Plato: the good is the ultimate reality, source of goodness, truth, and beauty 
 - Manichee: Good and evil are equal and opposite realities
 - Hedonism: Good is pleasure, evil is pain and suffering
-- Nihilism: Good and evil are not real
+- Nihilism: Good and evil are not really real
 
 </section><section data-markdown>
 
@@ -51,12 +48,20 @@ If good and evil are equal and opposites, why are most things and most people mo
 
 And why are all evil things corruptions of goodness? 
 
+#### Examples:  
+- The sharpest knife is the best knife; but also the most dangerous knife 
+- The most fun video game is engrossing, enjoyable, addicting; and also the most dangerous video game
+- Wealth, intelligence, beauty, good public speaking are good things; but the most dangerous tyrant is wealthy, intelligent, beautiful, and good at public speaking etc.
+- The devil was the highest angel
+
 </section><section data-markdown>
 ### A Puzzle about Platonism
 
 If the Good is the ultimate reality, source of goodness, truth, and beauty, what is the Good's relationship to nature? 
 
 What is the Good's relationship to God?
+
+
 
 </section><section data-markdown>
 ### An argument for Platonism
@@ -76,40 +81,11 @@ You are a Platonist about goodness if you think
 
 From there, you can affirm religious Platonism (where God is the Good) or non-religious platonism (where the Good is ultimate). 
 
-
-</section><section data-markdown>
-
-### What is goodness? An abstract property, the transcendent source of reality and truth
-
-### Another distinction: is everything *either* good or bad?
-
-Consider that some things may be *better* than other good things, without the lesser good things being *bad.*
-
-</section><section data-markdown>
-### Greater and Lesser Goods
-
-|            Bad |      Lesser Good |     Greater Good |
-|----------------|------------------|------------------|
-| Poison         | grape juice      |      wine        |
-| Noise          | pop music        |     symphony     |
-
-
-</section><section data-markdown>
-### Greater and Lesser Goods
-
-|            Bad |      Lesser Good |     Greater Good |
-|----------------|------------------|------------------|
-| Stealing       | giving a little money away | giving all your money away |
-| Lying          | Telling part of the truth | Telling the whole truth | 
-| Breaking the law | Keeping the letter of the law | Keeping the spirit of the law | 
-
-
 </section><section data-markdown>
 
 ### Nietzsche 
 
 > Where is God gone? he called out. "I mean to tell you! *We have killed him,* -- you and I! We are all his murderers! 
- 
 
  </section><section data-markdown>
 
@@ -146,11 +122,40 @@ God is dead! God remains dead! And we have killed him! How shall we console ours
 
 </section><section data-markdown>
 
+### is everything *either* good or bad?
+
+Consider that some things may be *better* than other good things, without the lesser good things being *bad.*
+
+</section><section data-markdown>
+### Greater and Lesser Goods
+
+|            Bad |      Lesser Good |     Greater Good |
+|----------------|------------------|------------------|
+| Poison         | grape juice      |      wine        |
+| Noise          | pop music        |     symphony     |
+
+
+</section><section data-markdown>
+### Greater and Lesser Goods
+
+|            Bad |      Lesser Good |     Greater Good |
+|----------------|------------------|------------------|
+| Stealing       | giving a little money away | giving all your money away |
+| Lying          | Telling part of the truth | Telling the whole truth | 
+| Breaking the law | Keeping the letter of the law | Keeping the spirit of the law | 
+
+</section><section data-markdown>
+
 ### Discussion
 
+* Your thoughts?
 * Your questions?
-
-
 
 </section>
 </section><!--Slide end-->
+
+
+
+
+<section><!--Wednesday slide begin-->
+<section data-background="https://mathmunch.files.wordpress.com/2013/06/wiki-sacred-geometry-e1325031356204.jpg" data-markdown><!--Intro slide begin-->
