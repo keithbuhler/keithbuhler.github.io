@@ -42,9 +42,10 @@ theme: night
 5. Important Notions: Truth, Influence, Equality
 6. Morality and Religion
 
-### Moral Judgment
 
--
+</section><section data-markdown>
+
+### Moral Judgment
 
 </section><section data-markdown>
 
@@ -72,16 +73,12 @@ theme: night
 
 </section><section data-markdown>
 
-##
-
-</section><section data-markdown>
-
-
 ### 2 minutes left
 * Your questions?
 * Re-read or finish reading second half of Audi
 
-
+</section>
+</section>
 
 
 <section> <!--begin day 2-->
