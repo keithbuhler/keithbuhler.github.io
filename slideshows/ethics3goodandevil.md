@@ -93,8 +93,36 @@ From there, you can affirm religious Platonism (where God is the Good) or non-re
 
  </section><section data-markdown>
 
-God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of murderers? 
+>God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of murderers? 
+
+What is Nietzsche saying? 
+
 </section><section data-markdown>
+
+### Nihilism
+
+>Unthinking men have a tendency to assume that some things are just naturally good and others bad... (121)
+
+</section><section data-markdown>
+
+### Nihilism
+
+If God is dead, then...
+
+1. We are guilty of killing God
+2. We have to become Gods to be worthy of the deed
+3. All is meaningless and disorienting and dark ("Whither do we move? Away from all suns?") except what we create and impose on each other and ourselves. 
+
+
+</section><section data-markdown>
+
+### Nihilism
+
+1. "Right and wrong" are fictions the weak impose on the strong
+5. The only good is "all that enhances the feeling of power"
+6. The only bad is "all that proceeds from weakness"
+
+>The first principle of our humanism: the weak and the failures shall perish. They ought even to be helped to perish. What is more harmful than any vice? Practical sympathy and pity for all the failures and all the weak: Christianity. 
 
 
 </section><section data-markdown>
