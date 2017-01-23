@@ -9,29 +9,66 @@ theme: night
 
 # Ethical Theories
 
+- General Observations of Ethical Theory
+- Moral Language, Knowledge, and Reality
+- Discussion of Important Ethical Notions
 
 </section><!--end slide-->
 <section data-markdown>
 
-##
+### Ethics  (1/3)
+
+- **Normative ethics** tries to figure out true principles. How should I live? How do I resolve moral dilemmas? 
+- Example: Profitable fraud versus costly integrity? 
+- Example: Follow my family tradition or break out and innovate? 
+- Example: Utilitarians say to *do whatever maximizes happiness.* 
 
 </section><section data-markdown>
 
-## Normative ethics = a theory of what to do. 
+### Ethics (2/3)
 
-- **Metaethics** asks higher-order questions about what moral terms like ‘good’ mean and why people morally disagree. 
+- **Metaethics** asks higher-order questions about what moral terms like ‘good’ mean, whether moral facts are real, how we know moral facts, why people morally disagree, etc.
 
 - **Applied ethics** tries to resolve difficult ethical questions using normative principles.
 
-- **Normative ethics** tries to figure out true principles. How should I live? How do I resolve moral dilemmas? 
-- * Example: Profitable fraud versus costly integrity? 
-- * Example: Follow my family tradition or break out and innovate? 
+</section><section data-markdown>
 
-- Utilitarians say: do whatever maximizes happiness. 
+## Some Aspects of Ethical Theorizing
 
+1. Moral Judgment (language)
+2. Moral Facts (reality itself)
+3. Moral Epistemology (theory of knowledge) 
+4. Moral Motivation (psychology)
+5. Important Notions: Truth, Influence, Equality
+6. Morality and Religion
+
+### Moral Judgment
+
+-
 
 </section><section data-markdown>
 
+### Metaphysical Dimensions (Moral Facts)
+
+</section><section data-markdown>
+
+### Epistemology
+
+</section><section data-markdown>
+
+### Moral Motivation
+
+</section><section data-markdown>
+
+## Important Notions
+
+- Veracity
+- Improper influence
+- Equality
+
+</section><section data-markdown>
+
+## Ethics and Religion
 
 </section><section data-markdown>
 
@@ -39,24 +76,10 @@ theme: night
 
 </section><section data-markdown>
 
-##
 
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
+### 2 minutes left
+* Your questions?
+* Re-read or finish reading second half of Audi
 
 
 
