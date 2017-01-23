@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Business Ethics, Week 2, Truth
+title: Business, Ethical Theories
 theme: night
 ---
 
