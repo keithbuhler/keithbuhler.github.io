@@ -93,7 +93,8 @@ From there, you can affirm religious Platonism (where God is the Good) or non-re
 
  </section><section data-markdown>
 
->God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of murderers? 
+
+> God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of murderers? 
 
 What is Nietzsche saying? 
 
