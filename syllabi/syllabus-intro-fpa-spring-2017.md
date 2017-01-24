@@ -182,29 +182,15 @@ May-30 T  Gospel of John
 Jun-1 R Gospel of John     
 
 
-### Scale
-
-Letter GradePercentage
-
- A 99%-90%
-
- B 89%-80%
-
- C 79% - 70%
-
- D 69% - 60%
-
- F &lt; 59%
-
-#### []()Reading tips
+### Reading tips
 
 Read ahead. There is a lot of reading but read carefully and slowly as need be; you will get faster, but start slow and careful. Try to read _and understand_ the book or essay. Ask yourself: What is the main thesis? Is it true? Take notes. Talk with each other before class. Ask yourselves and each other: What is the main point? What confused me? Come to class with objections, questions, and arguments. More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
 
-#### []()Quizzes
+### Quizzes
 
 Short reading quizzes assess that you read the day’s text. These are easy points, so be diligent in doing every quiz.
 
-#### []()Attendance & Participation
+### Attendance & Participation
 
 Attendance is strongly encouraged. The primary competency of this class is philosophical dialog. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. We dialog so much because: (1) You must take responsibility for your own learning. (2) We can actually get to know each other. (3) Most people learn (and retain) best in discussion. (4) Philosophy is dialogical.
 
@@ -214,22 +200,22 @@ _You are responsible to talk in class._ Even if you are confused, tired, or unm
 
 Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
-
-#### []()Unit Papers
+ 
+### Unit Papers
 
 Every student will write several Unit Papers. These Unit Papers help you synthesize your own views after doing the readings and listening to lectures and participating in the discussions. Be careful to cite your sources correctly, because I do not tolerate plagiarism. Papers may receive a letter grade or may be graded pass/fail -- so follow the instructions closely. The instructions are posted online.
 
-#### []()Extra Credit
+### Extra Credit
 
 Those who opt for extra credit may do so. You may do extra reading, extra writing, extra class preparation, for up to 5% of the semester grade. The normal amount of extra credit awarded is 2%. The only way to earn all 5% is to do multiple types of extra credit and do them well. Full instructions are posted online.
 
-#### []()Miscellany:
+### Miscellany:
 
 1. **Bring your textbook** to every class. Reference it in the discussion. Be specific. 
 2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
 3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back.
 6. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up too early – 1 minute before the end of class is fine.
 7. **Contact me.** The best method is to chat is a Canvas message; I read every message but may not respond to every email. If you need a response but I haven’t responded within three (3) days, send a message again with the subject “nudge”. 
-9. **Email**. You are expected to have an active e-mail account that you check regularly, and to check “news” or “announcements” section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail (e.g. if I am sick, pointers for home work, change in due dates).
+9. **Email**. You are expected to have an active account that you check regularly, and to check “news” or “announcements” section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail (e.g. if I am sick, pointers for home work, change in due dates).
 11. **Plagiarism**. Do not plagiarize. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. It may jeopardize your standing in the class. If you forget to quote a source, that’s still plagiarism. Also, if you intentionally take anyone else’s work or offer your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. [For more information, refer to academic integrity documents like this one](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
 12. **Enjoy yourself.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
