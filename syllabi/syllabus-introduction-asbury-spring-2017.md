@@ -111,12 +111,12 @@ Mar-2 R Forms Discussion (Optional: Read *Sophie's World* "Major's Cabin", "Aris
 
 ### Week 9 Logic 
 Unit Paper 3, Due Tuesday by Midnight  
-Mar-7 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  (Midterms Due)
-Mar-9 R Kreeft, *Socratic Logic* III, "Material Fallacies"   
+Mar-7 T Kreeft, *Socratic Logic*, Introduction, sections 1, 4, and 5; and Chapter I, "Understanding"  (Midterm Grades Due)   
+Mar-9 R Kreeft, *Socratic Logic* III, "Material Fallacies"     
 
 ###  Break
-**Mar 13-20 *Easter Break***  
-**Mar 13-20 *Easter Break***  
+**Mar 13-20 *Spring Break***  
+**Mar 13-20 *Spring Break***  
 
 ### Week 10 Reasoning
 Mar-21 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
