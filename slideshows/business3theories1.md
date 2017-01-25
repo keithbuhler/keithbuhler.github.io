@@ -147,32 +147,6 @@ theme: night
 
 </section><section data-markdown>
 
-##
-
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
-</section><section data-markdown>
-
-##
-
-
-
-
-</section> <section data-markdown>
 
 ## 2 minutes left
 * Questions?
