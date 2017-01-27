@@ -261,7 +261,7 @@ tr,td,th{vertical-align:middle}
 .masthead{position:relative;border-bottom:0px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.2s both;-webkit-animation-delay:0.10s;animation-delay:0.10s;z-index:20}
 .masthead__inner-wrap{max-width:800px; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;} 
 .masthead__banner{max-width:100%; color: #3b7aae; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
-.masthead__title{font-size:2.5em; align:center; text-decoration:none; color: #3b7aae; padding: 15px; margin:15px; text-}
+.masthead__title{font-size:2.8em; align:center; text-decoration:none; color: #3b7aae; padding: 15px; margin:15px; text-}
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
