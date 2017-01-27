@@ -5,7 +5,10 @@ permalink: /cv/
 
 <center>
 
-<h2>Curriculum Vitae 2017</h2>   
+<h2>Curriculum Vitae 2017</h2>  
+
+
+
 
 <p>Keith Buhler</p>
 
@@ -21,8 +24,7 @@ permalink: /cv/
 
 </center>
 
-
-#### [PDF version](/Buhler-CV.pdf)
+[PDF version](/Buhler-CV.pdf)
 
 
 ### EDUCATION
