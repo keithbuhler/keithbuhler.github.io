@@ -268,7 +268,7 @@ tr,td,th{vertical-align:middle}
 }
 .masthead__inner-wrap nav{z-index:10}
 .masthead__inner-wrap a{text-decoration:none; color:#FFA64B}
-.masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none;}
+.masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none; text-align: center;}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap; text-align: center;}
 .masthead__menu-item--lg{padding-right:1em;font-weight:700; color:#3b7aae;}
 .masthead__menu-item--lgcenter{padding-right:2em;font-weight:700}

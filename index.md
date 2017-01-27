@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Welcome
-header: 
-      image: http://www.keithbuhler.com/images/horses.jpg
+header:
+      image: http://www.keithbuhler.com/images/oxford2.jpg
 excerpt: 
 author_profile: true
 ---
