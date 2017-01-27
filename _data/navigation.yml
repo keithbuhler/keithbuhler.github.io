@@ -1,12 +1,6 @@
 #Main links
 main:
-  - title: "ABOUT"
-    url: http://keithbuhler.com/about
-  - title: "RESEARCH"
-    url: http://keithbuhler.com/research
-  - title: "TEACHING"
-    url: http://keithbuhler.com/teaching
-  - title: "FOR STUDENTS"
+  - title: "STUDENT PORTAL"
     url: http://keithbuhler.com/students
 
 phil:
@@ -16,6 +10,8 @@ phil:
     url: http://www.keithbuhler.com/philosophy-class
   - title: "WHAT TO DO NEXT"
     url: http://www.keithbuhler.com/philosophy-6-next
+
+
 
 philosophy:
   - title: "before class"
@@ -81,3 +77,11 @@ future:
     url: http://www.keithbuhler.com/fun
   - title: "CLASSICAL EDUCATION"
     url: http://www.classicalschools.org/
+
+retired:
+  - title: "ABOUT"
+    url: http://keithbuhler.com/about
+  - title: "RESEARCH"
+    url: http://keithbuhler.com/research
+  - title: "TEACHING"
+    url: http://keithbuhler.com/teaching
