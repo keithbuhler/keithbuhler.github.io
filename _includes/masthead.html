@@ -6,7 +6,6 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://keithbuhler.com/"><b>HOME</b></a></li>
-          <li class="masthead__menu-item masthead__menu-item--lgright"></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
