@@ -15,7 +15,7 @@ feature_row:
   - image_path: http://www.keithbuhler.com/images/fun-buhler.png
     alt: "The Buhler Report"
     title: "Buhler Report"
-    excerpt: "Thoughtful reflection on timeless truth and current events."
+    excerpt: "A Blog about Timeless Wisdom and Current Events."
     url: "http://www.keithbuhler.com/buhlerreport"
     btn_label: "More"
     btn_class: "btn--inverse"

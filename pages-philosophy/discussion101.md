@@ -18,14 +18,6 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 ----
 
-
-<center>
-
-<a href="https://en.wikipedia.org/wiki/Pythagoras"><img src="http://www.famous-mathematicians.com/images/pythagoras.jpg" class="w3-border w3-padding-4 w3-padding-tiny" alt="Pythagoras"></a>
-
-</center>
-
-
 ### Why Discussion? 
 
 “All humans by nature desire knowledge.” (Aristotle, *Metaphysics* I). The ways we gain the knowledge we desire are: observation, scientific research, experience, reading literature, talking to friends, listening to experts, and a few other ways. Why discussion? 
