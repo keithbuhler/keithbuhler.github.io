@@ -4,10 +4,8 @@ layout: philosophy
 author_profile: false
 sidebar:
   nav: philosophy
-permalink: /philosophy
+permalink: /philosophy/
 --- 
-
-![Pythagoras](/images/pythagoras-small.jpg "Go big theorem!")
 
 Most college students will take exactly *one* philosophy class. [You should make the most of it.](/philosophy) 
 

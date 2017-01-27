@@ -7,11 +7,6 @@ permalink: /cv/
 
 <h2>Curriculum Vitae 2017</h2>  
 
-
-
-
-<p>Keith Buhler</p>
-
 <p> Department of Philosophy   </p>
 
 <p> University of Kentucky    </p>
@@ -24,7 +19,7 @@ permalink: /cv/
 
 </center>
 
-[PDF version](/Buhler-CV.pdf)
+[PDF version](http://www.keithbuhler.com/Buhler-CV.pdf)
 
 
 ### EDUCATION

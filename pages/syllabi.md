@@ -34,9 +34,4 @@ feature_row:
 {% include feature_row %}
 
 
-  - image_path: http://www.keithbuhler.com/images/syllabus-200.png
-    title: "Philosophy (Freedom Project Academy)"
-    excerpt: "FPA T/Th"
-    url: "http://www.keithbuhler.com/intro"
-    btn_label: "Syllabus"
-    btn_class: "btn--inverse"
+- [Intro to Philosophy, Freedom Project Academy](http://www.keithbuhler.com/intro)
