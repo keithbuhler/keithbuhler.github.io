@@ -261,7 +261,7 @@ tr,td,th{vertical-align:middle}
 .masthead{position:relative;border-bottom:0px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.2s both;-webkit-animation-delay:0.10s;animation-delay:0.10s;z-index:20}
 .masthead__inner-wrap{max-width:800px; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;} 
 .masthead__banner{max-width:100%; color: #3b7aae; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
-.masthead__title{font-size:3em; align:center;}
+.masthead__title{font-size:3em; align:center; color: #3b7aae; padding: 25px; margin:25px;}
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
@@ -309,7 +309,7 @@ tr,td,th{vertical-align:middle}
 .greedy-nav a:hover{color:#3b7aae}
 .greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#ccc;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table}
-.greedy-nav .visible-links li{display:table-cell;vertical-align:middle}
+.greedy-nav .visible-links li{display:table-cell;vertical-align:middle; align: center;}
 .greedy-nav .visible-links li:first-child{font-weight:bold}
 .greedy-nav .visible-links li:first-child a{margin-left:0}
 .greedy-nav .visible-links li:last-child a{margin-right:0}
