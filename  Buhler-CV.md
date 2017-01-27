@@ -31,7 +31,7 @@ keithbuhler.com
 ### EDUCATION
 
 Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
-M.A.&nbsp; Philosophy, University of Kentucky, 2015      
+M.A.&nbsp; Philosophy, University of Kentucky, 2016      
 M.A.&nbsp; Orthodox Theology, University of Balamand, 2014         
 B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
 
