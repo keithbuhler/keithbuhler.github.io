@@ -1,36 +1,38 @@
 ---
 layout: single
-permalink: /cv/
 --- 
 
+\begin{center}
+\LARGE
+Keith Buhler
+\normalsize
 
-#### [Buhler CV - PDF](/Buhler-CV.pdf)
 
-<center>
+University of Kentucky    
 
-<h1>Curriculum Vitae 2017</h1>   
+Department of Philosophy   
 
-<h1>Keith Buhler</h1>   
+1402 Patterson Office Tower
 
-<p> Department of Philosophy   </p>
+Lexington, KY 40506  
 
-<p> University of Kentucky    </p>
+keith.buhler@uky.edu   
 
-<p> Lexington, KY 40506  </p>
+keithbuhler.com    
 
-<p> keith.buhler@uky.edu   </p>
+562.230.2920  
 
-<p> keithbuhler.com    </p>
 
-</center>
+
+\end{center}
 
 
 
 ### EDUCATION
 
-Ph.D.&nbsp;  Philosophy, University of Kentucky, Nov 2016   
-M.A.&nbsp; Philosophy, University of Kentucky, 2014     
-M.A.&nbsp; Orthodox Theology, University of Balamand, 2012         
+Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
+M.A.&nbsp; Philosophy, University of Kentucky, 2015      
+M.A.&nbsp; Orthodox Theology, University of Balamand, 2014         
 B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
 
 
@@ -38,11 +40,10 @@ B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
 Postdoctoral Scholar, University of Kentucky,  Spring 2017    
 Instructor of Philosophy, Asbury University, 2013-2017      
 
-### AREA OF SPECIALIZATION 
-Ethics
+### RESEARCH AREAS
+Specialization in Ethics and the History of Philosophy.     
+Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion. 
 
-### AREAS OF COMPETENCE
-History of Philosophy, Philosophy of Mind, and Philosophy of Religion  
 
 
 
@@ -55,12 +56,9 @@ History of Philosophy, Philosophy of Mind, and Philosophy of Religion
 6. Philosophy of Religion           (Summer 2016, Asbury)
 7. Philosophy of C.S. Lewis         (Fall 2016, Asbury)
 8. Virtue Ethics, Ancient and Modern (Spring 2016, Asbury)
-10. Introduction to Logic            (Spring 2013) \newline 
-
-*As teaching assistant*
-
-10. Introduction to Logic           (Fall 2012, UK, under Bob Sandmeyer)
-11. Philosophy of Science           (summer 2004, Biola University, under Nancy Pearcey)
+10. Introduction to Logic            (Spring 2013) 
+11. Introduction to Logic           (Fall 2012, UK, as TA under Bob Sandmeyer)
+11. Philosophy of Science           (summer 2004, Biola University, as TA under Nancy Pearcey)
 
 
 
@@ -78,23 +76,17 @@ History of Philosophy, Philosophy of Mind, and Philosophy of Religion
 20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
 
 
-
-### DISSERTATION
-**Title**: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*   
-**Committee:** David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger      
-**Abstract:** Philippa Foot and John McDowell are united in the affirmation that virtue is 'natural goodness' for human beings. They are also united in endorsing scientific naturalism.  Nevertheless, they are divided in their rival conceptions of 'nature.' 
-
-This dissertation defends and advances upon Foot's view of natural goodness by appealing to "generic propositions," a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. Human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an "external" scientific point of view as well as from an "internal" ethical point of view. 
-
-I articulate neo-Aristotelian accounts of virtue and practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil that is internal to their life form. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
-
-While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
+### ADMINISTRATION POSITIONS
+1. Director of High School Studies (Veritas Academy, 2013-2014)
+2. Master Tutor (Torrey Academy, 2010-2012)
+3. Lecturer (Wheatstone Academy, 2006-2011)
+6. Assistant Director (Wheatstone Academy, 2004-2005)
 
 ### WORKS IN PROGRESS
-1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)  
-2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (undergoing revisions)  
-3. "Virtue and Imaginative Resistance" (in development)  
-
+1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)
+4. *Becoming What We Are* (book draft complete)
+2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (article in development)
+  
 
 ### PRESENTATIONS
 
@@ -111,13 +103,11 @@ While the normative force of my view is clear, I secure its naturalistic credent
 ### COMMMENTS AND SERVICE
 
 1. Referee for Kentucky Graduate School Conference submissions, 2017.
-1. "How to Keep Momentum in Dissertation Writing," University of Kentucky Graduate School, Writing Bootcamp, 2016. 
+2. "How to Keep Momentum in Dissertation Writing," University of Kentucky Graduate School, Writing Bootcamp, 2016. 
 2. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." Society of Christian Philosophers, University of San Diego, 2016.
 3. Session Chair, Ian Ramsey Centre Conference, Oxford University, 2014.
 2. Comments on Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics," Midsouth Philosophy Conference, Rhodes College, 2014.
 4. Referee for Kentucky Graduate School Conference submissions, 2013.
-
-
 
 
 ### AWARDS AND HONORS
@@ -127,12 +117,18 @@ Travel Funding, University of Kentucky Graduate School (2014)
 Teaching Assistantship, University of Kentucky (2012-2016)     
 Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
 
-### ADMINISTRATION POSITIONS
-1. Director of High School Studies (Veritas Academy, 2013-2014)
-2. Master Tutor (Torrey Academy, 2010-2012)
-3. Lecturer (Wheatstone Academy, 2006-2011)
-6. Assistant Director (Wheatstone Academy, 2004-2005)
 
+
+### DISSERTATION
+**Title**: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*   
+**Committee:** David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger      
+**Abstract:** Philippa Foot and John McDowell are united in the affirmation that virtue is 'natural goodness' for human beings. They are also united in endorsing scientific naturalism.  Nevertheless, they are divided in their rival conceptions of 'nature.' 
+
+This dissertation defends and advances upon Foot's view of natural goodness by appealing to "generic propositions," a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. Human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an "external" scientific point of view as well as from an "internal" ethical point of view. 
+
+I articulate neo-Aristotelian accounts of virtue and practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil that is internal to their life form. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
+
+While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
 
 
 ### INVITED PUBLIC TALKS
@@ -147,10 +143,6 @@ Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)
 5. "Goodness, Truth, and Beauty," St. George Church, CA 2010.
 7. "The Virtue of Constancy," Hope Academy, Yorba Linda, CA 2009.
 8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
-
-
-
-
 
 
 
@@ -188,11 +180,6 @@ Metaphysics of Substance and Property. JP Moreland.
 Philosophy of Cosmology and Quantum Physics.  John Bloom.  
 
 
-
-
-
-
-
 ### LANGUAGES
 Reading proficiency in Ancient Greek  
 Speaking fluency in Spanish  
@@ -203,3 +190,26 @@ Society of Medieval and Renaissance Philosophy, 2012-present
 American Philosophical Association, 2014-present   
 Society of Orthodox Philosophers in America, 2014-present  
 International Society for MacIntyrean Enquiry, 2015-present       
+
+
+
+
+### REFERENCES
+
+David Bradshaw, Professor of Philosophy   
+University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859-257-7107\newline
+
+\noindent Dan Breazeale, Professor of Philosophy    
+University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859-257-4376  \newline
+
+\noindent Stefan Bird-Pollan, Associate Professor of Philosophy    
+University of Kentucky, 1421 Patterson. stefanbirdpollan@uky.edu / 859-257-7107  \newline
+
+\noindent Brandon Look, Research Professor of Philosophy     
+University of Kentucky, 1415 Patterson. look@uky.edu / 859-257-1862    \newline
+
+\noindent John Reynolds, President, The Saint Constantine School     
+6000 Dale Carnegie Lane Houston, TX. [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832-975-7075   \newline  
+
+\noindent Chris Bounds, Chair, Philosophy and Religion    
+Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859-858-3511  \newline

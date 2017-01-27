@@ -9,33 +9,13 @@ author_profile: true
 
 <img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
-I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently hold positions as postdoc scholar at the University of Kentucky and philosophy instructor at Asbury University. 
+I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
-My research contributes to contemporary virtue ethics. I provide a contemporary expression of the age-old view that the good life is the rational and virtuous life.  
+My scholarship contributes to contemporary virtue ethics. I provide a contemporary articulation and defense of the view that the good life is the virtuos and rational life.  
 
-I completed my PhD in philosophy in 2017, and hold a master's degree in Orthodox Theology from the University of Balamand. My BA is in Humanities from Biola University.
+I completed my PhD in philosophy in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
 
-- 
-| Contact                |
-|------------------------|
-| 562.23O.292 zero       |
-| keithedbuhler at gmail |
-
-# Research 
-
-<img src="/images/possibleintellect.png" alt="dante-intellect" align="left" hspace="20" height="300" width="300">
-
-My research interests tend to revolve around ethics and naturalism. 
-
-My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
-
-I also investigate related themes in metaethics and the philosophy of science such as the putative fact-value split. Does science have anything to contribute to ethics? Is ethics, in any real sense, a science? 
-
-More broadly, I have a long-standing interest in philosophy of mind, ancient philosophy (especially Plato), and philosophy of religion. 
-
-- [CV](/cv)
-- [Papers](https://uky.academia.edu/KeithBuhler){:target="_blank"}
-
+----
 
 # Teaching
 
@@ -43,41 +23,29 @@ More broadly, I have a long-standing interest in philosophy of mind, ancient phi
 
 For more than ten years, I've helped hundreds of students of all ages to grow intellectually by reflecting on great books, film, art, and their own lives. 
 
-Students tend to enjoy my classrooms which are focused on good books, real conversations, and suffused with humor. 
+Students tend to enjoy my classrooms which are suffused with humor and focused on real conversations about good books. 
 
-- [Teaching statement](/teaching-statement)
+- You can read a longer [teaching statement here.](/teaching-statement)
+- Or check out some [current syllabi (Spring 2017) here](/syllabi)
 
-# Student Feedback
+----
 
-<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
+# Research 
 
-> * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
-> * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
-> * "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
+<img src="/images/possibleintellect.png" alt="dante-intellect" align="left" hspace="20" height="300" width="300">
 
-- [More RateMyProfessors reviews from actual students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+My research interests tend to revolve around ethics and naturalism. 
 
+My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
 
-# Employer Feedback
+I also investigate related themes in metaethics and the philosophy of science such as the putative fact-value split. More broadly still, I have a long-standing interest in philosophy of mind, ancient philosophy (especially Plato), and philosophy of religion. 
 
-> * "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
+- [Papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
+ 
 
+----
 
-# Syllabi
-
-- [Current syllabi (Spring 2017)](/syllabi)
-
-
-- Business Ethics ([Syllabus](/syllabus334))  
-- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-- Philosophy of Religion    
-- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))
-- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))
-- Introduction to Philosophy ([Syllabus](/syllabus200))   
-- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-- Introduction to Logic    
-
-# About Keith
+# About
 
 *For other uses, see [Keith Buhler (disambiguation)](/disambiguation)*
 <img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
@@ -95,3 +63,16 @@ Philosophy is for me a profession and also a way of life. Even after teaching an
 I have about 45 minutes of spare time per month. In that time, I like to draw things, sculpt clay, blog, write fiction, and compose [lists of what I do in my spare time.](https://en.wikipedia.org/wiki/Recursion)
 
 Thanks for visiting. 
+
+----
+
+# Student and Employer Feedback
+
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
+
+> * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
+> * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
+> * "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
+> *  "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
+
+- [More RateMyProfessors reviews from actual students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
