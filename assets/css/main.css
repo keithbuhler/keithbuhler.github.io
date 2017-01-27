@@ -258,8 +258,8 @@ tr,td,th{vertical-align:middle}
 .notice--danger a:hover{color:#8f3937}
 .notice--danger code{background-color:#fef7f7}
 .notice--danger ul:last-child{margin-bottom:0}
-.masthead{position:relative;border-bottom:0px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.2s both;-webkit-animation-delay:0.10s;animation-delay:0.10s;z-index:20; align: center; text-align: center;}
-.masthead__inner-wrap{max-width:800px; align: center; text-align: center; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;} 
+.masthead{float: right; position: relative; left: -50%; /* or right 50% */ text-align: left; border-bottom:0px solid #f2f3f3;-webkit-animation:intro 0.3s both;animation:intro 0.2s both;-webkit-animation-delay:0.10s;animation-delay:0.10s;z-index:20;}
+.masthead__inner-wrap{max-width:800px; float: right; position: relative; left: -50%; /* or right 50% */ text-align: left; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;} 
 .masthead__banner{max-width:100%; color: #3b7aae; margin-left:auto;margin-right:auto;clear:both;padding:1em; font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
 .masthead__title{font-size:2.25em; align:center; text-decoration:none; color: #3b7aae; padding: 15px; margin:20px; text-}
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
@@ -271,8 +271,7 @@ tr,td,th{vertical-align:middle}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none; text-align: center;}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap; text-align: center;}
 .masthead__menu-item--lg{padding-right:1em;font-weight:700; color:#3b7aae;}
-.masthead__menu-item--lgcenter{padding-right:2em;font-weight:700}
-.masthead__menu-item--lgright{float:right; padding-right:2em;font-weight:700}
+.masthead__menu-item--lgcenter{padding-right:2em;font-weight:700; float: right; position: relative; left: -50%; /* or right 50% */ text-align: left;}
 .breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Raleway',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
 .breadcrumbs:after{content:" ";display:block;clear:both}
 .breadcrumbs::after{clear:both;content:"";display:table}
