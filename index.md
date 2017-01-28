@@ -11,9 +11,9 @@ author_profile: true
 
 I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
-My scholarship contributes to contemporary virtue ethics. I provide a contemporary articulation and defense of the view that the good life is the virtuous and rational life.  
+My scholarship contributes to virtue ethics and related fields such as metaethics. I provide a contemporary articulation and defense of the age-old view that virtue is natural, and that the rational life is the good life for human persons.   
 
-I completed my PhD in philosophy in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+I defended my dissertation at the end of last  year and received my PhD in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
 
 ----
 
@@ -21,9 +21,9 @@ I completed my PhD in philosophy in 2017. I hold a master's degree in Orthodox T
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
-For more than ten years, I've helped hundreds of students of all ages to grow intellectually by reflecting on great books, film, art, and their own lives. 
+Over the last 15 years, I've helped hundreds of students of all ages to succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
 
-Students tend to enjoy my classrooms which are suffused with humor and focused on real conversations about good books. 
+Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
 
 - You can read a longer [teaching statement, with student evaluation data, here.](/teaching-statement)
 - Or check out some [current syllabi (Spring 2017) here](/syllabi)
@@ -38,14 +38,14 @@ My research interests tend to revolve around ethics and naturalism.
 
 My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
 
-I also investigate related themes in metaethics and the philosophy of science such as the putative fact-value split. More broadly still, I have a long-standing interest in philosophy of mind, ancient philosophy (especially Plato), and philosophy of religion. 
+I also investigate related themes in metaethics and the philosophy of science such as the putative fact-value split. I argue that practical wisdom is the defining feature of human nature and represents an instance of natural normativity. More broadly still, I have a long-standing interest in philosophy of mind, ancient philosophy (especially Plato), and philosophy of religion. 
 
 - [Papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
  
 
 ----
 
-# About Me
+# Mini Bio
 
 *For other uses, see [Keith Buhler (disambiguation)](/disambiguation)*
 <img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
