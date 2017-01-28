@@ -8,9 +8,9 @@ Thanks for visiting. I hope you find the site informative and easy on the eyes. 
 
 ### Map
 
-The main site consists of five pages: HOME, ABOUT, RESEARCH, TEACHING, and the PHILOSOPHY PORTAL for students. 
+The main site consists of five pages: HOME (RESEARCH, TEACHING, ABOUT), CV,  and the STUDENT PORTAL with philosphy resources for students. 
 
-HOME and ABOUT are self-explanatory. RESEARCH offers a link to my CV, dissertation, and a brief research statement. TEACHING offers links to syllabi, a brief teaching statement, and some reviews from students and employers. The PHILOSOPHY PORTAL invites students to learn the benefits of studying philosophy and coaches them on how to succeed. 
+The HOME page includes links to my dissertation, a brief research statement, links to syllabi, a brief teaching statement, and some reviews from students and employers. 
 
 
 ### Design
