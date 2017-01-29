@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 
-permalink: /students
+permalink: /students/
 header:
       image: 
 sidebar: 

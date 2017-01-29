@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 
-permalink: /publications
+permalink: /publications/
 header:
       image: 
 sidebar: 
