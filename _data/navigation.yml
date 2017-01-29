@@ -1,7 +1,9 @@
 #Main links
 main:
-  - title: "CV"
+  - title: "VITAE"
     url: http://keithbuhler.com/cv
+  - title: "PUBLICATIONS"
+    url: http://keithbuhler.com/publications
   - title: "STUDENT PORTAL"
     url: http://keithbuhler.com/students
 
