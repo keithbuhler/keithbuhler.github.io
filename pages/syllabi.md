@@ -2,10 +2,10 @@
 layout: single
 title: Syllabi
 sidebar:
-    nav: philosophy
+    nav: 
 header: 
-      image: kentucky.jpg
-permalink: /syllabi
+      image: http://www.keithbuhler.com/images/oxford4.png
+permalink: /syllabi/
 feature_row:
   - image_path: http://www.keithbuhler.com/images/syllabus-334.png
     alt: "Business Ethics"
@@ -34,7 +34,15 @@ feature_row:
 {% include feature_row %}
 
 
+- [Intro to Philosophy, Freedom Project Academy](http://www.keithbuhler.com/intro)
 
 ### Prior Syllabi
 
-- [Intro to Philosophy, Freedom Project Academy](http://www.keithbuhler.com/intro)
+- Business Ethics ([Syllabus](/syllabus334))  
+- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+- Philosophy of Religion    
+- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
+- Introduction to Philosophy ([Syllabus](/syllabus200))   
+- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
+- Introduction to Logic   
