@@ -2,7 +2,7 @@
 layout: single
 title: Welcome
 header:
-      image: http://www.keithbuhler.com/images/oxford2.jpg
+      image: http://www.keithbuhler.com/images/oxford3.png
 excerpt: 
 author_profile: true
 ---
