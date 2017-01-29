@@ -23,9 +23,7 @@ I defended my dissertation at the end of last year and received my PhD in 2017. 
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
-Over the last 15 years, I've helped hundreds of students of all ages to succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
-
-Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
+Over the last 15 years, I've helped hundreds of students of all ages to succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
 
 - You can read a longer [teaching statement, with student evaluation data, here.](/teaching-statement)
 - Or check out some [current syllabi (Spring 2017) here](/syllabi)
@@ -34,13 +32,13 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 
 # Research 
 
-![wither](http://www.keithbuhler.com/images/wither-header.png)
+![wither](http://www.keithbuhler.com/images/wither.jpg)
 
 My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
 
 My current project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. More broadly still, I have a long-standing interest in metaphysics and philosophy of mind,  Plato, and philosophy of religion. 
 
-- [Publications](/publications)
+- [A paper being revised for publication](/publications)
 - [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
 
 ----
@@ -67,6 +65,8 @@ Thanks for visiting.
 ----
 
 # Student and Employer Feedback
+
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 
 > * "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
