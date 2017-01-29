@@ -72,7 +72,7 @@ Thanks for visiting.
 > * "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
 > * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
 > * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
-> *  "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
+> *  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
 
 <img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 

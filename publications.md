@@ -3,7 +3,7 @@ layout: single
 title: 
 permalink: /publications/
 header:
-      image: http://www.keithbuhler.com/images/oxford3.png
+      image: http://www.keithbuhler.com/images/oxford4.png
 sidebar: 
       nav: 
 --- 

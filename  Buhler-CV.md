@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 
-permalink: /cv/
+permalink: 
 header:
       image: http://www.keithbuhler.com/images/oxford3.png
 sidebar: 
