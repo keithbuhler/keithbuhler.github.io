@@ -14,7 +14,7 @@ feature_row:
     url: "http://www.keithbuhler.com/business"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/anderson-ecce-homo.jpg
+  - image_path: http://www.keithbuhler.com/images/anderson-ecce-homo2.jpg
     alt: "Introduction to Ethics"
     title: "Introduction to Ethics"
     excerpt: "PHI 130 at UK, Morality and Society."
@@ -33,5 +33,8 @@ feature_row:
 
 {% include feature_row %}
 
+
+
+### Prior Syllabi
 
 - [Intro to Philosophy, Freedom Project Academy](http://www.keithbuhler.com/intro)

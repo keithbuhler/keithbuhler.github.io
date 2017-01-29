@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hello!
+title: Welcome!
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 excerpt: 
