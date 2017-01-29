@@ -1,11 +1,13 @@
 ---
 layout: single
-title: Welcome
+title: Hello!
 header:
       image: http://www.keithbuhler.com/images/oxford3.png
 excerpt: 
 author_profile: true
 ---
+
+<img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
 
 I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
@@ -14,7 +16,6 @@ My scholarship contributes to virtue ethics and related fields such as metaethic
 
 I defended my dissertation at the end of last  year and received my PhD in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
 
-<img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
 ----
 
@@ -39,9 +40,10 @@ My research interests tend to revolve around ethics and naturalism.
 
 My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
 
-I also investigate related themes in metaethics and the philosophy of science such as the putative fact-value split. I argue that practical wisdom is the defining feature of human nature and represents an instance of natural normativity. More broadly still, I have a long-standing interest in philosophy of mind, ancient philosophy (especially Plato), and philosophy of religion. 
+My current project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. More broadly still, I have a long-standing interest in metaphysics and philosophy of mind,  Plato, and philosophy of religion. 
 
-- [Papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
+- [Publications](/publications)
+- [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
  
 
 ----
