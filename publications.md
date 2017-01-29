@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 
-permalink: /students
+permalink: /publications
 header:
       image: 
 sidebar: 
@@ -10,6 +10,6 @@ sidebar:
 
 
 
-The Case for Agnosticism Regarding Causal Closure. *Religious Studies.* (revise and resubmit)
+"The Case for Agnosticism Regarding Causal Closure." *Religious Studies.* (revise and resubmit)
 
-> The case for contemporary physicalism relies heavily on the causal closure principle (CCP). Advocates of CCP tend to be confident that the principle is well-justified not only by persuasive arguments but by an impressive set of data deriving from modern physics and physiology. We here dispute this confidence. 
+> The case for contemporary physicalism relies heavily on the causal closure principle (CCP). Advocates of CCP tend to argue with confidence that the principle is well-justified by persuasive arguments and a set of data deriving from modern physics and physiology. We here dispute this confidence. 
