@@ -1,6 +1,13 @@
 ---
 layout: single
+title: 
+permalink: /cv/
+header:
+      image: http://www.keithbuhler.com/images/oxford3.png
+sidebar: 
+      nav: 
 --- 
+
 
 \begin{center}
 \LARGE

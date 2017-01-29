@@ -1,11 +1,19 @@
 ---
 layout: single
+title: 
 permalink: /cv/
+header:
+      image: http://www.keithbuhler.com/images/oxford3.png
+sidebar: 
+      nav: 
 --- 
 
 <center>
 
-<h2>Curriculum Vitae 2017</h2>  
+
+<h2> Curriculum Vitae 2017</h2>  
+
+<p>Keith Buhler </p>  
 
 <p> Department of Philosophy   </p>
 
@@ -39,6 +47,12 @@ Specialization in Ethics and the History of Philosophy.
 Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion. 
 
 
+### WORKS IN PROGRESS
+1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)
+4. *Becoming What We Are* (book draft complete)
+2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (article in development)
+  
+
 
 
 ### UNIVERSITY TEACHING 
@@ -51,36 +65,10 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 7. Philosophy of C.S. Lewis         (Fall 2016, Asbury)
 8. Virtue Ethics, Ancient and Modern (Spring 2016, Asbury)
 10. Introduction to Logic            (Spring 2013) 
-11. Introduction to Logic           (Fall 2012, UK, as TA under Bob Sandmeyer)
-11. Philosophy of Science           (summer 2004, Biola University, as TA under Nancy Pearcey)
+11. Introduction to Logic           (as TA, Fall 2012, UK, under Bob Sandmeyer)
+11. Philosophy of Science           (as TA, Summer 2004, Biola University, under Nancy Pearcey)
 
 
-
-### SECONDARY SCHOOL TEACHING
-
-12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
-12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
-13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
-14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
-15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
-16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
-17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
-18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
-19. ESL Tutor  (Etum Academy, CA 2010-2012)
-20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
-
-
-### ADMINISTRATION POSITIONS
-1. Director of High School Studies (Veritas Academy, 2013-2014)
-2. Master Tutor (Torrey Academy, 2010-2012)
-3. Lecturer (Wheatstone Academy, 2006-2011)
-6. Assistant Director (Wheatstone Academy, 2004-2005)
-
-### WORKS IN PROGRESS
-1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)
-4. *Becoming What We Are* (book draft complete)
-2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (article in development)
-  
 
 ### PRESENTATIONS
 
@@ -104,15 +92,6 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 4. Referee for Kentucky Graduate School Conference submissions, 2013.
 
 
-### AWARDS AND HONORS
-
-Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)      
-Travel Funding, University of Kentucky Graduate School (2014)     
-Teaching Assistantship, University of Kentucky (2012-2016)     
-Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
-
-
-
 ### DISSERTATION
 **Title**: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*   
 **Committee:** David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger      
@@ -123,6 +102,41 @@ This dissertation defends and advances upon Foot's view of natural goodness by a
 I articulate neo-Aristotelian accounts of virtue and practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil that is internal to their life form. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
 
 While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
+
+
+
+
+
+### SECONDARY SCHOOL TEACHING
+
+12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
+12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
+13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
+14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
+15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
+16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
+17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
+18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
+19. ESL Tutor  (Etum Academy, CA 2010-2012)
+20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
+
+
+### ADMINISTRATION POSITIONS
+1. Director of High School Studies (Veritas Academy, 2013-2014)
+2. Master Tutor (Torrey Academy, 2010-2012)
+3. Lecturer (Wheatstone Academy, 2006-2011)
+6. Assistant Director (Wheatstone Academy, 2004-2005)
+
+
+
+
+
+### AWARDS AND HONORS
+
+Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)      
+Travel Funding, University of Kentucky Graduate School (2014)     
+Teaching Assistantship, University of Kentucky (2012-2016)     
+Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
 
 
 ### INVITED PUBLIC TALKS
@@ -137,41 +151,6 @@ While the normative force of my view is clear, I secure its naturalistic credent
 5. "Goodness, Truth, and Beauty," St. George Church, CA 2010.
 7. "The Virtue of Constancy," Hope Academy, Yorba Linda, CA 2009.
 8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
-
-
-
-### GRADUATE COURSEWORK 
-
-### *Professional Development Courses*
-Proseminar on Teaching Philosophy, David Bradshaw.  
-Preparing Future Faculty, Morris Grubbs.
-
-### *Taken at University of Kentucky*
-
-Seminar on Post-Kantian Ethics: Fichte and Hegel on Right. Dan Breazeale.  
-Seminar on Metaethics: Moral Motivation. Anita Superson.     
-Seminar on Ethics and Bodily Autonomy. Anita Superson.   
-Seminar on Metaethics: Normative Language. Tim Sundell.   
-Metaethics (Dissertation residency). David Bradshaw.    
-Ethical Naturalism (Independent study). David Bradshaw.    
-MacIntyre and After Virtue (Independent study). David Bradshaw.    
-Ethics from Hobbes to Feminism. Anita Superson.     
-Seminar on Plato's Forms and the Death of Gods (audit). Eric Sanday  
-Seminar on Plato's *Philebus* and Timaeus. Eric Sanday.   
-Seminar on Plato’s *Parmenides*. Eric Sanday.  
-Aristotle and Aristotelians on Mind (Independent study). David Bradshaw.  
-Ancient Greek Metaphysics. Eric Sanday.     
-Seminar on Mind and Imagination. Clare Batty.    
-Seminar on Kantian Idealism. Stefan Bird-Pollan.   
-Seminar on Metaphysical Naturalism. David Bradshaw.   
-Philosophy of Religion. David Bradshaw.   
-Symbolic Logic. Tim Sundell.
-
-
-### *Taken at Biola University*
-Philosophy of Mind. JP Moreland.   
-Metaphysics of Substance and Property. JP Moreland.   
-Philosophy of Cosmology and Quantum Physics.  John Bloom.  
 
 
 ### LANGUAGES
