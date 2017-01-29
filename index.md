@@ -7,13 +7,14 @@ excerpt:
 author_profile: true
 ---
 
-<img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
 I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
 My scholarship contributes to virtue ethics and related fields such as metaethics. I provide a contemporary articulation and defense of the age-old view that virtue is natural, and that the rational life is the good life for human persons.   
 
 I defended my dissertation at the end of last  year and received my PhD in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+
+<img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
 
 ----
 
@@ -32,7 +33,7 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 
 # Research 
 
-<img src="/images/possibleintellect.png" alt="dante-intellect" align="left" hspace="20" height="300" width="300">
+![wither](http://www.keithbuhler.com/images/wither-header.png)
 
 My research interests tend to revolve around ethics and naturalism. 
 
@@ -68,11 +69,12 @@ Thanks for visiting.
 
 # Student and Employer Feedback
 
-<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-> * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
+> * "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
 > * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
-> * "I can say that I learned more from this class than any I have taken before." (PHI305, 2015)
+> * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
 > *  "Keith's dynamism, his acumen, and his compassion make him one of Wheatstone Academy's best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
+
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 - [More RateMyProfessors reviews from actual students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
