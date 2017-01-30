@@ -35,9 +35,8 @@ permalink:
 * [Week 1 Syllabus](/slideshows/ethics1syllabus)
 * [Week 1 Pojman, Introduction](/slideshows/ethics1pojman)
 * [Week 2 Nature and Purpose of Morality](http://www.keithbuhler.com/slideshows/ethics2morality)
-* [Week 3 Good and Evil](http://www.keithbuhler.com/slideshows/ethics3goodandevil)
-* [Week 3 Relativism]
-* [Week 4 Utilitarianism]
+* [Week 3 Good and Evil, Relativism](http://www.keithbuhler.com/slideshows/ethics3goodandevil)
+* [Week 4 Utilitarianism](http://www.keithbuhler.com/slideshows/ethics4utilitarianism)
 * [Week 5 Deontological Ethics]
 * [Week 6 Virtue ethics]
 * [Week 7 Feminist ethics]
