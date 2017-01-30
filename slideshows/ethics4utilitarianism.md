@@ -7,9 +7,9 @@ theme: blood
 <section><!--Intro slide begin-->
 <section data-background="http://www.pbs.org/independentlens/revolucion/images/home_pic.jpg" data-markdown>
 
-# Utilitarianism
+## Utilitarianism
 
-## The philosophy of maximizing pleasure
+### The philosophy of maximizing pleasure
 
 
 </section><section data-markdown>
@@ -17,6 +17,16 @@ theme: blood
 ### Utilitarianism: All the points!
 
 ![All the things](http://nearby-pla.net/images/library/slack-emoji/all-the-things-emoji.png)
+
+1. Utilitarianism  is the thesis that “the best moral action is one that maximizes ‘utility’ — pleasure, well-being.” (definition)
+2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
+3. Utilitarianism was founded by Jeremy Bentham
+4. Utilitarianism was updated by John Stuart Mill
+5. Utilitarianism has ancient roots in Epicurus
+6. Utilitarianism is a form of consequentialism, where right and wrong are determined by the consequences of one’s action or character, not the action or character itself. 
+7. Utilitarianism has several modern forms
+8. Utilitarianism is criticized for being unjust, impractical, or amoral. 
+</section><section data-markdown>
 
 1. Utilitarianism  is the thesis that “the best moral action is one that maximizes ‘utility’ — pleasure, well-being.” (definition)
 2. Utilitarianism is a theory of normative ethics, a theory of what to do. 
