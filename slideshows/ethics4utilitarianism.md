@@ -1,22 +1,16 @@
 ---
-title: 
+title: utilitarianism 
 layout: slide
 theme: blood
 ---
 
----
-layout: slide
-title: Utilitarianism
-theme: black
----
-
-<section><!--Begin Day 1—>
-
+<section><!--Intro slide begin-->
 <section data-background="http://www.pbs.org/independentlens/revolucion/images/home_pic.jpg" data-markdown>
 
 # Utilitarianism
 
 ## The philosophy of maximizing pleasure
+
 
 </section><section data-markdown>
 
@@ -225,19 +219,18 @@ Some other forms:
 
 </section><section data-markdown>
 
-
 ### 2 minutes left
 
 * What are your questions?
 * Write a short response to what you've read so far. A question, comment, or thought, to share in class. 
 * Then, review "objections" 
 
+</section><!--End closing slide-->
 </section><!--End day 1-->
-</section>
 
 
-<section>
-<section data-background="http://www.dailypublic.com/sites/default/files/2014/Nov/aristocrats.jpg" data-markdown><!--Begin day 2-->
+<section><!--Begin day 2-->
+<section data-background="http://www.dailypublic.com/sites/default/files/2014/Nov/aristocrats.jpg" data-markdown>
 
 # Objections to Utilitarianism
 
