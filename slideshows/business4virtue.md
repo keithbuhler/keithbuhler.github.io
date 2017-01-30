@@ -130,6 +130,8 @@ Friendship is not just a relationship but an activity -- the activity of being a
 * Rent and watch "Inside Job" (anywhere online!), by yourself or in a group.
 
 
+</section><!--last slide-->
+</section><!--first day-->
 
 
 
@@ -140,7 +142,7 @@ Friendship is not just a relationship but an activity -- the activity of being a
 
 
 
-<section><!--Business and Religion-->
+<section><!--second day, Business and Religion-->
 <section data-background="http://static6.businessinsider.com/image/51f7c97869bedd7154000016-1950-1125/chick-fil-a-in-mall-lg.jpg" data-markdown>
 
 # Business and Religion
