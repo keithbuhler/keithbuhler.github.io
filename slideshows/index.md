@@ -8,26 +8,26 @@ permalink:
 
 ## Business Ethics Slides
 
-* [Week 1a Introduction](/slideshows/business1intro)
-* [Week 1b Truth](/slideshows/business1truth)
+* [Week 1 Syllabus](/slideshows/business1intro)
+* [Week 1 Truth](/slideshows/business1truth)
 * [Week 2 Methods](http://www.keithbuhler.com/slideshows/business2methods)
-* [Week 3 Ethical Theories 1](/slideshows/business3theories1)
-* [Week 4 Ethical Theories 2, Virtue]
-* [Utilitarianism](/slideshows/business3util)
-* [Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
-* [Week 4 Religious Ethics](/slideshows/business4religiousethics)
-* [Week 4 Virtue ethics](http://www.keithbuhler.com/slideshows/business4virtue)
+* [Week 3 Ethical Theories 1 -- Deontology, Utilitarianism](/slideshows/business3theories1)
+* [Week 4 Ethical Theories 2 -- Virtue, Religious Ethics](http://www.keithbuhler.com/slideshows/business4virtue)
 * [Week 5 Capitalism](/slideshows/business5capitalism])
 * [Week 6 CEO Pay]
 * [Week 7 Moral Law]
 * [Week 8 Inside Job (Film)](http://www.keithbuhler.com/slideshows/business6insidejob)
-* [Week 9]
-* [Week 10]
-* [Week 11]
-* [Week 12]
-* [Week 13]
-* [Week 14]
-* [Week 15]
+* [Week 9 Privacy]
+* [Week 10 Lobbying]
+* [Week 11 Employees]
+* [Week 12 Employees]
+* [Week 13 Safety]
+* [Week 14 Moral Businesses]
+* [Week 15 Moral Businesses]
+
+
+* [Utilitarianism](/slideshows/business3util)
+* [Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
 
 
 ## Ethics Slides (2017)
