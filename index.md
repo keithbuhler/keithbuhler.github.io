@@ -74,6 +74,5 @@ Thanks for visiting.
 > * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
 > *  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
 
-<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
-- [More RateMyProfessors reviews from actual students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+- More [RateMyProfessors reviews from actual students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
