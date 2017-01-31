@@ -1,7 +1,7 @@
 ---
 title: Slideshows Index
 layout: philosophy
-permalink: 
+permalink: /slideshows/
 ---
 
 *Under construction*
