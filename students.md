@@ -23,6 +23,8 @@ More importantly, [studying philosophy is can make you happier, wiser, and can h
 <a target="_blank" href="/philosophyportal-splash">  <img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."></a>
 
 <br>
+<br>
+<br>
 
 <a target="_blank" href="http://icanhas.cheezburger.com/lolcats">  <img src="http://vignette1.wikia.nocookie.net/matrix/images/7/7d/Deja_Vu.jpg/revision/latest?cb=20130119093414" alt="Internet Cat"></a>
 
