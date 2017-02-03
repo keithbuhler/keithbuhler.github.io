@@ -8,20 +8,20 @@ main:
     url: http://keithbuhler.com/students
 
 phil:
-  - title: "SYLLABI"
-    url: http://www.keithbuhler.com/syllabi
-  - title: "HOW TO SUCCEED IN PHILOSOPHY"
+  - title: "BEFORE CLASS"
+    url: http://www.keithbuhler.com/philosophy
+  - title: "DURING CLASS"
     url: http://www.keithbuhler.com/philosophy-class
-  - title: "WHAT TO DO NEXT"
+  - title: "AFTER CLASS"
     url: http://www.keithbuhler.com/philosophy-6-next
-
-
+  - title: "FUN STUFF"
+    url: http://www.keithbuhler.com/fun
 
 philosophy:
   - title: "before class"
     children:
       - title: "Start Here"
-        url: http://www.keithbuhler.com//philosophy
+        url: http://www.keithbuhler.com/philosophy
       - title: "Syllabi"
         url: http://www.keithbuhler.com/syllabi
       - title: "Logic 101"
@@ -52,15 +52,13 @@ philosophy:
         url: http://www.keithbuhler.com/philosophy-3-major
       - title: "What about Grad School?" 
         url: http://www.keithbuhler.com/philosophy-7-profession
-  - title: "Fun Stuff"
-    children:
       - title: "Contact me"
         url: http://www.keithbuhler.com/contact
+  - title: "Fun Stuff"
+    children:
       - title: "A Wikipedia Trick"
         url: http://www.keithbuhler.com/wikipedia
-      - title: "Blog"
-        url: http://www.keithbuhler.com/buhlerreport/
-      - title: "More Dr Buhler Things"
+      - title: "Project Sandbox"
         url: http://www.keithbuhler.com/fun
 
 
