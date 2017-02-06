@@ -9,9 +9,8 @@ theme: beige
 
 <section data-markdown>
 
-# Business Ethics Week 08 Capitalism
+# Capitalism
 
-*Who owns all the things?*
 
 
 </section> 
@@ -24,22 +23,20 @@ theme: beige
 
 ### Gaus, "Idea and Ideal of Capitalism"
 
-
-* Capitalism
-* Private property
-* Markets
-* Profit-maximizating firms
-* Context: *capitalism*
+1. **Question** Is capitalism is justifiable?
+2. **Thesis:** Capitalism consists of private property rights, free market, and hierarchical businesses, all of which are defensible. 
+3. **Arguments:** You own yourself and can extend your ownership; markets mutally benefit; and hierarchical businesses are 
+4. **Objections:** You can't own everything; markets do not mutually benefit; tragedy of commons; hierarchy is oppressive. 
+5. **My View:**
+6. **Question:**
 
 </section>
 <section data-markdown>        
 
-
 ### Is capitalism justifiable?
 
-Many who have taught business ethics in universities are uncomfortable with or opposed to capitalism in its present form. 
-
-Marxists are few in the U.S., but many in academia.
+- Many who have taught business ethics in universities are uncomfortable with or opposed to capitalism in its present form. 
+- Marxists are few in the U.S., but many in academia.
 
 </section>
 <section data-markdown>        
@@ -57,6 +54,13 @@ Capital: wealth; i.e., cash or possibly assets like land and employees.
 </section>
 <section data-markdown>        
 
+### Society, Government, Economy
+
+| Government |    Economy     |
+|------------|----------------|
+| Democratic  | Capitalist    |
+| Communist   | Capitalist    |
+| Socialist   | Capitalist    |
 
 ### What is capitalism?
 
@@ -67,12 +71,27 @@ The governement "owns" (and manages them for our communal ownership) public park
 </section>
 <section data-markdown>        
 
+### Alternatives: Communism
+
+- Communism is the "positive abolition of private property" -- Marx. (75)
+
+
+</section>
+<section data-markdown>        
+
+### Alternatives: Socialism
+
+> "a political and economic theory of social organization that advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole."... "(in Marxist theory) a transitional social state between the overthrow of capitalism and the realization of communism."
+
+</section>
+<section data-markdown>        
+
 
 ### Alternatives
 
-- Socialism: "a political and economic theory of social organization that advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole."... "(in Marxist theory) a transitional social state between the overthrow of capitalism and the realization of communism."
+>Like communism, socialism seeks to redistribute the wealth more equitably by the communal ownership of natural resources and major industries, such as banking and public utilities. Socialists also seek to nationalize monopolies, which greatly enrich their owners at the expense of the proletariat. However, unlike communism, most small or nonessential enterprises would remain privately owned. Also unlike the Communists, most socialists do not advocate violence or force to achieve their economic system.[(Citation)](http://thismatter.com/economics/economic-systems.htm)
 
-- Communism is the "positive abolition of private property" -- Marx. (75)
+
 
 </section>
 <section data-markdown>        
