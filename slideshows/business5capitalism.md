@@ -70,32 +70,26 @@ The governement "owns" (and manages them for our communal ownership) public park
 
 ### Alternatives
 
-Socialism: "a political and economic theory of social organization that advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole."
+- Socialism: "a political and economic theory of social organization that advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole."... "(in Marxist theory) a transitional social state between the overthrow of capitalism and the realization of communism."
 
-Communism: "(in Marxist theory) a transitional social state between the overthrow of capitalism and the realization of communism."
-
+- Communism is the "positive abolition of private property" -- Marx. (75)
 
 </section>
 <section data-markdown>        
  
-
-### 2. Private Property
-
-Communism is the "positive abolition of private property" -- Marx. (75)
-
-Capitalism is private property of... what? 
-
-Bob owns some property P. 
+### What is private property? 
 
 * Consumer goods (goods you use, like food, clothes, wifi)
 * Capital goods (goods required for producing other goods, i.e., farm equipment)
-* "Maximally extensive feasible property rights:" Bob gets to use, exclude others from use, manage, to compensation if damaged, waste, use for money, free of government coercion, indefinitely, and to sell or rent. (75-6)
+* Land, Air? Water? Food?
+
 
 </section>
 <section data-markdown>        
 
-### Private Property
+### How Much can you own? 
 
+* "Maximally extensive feasible property rights:" Bob gets to use his property free of government coercion, or private theft: use it, exclude others from using it, manage it, receive compensation if damaged, waste it, trade it, sell it, rent it.  (75-6)
 * In practice, there are limitations on Bob's property rights (zoning laws, historic districts, taxation)
 * Anarcho-capitalism wants *no* taxation (77)
 
@@ -104,11 +98,7 @@ Bob owns some property P.
 
 ### What can be owned?
 
-* Stuff
-* Land
-* Air?
-* Water?
-* Food?
+
 
 
 
@@ -120,6 +110,12 @@ Bob owns some property P.
 ### The Tragedy of commons
 
 ![xkcd](https://imgs.xkcd.com/comics/hotels.png)
+
+</section>
+<section data-markdown>        
+
+
+### The Tragedy of commons
 
 >The tragedy of the commons is an economic theory of a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action.
 
@@ -179,7 +175,21 @@ Is capitalism justifiable?
 * Write a short response
 * Read for next time
 
+</section>
+<section data-markdown>     
 
+1. If capitalism is justifiable, then business ethics can get off the ground. Is it perfect, imperfect, or unjustifiable?
+
+1. Property: Maximally extensive property rights
+      - Can't own everything
+      - Can own yourself
+      - Can extend your self-ownership to things
+      - Agents necessarily own things to be agents
+2. Market: 
+      - Do markets mutually benefit?
+      - Assymetric bargaining relationship
+      - Traedy of commons
+3. Businesses: Hierarchical firms for profit
 
 </section>
 <section data-markdown>        
