@@ -10,8 +10,6 @@ theme: blood
 
 # Deontology
 
-![Kant](http://media1.fdncms.com/stranger/imager/u/original/23848789/feat-kant-570.jpg)
-
 
 </section><section data-markdown>
 
@@ -142,11 +140,17 @@ We should not act morally only on the condition that other people do—we ought 
 * Questions?
 * Write a short response
 * Read about divine command theory
-* 
+
 </section>
 </section>
 
 
 
 
+
+<section><!--begin-->
+<section data-background="https://theindisputabledirt.files.wordpress.com/2014/05/129896-immanuel-kant-1724-1804-philosopher-transcendental-idealism.jpg" data-markdown>
+
+
+# Divine Command Theory
 
