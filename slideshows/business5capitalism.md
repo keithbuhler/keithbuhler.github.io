@@ -4,6 +4,7 @@ title: Capitalism
 theme: beige
 ---
 
+<section>
 <section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
 
 <section data-markdown>
@@ -21,7 +22,7 @@ theme: beige
 
 </section><section data-markdown>
 
-## Gaus, "Idea and Ideal of Capitalism"
+### Gaus, "Idea and Ideal of Capitalism"
 
 
 * Capitalism
@@ -34,7 +35,7 @@ theme: beige
 <section data-markdown>        
 
 
-# Is capitalism justifiable?
+### Is capitalism justifiable?
 
 Many who have taught business ethics in universities are uncomfortable with or opposed to capitalism in its present form. 
 
@@ -43,10 +44,7 @@ Marxists are few in the U.S., but many in academia.
 </section>
 <section data-markdown>        
 
-
-# 1. Capitalism
-
-## What is "capitalism"? 
+###  What is "capitalism"? 
 
 Google: "an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state."
 
@@ -60,7 +58,7 @@ Capital: wealth; i.e., cash or possibly assets like land and employees.
 <section data-markdown>        
 
 
-# What is capitalism?
+### What is capitalism?
 
 MacDonald's owns their stuff. You own your stuff. Starbucks owns their stuff. Keeneland owns their land. 
 
@@ -70,7 +68,7 @@ The governement "owns" (and manages them for our communal ownership) public park
 <section data-markdown>        
 
 
-# Alternatives
+### Alternatives
 
 Socialism: "a political and economic theory of social organization that advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole."
 
@@ -81,7 +79,7 @@ Communism: "(in Marxist theory) a transitional social state between the overthro
 <section data-markdown>        
  
 
-# 2. Private Property
+### 2. Private Property
 
 Communism is the "positive abolition of private property" -- Marx. (75)
 
@@ -96,7 +94,7 @@ Bob owns some property P.
 </section>
 <section data-markdown>        
 
-# Private Property
+### Private Property
 
 * In practice, there are limitations on Bob's property rights (zoning laws, historic districts, taxation)
 * Anarcho-capitalism wants *no* taxation (77)
@@ -104,7 +102,7 @@ Bob owns some property P.
 </section>
 <section data-markdown>        
 
-# What can be owned?
+### What can be owned?
 
 * Stuff
 * Land
@@ -120,31 +118,29 @@ Bob owns some property P.
 
 
 
-# The Tragedy of commons
+### The Tragedy of commons
 
+>“Nor can certain harmful effects of deforestation, or of some methods of farming, or of the smoke and noise of factories, be confined to the owner of the property in question or to those who are willing to submit to the damage for an agreed compensation.  In such instances we must find some substitute for the regulation by the price mechanism.  
 
+>But the fact that we have to resort to the substitution of direct regulation by authority where the conditions for the proper working of competition cannot be created, does not prove that we should suppress competition where it can be made to function.”  (Hayek, 1944)
 
-“Nor can certain harmful effects of deforestation, or of some methods of farming, or of the smoke and noise of factories, be confined to the owner of the property in question or to those who are willing to submit to the damage for an agreed compensation.  In such instances we must find some substitute for the regulation by the price mechanism.  But the fact that we have to resort to the substitution of direct regulation by authority where the conditions for the proper working of competition cannot be created, does not prove that we should suppress competition where it can be made to function.”  (Hayek, 1944)
+</section>
+<section data-markdown>        
+
+## 3. Markets
 
 </section>
 <section data-markdown>        
 
 
-
-# 3. Markets
-
-</section>
-<section data-markdown>        
-
-
-# 4. Profit-maximizating firms
+## 4. Profit-maximizing firms
 
 
 </section>
 <section data-markdown>        
    
 
-# Before you go
+### Before you go
 
 Is capitalism justifiable? 
 
@@ -166,7 +162,7 @@ Is capitalism justifiable?
 
 </section>
 <section data-markdown>        
-
+</section>
 
 
 
