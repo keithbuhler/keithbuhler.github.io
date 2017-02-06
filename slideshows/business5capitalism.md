@@ -4,18 +4,11 @@ title: Capitalism
 theme: beige
 ---
 
-<section>
-<section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
+<section><section data-background="">
 
 <section data-markdown>
 
 # Capitalism
-
-
-
-</section> 
-</section><section data-markdown>
-
 
 ![American flag with businesses:](http://www.activistpost.com/wp-content/uploads/2011/10/american-flag-companies1.jpg)
 
@@ -27,8 +20,8 @@ theme: beige
 2. **Thesis:** Capitalism consists of private property rights, free market, and hierarchical businesses, all of which are defensible. 
 3. **Arguments:** You own yourself and can extend your ownership; markets mutally benefit; and hierarchical businesses are 
 4. **Objections:** You can't own everything; markets do not mutually benefit; tragedy of commons; hierarchy is oppressive. 
-5. **My View:**
-6. **Question:**
+5. **My View:** Capitalism is ______.
+6. **Question:** How do you prevent the tragedy of commons? 
 
 </section>
 <section data-markdown>        
@@ -66,7 +59,7 @@ Capital: wealth; i.e., cash or possibly assets like land and employees.
 
 MacDonald's owns their stuff. You own your stuff. Starbucks owns their stuff. Keeneland owns their land. 
 
-The governement "owns" (and manages them for our communal ownership) public parks, the White House, Frankfurt, military equipment, etc. 
+The government "owns" (and manages them for our communal ownership) public parks, the White House, Frankfurt, military equipment, etc. 
 
 </section>
 <section data-markdown>        
