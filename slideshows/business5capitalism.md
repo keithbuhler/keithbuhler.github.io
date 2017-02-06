@@ -117,10 +117,31 @@ Bob owns some property P.
 <section data-markdown>        
 
 
+### The Tragedy of commons
+
+![xkcd](https://imgs.xkcd.com/comics/hotels.png)
+
+>The tragedy of the commons is an economic theory of a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action.
+
+</section>
+<section data-markdown>        
+
+### The Tragedy of commons
+
+- Who should intervene? 
+- Private conscience, private firm, trade association, non-profit, non-compulsory state body, compulsory state law, or something else
+
+</section>
+<section data-markdown>        
 
 ### The Tragedy of commons
 
 >“Nor can certain harmful effects of deforestation, or of some methods of farming, or of the smoke and noise of factories, be confined to the owner of the property in question or to those who are willing to submit to the damage for an agreed compensation.  In such instances we must find some substitute for the regulation by the price mechanism.  
+
+</section>
+<section data-markdown>        
+
+### The Tragedy of commons
 
 >But the fact that we have to resort to the substitution of direct regulation by authority where the conditions for the proper working of competition cannot be created, does not prove that we should suppress competition where it can be made to function.”  (Hayek, 1944)
 
