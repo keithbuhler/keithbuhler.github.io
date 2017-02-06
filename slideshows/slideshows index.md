@@ -37,7 +37,7 @@ permalink: /slideshows/
 * [Week 2 Nature and Purpose of Morality](http://www.keithbuhler.com/slideshows/ethics2morality)
 * [Week 3 Good and Evil, Relativism](http://www.keithbuhler.com/slideshows/ethics3goodandevil)
 * [Week 4 Utilitarianism](http://www.keithbuhler.com/slideshows/ethics4utilitarianism)
-* [Week 5 Deontological Ethics]
+* [Week 5 Deontological Ethics](http://www.keithbuhler.com/slideshows/ethics5deontology)
 * [Week 6 Virtue ethics]
 * [Week 7 Feminist ethics]
 * [Week 8 Egoism]

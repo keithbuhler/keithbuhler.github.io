@@ -26,7 +26,7 @@ How and why to do business ethics
 
 1. Business ethics is "morally intentioned" (23), aimed at understanding philosophically *how we should act*
 2. Business ethics is scientifically informed -- aimed and understanding empirically *how we do act*
-<<<<<<< HEAD
+
 3. Business ethics is about manager/corporation dynamic. Who is responsible for the business, the leader or the whole group? 
 
 </section> <section data-markdown>
@@ -89,10 +89,8 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 
 ### Philosophically Informed
 
->>>>>>> origin/master
 - Business ethicists, business leaders, and business school teachers need moral philosophy to justify practical approaches to business. 
 - There are four or five main theories! (We will discuss some next week) that sometimes offer conflicting practical direction.
-
 
 
 </section> <section data-markdown>
@@ -107,17 +105,12 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 </section> <section data-markdown>
 
 
-<<<<<<< HEAD
 ## Scientifically Informed
-=======
-### Scientifically Informed
->>>>>>> origin/master
 
 1. "Co-presence of normative and descriptive methodologies" (23) means that we also have to study how businesses work
 2. Business ethics then draws from work in economics, political science, psychology and social psychology, ethnography, anthropology, sociology. 
 2. It draws on game theory, study of ethical conduct, and misconduct, such as lying, cheating, stealing, whistle-blowing, bribery, environmental abuse, and so one. 
-<<<<<<< HEAD
-=======
+
 
 </section> <section data-markdown>
 
@@ -149,7 +142,7 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 ## "Integrated Social Contract Theory" (ISCT) 
 
 5. ISCT integrates macrosocial contracts that take precedence, religious, philosophical, social beliefs, with microsocial agreements, in communities, regions, businesses, etc. 
-<<<<<<< HEAD
+
 
 
 </section> <section data-markdown>
@@ -160,14 +153,6 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 - They also presume the autonomy and moral agency of those working in business environments. 
 - In contrast, empirical research or is use the language of description and empirical methods to measure, explain, and predict behavior in organizations. 
 - Their scientific orientation leads them to hold a more deterministic view of human nature." (31)
-=======
->>>>>>> origin/master
-
-</section> <section data-markdown>
-
-### A tension between normative and descriptive methods. (31) 
-
->Normatively inclined business ethicist can us language that involves critical rational analysis of arguments. They also presume the autonomy and moral agency of those working in business environments. In contrast, empirical research or is use the language of description and empirical methods to measure, explain, and predict behavior in organizations. Their scientific orientation leads them to hold a more deterministic view of human nature. (31)
 
 </section> <section data-markdown>
 
@@ -179,29 +164,22 @@ Stakeholders = "communities, employees, consumers" contractors, neighbors, etc. 
 
 </section> <section data-markdown>
 
-<<<<<<< HEAD
 ## Individual Decision Making
 
 4. The Stakeholder theory shows how the Corporate Social Responsibility has other aims besides profit. 
-=======
+
 ### Individual Decision Making
 
->>>>>>> origin/master
+
 4. A second effect of focusing on individual managers is understanding how individual decisions exist within a system that supports or doesn't lead to ethical conduct. (33). 
 
 </section><section data-markdown>
 
-<<<<<<< HEAD
+
 ## Individual Decision Making
 
 5. John Boatright argued that the Moral Manager Model "rests on the assumption that the business organization is the fundamental unit of analysis for business ethics" when it should be "the market itself", a system of businesses, economic systems such as capitalism, and even the laws.
-=======
-## Some broader reflections on business
->>>>>>> origin/master
 
-**Here’s the question: What is the point of business?**
-
-<<<<<<< HEAD
 ## Some broader reflections on business
 
 **Here’s the question: What is the point of business?**
