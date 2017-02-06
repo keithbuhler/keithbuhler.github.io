@@ -4,9 +4,8 @@ title: Capitalism
 theme: beige
 ---
 
-<section><section data-background="">
-
-<section data-markdown>
+<section>
+<section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
 
 # Capitalism
 
