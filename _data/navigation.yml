@@ -18,10 +18,9 @@ phil:
     url: http://www.keithbuhler.com/fun
 
 philosophy:
-  - title: "before class"
+  - title: "Start Here"
+    url: http://www.keithbuhler.com/philosophy
     children:
-      - title: "Start Here"
-        url: http://www.keithbuhler.com/philosophy
       - title: "Syllabi"
         url: http://www.keithbuhler.com/syllabi
       - title: "Logic 101"
@@ -32,7 +31,7 @@ philosophy:
     children:
       - title: "How to Succeed "
         url: http://www.keithbuhler.com/philosophy-class
-      - title: "Reading Philosophy"
+      - title: "Reading"
         url: http://www.keithbuhler.com/reading
       - title: "Participation"
         url: http://www.keithbuhler.com/participation
@@ -40,6 +39,8 @@ philosophy:
         url: http://www.keithbuhler.com/disputations
       - title: "Disputation Topics"
         url: http://www.keithbuhler.com/disputation-topics
+      - title: "Critical Readings"
+        url: http://www.keithbuhler.com/critical-reading
       - title: "Slideshows"
         url: http://www.keithbuhler.com/slideshows
       - title: "Extra Credit"
@@ -55,11 +56,7 @@ philosophy:
       - title: "Contact me"
         url: http://www.keithbuhler.com/contact
   - title: "Fun Stuff"
-    children:
-      - title: "A Wikipedia Trick"
-        url: http://www.keithbuhler.com/wikipedia
-      - title: "Project Sandbox"
-        url: http://www.keithbuhler.com/fun
+    url: http://www.keithbuhler.com/fun
 
 
 future:

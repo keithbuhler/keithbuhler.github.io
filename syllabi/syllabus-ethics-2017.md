@@ -69,64 +69,65 @@ F       Feb-3  Discussion (Buhler)  and Writing Workshop for Unit Paper 1
 (Unit Paper 1, Nature of Morality Due Monday by Midnight)    
 M       Feb-6  Chapter 5, Introduction; "Immanual Kant" and "Kant's Theory" (237-259)  
 W       Feb-8  "Does Morality Depend on Religion?" and "Divine Command Theory" (294-300)  
-F       Feb-10  Discussion of Deontological ethics (Group 1)   
+F       Feb-10  Discussion of Deontological ethics 
 
 ### Week 6 Virtue Ethics
 M       Feb-13  Chapter 6, Introduction; Aristotle, "Virtue Ethics" and MacIntyre "the Virtues", (314-346)  
 W       Feb-15  "Sermon on the Mount" (388-391) and "Stoic Catechism" (415-425)  
-F       Feb-17  Discussion on Virtue Ethics (Group 2)   
+F       Feb-17  Discussion on Virtue Ethics (Group 1)   
 
 ### Week 7 Feminist Ethics 
 M       Feb-20  Chapter 7, Introduction; "Feminist Ethics" (439-456)   
 W       Feb-22  "The Need for More than Justice", and "Ethics of Care" (465-490)  
-F       Feb-24  Discussion on Feminist Ethics  (Group 3)   
+F       Feb-24  Discussion on Feminist Ethics (Group 2)   
 
 
 ### Week 8 Egoism 
 (Unit Paper 2, Moral Theories Due Monday by Midnight)    
 M       Feb-27  Chapter 8, Introduction; Plato, "Ring of Gyges" and Rand, "In Defense of Ethical Egoism" (495-513)    
 W       Mar-1  Chapter 8, Pojman, "Egoism and Altruism" and "Critique of Ethical Egoism" (521)   
-F       Mar-3  Discussion on Egoism  (Group 4)  
+F       Mar-3  Discussion on Egoism   (Group 3)   
 
 ### Week 9 The Meaning of Life
 M       Mar-6  Chapter 9 Introduction; Voltaire, "Good Brahmin", Epicurus "Hedonism" (534-545)   
 W       Mar-8  Camus "Life is Absurd", and Pojman "Religion gives meaning to life" (545-557), and Russell, "Reflections on Suffering" 569-571  
-F       Mar-10  Discussion on Meaning of Life  (Group 5)     
+F       Mar-10  Discussion on Meaning of Life  (Group 4)  
 
 ### Break Mar 13-17
 
 ### Week 10 Autonomy
 M       Mar-20  Chapter 10, Introduction; King "I have a dream", "Experiment in Autonomy" (573-593)   
 W       Mar-22  Sartre, "Existentialism is a Humanism" (593-601); Vonnegut "Harrison Bergeron" (612-617)   
-F       Mar-24   Discussion on Autonomy (Group 6) 
+F       Mar-24   Discussion on Autonomy (Group 5)     
 
  
 ### Week 11 Sexual Ethics  
 (Unit Paper 3, Moral Issues Due by Midnight)     
 M       Mar-27  Chapter 11, Introduction; Kant, "On the Place of Sex", McMurtry "Monogamy: A Critique", and Bayles, "Marriage, Love, and Procreation" (619-635)   
 W       Mar-29  Levin "Homosexuality is Abnormal", Corvino "A Defense of Homosexuality" (664-688)   
-F       Mar-31  Discussion on Sexual Ethics (Group 7)    
+F       Mar-31  Discussion on Sexual Ethics (Group 6)  
 
 ### Week 12  Abortion
 M       Apr-3  Chapter 12, Introduction; Marquis, "Why Abortion is Immoral" (689-709)    
 W       Apr-5  Thomson, "A Defense of Abortion" (710-727)   
-F     Apr-7 Discussion on Abortion (Group 8)    
+F     Apr-7 Discussion on Abortion (Group 7)    
 
 ### Week 13 Euthanasia 
 M       Apr-10 Chapter 13, Introduction; Brock "Voluntary Active Euthanasia" (760-780)   
 W       Apr-12 Gay-Williams, "The Wrongfulness of Euthanasia" (781)  
-F       Apr-14   Discussion on Euthanasia (Group 9)  
+F       Apr-14   Discussion on Euthanasia (Group 8)    
 
 ### Week 14 Animal Rights
 M       Apr-17  Chapter 14, Introduction; Orwell "Shooting an Elephant" (793-800)     
 W       Apr-19 Singer "All Animals are Equal", Cohen "The Case Against Animal Rights" (801-820)     
-F       Apr-21   Discussion on Animal rights (Group 10)     
+F       Apr-21   Discussion on Animal rights (Group 9)   
 
 
 ### Week 15 Globalism 
 (Unit Paper 4, Moral Problems due Monday by Midnight)     
-M     Apr-24 Chapter 16, Introduction; Hardin "Living on a Lifeboat" (852-871)  
-W     Apr-26 Murdoch, "A Critique of Lifeboat Ethics" (872-887)   
+M     Apr-24 Chapter 16, Introduction; Hardin "Living on a Lifeboat" (852-871)  (Group 10)     
+
+W     Apr-26 Murdoch, "A Critique of Lifeboat Ethics" (872-887)   Group 10  
 F     Apr-28 Discussion on Globalism  (Buhler)  and Term Paper Work Shop
 
 ### Finals Week  
@@ -143,7 +144,7 @@ PHI 130 is a UK Core class that satisfies Community, Culture and Citizenship in 
 political and ethical perspectives, and socioeconomic class; engage students in grappling with conflicts, compromises, and/or ethical dilemmas stemming from the complex and diverse
 cultural contexts of US communities; and foster effective and responsible participation in a diverse community or society in the United States.
 
-Part of satisfying this learning goal will be doing outside research for your Term Paper. You will write on one of the specific Ethical Problems discussed in class. You will expand the disputation format of the Unit Paper in the Term Paper, and will include more outside research. 
+Part of satisfying this learning goal will be doing outside research for your Term Paper. You will write on one of the specific Ethical Problems discussed in class. You will expand the disputation format of the Unit Paper in the Term Paper, with an introduction, conclusion, and additional outside research. 
 
 
 {% include boilerplate.html %}
