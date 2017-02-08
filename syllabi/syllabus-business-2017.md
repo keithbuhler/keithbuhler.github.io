@@ -91,14 +91,14 @@ F       Feb-10  Discussion of Capitalism and Stock Market
 
 
 ### Week 6 Economic Justice
-M       Feb-13  Goodpastor, "Corporate Responsibility and its Constituents"  
+M       Feb-13  Goodpastor, "Corporate Responsibility and its Constituents"   
 W       Feb-15  Boatright, "Executive Compensation"   
 F       Feb-17  Discussion of Economic Justice and CEO Pay   
 
 ### Week 7 Universal Norms
 (Unit paper 2 - CEO pay Due Monday at midnight)  
-M       Feb-20  Beauchamp, "Relativism, Multiculturalism, and Universal Norms"  
-W       Feb-22  Gould, "Moral Issues in Globalization"      
+M       Feb-20  Beauchamp, "Relativism, Multiculturalism, and Universal Norms"  (Group 1)   
+W       Feb-22  Gould, "Moral Issues in Globalization"      (Group 2)   
 F       Feb-24  [Kreeft, "Moral Law" handout](https://docs.google.com/document/d/1YpvuIGx7Ld2vUYDpchOERIQbXL8PUZha_WixeD7vCHo/edit#heading=h.oznftkhgiu5u), and Discussion of Moral Norms  
 
 
@@ -109,32 +109,32 @@ F       Mar-3  Inside Job Part V and discussion
 
 ### Week 9 Information
 (Unit paper 3 - Moral Law Due Monday at midnight)    
-M       Mar-6  Deception and Information Disclosure    
-W       Mar-8  Intellectual Property Rights   
+M       Mar-6  Deception and Information Disclosure    (Group 3)   
+W       Mar-8  Intellectual Property Rights   (Group  4)   
 F       Mar-10  Discussion   
 
 ### Break Mar 13-17
 
 ### Week 10 Incentives    
-M       Mar-20  Conflicts of Interest   
-W       Mar-22  Business in Politics: Lobbying   
+M       Mar-20  Conflicts of Interest   (Group  5)   
+W       Mar-22  Business in Politics: Lobbying  (Group  6)    
 F       Mar-24   Discussion    
 
  
 ### Week 11 Affirmative Action
 (Unit Paper 4 - Deception or Lobbying, Due Monday at midnight)   
-M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity   
+M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity  (Group  7)    
 W       Mar-29  Boxill, Discrimination, Affirmative Action, and Diversity    
 F       Mar-31  Discussion of Affirmative Action    
 
 ### Week 12  Employee Rights
-M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity    
+M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity    (Group  8)   
 W       Apr-5  Brenkert, Whistle-Blowing, Moral Integrity    
 F     Apr-7 Discussion   
 
 ### Week 13 Safety   
-M       Apr-10 Arnold, Working Conditions   
-W       Apr-12 Hasnas, The Mirage of Product Safety   
+M       Apr-10 Arnold, Working Conditions   (Group  9)   
+W       Apr-12 Hasnas, The Mirage of Product Safety  (Group  10)    
 F       Apr-14   Discussion of Safety  
 
 ### Week 14 Moral Organizations
