@@ -5,7 +5,7 @@ theme: beige
 ---
 
 <section>
-<section data-background="https://https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif">
+<section data-markdown>
 
 # Capitalism
 
@@ -105,18 +105,50 @@ The government "owns" (and manages them for our communal ownership) public parks
 * Anarcho-capitalism wants *no* taxation (77)
 
 </section>
-<section data-markdown>        
+<section data-markdown>  
 
-### What can be owned?
+### Recap
 
+1. If capitalism is justifiable, then business ethics can get off the ground. Is it perfect, imperfect, or unjustifiable?
+2. Property: Maximally extensive property rights
+      - Can't own everything
+      - Can own yourself
+      - Can extend your self-ownership to things
+      - Agents necessarily own things to be agents
+3. Markets: 
+      - Do markets mutually benefit?
+      - Assymetric bargaining relationship
+      - Tragedy of commons      
 
+</section><section data-markdown>        
 
+## 2. Market Problems 
 
+- Mutual benefit?
+- Inequality?
+- Tragedy of commons?
 
+</section><section data-markdown>        
 
-</section>
-<section data-markdown>        
+### Mutual Benefit
 
+- If we voluntarily trade, must one of us lose? (Zero-sum)
+- If we voluntarily trade, can we both win (Non-zero-sum)
+- 83, "The market is the law of the jungle, the law of nature."
+- Pizza and beer
+- "Market transactions are built on a foundation of trust" (84)
+
+</section><section data-markdown>        
+
+### Inequality
+
+- The market is not fair
+- "Assymetric bargaining power", i.e., extortion and gauging.
+- Watering hole example (85)
+- A-Z, A'-Z' marriages example -- are Z and Z' free? 
+- A defense of capitalism shows that the market increases choices overall
+
+</section><section data-markdown>        
 
 ### The Tragedy of commons
 
@@ -124,8 +156,7 @@ The government "owns" (and manages them for our communal ownership) public parks
 
 </section>
 <section data-markdown>        
-
-
+    
 ### The Tragedy of commons
 
 >The tragedy of the commons is an economic theory of a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action.
@@ -153,20 +184,42 @@ The government "owns" (and manages them for our communal ownership) public parks
 >But the fact that we have to resort to the substitution of direct regulation by authority where the conditions for the proper working of competition cannot be created, does not prove that we should suppress competition where it can be made to function.”  (Hayek, 1944)
 
 </section>
-<section data-markdown>        
-
-## 3. Markets
-
-</section>
-<section data-markdown>        
+<section data-markdown>         
 
 
-## 4. Profit-maximizing firms
+## 4. Problems with Profitable Business
 
+- Hierarchy efficient but unjust?
+- Businesses themselves are  socialist micro-societies
+- Profit is theft? 
 
 </section>
 <section data-markdown>        
-   
+
+### Hierarchy
+
+
+</section><section data-markdown>    
+
+
+### Business as Socialist Society
+
+
+
+
+</section><section data-markdown>    
+
+
+### Profit
+
+- Scrooge kept all profits too himself
+- Yet markets reward those who do not *only* seek profit
+- Shareholder owned companies are more complex.
+
+
+
+
+</section><section data-markdown>    
 
 ### Before you go
 
@@ -201,6 +254,9 @@ Is capitalism justifiable?
       - Assymetric bargaining relationship
       - Traedy of commons
 3. Businesses: Hierarchical firms for profit
+      - Group ownership
+      - Hierarchies are more efficient
+      - Businesses are little socialist societies; while Society is anarchic
 
 </section>
 <section data-markdown>        
