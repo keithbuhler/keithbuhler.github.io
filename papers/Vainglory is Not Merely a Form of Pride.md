@@ -9,11 +9,12 @@ Keith Buhler
 University of Kentucky    
 February 2017  
 
-
+[PDF version](/papers/Vainglory is Not Merely a Form of Pride.pdf)
 
 
 >**Abstract**: Contemporary virtue ethicists rarely, if ever, address vainglory or *kenodoxia*. Instead, vainglory is often conflated with pride or dismissed as a petty vice. In this paper, I argue that vainglory is not merely a form of pride but one of three major roots of sin having to do with the lust of the eyes. Drawing on Scriptural, patristic, and contemporary writings, I show that vainglory is a distinctive craving for seeing and being seen which manifests in a multitude of forms, some familiar (such as clothes) and others less familiar. The virtues of which vainglory is a counterfeit include both obscurity and true glory from God.
 
+----
 
 >Our elders admirably describe the nature of this malady [of vainglory] as like that of an onion, and of those bulbs which when stripped of one covering you find to be sheathed in another; and as often as you strip them, you find them still protected.
  -- St. John Cassian, Institutions, XI, Chapter 5.
