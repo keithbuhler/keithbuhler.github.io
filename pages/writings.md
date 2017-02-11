@@ -19,6 +19,7 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 ### Books
 
 * [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
+* [Becoming Who We Are](/phd)
 
 
 ### Philosophical Dialogues
