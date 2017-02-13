@@ -6,7 +6,7 @@ theme: sky
 
 
 <section>
-<section data-background="https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif" data-markdown>
+<section data-background="" data-markdown>
 
 ## Corporate Responsibility
 
@@ -15,7 +15,7 @@ theme: sky
 </section><section data-markdown>
 ### Intro
 
-- The standard model involves:
+The standard model involves:
 - individual
 - corporation
 - and society as a whole. 
