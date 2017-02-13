@@ -14,7 +14,7 @@ permalink: /slideshows/
 * [Week 3 Ethical Theories 1 -- Deontology, Utilitarianism](/slideshows/business3theories1)
 * [Week 4 Ethical Theories 2 -- Virtue, Religious Ethics](http://www.keithbuhler.com/slideshows/business4virtue)
 * [Week 5 Capitalism](/slideshows/business5capitalism)
-* [Week 6 CEO Pay]
+* [Week 6 CEO Pay](/slideshows/business6ceopay)
 * [Week 7 Moral Law]
 * [Week 8 Inside Job (Film)](http://www.keithbuhler.com/slideshows/business6insidejob)
 * [Week 9 Privacy]
