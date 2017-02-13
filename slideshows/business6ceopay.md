@@ -85,12 +85,21 @@ The standard model involves:
 
 - British American Tobacco (141) -- providing tobacco to customers
 - Velcisol (146) -- trying to create an international label system
-- Advamed (148) -- 
-- Wells Fargo, BofA (149) -- ignoring legal immigration status
+- Advamed (148) -- self-regulating on "hospitality" spending: meals, travel, lodging, gifts, etc. 
+- Wells Fargo, BofA (149) -- ignoring legal immigration status in accepting IDs
+- Dayton Hudson Corporation DHC (149) -- underwent a hostile takeover
+
+
+</section><section data-markdown>     
+
+* Questions?
+* Write a short response
+* Read for next time, CEO Compensation
 
 
 </section>
 </section>
+
 
 <section> 
 <section data-markdown>
