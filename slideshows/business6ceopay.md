@@ -8,7 +8,9 @@ theme: sky
 <section>
 <section data-background="https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif" data-markdown>
 
-# Corporate Responsibility
+## Corporate Responsibility
+
+![corporate](https://marxistleninist.files.wordpress.com/2009/01/revolution2.gif)
  
 </section><section data-markdown>
 ### Intro
@@ -76,7 +78,6 @@ theme: sky
 ### Human Dignity and Just Community
 
 - The comprehensive view takes into account one's neighbor and society as a whole
-- 
 
 
 </section><section data-markdown>
