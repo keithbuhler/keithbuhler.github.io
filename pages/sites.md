@@ -1,14 +1,11 @@
 ---
-title: Hire me
+title: Web Design
 layout: single
 permalink: /sites
 header:
       image:
 ---
 
-Do you need an academic website? [Hire me!](emailto:info@keithbuhler.com)
-
-## Design
 
 You have three options: 
 
@@ -28,6 +25,8 @@ You have three options:
 
 
 ## Cost
+
+Do you need an academic website? [Hire me!](emailto:info@keithbuhler.com)
 
 Your own lovely, professional academic site is available for a low initial cost of $100, plus a monthly $5 fee for domain, hosting, site maintenance, and webmaster services. 
 
