@@ -102,36 +102,80 @@ The standard model involves:
 
 
 <section> 
-<section data-markdown>
+<section data-markdown data-background="http://cp91279.biography.com/1000509261001/1000509261001_1822941199001_BIO-Biography-31-Innovators-Steve-Jobs-115958-SF.jpg">
 
 ## Executive Compensation: Just or Unjust? 
 
 *By John Boatright*
 
 </section><section data-markdown>
-### 
+### Unfair or Unjust?
+
+![cartoon](http://3.bp.blogspot.com/-48W_vqTc_n4/UVNVe-gI0TI/AAAAAAAAQLc/FUrF8u2JeIg/s1600/CEO+pay.jpg)
+
+- Critics are convinced that *something* is wrong with high CEO pay
+- But "seldom articulate the grounds"
+
+</section><section data-markdown>
+### Unfair or Unjust?
 
 
 
 
 
 </section><section data-markdown>
-### 
+### Boatright's Thesis
+
+1. Is high CEO pay justifiable within a capitalist, free-market framework? 
+2. Yes. "The principles of compensation in a free market capitalist system are easily identified and widely accepted." (162)
+
+</section><section data-markdown>
+### Arguments
+- "The conditions are that the bargaining between a CEO and shareholders not involve fraud or a breach of fiduciary duty." 
+- "If these conditions are met, then the agreements made by arm's length bargaining are not morally objectionable."
+- "The market for CEOs may be imperfect in ways that are not morally objectionable but are possibly socially undesirable."
+- "The current high level of executive pay is due to significant changes in the world economy in the past few decades."
+- "Once these changes are understood, then high... CEO pay can be shown to be justified by widely accepted normative principles."
+- "The driver of high executive compensation is the power that shareholders have in corporate governance." (163)
+- "Ultimately, the debate over executive compensation becomes a question of the justification of shareholder-centered system of corporate governance."
+
+</section><section data-markdown>
+### Objections (170)
+
+- Simply too big
+- No correlation of pay to performance
+- Ratio of lowest paid to highest paid
+- Who enforces ratio?
+- Unjust increases in pay
+- Not the right incentive for CEOs to work hard
+- Too much incentive for CEOs to work hard
+- Determining pay is not arms-length transaction
+- Happenstance determines pay
 
 
+</section><section data-markdown>
+### Justifying (172)
+
+P1. Each person has a right to whatever he gains by exchanging his property through voluntary transactions. 
+P2. Each person has a right to the full value of whatever he produces. 
 
 
 
 </section><section data-markdown>
-### 
+### History (163)
 
-
-
+- Structure of CEO Pay: salary, bonuses, stocks and options, and incentives + golden handshakes and golden parachutes. 
+- LTIP (long term incentive plans) incentive minimal performance threshold 
+- The largest increase is the increase in stock values since 1993
+- In 1993, average S&P 500 CEO pay was $4 mil, rose to $17 mil by 2000. 
+- Pre-1963, CEOs were paid as managers not entrepreneurs.
+- 
 
 
 </section><section data-markdown>
-### 
+### Entrepreneur v Manager (186)
 
+Entrepreneurs take more risk, create value from nothing
 
 
 
