@@ -188,7 +188,7 @@ What is it that humans do but no other creature does?
 <section><!--second day, Christian and Stoic virtue-->
 <section data-background="https://static1.squarespace.com/static/51c946cde4b0f05142538988/5278a958e4b085eb5a855185/5588dcb4e4b0eb99d4b7b40e/1435099147791/?format=1500w" data-markdown>
 
-# Stoic and Christian Virtue
+### Stoic and Christian Virtue
 
 - Stoics
 - Sermon on the Mount
