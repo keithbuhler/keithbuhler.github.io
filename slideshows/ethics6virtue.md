@@ -190,6 +190,9 @@ What is it that humans do but no other creature does?
 
 ### Stoic and Christian Virtue
 
+<br>
+<br>
+
 - Stoics
 - Sermon on the Mount
 
