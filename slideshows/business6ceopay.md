@@ -111,13 +111,13 @@ The standard model involves:
 </section><section data-markdown>
 ### Unfair or Unjust?
 
-![cartoon](http://3.bp.blogspot.com/-48W_vqTc_n4/UVNVe-gI0TI/AAAAAAAAQLc/FUrF8u2JeIg/s1600/CEO+pay.jpg)
-
 - Critics are convinced that *something* is wrong with high CEO pay
 - But "seldom articulate the grounds"
 
 </section><section data-markdown>
 ### Unfair or Unjust?
+
+![cartoon](http://3.bp.blogspot.com/-48W_vqTc_n4/UVNVe-gI0TI/AAAAAAAAQLc/FUrF8u2JeIg/s1600/CEO+pay.jpg)
 
 
 
@@ -168,32 +168,23 @@ P2. Each person has a right to the full value of whatever he produces.
 - LTIP (long term incentive plans) incentive minimal performance threshold 
 - The largest increase is the increase in stock values since 1993
 - In 1993, average S&P 500 CEO pay was $4 mil, rose to $17 mil by 2000. 
-- Pre-1963, CEOs were paid as managers not entrepreneurs.
-- 
+
 
 
 </section><section data-markdown>
 ### Entrepreneur v Manager (186)
 
-Entrepreneurs take more risk, create value from nothing
-
-
-
-
-</section><section data-markdown>
-### 
-
-
-
-
+- Pre-1963, CEOs were paid as managers not entrepreneurs.
+- Entrepreneurs take more risk, create value from nothing
 
 
 
 </section><section data-markdown>     
 
-* Questions?
-* Write a short response
-* Read for next time
+* Is something wrong with high CEO Pay?
+* Or are CEOs lucky and/or skilled? 
+* Bring discussion questions and thoughts for Friday
+* Groups 1 & 2 present next week
 
 
 </section>
