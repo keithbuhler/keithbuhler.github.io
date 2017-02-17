@@ -265,7 +265,7 @@ tr,td,th{vertical-align:middle}
 .masthead__inner-wrap{max-width:1000px; margin-left:auto;margin-right:auto;clear:both;padding:0.4em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;} 
 .masthead__banner{max-width:100%; color:; margin-left:auto;margin-right:auto;clear:both;padding:0em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
 .masthead__title{font-size:2.25em; align:center; text-decoration:none; color: #3b7aae; padding: 15px; margin:20px; text-}
-.site-title{font-size:1.1em; text-decoration:none; color: #3b7aae; padding: 15px; margin:15px; text-}
+.site-title{font-size:1.1em; align:left; text-decoration:none; color: #3b7aae; padding: 15px; margin:15px; text-}
 .site-title:hover{color: crimson; }
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
