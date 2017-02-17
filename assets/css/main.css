@@ -269,20 +269,20 @@ tr,td,th{vertical-align:middle}
 .masthead{position:relative; background:#3b7aae; color:#fff;animation:intro 0.3s both; animation-delay:0.10s;z-index:20;}
 .masthead__inner-wrap{max-width:1000px; margin-left:auto;margin-right:auto;clear:both;padding:0.45em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; background:#3b7aae; color:#fff;} 
 .masthead__banner{max-width:100%; color:#fff; margin-left:auto;margin-right:auto;clear:both;padding:0em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
-.masthead__title{font-size:2.25em; align:center; text-decoration:none; color:#fff; padding: 15px; margin:20px; text-}
+.masthead__title{font-size:2.25em; align:center; text-decoration:none; background:#3b7aae;color:#fff; padding: 15px; margin:20px; text-}
 .site-title{font-size:1.1em; display: inline; text-decoration:none; color:#fff; padding: 15px; margin:15px; text-}
-.site-title:hover{color: crimson; }
+.site-title:hover{color:#fff; }
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
 }
 .masthead__inner-wrap nav{z-index:10}
-.masthead__inner-wrap a{text-decoration:none; background:#3b7aae; color:#fff}
+.masthead__inner-wrap a{text-decoration:none; background:#3b7aae;color:#fff;}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none;}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap;}
-.masthead__menu-item--lg1{font-size: 1em; padding-right:5fem;font-weight:800; color:#3b7aae;}
-.masthead__menu-item--lg{padding-right:1em;font-weight:800; color:#3b7aae; float:right;}
-.masthead__menu-item--lgright{float:right; position: relative; right: 50%; padding-right:1em;font-weight:700; color:#3b7aae;}
+.masthead__menu-item--lg1{font-size: 1em; padding-right:5fem;font-weight:800; background:#3b7aae;color:#fff;}
+.masthead__menu-item--lg{padding-right:1em;font-weight:800; background:#3b7aae;color:#fff; float:right;}
+.masthead__menu-item--lgright{float:right; position: relative; right: 50%; padding-right:1em;font-weight:700; background:#3b7aae;color:#fff;}
 .breadcrumbs{max-width:1024px;margin-left:auto;margin-right:auto;clear:both;margin-top:0;margin-bottom:0;padding-left:2em;padding-right:2em;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.30s;animation-delay:0.30s}
 .breadcrumbs:after{content:" ";display:block;clear:both}
 .breadcrumbs::after{clear:both;content:"";display:table}
@@ -314,9 +314,9 @@ tr,td,th{vertical-align:middle}
 .pagination--pager:last-child{margin-left:-1px;border-top-left-radius:0;border-bottom-left-radius:0}
 .pagination--pager.disabled{color:#bdc1c4;pointer-events:none;cursor:not-allowed}
 .page__content+.pagination,.page__meta+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;padding-top:2em;border-top:1px solid #f2f3f3}
-.greedy-nav{position:relative;min-width:250px;background:#fff;}
+.greedy-nav{position:relative;min-width:250px;background:#3b7aae;color:#fff;}
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#000000;text-decoration:none}
-.greedy-nav a:hover{color:#3b7aae}
+.greedy-nav a:hover{background:#3b7aae;color:#fff;}
 .greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0;outline:none;background-color:#ccc;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table; align:center;}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle; align: right;}
