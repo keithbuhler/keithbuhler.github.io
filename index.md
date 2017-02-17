@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/oxford5.png
 excerpt: 
 author_profile: true
-permalink: /index/
+permalink:
 ---
 
 I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
