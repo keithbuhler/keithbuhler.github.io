@@ -1,21 +1,19 @@
 #Main links
 main:
-  - title: "VITAE"
+  - title: "CV"
     url: http://keithbuhler.com/cv
   - title: "PAPERS"
     url: http://keithbuhler.com/publications
-  - title: "STUDENT PORTAL"
+  - title: "FOR STUDENTS"
     url: http://keithbuhler.com/students
 
 phil:
   - title: "BEFORE CLASS"
     url: http://www.keithbuhler.com/philosophy
-  - title: "DURING CLASS"
+  - title: "HOW TO SUCCEED IN CLASS"
     url: http://www.keithbuhler.com/philosophy-class
   - title: "AFTER CLASS"
     url: http://www.keithbuhler.com/philosophy-6-next
-  - title: "FUN STUFF"
-    url: http://www.keithbuhler.com/fun
 
 philosophy:
   - title: "Start Here"
@@ -27,22 +25,22 @@ philosophy:
         url: http://www.keithbuhler.com/logic
       - title: "Discussion 101"
         url: http://www.keithbuhler.com/discussion101
-  - title: "During Class"
+      - title: "Slideshows"
+        url: http://www.keithbuhler.com/slideshows
+  - title: "How to Succeed"
+    url: http://www.keithbuhler.com/philosophy-class
     children:
-      - title: "How to Succeed "
-        url: http://www.keithbuhler.com/philosophy-class
       - title: "Reading"
         url: http://www.keithbuhler.com/reading
       - title: "Participation"
         url: http://www.keithbuhler.com/participation
-      - title: "Disputations How To"
+      - title: "Disputations"
         url: http://www.keithbuhler.com/disputations
       - title: "Disputation Topics"
         url: http://www.keithbuhler.com/disputation-topics
       - title: "Critical Readings"
         url: http://www.keithbuhler.com/critical-reading
-      - title: "Slideshows"
-        url: http://www.keithbuhler.com/slideshows
+
       - title: "Extra Credit"
         url: http://www.keithbuhler.com/extra-credit
   - title: "After Class"
