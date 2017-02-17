@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Welcome!
+title: Welcome
 header:
       image: http://www.keithbuhler.com/images/oxford5.png
 excerpt: 
@@ -8,11 +8,9 @@ author_profile: true
 permalink:
 ---
 
-I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
+I am currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
 
-My research focuses on ethical naturalism and virtue ethics. I'm especially interested in critiques of modern moral philosophy and the attempt to provide a contemporary articulation and defense of the age-old view that virtue is 'natural.'  In general, I'm interested in the dialog between naturalism and non-naturalism about normativity, nature, and mind. 
-
-I defended my dissertation at the end of last year and received my PhD in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  
 
 
 ----
@@ -23,7 +21,17 @@ I defended my dissertation at the end of last year and received my PhD in 2017. 
 
 Over the last 15 years, I've helped almost a thousand students of all ages. My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
 
-<img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
+In colleges, I've taught: 
+
+- Business Ethics
+- Health Care Ethics
+- Philosophy of Religion
+- Philosophy of C. S. Lewis
+- Virtue: Ancient and Modern
+- Introduction to Ethics
+- Introduction to Metaphysics
+
+In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish. 
 
 - You can read a longer [teaching statement, with student evaluation data, here.](/teaching-statement)
 - Or check out some [current syllabi (Spring 2017) here](/syllabi)
