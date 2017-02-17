@@ -28,10 +28,20 @@ Here is an example disputation for us to discuss:
 
 1. **Objection 1**. It seems that McDonald's "chicken" nuggets are not made of meat. For they do not have the right texture, like a chicken breast or chicken wing. 
 3. **Objection 2**. Furthermore, there is a picture of "pink goo" on the internet showing what McNuggets look like before they are molded and cooked. 
-4. **Appeal to authority**. On the other hand, CNBC reporter Landon Dowdy says that "it's just chicken." 
+4. **Appeal to authority**. On the other hand, CNBC reporter Landon Dowdy says "you've heard those rumors that chicken nuggets are made of... pink slime. In reality, it's white meat chicken." 
 5. **Argument**. I answer that McNuggets are made of ground chicken meat. Mythbusters host Grant Imahara did a report inside the Tyson factory and took video footage showing that the nuggets are made from whole chickens, cut up, ground, flavored, and pressed into molds.[^3] Although industrially produced ground chicken may be unappetizing before it is breaded and fried, it is indeed chicken meat. The final product is so heavily salted and preserved, that it may not be healthy, but it is still meat. 
 6. **Reply to objection 1**. The texture of McNuggets is to chicken breast as the texture of ground beef chuck is to steak. The meat is processed and ground and then fried, but it is still meat. 
 6. **Reply to objection 2**. The picture passed around on social media sites is not of chicken meat, but a picture of boneless lean beef trimmings used to make bolognas, sausages, and so on.[^4]
+
+
+[^3]: "McDonald's shows how McNuggets are really made." CNBC, 9 Dec 2014. http://www.cnbc.com/2014/12/09/mcdonalds-shows-how-mcnuggets-are-really-made.html
+
+[^4]: "Pink slime", Wikipedia, 16 Feb 2017. https://en.wikipedia.org/wiki/Pink_slime
+
+
+
+### Format
+
 
 This example shows several key points. Let's consider them. 
 
