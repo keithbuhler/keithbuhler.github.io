@@ -2,6 +2,7 @@
 title: Site Info
 layout: single
 author_profile: true
+permalink: /README/
 ---
 
 Thanks for visiting. I hope you find the site informative and easy on the eyes. [Send us an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.
