@@ -1,7 +1,8 @@
-/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange,  (256274 dark Github Teal) #3b7aae darker Github Teal (24248f old dark blue) */
+/* 5c6266 light gray #7a8288 dark gray  #cc7a00 dark orange, new orange ##cc6600  (256274 dark Github Teal) #3b7aae darker Github Teal (24248f old dark blue) */
 
 /* #FFA64B light orange, complement from Paletton. */
 /* #E27200 darker orange, complement from Paletton. */
+/* #cc6600 new orange even darker, just 10% darker from W3 schools */
 /* #4A2500 dark brown/orange, complement from Paletton */
 /* #CCDDE2 near white, blue */
 /* #00242E near navy black, blue */
@@ -494,7 +495,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__content p,.page__content li,.page__content dl{font-size:1em}
 .page__content p{margin:0 0 1.3em}
 .page__content a{text-decoration:none}
-.page__content a:hover{color: #E27200; text-decoration:underline}
+.page__content a:hover{color: #cc6600; text-decoration:underline}
 .page__content a:hover img{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 .page__content dt{margin-top:1em;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-weight:bold}
 .page__content dd{margin-left:1em;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em}
@@ -543,8 +544,8 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 @media (min-width: 64em){.archive{width:83.05085%;float:right;margin-right:0;padding-left:4.23729%}
 }
-.archive a{color:inherit;text-decoration:underline; color: #3b7aae;}
-.archive__subtitle a:hover{color: #E27200; text-decoration:underline}
+.archive a{color:inherit;text-decoration:none; color: #3b7aae;}
+.archive__subtitle a:hover{text-decoration:underline; color: #cc6600; }
 .archive__subtitle{margin:1.414em 0 0;padding-bottom:0.5em;font-size:2em;color:#0e1a25;border-bottom:none;}
 .archive__subtitle+.list__item .archive__item-title{margin-top:0.5em}
 .archive__item-title{margin-bottom:0.12em;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
