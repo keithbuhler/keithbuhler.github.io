@@ -28,13 +28,14 @@ In colleges, I've taught:
 - Philosophy of Religion
 - Philosophy of C. S. Lewis
 - Virtue: Ancient and Modern
+- Logic (Symbolic and Aristotelian)
 - Introduction to Ethics
 - Introduction to Metaphysics
 
 In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish. 
 
-- You can read a longer [teaching statement, with student evaluation data, here.](/teaching-statement)
-- Or check out some [current syllabi (Spring 2017) here](/syllabi)
+Check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+
 
 ----
 
