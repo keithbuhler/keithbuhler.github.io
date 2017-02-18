@@ -13,7 +13,9 @@
 #cc6600 new orange even darker, just 10% darker from W3 schools
 ########### BLUES
 #256274 dark Github Teal
-#3b7aae darker Github Teal 
+#3793ae Github teal (old color of links)
+#3b7aae darker Github blue (masthead + links + background of selections)
+#accae4 baby blue
 #24248f old dark blue
 #00242E near navy black, blue
 #CCDDE2 near white, blue
@@ -56,16 +58,16 @@ html{box-sizing:border-box;background-color:#fff;font-size:18px;-webkit-text-siz
 }
 body{margin:0}
 
-::-moz-selection{color:#3b7aae;background:#000}
+::-moz-selection{color:#fff;background:#3b7aae;}
 
-::selection{color:#3b7aae;background:#000}
+::selection{color:#fff;background:#3b7aae}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}
 
 /* More */
 
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
 audio:not([controls]){display:none}
-a{color:#3793ae}
+a{color:#3b7aae}
 a:hover,a:active{outline:0}
 
 sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline}
@@ -215,7 +217,7 @@ tr,td,th{vertical-align:middle}
 .btn--inverse{color:#7a8288 !important;border:1px solid #bdc1c4 !important;background-color:#fff}
 .btn--inverse:hover{color:#fff !important;border-color:#7a8288}
 .btn--light-outline{border:1px solid #fff !important;background-color:transparent}
-.btn--info{background-color:#3793ae}
+.btn--info{background-color:#3b7aae}
 .btn--info:hover{background-color:#428aa0}
 .btn--warning{background-color:#f89406}
 .btn--warning:hover{background-color:#c67605}
@@ -258,7 +260,7 @@ tr,td,th{vertical-align:middle}
 .page__content .notice--info h4{margin-bottom:0;font-size:1em}
 .notice--info p:last-child{margin-bottom:0 !important}
 .notice--info h4+p{margin-top:0;padding-top:0}
-.notice--info a{color:#3793ae}
+.notice--info a{color:#3b7aae}
 .notice--info a:hover{color:#316878}
 .notice--info code{background-color:#f6fbfc}
 .notice--info ul:last-child{margin-bottom:0}
@@ -300,7 +302,7 @@ tr,td,th{vertical-align:middle}
 @media (min-width: 80em){.masthead__inner-wrap{max-width:1280px}
 }
 .masthead__inner-wrap nav{z-index:10}
-.masthead__inner-wrap a{text-decoration:none; background:#3b7aae;color:#b1b6b9;}
+.masthead__inner-wrap a{text-decoration:none; background:#3b7aae;color:#fff;}
 .masthead__menu ul{margin:0;padding:0;clear:both;list-style-type:none;}
 .masthead__menu-item{display:block;list-style-type:none;white-space:nowrap;}
 .masthead__menu-item--lg1{font-size: 1em; padding-right:5em;font-weight:800; background:#3b7aae;color:#5c6266;}
@@ -344,7 +346,7 @@ tr,td,th{vertical-align:middle}
 .greedy-nav .visible-links{display:table; align:center;}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle; align: center;}
 .greedy-nav .visible-links li:first-child{font-weight:bold font-size:2em;}
-.greedy-nav .visible-links li:first-child a{margin-left:0; margin-right: 2em}
+.greedy-nav .visible-links li:first-child a{margin-left:0; margin-right: 4em}
 .greedy-nav .visible-links li:last-child a{margin-right:3em}
 .greedy-nav .visible-links a{position:relative}
 .greedy-nav .visible-links a:before{content:"";position:absolute;left:0;bottom:0;height:4px;background:#bdc1c4;width:100%;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;-webkit-transform:scaleX(0);transform:scaleX(0)}
@@ -362,7 +364,7 @@ tr,td,th{vertical-align:middle}
 .nav__list a{display:block;padding:0.125em 0;color:inherit}
 .nav__list a:hover{text-decoration:underline}
 .nav__list .active{margin-left:-0.5em;padding-left:0.5em;padding-right:0.5em;color:#fff;font-weight:bold;background:#fff;border-radius:4px}
-.nav__list .active:hover{color:#256274}
+.nav__list .active:hover{color:#3b7aae}
 .nav__title{margin:0;padding:0.5rem 1rem;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em;font-weight:bold}
 .nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1.25em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
 .toc{font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;color:#7a8288;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
@@ -494,7 +496,7 @@ input[type="hidden"]{display:none}
 input[disabled],select[disabled],textarea[disabled],input[readonly],select[readonly],textarea[readonly]{opacity:0.5;cursor:not-allowed}
 input:focus,textarea:focus{border-color:#7a8288;outline:0;outline:thin dotted \9}
 input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,select:focus{box-shadow:none}
-.help-block,.help-inline{color:#3793ae}
+.help-block,.help-inline{color:#3b7aae}
 .help-block{display:block;margin-bottom:1em;line-height:1em}
 .help-inline{display:inline-block;vertical-align:middle;padding-left:5px}
 .form-inline input,.form-inline textarea,.form-inline select{display:inline-block;margin-bottom:0}
@@ -586,7 +588,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .archive__item-teaser img{width:100%}
 a:hover .archive__item-teaser{box-shadow:0 0 10px rgba(0,0,0,0.25)}
 a:hover .archive__item-title{text-decoration:underline; color:#3b7aae;}
-a:hover .archive__item-subtitle{text-decoration:underline; color:#3793ae}
+a:hover .archive__item-subtitle{text-decoration:underline; color:#3b7aae}
 @media (min-width: 48em){.list__item{padding-right:200px}
 }
 @media (min-width: 64em){.list__item{padding-right:300px}
