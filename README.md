@@ -9,15 +9,18 @@ Thanks for visiting. I hope you find the site informative and easy on the eyes. 
 
 ### Map
 
-The main site consists of five pages: HOME (RESEARCH, TEACHING, ABOUT), CV, and the STUDENT PORTAL with philosophy resources for students. 
+The main site consists of five pages:
 
-The HOME page includes links to my dissertation, a brief research statement, links to syllabi, a brief teaching statement, and some reviews from students and employers. 
+- HOME: includes links to my dissertation, a brief research statement, links to syllabi, a brief teaching statement, and some reviews from students and employers
+- CV: my full resume
+- PAPERS: a summary of publications in progress or completed.
+- STUDENT PORTAL leads to my "Philosophy Portal" which includes coaching on how to succeed in philosophy. 
+- There are more fun things built in to the site so enjoy exploring. 
 
 
 ### Source code 
 
-
-You can veiw the source code [here](http://bit.ly/2lYmQsa) to fork or just look around.
+You can view the source code [here](http://bit.ly/2lYmQsa) to fork or just look around.
 
 The content and style of this site was created by Keith Buhler -- with the help of [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com) and the good folks at [Github](https://github.com). 
 

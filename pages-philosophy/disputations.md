@@ -59,10 +59,10 @@ A PASSING DISPUTATION achieves seven goals:
 
 1. **Answer the question.** The questions are provided. Your disputation presents and proves an answer to the question. 
 2. **Argue your thesis.** Do not say "I believe" or "I feel that". State your thesis and support it with arguments and evidence. 
-3. **State reasonable objections.** Do not just argue your view, summarize your opponent's view. Do not demonize or mock your opponent. Even though they are mistaken, assume they are making a reasonable, understandible, intelligent mistake. You are going to argue against yourself before you argue for yourself. The point is to make sure you know what your opponents think and why. Do not demonize or mock your opponent. They may disagree with you, they may be wrong, but do not assume that they are stupid. Rather, use the principle of charity: assume they have some good reason to disagree with your thesis (even if it’s not good enough!) Cite texts from our semester, or use other logical or anecdotal evidence to give some support to the counterclaim. You can use arguments from the texts, from your research, or from your own thinking. 
+3. **State reasonable objections.** Do not just argue your view, summarize your opponent's view. Do not demonize or mock your opponent. Even though they are mistaken, assume they are making a reasonable, understandable, intelligent mistake. You are going to argue against yourself before you argue for yourself. The point is to make sure you know what your opponents think and why. Do not demonize or mock your opponent. They may disagree with you, they may be wrong, but do not assume that they are stupid. Rather, use the principle of charity: assume they have some good reason to disagree with your thesis (even if it’s not good enough!) Cite texts from our semester, or use other logical or anecdotal evidence to give some support to the counterclaim. You can use arguments from the texts, from your research, or from your own thinking. 
 4. **Appeal to authority**. The "On the other hand" section is the transition from the Objections to your argument. This is where you use an authority that you think gets it right as a starting point in building your case. If you can’t find an authority who agrees with you, that doesn’t necessarily mean you are wrong, but it is a bad sign. You can use an authority from the text, from history, your own research, or you can do without it (but I don’t recommend doing without it — that places you as the authority. And are you really an authority on this stuff yet?). 
 4. **Refute objections**. Do not just state your opponent's view, but explain why it is wrong. You can re-interpret their objection, refute it, clarify it, but don't ignore it. 
-5. **Meet the length requirement.**Except for the first paper, the length requirement is 400 word minimum, 1000 max. This minimum excludes block quotes, headings, title, name, page numbers etc. 
+5. **Meet the length requirement.**Except for the first paper (400 min, 1000 max) the length requirement is 500 word minimum, 1200 max. DO NOT count block quotes, headings, title, name, page numbers etc., just the body of the paper. 
 6. **Cite the text**. Each disputation should interact with the relevant semester text. Cite correctly using MLA, APA, Turabian, or Chicago formatting -- just be consistent. (I prefer Chicago or MLA but do what you like.) Cite our text books, the Bible, journal articles, etc., but never cite Wikipedia or dictionaries, since these reflect general knowledge and are sometimes inaccurate or irrelevant.
 7. **Write clearly and simply**. Be frank and to the point. Don't use B.S. or filler. Just say your point, make your arguments, and move on. 
 
@@ -88,7 +88,7 @@ I recommend that you write the paper in your preferred text editor (like Word or
 
 ## Examples
 
-<iframe src="https://docs.google.com/document/d/1nboSr132d7t2gTmztxEL6vTiAj9NT9OCp7_OaCX9Pwc/pub?embedded=true" height="600" width="600"></iframe>
+<iframe src="https://docs.google.com/document/d/1nboSr132d7t2gTmztxEL6vTiAj9NT9OCp7_OaCX9Pwc/pub?embedded=true" height="800" width="700"></iframe>
 
 
 [Topics here](/disputation-topics)
