@@ -2,6 +2,9 @@
 title: Disambiguation
 layout: single
 permalink: /disambiguation/
+header: 
+      image: http://www.keithbuhler.com/images/josiah-grass.jpg
+      teaser: http://www.keithbuhler.com/images/josiah-grass.jpg
 --- 
 
 ## Redirected from kiθ bulər (disambiguation)[^1]
@@ -24,4 +27,6 @@ permalink: /disambiguation/
 * [Buhler Industries, Canadian farm equipment company](https://en.wikipedia.org/wiki/Buhler_Industries)
 * [Bühler Motor, German car company](https://en.wikipedia.org/wiki/B%C3%BChler_Motor) 
 
-[^1]: Yes, this page is tongue-in-cheek.
+Go [home.](/)
+
+[^1]: Yes, this page is [silly.](https://www.youtube.com/watch?v=kJVROcKFnBQ)
