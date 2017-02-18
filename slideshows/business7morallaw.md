@@ -7,11 +7,42 @@ theme: night
 <section> <!--begin day 1-->
 <section data-background="http://www.keithbuhler.com/images/diversity.jpg" data-markdown>
 
+# Universal Norms
+
+</section><section data-markdown>
+
+1. Question: Are moral beliefs subjective to persons and cultures? 
+2. Answer: No, there is a "moral standpoint that transcends the personal and cultural" in addition to normal social and individual conventions and tastes. 
+3. Arguments
+- There is also in fact cross-cultural norm acceptance. 
+
+4. Objections
+- Cultural Relativism: There are in fact a diversity of moral practices (236)
+- Cultures can even agree on "basic principles of morality" such as keeping promises, but disagree about "how to live by those principles in particular circumstances."
+- "The problem of cultural relativism ultimately turns on whether there are basic, universal principles that cross cultural lines" (237)
+- Normative Relativism: There are a diversity of practices one *ought to do*; i.e., whatever your group believes is right (group normative relativism) or whatever one believes is right (individual normative relativism). "When in Rome, do as the Romans do."
+- 
+5. My opinion
+6. Question
 
 
 
-</section>
 </section><!--End Day 1, Moral Law-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <section> <!--begin day 2-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg" data-markdown>
