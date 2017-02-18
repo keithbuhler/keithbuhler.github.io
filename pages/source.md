@@ -15,4 +15,4 @@ The CSS files and site structure are modifications of the beautiful [Minimal Mis
 
 To make your own similar website would take some work, especially if you have zero programming experience. But you can do it. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Or you could [hire me to make one for you.](/sites)
 
-You can view the source code [here.](http://bit.ly/keithbuhlergithub)
+You can view the source code [here.](http://bit.ly/2lYmQsa)

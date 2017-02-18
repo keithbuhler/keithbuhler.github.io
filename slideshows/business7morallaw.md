@@ -10,11 +10,21 @@ theme: night
 # Universal Norms
 
 </section><section data-markdown>
+### Basic Outline
 
 1. Question: Are moral beliefs subjective to persons and cultures? 
 2. Answer: No, there is a "moral standpoint that transcends the personal and cultural" in addition to normal social and individual conventions and tastes. 
 3. Arguments
-- There is also in fact cross-cultural norm acceptance. 
+- There is also in fact cross-cultural norm acceptance (240)
+- Shared Moral Rules: do not kill, cause pain or suffering, prevent evil or harm, rescue persons in danger, tell the truth, nurture the young and dependent, keep your promises, do not steal, do not punish the innocenet, obey the law. 
+- Shared Moral Virtues: nonmalevolence, honesty, integrity, conscientiousness, trustworthiness, fidelity, gratitude, truthfulness, lovingness, kindness. 
+- "Human rights" refer to the universal morality
+- Particular moralities vary (241) and are more specific (242)
+- Professional Moralities are Particular Moralities (243)
+- Multiculturalism (253)
+- Cultural Imperialism (254)
+- Global Social Justice (257)
+- Conclusion (260)
 
 4. Objections
 - Cultural Relativism: There are in fact a diversity of moral practices (236)
@@ -23,7 +33,27 @@ theme: night
 - Normative Relativism: There are a diversity of practices one *ought to do*; i.e., whatever your group believes is right (group normative relativism) or whatever one believes is right (individual normative relativism). "When in Rome, do as the Romans do."
 - 
 5. My opinion
+- There is a universal moral law
 6. Question
+- 
+
+</section><section data-markdown>
+### 
+
+
+
+</section><section data-markdown>
+### 
+
+
+
+</section><section data-markdown>
+### 
+
+
+
+</section><section data-markdown>
+### 
 
 
 
