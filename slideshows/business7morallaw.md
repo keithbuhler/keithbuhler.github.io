@@ -4,6 +4,15 @@ title: Moral Law
 theme: night
 ---
 
+<section> <!--begin day 1-->
+<section data-background="http://www.keithbuhler.com/images/diversity.jpg" data-markdown>
+
+
+
+
+</section>
+</section><!--End Day 1, Moral Law-->
+
 <section> <!--begin day 2-->
 <section data-background="http://channel.nationalgeographic.com/exposure/content/photo/photo/2079435_deeper-still_jfxeaqbh63vorhnrwcs4oomcjqoxpy7q62c4u66siw3t6qwph3oq_790x445.jpg" data-markdown>
 
