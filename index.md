@@ -1,20 +1,16 @@
 ---
 layout: single
-title: Welcome!
+title: Welcome
 header:
       image: http://www.keithbuhler.com/images/oxford5.png
 excerpt: 
 author_profile: true
+permalink:
 ---
 
-<img src="/images/greene5.jpeg" alt="Transform by changing" hspace="30px" align="right" width="40%"> 
+I am currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
 
-
-I'm Keith Buhler, a philosopher, classical teacher, and writer. I currently serve as a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. I've been a teacher for fifteen years.
-
-My research focuses on virtue ethics and naturalism. My dissertation attempted to provide a contemporary articulation and defense of the age-old view that virtue is natural, and that the rational life is the good life for human persons.   
-
-I defended my dissertation at the end of last year and received my PhD in 2017. I hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  
 
 
 ----
@@ -23,10 +19,23 @@ I defended my dissertation at the end of last year and received my PhD in 2017. 
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
-Over the last 15 years, I've helped hundreds of students of all ages to succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
+Over the last 15 years, I've helped almost a thousand students of all ages. My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
 
-- You can read a longer [teaching statement, with student evaluation data, here.](/teaching-statement)
-- Or check out some [current syllabi (Spring 2017) here](/syllabi)
+In colleges, I've taught: 
+
+- Business Ethics
+- Health Care Ethics
+- Philosophy of Religion
+- Philosophy of C. S. Lewis
+- Virtue: Ancient and Modern
+- Logic (Symbolic and Aristotelian)
+- Introduction to Ethics
+- Introduction to Metaphysics
+
+In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish. 
+
+Check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+
 
 ----
 
@@ -34,9 +43,11 @@ Over the last 15 years, I've helped hundreds of students of all ages to succeed 
 
 ![wither](http://www.keithbuhler.com/images/wither.jpg)
 
-My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
+My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are". That work defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
 
-My current project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. More broadly still, I have a long-standing interest in metaphysics and philosophy of mind,  Plato, and philosophy of religion. 
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
+
+The current extension of that project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. More broadly, I have a long-standing interest in metaphysics and philosophy of mind,  Plato, and philosophy of religion. 
 
 - [A paper being revised for publication](/publications)
 - [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
@@ -60,19 +71,18 @@ Philosophy is for me a profession and also a way of life. Even after teaching an
 
 I have about 45 minutes of spare time per month. In that time, I like to draw things, sculpt clay, blog, tinker with web design, watch AFI Top 100 films, write fiction, and compose [lists of what I do in my spare time.](https://en.wikipedia.org/wiki/Recursion)
 
-Thanks for visiting. 
-
 ----
 
 # Student and Employer Feedback
 
-<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
+* "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
 
+* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
 
-> * "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
-> * “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
-> * “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
-> *  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter David Gross, Executive Director at Wheatstone Ministries)
+* “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
 
-- More [RateMyProfessors reviews from actual students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+*  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
 
+- Read more [RateMyProfessors reviews students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+
+Thanks for visiting. 
