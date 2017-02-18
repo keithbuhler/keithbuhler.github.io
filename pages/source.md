@@ -5,14 +5,17 @@ author_profile: true
 permalink: /source/
 ---
 
-The content and style of this site was created by Keith Buhler.   
+The content and style of this site was created by Keith Buhler -- with the help of [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com) and the good folks at [Github](https://github.com). 
 
-I start by writing posts and pages in plain text with simple [Markdown](https://daringfireball.net/projects/markdown/syntax) mark up. 
+### View the source code [here](http://bit.ly/2lYmQsa) to fork or just look around
 
-A wonderful software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML. The source HTML is *stored* on my hard-drive, but it's *hosted* for free by [Github](http://www.github.com). 
+![github cat](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
 
-The CSS files and site structure are modifications of the beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) from New York designer Michael Rose.
+The CSS design consists of modified version of the beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) by New York designer [Michael Rose.](https://mademistakes.com/) The content is written in plain text [Markdown](https://daringfireball.net/projects/markdown/syntax) and stored on my hard-drive. 
 
-To make your own similar website would take some work, especially if you have zero programming experience. But you can do it. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Or you could [hire me to make one for you.](/sites)
+When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML which is  *hosted* and published for free by Github. Amazing, right?
 
-You can view the source code [here.](http://bit.ly/2lYmQsa)
+![batman](http://screencrush.com/442/files/2013/03/thumbs-up.jpg)
+
+If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). (Alternately, I could [make yours for you.](/sites))
+
