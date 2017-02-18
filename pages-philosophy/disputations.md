@@ -55,7 +55,7 @@ A passing Disputation is in four-point format:
 4. **Reply to objections.** Your last paragraph(s) deals with your counterclaim. How can you refute your opponent’s counter argument? You must either refute their evidence or acknowledge but re-interpret it to show that it does not damage your conclusion. 
 
 
-A PASSING DISPUTATION achieves seven goals: 
+A PASSING DISPUTATION achieves eight goals: 
 
 1. **Answer the question.** The questions are provided. Your disputation presents and proves an answer to the question. 
 2. **Argue your thesis.** Do not say "I believe" or "I feel that". State your thesis and support it with arguments and evidence. 
@@ -74,7 +74,7 @@ A failing disputation commits one or more of the following errors:
 4. Doesn't refute objections; leaves them hanging, or provides weak assertions to the contrary. 
 5. Doesn't meet minimum length requirement; uses excessive block quotes to make up for low word count. 
 6. Doesn't cite any texts; doesn't cite semester texts or any other research.
-7. Is composed mostly of convulated, forced, obscure, "thesaurus heavy", pretenious, garbled, academic B. S. 
+7. Is composed mostly of confabulated, forced, obscure, "thesaurus heavy", pretentious, garbled, academic B. S. 
 
 I recommend that you write the paper in your preferred text editor (like Word or Google Docs), save a copy, then copy/paste it into the browser by the due date. 
 
