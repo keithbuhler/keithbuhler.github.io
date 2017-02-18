@@ -5,20 +5,32 @@ author_profile: true
 permalink: /README/
 ---
 
-Thanks for visiting. I hope you find the site informative and easy on the eyes. [Send us an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.
+Thanks for visiting. I hope you find the site informative and easy on the eyes. [Send an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.
 
 ### Map
 
-The main site consists of five pages: HOME (RESEARCH, TEACHING, ABOUT), CV,  and the STUDENT PORTAL with philosphy resources for students. 
+The main site consists of five pages: HOME (RESEARCH, TEACHING, ABOUT), CV, and the STUDENT PORTAL with philosophy resources for students. 
 
 The HOME page includes links to my dissertation, a brief research statement, links to syllabi, a brief teaching statement, and some reviews from students and employers. 
 
 
-### Design
+### Source code 
 
-Design-wise, I started with Dan Sheffler's site and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/). After learning a lot about CSS by building from the ground up, I started over with the very powerful and beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) from New York designer Michael Rose, and have made slight changes from there.
 
-To make your own similar website would take some work, especially if you have zero programming experience. But you can do it. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Or you could [hire me to make one for you.](/sites)
+You can veiw the source code [here](http://bit.ly/2lYmQsa) to fork or just look around.
+
+The content and style of this site was created by Keith Buhler -- with the help of [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com) and the good folks at [Github](https://github.com). 
+
+![github cat](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
+
+The CSS design consists of modified version of the beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) by New York designer [Michael Rose.](https://mademistakes.com/) The content is written in plain text [Markdown](https://daringfireball.net/projects/markdown/syntax) and stored on my hard-drive. 
+
+When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML which is  *hosted* and published for free by Github. Amazing, right?
+
+![batman](http://screencrush.com/442/files/2013/03/thumbs-up.jpg)
+
+If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). (Alternately, I could [make yours for you.](/sites))
+
 
 ### History
 
@@ -26,13 +38,8 @@ This site is my *eighth* draft. The [2013 first try](https://web.archive.org/web
 
 [Dan Sheffler](http://www.dansheffler.com) showed me his site and got me started using Markdown. There was a learning curve, but I am tech curious and enjoyed the problem-solving. Over Christmas 2015, I worked compulsively on making the content and organization the data.  Versions 3-6 were failed attempts at using Github (first username was circularreason.github.io). Version 7 worked. Now it's a work in progress. 
 
-### Source Code
+Design-wise, I started with Dan Sheffler's site and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/). After learning a lot about CSS by building from the ground up, I started over with the very powerful and beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) from New York designer Michael Rose, and have made slight changes from there.
 
-I start by writing posts and pages in plain text with simple [Markdown](https://daringfireball.net/projects/markdown/syntax) mark up. 
-
-A wonderful software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML. The source HTML is *stored* on my hard-drive, but it's *hosted* for free by [Github](http://www.github.com). 
-
-You can view the source code [here.](http://bit.ly/keithbuhlergithub)
 
 ### Copyright
 
