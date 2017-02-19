@@ -13,7 +13,6 @@ I'm Keith Buhler, a postdoctoral scholar at the University of Kentucky and a phi
 My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics and the philosophy of mind, Plato, and philosophy of religion. 
 
 I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a bachelor's in Humanities from Biola University.
-
  
 
 # Research 
@@ -38,25 +37,13 @@ One extension of that project puts Foot's "secular natural law theory" into conv
 
 Over the last 15 years, I've helped almost a thousand students of all ages. My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
 
-In colleges, I've taught: 
-
-- Business Ethics
-- Health Care Ethics
-- Philosophy of Religion
-- Philosophy of C. S. Lewis
-- Virtue: Ancient and Modern
-- Logic (Symbolic and Aristotelian)
-- Introduction to Ethics
-- Introduction to Metaphysics
-
-In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish, among others. 
-
-You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+In colleges, I've taught logic, business ethics, health care ethics, virtue ethics, and more. In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish, among others. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
 
 
-----
 
 # Student and Employer Feedback
+
+----
 
 * "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
 

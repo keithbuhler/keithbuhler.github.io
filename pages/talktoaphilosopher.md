@@ -3,6 +3,9 @@ title: Talk To A Philosopher
 layout: single
 author_profile: true
 permalink: /talk
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+
 ---
 
 You have a question about metaphysics, ethics, or philosophy of religion but don't know where to even start.  You can talk to me at $50 for 20 minutes. 
