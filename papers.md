@@ -9,6 +9,7 @@ sidebar:
 --- 
 
 
+<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
 
 **"The Case for Agnosticism Regarding Causal Closure." *Religious Studies.* (revise and resubmit)**
 

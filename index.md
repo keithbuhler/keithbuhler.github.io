@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Welcome
+title: Welcome to keithbuhler.com
 header:
       image: http://www.keithbuhler.com/images/oxford5.png
 excerpt: 
@@ -8,14 +8,31 @@ author_profile: true
 permalink:
 ---
 
-I am currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+I am currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
-My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  
+My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics and the philosophy of mind, Plato, and philosophy of religion. 
 
+I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+
+
+
+# Research 
 
 ----
 
+![wither](http://www.keithbuhler.com/images/wither.jpg)
+
+My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are". That work defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
+
+One extension of that project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. 
+
+- [A paper being revised for publication](/publications)
+- [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
+
+
 # Teaching
+
+----
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
@@ -32,29 +49,14 @@ In colleges, I've taught:
 - Introduction to Ethics
 - Introduction to Metaphysics
 
-In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish. 
+In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish, among others. 
 
-Check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
 
-
-----
-
-# Research 
-
-![wither](http://www.keithbuhler.com/images/wither.jpg)
-
-My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are". That work defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
-
-<img src="/images/measurelearning.png" alt="propermeasure" align="right" hspace="20" height="300" width="300">
-
-The current extension of that project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. More broadly, I have a long-standing interest in metaphysics and philosophy of mind,  Plato, and philosophy of religion. 
-
-- [A paper being revised for publication](/publications)
-- [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
-
-----
 
 # Mini Bio
+
+----
 
 *For other uses, see [Keith Buhler (disambiguation)](/disambiguation)*
 <img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
