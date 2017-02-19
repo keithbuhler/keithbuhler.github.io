@@ -2,6 +2,8 @@
 title: Speaking Engagements
 layout: single
 permalink: /speaking/
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 
 ---
 

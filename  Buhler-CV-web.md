@@ -3,7 +3,7 @@ layout: single
 title: 
 permalink: /cv/
 header:
-      image: http://www.keithbuhler.com/images/oxford5.png
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 sidebar: 
       nav: 
 --- 
@@ -18,8 +18,6 @@ sidebar:
 <p> Department of Philosophy   </p>
 
 <p> University of Kentucky    </p>
-
-<p> Lexington, KY 40506  </p>
 
 <p> keith.buhler@uky.edu   </p>
 

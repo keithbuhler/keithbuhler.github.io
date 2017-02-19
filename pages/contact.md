@@ -3,6 +3,8 @@ title: Follow / Connect
 layout: single
 permalink: /contact/
 author_profile: true
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 
 ---
 

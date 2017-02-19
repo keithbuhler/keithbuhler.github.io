@@ -3,6 +3,9 @@ title: Site Info
 layout: single
 author_profile: true
 permalink: /README/
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+
 ---
 
 Thanks for visiting. I hope you find the site informative and easy on the eyes. [Send an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.

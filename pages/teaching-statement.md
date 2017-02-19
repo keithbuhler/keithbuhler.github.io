@@ -2,6 +2,8 @@
 layout: single
 title: Teaching Statement and Information
 permalink: /teaching-statement/
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 ---
 
 [Keith Buhler](http://keithbuhler.github.io)  

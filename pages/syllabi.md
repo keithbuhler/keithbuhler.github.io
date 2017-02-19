@@ -3,8 +3,8 @@ layout: single
 title: Syllabi
 sidebar:
     nav: 
-header: 
-      image: http://www.keithbuhler.com/images/oxford4.png
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 permalink: /syllabi/
 feature_row:
   - image_path: http://www.keithbuhler.com/images/syllabus-334.png
