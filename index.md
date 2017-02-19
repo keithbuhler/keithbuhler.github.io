@@ -2,7 +2,7 @@
 layout: single
 title: Welcome to keithbuhler.com
 header:
-      image: http://www.keithbuhler.com/images/oxford5.png
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 excerpt: 
 author_profile: true
 permalink:
