@@ -13,8 +13,6 @@ sidebar:
 
 <h2> Curriculum Vitae 2017</h2>  
 
-<p>Keith Buhler </p>  
-
 <p> Department of Philosophy   </p>
 
 <p> University of Kentucky    </p>

@@ -2,42 +2,28 @@
 title: Privacy Policy and Affiliate Disclosure
 permalink: /privacy
 layout: single
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 ---
 
 ### Introduction
 
-There is a growing trend -- and a positive trend, in my view -- of making explicit how web sites collect and use information of their visitors.[^1] I want to ensure that my readers feel as safe as possible and the information below is full disclosure on what happens on keithbuhler.com
+There is a growing trend of sites being clear how they collect and use visitor information.[^1] This is a positive trend, in my view. Even when it is not strictly necessary, full disclosure should be encouraged. The bottom line is that I will never use or sell your information to others. 
 
-Rest assured that **I will never share your information or email with anyone else.**
+## Cookies and Log Files
 
-### Log Files
-
-Like many other websites, keithbuhler.com uses log files to help learn about when, from where and how often traffic flows to this site. The information in the log files include:
-
-
-Internet Protocol addresses (IP)  
-Types of browser  
-Internet Service Provider (ISP)  
-Date and time stamp  
-Referring and exit pages  
-Number of clicks  
-
-
-None of this type of information is linked to anything that is personally identifiable.
-
-## Cookies and web beacons
-
-Like nearly all Websites, keithbuhler.com may store cookies on your computer. These collect information but I have no access or control over them. To disable cookies, use your browser's settings. 
+Like nearly all websites, keithbuhler.com may store cookies on your computer. These collect information but I have no access or control over them. To disable cookies, use your browser's settings. We also use log files to help learn about when, from where and how often traffic flows to this site, such is IP, type of browser, number of clicks, etc. None of this type of information is linked to anything that is personally identifiable.
 
 ### Amazon Affiliates
-
-Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon’s Privacy Policy.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
-
->keithbuhler.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, amazonsupply.com, or myhabit.com.
 
 I am an "Amazon Affiliate" which means I earn a very small commission on products you buy on Amazon.com after entering through [any of my pages](http://amzn.to/2hIJTol). Amazon offers these commissions in exchange for sites like myself to advertise for them and drive traffic to their market. These commissions are very small (usually around 3%) but they can accumulate and help me to feed my family and continue providing you content. 
 
 Furthermore, these small commissions *never* cost you any extra money, and I will never recommend a product just to make a sale. I only link to products (mostly books) that I have read and honestly enjoy and commend to your interest. 
+
+Amazon uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Amazon’s Privacy Policy.](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+
+>keithbuhler.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, amazonsupply.com, or myhabit.com.
+
 
 ### Google Analytics
 
@@ -52,8 +38,6 @@ To measure performance, Google uses small strings of text (known as cookies) tha
 Subscribers may choose to receive email updates via MailChimp by submitting an email address to the email subscription form. I use a secure opt-in subscription system and I reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
 Thank you for reading. 
-
--Keith
 
 Last Updated: Dec 26, 2016
 

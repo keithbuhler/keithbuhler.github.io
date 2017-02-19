@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  
+title:  Welcome
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 excerpt: 
@@ -8,13 +8,13 @@ author_profile: true
 permalink:
 ---
 
-I am currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
+I'm Keith Buhler, a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
 My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics and the philosophy of mind, Plato, and philosophy of religion. 
 
-I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a BA in Humanities from Biola University.
+I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a bachelor's in Humanities from Biola University.
 
-
+ 
 
 # Research 
 
@@ -54,6 +54,20 @@ In high schools, I've taught "Great Books", humanities, literature, theology, an
 You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
 
 
+----
+
+# Student and Employer Feedback
+
+* "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
+
+* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
+
+* “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
+
+*  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
+
+- Read more [RateMyProfessors reviews students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+
 # Mini Bio
 
 ----
@@ -72,19 +86,5 @@ I began teaching great books in 2001 and have never really stopped.  My first cl
 Philosophy is for me a profession and also a way of life. Even after teaching and researching all week, I preside over my local chapter of the American Chesterton Society to discuss literature, film, and politics with friends.
 
 I have about 45 minutes of spare time per month. In that time, I like to draw things, sculpt clay, blog, tinker with web design, watch AFI Top 100 films, write fiction, and compose [lists of what I do in my spare time.](https://en.wikipedia.org/wiki/Recursion)
-
-----
-
-# Student and Employer Feedback
-
-* "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
-
-* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
-
-* “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
-
-*  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
-
-- Read more [RateMyProfessors reviews students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 Thanks for visiting. 

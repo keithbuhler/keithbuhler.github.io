@@ -3,6 +3,9 @@ title: Source Code
 layout: single
 author_profile: true
 permalink: /source/
+header:
+      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+
 ---
 
 The content and style of this site was created by Keith Buhler -- with the help of [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com) and the good folks at [Github](https://github.com). 
