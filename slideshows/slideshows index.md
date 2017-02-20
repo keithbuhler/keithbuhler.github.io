@@ -38,8 +38,8 @@ permalink: /slideshows/
 * [Week 3 Good and Evil, Relativism](http://www.keithbuhler.com/slideshows/ethics3goodandevil)
 * [Week 4 Utilitarianism](http://www.keithbuhler.com/slideshows/ethics4utilitarianism)
 * [Week 5 Deontological Ethics](http://www.keithbuhler.com/slideshows/ethics5deontology)
-* [Week 6 Virtue ethics]
-* [Week 7 Feminist ethics]
+* [Week 6 Virtue ethics](/slideshows/ethics6virtue)
+* [Week 7 Feminist ethics](/slideshows
 * [Week 8 Egoism]
 * [Week 9 The meaning of life]
 * [Week 10 Autonomy]
