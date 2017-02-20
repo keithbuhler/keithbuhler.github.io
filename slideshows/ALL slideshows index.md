@@ -39,7 +39,7 @@ permalink: /slideshows/
 * [Week 4 Utilitarianism](http://www.keithbuhler.com/slideshows/ethics4utilitarianism)
 * [Week 5 Deontological Ethics](http://www.keithbuhler.com/slideshows/ethics5deontology)
 * [Week 6 Virtue ethics](/slideshows/ethics6virtue)
-* [Week 7 Feminist ethics](/slideshows
+* [Week 7 Feminist ethics](/slideshows)
 * [Week 8 Egoism]
 * [Week 9 The meaning of life]
 * [Week 10 Autonomy]
@@ -48,21 +48,19 @@ permalink: /slideshows/
 ## Introduction to Philosophy Slides (2017)
 
 * [Week 1 Introduction](/slideshows/intro1syllabus)
-* [Week 2]
-* [Week 3]
-* [Week 4]
-* [Week 5]
-* [Week 6]
-* [Week 7]
-* [Week 8]
-* [Week 9]
-* [Week 10]
-* [Week 11]
-* [Week 12]
-* [Week 13]
-* [Week 14]
-* [Week 15]
-* [Week 16]
+* [Week 2 Truth](https://docs.google.com/presentation/d/15cMYBmq8hgJS_cycvzxK-jeG1WbGMB_nnfoCOKxp01Y/edit)
+* [Week 3 Who are you?](https://docs.google.com/presentation/d/1gwwpPaNLDQBBUws_Q71VisxtAwOEGGD3-V-o6F9n_OE/edit)
+* [Week 4-5 Holiness and Wisdom](https://docs.google.com/presentation/d/1VnRf3kNIHvuPd9RAOWrP3TVlKGR6AoxSc62kTo00Y0s/)
+* [Week 6 The Soul](https://docs.google.com/presentation/d/1v8DnqgR0ka1ZXRheCGudtr8dwiVHsWPDDWttyRA-IEA/edit?usp=drive_web)
+* [Week 7-8 Forms](https://docs.google.com/presentation/d/1n7xV3Kku4tNME5wfFetn-5q3ciqt6bwEGz3yCO9jdhc/edit?usp=drive_web)
+* [Week 9 Logic]
+* [Week 10 Reasoning]
+* [Week 11 Augustine]
+* [Week 12 Evil]
+* [Week 13 God]
+* [Week 14 A Space Odyssey]
+* [Week 15 Wall-E]
+* [Week 16 Tree of Life]
 
 
 ## Introduction to Philosophy Slides (2016)
