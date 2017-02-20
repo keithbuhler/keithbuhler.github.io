@@ -13,27 +13,64 @@ theme: night
 ### Basic Outline
 
 1. Question: Are moral beliefs subjective to persons and cultures? 
-2. Answer: No, there is a "moral standpoint that transcends the personal and cultural" in addition to normal social and individual conventions and tastes. 
-3. Arguments
+
+</section><section data-markdown>
+### Basic outline
+
+2. Answer: There is a "moral standpoint that transcends the personal and cultural" in addition to normal social and individual conventions and tastes. 
+
+
+</section><section data-markdown>
+### Arguments
+
 - There is also in fact cross-cultural norm acceptance (240)
 - Shared Moral Rules: do not kill, cause pain or suffering, prevent evil or harm, rescue persons in danger, tell the truth, nurture the young and dependent, keep your promises, do not steal, do not punish the innocenet, obey the law. 
-- Shared Moral Virtues: nonmalevolence, honesty, integrity, conscientiousness, trustworthiness, fidelity, gratitude, truthfulness, lovingness, kindness. 
+
+
+
+</section><section data-markdown>
+
+
+Moral Virtues: nonmalevolence, honesty, integrity, conscientiousness, trustworthiness, fidelity, gratitude, truthfulness, lovingness, kindness. 
 - "Human rights" refer to the universal morality
+
+
+</section><section data-markdown>
 - Particular moralities vary (241) and are more specific (242)
 - Professional Moralities are Particular Moralities (243)
+
+</section><section data-markdown>
+
 - Multiculturalism (253)
 - Cultural Imperialism (254)
 - Global Social Justice (257)
 - Conclusion (260)
 
+
+</section><section data-markdown>
 4. Objections
 - Cultural Relativism: There are in fact a diversity of moral practices (236)
+
+
+</section><section data-markdown>
+
 - Cultures can even agree on "basic principles of morality" such as keeping promises, but disagree about "how to live by those principles in particular circumstances."
 - "The problem of cultural relativism ultimately turns on whether there are basic, universal principles that cross cultural lines" (237)
+
+
+</section><section data-markdown>
+
 - Normative Relativism: There are a diversity of practices one *ought to do*; i.e., whatever your group believes is right (group normative relativism) or whatever one believes is right (individual normative relativism). "When in Rome, do as the Romans do."
-- 
+
+
+</section><section data-markdown>
+
 5. My opinion
 - There is a universal moral law
+
+
+</section><section data-markdown>
+
 6. Question
 - 
 
@@ -41,19 +78,6 @@ theme: night
 ### 
 
 
-
-</section><section data-markdown>
-### 
-
-
-
-</section><section data-markdown>
-### 
-
-
-
-</section><section data-markdown>
-### 
 
 
 
