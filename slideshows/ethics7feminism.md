@@ -67,7 +67,13 @@ theme: blood
 - Goals: To articular critiques of women's subordination
 - To prescribe ways to resist
 - To envision alternatives
-- 
+
+</section><section data-markdown>
+
+- History: Wollestencraft, 1970's, Gilligan (443)
+- Feminist Criticisms of Western Ethics (446)
+- Common Misconstruals (448)
+- Current Concerns (453)
 
 
 
@@ -96,7 +102,8 @@ theme: blood
 
 ### Discussion
 
-* What is purpose of morality? 
+* Are men and women different enough to merit its own moral approach? 
+* [Further reading](http://nymag.com/thecut/2017/02/self-empowerment-is-just-another-word-for-narcissism.html)
 
 
 
