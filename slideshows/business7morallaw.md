@@ -21,7 +21,7 @@ theme: night
 
 
 </section><section data-markdown>
-### Arguments
+### Arguments for Universal Norms
 
 - There is also in fact cross-cultural norm acceptance (240)
 - Shared Moral Rules: do not kill, cause pain or suffering, prevent evil or harm, rescue persons in danger, tell the truth, nurture the young and dependent, keep your promises, do not steal, do not punish the innocenet, obey the law. 
@@ -29,28 +29,32 @@ theme: night
 
 
 </section><section data-markdown>
-
+### Universal Norms
 
 Moral Virtues: nonmalevolence, honesty, integrity, conscientiousness, trustworthiness, fidelity, gratitude, truthfulness, lovingness, kindness. 
 - "Human rights" refer to the universal morality
 
 
 </section><section data-markdown>
+
+### Applying morality
+
 - Particular moralities vary (241) and are more specific (242)
-- Professional Moralities are Particular Moralities (243)
+- Professional Moralities as Particular Moralities (243)
+
+
 
 </section><section data-markdown>
+### Objections
+- Cultural Relativism: There are in fact a diversity of moral practices (236)
+
+</section><section data-markdown>
+
+### Application 
 
 - Multiculturalism (253)
 - Cultural Imperialism (254)
 - Global Social Justice (257)
-- Conclusion (260)
-
-
-</section><section data-markdown>
-4. Objections
-- Cultural Relativism: There are in fact a diversity of moral practices (236)
-
 
 </section><section data-markdown>
 
@@ -65,22 +69,17 @@ Moral Virtues: nonmalevolence, honesty, integrity, conscientiousness, trustworth
 
 </section><section data-markdown>
 
-5. My opinion
-- There is a universal moral law
+5. Judgment: There is a universal moral law
 
 
 </section><section data-markdown>
 
 6. Question
-- 
-
-</section><section data-markdown>
-### 
+- Two kinds of disagreement: breaking the moral law, and disputing the content of the moral law
 
 
 
-
-
+</section>
 </section><!--End Day 1, Moral Law-->
 
 
