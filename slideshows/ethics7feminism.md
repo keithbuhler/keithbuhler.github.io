@@ -10,7 +10,7 @@ theme: blood
 
 # Feminist Ethics
 
-</section> <!--Intro slide end-->
+</section><section data-markdown><!--Intro slide end-->
 
 ## Introduction
 
@@ -100,10 +100,6 @@ theme: blood
 
 
 
-
-
-
-
 </section><section data-markdown>
 
 ### Discussion
@@ -112,14 +108,6 @@ theme: blood
 * [Further reading](http://nymag.com/thecut/2017/02/self-empowerment-is-just-another-word-for-narcissism.html)
 
 
-
-
-
-</section><section data-markdown>
-
-### Discussion
-
-* Your questions?
 
 
 
