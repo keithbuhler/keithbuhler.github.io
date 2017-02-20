@@ -28,17 +28,17 @@ theme: blood
 - Some of what is labeled "feminist" may be true and some may be false
 - In other words, labels are not everything!
 
-
+</section>
 <section data-markdown data-background="https://bossip.files.wordpress.com/2015/08/woman21.jpg?w=700">  <!--Slide Beginning-->
 
-</section><section data-markdown>
+</section>
+<section data-markdown>
 
 </section><section data-markdown data-background="http://img05.deviantart.net/fa26/i/2015/350/e/e/i_am_not_a_feminist_by_bjsparky-d94w2y1.jpg">
 
-</section><section data-markdown>
+</section>
+<section data-markdown>
 
-
-</section><section data-markdown>
 ### Feminist Ethics Overview
 
 - Downplay moral principles and traditional ethical concepts
