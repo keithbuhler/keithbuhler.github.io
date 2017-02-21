@@ -8,7 +8,7 @@ author_profile: true
 permalink:
 ---
 
-I'm Keith Buhler, a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
+I'm a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
 My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics and the philosophy of mind, Plato, and philosophy of religion. 
 

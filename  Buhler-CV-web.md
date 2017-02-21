@@ -19,8 +19,6 @@ sidebar:
 
 <p> keith.buhler@uky.edu   </p>
 
-<p> keithbuhler.com    </p>
-
 </center>
 
 [PDF version](http://www.keithbuhler.com/Buhler-CV.pdf)
