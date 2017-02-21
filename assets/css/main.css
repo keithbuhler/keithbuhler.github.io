@@ -113,7 +113,7 @@ tt,code,kbd,samp,pre{font-family:Monaco,Consolas,"Lucida Console",monospace}
 pre{overflow-x:auto}
 p>code,a>code,li>code,figcaption>code,td>code{padding-top:0.1rem;padding-bottom:0.1rem;font-size:0.8em;background:#fafafa;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
 p>code:before,p>code:after,a>code:before,a>code:after,li>code:before,li>code:after,figcaption>code:before,figcaption>code:after,td>code:before,td>code:after{letter-spacing:-0.2em;content:"\00a0"}
-hr{display:block;margin:1em 0;border:0;border-top:1px solid #f2f3f3}
+hr{display:block;margin:2em 0;border:0;border-top:1px solid #3b7aae}
 ul li,ol li{margin-bottom:0.5em}
 li ul,li ol{margin-top:0.5em}
 figure{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:2em 0}
