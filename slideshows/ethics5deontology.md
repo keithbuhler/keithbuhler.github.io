@@ -1,5 +1,5 @@
 ---
-title: 
+title: Deontology
 layout: slide
 theme: blood
 ---

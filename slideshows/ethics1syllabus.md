@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Morality and Society Introduction and Syllabus
 layout: slide
 theme: league
 ---

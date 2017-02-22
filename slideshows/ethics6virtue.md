@@ -1,5 +1,5 @@
 ---
-title: 
+title: Virtue Ethics Deck
 layout: slide
 theme: blood
 ---

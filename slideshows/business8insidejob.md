@@ -1,6 +1,6 @@
 ---
-layout: slide
 title: Inside Job (Film)
+layout: slide
 theme: simple
 
 ---

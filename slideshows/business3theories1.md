@@ -1,6 +1,6 @@
 ---
+title: Ethical Theories
 layout: slide
-title: Business, Ethical Theories
 theme: night
 ---
 

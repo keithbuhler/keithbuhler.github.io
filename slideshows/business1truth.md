@@ -1,6 +1,6 @@
 ---
-layout: slide
 title: Truth
+layout: slide
 theme: night
 ---
 

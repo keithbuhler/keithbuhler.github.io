@@ -1,6 +1,6 @@
 ---
-layout: slide
 title: Moral Law
+layout: slide
 theme: night
 ---
 

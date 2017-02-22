@@ -1,5 +1,5 @@
 ---
-title: utilitarianism 
+title: Utilitarianism 
 layout: slide
 theme: blood
 ---

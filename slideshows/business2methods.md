@@ -1,6 +1,6 @@
 ---
-layout: slide
 title: Methods of business ethics
+layout: slide
 theme: blood
 ---
 

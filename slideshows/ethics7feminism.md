@@ -1,5 +1,5 @@
 ---
-title: 
+title: Feminist Ethics Slideshow
 layout: slide
 theme: blood
 ---

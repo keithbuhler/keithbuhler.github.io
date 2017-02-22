@@ -1,6 +1,6 @@
 ---
-layout: slide
 title: Capitalism
+layout: slide
 theme: beige
 ---
 

@@ -1,6 +1,6 @@
 ---
+title: Virtue
 layout: slide
-title: Business Ethics, Week 2, Truth
 theme: night
 ---
 
