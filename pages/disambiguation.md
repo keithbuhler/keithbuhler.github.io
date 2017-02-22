@@ -19,13 +19,13 @@ header:
 
 * [Keith Buhler, California-based EDM musician](https://www.facebook.com/keithbuhler)
 
-*Nor with these Buhler, Buehler, or Bühlers:*
+*Nor with these Bühlers:*
 
 * [Buhler, Kansas](https://en.wikipedia.org/wiki/Buhler,_Kansas)
-* [Buehler Foods, an Ohio grocery store](https://en.wikipedia.org/wiki/Buehler_Food_Markets_Inc.)
 * [Buhler Group, Swiss tech company](https://en.wikipedia.org/wiki/Buhler_Group)
 * [Buhler Industries, Canadian farm equipment company](https://en.wikipedia.org/wiki/Buhler_Industries)
 * [Bühler Motor, German car company](https://en.wikipedia.org/wiki/B%C3%BChler_Motor) 
+* [Buhler and Associates & Patenting](http://www.buhlerassociates.com/)
 
 Go [home.](/)
 

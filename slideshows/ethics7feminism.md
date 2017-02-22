@@ -109,7 +109,139 @@ theme: blood
 
 
 
+</section>
+</section><!--Slide end-->
 
+
+<section><!--Intro slide begin-->
+<section data-background="http://i.huffpost.com/gen/2395382/images/o-FEMINISM-IN-2014-facebook.jpg" data-markdown><!--Intro slide begin-->
+
+
+# Baier & Held
+
+</section><section data-markdown><!--Intro slide end-->
+
+## The Need for More Than Justice
+
+- Rawls: Justice is the first virtue of social institutions 
+- The counter-Rawls movement argues that "justice is one virtue among many" (466)
+- Can "care" supplement -- not replace -- justice?
+- Is care female? Feminine? Not the prerogative of women (466)
+
+</section><section data-markdown>
+
+### Maternity
+
+- Caring is a virtue of caretakers, esp. motherhood
+- Why mothers?
+- Children depend on parents to avoid isolation and powerlessness
+
+
+> Some find it retrograde to hail as a special sort of moral wisdom an outlook that may be the product of socially enforced restriction of women to domestic roles...
+
+
+</section><section data-markdown>
+
+### Maternity
+
+- Women, like blacks, use the language of "rights" to change their social position
+- Yet find that Kantian notions of "rights" do not satisfy all moral dimensions
+
+
+</section><section data-markdown>
+
+### Kohlburg
+
+- Kohlberg followed Kant and Piaget
+- Kohlberg's experiments: testing pre-conventional, conventional, post-conventional moral thinking
+- Found that women were more likely to score "lower" on Kohlberg's test
+- The assumption is that impartial, impersonal, "legal" thinking is morally mature
+- Gilligan challenged this
+
+
+
+</section><section data-markdown>
+
+### Individual Rights and Equality
+
+- Misery is compatible with rights (469)
+- Equality creates social "fractures" (470)
+- Mature men and women wanted interconnection, family, friends, society rather than autonomy and being left alone
+- Communitarian moral ideals are closer to "religion-linked" versions of morality than the "modern Western liberal ideal"
+- Also closer to Hegel
+
+
+</section><section data-markdown>
+
+### Gilligan's Contributions
+
+1. Individualism (471)
+2. Patriarchy (472)
+3. "Equality" for equal rights
+4. Rationalism (476)
+
+
+</section><section data-markdown>
+
+### Held, Ethics of Care
+
+- Relational ethics, ethics of love
+- Potential substitute for Kantian, utilitarianism, virtue ethics
+- OR a form of virtue ethics
+
+
+</section><section data-markdown>
+
+### Features
+
+- We are dependent for most of our lives
+- Value emotion
+- Avoiding bias through reason; choosing bias; (480-1)
+- Re-thinking public/private
+
+
+</section><section data-markdown>
+
+### Liberal Individualism (482)
+
+- False picture of human persons
+- False picture of human society
+
+</section><section data-markdown>
+
+### Justice and Care (484)
+
+- Justice: fairness, equality, rights
+- Care: attentiveness, trust, responsiveness
+
+>(Alternately, fairness versus justice, shalom)
+
+</section><section data-markdown>
+
+### Implications for Society (487)
+
+
+
+</section><section data-markdown>
+
+### Virtue Ethics (489)
+
+- Ethics of care is "distinctive moral outlook" from virtue ethics (490)
+
+</section><section data-markdown>
+
+### Implications for Society (487)
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Discussion
 
 </section>
 </section><!--Slide end-->

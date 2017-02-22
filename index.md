@@ -14,6 +14,7 @@ My research puts an Aristotelian form of virtue ethics in conversation with cont
 
 I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a bachelor's in Humanities from Biola University.
  
+<br>
 
 # Research 
 
@@ -29,6 +30,9 @@ One extension of that project puts Foot's "secular natural law theory" into conv
 - [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
 
 
+<br>
+
+
 # Teaching
 
 ----
@@ -40,6 +44,7 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 In colleges, I've taught logic, business ethics, health care ethics, virtue ethics, and more. In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish, among others. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
 
 
+<br>
 
 # Student and Employer Feedback
 
@@ -54,6 +59,8 @@ In colleges, I've taught logic, business ethics, health care ethics, virtue ethi
 *  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
 
 - Read more [RateMyProfessors reviews students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+
+<br>
 
 # Mini Bio
 
