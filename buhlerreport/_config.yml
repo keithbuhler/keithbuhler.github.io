@@ -1,0 +1,106 @@
+# Site settings
+ locale:         "en"
+ title:          "The Buhler Report"
+ name:           "Keith Buhler"
+ description:    "Timeless Wisdom. Current Events. News, essays, and commentary from philosopher and writer Keith Buhler."
+ url:            "http://keithbuhler.com"
+ baseurl:        "/buhlerreport"
+ email:          "keithedbuhler@gmail.com"
+ comments: 
+  provider:       "facebook"
+  facebook: 
+    appid:    #optional
+    num_posts: 5
+    colorscheme : #"light" (default", "dark")
+words_per_minute: "200"
+
+#  disqus: 
+#    shortname: "thebuhlerreport"
+
+teaser:         "spiral.jpg"
+
+# Build settings
+markdown:       kramdown
+markdown_ext:   markdown,mkdown,mkdn,mkd,md
+encoding:       utf-8
+
+# SEO Related empty
+
+
+# Social networking links used in footer. Update and remove as you like.
+  twitter: 
+    username:     "Keith_Buhler"
+  facebook: 
+    username:     "keithedbuhler" # https://www.facebook.com/keithedbuhler
+  og_image:       aristotle50.bmp
+
+# Specific social profiles
+social: 
+  type: ""
+  links:
+    -"http://twitter.com/Keith_Buhler"
+    -"http://www.facebook.com/keithedbuhler"
+
+# Analytics for Google would go here. I just put it in the head manually.
+# analytics: 
+#  provider: "google-universal:
+#    tracking_id: "UA-71712734-1"
+
+# author info
+
+author:
+  name      : "Keith Buhler"
+  avatar    : "avatar.png"
+  bio       : "Philosopher, classical educator, and writer"
+  email     : "keithedbuhler@gmail.com"
+  url       : "http://www.keithbuhler.com"
+  github    : "keithbuhler"
+  google_plus:  "+KeithBuhler"
+  facebook  : "keithedbuhler" 
+  twitter   : "Keith_Buhler"
+  youtube:  : ""
+
+  
+# Timezone
+timezone:     America/New_York  
+highlighter: rouge
+ 
+
+# Gems
+
+gems: 
+
+# Outputting
+paginate: 5
+paginate_path: /page:num/
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+    
+defaults:
+  #all
+  - scope:
+      path: "" # empty string for all files
+      values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related_posts: true
+      related: true
+      read-more: true
+      share: true
+      excerpt_separator: <!--more-->
+      words_per_minute: 200
