@@ -39,10 +39,26 @@ One extension of that project puts Foot's "secular natural law theory" into conv
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
-Over the last 15 years, I've helped almost a thousand students of all ages. My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. 
+Over the last 15 years, I've helped almost a thousand students of all ages. My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
 
-In colleges, I've taught logic, business ethics, health care ethics, virtue ethics, and more. In high schools, I've taught "Great Books", humanities, literature, theology, and Spanish, among others. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+### Courses Taught, University of Kentucky
 
+1. Business Ethics  (x2, upper level, 30 students)
+2. Health Care Ethics (x2, upper level 30 students)
+3. Introduction to Philosophy (x2, 30 students)
+4. Ethics (x4, 30 students)
+5. Logic (x2, 30 students)
+
+### Asbury University
+
+6. Philosophy of Religion (upper level, independent study)
+7. Philosophy of C.S. Lewis (upper level, 6 students)
+8. Virtue Ethics, Ancient and Modern (upper level, 8 students)
+9. Introduction to Philosophy (x6, 40 students)\newline
+
+### Biola University 
+
+11. Philosophy of Science (as Teaching Assistant)
 
 <br>
 

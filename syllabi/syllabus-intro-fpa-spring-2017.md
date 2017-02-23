@@ -20,7 +20,7 @@ title: Introduction to Philosophy Syllabus
 
 ### Handouts (provided)
 - [Augustine, *Confessions*](http://amzn.to/1QJ7qEj)
-- [*Peter Kreeft, *Socratic Logic*](http://amzn.to/2iy4Mmb)
+- [Peter Kreeft, *Socratic Logic*](http://amzn.to/2iy4Mmb)
 
 
 > Buy the proper ISBNS only, please, because I assign page numbers *from these editions*.  Get physical books, not e-books, unless the cost is prohibitive.  New or used are both OK. You may purchase from any online retailer or physical bookstore, but the links provided are from Amazon (I participate in their affiliate program). Other handouts are provided for free online. 

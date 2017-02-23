@@ -1,4 +1,4 @@
-#Main links
+#Masthead for Main Site, Keithbuhler.com
 main:
   - title: "CV"
     url: http://keithbuhler.com/cv
@@ -7,6 +7,7 @@ main:
   - title: "FOR STUDENTS"
     url: http://keithbuhler.com/students
 
+#Masthead for Philosophy Portal
 phil:
   - title: "BEFORE CLASS"
     url: http://www.keithbuhler.com/philosophy
@@ -15,6 +16,7 @@ phil:
   - title: "AFTER CLASS"
     url: http://www.keithbuhler.com/philosophy-6-next
 
+# Side nav for Philosophy Portal
 philosophy:
   - title: "Start Here"
     url: http://www.keithbuhler.com/philosophy
@@ -56,29 +58,49 @@ philosophy:
   - title: "Fun Stuff"
     url: http://www.keithbuhler.com/fun
 
+# Retired. This was what I resolved on for about the first 6 months. As of 2/17, I've got "about, research, and teaching" combined onto a one-page style front page. And I've added "papers" instead of research, to highlight my first publication.
+#  - title: "ABOUT"
+#    url: http://keithbuhler.com/about
+#  - title: "RESEARCH"
+#    url: http://keithbuhler.com/research
+#  - title: "TEACHING"
+#    url: http://keithbuhler.com/teaching
+#  - title: "FOR STUDENTS"
+#    url: http://keithbuhler.com/students
 
-future:
-  - title: "HOME (Front page of blog, remove. Add posts by category and year)"
-    url: http://keithbuhler.com/
-  - title: "ABOUT"
-    url: http://keithbuhler.com/about
-  - title: "BOOKS"
-    url: http://keithbuhler.com/books
-  - title: "RESEARCH AND TEACHING scholarship"
-    url: http://keithbuhler.com/scholarship
-  - title: "WRITINGS (articles, lectures, speeches)"
-    url: http://keithbuhler.com/writing-links
-  - title: "PHILOSOPHY PORTAL (for students)"
-    url: http://keithbuhler.com/students
-  - title: "FUN STUFF"
-    url: http://www.keithbuhler.com/fun
-  - title: "CLASSICAL EDUCATION"
-    url: http://www.classicalschools.org/
+#Future "Main" links, copying Roger Scruton
+#$ future:
+#$   - title: "HOME (Front page of blog, remove. Add posts by category and year)"
+#$     url: http://keithbuhler.com/
+#$   - title: "ABOUT"
+#$     url: http://keithbuhler.com/about
+#$   - title: "BOOKS"
+#$     url: http://keithbuhler.com/books
+#$   - title: "RESEARCH AND TEACHING (scholarship, books)"
+#$     url: http://keithbuhler.com/scholarship
+#$   - title: "WRITINGS (articles, lectures, speeches)"
+#$     url: http://keithbuhler.com/writing-links
+#$   - title: "PHILOSOPHY PORTAL (for students)"
+#$     url: http://keithbuhler.com/students
+#$   - title: "FUN STUFF (sandbox, call it sandbox probably)"
+#$     url: http://www.keithbuhler.com/fun
+#$   - title: "CLASSICAL EDUCATION"
+#$     url: http://www.classicalschools.org/
 
-retired:
-  - title: "ABOUT"
-    url: http://keithbuhler.com/about
-  - title: "RESEARCH"
-    url: http://keithbuhler.com/research
-  - title: "TEACHING"
-    url: http://keithbuhler.com/teaching
+# Buhler Report Future
+#$   - title: Buhler Report
+#$       urL: 
+#$   - title: Philosophy
+#$       urL: 
+#$   - title: Classical Education
+#$       urL: 
+#$   - title: Politics
+#$       urL: 
+#$   - title: Smiles
+#$       urL: 
+#$   - title: Archive (with categories, tags)
+#$       urL: 
+#$   - title: About
+#$       urL: 
+#$   - title: Sandbox
+#$       urL: 
