@@ -296,7 +296,7 @@ tr,td,th{vertical-align:middle}
 .notice--danger a:hover{color:#8f3937}
 .notice--danger code{background-color:#fef7f7}
 .notice--danger ul:last-child{margin-bottom:0}
-.masthead{position:relative; background:#3b7aae; color:#fff;animation:intro 0.3s both; animation-delay:0.10s;z-index:20;}
+.masthead{position:relative; background:#3b7aae; color:#b1b6b9;animation:intro 0.3s both; animation-delay:0.10s;z-index:20;}
 .masthead__inner-wrap{max-width:1000px; margin-left:auto;margin-right:auto;clear:both;padding:0.45em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; background:#3b7aae; color:#fff;} 
 .masthead__banner{max-width:100%; color:#fff; margin-left:auto;margin-right:auto;clear:both;padding:0em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
 .masthead__title{font-size:2.25em; align:center; text-decoration:none; background:#3b7aae;color:#fff; padding: 15px; margin:20px; text-}
@@ -346,7 +346,7 @@ tr,td,th{vertical-align:middle}
 .page__content+.pagination,.page__meta+.pagination,.page__share+.pagination,.page__comments+.pagination{margin-top:2em;padding-top:2em;border-top:1px solid #f2f3f3}
 .greedy-nav{position:relative;min-width:250px;background:#3b7aae;color:#fff;}
 .greedy-nav a{display:block;margin:0 1rem;padding:0.5rem 0;color:#fff;text-decoration:none}
-.greedy-nav a:hover{background:#3b7aae;color:#7a8288}
+.greedy-nav a:hover{background:#3b7aae;color:#b1b6b9}
 .greedy-nav button{position:absolute;height:100%;right:0;padding:0 0.5rem;border:0px;outline:none;background-color:#3b7aae;color:#fff;cursor:pointer}
 .greedy-nav .visible-links{display:table; align:center; font-weight:bold}
 .greedy-nav .visible-links li{display:table-cell;vertical-align:middle; align: center;}
