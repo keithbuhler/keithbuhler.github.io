@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Welcome
+title:  keithbuhler.com
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 excerpt: 
