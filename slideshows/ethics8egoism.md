@@ -24,11 +24,10 @@ theme: blood
 
 | Good for me | Morally Good |
 |-------------|--------------|
-| Yes         | Yes          |
-| Yes         | No           |
-| No          | Yes          |
-| No          | No           |
-
+| X           | O            |
+| X           | X            |
+| O           | X            |
+| O           | O            |
 
 </section><section data-markdown>
 ### Plato, the Ring of Gyges
