@@ -26,9 +26,6 @@ theme: simple
 
 </section><section data-markdown>
 
-
-### Outline of film 
-
 1. **How We Got Here** (1940-2000): The U.S. finance industry invests in collateralized debt obligations (CDO)
 2. **The Bubble** (2001-2007): The finance industry invests in credit default swaps 
 3. **The Crisis** (2007): Bear Stearns, Lehman Brothers, Fannie Mae and Freddie Mac, Merrill Lynch all lose all their money. Lehman Brothers declares bankruptcy. Millions of American homeowners were foreclosed.
