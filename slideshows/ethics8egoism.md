@@ -20,14 +20,14 @@ theme: blood
 
 
 
-## Why Be Moral?
+### Why Be Moral?
 
- Self-Interested |  Morally Good 
+| Self-Interested |  Morally Good |
 |-----------------|---------------|
- Yes             |     Yes       
- Yes             |     No        
- No              |     Yes       
- No              |     No        
+| Yes             |     Yes       |
+| Yes             |     No        |
+| No              |     Yes       |
+| No              |     No        |
 
 
 
