@@ -22,12 +22,12 @@ theme: blood
 
 ## Why Be Moral?
 
-| Self-Interested |  Morally Good |
+ Self-Interested |  Morally Good 
 |-----------------|---------------|
-| Yes             |     Yes       |
-| Yes             |     No        |
-| No              |     Yes       |
-| No              |     No        |
+ Yes             |     Yes       
+ Yes             |     No        
+ No              |     Yes       
+ No              |     No        
 
 
 
@@ -62,17 +62,7 @@ theme: blood
 </section><section data-markdown>
 ### Objectivism: self-interest, selfishness, your life
 
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Discussion
-
-* What is purpose of morality? 
+- Start here
 
 
 
@@ -114,5 +104,5 @@ theme: blood
 |-----------------|---------------|
 | Yes             |     Yes       |
 | Yes             |     No        |
-| No              |     Yes        |
+| No              |     Yes       |
 | No              |     No        |
