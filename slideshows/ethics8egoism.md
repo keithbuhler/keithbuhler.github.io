@@ -22,12 +22,11 @@ theme: blood
 
 ### Why Be Moral?
 
-| Good for me | Morally Good |
-|-------------|--------------|
-| X           | O            |
-| X           | X            |
-| O           | X            |
-| O           | O            |
+1. Good for me, and Morally good     | (justice?)
+2. Not Good for me, but Morally Good | (saving child's life)
+2. Good for me, but not Morally Good | (killing enemies)
+2. Not Good for me, and not Morally Good | (murder-suicide)
+
 
 </section><section data-markdown>
 ### Plato, the Ring of Gyges
@@ -58,11 +57,52 @@ theme: blood
 
 
 </section><section data-markdown>
-### Objectivism: self-interest, selfishness, your life
+### Thesis: Morality requires self-interest and life
 
-- Start here
+- I argue that morality is mind and life. 
+- "To remain alive, he  must think" (506)
+- Life is good, death evil
+- "It is only a to a living entity that things can be good or evil" because only living things are fragile, vulnerable, destructible
+- A rational being must act according to values
+- The ultimate value is "Man's Life"
+
+</section><section data-markdown>
+### Thesis: Morality requires self-interest and life
+
+- Acting contrary to your life is irrational and suicidal"Rational being or suicidal animal"
+- "Man's life is the *standard of morality* but your own life is its *purpose*" (507)
+- Happiness is the "successful state of life"
 
 
+</section><section data-markdown>
+### Objection: "Morality" requires you kill yourself
+
+1. It seems that morality requires you suppress your happiness and self-interest for the sake of helping others. 
+- "A doctrine that gives you, as an ideal, the role of a sacrificial animal seeking slaughter on the altars of others, is giving you *death* as your standard" (507)
+- Man is not merely an animal following instincts (508)
+
+</section><section data-markdown>
+### Objection: "Morality" requires you kill yourself
+
+- "Sweep aside those hatred-eaten mystics, who pose as friends of humanity and preach that the highest virtue man can practice is to hold his own life as of no value" (508)
+- "The good of others" is a "magic formula that transforms anything into gold"; the mere intention baptizes your actions, as long as it is non-good for me. 
+- "If *you* wish it, it's evil; if others wish it, it's good."
+
+</section><section data-markdown>
+### Objection: "Morality" requires you kill yourself
+
+- "As this double-jointed, double-standard morality splits you in half, so it splits mankind into two enemy camps: one is *you*, the other is all the rest of humanity" (509)
+
+
+</section><section data-markdown>
+### Objection: "Morality" requires you kill yourself
+
+- "Consolation prize and booby-trap": your joy comes from giving it up to others; protecting your life by protecting all others
+- Rand: *Why?* (509-10)
+
+</section><section data-markdown>
+### Objection: "Morality" requires you kill yourself
+ 
 
 
 
