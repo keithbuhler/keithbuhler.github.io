@@ -5,11 +5,10 @@ theme: simple
 
 ---
 
+<section>
 <section data-background="https://fanart.tv/fanart/movies/44639/moviethumb/inside-job-5347501bbe29f.jpg">
 
-</section>
-<section>
-<section data-markdown>
+</section><section data-markdown>
 
 # About Inside Job
 
@@ -123,11 +122,12 @@ What is the stock market and why does it exist?
 7. Should you buy Apple stock? Should you sell? Will the next iPhone revolutionize the market? Will the next unknown product become a household name? Is the new CEO (Tim Cook) as good as Jobs? That's how the stock market creates, and destroys wealth. 
 
 </section><section data-markdown>
-</section><section data-markdown>
-</section><section data-markdown>
-</section><section data-markdown>
 
-# Before you go
+
+## 2 Minutes Left
 
 * Questions?
-* Write a short response
+* Thoughts?
+
+</section>
+</section>
