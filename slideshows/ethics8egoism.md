@@ -26,7 +26,7 @@ theme: blood
 |-----------------|---------------|
 | Yes             |     Yes       |
 | Yes             |     No        |
-| No              |     Yes        |
+| No              |     Yes       |
 | No              |     No        |
 
 
@@ -34,24 +34,34 @@ theme: blood
 </section><section data-markdown>
 ### Plato, the Ring of Gyges
 
+- (1) Good for something else (exercise, medicine); (2) Good for its own sake (pleasure) and (3) Both (knowledge, sight, health) -- Is justice 1 or 3? 
+- If one could be invisible, "No man would be of such an iron nature that he would stand fast in justice" (500).
+- Perfectly unjust and a reputation for justice, vs. perfectly just and a reputation for injustice
 
-1. Good for something else
-2. 
 
+</section><section data-markdown>
+### Plato, the Ring of Gyges
 
+- The just person is beautiful, the divine part ruling the bestial
+- The unjust person is hideous, the bestial part ruling the human
+- It is better to get caught and punished for injustice
 
 
 
 
 </section><section data-markdown>
-### Egoism
+### Egoism ("Objectivism")
 
+- Mystical morality: a code imposed by God's whim
+- Social morality: a code imposed by society's whim
+- Where they agree is opposing practical and moral, truth and goodness
 
 
 
 
 </section><section data-markdown>
-### 
+### Objectivism: self-interest, selfishness, your life
+
 
 
 
