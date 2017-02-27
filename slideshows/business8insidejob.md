@@ -1,5 +1,5 @@
 ---
-title: Inside Job (Film)
+title: Inside Job (Film) 
 layout: slide
 theme: simple
 
