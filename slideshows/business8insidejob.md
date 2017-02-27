@@ -21,20 +21,20 @@ theme: simple
 </section><section data-markdown>
 
 
-## Outline of film 
+### Outline of film 
 
 0. **Introduction:** Iceland's deregulation and privatization of banks
-1. **How We Got Here** (1940-2000): The U.S. finance industry invests in collateralized debt obligations (CDO)
-2. **The Bubble** (2001-2007): The finance industry invests in credit default swaps 
-3. **The Crisis** (2007): Bear Stearns, Lehman Brothers, Fannie Mae and Freddie Mac, Merrill Lynch all lose all their money. Lehman Brothers declares bankruptcy. Millions of American homeowners were foreclosed.
-
 
 </section><section data-markdown>
 
-## Outline of film 
 
+### Outline of film 
+
+1. **How We Got Here** (1940-2000): The U.S. finance industry invests in collateralized debt obligations (CDO)
+2. **The Bubble** (2001-2007): The finance industry invests in credit default swaps 
+3. **The Crisis** (2007): Bear Stearns, Lehman Brothers, Fannie Mae and Freddie Mac, Merrill Lynch all lose all their money. Lehman Brothers declares bankruptcy. Millions of American homeowners were foreclosed.
 4. **Accountability:** Finance executives, government regulators, and ratings agencies make money and avoid reform.
-5. **Where We Are Now:** 10,000s of U.S. Factory workers lost their jobs, and there are no new regulations. Ben Bernanke was re-appointed Fed Chair. 
+5. **Where We Are Now:** 10,000s of U.S. Factory workers lost their jobs, and there are *no new regulations.* Obama hired *all the same people* for his cabinet.
 
 </section><section data-markdown>
 

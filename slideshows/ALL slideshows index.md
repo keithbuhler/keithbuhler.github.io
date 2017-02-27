@@ -16,7 +16,7 @@ permalink: /slideshows/
 * [Week 5 Capitalism](/slideshows/business5capitalism)
 * [Week 6 CEO Pay](/slideshows/business6ceopay)
 * [Week 7 Moral Law](/slideshows/business7morallaw)
-* [Week 8 Inside Job (Film)](http://www.keithbuhler.com/slideshows/business6insidejob)
+* [Week 8 Inside Job (Film)](http://www.keithbuhler.com/slideshows/business8insidejob)
 * [Week 9 Privacy]
 * [Week 10 Lobbying]
 * [Week 11 Employees]
