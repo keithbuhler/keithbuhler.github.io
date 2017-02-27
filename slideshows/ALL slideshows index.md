@@ -40,7 +40,7 @@ permalink: /slideshows/
 * [Week 5 Deontological Ethics](http://www.keithbuhler.com/slideshows/ethics5deontology)
 * [Week 6 Virtue ethics](/slideshows/ethics6virtue)
 * [Week 7 Feminist ethics](/slideshows/ethics7feminism)
-* [Week 8 Egoism]
+* [Week 8 Egoism](/slideshows/ethics8egoism)
 * [Week 9 The meaning of life]
 * [Week 10 Autonomy]
 * [Week 11 Sexual Ethics]
