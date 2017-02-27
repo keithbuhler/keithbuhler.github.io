@@ -22,13 +22,12 @@ theme: blood
 
 ### Why Be Moral?
 
-| Self-Interested |  Morally Good |
-|-----------------|---------------|
-| Yes             |     Yes       |
-| Yes             |     No        |
-| No              |     Yes       |
-| No              |     No        |
-
+| Good for me | Morally Good |
+|-------------|--------------|
+| Yes         | Yes          |
+| Yes         | No           |
+| No          | Yes          |
+| No          | No           |
 
 
 </section><section data-markdown>
