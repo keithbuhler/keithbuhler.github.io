@@ -12,7 +12,9 @@ header:
 
 ## Intro
 
-This site is an ongoing compendium of essays and resources to guide you in teaching, and learning, classically. (This page is in beta.) I have been teaching classically since 2000, including one two years as Master Tutor at the Torrey Academy in CA and one year as Director of High School at Veritas Academy in KY. I have a passion for teaching students, helping new schools' growth and formation, and advocating to the public for classical education. 
+This site is an ongoing compendium of essays and resources to guide you in teaching, and learning, classically. (This page is in beta.) 
+
+I have been teaching classically since 2000, including one two years as Master Tutor at the Torrey Academy in CA and one year as Director of High School at Veritas Academy in KY. I have a passion for teaching students, helping new schools' growth and formation, and advocating to the public for classical education. 
 
 
 
@@ -59,7 +61,13 @@ Join us!
 - [Martin Cothran](http://www.memoriapress.com/onlineschool/faculty/martin-cothran) on [the seven liberal arts](https://vimeo.com/85731207)
 
 
+## Andrew Kern's Five Classical Ideals
 
+1. A unifying principal that orders all learning, thus an integrated, proportioned course of learning.
+2. Recognition of the transforming power of ideas, thus an emphasis on training students to contemplate ideas rather than merely retain content or master processes.
+3. Virtue as the end of education, rather than mere application, thus a concerted and rigorous effort to cultivate every human faculty in every student.
+4. Recognition of the need for mentors, models, examples, etc. who are masters of their area of knowledge and who are the kinds of people we hope the students will grow up to become. In a word: honor and recognition to genuine authority.
+5. Endless emphasis on reality over mere appearance, thus the recognition that perception is powerful, but it is not necessarily reality. When one is taught that perception is reality, accountability and the need to grow are either relativized, trivialized, or removed altogether.
 
 ## Logic
 

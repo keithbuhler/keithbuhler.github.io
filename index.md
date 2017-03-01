@@ -12,7 +12,7 @@ I'm a postdoctoral scholar at the University of Kentucky and a philosophy instru
 
 My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics and the philosophy of mind, Plato, and philosophy of religion. 
 
-I earned my PhD in philosophy at UK, where I worked under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a bachelor's in Humanities from Biola University.
+I completed my PhD in philosophy under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a bachelor's in Humanities from Biola University.
  
 <br>
 
@@ -74,7 +74,7 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 
 *  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
 
-- Read more [RateMyProfessors reviews students](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+- Read more student reviews at [RateMyProfessors.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 <br>
 

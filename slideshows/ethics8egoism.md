@@ -10,7 +10,7 @@ theme: blood
 
 
 
-# Egoism
+## Egoism
 
 
 
@@ -103,7 +103,7 @@ theme: blood
 </section><section data-markdown>
 ### Objection: "Morality" requires you kill yourself
  
-
+- 
 
 
 </section><section data-markdown>
@@ -120,7 +120,7 @@ theme: blood
 
 
 
-<section><!--Intro slide begin-->
+<section><!--Day 2 Begin-->
 <section data-background="http://www.abeautiful.world/wp-content/uploads/sites/41/2015/06/altruism-830x460.jpg" data-markdown><!--Intro slide begin-->
 
 
@@ -134,13 +134,87 @@ theme: blood
 </section> <!--Intro slide end-->
 <section data-markdown>  <!--Slide Beginning-->
 
+### False dilemma
+
+- Rand "assumes that absolute altruism and absolute egoism are the only alternatives." (515)
+- Egoism might be the best *means* to altruism or altruism the best *means* to egoism
+- Altruism may be forbidden, permitted, or obligatory
 
 
-## Why Be Moral?
+</section>
+<section data-markdown>
 
-| Self-Interested |  Morally Good |
-|-----------------|---------------|
-| Yes             |     Yes       |
-| Yes             |     No        |
-| No              |     Yes       |
-| No              |     No        |
+### Four criticisms
+
+
+>"To preach egoism is to practice altruism" (Chesterton)
+
+
+</section><section data-markdown>
+
+### Four criticisms
+
+1. Brian Medlin: egoism advises inconsistent outcomes (I want best for me, and I want you to want not the best for me)
+2. Publicity: 
+3. Paradox of Egoism: to become a successful egoist, one must become an altruist (to some extent) by being a friend, lover, etc.
+4. Counterintuitive Consequences: Helping others at my own expense is morally wrong. Saving someone else, or millions of others, and getting nothing in return would be morally wrong. 
+
+
+
+
+</section><section data-markdown>
+
+### Summary
+
+> "[Egoism] cannot consistently publicize itself, nor often argue its case. It tends towards solipsism and th eexclusion of many of the deepest human values, such as love and deep friendship. It violates the principle of fairness, and, most of all, it entails an absolute prohibition on altruistic behavior."
+
+
+
+
+
+</section><section data-markdown>
+
+### Evolution
+
+- What then is the role of self-love in morality?
+- Evolution has been used to justify exploitation and genocide
+- Evolution can also be used to justify altruism
+- How might that work? 
+
+
+
+
+
+</section><section data-markdown>
+
+### Gene Replication
+
+- Suckers (altruistic morality)
+- Cheaters (egoistic morality)
+- Grudgers (reciprocal morality)
+
+Suckers help anyone, even those who hurt them back. Cheaters only help other Cheaters. And Grudgers help other Grudgers, as well as Suckers, but not Cheaters (518)
+
+</section><section data-markdown>
+### Response
+
+- There is no obligation to be manipulated ("be wise as serpents, harmless as doves")
+- There also a greater obligation to closer friends, family
+- Avoid both extremes (520)
+
+
+</section><section data-markdown>
+
+
+
+### Discussion
+
+- True or false: everyone is an egoist
+- Laurence Thomas argument against egoism
+
+
+
+
+
+</section>
+</section> <!--end day 2-->
