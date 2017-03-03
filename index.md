@@ -8,7 +8,7 @@ author_profile: true
 permalink:
 ---
 
-I'm a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
+I'm currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
 My research puts an Aristotelian form of virtue ethics in conversation with contemporary ethical and metaphysical naturalism. For example, I'm especially interested in critiques of modern moral philosophy and the attempt to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics and the philosophy of mind, Plato, and philosophy of religion. 
 
@@ -43,22 +43,41 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 
 ### Courses Taught, University of Kentucky
 
-1. Business Ethics  (x2, upper level, 30 students)
-2. Health Care Ethics (x2, upper level 30 students)
-3. Introduction to Philosophy (x2, 30 students)
-4. Ethics (x4, 30 students)
-5. Logic (x2, 30 students)
+- Business Ethics
+- Health Care Ethics
+- Introduction to Philosophy
+- Introduction to Ethics
+- Introduction to Logic
 
 ### Asbury University
 
-6. Philosophy of Religion (upper level, independent study)
-7. Philosophy of C.S. Lewis (upper level, 6 students)
-8. Virtue Ethics, Ancient and Modern (upper level, 8 students)
-9. Introduction to Philosophy (x6, 40 students)\newline
+- Philosophy of Religion
+- Philosophy of C.S. Lewis
+- Virtue Ethics, Ancient and Modern
+- Introduction to Philosophy 
 
 ### Biola University 
 
-11. Philosophy of Science (as Teaching Assistant)
+- Philosophy of Science (as Teaching Assistant)
+
+### Freedom Project Academy
+
+- Introduction to Philosophy 
+
+### Veritas Academy
+
+- Humanities: The British Literature of the Inklings
+
+### Torrey Academy
+
+- Plato
+- Aristotelian Logic
+- Humanities: Ancient Literature, Philosophy, and History
+- Humanities: Medieval Literature, Philosophy, and History
+- Humanities: American Literature, Philosophy, and History
+- Shakespeare
+- Humanities: The British Literature of the Inklings
+
 
 <br>
 
@@ -66,11 +85,11 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 
 ----
 
-* "I can say that I learned more from this class than any I have taken before." (UK, PHI305, 2015)
+* "I can say that I learned more from this class than any I have taken before." (2015)
 
-* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (PHL200, 2016)
+* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (2016)
 
-* “It seems as though I have been looking all my life for what I have found in philosophy.” (PHL200, Asbury University, Spring 2016.)
+* “It seems as though I have been looking all my life for what I have found in philosophy.” (Spring 2016.)
 
 *  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
 
