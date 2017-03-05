@@ -16,8 +16,8 @@ permalink: /slideshows/
 * [Week 5 Capitalism](/slideshows/business5capitalism)
 * [Week 6 CEO Pay](/slideshows/business6ceopay)
 * [Week 7 Moral Law](/slideshows/business7morallaw)
-* [Week 8 Inside Job (Film)](http://www.keithbuhler.com/slideshows/business8insidejob)
-* [Week 9 Privacy]
+* [Week 8 Inside Job (Film)](/slideshows/business8insidejob)
+* [Week 9 Privacy](/slideshows/business9information)
 * [Week 10 Lobbying]
 * [Week 11 Employees]
 * [Week 12 Employees]
@@ -41,7 +41,7 @@ permalink: /slideshows/
 * [Week 6 Virtue ethics](/slideshows/ethics6virtue)
 * [Week 7 Feminist ethics](/slideshows/ethics7feminism)
 * [Week 8 Egoism](/slideshows/ethics8egoism)
-* [Week 9 The meaning of life]
+* [Week 9 The Meaning of Life](/slideshows/ethics9life)
 * [Week 10 Autonomy]
 * [Week 11 Sexual Ethics]
 * [Week 12 Abortion]
@@ -57,8 +57,8 @@ permalink: /slideshows/
 * [Week 4-5 Holiness and Wisdom](https://docs.google.com/presentation/d/1VnRf3kNIHvuPd9RAOWrP3TVlKGR6AoxSc62kTo00Y0s/)
 * [Week 6 The Soul](https://docs.google.com/presentation/d/1v8DnqgR0ka1ZXRheCGudtr8dwiVHsWPDDWttyRA-IEA/edit?usp=drive_web)
 * [Week 7-8 Forms](https://docs.google.com/presentation/d/1n7xV3Kku4tNME5wfFetn-5q3ciqt6bwEGz3yCO9jdhc/edit?usp=drive_web)
-* [Week 9 Logic]
-* [Week 10 Reasoning]
+* [Week 9 Logic](/slideshows/intro9logic)
+* [Week 10 Reasoning](/slideshows/intro9logic)
 * [Week 11 Augustine]
 * [Week 12 Evil]
 * [Week 13 God]
