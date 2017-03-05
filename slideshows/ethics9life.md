@@ -10,7 +10,7 @@ theme: blood
 
 
 
-# 
+# The Meaning of Life
 
 
 
@@ -57,7 +57,8 @@ theme: blood
 
 * What is purpose of morality? 
 
-
+</section>
+</section>
 
 
 <section data-background="http://www.keithbuhler.com/images/background-last-judgment.svg"><!--Day 2 begin-->
