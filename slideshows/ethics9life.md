@@ -12,6 +12,7 @@ theme: league
 
 # The Meaning of Life
 
+### Pleasure and Suffering
 
 
 
@@ -30,7 +31,10 @@ theme: league
 </section><section data-markdown>
 ### Voltaire, "The Good Brahmin"
 
-
+- The Brahmin, Indian priest ("Hindu")
+- Knows nothing and knows it
+- The ignorant women is simple and content
+-
 
 
 
@@ -39,9 +43,17 @@ theme: league
 </section><section data-markdown>
 ### Epicurus, "Hedonism"
 
+- The goal is to "avoid pain and fear" (539)
+- Death is nothing
+- Don't fear actually dying, and don't fear the anticipation
 
 
+</section><section data-markdown>
+### Epicurus, "Hedonism"
 
+- Some desires are natural, others vain
+- Natural and necessary
+- 
 
 </section><section data-markdown>
 ### 
@@ -67,7 +79,7 @@ theme: league
 
 # The Meaning of Life
 
-
+### Religion and Paradise
 
 
 </section><section data-markdown>
