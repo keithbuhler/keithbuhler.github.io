@@ -106,31 +106,68 @@ theme: league
 </section><section data-markdown>
 ### 
 
+### Intro
+
+1. Property is anything owned
+2. Ownership is a bundle of rights or justified claims
+2. In the information age, intellectual property is important but tricky
 
 
+### The Concept of Intellectual Property
+
+1. Ideas are "ours"... in what sense?
+2. Ideas can be similar 
+3. Ideas are infinitely sharable
+4. Ideas are received as part of education
+5. First use of "IP" in 1845, MA Circuit Court ruling on a patent
+6. "Expressions of the mind that are proteected by various forms of IP law" (410)
+      
+### Historical Background
+
+1. IP claims did not arise until the printing press
+2. Guilds *as a whole* protected trade secrets
+3. Individualism as a Western ideal contributed to new IP understandings
+4. 1624 British Statue of Monopolies was the "first patent law"
+5. The first "modern copyright law" was the 1709 British Act of Anne
 
 
+### Legal Context
+
+
+### Justification for IP
+
+1. Natural Rights argument
+2. Utilitarian-Pragmatic argument
+3. "Personality" argument
+
+
+### Trademark, Trade Secrecy Laws
+
+### IP Law and Morality
+
+1. Legal Protections and Ethical Obligations
+2. The variability of Legal Protections and ethical obligations
+3. Fair use
+
+
+### Copyright, Software, and Digital Information
+
+1. Unauthorized software copying
+2. Digital Information
+
+### Patents for Software and Methods of Doing business
+
+1. Patents and software
 
 
 </section><section data-markdown>
 ### 
-
-
-
-
-
-</section><section data-markdown>
-### 
-
-
-
-
-
 
 </section><section data-markdown>
 
 ### Discussion
 
+* "Ethics can say whether some legislation goes so far as to be unethical... but most legislation concerning copyright ... falls into the range of morally acceptable."
 * Your questions?
 
 
