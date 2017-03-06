@@ -17,7 +17,7 @@ permalink: /slideshows/
 * [Week 6 CEO Pay](/slideshows/business6ceopay)
 * [Week 7 Moral Law](/slideshows/business7morallaw)
 * [Week 8 Inside Job (Film)](/slideshows/business8insidejob)
-* [Week 9 Privacy](/slideshows/business9information)
+* [Week 9 Information](/slideshows/business9information)
 * [Week 10 Lobbying]
 * [Week 11 Employees]
 * [Week 12 Employees]
