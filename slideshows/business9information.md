@@ -77,7 +77,8 @@ theme: league
 
 
 
-</section>
+</section><section data-markdown>
+
 
 # Before you go
 
@@ -94,7 +95,7 @@ theme: league
 
 
 <section data-background="http://www.keithbuhler.com/images/background-lexington.svg" ><!--day 2 begin-->
-<section data-markdown>
+<section data-background="https://i.ytimg.com/vi/CLn4RCV44qA/maxresdefault.jpg" data-markdown><!--Intro slide begin-->
 
 
 
@@ -104,7 +105,6 @@ theme: league
 
 
 </section><section data-markdown>
-### 
 
 ### Intro
 
@@ -112,6 +112,8 @@ theme: league
 2. Ownership is a bundle of rights or justified claims
 2. In the information age, intellectual property is important but tricky
 
+
+</section><section data-markdown>
 
 ### The Concept of Intellectual Property
 
@@ -122,6 +124,10 @@ theme: league
 5. First use of "IP" in 1845, MA Circuit Court ruling on a patent
 6. "Expressions of the mind that are proteected by various forms of IP law" (410)
       
+
+
+</section><section data-markdown>
+
 ### Historical Background
 
 1. IP claims did not arise until the printing press
@@ -131,8 +137,13 @@ theme: league
 5. The first "modern copyright law" was the 1709 British Act of Anne
 
 
+
+</section><section data-markdown>
+
 ### Legal Context
 
+
+</section><section data-markdown>
 
 ### Justification for IP
 
@@ -141,7 +152,14 @@ theme: league
 3. "Personality" argument
 
 
+</section><section data-markdown>
+
 ### Trademark, Trade Secrecy Laws
+
+
+
+
+</section><section data-markdown>
 
 ### IP Law and Morality
 
@@ -150,18 +168,25 @@ theme: league
 3. Fair use
 
 
+
+
+
+</section><section data-markdown>
 ### Copyright, Software, and Digital Information
 
 1. Unauthorized software copying
 2. Digital Information
+
+
+
+</section><section data-markdown>
 
 ### Patents for Software and Methods of Doing business
 
 1. Patents and software
 
 
-</section><section data-markdown>
-### 
+
 
 </section><section data-markdown>
 
