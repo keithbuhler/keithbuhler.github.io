@@ -14,6 +14,7 @@ theme: league
 
 ### Why think about logic? 
 
+<section>
 <p class="fragment">
 1. Logic is unavoidable </p> -- <p class="fragment"> to think is to think according to norms </p>
 <p class="fragment">
@@ -22,6 +23,7 @@ theme: league
 3. Logic works </p> <p class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</p>
 <p class="fragment">
 4. Logic underlies all knowledge </p> -- <p class="fragment"> this includes science, philosophy, theology, psychology, engineering, art, etc. </p>
+</section>
 
 </section><section data-markdown>
 
