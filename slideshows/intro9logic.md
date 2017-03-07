@@ -7,26 +7,21 @@ theme: league
 <section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Day 1 begin-->
 <section data-background="http://www.lse.ac.uk/philosophy/wp-content/uploads/2016/04/mobius-lr2-1.gif" data-markdown><!--Intro slide begin-->
 
-# Introduction to Logic
+# Logic
 
 </section> <!--Intro slide end-->
 <section data-markdown> 
 
 ### Why think about logic? 
 
-1. Logic is unavoidable 
-2. Logic is undeniable 
-3. Logic works 
-4. Logic underlies all knowledge 
-
-</section><section data-markdown>
-
-### Why study logic? 
-
-1. Logic is unavoidable (to think is to think according to norms)
-2. Logic is undeniable (to deny logic is to use it)
-3. Logic works (some truths are necessarily true, and some relations between propositions are necessary)
-4. Logic underlies all knowledge (including science, philosophy, theology, psychology) 
+<p class="fragment">
+1. Logic is unavoidable </p> -- <p class="fragment"> to think is to think according to norms </p>
+<p class="fragment">
+2. Logic is undeniable </p>  <p class="fragment"> -- to deny logic is to use it </p>
+<p class="fragment">
+3. Logic works </p> <p class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</p>
+<p class="fragment">
+4. Logic underlies all knowledge </p> -- <p class="fragment"> this includes science, philosophy, theology, psychology, engineering, art, etc. </p>
 
 </section><section data-markdown>
 
