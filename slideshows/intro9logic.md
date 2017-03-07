@@ -191,11 +191,13 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - What is the conclusion? 
 - Valid inference? true premises? clear terms?
 
+</section><section>
 
-<iframe src="//giphy.com/embed/7rj2ZgttvgomY" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/reaction-7rj2ZgttvgomY">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/7rj2ZgttvgomY" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/reaction-7rj2ZgttvgomY"></a></p>
 
 
 </section><section data-markdown>
+
 ### Example 4
 
 >It is obvious to anyone thinking logically that minimum wage should be increased. The current minimum wage is an insult and is unfair to the people who receive it. The fact that the last proposed minimum wage increase was denied is proof that the government of this state is crooked and corrupt. The only way for them to prove otherwise is to raise minimum wage immediately.
