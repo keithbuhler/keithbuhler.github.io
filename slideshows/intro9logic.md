@@ -10,9 +10,13 @@ theme: league
 # Logic
 
 </section> <!--Intro slide end-->
-<section data-markdown id="fragments"> 
+<section data-markdown> 
 
 ### Why think about logic? 
+
+</section>
+
+<section id="fragments">
 
 <p><span class="fragment">1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms </span></p>
 
@@ -21,7 +25,9 @@ theme: league
 <p><span class="fragment">3 Logic works </span> <span class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</span></p>
 
 <p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
-</section>
+
+
+
 
 </section><section data-markdown>
 
