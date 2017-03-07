@@ -128,12 +128,41 @@ Some truths are self-evident foundations of thinking. For example, the classical
 
 </section><section data-markdown>
 
-## Questions? 
+### Questions? 
 
 
 </section><section data-markdown>
+### Pop Quiz!
 
-Pop quiz: what is the conclusion? 
+- *All men are bipeds and Edgar is a man, so Edgar is a biped.* 
+- What is the conclusion? 
+- Valid inference? true premises? clear terms?
+
+
+</section><section data-markdown>
+### Example 2
+
+- Jean Jones is seven feet tall because all San Franciscans are seven feet tall and Jean Jones is a San Franciscan.
+- Valid inference? true premises? clear terms?
+
+</section><section data-markdown>
+### Example 3
+
+1. All Oakland Raiders are football players.     
+2. Ken Stabler is a football player.
+3. Ken Stabler is an Oakland Raider.
+
+- Valid inference? true premises? clear terms?
+
+
+</section><section data-markdown>
+### Example 4
+
+1. I want my daughter to marry a good man.
+2. Shia Labeouf is a good actor. 
+3. I want my daughter to marry Shia Labeouf. 
+
+
 
 ## 2 Minutes Left
 * Questions?
