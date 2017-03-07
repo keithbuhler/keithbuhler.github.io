@@ -14,15 +14,14 @@ theme: league
 
 ### Why think about logic? 
 
-<section>
-<p class="fragment">
-1. Logic is unavoidable </p> -- <p class="fragment"> to think is to think according to norms </p>
-<p class="fragment">
-2. Logic is undeniable </p>  <p class="fragment"> -- to deny logic is to use it </p>
-<p class="fragment">
-3. Logic works </p> <p class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</p>
-<p class="fragment">
-4. Logic underlies all knowledge </p> -- <p class="fragment"> this includes science, philosophy, theology, psychology, engineering, art, etc. </p>
+<section id="fragments">
+<p><span class="fragment"> 1. Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms </span></p>
+
+<p><span class="fragment">2. Logic is undeniable</span> <span class="fragment"> -- to deny logic is to use it </span></p>
+
+<p><span class="fragment">3. Logic works </span> <span class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</span></p>
+
+<p><span class="fragment">4. Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
 </section>
 
 </section><section data-markdown>
@@ -33,7 +32,7 @@ theme: league
 
 </section><section data-markdown>
 
-### The One Thing You must ge
+### The One Thing You must get
 
 The fundamental structure of all reasoning is the movement of the mind from premises to a conclusion. The conclusion is what you are trying to prove to be true; the premises are the reasons or evidence for the truth of the conclusion.
 
@@ -129,8 +128,12 @@ Some truths are self-evident foundations of thinking. For example, the classical
 
 </section><section data-markdown>
 
+## Questions? 
 
 
+</section><section data-markdown>
+
+Pop quiz: what is the conclusion? 
 
 ## 2 Minutes Left
 * Questions?
