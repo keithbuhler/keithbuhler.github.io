@@ -10,14 +10,11 @@ theme: league
 # Logic
 
 </section> <!--Intro slide end-->
-<section data-markdown> 
+<section data-markdown id="fragments"> 
 
 ### Why think about logic? 
 
-</section>
-
-<section id="fragments">
-<p><span class="fragment"> 1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms </span></p>
+<p><span class="fragment">1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms </span></p>
 
 <p><span class="fragment">2 Logic is undeniable</span> <span class="fragment"> -- to deny logic is to use it </span></p>
 
@@ -124,6 +121,22 @@ Some truths are self-evident foundations of thinking. For example, the classical
 </section><section data-markdown>
 
 
+### Three Laws
+
+These laws are *necessary truths*. 
+
+1. Impossible
+2. Contingent but false
+3. Contingent and true
+4. Necessarily true
+
+Some truths are necessary -- they have to be true and can be known with certainty.
+
+![possible](http://www.possiblefutureworlds.com/img/logic.png)
+
+</section><section data-markdown>
+
+
 ### In a word...
 
 >Logic is the science of arguments. An argument is a proof composed of premises (that support the conclusion) and a conclusion. Arguments are composed of words. Good arguments have clearly defined words, true premises, and a valid inference to the conclusion. Fallacies are bad arguments. A good argument *necessarily* entails the conclusion; a good argument is the most scientific form of rational proof.
@@ -188,7 +201,18 @@ Some truths are self-evident foundations of thinking. For example, the classical
 
 
 </section><section data-markdown>
-### Example 5
+### Review
+
+1. Logic is inevitable and useful
+2. Premise and conclusion
+3. 3 acts of the mind: conceiving, judging, reasoning
+4. 3 laws of thought are necessary truths, identity, non-contradiction
+5. To evaluate an argument, search for the conclusion first
+6. Then examine the clarity of the terms, the truth of the premises, and the validity of the inference
+
+
+
+</section><section data-markdown>
 
 
 ## 2 Minutes Left
