@@ -14,14 +14,16 @@ theme: league
 
 ### Why think about logic? 
 
+</section>
+
 <section id="fragments">
-<p><span class="fragment"> 1. Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms </span></p>
+<p><span class="fragment"> 1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms </span></p>
 
-<p><span class="fragment">2. Logic is undeniable</span> <span class="fragment"> -- to deny logic is to use it </span></p>
+<p><span class="fragment">2 Logic is undeniable</span> <span class="fragment"> -- to deny logic is to use it </span></p>
 
-<p><span class="fragment">3. Logic works </span> <span class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</span></p>
+<p><span class="fragment">3 Logic works </span> <span class="fragment"> -- some truths are necessarily true, and some relations between propositions are necessary</span></p>
 
-<p><span class="fragment">4. Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
+<p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
 </section>
 
 </section><section data-markdown>
@@ -132,9 +134,10 @@ Some truths are self-evident foundations of thinking. For example, the classical
 
 
 </section><section data-markdown>
-### Pop Quiz!
+### Pop Quiz! 
 
-- *All men are bipeds and Edgar is a man, so Edgar is a biped.* 
+>All men are bipeds and Edgar is a man, so Edgar is a biped.
+
 - What is the conclusion? 
 - Valid inference? true premises? clear terms?
 
@@ -142,26 +145,50 @@ Some truths are self-evident foundations of thinking. For example, the classical
 </section><section data-markdown>
 ### Example 2
 
-- Jean Jones is seven feet tall because all San Franciscans are seven feet tall and Jean Jones is a San Franciscan.
+>Jean Jones is seven feet tall because all San Franciscans are seven feet tall and Jean Jones is a San Franciscan.
+
 - Valid inference? true premises? clear terms?
 
 </section><section data-markdown>
 ### Example 3
 
-1. All Oakland Raiders are football players.     
-2. Ken Stabler is a football player.
-3. Ken Stabler is an Oakland Raider.
+> 1. All Oakland Raiders are football players.     
+> 2. Ken Stabler is a football player.
+> 3. Ken Stabler is an Oakland Raider.
 
+
+- What is the conclusion? 
 - Valid inference? true premises? clear terms?
 
 
 </section><section data-markdown>
 ### Example 4
 
-1. I want my daughter to marry a good man.
-2. Shia Labeouf is a good actor. 
-3. I want my daughter to marry Shia Labeouf. 
+> 1. I want my daughter to marry a good man.
+> 2. Shia Labeouf is a good actor. 
+> 3. I want my daughter to marry Shia Labeouf. 
 
+
+- What is the conclusion? 
+- Valid inference? true premises? clear terms?
+
+
+<iframe src="//giphy.com/embed/7rj2ZgttvgomY" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/reaction-7rj2ZgttvgomY">via GIPHY</a></p>
+
+
+</section><section data-markdown>
+### Example 4
+
+>It is obvious to anyone thinking logically that minimum wage should be increased. The current minimum wage is an insult and is unfair to the people who receive it. The fact that the last proposed minimum wage increase was denied is proof that the government of this state is crooked and corrupt. The only way for them to prove otherwise is to raise minimum wage immediately.
+
+
+
+- What is the conclusion? 
+- Valid inference? true premises? clear terms?
+
+
+</section><section data-markdown>
+### Example 5
 
 
 ## 2 Minutes Left
