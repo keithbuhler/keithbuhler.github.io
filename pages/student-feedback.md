@@ -95,36 +95,76 @@ permalink: /student-feedback
 
 
 
-
-
-I enjoyed pretty much every aspect of the class. I really liked that I was able to process on my own and post about it since I hate talking in class. I also liked that even though I generally don't like to, I never felt too intimidated to speak when I wanted to because the environment was so friendly and conductive to learning and participation. (PHL293 2016)
-
-(PHL200 2016)
-
-(PHL200 2016)
-(PHL200 2016)
-
-
-Very funny and tried to crack a lot of jokes. Also, full of energy for an 8AM.(PHL200 2016)
-
-
 ## (PHL 200 Fall 2016)
+
+
+> I enjoyed pretty much every aspect of the class. I really liked that I was able to process on my own and post about it since I hate talking in class. I also liked that even though I generally don't like to, I never felt too intimidated to speak when I wanted to because the environment was so friendly and conductive to learning and participation. (PHL293 2016)
+
+
+
+>Very funny and tried to crack a lot of jokes. Also, full of energy for an 8AM.(PHL200 2016)
+
+
+## PHI 334 2016
 
 >This business ethics course based in philosophy has been hands-down my favorite course of the Fall 2016 semester. I felt there was an incredible atmosphere constructed in the course leading to extreme comfort ability and a safe place to express opinions. (PHI334 2016)
 
 > Lastly, thank you for your time and consideration you've put forth in teaching a large majority of the philosophical content I have learned throughout my college experience. You've had considerable influence on me regarding how to carry oneself, how to get a group of people involved and enthused, and most importantly, how to make an individual interested in the material. I've been in several unique classes through which I've seen students of every which major state your course as more than "just an elective" and I think you'll continue to inspire people as you move forward. Positivity that radiates is something that several people do not have or have simply lost throughout the years, and I can't envision that being your case after the several classes I've taken part in. 
-> 
-As a student at Asbury University I always ask upperclassmen what courses they took and with what professor. I was told by many to take Philosophy with Buhler; “because he’s great and actually teaches you” they would tell me. Coming into this class, not only did I sign up late, but I had no idea what this class was even about. I didn’t even know what Philosophy was.    
+
+> As a student at Asbury University I always ask upperclassmen what courses they took and with what professor. I was told by many to take Philosophy with Buhler; “because he’s great and actually teaches you” they would tell me. Coming into this class, not only did I sign up late, but I had no idea what this class was even about. I didn’t even know what Philosophy was.    
 
 >    Overall, Intro to Philosophy changed me and my thinking for the better.  I can honestly say I have never thought so hard about life.  I used to think I thought a lot about life, but I can now say I was wrong to think so.  I now catch myself questioning different ideas and themes regarding humanity, God, the world, etc.  This questioning leads me to further contemplation and the action of seeking out answers.  Philosophy also taught me that it’s okay to admit to ourselves that we don’t know anything, and that this is the first step to finding a passion in learning.  I’m very thankful to have been able to take this course this semester.
 
 >    This class was about not panicking when you’re hit with difficult question/thought it taught you not to take the easy way out but instead to look into the depths of the questions and ride it out until you can’t anymore regardless if you couldn’t find a solution. 
-<<<<<<< HEAD
-
    
 >    Coming into the class I think I expected to be learning about countless philosophers, specific dates of their theories, and a bunch of textbook reading. Luckily the class was not anything like I expected. This class was primarily about preparing us to be able to think like a philosopher and therefore be able to understand philosophical works more proficiently. 
 
 
 > I really enjoyed the class layout and the way Dr. Buhler taught the class. The discussion format was quite conducive to learning. While I couldn't disagree with him more on many topics, and felt disrespected/insulted quite a few times, I did think that he did a great job teaching Socrates and Plato. 
 
->    Coming into the class I think I expected to be learning about countless philosophers, specific dates of their theories, and a bunch of textbook reading. Luckily the class was not anything like I expected. This class was primarily about preparing us to be able to think like a philosopher and therefore be able to understand philosophical works more proficiently. 
+
+## PHI 334 2016
+
+
+>Keith is extremely upbeat and gives his all when teaching this course. I was dreading business ethics thinking it would be dry, but he made it so fun with his humor and perspective. Come to class and you'll be fine! By far one of the best professors I've had in my four years of college. I wish I could take another class of his! (PHI334 Fall 2016)
+
+
+>Dr. Buhler made what seemed like a boring topic come to life. He made class welcoming for all students and I don't think a class went by where I didn't laugh. He truly invests time in his students and it's obvious he loves what he does. I really enjoyed this inspirational teacher and I wish I could take another one of his classes!
+
+>He's one of those rare professors that you would love to hang out with outside of class. He's so funny and easy-going. His class isn't hard, and he makes it super interesting, so overall it's a 10/10 class. I want him to teach all of my classes!
+
+
+>I absolutely hate Philosophy, and the fact that this was a course focused on business ethics made it seem like it was going to be even worse. However, Keith Buhler is an amazing professor and really makes this course bearable. He's very entertaining and easy-going.
+
+
+>Probably one of my favorite professors I've had at UK. He's hilarious. I don't like Philosophy, but I like Buhler. He makes class fun and interesting. You will have to participate in class some, and there are group projects. Quizzes are online, and so easy. Literally I would take any class he teaches.
+
+
+
+
+## PHL 200 Fall 2016
+
+>Dr. Buhler has been an amazing teacher; he portrays the subject of philosophy in a way that is both engaging and mind-stretching. I was nervous at the beginning of the course because I thought that I would never be able to combat any philosopher's opinions even if I disagreed. His cheerful spirit and wisdom led me through the dialetic.
+
+
+
+>Dr. Buhler was a pleasant surprise from the Philosophy department. I never knew philosophy could be so interesting .
+
+
+
+## PHI 305 Spring 2016
+
+> He seriously loves what he does, and really cares about his students. Honestly, such a fun class and really gets you thinking. He won't back down easy, but when you finally make a break through he gets so excited. Class is a lot of discussion, but if you are shy, he allows online forums so that you can get participation. Awesome professor!
+
+
+
+>Freakin' love this dude. He is honestly he coolest teacher I've ever encountered at UK. He is very informative and is really passionate about the subject and making sure that you get something out of the class. You do have a fair amount of papers to write but they are pretty easy. In all seriousness, take this class. You'll actually enjoy it!
+
+>Keith is by far the best instructor I have ever had here at UK. I personally enjoy going to his class every MWF. He makes it fun and enjoyable and even sparked my interest in topics that I normally wouldn't participate in. He is a fantastic teacher. He encouraged me to participate and learn about the topics presented in the class.
+
+>Keith is an amazing instructor. He does his best to make sure all students understand the material. There are a ton of readings and you do need to be able to comprehend on your own, but he will alway clarify if needed. A ton of papers were assigned, but they were pass/fail so if you did a decent job, you'd pass with a 100. Best instructor ever.
+
+>Really funny and likes to play devil's advocate in order to get his students to think. He likes to connect with students to make them feel comfortable and wants them to learn and not just memorize things. Excellent professor. Would definitely recommend.
+
+>Funny guy. Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too 10/10. (Student, Health Care Ethics Fall 2015)
+
