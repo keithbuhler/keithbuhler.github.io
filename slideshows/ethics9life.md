@@ -95,6 +95,7 @@ theme: league
 
 
 </section><section data-markdown>
+
 ### Camus, the Absurd
 
 - "There is but one truly serious philosophical problem, and that is suicide"
@@ -102,6 +103,9 @@ theme: league
 - A world that can be explained is familiar
 - A world without reason, an absurd world, in which we are exiled, is worse (546)
 - "Why" arises "and everything begins in that weariness tinged with amazement"
+
+</section><section data-markdown>
+
 - "Weariness has something sickening about it" but it is good because it leads either to recovery or suicide
 - "The absurd teaches that all experiences are unimportant" (compare Mackie and Queen, "nothing really matters")
 - "The workman of today works the same tasks" and is no less absurd than Sisyphus
@@ -157,3 +161,5 @@ If religion is true, or we believe it is true, then:
 
 </section>
 </section><!--Day 2 end-->
+
+

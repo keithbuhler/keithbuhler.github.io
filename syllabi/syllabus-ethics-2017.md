@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-permalink: /ethics
+permalink: /ethics/
 title: Introduction to Morality and Society Syllabus
 ---
 
