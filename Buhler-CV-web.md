@@ -175,14 +175,8 @@ University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.ed
 Dan Breazeale, Professor of Philosophy    
 University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859-257-4376
 
-Stefan Bird-Pollan, Associate Professor of Philosophy    
-University of Kentucky, 1421 Patterson. stefanbirdpollan@uky.edu / 859-257-7107
-
 Brandon Look, Research Professor of Philosophy     
 University of Kentucky, 1415 Patterson. look@uky.edu / 859-257-1862   
-
-John Reynolds, President, The Saint Constantine School     
-6000 Dale Carnegie Lane Houston, TX. [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832-975-7075   
 
 Chris Bounds, Chair, Philosophy and Religion    
 Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859-858-3511  
