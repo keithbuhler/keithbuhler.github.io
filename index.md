@@ -81,17 +81,31 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 
 <br>
 
-# Student and Employer Feedback
+# Testimonials
 
 ----
 
-* "I can say that I learned more from this class than any I have taken before." (2015)
+*  "Dynamism, acumen, and compassion... one of [our] best teachers..."   -- [Peter Gross, Executive Director at Wheatstone Ministries](http://www.wheatstoneministries.com/people/)
 
-* “This class was structured on one of the most helpful and clear cut syllabus I’ve ever had the pleasure to read.” (2016)
+- "You give me great hope for our next generation." -- [Cinda Tribble, IEW](http://iew.com/cinda-tribble)
 
-* “It seems as though I have been looking all my life for what I have found in philosophy.” (Spring 2016.)
+- "A good conversation machine." -- [Andrew Selby, PhD Trinity Academy](https://baylor.academia.edu/AndrewSelby)
 
-*  "Keith's dynamism, his acumen, and his compassion make him one of [our] best teachers and mentors. Appealing and personable, he quickly and easily inspires his students to have a passion for education. It has been a consistent pleasure to work alongside him."  (Peter Gross, Executive Director at Wheatstone Ministries)
+* “Positivity that radiates" -- Brian Panther, 2016
+
+* "Able to incite an appreciation for philosophy in even the most difficult students..." -- Chris Bounds
+
+
+
+
+# Student Feedback
+
+* “I have been looking all my life for what I have found in philosophy.” Anonymous Student, Spring 2016.
+
+* "I can say that I learned more from this class than any I have taken before." -- Anonymous Student, 2015
+
+
+- “Funny guy. Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” -- Anonymous Student, 2015
 
 - Read more student reviews at [RateMyProfessors.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
