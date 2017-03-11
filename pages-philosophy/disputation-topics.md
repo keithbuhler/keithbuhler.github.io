@@ -7,7 +7,8 @@ sidebar:
 ---
 
 
-
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 # Introduction to Ethics Topics (UK 2017)
 
@@ -23,10 +24,14 @@ One's morality is a combination of "gut" feelings, parental training, social and
 
 William Frankena critiques virtue-based ethical systems while Williams defends virtue. Jesus commends virtue-talk in the Sermon on the Mount, and the Stoics commend virtue-talk in their catechism. One of Frankena's most cutting criticisms is that virtue theories don't provide clear action guidance. Is this true? State both sides of this issue and defend your answer, either 'yes' or 'no.'
 
-### Unit 3 (Moral Issues) Option A -- The meaning of life
+### Unit 3 (Moral Issues) Option A -- Does religion give meaning to life? 
+
+The Voltaire Brahmin story shows the tension between wisdom (which brings undesirable suffering) and undesirable ignorance (which brings contentment). Similarly, Camus' Myth of Sisyphus describes how intolerably futile and pointless life feels when we reflect on the inevitability of death. By contrast, Pojman argues that theistic religion (Judaism, Christianity, Islam, etc.) gives meaning to life. Does religion give meaning to life on earth? State both sides of this question and defend your thesis, either yes or no. 
 
 
-### Unit 3 (Moral Issues) Option B -- Egoism
+### Unit 3 (Moral Issues) Option B -- Is morality in your best interest?
+
+Ayn Rand argues that traditional altruistic, self-sacrificial "morality" is anti-life, suicidal, irrational, and immoral. Instead, she presents the rational morality of egoism, pursuing one's own interests, protecting one's own life. Pojman and Rachels criticize Rand's argument by urging that self-sacrifice and altruism can be sometimes good, rational, and moral. Argue for or against the view that it is moral sometimes to be altruistic and self-sacrificial sometimes even at the cost of your own self-interest (or that altruism/self-sacrifice is truly in your best interest anyway). Make sure to state reasonable objections for the opposite view, and argue your thesis. 
 
 ### Unit 4 (Moral Problems) Option A 
 
