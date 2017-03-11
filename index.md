@@ -18,8 +18,6 @@ I completed my PhD in philosophy under the direction of David Bradshaw. I also h
 
 # Research 
 
-----
-
 ![wither](http://www.keithbuhler.com/images/wither.jpg)
 
 My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are". That work defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
@@ -34,8 +32,6 @@ One extension of that project puts Foot's "secular natural law theory" into conv
 
 
 # Teaching
-
-----
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
@@ -92,8 +88,6 @@ My students succeed academically and grow intellectually by reflecting on great 
 
 
 # Student Feedback
-----
-
 
 * "Very theatrical about philosophy" 
 
@@ -109,9 +103,9 @@ My students succeed academically and grow intellectually by reflecting on great 
 
 * "Understood the struggle of learning Philosophy at 8:00am"
 
-* "None of his assignments are busy work."
-
 * "Really cares about his students"
+
+* "None of his assignments are busy work."
 
 * "This is what college is SUPPOSED to be."
 
@@ -131,8 +125,6 @@ My students succeed academically and grow intellectually by reflecting on great 
 <br>
 
 # Mini Bio
-
-----
 
 *For other uses, see [Keith Buhler (disambiguation)](/disambiguation)*
 <img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 

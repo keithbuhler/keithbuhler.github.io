@@ -27,7 +27,7 @@ sidebar:
 ### EDUCATION
 
 Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
-M.A.&nbsp; Philosophy, University of Kentucky, 2015      
+M.A.&nbsp; Philosophy, University of Kentucky, 2016      
 M.A.&nbsp; Orthodox Theology, University of Balamand, 2014         
 B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
 
@@ -44,29 +44,41 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 ### WORKS IN PROGRESS
 1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)
 4. *Becoming What We Are* (book draft complete)
-2. "Organic Naturalism: Teleological Realism in the Foundation of Ethics" (article in development)
+
   
 
 
+### TEACHING 
 
-### UNIVERSITY TEACHING 
-1. Business Ethics                  (Fall 2016, Spring 2017 UK)
-2. Health Care Ethics               (Spring 2015, Fall 2016, UK)
-3. Introduction to Philosophy       (2013-2014, UK, 2014-2017 Asbury)
-4. Introduction to Ethics           (Fall 2013, Spring 2017 UK) 
-5. Introduction to Logic            (Spring 2013) 
-6. Philosophy of Religion           (Summer 2016, Asbury)
-7. Philosophy of C.S. Lewis         (Fall 2016, Asbury)
-8. Virtue Ethics, Ancient and Modern (Spring 2016, Asbury)
-10. Introduction to Logic            (Spring 2013) 
-11. Introduction to Logic           (as TA, Fall 2012, UK, under Bob Sandmeyer)
-11. Philosophy of Science           (as TA, Summer 2004, Biola University, under Nancy Pearcey)
+*University of Kentucky*
+
+1. Business Ethics  (x4)
+2. Health Care Ethics (x4)
+3. Introduction to Philosophy (x2)
+4. Ethics (x3)
+5. Logic (x2)\newline
+
+*Asbury University*
+
+6. Philosophy of Religion (independent study)
+7. Philosophy of C.S. Lewis 
+8. Virtue Ethics, Ancient and Modern 
+9. Introduction to Philosophy (x6)\newline
+
+*As Teaching Assistant, University of Kentucky*
+
+10. Logic (x2)\newline
+
+*As Teaching Assistant, Biola University*  
+
+11. Philosophy of Science \newline
+
 
 
 
 ### PRESENTATIONS
 
-1. "Pride and Vainglory are Separate Vices", SOPHIA Conference, Spring Branch, TX 2017.
+1. Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
 2. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 2. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
 3. “Is the Cosmos Causally Closed?” Ian Ramsey Centre, Oxford University, 2014.
@@ -78,6 +90,7 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 
 ### COMMMENTS AND SERVICE
 
+1. Comments on Rob Elisher's "Aristotelian Moral Schizophrenia", University of Kentucky Graduate School Conference.
 1. Referee for Kentucky Graduate School Conference submissions, 2017.
 2. "How to Keep Momentum in Dissertation Writing," University of Kentucky Graduate School, Writing Bootcamp, 2016. 
 2. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." Society of Christian Philosophers, University of San Diego, 2016.
@@ -86,16 +99,11 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 4. Referee for Kentucky Graduate School Conference submissions, 2013.
 
 
-### DISSERTATION
+### DISSERTATION: Becoming What we Are
 **Title**: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*   
 **Committee:** David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger      
-**Abstract:** Philippa Foot and John McDowell are united in the affirmation that virtue is 'natural goodness' for human beings. They are also united in endorsing scientific naturalism.  Nevertheless, they are divided in their rival conceptions of 'nature.' 
+**Abstract:** This dissertation defends moral realism and ethical naturalism. I dispute John McDowell's conception of "nature" in his version of neo-Aristotelian ethical naturalism and endorse Philippa Foot's conception. Her view is true even on a broadly construed scientific naturalism.  I defend Footian "organic" naturalism by appealing to generic propositions in linguistic theory to show that science trades in fundamental normative concepts such as life forms and functions. 'Human being' and 'practical reasoning' are terms we use to capture generic life forms and functions which have scientific and ethical import. Building with generics, we can construct scientifically respectable utterances such as that human beings are practical, rational primates and good human beings exemplify virtues, especially practical wisdom. I offer my own contemporary definitions of 'virtue' and 'practical wisdom' and explore in more detail the view that practical reasoning is an intrinsically value-laden activity of identifying the good or the to-be-pursued. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
 
-This dissertation defends and advances upon Foot's view of natural goodness by appealing to "generic propositions," a little-utilized feature of linguistic theory. Generic life forms and organic functions are just as scientifically respectable as other naturalistic concepts. Human beings are best understood as practical, rational primates. It follows that the ethical and rational norms defining a good human life are a subset of natural norms which can be known as such from an "external" scientific point of view as well as from an "internal" ethical point of view. 
-
-I articulate neo-Aristotelian accounts of virtue and practical reason according to which all practical, rational animals necessarily pursue the (perceived) good and avoid (perceived) evil that is internal to their life form. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
-
-While the normative force of my view is clear, I secure its naturalistic credentials by examining three influential conceptions of 'nature.' I criticize McDowell's conception, and show how my view is consistent with either of the remaining two. I call my view "recursive naturalism," for practical reasoning, which is natural to human beings, is part of the natural world even though we reason about the world, ourselves, and our own reasoning. 
 
 
 
@@ -139,10 +147,8 @@ Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)
 2. "Reading Great Books in Classical Education," Veritas Academy, Lexington KY, 2013.
 3. "The Goodness of the Tao: CS Lewis' *Abolition of Man*," Torrey Academy, CA  2012.
 4. "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*," Torrey Academy, 2012.
-5. "The Philosophy of Pain," St. Barnabas Church, CA 2011. 
 5. "Hope and the Cycle of Desire," Hope Academy, 2011.
 6. "The Art of Conversation: Conversation with Art," Wheatstone Academy, La Habra, CA 2011.
-5. "Goodness, Truth, and Beauty," St. George Church, CA 2010.
 7. "The Virtue of Constancy," Hope Academy, Yorba Linda, CA 2009.
 8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
 
