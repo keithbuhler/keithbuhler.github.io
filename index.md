@@ -39,9 +39,14 @@ One extension of that project puts Foot's "secular natural law theory" into conv
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
-Over the last 15 years, I've helped almost a thousand students of all ages. My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+Over the last 15 years, I've helped almost a thousand students of all ages to learn and grow. 
 
-### Courses Taught, University of Kentucky
+My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+
+## University Courses Taught
+
+
+### University of Kentucky
 
 - Business Ethics
 - Health Care Ethics
@@ -59,6 +64,8 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 ### Biola University 
 
 - Philosophy of Science (as Teaching Assistant)
+
+## High School Courses
 
 ### Freedom Project Academy
 
@@ -81,33 +88,45 @@ Over the last 15 years, I've helped almost a thousand students of all ages. My s
 
 <br>
 
-# Testimonials
-
-----
-
-*  "Dynamism, acumen, and compassion... one of [our] best teachers..."   -- [Peter Gross, Executive Director at Wheatstone Ministries](http://www.wheatstoneministries.com/people/)
-
-- "You give me great hope for our next generation." -- [Cinda Tribble, IEW](http://iew.com/cinda-tribble)
-
-- "A good conversation machine." -- [Andrew Selby, PhD Trinity Academy](https://baylor.academia.edu/AndrewSelby)
-
-* “Positivity that radiates" -- Brian Panther, 2016
-
-* "Able to incite an appreciation for philosophy in even the most difficult students..." -- Chris Bounds
-
 
 
 
 # Student Feedback
-
-* “I have been looking all my life for what I have found in philosophy.” Anonymous Student, Spring 2016.
-
-* "I can say that I learned more from this class than any I have taken before." -- Anonymous Student, 2015
+----
 
 
-- “Funny guy. Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” -- Anonymous Student, 2015
+* "Very theatrical about philosophy" 
 
-- Read more student reviews at [RateMyProfessors.](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+* "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
+
+* "I don't think a class went by where I didn't laugh"
+
+* "cheerful spirit"
+
+* "Constructed a safe place to express opinions"
+
+* "Makes us all feel heard, while challenging our views"
+
+* "Understood the struggle of learning Philosophy at 8:00am"
+
+* "None of his assignments are busy work."
+
+* "Really cares about his students"
+
+* "This is what college is SUPPOSED to be."
+
+* "I learned more from this class than any I have taken before." 
+
+* "Probably the best Prof I have ever had."
+
+* "By far the best instructor I have ever had here at UK."
+
+* "I wish Prof. Buhler would teach all of my classes"
+
+
+* “I have been looking all my life for what I have found in philosophy.”
+
+- [*More student reviews at RateMyProfessors.*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 <br>
 

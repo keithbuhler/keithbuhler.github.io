@@ -107,7 +107,7 @@ permalink: /student-feedback
 
 ## PHI 334 2016
 
->This business ethics course based in philosophy has been hands-down my favorite course of the Fall 2016 semester. I felt there was an incredible atmosphere constructed in the course leading to extreme comfort ability and a safe place to express opinions. (PHI334 2016)
+>This business ethics course based in philosophy has been hands-down my favorite course of the Fall 2016 semester. I felt there was an incredible atmosphere constructed in the course leading to extreme comfortability and a safe place to express opinions. (PHI334 2016)
 
 > Lastly, thank you for your time and consideration you've put forth in teaching a large majority of the philosophical content I have learned throughout my college experience. You've had considerable influence on me regarding how to carry oneself, how to get a group of people involved and enthused, and most importantly, how to make an individual interested in the material. I've been in several unique classes through which I've seen students of every which major state your course as more than "just an elective" and I think you'll continue to inspire people as you move forward. Positivity that radiates is something that several people do not have or have simply lost throughout the years, and I can't envision that being your case after the several classes I've taken part in. 
 
