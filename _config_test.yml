@@ -1,82 +1,108 @@
 # Site settings
+ url      : http://keithbuhler.com
+ baseurl  : 
  locale:         "en"
- title:          "The Buhler Report"
- name:           "Keith Buhler"
- description:    "Timeless Wisdom. Current Events. News, essays, and commentary from philosopher and writer Keith Buhler."
- url:            "http://keithbuhler.com"
- baseurl:        "/buhlerreport"
- email:          "keithedbuhler@gmail.com"
+ title:          "keithbuhler.com"
+ description:    "The professional site of Keith Buhler, philosopher, educator, and writer -- including coaching for philosophy students."
  comments: 
   provider:       "facebook"
   facebook: 
     appid:    #optional
     num_posts: 5
     colorscheme : #"light" (default", "dark")
-words_per_minute: "200"
+reading_time    :     true
+words_per_minute: 200
 
-#  disqus: 
-#    shortname: "thebuhlerreport"
+# Social
 
-teaser:         "spiral.jpg"
+facebook:
+  username  : "keithedbuhler" 
+github      : 
+  username  : "keithbuhler"
+# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
 
-# Build settings
-markdown:       kramdown
-markdown_ext:   markdown,mkdown,mkdn,mkd,md
-encoding:       utf-8
-
-# SEO Related empty
-
-
-# Social networking links used in footer. Update and remove as you like.
-  twitter: 
-    username:     "Keith_Buhler"
-  facebook: 
-    username:     "keithedbuhler" # https://www.facebook.com/keithedbuhler
-  og_image:       aristotle50.bmp
-
-# Specific social profiles
-social: 
-  type: ""
-  links:
-    -"http://twitter.com/Keith_Buhler"
-    -"http://www.facebook.com/keithedbuhler"
-
-# Analytics for Google would go here. I just put it in the head manually.
-# analytics: 
-#  provider: "google-universal:
-#    tracking_id: "UA-71712734-1"
 
 # author info
-
 author:
   name      : "Keith Buhler"
   avatar    : "avatar.png"
-  bio       : "Philosopher, classical educator, and writer"
+  bio       : "Philosopher, classical educator, and author"
   email     : "keithedbuhler@gmail.com"
-  url       : "http://www.keithbuhler.com"
-  github    : "keithbuhler"
+  url       : "https://www.keithbuhler.com"
   google_plus:  "+KeithBuhler"
   facebook  : "keithedbuhler" 
   twitter   : "Keith_Buhler"
-  youtube:  : ""
+  youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
 
-  
-# Timezone
-timezone:     America/New_York  
+social: 
+  type: 
+  name: 
+  links:
+    - "https://twitter.com/Keith_Buhler"
+    - "https://facebook.com/keithedbuhler"
+    - "https://www.linkedin.com/in/yourprofile"
+    - "https://plus.google.com/+Keith_Buhler"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-71712734-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+analytics:
+  provider: "google-universal"
+    tracking_id: "UA-71712734-1"
+
+
+timezone:    America/New_York
+future:      true
 highlighter: rouge
- 
 
 # Gems
 
 gems: 
+  - [jekyll-paginate]
+  - [jekyll-sitemap]
+  - [jekyll-feed]
+  - [jekyll-gist]
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# For categories and tags
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Links to include in footer navigation
+
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: <i class="icon-book"></i> Documentation
+    url: /documentation
+  - title: Categories
+    url: /categories
+  - title: Tags
+    url: /tags
+
+teaser:   "400x400.gif"
+og_image: "keithbuhler-bw-small.png"
 
 # Outputting
+
+permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 kramdown:
@@ -87,20 +113,46 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-    
+collections:
+  papers:
+    output: true
+  teaching:
+    output: true
+  presentations:
+    output: true
+
 defaults:
-  #all
   - scope:
       path: "" # empty string for all files
       values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related_posts: true
-      related: true
-      read-more: true
-      share: true
-      excerpt_separator: <!--more-->
-      words_per_minute: 200
+        read_time: false
+        comments: true
+        share: false
+        related: false  
+        author_profile: true
+        layout: "single"
+        words_per_minute: 200
+  - scope:
+      path: "posts"
+      type: ""
+      layout: "single" # overrides previous default layout
+      values:
+        read_time: false
+        comments: true
+        share: false
+        related: false  
+        author_profile: true
+        words_per_minute: 200
+  - scope:
+      path: "slideshows"
+      type: "slideshows"
+    values:
+      layout: "slides"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single 
