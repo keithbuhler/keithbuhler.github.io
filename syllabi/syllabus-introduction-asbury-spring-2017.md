@@ -120,7 +120,7 @@ Mar-9 R Kreeft, *Socratic Logic* III, "Material Fallacies"
 
 ### Week 10 Reasoning
 Mar-21 T Kreeft, *Socratic Logic*, V, "Judgment", Section 1 and 2 "Judgments, Propositions, and Sentences" and "What is truth?"   
-Mar-23 R Kreeft, *Socratic Logic* VIII, "Reasoning"; Willard, "Jesus the Logician"  
+Mar-23 R Kreeft, *Socratic Logic* VIII, "Reasoning"; [Willard, "Jesus the Logician"](https://drive.google.com/open?id=0B0CYQDZ8AWu8U3djOF9zenNkcEk)  
 
 ### Unit 5
 
