@@ -82,6 +82,8 @@ feature_row:
 
 # Testimonials
 
+* "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
+
 * "Very theatrical about philosophy"
 
 * "Makes us all feel heard, while challenging our views"
@@ -96,22 +98,19 @@ feature_row:
 
 * "By far the best instructor I have ever had here at UK."
 
-* "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
+- "A wonderful and effective mentor" -- Bettie Torres
 
 * "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
-
-*  "Dynamism, acumen, and compassion"   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
-
-- "A wonderful and effective mentor" -- Bettie Torres
 
 - "Gives me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 
+
 <br>
 <br>
 
 
-# Course Evaluations
+# Recent Course Evaluations
 
 
 #### 2016 Fall -- Business Ethics 004 (1-5 scale)
