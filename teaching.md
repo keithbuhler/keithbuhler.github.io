@@ -29,6 +29,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
+<br>
 
 *University of Kentucky*   
 
@@ -66,6 +67,8 @@ feature_row:
 
 - Spanish 1 and 2
 
+<br>
+<br>
 
 # Current Syllabi
 

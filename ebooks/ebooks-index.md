@@ -1,7 +1,7 @@
 ---
 title: Ebook Library 
 layout: single
-permalink: 
+permalink: /ebooks/
 ---
 
 (This page is in development.)

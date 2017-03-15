@@ -20,10 +20,11 @@ I completed my PhD in philosophy under the direction of David Bradshaw. I also h
 
 ![wither](http://www.keithbuhler.com/images/wither.jpg)
 
-I am developing a novel form of ethical naturalism that builds on Philippa Foot and Michael Thompson's concept of natural norms. My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life. One extension of that project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. 
+My research centers on naturalism and its rivals. I am developing a novel form of ethical naturalism that builds on Philippa Foot and Michael Thompson's concept of natural norms. My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism and criticizes that of John McDowell, whose conception of 'nature' I argue is contradictory. Virtue and especially practical wisdom are *natural*  for human beings (in a sense that I explain in detail). My future work puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy, John Finnis, and Tristram Englehardt. 
 
-- [(Revised and resubmitted) A paper arguing that we should remain agnostic about causal closure](/publications)
-- [Other draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
+- [Some draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
+- [And a paper arguing that we should remain agnostic about causal closure](/publications)
+
 
 
 <br>
@@ -38,7 +39,6 @@ Over the last 15 years, I've helped almost a thousand students of all ages to le
 Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
 
 - [Courses taught, syllabi, student feedback](/teaching)
-- [Student reviews at RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 # Testimonials
 
@@ -62,6 +62,8 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
  
 * "This is what college is SUPPOSED to be." Student 2017 
 
+
+[*More student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 
 
