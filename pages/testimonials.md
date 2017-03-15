@@ -15,7 +15,7 @@ permalink: /testimonials
 
 - "A good conversation machine" -- [Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
-* "Enthusiastic and personable" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
+* "Enthusiastic and personable... clear and precise" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
 * "Extremely hard and self-disciplined worker, a fact one would hardly guess from his jovial demeanor." -- [David Bradshaw, University of Kentucky](https://philosophy.as.uky.edu/users/dbradsh)
 

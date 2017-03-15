@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 excerpt: 
 author_profile: true
-permalink:
+permalink: /index.html/
 ---
 
 I'm currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
@@ -20,12 +20,10 @@ I completed my PhD in philosophy under the direction of David Bradshaw. I also h
 
 ![wither](http://www.keithbuhler.com/images/wither.jpg)
 
-My primary research program stems from my [dissertation](/phd), titled "Becoming What We Are". That work defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life.
+I am developing a novel form of ethical naturalism that builds on Philippa Foot and Michael Thompson's concept of natural norms. My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism against John McDowell's, whose conception of nature is contradictory. I argue that virtue and especially practical wisdom are in an important sense *natural* for human beings and that the good life is the rational life. One extension of that project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. 
 
-One extension of that project puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy and Tristram Englehardt. 
-
-- [A paper being revised for publication](/publications)
-- [Draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
+- [(Revised and resubmitted) A paper arguing that we should remain agnostic about causal closure](/publications)
+- [Other draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
 
 
 <br>
@@ -50,21 +48,19 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 
 * "Enthusiastic and personable... clear and precise" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
-* "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
-
 * "Insight that allows you to do more than learn, it allows you to grow." -- Student 2009
+
+* "I don't think a class went by where I didn't laugh"  -- Student 2016
+
+* "Constructed a safe place to express opinions"  -- Student 2016
 
 * "My writing and thinking ability have both improved" Student 2010
 
+* "None of his assignments are busy work" -- Student 2016
+
 * "Engaging and mind-stretching" -- Student 2016
-
-* "I don't think a class went by where I didn't laugh" Student 2016
-
-* "Constructed a safe place to express opinions" 
-
-* "None of his assignments are busy work."
  
-* "This is what college is SUPPOSED to be." Student 2017
+* "This is what college is SUPPOSED to be." Student 2017 
 
 
 

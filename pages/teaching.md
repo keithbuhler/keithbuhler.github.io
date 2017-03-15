@@ -1,46 +1,65 @@
 ---
 layout: single
-title: Teaching
-permalink: /teaching/
+title: Teaching Information
+sidebar:
+    nav: 
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+permalink: /teaching/
+feature_row:
+  - image_path: http://www.keithbuhler.com/images/syllabus-334.png
+    alt: "Business Ethics"
+    title: "Business Ethics"
+    excerpt: "PHI 334 at UK, sections 001 and 003."
+    url: "http://www.keithbuhler.com/business"
+    btn_label: "Syllabus"
+    btn_class: "btn--inverse"
+  - image_path: http://www.keithbuhler.com/images/anderson-ecce-homo2.jpg
+    alt: "Introduction to Ethics"
+    title: "Introduction to Ethics"
+    excerpt: "PHI 130 at UK, Morality and Society."
+    url: "http://www.keithbuhler.com/ethics"
+    btn_label: "Syllabus"
+    btn_class: "btn--inverse"
+  - image_path: http://www.keithbuhler.com/images/syllabus-200.png
+    title: "Introduction to Philosophy (Asbury)"
+    excerpt: "Asbury PHL 200 at 8am, T/Th"
+    url: "http://www.keithbuhler.com/introduction"
+    btn_label: "Syllabus"
+    btn_class: "btn--inverse"
 ---
 
-[Keith Buhler](http://keithbuhler.github.io)  
-Department of Philosophy  
-University of Kentucky  
-keith.buhler@uky.edu  
-http://www.keithbuhler.com  
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 
 
 
-# Courses Taught
+<br>
+<br>
+
+# Prior Courses
 
 *University of Kentucky, Lexington KY*   
 
 - Business Ethics ([Syllabus](/syllabus334))  
 - Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
 - Introduction to Philosophy ([Syllabus](/syllabus200))  
-- Introduction to Ethics ([Syllabus](http://www.keithbuhler.com/ethics/))
-- Introduction to Logic
-
-*Asbury University, Wilmore KY*  
-
-- Philosophy of Religion
+- Ethics ([Syllabus](http://www.keithbuhler.com/ethics/))
+- Logic
+- Philosophy of Religion (Asbury)
 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-- Virtue Ethics and Wisdom  ([Syllabus](/syllabus-S2016-293-wisdom))   
-- Introduction to Philosophy 
-- Philosophy of Science 
+- Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Philosophy of Science (Biola)
 
 *Torrey Academy*
 
+- Humanities I: British Thought
+- Humanities II: American
+- Humanities III: Ancient & Medieval Thought
+- Shakespearean Literature
 - Philosophy of Plato
 - Aristotelian Logic
-- Humanities: Ancient Literature, Philosophy, and History
-- Humanities: Medieval Literature, Philosophy, and History
-- Humanities: American Literature, Philosophy, and History
-- Shakespearean Literature
-- Humanities: The British Literature of the Inklings
 
 *Freedom Project Academy*
 
@@ -54,23 +73,17 @@ http://www.keithbuhler.com
 
 - Spanish 1 and 2
 
-
+<br>
 
 # Student Feedback
 
-* "I don't think a class went by where I didn't laugh"
-
-* "Constructed a safe place to express opinions"
+* "Very theatrical about philosophy"
 
 * "Makes us all feel heard, while challenging our views"
 
+* "Understood the struggle of learning Philosophy at 8:00am"
+
 * "None of his assignments are busy work."
-
-* "Engaging and mind-stretching"
-
-* "My writing and thinking ability have both improved"
-
-* "This is what college is SUPPOSED to be."
 
 * "I learned more from this class than any I have taken before." 
 
@@ -80,13 +93,19 @@ http://www.keithbuhler.com
 
 * "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
 
+* "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+
+*  "Dynamism, acumen, and compassion"   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+
+- "A wonderful and effective mentor" -- Bettie Torres
+
+- "Gives me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 
+# Evaluation Data
 
-# Evaluation Data 
 
-
-### 2016 Fall -- Business Ethics 004 (1-5 scale)
+#### 2016 Fall -- Business Ethics 004 (1-5 scale)
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |------------|------|------|------|-------|------|--------------|------------|
@@ -95,7 +114,7 @@ http://www.keithbuhler.com
 
 
 
-### 2016 Fall -- Business Ethics 003 (1-5 scale)
+#### 2016 Fall -- Business Ethics 003 (1-5 scale)
 
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
@@ -106,7 +125,7 @@ http://www.keithbuhler.com
 
 
 
-### 2016 Spring -- Health Care Ethics 002 (1-4 scale)
+#### 2016 Spring -- Health Care Ethics 002 (1-4 scale)
 
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
@@ -116,7 +135,7 @@ http://www.keithbuhler.com
 
 
 
-### 2016 Spring -- Health Care Ethics 003 (1-4 scale)
+#### 2016 Spring -- Health Care Ethics 003 (1-4 scale)
 
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
@@ -128,14 +147,14 @@ http://www.keithbuhler.com
 
 
 
-### 2015 Fall -- Health Care Ethics 002 (1-4 scale)
+#### 2015 Fall -- Health Care Ethics 002 (1-4 scale)
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |--------------------------|------|------|------|-----------|------|--------------|------------|
 | Course     | 0    | 0    | 3    | 18   | **3.86** | 3.12    | +.74       |
 | Teaching | 0    | 0    | 1    | 20   | **3.95** | 3.25    | +.70       |
 
-### 2015 Fall -- Health Care Ethics 003 (1-4 scale)
+#### 2015 Fall -- Health Care Ethics 003 (1-4 scale)
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |--------------------------|------|------|------|-----------|------|--------------|------------|
@@ -145,7 +164,7 @@ http://www.keithbuhler.com
 
 
 
-### Introduction to Philosophy, Spring 2016, Asbury University
+#### Introduction to Philosophy, Spring 2016, Asbury University
 
 |                              |  Mean (out of 4) | 
 |------------------------------|------------------|
@@ -154,7 +173,7 @@ http://www.keithbuhler.com
 
 
 
-### Introduction to Philosophy, Fall 2014, Asbury University
+#### Introduction to Philosophy, Fall 2014, Asbury University
 
 
 |                             |  Mean (out of 4) | 
