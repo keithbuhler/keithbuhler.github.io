@@ -1,25 +1,12 @@
 ---
 layout: single
-title: 
+title: Curriculum Vitae 2017
 permalink: /cv/
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 sidebar: 
       nav: 
 --- 
-
-<center>
-
-
-<h2> Curriculum Vitae 2017</h2>  
-
-<p> Department of Philosophy   </p>
-
-<p> University of Kentucky    </p>
-
-<p> keith.buhler@uky.edu   </p>
-
-</center>
 
 [PDF version](http://www.keithbuhler.com/Buhler-CV.pdf)
 
@@ -34,7 +21,10 @@ B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
 
 ### EMPLOYMENT
 Postdoctoral Scholar, University of Kentucky,  Spring 2017    
-Instructor of Philosophy, Asbury University, 2013-2017      
+Instructor of Philosophy, Asbury University, 2013-2017       
+Director of High School Studies, Veritas Academy, 2013-2014   
+Master Tutor, Torrey Academy, 2010-2012   
+Tutor, Torrey Academy, 2007-2010  
 
 ### RESEARCH AREAS
 Specialization in Ethics and the History of Philosophy.     
@@ -99,10 +89,10 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 4. Referee for Kentucky Graduate School Conference submissions, 2013.
 
 
-### DISSERTATION: Becoming What we Are
+### DISSERTATION
 **Title**: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*   
 **Committee:** David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger      
-**Abstract:** This dissertation defends moral realism and ethical naturalism. I dispute John McDowell's conception of "nature" in his version of neo-Aristotelian ethical naturalism and endorse Philippa Foot's conception. Her view is true even on a broadly construed scientific naturalism.  I defend Footian "organic" naturalism by appealing to generic propositions in linguistic theory to show that science trades in fundamental normative concepts such as life forms and functions. 'Human being' and 'practical reasoning' are terms we use to capture generic life forms and functions which have scientific and ethical import. Building with generics, we can construct scientifically respectable utterances such as that human beings are practical, rational primates and good human beings exemplify virtues, especially practical wisdom. I offer my own contemporary definitions of 'virtue' and 'practical wisdom' and explore in more detail the view that practical reasoning is an intrinsically value-laden activity of identifying the good or the to-be-pursued. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
+**Abstract (Brief):** This dissertation defends moral realism and ethical naturalism. I dispute John McDowell's conception of "nature" in his version of neo-Aristotelian ethical naturalism and endorse Philippa Foot's conception. Her view is true even on a broadly construed scientific naturalism.  I defend Footian "organic" naturalism by appealing to generic propositions in linguistic theory to show that science trades in fundamental normative concepts such as life forms and functions. 'Human being' and 'practical reasoning' are terms we use to capture generic life forms and functions which have scientific and ethical import. Building with generics, we can construct scientifically respectable utterances such as that human beings are practical, rational primates and good human beings exemplify virtues, especially practical wisdom. I offer my own contemporary definitions of 'virtue' and 'practical wisdom' and explore in more detail the view that practical reasoning is an intrinsically value-laden activity of identifying the good or the to-be-pursued. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
 
 
 

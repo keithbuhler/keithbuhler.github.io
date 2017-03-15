@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Teaching Information
+title: Courses Taught
 sidebar:
     nav: 
 header:
@@ -29,24 +29,17 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
-
-
-<br>
-<br>
-
-# Prior Courses
-
-*University of Kentucky, Lexington KY*   
+*University of Kentucky*   
 
 - Business Ethics ([Syllabus](/syllabus334))  
 - Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
 - Introduction to Philosophy ([Syllabus](/syllabus200))  
 - Ethics ([Syllabus](http://www.keithbuhler.com/ethics/))
 - Logic
+
+*Asbury University*
+
 - Philosophy of Religion (Asbury)
 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
 - Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
@@ -73,9 +66,18 @@ feature_row:
 
 - Spanish 1 and 2
 
+
+# Current Syllabi
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+
 <br>
 
-# Student Feedback
+
+# Testimonials
 
 * "Very theatrical about philosophy"
 
@@ -102,7 +104,11 @@ feature_row:
 - "Gives me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 
-# Evaluation Data
+<br>
+<br>
+
+
+# Course Evaluations
 
 
 #### 2016 Fall -- Business Ethics 004 (1-5 scale)
@@ -142,8 +148,6 @@ feature_row:
 |---------------------|------|------|------|------------|------|--------------|------------|
 |  Course     | 0    | 0    | 9    | 11    | **3.55** | 3.14         | +.40       |
 |  Teaching | 0    | 0    | 5    | 15    | **3.75** | 3.28         | +.47       |
-
-
 
 
 
