@@ -95,11 +95,10 @@ permalink: /student-feedback
 
 
 
-## (PHL 200 Fall 2016)
+## PHL 200 Fall 2016
 
 
 > I enjoyed pretty much every aspect of the class. I really liked that I was able to process on my own and post about it since I hate talking in class. I also liked that even though I generally don't like to, I never felt too intimidated to speak when I wanted to because the environment was so friendly and conductive to learning and participation. (PHL293 2016)
-
 
 
 >Very funny and tried to crack a lot of jokes. Also, full of energy for an 8AM.(PHL200 2016)
@@ -168,3 +167,25 @@ permalink: /student-feedback
 
 >Funny guy. Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too 10/10. (Student, Health Care Ethics Fall 2015)
 
+
+
+### Torrey Academy
+
+"I had the opportunity to have Mr. Buhler as a tutor and it is a chance that is not to be missed. He is a wise, witty, warm and thoughtful person. He is able to relate well with his students on many levels and has insight that allows you to do more than learn, it allows you to grow." 
+       B. Bennet, Yorba Linda 2009 
+ 
+
+“Mr. Buhler, Thank you so much for being our tutor this year. I was very excited when your name was announced at orientation… We definitely struggled as a class to overcome the barriers that held us up from teamwork, but your guidance for our class challenged me to think in different ways and be aware of the rest of the participants. It has been a difficult but rewarding year for me.” 
+        S. Tran Yorba Linda 2010 
+
+“Mr. Buhler, you made this year AWESOME!! Thank you so much for constantly pushing me to do better. I believe my writing and thinking ability have both improved tremendously.” 
+        S. Garcia, Torrance 2010 
+
+
+### Parent
+
+“Dear Mr. Buhler, Thank you so much for your dedication and skill in teaching at the South Bay site. We are especially grateful for the instruction of our children, G. and H. Have a blessed summer.” 
+            Mr. & Mrs. Nesbitt, Torrance 2010 
+
+
+"... a wonderful and effective mentor to my son. He has never been so motivated to do well in his studies, nor has he ever been so confident about his ability to communicate ideas of value and worth.

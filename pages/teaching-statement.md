@@ -13,62 +13,107 @@ keith.buhler@uky.edu
 http://www.keithbuhler.com  
 
 
+## Courses Taught 
 
-## Courses Taught
+### University of Kentucky
 
-*University of Kentucky, Lexington KY*   
+- Business Ethics ([Syllabus](/syllabus334))  
+- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
+- Introduction to Philosophy ([Syllabus](/syllabus200))  
+- Introduction to Ethics ([Syllabus](http://www.keithbuhler.com/ethics/))
+- Introduction to Logic
 
-1. Business Ethics  (x2, upper level, 30 students)
-2. Health Care Ethics (x2, upper level 30 students)
-3. Introduction to Philosophy (x2, 30 students)
-4. Ethics (x4, 30 students)
-5. Logic (x2, 30 students)
+### Asbury University
 
-*Asbury University, Wilmore KY*  
+- Philosophy of Religion
+- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+- Virtue Ethics and Wisdom  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Introduction to Philosophy 
 
-6. Philosophy of Religion (upper level, independent study)
-7. Philosophy of C.S. Lewis (upper level, 6 students)
-8. Virtue Ethics and Wisdom (upper level, 8 students)
-9. Introduction to Philosophy (x6, 40 students)
+### Biola University 
 
-*Courses Taught as Teaching Assistant, University of Kentucky*
+- Philosophy of Science (as Teaching Assistant)
 
-10. Logic (x2, 30 students)
+### Freedom Project Academy
 
-*Courses Taught as Teaching Assistant, Biola University*  
+- Introduction to Philosophy ([Syllabus](http://www.keithbuhler.com/intro))
 
-11. Philosophy of Science (20 students)
+### Veritas Academy
+
+- Humanities: The British Literature of the Inklings
+
+### Torrey Academy
+
+- Plato
+- Aristotelian Logic
+- Humanities: Ancient Literature, Philosophy, and History
+- Humanities: Medieval Literature, Philosophy, and History
+- Humanities: American Literature, Philosophy, and History
+- Shakespeare
+- Humanities: The British Literature of the Inklings
 
 
-## Student Evaluation Data 
+# Student Evaluation Data 
 
 The following charts provide a representative selection of quantitative student evaluation scores from five courses I've taught at Asbury University and the University of Kentucky over the last several years.  
 
 
-### Health Care Ethics, Spring 2016, University of Kentucky
+### 2016 Fall -- Business Ethics 004 (1-5 scale)
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
+|------------|------|------|------|-------|------|--------------|------------|
+| Course     | 0    | 0    | 5    | 4     | **4.44** | 4.02   | +.42       |
+| Teaching   | 0    | 1    | 2    | 6     | **4.56** | 4.19   | +.37       |
 
 
-|                          | Poor | Fair | Good | Excellent | Mean | College Mean | Difference |
+
+### 2016 Fall -- Business Ethics 003 (1-5 scale)
+
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
+|---------------------|------|------|------|-----------|------|--------------|------------|
+| Course     | 3    | 0    | 8    | 8         | **4.11** | 4.02         | +.09       |
+| Teaching  | 0    | 0    | 4    | 5         | **4.63** | 4.19         | +.44       |
+
+
+
+
+### 2016 Spring -- Health Care Ethics 002 (1-4 scale)
+
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
+|------------------|----|----|------|-----------|------|--------------|------------|
+| Course     | 0  | 2  | 5  | 9   | **3.44** | 3.14      | +.30       |
+| Teaching | 0  | 0  | 5  | 11  | **3.69** | 3.28      | +.41       |
+
+
+
+### 2016 Spring -- Health Care Ethics 003 (1-4 scale)
+
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
+|---------------------|------|------|------|------------|------|--------------|------------|
+|  Course     | 0    | 0    | 9    | 11    | **3.55** | 3.14         | +.40       |
+|  Teaching | 0    | 0    | 5    | 15    | **3.75** | 3.28         | +.47       |
+
+
+
+
+
+### 2015 Fall -- Health Care Ethics 002 (1-4 scale)
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |--------------------------|------|------|------|-----------|------|--------------|------------|
-| Overall Course Value     | 0    | 0    | 9    | 4         | 3.55 | 3.14         | +.40       |
-| Overall Teaching Quality | 0    | 0    | 5    | 15        | 3.75 | 3.28         | +.47       |
+| Course     | 0    | 0    | 3    | 18   | **3.86** | 3.12    | +.74       |
+| Teaching | 0    | 0    | 1    | 20   | **3.95** | 3.25    | +.70       |
 
+### 2015 Fall -- Health Care Ethics 003 (1-4 scale)
 
-
-### Health Care Ethics, Fall 2015, University of Kentucky
-
-|                          | Poor | Fair | Good | Excellent | Mean | College Mean | Difference |
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |--------------------------|------|------|------|-----------|------|--------------|------------|
-| Overall Course Value     | 0    | 0    | 3    | 18        | 3.86 | 3.12         | +.74       |
-| Overall Teaching Quality | 0    | 0    | 1    | 20        | 3.95 | 3.25         | +.70       |
+| Course     | 0    | 1    | 5    | 9         | **3.53** | 3.12    | +.41       |
+| Teaching | 0    | 1    | 4    | 10        | **3.60** | 3.25    | +.35       |
 
-
-### Introduction to Philosophy, Spring 2015, University of Kentucky
-
-|                          | Poor | Fair | Good | Excellent | Mean | College Mean | Difference |
-|--------------------------|------|------|------|-----------|------|--------------|------------|
-| Overall Course Value     | 0    | 0    | 7    | 14        | 3.67 | 3.14         |   +.53     |
-| Overall Teaching Quality | 0    | 0    | 5    | 15        | 3.75 |   3.23       |   +.52     |
 
 
 

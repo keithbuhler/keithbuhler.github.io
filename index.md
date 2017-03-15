@@ -37,108 +37,35 @@ One extension of that project puts Foot's "secular natural law theory" into conv
 
 Over the last 15 years, I've helped almost a thousand students of all ages to learn and grow. 
 
-My students succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. You can check out some [current syllabi (Spring 2017) here](/syllabi) or view [my student evaluation data here.](/teaching-statement)
+Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
 
-## University Courses Taught
+- [Courses taught, syllabi, student feedback](/teaching)
+- [Student reviews at RateMyProfessors](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
+# Testimonials
 
-### University of Kentucky
+*  "Dynamism, acumen, and compassion"   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
 
-- Business Ethics
-- Health Care Ethics
-- Introduction to Philosophy
-- Introduction to Ethics
-- Introduction to Logic
+- "A good conversation machine" -- [Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
-### Asbury University
+* "Enthusiastic and personable... clear and precise" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
-- Philosophy of Religion
-- Philosophy of C.S. Lewis
-- Virtue Ethics, Ancient and Modern
-- Introduction to Philosophy 
+* "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
-### Biola University 
+* "Insight that allows you to do more than learn, it allows you to grow." -- Student 2009
 
-- Philosophy of Science (as Teaching Assistant)
+* "My writing and thinking ability have both improved" Student 2010
 
-## High School Courses
+* "Engaging and mind-stretching" -- Student 2016
 
-### Freedom Project Academy
+* "I don't think a class went by where I didn't laugh" Student 2016
 
-- Introduction to Philosophy 
-
-### Veritas Academy
-
-- Humanities: The British Literature of the Inklings
-
-### Torrey Academy
-
-- Plato
-- Aristotelian Logic
-- Humanities: Ancient Literature, Philosophy, and History
-- Humanities: Medieval Literature, Philosophy, and History
-- Humanities: American Literature, Philosophy, and History
-- Shakespeare
-- Humanities: The British Literature of the Inklings
-
-
-<br>
-
-
-
-
-# Student Feedback
-
-* "Very theatrical about philosophy" 
-
-* "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
-
-* "I don't think a class went by where I didn't laugh"
-
-* "cheerful spirit"
-
-* "Constructed a safe place to express opinions"
-
-* "Makes us all feel heard, while challenging our views"
-
-* "Understood the struggle of learning Philosophy at 8:00am"
-
-* "Really cares about his students"
+* "Constructed a safe place to express opinions" 
 
 * "None of his assignments are busy work."
-
-* "This is what college is SUPPOSED to be."
-
-* "I learned more from this class than any I have taken before." 
-
-* "Probably the best Prof I have ever had."
-
-* "By far the best instructor I have ever had here at UK."
-
-* "I wish Prof. Buhler would teach all of my classes"
+ 
+* "This is what college is SUPPOSED to be." Student 2017
 
 
-* “I have been looking all my life for what I have found in philosophy.”
 
-- [*More student reviews at RateMyProfessors.*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
-<br>
-
-# Mini Bio
-
-*For other uses, see [Keith Buhler (disambiguation)](/disambiguation)*
-<img src="/images/keith-josiah.jpg" alt="Keith and son" hspace="30px" align="right" width="50%"> 
-
-My wife and I both hail from Orange County, California, so going to school in Kentucky is our first time living out of the country.  
-
-We're also raising two toddlers, so I truly appreciate sleep. 
-
-I was introduced to the great conversation and big ideas in college when my professors made me study history, literature, theology, and philosophy. It felt like touching a live wire. 
-
-I began teaching great books in 2001 and have never really stopped.  My first class was discussing fairy tales with gifted 4th graders when I was just a sophomore in college. 
-
-Philosophy is for me a profession and also a way of life. Even after teaching and researching all week, I preside over my local chapter of the American Chesterton Society to discuss literature, film, and politics with friends.
-
-I have about 45 minutes of spare time per month. In that time, I like to draw things, sculpt clay, blog, tinker with web design, watch AFI Top 100 films, write fiction, and compose [lists of what I do in my spare time.](https://en.wikipedia.org/wiki/Recursion)
-
-Thanks for visiting. 
