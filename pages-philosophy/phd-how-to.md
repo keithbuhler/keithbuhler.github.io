@@ -7,7 +7,13 @@ sidebar:
 --- 
 
 
+
+
 *[Another page explains my research.](/phd) This post offers advice on each stage of the process.*
+
+
+{% include toc %}
+
 
 ### Do you want to go to graduate school?
 

@@ -16,6 +16,10 @@ University of Kentucky
 keith.buhler@uky.edu  
 http://www.keithbuhler.com  
 
+
+{% include toc %}
+
+
 -----
 
 ![major](http://keithbuhler.com/images/phil-psych-major.jpg)
@@ -33,6 +37,9 @@ The truth is, you should consider a philosophy major or minor for three reasons:
 (3) philosophy is an enjoyable, fulfilling, human activity -- an end in itself. 
 
 Let's look at each in a bit more detail. 
+
+
+
 
 ## Philosophy will help you earn more money: 
 

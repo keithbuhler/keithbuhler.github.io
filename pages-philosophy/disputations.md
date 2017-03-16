@@ -18,9 +18,16 @@ http://www.keithbuhler.com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mS8QnAT3MRw" frameborder="0" allowfullscreen></iframe>
 
+
+{% include toc %}
+
+
+
 Disputations ask a question, state an answer (which is the thesis), and then prove the answer. They also respectfully summarize both sides of the issue before defending one side and rebutting the other. 
 
 Disputations are not, strictly speaking, full papers -- because they don't have a normal introduction, conclusion, or transitions. However, they are excellent skeletons or outlines of a good paper. 
+
+# Example 1
 
 Here is an example disputation for us to discuss: 
 
@@ -40,7 +47,7 @@ Here is an example disputation for us to discuss:
 
 
 
-### Format
+# Format
 
 
 This example shows several key points. Let's consider them. 
@@ -54,6 +61,8 @@ A passing Disputation is in four-point format:
 3. **Argument**. This section actually argues for your thesis. Begin by stating your thesis. The thesis is a truth claim. It is the governing principle of the whole essay. Each paper should have only one thesis, and every word, every sentence, and every paragraph should relate to the thesis. Then, provide support for your thesis. Why should we think your thesis is true? The evidence for a thesis may be: factual, logical,  statistical, anecdotal, intuitive, and so on.  But the arguments must be strong and support the thesis. The argument is the heart of the paper. This is where you attempt to provide sound, solid reasoning why anyone should think your thesis is true. You should aim for at least two or three different arguments in defense of your conclusion. Define your terms. Each argument uses one or a few key terms. Make sure your sentences are clear and exact. And finally, make sure that your argument form is valid. Make sure your premises are true (or very likely). You can use evidence from your own research, the text, or your own thinking.  
 4. **Reply to objections.** Your last paragraph(s) deals with your counterclaim. How can you refute your opponent’s counter argument? You must either refute their evidence or acknowledge but re-interpret it to show that it does not damage your conclusion. 
 
+
+# Pass/Fail Criteria
 
 A PASSING DISPUTATION achieves eight goals: 
 
@@ -76,7 +85,8 @@ A failing disputation commits one or more of the following errors:
 6. Doesn't cite any texts; doesn't cite semester texts or any other research.
 7. Is composed mostly of confabulated, forced, obscure, "thesaurus heavy", pretentious, garbled, academic B. S. 
 
-I recommend that you write the paper in your preferred text editor (like Word or Google Docs), save a copy, then copy/paste it into the browser by the due date. 
+
+# Other Tips
 
 **Formatting tips:**
 
@@ -86,7 +96,10 @@ I recommend that you write the paper in your preferred text editor (like Word or
 * Insert page numbers
 
 
-## Examples
+I recommend that you write the paper in your preferred text editor (like Word or Google Docs), save a copy, then copy/paste it into the browser by the due date. 
+
+
+# More Examples
 
 <iframe src="https://docs.google.com/document/d/1nboSr132d7t2gTmztxEL6vTiAj9NT9OCp7_OaCX9Pwc/pub?embedded=true" height="800" width="700"></iframe>
 

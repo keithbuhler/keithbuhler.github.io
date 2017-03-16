@@ -48,7 +48,3 @@ OK, OK! Try these. Cut your teeth on Aristotle or Kant. It'll give you the burn 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>

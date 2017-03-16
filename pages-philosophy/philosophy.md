@@ -17,6 +17,10 @@ If you do take a class, you might find it surprisingly good -- depending on the 
 Why is philosophy interesting? Perhaps because it invites you to think deeply about your life and your world, about reality, death, meaning, science, religion, and beauty. Everyone has opinions. Philosophy invites you to reflect, learn from others, and grow. 
 
 
+
+{% include toc %}
+
+
 ### Just added? 
 
 - Welcome!

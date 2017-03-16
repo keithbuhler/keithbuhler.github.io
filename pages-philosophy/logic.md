@@ -22,6 +22,9 @@ http://www.keithbuhler.com
 
 <img src="https://i.imgflip.com/15sr6z.jpg">
 
+{% include toc %}
+
+
 ## Section 1: "All of Logic in 2 Pages", by Peter Kreeft
 
 > The ancient philosophers defined Man as the "rational animal." To be human is (among other things) to reason, to give reasons for believing things to be true. We can see common forms, or structures, in all human reasoning, no matter what the contents, or objects, that we reason about. Logic studies those structures.

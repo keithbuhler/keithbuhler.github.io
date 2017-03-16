@@ -6,6 +6,10 @@ sidebar:
       nav: philosophy
 ---
 
+
+{% include toc %}
+
+
 # Intro to Philosophy  (Spring 2017)
 
 ### Disputation, Unit 1. (Origins) Is Christian belief primarily supported by faith or by reason? 

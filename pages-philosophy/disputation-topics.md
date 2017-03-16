@@ -6,9 +6,8 @@ sidebar:
       nav: philosophy
 ---
 
+{% include toc %}
 
-* Do not remove this line (it will not be displayed)
-{:toc}
 
 # Morality and Society Topics (UK 2017)
 
@@ -39,9 +38,11 @@ The Voltaire Brahmin story shows the tension between wisdom (which brings undesi
 
 Ayn Rand argues that traditional altruistic, self-sacrificial "morality" is anti-life, suicidal, irrational, and immoral. Instead, she presents the rational morality of egoism, pursuing one's own interests, protecting one's own life. Pojman and Rachels criticize Rand's argument by urging that self-sacrifice and altruism can be sometimes good, rational, and moral. Argue for or against the view that it is moral sometimes to be altruistic and self-sacrificial sometimes even at the cost of your own self-interest (or that altruism/self-sacrifice is truly in your best interest anyway). Make sure to state reasonable objections for the opposite view, and argue your thesis. 
 
-## Unit 4 (Moral Problems) Option A 
+## Unit 4 (Moral Problems) 
 
-## Unit 4 (Moral Problems) Option B
+**Option A**
+
+**Option B**
 
 ## Unit Paper #5 Term Paper
 

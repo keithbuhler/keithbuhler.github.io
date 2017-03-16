@@ -7,6 +7,10 @@ sidebar:
       nav: philosophy
 --- 
 
+
+{% include toc %}
+
+
 Philosophy is about making and understanding *arguments*. 
 
 Philosophy is not about yelling, but arguing -- that is, rationally justifying your positions and debunking falsehoods. 

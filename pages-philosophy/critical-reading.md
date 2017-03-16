@@ -15,6 +15,10 @@ University of Kentucky
 keith.buhler@uky.edu  
 http://www.keithbuhler.com  
 
+
+{% include toc %}
+
+
 ----
 
 ### Critical Reading Instructions 

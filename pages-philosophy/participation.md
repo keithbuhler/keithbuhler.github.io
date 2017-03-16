@@ -7,15 +7,17 @@ sidebar:
 permalink: /participation
 ---
 
-[picture](http://img.bhs4.com/04/4/0449a595911cfc5be9a9bf0308310b2aa180a6f4_large.jpg)
+![picture](http://img.bhs4.com/04/4/0449a595911cfc5be9a9bf0308310b2aa180a6f4_large.jpg)
 
-{% include toc %}
 
 The participation component is a large portion of your grade in this class. More importantly, your participation is essential to learning. Expressing your thoughts in words is essential to processing the new concepts and arguments we have covered in the reading, lecture, and discussion.
 
 Successful students earn points every week by participating. Everyone starts at an 80% and works up from there. You don't have to sound smart. You can be confused. All you need to do to get an "A" in this component is to be diligent. 
 
 There are two paths to participating: speaking and writing. They are not mutually exclusive. Internal processors are welcome to talk in class, and external processors are welcome to post on the Discussion Board. The more the merrier.
+
+{% include toc %}
+
 
 ## External Processors
 

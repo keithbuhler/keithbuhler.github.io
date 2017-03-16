@@ -6,6 +6,8 @@ header:
       image: 
 ---
 
+{% include toc %}
+
 
 ## Elements of an introductory paragraph
 
