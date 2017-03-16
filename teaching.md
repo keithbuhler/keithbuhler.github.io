@@ -80,29 +80,42 @@ feature_row:
 <br>
 
 
-# Testimonials
+# Student Testimonials
+
+* "Insight that allows you to do more than learn, it allows you to grow." -- Student 2009
+
+* "My writing and thinking ability have both improved" Student 2010
+
+* "My Mom says that I talk better and I am more rational about things than when I started." -- Student 2011
+
+* "I don't think a class went by where I didn't laugh"  -- Student 2016
+
+* "Constructed a safe place to express opinions"  -- Student 2016
+
+* "None of his assignments are busy work" -- Student 2016
+
+* "Engaging and mind-stretching" -- Student 2016
+ 
+* "This is what college is SUPPOSED to be." Student 2017 
 
 * "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
 
-* "Very theatrical about philosophy"
+* "Very theatrical about philosophy" -- Student 2016
 
-* "Makes us all feel heard, while challenging our views"
+* "Makes us all feel heard, while challenging our views" -- Student 2016
 
-* "Understood the struggle of learning Philosophy at 8:00am"
+* "Understood the struggle of learning Philosophy at 8:00am" -- Student 2016
 
-* "None of his assignments are busy work."
+* "None of his assignments are busy work." -- Student 2016
 
-* "I learned more from this class than any I have taken before." 
+* "I learned more from this class than any I have taken before."  -- Student 2016
 
-* "Probably the best Prof I have ever had [at Asbury]."
+* "Probably the best Prof I have ever had [at Asbury]." -- Student 2016
 
-* "By far the best instructor I have ever had here at UK."
+* "By far the best instructor I have ever had here at UK." -- Student 2016
 
-- "A wonderful and effective mentor" -- Bettie Torres
 
-* "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
-- "Gives me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 
 

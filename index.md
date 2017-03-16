@@ -40,30 +40,26 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 
 - [Courses taught, syllabi, student feedback](/teaching)
 
-# Testimonials
 
-*  "Dynamism, acumen, and compassion"   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+<br>
+
+# Testimonials
 
 - "A good conversation machine" -- [Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
+* "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+
+*  "Dynamism, acumen, and compassion"   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+
 * "Enthusiastic and personable... clear and precise" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
-* "Insight that allows you to do more than learn, it allows you to grow." -- Student 2009
-
-* "I don't think a class went by where I didn't laugh"  -- Student 2016
-
-* "Constructed a safe place to express opinions"  -- Student 2016
-
-* "My writing and thinking ability have both improved" Student 2010
-
-* "None of his assignments are busy work" -- Student 2016
-
-* "Engaging and mind-stretching" -- Student 2016
- 
-* "This is what college is SUPPOSED to be." Student 2017 
+* "Give[s] me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 
-[*More student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+<br>
+
+
+[*Student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
 
 
 
