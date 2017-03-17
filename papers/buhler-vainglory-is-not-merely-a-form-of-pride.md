@@ -19,6 +19,10 @@ February 2017
 >Our elders admirably describe the nature of this malady [of vainglory] as like that of an onion, and of those bulbs which when stripped of one covering you find to be sheathed in another; and as often as you strip them, you find them still protected.
  -- St. John Cassian, Institutions, XI, Chapter 5.
 
+
+{% include toc %}
+
+
 ### Introduction
 
 Contemporary virtue ethicists have not paid much attention to vainglory or *kenodoxia*. I have been unable to locate any sustained discussion of the vice in the writings of Elizabeth Anscombe, Peter Geach, Iris Murdoch, Rosalind Hursthouse, Alasdair MacIntyre, Philippa Foot, John McDowell, or other contemporary philosophers.[^1] The first writer who brought the topic to my attention was Dorothy Sayers in her novel, *Gaudy Night*, which focuses on a character named Harriet Vane -- Harriet Vane's name summons images of a weather vane, which is blown about by the wind, but also underlines the titular term 'gaudy', which is synonymous with vain. 

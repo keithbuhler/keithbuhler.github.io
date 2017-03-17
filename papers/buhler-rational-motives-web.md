@@ -13,18 +13,19 @@ February 2017
 
 
 
-Abstract: 
+**Abstract:** 
 
 >*Can one be both vice-ridden and practically rational? Philosophers are divided on the question of whether practical reason is instrumental to any end or intrinsically pursues certain ends.  This paper offers a unified case for the view that practical reason is intrinsically aimed at the good and that therefore, immoral decisions (and habits, etc.) are rational mistakes. I draw on Jennifer Frey's recent work to the effect that practical reason is necessarily constituted by a few general rational motives. An additional attraction of her view is that it solves related problems in metaethics that assume a divide between the external, biological view of oneself from the internal, human view.*
 
 
-
+-----
 
 
 >There could be no reasons unless a rational animal has a general conception of its own good, and thus a general sense of how to live. -- Jennifer Frey, *The Will to Do Good* 79.
 
 
 
+{% include toc %}
 
 
 
