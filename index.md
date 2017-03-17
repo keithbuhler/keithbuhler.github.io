@@ -59,7 +59,6 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 <br>
 
 
-[*Student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
-
+[*Read student feedback here.*](/teaching)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Courses Taught
+title: Teaching Information
 sidebar:
     nav: 
 header:
@@ -30,6 +30,9 @@ feature_row:
 ---
 
 {% include toc %}
+
+
+# All Courses Taught
 
 *University of Kentucky*   
 
@@ -70,17 +73,18 @@ feature_row:
 <br>
 <br>
 
-# Current Syllabi
+# Current Courses
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
 
+
 <br>
 
 
-# Student Testimonials
+# Testimonials
 
 * "Insight that allows you to do more than learn, it allows you to grow." -- Student 2009
 
@@ -123,19 +127,23 @@ feature_row:
 <br>
 
 
-# Recent Course Evaluations
+# Evaluation Data
 
 
-#### 2016 Fall -- Business Ethics 004 (1-5 scale)
+## 2016 
+
+**Fall -- Business Ethics 004 (1-5 scale)**  
+
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |------------|------|------|------|-------|------|--------------|------------|
 | Course     | 0    | 0    | 5    | 4     | **4.44** | 4.02   | +.42       |
 | Teaching   | 0    | 1    | 2    | 6     | **4.56** | 4.19   | +.37       |
 
+<br> 
 
 
-#### 2016 Fall -- Business Ethics 003 (1-5 scale)
+**Business Ethics 003 (1-5 scale)**  
 
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
@@ -143,10 +151,11 @@ feature_row:
 | Course     | 3    | 0    | 8    | 8         | **4.11** | 4.02         | +.09       |
 | Teaching  | 0    | 0    | 4    | 5         | **4.63** | 4.19         | +.44       |
 
+<br> 
 
 
 
-#### 2016 Spring -- Health Care Ethics 002 (1-4 scale)
+**Health Care Ethics 002 (1-4 scale)**  
 
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
@@ -155,44 +164,54 @@ feature_row:
 | Teaching | 0  | 0  | 5  | 11  | **3.69** | 3.28      | +.41       |
 
 
+<br> 
 
-#### 2016 Spring -- Health Care Ethics 003 (1-4 scale)
+**Health Care Ethics 003 (1-4 scale)**  
 
 
 |            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
 |---------------------|------|------|------|------------|------|--------------|------------|
 |  Course     | 0    | 0    | 9    | 11    | **3.55** | 3.14         | +.40       |
 |  Teaching | 0    | 0    | 5    | 15    | **3.75** | 3.28         | +.47       |
+<br> 
 
 
-
-#### 2015 Fall -- Health Care Ethics 002 (1-4 scale)
-
-|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
-|--------------------------|------|------|------|-----------|------|--------------|------------|
-| Course     | 0    | 0    | 3    | 18   | **3.86** | 3.12    | +.74       |
-| Teaching | 0    | 0    | 1    | 20   | **3.95** | 3.25    | +.70       |
-
-#### 2015 Fall -- Health Care Ethics 003 (1-4 scale)
-
-|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
-|--------------------------|------|------|------|-----------|------|--------------|------------|
-| Course     | 0    | 1    | 5    | 9         | **3.53** | 3.12    | +.41       |
-| Teaching | 0    | 1    | 4    | 10        | **3.60** | 3.25    | +.35       |
-
-
-
-
-#### Introduction to Philosophy, Spring 2016, Asbury University
+**Introduction to Philosophy, Spring 2016, Asbury University**
 
 |                              |  Mean (out of 4) | 
 |------------------------------|------------------|
 | Overall Course Value         |            3.6   | 
 | Overall Teaching Quality     |        3.68  | 
 
+<br> 
 
 
-#### Introduction to Philosophy, Fall 2014, Asbury University
+## 2015
+
+**Health Care Ethics 002 (1-4 scale)**
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
+|--------------------------|------|------|------|-----------|------|--------------|------------|
+| Course     | 0    | 0    | 3    | 18   | **3.86** | 3.12    | +.74       |
+| Teaching | 0    | 0    | 1    | 20   | **3.95** | 3.25    | +.70       |
+
+<br> 
+
+
+**Health Care Ethics 003 (1-4 scale)**  
+
+|            | Poor | Fair | Good | Exc. | Mean | College | Diff. |
+|--------------------------|------|------|------|-----------|------|--------------|------------|
+| Course     | 0    | 1    | 5    | 9         | **3.53** | 3.12    | +.41       |
+| Teaching | 0    | 1    | 4    | 10        | **3.60** | 3.25    | +.35       |
+
+<br> 
+
+
+
+## 2014
+
+**Introduction to Philosophy, Fall 2014, Asbury University**
 
 
 |                             |  Mean (out of 4) | 
@@ -201,6 +220,6 @@ feature_row:
 | Overall Teaching Quality    |        3.6       | 
 
 
+<br> 
 
-
-
+[*More raw and real student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
