@@ -2,9 +2,15 @@
 title: Slideshows Index
 layout: philosophy
 permalink: /slideshows/
+sidebar: 
+      nav: philosophy
+
 ---
 
 *Under construction*
+
+{% include toc %}
+
 
 ## Business Ethics Slides
 

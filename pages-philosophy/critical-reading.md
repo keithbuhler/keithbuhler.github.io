@@ -110,9 +110,6 @@ Critical Reading 6-Point Template
 
 <br>
 
-author_profile: true
----- 
-
 **(Optional) Key terms. What are the author’s key terms and how are they defined?**
 <br>
 **(Optional): Assumptions. What are the author’s assumptions or presuppositions?**

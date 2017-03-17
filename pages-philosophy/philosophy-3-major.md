@@ -5,7 +5,8 @@ permalink: /philosophy-3-major
 header:
       image:
 author_profile: false
-
+sidebar: 
+      nav: philosophy
 ---
 
 #### [(pdf version)](/philosophy-3-major.pdf)
@@ -15,9 +16,6 @@ Department of Philosophy
 University of Kentucky  
 keith.buhler@uky.edu  
 http://www.keithbuhler.com  
-
-
-{% include toc %}
 
 
 -----
@@ -39,6 +37,7 @@ The truth is, you should consider a philosophy major or minor for three reasons:
 Let's look at each in a bit more detail. 
 
 
+{% include toc %}
 
 
 ## Philosophy will help you earn more money: 

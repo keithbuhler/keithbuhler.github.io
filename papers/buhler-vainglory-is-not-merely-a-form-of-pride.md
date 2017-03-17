@@ -9,7 +9,7 @@ Keith Buhler
 University of Kentucky    
 February 2017  
 
-[PDF version](/papers/Vainglory is Not Merely a Form of Pride.pdf)
+[PDF version](/papers/buhler-vainglory-is-not-merely-a-form-of-pride.pdf)
 
 
 >**Abstract**: Contemporary virtue ethicists rarely, if ever, address vainglory or *kenodoxia*. Instead, vainglory is often conflated with pride or dismissed as a petty vice. In this paper, I argue that vainglory is not merely a form of pride but one of three major roots of sin having to do with the lust of the eyes. Drawing on Scriptural, patristic, and contemporary writings, I show that vainglory is a distinctive craving for seeing and being seen which manifests in a multitude of forms, some familiar (such as clothes) and others less familiar. The virtues of which vainglory is a counterfeit include both obscurity and true glory from God.
@@ -27,9 +27,9 @@ Contemporary virtue ethicists have not paid much attention to vainglory or *keno
 
 
 
-When vainglory or 'vanity' is mentioned, it is often simply conflated with pride. Just as often, vainglory is downplayed relative to pride and treated as a petty obsession with one’s appearance or reputation.  For example, C.S. Lewis, in his famous "Great Sin" chapter of *Mere Christianity*, briefly describes "vanity" in this way: "vanity, though it is the sort of Pride which shows most on the surface, is really the least bad and most pardonable sort. The vain person wants praise, applause, admiration, too much and is always angling for it. It is a fault, but a childlike and even (in an odd way) a humble fault."[^2] I don't think Lewis is best interpreted as referring to kenodoxia but rather a petty version thereof. Rather, I take his best account of vainglory to be the essay "Inner Ring." 
+When vainglory or 'vanity' is mentioned, it is often simply conflated with pride. Just as often, vainglory is downplayed relative to pride and treated as a petty obsession with one’s appearance or reputation.  For example, C.S. Lewis, in his famous "Great Sin" chapter of *Mere Christianity*, briefly describes "vanity" in this way: "vanity, though it is the sort of Pride which shows most on the surface, is really the least bad and most pardonable sort. The vain person wants praise, applause, admiration, too much and is always angling for it. It is a fault, but a childlike and even (in an odd way) a humble fault."[^21] I don't think Lewis is best interpreted as referring to kenodoxia but rather a petty version thereof. Rather, I take his best account of vainglory to be the essay "Inner Ring." 
 
-[^2]: @lewis1952mere
+[^21]: @lewis1952mere
 
 To my mind, conflating pride with vainglory or conflating vainglory with mere 'vanity' is a mistake.  One important exception to the general scholarly neglect of this vice is the writing of Rebbecca DeYoung. DeYoung takes vainglory seriously and she distinguished it from pride.[^2] By her account, briefly, pride is “desire for preeminence” and vainglory the “desire to have that preeminence displayed to others.”^[@deyoung2009glittering 62] Nevertheless, her almost exclusive attention to Aquinas and her aiming at a popular audience leaves room for supplementary research. In this paper, I aim to fill part of what is lacking. 
 

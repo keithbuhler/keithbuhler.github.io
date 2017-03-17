@@ -29,7 +29,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<br>
+{% include toc %}
 
 *University of Kentucky*   
 

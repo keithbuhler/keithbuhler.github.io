@@ -1,14 +1,19 @@
 ---
-layout: default
+title: The Size of the State -- Hegel on Morality, Right, and Ethical Life
 permalink: /hegel/
---- 
+layout: single
+---
 
-      Hegel, look up Madison Federalist paper - Madison 10; also Language for Hegel might be a natural limit. 
+
+Keith Buhler  
+University of Kentucky    
+February 2017  
+
+[PDF version](/papers/buhler-hegel-scale-of-ethical-life-web.pdf)
 
 
-"...This naturally depends on the numbers concerned." --Hegel, *Philosophy of Right*, § 270.
+>"...This naturally depends on the numbers concerned." --Hegel, *Philosophy of Right*, § 270.
 
-### Morality and *Rechte*: the Scale of Ethical Life
 
 ## Introduction
 
@@ -121,4 +126,8 @@ A third sort of critic, however, might accept my interpretation of Hegel but off
 
 [^10]: This de facto family exists whether or not the parents are married, cohabiting, or never see each other again; whether or not both biological parents complete the task of raising the child. 
  [^11]: I here ignore in vitro fertilization, artificial insemination, and immaculate conception.
+
+
+       Hegel, look up Madison Federalist paper - Madison 10; also Language for Hegel might be a natural limit. 
+
 
