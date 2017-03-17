@@ -10,20 +10,20 @@ feature_row:
   - image_path: http://www.keithbuhler.com/images/syllabus-334.png
     alt: "Business Ethics"
     title: "Business Ethics"
-    excerpt: "PHI 334 at UK, sections 001 and 003."
+    excerpt: "PHI 334 at UK, 9am and 11am, MWF."
     url: "http://www.keithbuhler.com/business"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/anderson-ecce-homo2.jpg
-    alt: "Introduction to Ethics"
-    title: "Introduction to Ethics"
-    excerpt: "PHI 130 at UK, Morality and Society."
+    alt: "Morality and Society"
+    title: "Morality and Society"
+    excerpt: "PHI 130 at UK 2pm, MWF."
     url: "http://www.keithbuhler.com/ethics"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/syllabus-200.png
-    title: "Introduction to Philosophy (Asbury)"
-    excerpt: "Asbury PHL 200 at 8am, T/Th"
+    title: "Philosophy"
+    excerpt: "PHL 200 at Asbury 8am, T/Th"
     url: "http://www.keithbuhler.com/introduction"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
@@ -31,8 +31,9 @@ feature_row:
 
 {% include toc %}
 
+<br>
 
-# All Courses Taught
+# Taught
 
 *University of Kentucky*   
 
@@ -173,6 +174,7 @@ feature_row:
 |---------------------|------|------|------|------------|------|--------------|------------|
 |  Course     | 0    | 0    | 9    | 11    | **3.55** | 3.14         | +.40       |
 |  Teaching | 0    | 0    | 5    | 15    | **3.75** | 3.28         | +.47       |
+
 <br> 
 
 
