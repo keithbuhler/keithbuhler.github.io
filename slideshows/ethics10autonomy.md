@@ -142,40 +142,68 @@ theme: blood
 <section data-markdown>  <!--Slide Beginning-->
 
 
-
 ## Sartre, "Existentialism is a Humanism"
 
+- "Existence precedes essence"
+- Essence precedes existence
+- 
 
 </section><section data-markdown>
 
-###
+### Christian Existentialism
+
+- Paper cutters *are* objects with a nature (paper-cutter) and a purpose or function (cut paper)
+- Man is artificer, creation is artifact
+- The 'forms' of creation precede the created things, as molds precede objects
+- Even without God, the notion of fixed natures remains (Plato, for example; and Kant)
+- All men are human equally
 
 </section><section data-markdown>
 
-###
+### Atheistic Existentialism
+
+- Human beings exist before they have a nature
+- Humans are their own artificers
+- "Man will be what he will have planned to be"
+- "Will" means responsibility, self-determination
+
 
 </section><section data-markdown>
 
-###
+### Atheistic Existentialism II
+
+- God and morality (597)
+- God not existing might leave the moral law intact
+- Or God not existing might ruin everything
+- If "existence really does precede essence... there is no determinism, man is free, man is freedom"
 
 </section><section data-markdown>
 
-###
+### The Young Man
 
+- "Man is condemned to be free"
+- His mother needed him
+- His cause needed him
+- Christianity or Kant tell him nothing
+- He must choose
+- Rely on nothing and no one, simply act (600)
 
 </section><section data-markdown>
 ### Vonnegut, "Harrison Bergeron"
+
+- 2081 AD, everyone is equal
+- Smart, beautiful, or well-spoken people are handicapped accordingly
+- Harrison Bergeron is "14, escaped from jail... genius and an athelete... under-handicapped... extremely dangerous"
+- He stops shrinking and hiding
+- Diana Moon Glampers uses a shotgun
+- Radio silence
+
 </section><section data-markdown>
 
-###
+### Discussion
 
-</section><section data-markdown>
+* Your questions?
 
-###
-
-</section><section data-markdown>
-
-###
 
 
 </section>

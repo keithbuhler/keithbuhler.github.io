@@ -12,19 +12,18 @@ sidebar:
 *[Another page explains my research.](/phd) This post offers advice on each stage of the process.*
 
 
-{% include toc %}
 
-
-### Do you want to go to graduate school?
-
-This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
+Do you want to go to graduate school? This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
 
 An earnest desire is necessary but not sufficient. You need desire and aptitude. Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself. 
 
 Some of those who study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university, or get non-academic jobs.  
 
+{% include toc %}
 
-### My story
+*{:toc:}
+
+### 1 My story
 
 By 2011, my wife and I had decided to pursue a PhD in philosophy. 
 
@@ -43,7 +42,7 @@ I got 10 rejections, and 4 acceptances. Claremont and University of Chicago offe
 We moved to Kentucky in July of 2012. 
 
 
-### 2. If I decide to apply, should I go for an MA or PHD? ##
+### 2. MA or PHD? ##
 
 Contrary to popular belief, you *can* go from graduating college straight into an American PhD program. You don't *need* an M.A. That said, there are reasons to consider an M.A. first.
 
@@ -65,7 +64,7 @@ The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosoph
 Play it safe -- just be calm, be yourself, be frank, and say what you want to study. Your aspirations will change; just state what you want to study *today*. 
 
 
-### 4. Once you get in, how do you best make progress? -- MASTER LIST
+### 4. Making Progress
 
 Getting a degree is your job. Treat it like a business. Better, treat it like YOUR OWN business. You are an entrepreneur whose sole goal is to make yourself ready for the job market -- marketable research, strong publications, a wide base of teaching, friendly connections, and lots (I mean lots) of red tape 
 
@@ -91,7 +90,7 @@ Know what's coming. What do you need to do by year three? By year two? By end of
 
 
 
-### 5. How do you approach coursework? ##
+### 5. Coursework
 
 
 The first step was to complete my coursework. I took 2-3 classes per semester for 2.5 years. 
@@ -104,7 +103,7 @@ My program requires a "Teaching Pro-Seminar" to help us be good little graduate 
 
 
 
-### 6. Language, Logic, and Comprehensive exams? ##
+### 6. Language, Logic, and Exams? ##
 
 Pick the language in which you will eventually read primary sources: usually either Greek, Latin, French, or German -- but of course sometimes Spanish, or whatever language you might be working in. Also, U. Kentucky requires symbolic logic, so I took that my third year. 
 
@@ -112,7 +111,7 @@ Comprehensive exams are required at U. Kentucky but the practice is fading. I st
 
 
 
-### 7. How do you decide on an Area? ##
+### 7. Picking an Area
 
 Naturally, each school is different. Some have you write a Prospectus or Dissertation Proposal rather than stretching the process out like UK does. We do an Area Proposal, then Qualifying Exams, then a Dissertation Proposal, each of which must be written and orally defended before the committee. 
 
@@ -120,27 +119,27 @@ My area proposal was the product of much soul-searching. When I applied to gradu
 
 I asked my advisor if I should go ahead and make the switch from AOS (area of specialty) Ancient Philosophy to AOS Ethics. He agreed. At that point, I started writing-to-discover. I wrote several drafts of potential area proposals for my eyes only. I narrowed down my interests and honed my arguments. I read widely about naturalism in its various forms, and about the controversies between naturalists and non-naturalists in ethics. 
 
-### 7b How do you write the Area Proposal? 
+### 8. Area Proposal
 
 I asked several friends for copies of their successfully defended Area Proposals and also downloaded some random examples from the web. They were all quite different. I decided to go ahead and attempt a draft of a formal, complete proposal. 
 
 After several iterations, in conversation with my advisor, I had a complete draft. Looking back, I see that it wasn't very good -- I still didn't have a grasp of how slippery some of the vocabulary is: terms like "objective", "naturalism", "metaethics", and so on have a wide range of nuanced and sometimes competing meanings. But I had the Area, and that's the point. 
 
-Now I was able to begin researching in my area in order to pass the "qualifying exams" 
+Now I was able to begin researching in my area in order to pass the "qualifying exams." 
 
-## 7c Research
+## 9. Research
 
-I started reading in force. I downloaded articles from PhilPapers or JSTOR and purchased or checked out books by a few of my favorite authors: John McDowell, Philippa Foot, Alasdair MacIntyre, Iris Murdoch, Rosalind Hursthouse, Alan Gibbard, Michael Thompson, and so on. I read, took notes, and occassionaly attempted the foolhardy task of writing a whole chapter draft. These drafts were pretty universally junk, but writing them helped me think things through. 
-
-
-## 8. How do you pass the Qualifying Exams?
-
-This is simply a matter of doing the reading in your area. Take notes as you go -- quotations (with full citation information or you will regret it!) and sentences or paragraphs in your own words. These many, many notes will serve as raw material when you begin writing exams and chapters. 
+With a proposal in place, I started reading in force. I downloaded articles from PhilPapers or JSTOR and purchased or checked out books by a few of my favorite authors: John McDowell, Philippa Foot, Alasdair MacIntyre, Iris Murdoch, Rosalind Hursthouse, Alan Gibbard, Michael Thompson, and so on. I read, took notes, and occassionaly attempted the foolhardy task of writing a whole chapter draft. These drafts were pretty universally junk, but writing them helped me think things through. 
 
 
-## 10. How do you write a dissertation?
+## 10. Qualifying Exams
 
-[Start by reading this awesome instruction set from Proffessor Robert Paul Wolff](http://robertpaulwolff.blogspot.com/2010/07/how-to-write-doctoral-dissertation-in.html)
+How do you pass qualifying exams (if applicable)? This is simply a matter of doing the reading in your area. Take notes as you go -- quotations (with full citation information or you will regret it!) and sentences or paragraphs in your own words. These many, many notes will serve as raw material when you begin writing exams and chapters. 
+
+
+## 11. Dissertation
+
+How do you write a dissertation? [Start by reading this awesome instruction set from Proffessor Robert Paul Wolff](http://robertpaulwolff.blogspot.com/2010/07/how-to-write-doctoral-dissertation-in.html)
 
 You should also read this post from [Chronicle blog:](https://chroniclevitae.com/news/1273-your-dissertation-begins-in-your-first-seminar?cid=at&utm_source=at&utm_medium=en&elq=f5810d24e3674ebeac1c2d2f88f76945&elqCampaignId=2342&elqaid=7728&elqat=1&elqTrackId=751999ad23b24e25a86b6c5e0f986490#sthash.R26cqFMv.dpuf)
 
@@ -169,7 +168,7 @@ This would look like:
 
 
 
-#### A bit more detail ###
+
 A bit more detail: Your dissertation will be between 150-300 pages long. It will be minimum 4 chapters, maximum probably 8. Each chapter will be minimum 20 pages, maximum 80 pages. Each chapter will be minimum 10,000 words, maximum 20,000 words. Then you are done. 
 
 Example 1 - 250 pages, 6 chapters, 41 pages each, 10,020 words per chapter. 
@@ -185,7 +184,7 @@ Example 5 - 180 pages, 10 chapters, 18 pages each, 4,500 words per chapter.
 Example 6 - 200 pages, 10 chapters, 20 pages each, 5,000 words per chapter
 
 
-### Research Proposals ###
+## Research Proposals 
 
 The University of Kentucky asks graduate students to make three increasingly specific proposals.
 
@@ -193,6 +192,8 @@ The University of Kentucky asks graduate students to make three increasingly spe
 2. The [Qualifying Exams](https://drive.google.com/file/d/0B0CYQDZ8AWu8Y21MZnVxR1g3cFU/view) prove I have read quite a bit in these sub-disciplines and am ready to start researching and writing in that area. 
 3. The Dissertation Proposal "pitches" my specific project: to defend an account of virtue, practical reason, and happiness drawing on three  contemporary virtue ethicists. [(First draft here)](https://drive.google.com/file/d/0B0CYQDZ8AWu8ZWpPVG5lS2V4RGM/view)
 
+
+## Dissertation Updates
 
 ### 15 Oct 2015
 
