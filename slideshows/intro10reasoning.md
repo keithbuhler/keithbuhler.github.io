@@ -101,6 +101,19 @@ theme: league
 </section><section data-markdown>
 
 
+### Truth
+
+- Truth is in propositions
+- Truth is not in terms (except by clarity)
+- Truth is not in arguments (except by the conclusion being true, which is a proposition, or the premises, which are propositions)
+- Logical truth is correspondance of thought to reality
+- Substantive truth is in God's mind, the world, reality
+- "Truth", faithfulness, 'emeth' is in people 
+
+
+</section><section data-markdown>
+
+
 ### Simple Propositions
 
 1. Universal affirmative (A)
@@ -116,6 +129,34 @@ N **E** G **O** -- I NEGATE
 </section><section data-markdown>
 
 
+### Quantifiers
+
+- "All", "some" or "none"
+- A: All S are P 
+- I: Some S are P
+- E: No S are P (All S are *not* P)
+- O: Some S are not P
+
+</section><section data-markdown>
+
+### Tricky "O" 
+
+- Tricky: "Not all lawyers are crooks"
+- As in, no lawyers are actually crooks, or *some* are not crooks (but some are)?
+- Very trickY: "All lawyers are not crooks" (as in none are, or not all?)
+
+
+</section><section data-markdown>
+
+### Examples
+
+- Turn to 156-7
+- Not a proposition?
+- Simple proposition?
+- Compound proposition?
+- If simple, put in strict form
+
+
 
 
 ## 2 Minutes Left
@@ -128,21 +169,184 @@ N **E** G **O** -- I NEGATE
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin-->
 <section data-markdown>
 
-# Logic
+# Jesus and Logic
 
 </section><section data-markdown>
-
 ### Reasoning
 
-- Kreeft, Socratic Logic VIII, “Reasoning”; 
-- Willard, “Jesus the Logician”
+- 'Man is a rational animal.'
+- 'Man' is gender inclusive, and concrete -- more inclusive than the sexist abstraction of 'humanity' which excludes almost all English speakers
+-  'Rational' means reasoning, wisdom, intuition, understanding, apprehension, etc. 
+-  Human reasoning begins with experience
+-  Human reasoning knows particulars and universals 
+- Syllogism: "3 proposition argument)"
 
 </section><section data-markdown>
+### Foundations of Syllogism (187-8)
+
+1. Whatever is universally true of a subject must be true of everything contained in that subject
+2. Whatever is universally false of a subject must be false of everything contained in that subject
+3. Two things identical with on and the same third thing are identical with each other
+4. Two things which are not identical with a third thing are not identical with each other 
+
+
 
 </section><section data-markdown>
+### Tautologies
+
+- Necessarily true
+- Self-evident
+- "Frogs are frogs"
+- "If the ball is round and red, then the ball is round"
+- No new information: "This candidate will be elected if there is sufficient voter turnout"; "X will be elected if X is elected"
+-  "The team who can turn it around in the second half and convert possessions to touchdowns is going to walk away the winner" (The winner will win; the highest scorer will score the highest)
+
+
+
+
+
 </section><section data-markdown>
+### Detecting arguments
+
+- Detect its presence (is there an argument here?)
+- Detect its conclusion 
+- Detect its validity 
+
+
+
 </section><section data-markdown>
+### Conclusion indicators (192)
+
+- consequently
+- therefore
+- so
+- implies that
+- so you can see that
+- which demonstrates
+- as a result
+- for this reason
+
+
 </section><section data-markdown>
+### Premise indicators 
+
+- because
+- since
+- for
+- if we assume that
+- follows from
+- the reason that
+
+
+
+
+</section><section data-markdown>
+### Explanations
+
+- He has shifty eyes (fact) because he is guilty (explanation)
+- He is absent (fact) because he is ill (explanation)
+
+- Is he guilty? Maybe. Not all shifty-eyed people are guilty.
+- Is he absent? Yes! Because he's ill? Maybe. 
+
+
+
+
+</section><section data-markdown>
+### Validity
+
+- 'Valid' means that the conclusion necessarily follows from the premises.
+- Again: validity means that *if* the premises are true *then the conclusion must be true*
+- Again: validity means that if the premises are true *it is impossible for the conclusion to be false*
+
+
+
+
+</section><section data-markdown>
+### Validity Table
+
+| Premises T/F                |     Argument Valid                |    Argument  Invalid        |
+|     T                       |     **Conclusion True**           | Conclusion unknown          |
+|    F                        |     Conclusion unknown            | Conclusion unknown
+
+
+
+
+
+</section><section data-markdown>
+### False premises
+
+- If the argument is valid and the conclusion is *false*, then at least one premise must be false. 
+- All evil spirits are birds. All evil sparrows are evil spirits. Therefore all sparrows are birds. (True conclusion, valid argument...)
+- The earth is a star. No stars are fish. The earth is not a fish. 
+
+
+
+</section><section data-markdown>
+### Invalid arguments
+
+- If an argument is invalid, the conclusion still may be true! 
+- If an argument is invalid, all the premises may still be true! 
+- If an argument is valid, all the premises and conclusion may still be false!
+
+- All dinosaurs are dead. Some presidents are dead. So some people are presidents. (True conclusion, invalid)
+- All pigs are purple. Purple things are immortal. Pigs are immortal. (Valid but all false)
+- The sky is blue. The grass is green. Therefore man is mortal. (All true, but invalid)
+
+
+</section><section data-markdown>
+### Exercises (199)
+
+- The dullest exercises in the book!
+
+
+
+
+</section><section data-markdown>
+### Willard, “Jesus the Logician”
+
+- Being disciples of Jesus includes submitting to him intellectually 
+- The words "Jesus" and "Logician" feel disconnected
+- Yet to be his disciple, as scholars, requires thinking about him qua logician
+
+
+
+</section><section data-markdown>
+### Theory and practice
+
+- Jesus did not develop logical theory, like Aristotle or Frege
+- But most thinkers don't do that
+- And thinkers who develop logical systems may or may not be more logical
+- Jesus did use logic
+- Using logic requires intelligence (noticing implications and contradictions)
+- Using logic requires moral character (hypocrites, liars, thieves, murderers must avoid logic)
+
+</section><section data-markdown>
+### Enthymeme
+
+- "His use of logic is always enthymemic" (2)
+- Enthymeme is a logical syllogism with one or more "suppressed premises", i.e., unstated
+- If you want to be rich, you have to save. (And you want to be rich)
+
+</section><section data-markdown>
+### 
+
+
+
+
+</section><section data-markdown>
+### 
+
+
+
+
+</section><section data-markdown>
+### 
+
+
+
+
+
 </section><section data-markdown>
 
 
@@ -152,30 +356,4 @@ N **E** G **O** -- I NEGATE
 
 </section>
 </section><!--Day 2 end-->
-
-
-
-1. Introduction, good logic, two logics, three acts of the mind, all of logic.
-1. First act of the mind
-2. Terms
-3. Material fallacies
-4. Judgment: Definition
-5. Judgment
-6. Judgment: Changing Propositions
-7. Judgment: Contradiction
-8. Reasoning
-9. Reasoning: three meanings of because, four causes, classification of arguments, simple argument maps, deductive and inductive, Socratic method
-10. Reasoning: syllogisms
-11. Reasoning: checking syllogisms for validity, Euler's circles, aristotle's six rules, Barbara Calerent, Venn Diagrams
-12. Reasoning: more difficult syllogisms, enthymemes, sorites, epicheiremas (multiple syllogisms), complex argument maps
-13. Reasoning: compound syllogisms
-14. Reasoning: induction, generalization, causal arguments, mill's methods, scientific hypotheses, statistical probability, arguments by analogy, a fortiori and a minore arguments
-15. Practical applications of logic
-16. Some philosophical applications of logic
-
-
-
-Mar-21 T Kreeft, Socratic Logic, V, “Judgment”, Section 1 and 2 “Judgments, Propositions, and Sentences” and “What is truth?” 
-
-Mar-23 R Kreeft, Socratic Logic VIII, “Reasoning”; Willard, “Jesus the Logician”
 
