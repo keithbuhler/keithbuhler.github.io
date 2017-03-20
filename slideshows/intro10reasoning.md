@@ -323,7 +323,13 @@ N ***E*** G ***O*** -- I NEGATE
 - Jesus did not develop logical theory, like Aristotle or Frege
 - But most thinkers don't do that
 - And thinkers who develop logical systems may or may not be more logical
-- Jesus did use logic
+- Jesus did *use* logic
+
+</section><section data-markdown>
+### The Will to Be Logical
+
+>To be logical no doubt does require an understanding of what implication and contradiction are, as well as the ability to recognize their presence or absence in obvious cases. But it also requires the will to be logical, and then certain personal qualities that make it possible and actual...
+
 - Using logic requires intelligence (noticing implications and contradictions)
 - Using logic requires moral character (hypocrites, liars, thieves, murderers must avoid logic)
 
@@ -332,18 +338,35 @@ N ***E*** G ***O*** -- I NEGATE
 
 - "His use of logic is always enthymemic" (2)
 - Enthymeme is a logical syllogism with one or more "suppressed premises", i.e., unstated
-- If you want to be rich, you have to save. (And you want to be rich)
+- "If you want to be rich, you have to save." (If you want to be rich, you have to save. **You want to be rich.** **Therefore you have to save.**)
+- "Candide is a typical French novel; therefore it is vulgar." (**All typical French novels are vulgar**; Candide is a typical French novel; therefore Candide is vulgar.)
 
 </section><section data-markdown>
-### 
+### Enforcing the ritual law consistently
+
+1. The disciples were walking through fields, stripping the grain and eating them.
+2. The Pharisess accused them of breaking the law because violating ritual norm
+3. Jesus points out that "there are conditiosn in which the ritual laws in question do not apply"
+4. Jesus "brings up cases of this that the Pharisees already concede" (David, showbread; Priests, sabbath regulations)
+
+
+</section><section data-markdown>
+### Enforcing the ritual law consistently
+
+- Conclusion: 
+
+> It logically follows, then, that one is not automatically guilty of wrongdoing or disobedience when they do not keep the ritual observances as dictated, in case there is some greater need that must be met. This is something the Pharisees have, by implication, already admitted by accepting the rightness in the two cases Jesus referred to.
 
 
 
 
 </section><section data-markdown>
-### 
+### Enforcing the ritual law consistently
 
+- Deeper issue: God's character and intention
+- Human ritual laws: 
 
+>[Those who claim to practice the ritual law] are forced to choose between hypocrisy and open inconsistency, and he does sometimes use the word "hypocrisy" of them (e.g. Luke 13:15), implying that they knew they were being inconsistent and accepted it. In fact, the very idea of hypocrisy implies logical inconsistency. "They say, and do not" what their saying implies. (Matthew 23:2)
 
 
 </section><section data-markdown>
