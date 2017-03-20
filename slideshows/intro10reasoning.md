@@ -34,9 +34,13 @@ theme: league
 </section><section data-markdown>
 
 
-### For example
-
 ![unlearn](https://s-media-cache-ak0.pinimg.com/736x/80/3e/86/803e86052f46b83569a8942c976057b9.jpg)
+
+
+</section><section data-markdown>
+
+
+### For example
 - "Trump won the election with Russia's help"
 - "Chickens are dinosaurs" 
 
@@ -122,16 +126,16 @@ theme: league
 4. Particular negative (O)
 
 
-**A**F **I** RMO  -- I AFFIRM
-N **E** G **O** -- I NEGATE
+***A*** F ***I*** RMO  -- I AFFIRM
+
+N ***E*** G ***O*** -- I NEGATE
 
 
 </section><section data-markdown>
 
 
-### Quantifiers
+### Quantifiers: "All", "some" or "none"
 
-- "All", "some" or "none"
 - A: All S are P 
 - I: Some S are P
 - E: No S are P (All S are *not* P)
@@ -157,6 +161,7 @@ N **E** G **O** -- I NEGATE
 - If simple, put in strict form
 
 
+</section><section data-markdown>
 
 
 ## 2 Minutes Left
@@ -266,8 +271,9 @@ N **E** G **O** -- I NEGATE
 ### Validity Table
 
 | Premises T/F                |     Argument Valid                |    Argument  Invalid        |
+|-----------------------------|-----------------------------------|-----------------------------|
 |     T                       |     **Conclusion True**           | Conclusion unknown          |
-|    F                        |     Conclusion unknown            | Conclusion unknown
+|    F                        |     Conclusion unknown            | Conclusion unknown          |
 
 
 
