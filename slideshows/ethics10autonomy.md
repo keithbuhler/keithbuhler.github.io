@@ -7,9 +7,7 @@ theme: blood
 <section><!--Intro slide begin-->
 <section data-background="http://behavioralresourcegroup.com/wp-content/uploads/2016/11/SGO-Autonomy-Image.png" data-markdown><!--Intro slide begin-->
 
-
 #  Autonomy
-
 
 </section> <!--Intro slide end-->
 <section data-markdown>  <!--Slide Beginning-->

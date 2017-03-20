@@ -127,7 +127,7 @@ M       Mar-27   Boxill, Discrimination, Affirmative Action, and Diversity  (Gro
 W       Mar-29  Boxill, Discrimination, Affirmative Action, and Diversity    
 F       Mar-31  Discussion of Affirmative Action    
 
-### Week 12  Employee Rights
+### Week 12  Whistle-Blowing
 M       Apr-3  Brenkert, Whistle-Blowing, Moral Integrity    (Group  8)   
 W       Apr-5  Brenkert, Whistle-Blowing, Moral Integrity    
 F     Apr-7 Discussion   
@@ -137,7 +137,7 @@ M       Apr-10 Arnold, Working Conditions   (Group  9)
 W       Apr-12 Hasnas, The Mirage of Product Safety  (Group  10)    
 F       Apr-14   Discussion of Safety  
 
-### Week 14 Moral Organizations
+### Week 14 Moral Climate
 (Unit Paper 5 - Affirmative Action or Safety)   
 M       Apr-17   Bowie, Organizational Integrity and Moral Climates     
 W       Apr-19   Bowie, Organizational Integrity and Moral Climates   
