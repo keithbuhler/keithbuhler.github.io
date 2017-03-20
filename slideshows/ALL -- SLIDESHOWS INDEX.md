@@ -12,7 +12,7 @@ sidebar:
 {% include toc %}
 
 
-## Business Ethics Slides
+## Business Ethics, UK (2017)
 
 * [Week 1 Syllabus](/slideshows/business1intro)
 * [Week 1 Truth](/slideshows/business1truth)
@@ -24,19 +24,19 @@ sidebar:
 * [Week 7 Moral Law](/slideshows/business7morallaw)
 * [Week 8 Inside Job (Film)](/slideshows/business8insidejob)
 * [Week 9 Information](/slideshows/business9information)
-* [Week 10 Lobbying]
-* [Week 11 Employees]
-* [Week 12 Employees]
+* [Week 10 Incentives](/slideshows/business10incentives)
+* [Week 11 Affirmative Action]
+* [Week 12 Whistle-Blowing]
 * [Week 13 Safety]
-* [Week 14 Moral Businesses]
-* [Week 15 Moral Businesses]
+* [Week 14 Moral Climate]
+* [Week 15 Christmas Carol]
 
 
 * [Utilitarianism](/slideshows/business3util)
 * [Kantian Deontology](http://www.keithbuhler.com/slideshows/business4kant)
 
 
-## Ethics Slides (2017)
+## Morality & Society, UK (2017)
 
 * [Week 1 Syllabus](/slideshows/ethics1syllabus)
 * [Week 1 Pojman, Introduction](/slideshows/ethics1pojman)
@@ -48,14 +48,14 @@ sidebar:
 * [Week 7 Feminist ethics](/slideshows/ethics7feminism)
 * [Week 8 Egoism](/slideshows/ethics8egoism)
 * [Week 9 The Meaning of Life](/slideshows/ethics9life)
-* [Week 10 Autonomy]
+* [Week 10 Autonomy](/slideshows/ethics10autonomy)
 * [Week 11 Sexual Ethics]
 * [Week 12 Abortion]
 * [Week 13 Euthanasia]
 * [Week 14 Animals]
 * [Week 15 Globalism]
 
-## Introduction to Philosophy Slides (2017)
+## Intro to Philosophy, Asbury (2017)
 
 * [Week 1 Introduction](/slideshows/intro1syllabus)
 * [Week 2 Truth](https://docs.google.com/presentation/d/15cMYBmq8hgJS_cycvzxK-jeG1WbGMB_nnfoCOKxp01Y/edit)
@@ -73,7 +73,7 @@ sidebar:
 * [Week 16 Tree of Life]
 
 
-## Introduction to Philosophy Slides (2016)
+## Intro to Philosophy, Asbury (2016)
 
 * [Week 1 Introduction](https://drive.google.com/open?id=1eHONx_wurKNZP-bXe_uuHVLvO5hov8wXjc6iivl5qOs)
 * [Week 2 Truth](https://docs.google.com/presentation/d/15cMYBmq8hgJS_cycvzxK-jeG1WbGMB_nnfoCOKxp01Y/edit)
@@ -91,7 +91,5 @@ sidebar:
 * [Week 15 Kubrick](https://docs.google.com/presentation/d/1hIzk8dfLircKW-9Yemd37OK4inNW3D-4-uov-Tj_qAQ/)
 * [Week 16 Malick](https://docs.google.com/presentation/d/1nP-FNHKbIAWb59OAdWaH4TQmRVMoJs_yy3cqAJEgCZ0/)
 
-## CS Lewis Slides
-
-* [Week 1 Introduction](/slideshows/lewis1intro)
+## [CS Lewis, Asbury (2016)](/slideshows/lewis1intro)
 
