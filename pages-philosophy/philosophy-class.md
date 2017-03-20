@@ -8,7 +8,6 @@ sidebar:
 --- 
 
 
-{% include toc %}
 
 
 Philosophy is about making and understanding *arguments*. 
@@ -25,6 +24,9 @@ Good philosophy classes employ project-based learning. We learn by doing. Philos
 The only obstacle to project-based learning is this: Thinking is hard. Every philosophy student hits the wall. If you can get over the hump, then you will enjoy your class and it may have a good effect on your life. The wall is the moment where you feel frustrated, confused. You feel like something is wrong. You are mad at your classmate, your professor, or yourself. You think maybe philosophy just isn't for you. Everyone who really reaps the rewards of doing philosophy has hit this wall and pushed through. 
 
 So don't worry if you feel uncomfortable or incompetent. Just like weight lifting or long-distance running, no one starts out good at it. You just start. You may feel weak, slow, "dumb", or confused. That's normal. 
+
+
+{% include toc %}
 
 
 
@@ -44,9 +46,13 @@ To have a great experience in a philosophy class, you must work hard. You must w
 Here are some tips on each of these activities. 
 
 
-(A) [Reading tips](/reading)
+## [Reading tips](/reading)
 
-## (B) How do I Get Better at Understanding these Lectures?
+How do I get better at reading? Click the link above. 
+
+##  Lectures
+
+How do I Get Better at Understanding these Lectures?
 
 * Stop the professor often with questions. Philosophy is all about dialogue. 
 * Write down new vocab words and look them up before the next class. 
@@ -54,7 +60,9 @@ Here are some tips on each of these activities.
 * Be patient with yourself. 
 
 
-## (C) How Do I Get Better at [Discussion?](/discussion101)
+## Discussion
+
+How Do I Get Better at [Discussion?](/discussion101)
 
 <a target="_blank" href="http://www.rinkworks.com/persuasive/">
   <img src="/images/invalid-argument-queen.jpg" alt="don't make invalid arguments" align="center" width="50%">
@@ -77,7 +85,10 @@ Here are some tips on each of these activities.
 * Read [How to think aloud](http://www.elon.edu/docs/e-web/academics/teaching/tlconference/Making%20Thinking%20Manifest%20Through%20Think%20Alouds.pdf)
 
 
-## (D) How Do I Get Better at Writing Philosophy Papers? ####
+## Papers
+
+How Do I Get Better at Writing Philosophy Papers? 
+
 * Learn to [argue well.](/logic)
 * Writing a paper is an exercising in clear thinking. You must think first, write second. 
 * For my classes, the [disputation](/disputations) format works well. Disputations prove a thesis. The thesis answers a question. Disputations respectfully summarize your opponent's viewpoint. Disputations state a thesis, provide goood arguments, state reasonable objections, and refute them. Disputations are not papers,  since they don't have an  introduction or conclusion. Disputations are the outline or "skeleton" of a paper, with clear, numbered, sections. 
@@ -108,7 +119,10 @@ Here are some tips on each of these activities.
 * Do not affect a breezy manner           
 * Be very clear.  
 
-## I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? ####
+## Topics
+
+I'm Interested in Learning More about a Particular Philosopher or Topic; Where Should I Start? 
+
 * Read the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) article for medium difficulty introductions to any topic, thinker, or school of thought. Much better than just googling it!
 * If you want a more rigorous version of the same, read the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/).
 

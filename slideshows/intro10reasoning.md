@@ -1,6 +1,5 @@
-
 ---
-title: Introduction
+title: Logic
 layout: slide
 theme: league
 ---

@@ -64,7 +64,7 @@ sidebar:
 * [Week 6 The Soul](https://docs.google.com/presentation/d/1v8DnqgR0ka1ZXRheCGudtr8dwiVHsWPDDWttyRA-IEA/edit?usp=drive_web)
 * [Week 7-8 Forms](https://docs.google.com/presentation/d/1n7xV3Kku4tNME5wfFetn-5q3ciqt6bwEGz3yCO9jdhc/edit?usp=drive_web)
 * [Week 9 Logic](/slideshows/intro9logic)
-* [Week 10 Reasoning](/slideshows/intro9logic)
+* [Week 10 Reasoning](/slideshows/intro10reasoning)
 * [Week 11 Augustine]
 * [Week 12 Evil]
 * [Week 13 God]
