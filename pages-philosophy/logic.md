@@ -8,7 +8,7 @@ sidebar:
       nav: philosophy
 ---
 
-#### [(pdf version)](/logic.pdf)
+#### [(pdf version)](/pages-philosophy/logic.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)   
 Department of Philosophy   

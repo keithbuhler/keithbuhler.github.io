@@ -184,7 +184,7 @@ N ***E*** G ***O*** -- I NEGATE
 -  'Rational' means reasoning, wisdom, intuition, understanding, apprehension, etc. 
 -  Human reasoning begins with experience
 -  Human reasoning knows particulars and universals 
-- Syllogism: "3 proposition argument)"
+- Syllogism: "3 proposition argument"
 
 </section><section data-markdown>
 ### Foundations of Syllogism (187-8)
@@ -324,6 +324,9 @@ N ***E*** G ***O*** -- I NEGATE
 - But most thinkers don't do that
 - And thinkers who develop logical systems may or may not be more logical
 - Jesus did *use* logic
+- Jesus is a thinker (4)
+
+>... to see Jesus in a new light: to see him as doing intellectual work with the appropriate tools of logic, to see him as one who is both at home in and the master of such work.
 
 </section><section data-markdown>
 ### The Will to Be Logical
@@ -342,7 +345,7 @@ N ***E*** G ***O*** -- I NEGATE
 - "Candide is a typical French novel; therefore it is vulgar." (**All typical French novels are vulgar**; Candide is a typical French novel; therefore Candide is vulgar.)
 
 </section><section data-markdown>
-### Enforcing the ritual law consistently
+### Ritual Law Consistency
 
 1. The disciples were walking through fields, stripping the grain and eating them.
 2. The Pharisess accused them of breaking the law because violating ritual norm
@@ -351,8 +354,7 @@ N ***E*** G ***O*** -- I NEGATE
 
 
 </section><section data-markdown>
-### Enforcing the ritual law consistently
-
+### Ritual Law Consistency
 - Conclusion: 
 
 > It logically follows, then, that one is not automatically guilty of wrongdoing or disobedience when they do not keep the ritual observances as dictated, in case there is some greater need that must be met. This is something the Pharisees have, by implication, already admitted by accepting the rightness in the two cases Jesus referred to.
@@ -361,7 +363,7 @@ N ***E*** G ***O*** -- I NEGATE
 
 
 </section><section data-markdown>
-### Enforcing the ritual law consistently
+### Ritual Law Consistency
 
 - Deeper issue: God's character and intention
 - Human ritual laws: 
@@ -370,15 +372,52 @@ N ***E*** G ***O*** -- I NEGATE
 
 
 </section><section data-markdown>
-### 
+### Ritual Law Consistency
+
+>And legalism will always lead to inconsistency in life, if not hypocrisy, for it will eventuate in giving greater importance to rules than is compatible with the principles one espouses (to sacrifice, for example, than to compassion, in the case at hand), and also to an inconsistent practice of the rules themselves (e.g leading one's donkey to water on the sabbath, but refusing to have a human being healed of an 18­ year­long affliction, as in Luke 13:15­16).
+
+</section><section data-markdown>
+### Resurrection
+
+>"Reductio ad absurdem" = reduction to absurdity. A form of disproof that accepts the opponent's thesis, derives an absurd conclusion (that is impossible or contradictory). If X leads to Y necessarily, and Y is false, then necessarily X is false. 
 
 
+</section><section data-markdown>
+### Resurrection
+
+1. Sadducees reject resurrection.
+2. Argue that if resurrection were true, then a women would have 7 husbands, which is absurd. 
+3. Therefore, there is no resurrection.
+3. Jesus exposes the Sadducee assumption that the resurrection will be crude, exactly as the body is now.
+4. Counterpoint: If God is the deity of Abraham, and God is not the deity of the dead, the Abraham is not dead. 
+5. That the dead *are* raised follows from the nature of God -- that God is the deity of the living.
 
 
 
 </section><section data-markdown>
+### Messiah
+
+1. Messiah is the son of David (accepted by his hearers)
+2. David calls the Messiah "Lord" (Psalm 110)
+3. Therefore, the Messiah is not *simply* the son of David (but also the son of Someone higher)
 
 
+
+</section><section data-markdown>
+### Dismemberment
+
+> If your right eye makes you to stumble, tear it out, and throw it from you; for it is better for you that one of the parts of your body perish, than for your whole body to be thrown into hell (Matthew 5:29-30)
+
+- If righteousness is to be achieved by *not sinning*, then one should dismember oneself, for it is better to enter heaven without eyes or hands than to go, whole, to hell. 
+- However, one should not dismember oneself.
+- Therefore, righteousness is not to be achieved by *not sinning* (but presumably, by repentence)
+
+</section><section data-markdown>
+
+
+>C. S. Lewis and Francis Schaeffer. They all make relentless use of logic, and to great good effect. With none of these great teachers is it a matter of trusting logic instead of relying upon the Holy Spirit. Rather, they well knew, it is simply a matter of meeting the conditions along with which the Holy Spirit chooses to work
+
+</section><section data-markdown>
 
 ## 2 Minutes Left
 * Questions?
