@@ -59,7 +59,7 @@ feature_row3:
     alt: "Art"
     title: "Art"
     excerpt: "Drawings, paintings, and pumpkins"
-    url: "http://www.keithbuhler.com/art"
+    url: "http://www.keithbuhler.com/pages/art"
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-writings.png
