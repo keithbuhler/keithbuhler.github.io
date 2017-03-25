@@ -66,6 +66,7 @@ gems:
   - [jekyll-sitemap]
   - [jekyll-feed]
   - [jekyll-gist]
+  - [jekyll-archives]
 sass:
   sass_dir: _sass
   style: compressed
