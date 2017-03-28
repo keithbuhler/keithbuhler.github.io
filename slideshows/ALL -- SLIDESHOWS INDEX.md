@@ -65,7 +65,7 @@ sidebar:
 * [Week 7-8 Forms](https://docs.google.com/presentation/d/1n7xV3Kku4tNME5wfFetn-5q3ciqt6bwEGz3yCO9jdhc/edit?usp=drive_web)
 * [Week 9 Logic](/slideshows/intro9logic)
 * [Week 10 Reasoning](/slideshows/intro10reasoning)
-* [Week 11 Augustine]
+* [Week 11 Augustine](/slideshows/intro11augustine)
 * [Week 12 Evil]
 * [Week 13 God]
 * [Week 14 A Space Odyssey]
