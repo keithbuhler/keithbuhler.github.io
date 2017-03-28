@@ -4,7 +4,7 @@ layout: slide
 theme: blood
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-augustine.svg"><!--Day 1 begin-->
+<section data-background="http://www.keithbuhler.com/images/background-augustine.svg"> 
 <section data-background="http://thecripplegate.com/wp-content/uploads/2012/09/Augustine.jpg" data-markdown><!--Intro slide begin-->
 
 # Augustine
