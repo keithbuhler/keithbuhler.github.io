@@ -1,10 +1,10 @@
 ---
 title: Introduction
 layout: slide
-theme: league
+theme: blood
 ---
 
-<section data-background="/images/background-augustine.svg"><!--Day 1 begin-->
+<section data-background="http://www.keithbuhler.com/images/background-augustine.svg"><!--Day 1 begin-->
 <section data-background="http://thecripplegate.com/wp-content/uploads/2012/09/Augustine.jpg" data-markdown><!--Intro slide begin-->
 
 # Augustine
@@ -104,13 +104,35 @@ Sophie’s World (163):
 
 St. Augustine, On Christian Doctrine II.18.28: 
 
->For we ought not to refuse to learn letters because they say that Mercury discovered them; nor because they have dedicated temples to Justice and Virtue, and prefer to worship in the form of stones things that ought to have their place in the heart, ought we on that account to forsake justice and virtue. Nay, but let every good and true Christian understand that wherever truth may be found, it belongs to his Master; and while he recognizes and acknowledges the truth, even in their religious literature, let him reject the figments of superstition, and let him grieve over and avoid men who, “when they knew God, glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. Professing themselves to be wise, they became fools, and changed the glory of the incorruptible God into an image made like to corruptible man, and to birds, and four-footed beasts, and creeping things.
+>For we ought not to refuse to learn letters because they say that Mercury discovered them; nor because they have dedicated temples to Justice and Virtue, and prefer to worship in the form of stones things that ought to have their place in the heart, ought we on that account to forsake justice and virtue. Nay, but let every good and true Christian understand that wherever truth may be found, it belongs to his Master 
+
+</section><section data-markdown>
+
+>And while he recognizes and acknowledges the truth, even in their religious literature, let him reject the figments of superstition, and let him grieve over and avoid men who, “when they knew God, glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. Professing themselves to be wise, they became fools, and changed the glory of the incorruptible God into an image made like to corruptible man, and to birds, and four-footed beasts, and creeping things.
+
+
+</section><section data-markdown>
 
 ### Confessions
 
 - The _Confessions_ confesses Christ, and confesses Augustine’s sin.
 - It tells his life story from before he could remember (trusting testimony of his mother and nurses and analogies from other kids), through the life and death of Monica, his intellectual journey, and his conversion.
 - It concludes with doxological reflections on time and creation.
+
+</section><section data-markdown>
+
+### Confessions
+
+We are going to focus on a few themes: 
+
+- the nature of God, 
+- the existence of evil, 
+- the relationship between Platonic "reason" and Christian faith 
+
+</section><section data-markdown>
+
+### Is God Physical? 
+
 
 
 </section><section data-markdown>
@@ -132,16 +154,23 @@ St. Augustine, On Christian Doctrine II.18.28:
 <section><!--Day 2, begin-->
 <section data-background="" data-markdown>
 
-# Logic
+# Augustine
 
 </section><section data-markdown>
 
-### 
+## God and Evil
+
+- If God is good, why is there evil?
+- Is evil exists, where did it come from?
+- If even doesn't exist, where does it come from?
 
 </section><section data-markdown>
 
-### 
+### The existence of evil
 
+- Evil things happen (experience)
+- What explains this fact? 
+- Is evil a substance or a property? (The mafia is a substance; pain is a property). 
 
 
 
