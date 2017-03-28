@@ -27,6 +27,7 @@ theme: blood
 - Medieval (400-1400)
 - Modernity (1500-20XX?). 
 
+</section><section data-markdown>
 
 ### Faith and Reason
 
@@ -51,9 +52,7 @@ theme: blood
 
 </section><section data-markdown>
 
-### Faith and Reason
-
-Sophie's World (75):
+### Sophie's World, 75
 
 >The medieval philosophers took it almost for granted that Christianity was true... The question was whether we must simply believe the Christian revelation or whether we can approach the Christian truths with the help of reason. What was the relationship between the Greek philosophers and what the Bible said? Was there a contradiction between the Bible and reason, or were belief and knowledge compatible? Almost all medieval philosophy centered on this one question.
 
@@ -61,9 +60,11 @@ Sophie's World (75):
 
 ### Can Faith and Reason be reconciled?? 
 
-- Agreement: authority and experience, faith and science agree
-- Contradiction: authority and experience, faith and science disagree
-- Tension: authority and experience, faith and science do not overlap and so co-exist
+1. Agreement: authority and experience, faith and science agree
+2. Contradiction: authority and experience, faith and science disagree
+3. Tension: authority and experience, faith and science do not overlap and so co-exist
+
+- In (1), they don't need to be reconciled. In (2) they can't be reconciled. In (3) they can and need to be reconciled. 
 
 Do they need to be reconciled? If so, can they be reconciled? If so, how? This was the question of the highly religious middle ages: Medieval Judaism (RAMBAM), Islam (Al Farabi, Avicenna), Christianity (Augustine, Aquinas)
 
