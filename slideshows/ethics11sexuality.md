@@ -1,7 +1,7 @@
 ---
 title: 
 layout: slide
-theme: blood
+theme: league
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-marriage.jpg"><!--Intro slide begin-->
