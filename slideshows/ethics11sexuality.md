@@ -4,7 +4,7 @@ layout: slide
 theme: league
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-marriage.jpg"><!--Intro slide begin-->
+<section><!--Intro slide begin-->
 <section data-markdown data-background="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-110429-royal-wedding-ceremony/ss-110429-ceremony-21.today-ss-slide-desktop.jpg">
 
 
