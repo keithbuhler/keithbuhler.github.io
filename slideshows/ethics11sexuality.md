@@ -4,9 +4,9 @@ layout: slide
 theme: blood
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro slide begin-->
+<section data-background="http://www.keithbuhler.com/images/background-sexuality.jpg"><!--Intro slide begin-->
 
-<section data-background="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-110429-royal-wedding-ceremony/ss-110429-ceremony-21.today-ss-slide-desktop.jpg">
+<section data-markdown data-background="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-110429-royal-wedding-ceremony/ss-110429-ceremony-21.today-ss-slide-desktop.jpg">
 
 
 # Sex and Marriage 
@@ -167,10 +167,10 @@ theme: blood
 ### Children
 
 1. Population control
-2. SOcial interest in children's potential
+2. Social interest in children's potential
 3. Social responsibility for children (education, etc.)
 4. "Disruption of family leave contributes to juvenile delinquicy"
-5. 
+
 
 
 
