@@ -4,8 +4,7 @@ layout: slide
 theme: blood
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-sexuality.jpg"><!--Intro slide begin-->
-
+<section data-background="http://www.keithbuhler.com/images/background-marriage.jpg"><!--Intro slide begin-->
 <section data-markdown data-background="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-110429-royal-wedding-ceremony/ss-110429-ceremony-21.today-ss-slide-desktop.jpg">
 
 
@@ -21,9 +20,9 @@ theme: blood
 
 ## Today
 
-* Kant
-* McMurtry
-* Bayles
+* Kant, Defense of Marriage
+* McMurtry, Critique of Marriage
+* Bayles, Defense of Marriage
 
 
 
