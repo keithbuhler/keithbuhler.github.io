@@ -292,65 +292,131 @@ theme: league
 
 
 </section><section data-markdown>
+### Happiness
 
+- Heterosexual behavior is self-reinforcing
+- Homosexual behavior is self-estinguishing
+- Homosexuals may have rewarding lives, but they will find their lives less rewarding overall than their heterosexual counterparts
 
-###
-
-
-
-</section><section data-markdown>
-
-
-###
 
 
 
 </section><section data-markdown>
 
 
-###
+### Genes
 
+- Both health and sickness are "in the genes"
+- Whether homosexuality is "genetic" is irrelevant to its evaluation
 
-
-</section><section data-markdown>
-
-
-###
 
 
 
 </section><section data-markdown>
 
 
-###
+### Evidence
+
+- Homosexuals are not happy, as advocates admit; Levin's argument explains this
+- 'Social and environmental disapproval and thus contributes to unhappiness' is a more complex explanation, and thus demands more evidence than the simple, 'homosexuality itself leads to unhappiness' explanation
+- Also, _why_ does society disapprove of homosexuality? 
+- Also, if social disapproval causes unhappiness, then social approval should increase happiness
+- Has the remarkable change in public opinion in the U.S. increased LGBT happiness? 
 
 
-
-</section><section data-markdown>
-
-
-###
-
-
-
-</section><section data-markdown>
-
-
-###
 
 
 
 </section><section data-markdown>
 
 
-###
+### Policy
+
+- If homosexuality is intrinsically bad in a prudential sense of leading to unhappiness, what is to be done?
+- Limit the social and legal approval of homosexuality to decrease its incidence
+- Legislation permitting being "out" doesn't really permit something that was forbidden (since LGBT people are already protected _as people_) but legitimates LGBT culture
+
+
+</section><section data-markdown>
+
+
+## Corvino's Basic Argument
+
+1. Is there a good reason why two men who (friendship) love each other shouldn't have (erotic) love? 
+2. Pleasure and union are good, unless there are countervailing bads
+3. Homosexual eros is not unnatural, harmful, unbiblical, 
+4. Therefore, pleasure and union are good enough reasons for Tommy and Jim to have sex
 
 
 
 </section><section data-markdown>
 
 
-###
+### Unnatural (morally wrong) 
+
+- Unnatural can mean many things: uncommon, not animal, not innate, misusing function, disgusting
+- Uncommon things are not necessarily bad
+- Super-animal things are not necessarily bad
+- Innate desires are not necessarily all good;  lifestyle choices are not necessarily all bad
+- Misuse is bad, but many organs have multiple functions: reproduction as well as pleasure, expressing love, which infertile heterosexual couples and homosexual couples both enjoy
+- 
+
+
+</section><section data-markdown>
+
+
+### Harmful (prudentially bad)
+
+- Ramsey Colloquium argues that homosexuality harms the family and society
+- Corvino: there are exceptions to the general trends (Levin: exceptions don't disprove the trend)
+- More depression, suicide; the cause of higher depression, suicide etc., could be at least partly social mistreatment
+- Corvino: the general trends represented in the stats are not accurate
+- Correlation does not equal causation
+- Increase promiscuity and sexual license; promiscuity could be the result of denying legitimate relationship status 
+
+</section><section data-markdown>
+
+
+### AIDS
+
+- Not all homosexuals contract AIDS, but all AIDS victims contracted it from homosexual contact (directly or indirectly)
+- These risks accompany some kinds of sex
+
+
+</section><section data-markdown>
+
+
+### Society and Children
+
+- Children might be molested by adults of either sex, and any orientation
+- Homosexuals don't reproduce; but neither do monks
+
+</section><section data-markdown>
+
+
+### UnChristian
+
+- The Old Testament passages condemn same-sex eros (moral law) and unclean animals (ceremonial law)
+- The Bible doesn't condemn slavery, but that context has changed
+- The Bible condemns usury (lending on interest), but that context has changed
+- The context of same-sex eros were pagan, 
+- Not saying the Bible is wrong, nor irrelevant; just that application takes work
+
+</section><section data-markdown>
+
+###  
+
+
+
+</section><section data-markdown>
+
+
+### Reflections
+
+- Merely animal, opposing animal, and transcending animal
+- Contingent infertility and necessary infertility
+- "It might require less of a miracle for a woman without a uterus to become pregnant than for Jim to become pregnant, but it would require a miracle nonetheless"
+- Voluntary virginity and celibacy versus infertility
 
 
 </section>
