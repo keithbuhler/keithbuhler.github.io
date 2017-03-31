@@ -219,3 +219,113 @@ theme: league
 
 </section>
 </section><!--Slide end-->
+
+
+
+<section><!--Intro slide begin-->
+<section data-markdown data-background="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-110429-royal-wedding-ceremony/ss-110429-ceremony-21.today-ss-slide-desktop.jpg">
+
+
+# LGBTQ+
+
+</section><section data-markdown>
+
+
+
+## Today
+
+* Levin, Critique of Homosexual Eros
+* Corvino, Defense of Homosexual Eros
+
+
+
+### Levin's Basic Argument
+
+1. Body parts have functions (i.e,. what they are _for_)
+2. The misuse of things is undesirable
+3. The misuse of body parts is undesirable
+2. The function genitals is (heterosexual) coitus and reproduction
+3. Misuse of genitals is undesirable
+4. Misuse of genitals leads to unhappiness, and frustrates natural desires
+
+
+### Function
+
+1. Teeth have a function (or range of functions)
+2. Within that range, uses are acceptable (looking at a smile for aesthetic pleasure, clicking together for sound)
+3. Outside that range, uses are unacceptable (wearing them as a necklace, playing Old MacDonald on his teeth)
+4. Misuse leads to misery (cannot chew food, lose jaw muscle, develop gum problems)
+5. Misuse is an intrinsic bad (chewing is intrinsically good)
+6. Creatures without teeth will eventually die out by natural selection
+7. Creatures with teeth who do not use them are likely to have unfulfilled 'vague yearnings to chew something'
+8. 
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+
+</section><section data-markdown>
+
+
+###
+
+
+</section>
+</section><!--Slide end-->
