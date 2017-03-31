@@ -239,6 +239,7 @@ theme: league
 
 
 
+</section><section data-markdown>
 ### Levin's Basic Argument
 
 1. Body parts have functions (i.e,. what they are _for_)
@@ -248,6 +249,7 @@ theme: league
 3. Misuse of genitals is undesirable
 4. Misuse of genitals leads to unhappiness, and frustrates natural desires
 
+</section><section data-markdown>
 
 ### Function
 
@@ -255,11 +257,35 @@ theme: league
 2. Within that range, uses are acceptable (looking at a smile for aesthetic pleasure, clicking together for sound)
 3. Outside that range, uses are unacceptable (wearing them as a necklace, playing Old MacDonald on his teeth)
 4. Misuse leads to misery (cannot chew food, lose jaw muscle, develop gum problems)
+</section><section data-markdown>
+
+
+### Function and Misuse
+
 5. Misuse is an intrinsic bad (chewing is intrinsically good)
 6. Creatures without teeth will eventually die out by natural selection
 7. Creatures with teeth who do not use them are likely to have unfulfilled 'vague yearnings to chew something'
-8. 
+8. Misuse is not merely statistical deviation from norm
+9. Misuse is not simply subjective preference
 
+
+</section><section data-markdown>
+
+### Counterarguments to Function
+
+- Not just intentional or artifact, function is natural
+- Not just what an organ does, but what it is for (a heart lesion might help pump blood, but it is not _for_ pumping blood)
+
+
+</section><section data-markdown>
+
+### Application to Sexuality
+
+- One of the functions of male parts is to introduce semen into female parts
+- Misuse is an intrinsic bad
+- Misuse is ill-advised, and likely to lead to yearning
+- Misuse will lead to evolutionary extinction (over time)
+- Misuse may have specific _exceptional_ cases with no obvious bad consequences; but generally and over time, the misery will become apparent
 
 
 
