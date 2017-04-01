@@ -404,7 +404,11 @@ theme: league
 
 </section><section data-markdown>
 
-###  
+###  Moral Principle
+
+- Heterosexual eros is right and advisable, and everything else is wrong or ill-advised
+- If heterosexual *and* homosexual eros is right and advisable, is *anything* wrong?
+- Appeal to tradition isn't necessarily true
 
 
 
