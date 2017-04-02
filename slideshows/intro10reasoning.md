@@ -191,7 +191,7 @@ N ***E*** G ***O*** -- I NEGATE
 
 1. Whatever is universally true of a subject must be true of everything contained in that subject
 2. Whatever is universally false of a subject must be false of everything contained in that subject
-3. Two things identical with on and the same third thing are identical with each other
+3. Two things identical with one and the same third thing are identical with each other
 4. Two things which are not identical with a third thing are not identical with each other 
 
 
@@ -349,7 +349,7 @@ N ***E*** G ***O*** -- I NEGATE
 
 1. The disciples were walking through fields, stripping the grain and eating them.
 2. The Pharisess accused them of breaking the law because violating ritual norm
-3. Jesus points out that "there are conditiosn in which the ritual laws in question do not apply"
+3. Jesus points out that "there are conditions in which the ritual laws in question do not apply"
 4. Jesus "brings up cases of this that the Pharisees already concede" (David, showbread; Priests, sabbath regulations)
 
 

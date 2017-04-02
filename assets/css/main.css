@@ -300,7 +300,7 @@ tr,td,th{vertical-align:middle}
 .masthead__inner-wrap{max-width:1000px; margin-left:auto;margin-right:auto;clear:both;padding:0.45em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; background:#3b7aae; color:#fff;} 
 .masthead__banner{max-width:100%; color:#fff; margin-left:auto;margin-right:auto;clear:both;padding:0em; font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif; font-size:3em} 
 .masthead__title{font-size:2em; align:center; text-decoration:none; background:#3b7aae;color:#fff; padding: 15px; margin:20px; text-}
-.site-title{font-size:1.1em; display: inline; text-decoration:none; color:#fff; padding: 15px; margin:15px; text-}
+.site-title{font-size:1em; display: inline; text-decoration:none; color:#fff; padding: 15px; margin:15px; text-}
 .site-title:hover{color:#fff; }
 .masthead__inner-wrap:after{content:" ";display:block;clear:both}
 .masthead__inner-wrap::after{clear:both;content:"";display:table}
@@ -372,11 +372,11 @@ tr,td,th{vertical-align:middle}
 .nav__list .active:hover{color:#3b7aae}
 .nav__title{margin:0;padding:0.5rem 1rem;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em;font-weight:bold}
 .nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1.25em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
-.toc{font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;color:#7a8288;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
+.toc{font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;color:#5c6266;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
 .toc .nav__title{color:#fff;font-size:0.75em;background:#7a8288;border-top-left-radius:4px;border-top-right-radius:4px}
 .toc__menu{margin:0;padding:0;width:100%;list-style:none;font-size:0.8rem}
-.toc__menu a{display:block;padding:0.5rem 1rem;color:#7a8288;font-size:0.6875em;font-weight:bold;line-height:1.5;border-bottom:1px solid #f2f3f3}
-.toc__menu a:hover{color:#000;background:#f2f3f3}
+.toc__menu a{display:block;padding:0.5rem 1rem;color:#5c6266;font-size:0.6875em;font-weight:bold;line-height:1.5;border-bottom:1px solid #f2f3f3}
+.toc__menu a:hover{color:#000;background:#256274}
 .toc__menu>li:last-child a{border-bottom:none}
 .toc__menu li ul>li a{padding-left:2rem;font-weight:normal}
 .toc__menu li>ul li{display:none}

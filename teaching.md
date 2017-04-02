@@ -33,7 +33,7 @@ feature_row:
 
 <br>
 
-# Taught
+# Courses Taught
 
 *University of Kentucky*   
 

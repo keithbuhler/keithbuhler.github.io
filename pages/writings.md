@@ -18,8 +18,8 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 
 ### Books
 
-* [Sola Scriptura: A Dialogue](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura) (book)
-* [Becoming Who We Are](/phd)
+* [*Sola Scriptura: A Dialogue*](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). A modern day Platonic dialogue between an Orthodox, Catholic, and Protestant Christians about Scripture and tradition.
+* [*Becoming Who We Are*](/phd). My philosophy dissertation arguing that virtue and wisdom are natural for human beings.
 
 
 ### Philosophical Dialogues
@@ -29,11 +29,16 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 * [Heraclitus De-fragmented: An Interpretation](/buhlerreport/heraclitus)
 
 
-### Short Stories, Fables, and Fairy Tales ##
+### Literary Non-Fiction
 * [When My Breath Stops](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view) (literary non-fiction)
+
+## Short Stories
+
 * [Redwood](https://drive.google.com/file/d/0B0CYQDZ8AWu8WVctVV9Oak1DcU0/view) (short fiction)
 * [The Face of God](https://docs.google.com/document/d/1TQkpG_2A_wPZ_OxhGfQP8L1r1h81c8m1JT0Hobhvg2Q/edit) (short fiction)
 * [The Death of Renfield](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEVHZFVCSUxydjA/view) (short fiction)​
+
+## Fables, and Fairy Tales 
 * [Gorge and the Ice God](https://drive.google.com/file/d/0B0CYQDZ8AWu8MWFFa09BZmViOUU/view) (sci-fi)
 * [The Giving Well](https://drive.google.com/file/d/0B0CYQDZ8AWu8WE9OODRiRFRkR3c/view) (fairy tale)
 * [Fables on Leading & Following][coming soon]

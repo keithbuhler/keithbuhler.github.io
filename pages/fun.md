@@ -12,14 +12,14 @@ excerpt: "This sandbox includes various projects -- complete or in development -
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: http://www.keithbuhler.com/images/fun-buhler.png
+  - image_path: http://www.keithbuhler.com/images/fun-buhler.jpg
     alt: "The Buhler Report"
     title: "Buhler Report"
     excerpt: "A Blog about Timeless Wisdom and Current Events."
     url: "http://www.keithbuhler.com/buhlerreport"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/pythagoras-pyramid.png
+  - image_path: http://www.keithbuhler.com/images/thumbnail-philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy Portal"
     excerpt: "Coaching in how to succeed in philosophy classes for my students and others who might be interested."
