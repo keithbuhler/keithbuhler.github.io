@@ -19,7 +19,7 @@ feature_row:
     url: "http://www.keithbuhler.com/buhlerreport"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/thumbnail-philosophy.jpg
+  - image_path: http://www.keithbuhler.com/images/fun-philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy Portal"
     excerpt: "Coaching in how to succeed in philosophy classes for my students and others who might be interested."
@@ -113,8 +113,9 @@ feature_row3:
 ### Projects in Development
 
 - [Inklings.info](http://www.inklings.info) -- Free books, lists, and information about the Oxford Dons. 
-- [Classical Schools.Org](http://www.classicalschools.org) -- A list of all the good classical schools and colleges in the U.S. 
+- [Classical Schools.Org](http://www.classicalschools.org) -- A list of good classical schools and colleges in the U.S. 
 - Sandboxing -- how to innovate through low-risk play
+- Intentional Co-Living -- How to form a multiple-family community with good boundaries, healthy conflict resolution skills, and major financial benefits
 - Book Clubs -- starting and running an intellectual community centered around friendship and great books. 
 
 
