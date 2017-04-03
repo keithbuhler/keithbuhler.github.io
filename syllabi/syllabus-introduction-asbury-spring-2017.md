@@ -130,15 +130,15 @@ Mar-28 T *Confessions* 1 - Augustine and longing for God's presence. *Sophie's W
 Mar-30 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this sin?   
 
 
-### Week 12 Evil
+### Week 12 God and Evil
 
 Apr-4 T  *Confessions*, 7 - Does evil exist?   
-Apr-6 R *Confessions* Discussion  
+Apr-6 R *[Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64); *Sophie's World* "The Middle Ages"  
 
-### Week 13 God
+### Week 13 Atheism
 
-Apr-11 T [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; *Sophie's World* "The Middle Ages"  
-Apr-13 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.    
+Apr-11 T Dawkins, "Why there is no god"
+Apr-13 R Harris, "There is no god and you know it"; Kreeft "Problem of Evil"
 
 ### Unit 6
 
@@ -154,9 +154,8 @@ Apr-25 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk)
 Apr-27 R Wall-E and Coming Down to Earth  
 
 ### Week 16 Tree of Life
-May-2 T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
+May-3, 8:00am T [Tree of Life](https://drive.google.com/open?id=0B0CYQDZ8AWu8Z0poMFFlSFhOdWM)
  as Evolution and Genesis  
-May-4 R Tree of Life Discussion  
 
 
 {% include boilerplate.html %}
