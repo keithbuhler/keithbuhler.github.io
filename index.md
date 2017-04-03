@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 excerpt: 
 author_profile: true
-permalink: /index.html/
+permalink: 
 ---
 
 I'm currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
