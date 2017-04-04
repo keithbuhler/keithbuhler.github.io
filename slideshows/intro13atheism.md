@@ -178,39 +178,103 @@ theme: league
 
 
 <section><!--Day 2, begin-->
-<section data-background="http://i.imgur.com/b1Mhe.jpg" data-markdown>
+<section data-background="http://www.pipr.co.uk/wp-content/uploads/2015/06/imrs.jpg" data-markdown>
+
+### Sam Harris
+
+</section><section data-markdown>
+
+### Harris' Life
+
+- Born 1967 in Los Angeles
+- Grew up secular (mom was secular Jew)
+- Studied at Standord
+- First drugs, then meditation
+- BA in Philosophy (Standord), PhD in Neuroscience (UCLA)
+- Dissertation was about "how science could determine human values"
+- The _End of Faith_ criticizes Islam and all religion as irrational
 
 
 </section><section data-markdown>
 
-### 
-
-</section><section data-markdown>
-
-### 
-
+![dawkins 1](http://keithbuhler.com/images/dawkins-harris.png)
 
 
 
 
 </section><section data-markdown>
+### Style
 
-###
+- A CS Lewis of atheism
+- Analogies, confidence
+- No career to speak of outside of atheism apologist
+
+</section><section data-markdown>
+
+### Christianity
+
+>Catholic Church has spent "two millennia demonizing human sexuality to a degree unmatched by any other institution, declaring the most basic, healthy, mature, and consensual behaviors taboo."
+
+</section><section data-markdown>
+
+### Judaism
+
+>the ideology of Judaism remains a lightning rod for intolerance to this day. Jews, insofar as they are religious, believe that they are bearers of a unique covenant with God.
 
 
+</section><section data-markdown>
+### Islam
 
+>Is it really true that the sins for which I hold Islam accountable are “committed at least to an equal extent by many other groups, especially [my] own”? ... The freedom to poke fun at Mormonism is guaranteed by the fact that Mormons do not dispatch assassins to silence their critics or summon murderous hordes in response to satire. ... Can any reader of this page imagine the staging of a similar play [to The Book of Mormon] about Islam in the United States, or anywhere else, in the year 2013? 
 
+</section><section data-markdown>
+
+### Basic Argument: Evil!
+
+>... people of faith regularly assure one another that God is not responsible for human suffering. But how else can we understand the claim that God is both omniscient and omnipotent?  There is no other way, and it is time for sane human beings to own up to this. This is the age-old problem of theodicy, of course, and we should consider it solved. If God exists, either He can do nothing to stop the most egregious calamities, or He does not care to. God, therefore, is either impotent or evil.
+
+- Children suffer, so God doesn't exist (not valid, but has appeal)
+- God is either impotent or evil. If he were powerful and good, he would prevent evil. 
 
 
 </section><section data-markdown>
 
-###
+### Suffering
+
+- Atheism is "a refusal to deny the obvious."
+
+</section><section data-markdown>
+
+### Evidence
+
+>The atheist is merely a person who believes that the 260 million Americans (eighty-seven percent of the population) who claim to “never doubt the existence of God” should be obliged to present evidence for his existence—and, indeed, for his benevolence, given the relentless destruction of innocent human beings we witness in the world each day.
 
 
+</section><section data-markdown>
 
+>[Since God doesn't exist,] only the atheist is compassionate enough to take the profundity of the world’s suffering at face value.  It is terrible that we all die and lose everything we love; it is doubly terrible that so many human beings suffer needlessly while alive.  That so much of this suffering can be directly attributed to religion—to religious hatreds, religious wars, religious delusions, and religious diversions of scarce resources—is what makes atheism a moral and intellectual necessity. 
 
+</section><section data-markdown>
 
+- Questions?
 
+</section><section data-markdown>
+
+### Kreeft
+
+- The problem can be stated very simply: If God is so good, why is his world so bad?
+- The problem of evil is the most serious problem in the world. It is also the one serious objection to the existence of God.
+
+>More people have abandoned their faith because of the problem of evil than for any other reason. It is certainly the greatest test of faith, the greatest temptation to unbelief. And it's not just an intellectual objection. We feel it. We live it. That's why the Book of Job is so arresting.
+
+</section><section data-markdown>
+
+### Solution
+
+1. Evil is not a substance but a wrong choice, or blindness
+2. Sin is the cause of all evil and even physical suffering
+3. The Son is the solution of the problem of evil; his crucificion and our crucification with Christ
+4. Good things happen to bad people too; some suffering his good too; we have to trust God's promises; and hell is the consequence of free will
 
 
 ### 2 Minutes Left
