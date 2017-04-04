@@ -27,8 +27,8 @@ keithbuhler.com
 ### EDUCATION
 
 Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
-M.A.&nbsp; Philosophy, University of Kentucky, 2016      
-M.A.&nbsp; Orthodox Theology, University of Balamand, 2014         
+M.A.&nbsp; Philosophy, University of Kentucky, 2015      
+M.A.&nbsp; Orthodox Theology, University of Balamand, 2012         
 B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004\newline
 
 
@@ -75,7 +75,6 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 ### ADMINISTRATION POSITIONS
 1. Director of High School Studies (Veritas Academy, 2013-2014)
 2. Master Tutor (Torrey Academy, 2010-2012)
-3. Lecturer (Wheatstone Academy, 2006-2011)
 6. Assistant Director (Wheatstone Academy, 2004-2005)
 
 ### WORKS IN PROGRESS

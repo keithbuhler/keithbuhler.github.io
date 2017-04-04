@@ -150,7 +150,7 @@ Apr-20 R Dave as the New Adam
 
 ### Week 15 Wall-E
 
-Apr-25 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) as E.T., Hal 9000, and Adam, "Coming Down" to Earth 
+Apr-25 T [Wall-E](https://drive.google.com/open?id=0B0CYQDZ8AWu8cF95c0MxQzYtUEk) as E.T., Hal 9000, and Adam, "Coming Down" to Earth   
 Apr-27 R The Gospel of John 
 
 ### Week 16 Tree of Life

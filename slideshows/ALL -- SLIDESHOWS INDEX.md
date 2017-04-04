@@ -66,8 +66,8 @@ sidebar:
 * [Week 9 Logic](/slideshows/intro9logic)
 * [Week 10 Reasoning](/slideshows/intro10reasoning)
 * [Week 11 Augustine](/slideshows/intro11augustine)
-* [Week 12 Evil]
-* [Week 13 God]
+* [Week 12 God and Evil](https://docs.google.com/presentation/d/1cbiG6MP_EJ-PXjxQlALRsfHAZYWX6zvUOR-s06UwWDk/edit)
+* [Week 13 Atheism]
 * [Week 14 A Space Odyssey]
 * [Week 15 Wall-E]
 * [Week 16 Tree of Life]
