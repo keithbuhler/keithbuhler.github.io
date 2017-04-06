@@ -180,7 +180,7 @@ theme: league
 <section><!--Day 2, begin-->
 <section data-background="http://www.pipr.co.uk/wp-content/uploads/2015/06/imrs.jpg" data-markdown>
 
-### Sam Harris
+## Sam Harris
 
 </section><section data-markdown>
 
@@ -233,6 +233,11 @@ theme: league
 
 >... people of faith regularly assure one another that God is not responsible for human suffering. But how else can we understand the claim that God is both omniscient and omnipotent?  There is no other way, and it is time for sane human beings to own up to this. This is the age-old problem of theodicy, of course, and we should consider it solved. If God exists, either He can do nothing to stop the most egregious calamities, or He does not care to. God, therefore, is either impotent or evil.
 
+
+</section><section data-markdown>
+
+### Basic Argument: Evil!
+
 - Children suffer, so God doesn't exist (not valid, but has appeal)
 - God is either impotent or evil. If he were powerful and good, he would prevent evil. 
 
@@ -276,6 +281,7 @@ theme: league
 3. The Son is the solution of the problem of evil; his crucificion and our crucification with Christ
 4. Good things happen to bad people too; some suffering his good too; we have to trust God's promises; and hell is the consequence of free will
 
+</section><section data-markdown>
 
 ### 2 Minutes Left
 * Questions?
