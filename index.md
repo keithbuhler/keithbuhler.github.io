@@ -45,11 +45,11 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 
 # Testimonials
 
-- "A good conversation machine" -- [Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
+- "A good-conversation machine." -- [Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
-* "Makes philosophy come alive" -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+* "Makes philosophy come alive..." -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
-*  "Dynamism, acumen, and compassion"   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+*  "Dynamism, acumen, and compassion..."   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
 
 * "Enthusiastic and personable... clear and precise" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
@@ -59,6 +59,6 @@ Folks tend to enjoy my classroom culture, which is suffused with humor and focus
 <br>
 
 
-[*Read student feedback here.*](/teaching)
+- [*Student feedback here.*](/teaching)
 
 
