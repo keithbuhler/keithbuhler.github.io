@@ -109,11 +109,11 @@ Okada et al., A role for the elongator complex in zygotic paternal genome demeth
 </section>
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
-<section data-background="http://bloximages.newyork1.vip.townnews.com/alestlelive.com/content/tncms/assets/v3/editorial/7/b4/7b424724-2eab-11e2-82e1-0019bb30f31a/50a41d69917a2.image.jpg"  data-markdown><!--Intro slide begin-->
+<section data-background="http://www.newn.cam.ac.uk/wp-content/uploads/2016/05/JudithWEB.jpg"  data-markdown><!--Intro slide begin-->
 
 
 
-# Defense of Abortion
+## Defense of Abortion
 
 </section><section data-markdown>
 
@@ -185,30 +185,52 @@ Abortion is sometimes permissible, even if abortion is killing of an innocent hu
 2. **Ownership of the body.** The mother has rights to her body even if the baby has a right to life.
 3. **Choice vs. force.** The mother should not be forced to get pregnant (rape), forced to avoid pregnancy (abstinence), or forced to carry to term (outlawing abortion). 
 
+</section><section data-markdown>
 
-Analogies: 
-
-1. Jane Fonda's cool 
-
-1. Violinist
+### Analogies: The Violinist
 
 >You wake up in the morning and find yourself back to back in bed with an unconscious violinist. A famous unconscious violinist. He has been found to have a fatal kidney ailment, and the Society of Music Lovers has canvassed all the available medical records and found that you alone have the right blood type to help. They have therefore kidnapped you, and last night the violinist’s circulatory system was plugged into yours, so that your kidneys can be used to extract poisons from his blood as well as your own … [If he is unplugged from you now, he will die; but] in nine months he will have recovered from his ailment, and can safely be unplugged from you.
 
-2. Growing in a tiny house
 
+</section><section data-markdown>
 
-3. "Peopleseeds"
+### Analogies: "Peopleseeds"
 
 >Peopleseeds drift about in the air like pollen, and if you open your windows, one may drift in and take root in your carpets or upholstery. You don’t want children, so you fix up your windows with fine mesh screens, the very best you can buy. As can happen, however, and on very, very rare occasions does happen, one of the screens is defective; and a seed drifts in and takes root. Does the personplant who now develops have a right to the use of your house?
 
+</section><section data-markdown>
+
+### Analogies: Acorns
+
+>A very early abortion is surely not the killing of a person, and so is not dealt with by anything I have said here. 
 
 
-Objections: 
+</section><section data-markdown>
 
-Opinion:
 
-Question: 
+###  Babies are not Acorns but Saplings
 
+- Acorns:oak trees :: fetuses (blastocysts, embryos) : human persons. 
+- The correct analogies would be:
+- (a) Acorns:oak trees :: sperm cells: human persons, or
+- (b) oak saplings:oak trees:: fetus: adult. 
+- In other words, both are human beings. 
+
+
+</section><section data-markdown>
+
+
+### Violinist
+
+
+</section><section data-markdown>
+
+
+### Peopleseeds
+
+- "Peopleseeds" float around the world. 
+- People choose to have sex, and 99% of abortions are done on babies who were conceived in an intentional, consensual sexual act. 
+- 
 
 
 </section><section data-markdown>
