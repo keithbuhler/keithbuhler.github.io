@@ -222,15 +222,19 @@ Abortion is sometimes permissible, even if abortion is killing of an innocent hu
 
 ### Violinist
 
+- People choose to have sex, and 99% of abortions are done on babies who were conceived in an intentional, consensual sexual act. 
+- In 99% of abortions, the reasons the mother cites are that the baby would dramatically change her life, that she cannot afford the baby, don't want to be a single mother, or don't want people to know she was pregnant.
 
 </section><section data-markdown>
 
 
 ### Peopleseeds
 
-- "Peopleseeds" float around the world. 
-- People choose to have sex, and 99% of abortions are done on babies who were conceived in an intentional, consensual sexual act. 
-- 
+- "Peopleseeds" float around the world, and float even through barred windows
+- Abstinence:avoiding pregnancy :: having a hysterectomy: avoiding pregnancy
+- Abstinence:avoiding pregnancy :: having a bodyguard: avoiding rape
+- The best contraceptions are only effective in the ~90% range with normal (imperfect) use
+- Abstinence is 100% effective
 
 
 </section><section data-markdown>
