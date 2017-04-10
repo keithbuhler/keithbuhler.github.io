@@ -77,6 +77,9 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 4. Response: Killing is just as bad as letting die, which is legal and sometimes permissible
 
 
+</section><section data-markdown>
+
+
 ### The ALS case. 
 
 - If the patient wishes to be unplugged from a respirator, this is not murder or suicide, just 'letting her die'.
@@ -84,33 +87,91 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 - The difference is consent, legal authorization, and motive
 
 
-### The Drowing case
+</section><section data-markdown>
+
+
+### The Drowning case
 
 - You can't swim. We're on a boat. If I push you in, that's "killing."
 - You can't swim. We're on a boat. You fall in. I don't throw you a life ring. That's "killing."
+
+</section><section data-markdown>
+
+
+
+### Objection 2
+
+1. The bad consequences of legalizing euthanasia outweigh the good
+2. Response: No firm data on consequences, so we have to weigh likelihoods
+
+</section><section data-markdown>
+
+### Potential Benefits
+
+- Netherlands: 14,500,000 people, 1,900 euthanasia cases (0.0001%)
+- Those who don't use the right to euthanasia might still feel better having it as "insurance"
+- Suffering patients will be released sooner (mercy)
+
+
+</section><section data-markdown>
+
+### Potential Detriments
+
+- Doctors would have to, or be permitted, to kill
+- "The very soul of medicine is on trial... if physicians become killers or are even licensed to kill, the profession will never again be worthy of trust and respect as healer..."
+- Response: physicians must also respect patient wishes
+
+
+</section><section data-markdown>
+
+### Potential Detriments
+
+- Weaken society's commitment to provide optimal care for dying patients
+- Response: Only a small percentage of deaths will be by euthanasia anyway
+
+
+</section><section data-markdown>
+
+### Potential Detriments
+
+- Threaten patient rights to decide to refuse life-sustaining treatment. These rights have many complex legal safeguards in place, in large part, to prevent euthanasia. 
+- Even more numerous and complex court cases could result from legalizing euthanasia
+- Response: Safeguards can be designed 
+
+
+
+</section><section data-markdown>
+
+### Potential Detriments
+
+- David Velleman: euthanasia changes the 'default' or 'given' from staying alive to the choice between life and death. 
+- "Why are you alive?" needs no answer, it's a given
+- "Why are you alive?" in a euthanasia society, is a question that demands an answer
+- Analogy: boys swimming in the river
+
+
+
+</section><section data-markdown>
+
+### Potential Detriments
+
+- Weaken general prohibition against homicide
+- Response: slippery slope
 
 
 ### Reflections: 
 
 1. Suicide is already "legal". Asking for someone else to help you is not. Legalizing euthanasia would make some murders legally permitted... and incentivized.
 
+
+</section><section data-markdown>
+
+
 ### Question: 
 
+- Is there a moral difference between killing and letting die? 
+- Is that difference present in euthanasia discussions? 
 
-
-
-
-
-
-</section><section data-markdown>
-### 
-
-
-
-
-
-</section><section data-markdown>
-### 
 
 
 
@@ -137,3 +198,31 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 
 </section>
 </section><!--Slide end-->
+
+
+
+
+
+
+
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro slide begin-->
+<section data-background="http://i0.wp.com/www.prolifemichiana.org/wp-content/uploads/2016/03/euthanasia.jpg?w=620" data-markdown><!--Intro slide begin-->
+
+## Critique of Euthanasia 
+
+</section><section data-markdown>
+
+
+
+</section><section data-markdown>
+
+### Discussion
+
+* Your questions?
+
+
+</section>
+</section><!--Slide end-->
+
+
+
