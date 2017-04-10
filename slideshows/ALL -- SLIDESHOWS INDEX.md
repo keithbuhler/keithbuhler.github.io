@@ -49,9 +49,9 @@ sidebar:
 * [Week 8 Egoism](/slideshows/ethics8egoism)
 * [Week 9 The Meaning of Life](/slideshows/ethics9life)
 * [Week 10 Autonomy](/slideshows/ethics10autonomy)
-* [Week 11 Sexual Ethics]
-* [Week 12 Abortion]
-* [Week 13 Euthanasia]
+* [Week 11 Sexual Ethics](/slideshows/ethics11sexuality)
+* [Week 12 Abortion](/slideshows/ethics12abortion)
+* [Week 13 Euthanasia](/slideshows/ethics13euthanasia)
 * [Week 14 Animals]
 * [Week 15 Globalism]
 
@@ -67,7 +67,7 @@ sidebar:
 * [Week 10 Reasoning](/slideshows/intro10reasoning)
 * [Week 11 Augustine](/slideshows/intro11augustine)
 * [Week 12 God and Evil](https://docs.google.com/presentation/d/1cbiG6MP_EJ-PXjxQlALRsfHAZYWX6zvUOR-s06UwWDk/edit)
-* [Week 13 Atheism]
+* [Week 13 Atheism](/slideshows/intro13atheism)
 * [Week 14 A Space Odyssey]
 * [Week 15 Wall-E]
 * [Week 16 Tree of Life]
