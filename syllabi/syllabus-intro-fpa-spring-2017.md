@@ -132,8 +132,8 @@ Apr-6 R *Confessions*, 2-3 - Why did Augustine steal the pears? How bad was this
 
 ### Week 12 -- Evil
 
-Apr-11 T *Confessions* 4-6 - Why does Augustine leave the Manicheans?
-Apr-13 R *Confessions* 7 - Does evil exist?   
+Apr-11 T *Confessions* 4-6 - Why does Augustine leave the Manicheans?   
+Apr-13 R *Confessions* 7 - Does evil exist?     
 
 **Apr 17-21 Easter Break**
 
@@ -142,16 +142,16 @@ Apr-13 R *Confessions* 7 - Does evil exist?
 
 
 
-Apr-25 T *Confessions* 8-9 Why does Augustine become a Christian? 
+Apr-25 T *Confessions* 8-9 Why does Augustine become a Christian?   
 
-Apr-27 R *Confessions* 10-12 How does Augustine interpret Genesis? 
+Apr-27 R *Confessions* 10-12 How does Augustine interpret Genesis?   
 
 
 
 ### Week 14 -- Proving God
 Unit Paper 5, Due Tuesday by 10:00pm CT  
  
-May-2  [Aquinas, “Five Ways of Proving God's Existence”](https://drive.google.com/open?id=1SyF4TWLYF_E9Twe8oJoczv9t9usc_VGaGg3nhPHqQ64) - Can it be proven that God exists? The First Way; *Sophie's World* "The Middle Ages"   
+May-2  [Aquinas, “Five Ways of Proving God's Existence”](https://docs.google.com/document/d/1_bkDsTh6ZK3LrbcmFsY3nCpBNv_xjOuuOFojEtGeHno/) - Can it be proven that God exists? The First Way; (*Sophie's World* "The Middle Ages")     
 
 May-4 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.     
 
@@ -160,25 +160,25 @@ May-4 R Aquinas "Five Ways" - The Second, Fourth, and Fifth Ways.
 
 ### Unit 6 
 
-### Week 15 -- 
+### Week 15 -- Empiricism
 
-May-9 T  Hume I  
-May-11 R  Hume II  
-
-
-### Week 16 -- 
-May-16 T Hume III  
-May-18 R  Hume IV  
+May-9 T  [Hume, Enquiry, Section II -- Ideas and Impressions](http://www.gutenberg.org/files/9662/9662-h/9662-h.htm#section2)  
+May-11 R  [Hume, Enquiry, Section IV  -- Cause and Effect](http://www.gutenberg.org/files/9662/9662-h/9662-h.htm#section4)  
 
 
-### Week 17 -- 
+### Week 16 -- Atheism
+May-16 T [Dawkins, Why there is almost certainly no god](https://drive.google.com/open?id=0B0CYQDZ8AWu8UHBhQ3JKeUFDcFk)   
+May-18 R  [Sam Harris, There is no God and you know it](https://drive.google.com/open?id=0B0CYQDZ8AWu8LWg2MGRxYXNEbk0);  [Peter Kreeft, The Problem of Evil](https://drive.google.com/open?id=0B0CYQDZ8AWu8ckN3cEVxUW1KQVU)  
+
+
+### Week 17 -- Consciousness
 
 Term Paper Due Tuesday by 10:00pm CT   
-May-23 T   Dawkins I
-May-25 R   Dawkins II
+May-23 T  [Chalmers, How do you explain consciousness?](https://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness)    
+May-25 R  [Ed Feser, Can we make sense of the world?](https://docs.google.com/document/d/1VNXhby_Yrd6Xkle3US1tbaig-TBTidk9ol9_OzfN4w4/edit?usp=sharing) 
 
 ### Week 18 -- Tree of Life
-May-30 T  Gospel of John         
+May-30 T  Gospel of John          
 Jun-1 R Gospel of John     
 
 
