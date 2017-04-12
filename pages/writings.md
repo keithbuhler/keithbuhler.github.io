@@ -16,20 +16,22 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 
 <hr> 
 
-### Books
+{% include toc %}
+
+## Books
 
 * [*Sola Scriptura: A Dialogue*](http://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler-ebook/dp/B009N27L12/ref=sr_1_9?ie=UTF8&qid=1401301911&sr=8-9&keywords=sola+scriptura). A modern day Platonic dialogue between an Orthodox, Catholic, and Protestant Christians about Scripture and tradition.
 * [*Becoming Who We Are*](/phd). My philosophy dissertation arguing that virtue and wisdom are natural for human beings.
 
 
-### Philosophical Dialogues
+## Philosophical Dialogues
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) (short story)
 * [Still In the Shining Sea: An American Myth](/buhlerreport/american-myth) (short story)
 * [The Sin of Satan: On the Problem of Evil](/buhlerreport/sinofsatan) (dialogue)
 * [Heraclitus De-fragmented: An Interpretation](/buhlerreport/heraclitus)
 
 
-### Literary Non-Fiction
+## Literary Non-Fiction
 * [When My Breath Stops](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view) (literary non-fiction)
 
 ## Short Stories
@@ -48,14 +50,14 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 * [Lake Lumen](https://docs.google.com/document/d/1NPjF3Yekd8yXa7gdSKl1WLabjETC4AzWBPnzEfX4s_U/edit)
 * [Wisconsin Winter](https://drive.google.com/file/d/0B0CYQDZ8AWu8bkZ4a1ZDS0gzUk0/view)
 
-### Screenplays
+## Screenplays
 * [Misha and Liz](https://drive.google.com/file/d/0B0CYQDZ8AWu8NHRLNWgxMGtMZWM/view) (short film)  
 * [G8: The Last War](https://drive.google.com/file/d/0B0CYQDZ8AWu8VXY4ejBXVmxPY2s/view) (feature film)
 * Aedis Diana  (feature film)
 * The Hispanola Vampire: Amelia (feature film)
 * The Hispanola Vampire: Bobadilla (feature film)
 
-### Humor/Satire
+## Humor/Satire
 * [Google Acquires U.S. Government](https://drive.google.com/file/d/0B0CYQDZ8AWu8RTN5bHdIUUFvV1U/view)  
 * [I am American](https://drive.google.com/file/d/0B0CYQDZ8AWu8S1BiSWxGUG5LWEE/view)  
 * [2014 College Budget Completely Cuts Faculty Salary](http://ukcolonel.com/2014-budget-revealed-faculty-salaries-completely-cut/)  
@@ -65,7 +67,7 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 * [On Bad Words](/buhlerreport/badwords)   
 
 
-### Non-Fiction
+## Non-Fiction
 * [Who Cares? Learning through discussion](http://wheatstoneministries.squarespace.com/tel/who-cares-forget-it.html) (in Examined Life)
 * [Review of Rage Against God by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
 * [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
@@ -73,9 +75,10 @@ Right now, I'm taking a break from such things to write my [dissertation](/phd).
 * [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
 * [Is Beauty Objective?](/buhlerreport/is-beauty-objective)
 
-### Film and Music Criticism
+## Film and Music Criticism
 * [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life)  
 * [Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
 
+----
 
 - Go back to [Fun Stuff](http://www.keithbuhler.com/fun/)

@@ -1,13 +1,13 @@
 #Masthead for Main Site, Keithbuhler.com
 main:
   - title: "CV"
-    url: http://keithbuhler.com/cv
+    url: http://www.keithbuhler.com/cv
   - title: "PAPERS"
-    url: http://keithbuhler.com/publications
+    url: http://www.keithbuhler.com/publications
   - title: "TEACHING"
-    url: http://keithbuhler.com/teaching
+    url: http://www.keithbuhler.com/teaching
   - title: "FOR STUDENTS"
-    url: http://keithbuhler.com/students
+    url: http://www.keithbuhler.com/students
 
 #Masthead for Philosophy Portal
 phil:
