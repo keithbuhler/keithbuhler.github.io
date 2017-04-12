@@ -204,7 +204,6 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 
 
 
-
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro slide begin-->
 <section data-background="http://i0.wp.com/www.prolifemichiana.org/wp-content/uploads/2016/03/euthanasia.jpg?w=620" data-markdown><!--Intro slide begin-->
 
@@ -212,7 +211,62 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 
 </section><section data-markdown>
 
+## Thesis
 
+Although it seems that letting die is an acceptable form of "passive euthanasia", all euthanasia is inherently wrong and has negative consequences. 
+
+### Key Words
+
+- Euthanasia is killing, intentionally
+- Letting die is not "passive" euthanasia; it's not euthanasia at all
+- Death as a consequence of treatment is not euthanasia, because not intentional
+
+
+
+### Natural Law of Life
+
+- All human beings incline toward life
+- All organisms and even cells are "structured for survival"
+- Anything that does violence to this natural goal of survival is bad
+- Euthanasia does violence to this natura goal of survival
+- Euthanasia is bad
+
+
+
+### Supernatural Law of Life
+
+- God owns everything, including my body
+- I am a steward or trustee of my body
+- I cannot take my own life without stealing
+
+
+### Self-Interest
+
+- Pragmatic or prudential or consequential arguments can support the intrinsic argument
+- Mistaken diagnosis is possible, so euthanasia could be used as a 'last resort' when it is not in fact the as resort
+- Experimental procedures could work
+- Spontaneous remission occurs
+- People might give up too soon, or weaken their resolve, if they know death is an option
+- People might choose euthanasia co-dependently
+
+
+### Practical Effects
+
+- Doctors and nurses are committed to saving lives
+- Euthanasia might make death less of a failure
+- Doctors and nurses might treat some patients as 'better of dead'
+- Hopelessly ill persons can take their own life, deputize others to do so -- some might act on others' behalf _without_ authorization
+- Analogy to 'mental illness' (i.e., something we disapprove of). The definition of a 'hopelessly ill' can expand
+
+
+### Reflections
+
+- The "culture of death" (Pope St. John Paul II, 1995 "Evangelium Vitae")
+- Is your view on these topics consistent? Permit/promote or forbid/restrict? 
+
+| For or against?                                                                                                                                                                                                              | For or against?                                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pro-choice, euthanasia, revenge, suicide (assisted or otherwise), capital punishment, contraception, human cloning, human sterilization, embryonic stem cell and fetal research, LGBT, promiscuity, infidelity, and divorce. | Pro-life, anti-euthanasia, forgiveness, life, prison, fertility, no-cloning, no stem-cell, heterosexual monogamy, chastity, fidelity, and marriage |
 
 </section><section data-markdown>
 
