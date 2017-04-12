@@ -221,6 +221,7 @@ Although it seems that letting die is an acceptable form of "passive euthanasia"
 - Letting die is not "passive" euthanasia; it's not euthanasia at all
 - Death as a consequence of treatment is not euthanasia, because not intentional
 
+</section><section data-markdown>
 
 
 ### Natural Law of Life
@@ -231,6 +232,7 @@ Although it seems that letting die is an acceptable form of "passive euthanasia"
 - Euthanasia does violence to this natura goal of survival
 - Euthanasia is bad
 
+</section><section data-markdown>
 
 
 ### Supernatural Law of Life
@@ -238,6 +240,8 @@ Although it seems that letting die is an acceptable form of "passive euthanasia"
 - God owns everything, including my body
 - I am a steward or trustee of my body
 - I cannot take my own life without stealing
+
+</section><section data-markdown>
 
 
 ### Self-Interest
@@ -249,6 +253,7 @@ Although it seems that letting die is an acceptable form of "passive euthanasia"
 - People might give up too soon, or weaken their resolve, if they know death is an option
 - People might choose euthanasia co-dependently
 
+</section><section data-markdown>
 
 ### Practical Effects
 
@@ -258,11 +263,15 @@ Although it seems that letting die is an acceptable form of "passive euthanasia"
 - Hopelessly ill persons can take their own life, deputize others to do so -- some might act on others' behalf _without_ authorization
 - Analogy to 'mental illness' (i.e., something we disapprove of). The definition of a 'hopelessly ill' can expand
 
+</section><section data-markdown>
 
 ### Reflections
 
 - The "culture of death" (Pope St. John Paul II, 1995 "Evangelium Vitae")
 - Is your view on these topics consistent? Permit/promote or forbid/restrict? 
+
+</section><section data-markdown>
+
 
 | For or against?                                                                                                                                                                                                              | For or against?                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
