@@ -215,6 +215,9 @@ Thesis: Although it seems that euthanasia is murder or suicide, voluntary active
 
 Although it seems that letting die is an acceptable form of "passive euthanasia", all euthanasia is inherently wrong and has negative consequences. 
 
+</section><section data-markdown>
+
+
 ### Key Words
 
 - Euthanasia is killing, intentionally
@@ -267,15 +270,12 @@ Although it seems that letting die is an acceptable form of "passive euthanasia"
 
 ### Reflections
 
-- The "culture of death" (Pope St. John Paul II, 1995 "Evangelium Vitae")
-- Is your view on these topics consistent? Permit/promote or forbid/restrict? 
+- Is your view on these topics consistent? 
+- Permit/promote or forbid/restrict? 
+- (1) Pro-choice, euthanasia, revenge, suicide (assisted or otherwise), capital punishment, contraception, human cloning, human sterilization, embryonic stem cell and fetal research, LGBT, promiscuity, infidelity, and divorce. 
+- (2) Pro-life, anti-euthanasia, forgiveness, life, prison, fertility, no-cloning, no stem-cell, heterosexual monogamy, chastity, fidelity, and marriage 
 
-</section><section data-markdown>
-
-
-| For or against?                                                                                                                                                                                                              | For or against?                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pro-choice, euthanasia, revenge, suicide (assisted or otherwise), capital punishment, contraception, human cloning, human sterilization, embryonic stem cell and fetal research, LGBT, promiscuity, infidelity, and divorce. | Pro-life, anti-euthanasia, forgiveness, life, prison, fertility, no-cloning, no stem-cell, heterosexual monogamy, chastity, fidelity, and marriage |
+What do they have in common? 
 
 </section><section data-markdown>
 
