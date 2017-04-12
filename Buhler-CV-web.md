@@ -32,7 +32,7 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 
 
 ### WORKS IN PROGRESS
-1. "The Case for Agnosticism about Causal Closure" (revise and resubmit to *Religious Studies*)
+1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
 4. *Becoming What We Are* (book draft complete)
 
   
