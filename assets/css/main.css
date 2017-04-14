@@ -372,34 +372,15 @@ tr,td,th{vertical-align:middle}
 .nav__list .active:hover{color:#3b7aae}
 .nav__title{margin:0;padding:0.5rem 1rem;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1em;font-weight:bold}
 .nav__sub-title{display:block;margin:0.5rem 0;padding:0.5rem 0;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1.25em;font-weight:bold;text-transform:uppercase;border-bottom:1px solid #f2f3f3}
+
 .toc{font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;color:#5c6266;text-transform:uppercase;letter-spacing:1px;background-color:#fff;border:1px solid #f2f3f3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,0.125)}
 .toc .nav__title{color:#fff;font-size:0.75em;background:#7a8288;border-top-left-radius:4px;border-top-right-radius:4px}
 .toc__menu{margin:0;padding:0;width:100%;list-style:none;font-size:0.8rem}
 .toc__menu a{display:block;padding:0.5rem 1rem;color:#5c6266;font-size:0.6875em;font-weight:bold;line-height:1.5;border-bottom:1px solid #f2f3f3}
-.toc__menu a:hover{color:#000;background:#256274}
+.toc__menu a:hover{color:#000;background:##ffe2b6}
 .toc__menu>li:last-child a{border-bottom:none}
 .toc__menu li ul>li a{padding-left:2rem;font-weight:normal}
 .toc__menu li>ul li{display:none}
-
-// Adding 'Contents' headline to the TOC
-#markdown-toc::before {
-    content: "Contents";
-    font-weight: bold;
-}
-
-
-// Using numbers instead of bullets for listing
-#markdown-toc ul {
-    list-style: decimal;
-}
-
-#markdown-toc {
-    border: 1px solid #aaa;
-    padding: 1.5em;
-    list-style: decimal;
-    display: inline-block;
-}
-
 
 @media (min-width: 48em){.toc__menu li>ul li{display:block}
 }
@@ -1472,59 +1453,6 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
 @media print{.masthead,.toc,.page__share,.page__related,.ads,.page__footer{display:none}
 }
 
-/*
- * jQuery Table of Content Generator for Markdown v1.0
- *
- * https://github.com/dafi/tocmd-generator
- * Examples and documentation at: https://github.com/dafi/tocmd-generator
- *
- * Requires: jQuery v1.7+
- *
- * Copyright (c) 2013 Davide Ficano
- *
- * Dual licensed under the MIT and GPL licenses:
- *   http://www.opensource.org/licenses/mit-license.php
- *   http://www.gnu.org/licenses/gpl.html
- */
-
-#toc, .toc, .mw-warning {
-    background-color: #F9F9F9;
-    border: 1px solid #AAAAAA;
-    font-size: 95%;
-    padding: 5px;
-}
-#toc h2, .toc h2 {
-    border: medium none;
-    display: inline;
-    font-size: 100%;
-    font-weight: bold;
-    padding: 0;
-}
-#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
-    text-align: center;
-}
-#toc ul, .toc ul {
-    list-style-image: none;
-    list-style-type: none;
-    margin-left: 0;
-    padding-left: 0;
-    text-align: left;
-}
-#toc ul ul, .toc ul ul {
-    margin: 0 0 0 2em;
-}
-#toc .toctoggle, .toc .toctoggle {
-    font-size: 94%;
-}
-
-#toc ul li {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-#toc-container {
-	margin-bottom: 10px;
-}
 
 }
 
