@@ -1,9 +1,12 @@
 ---
 layout: single
-title: 
+title: Papers
 permalink: /publications/
 header:
-      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: http://media-cache-ak0.pinimg.com/736x/33/2c/4b/332c4b8b524e9c004421360f50252888.jpg
+  caption: 
 sidebar: 
       nav: 
 --- 

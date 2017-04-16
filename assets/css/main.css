@@ -548,13 +548,13 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__hero--overlay .wrapper{padding-left:1em;padding-right:1em}
 @media (min-width: 80em){.page__hero--overlay .wrapper{max-width:1280px}
 }
-.page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5)}
+.page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5); position: absolute; top: 50%; left: 50%;}
 .page__hero--overlay .page__lead{max-width:768px}
 .page__hero--overlay .page__title{font-size:1.953em}
 @media (min-width: 37.5em){.page__hero--overlay .page__title{font-size:2.441em}
 }
 .page__hero-image{width:100%;height:auto;-ms-interpolation-mode:bicubic}
-.page__hero-caption{position:absolute;bottom:0;right:0;margin:0 auto;padding:2px 5px;color:#fff;font-family:Georgia,Times,serif;font-size:0.6875em;background:#000;text-align:right;z-index:5;opacity:0.5;border-radius:4px 0 4px 0}
+.page__hero-caption{position:absolute; bottom:0;right:0;margin:0 auto;padding:2px 5px;color:#fff;font-family:Georgia,Times,serif;font-size:0.6875em;background:#000;text-align:right;z-index:5;opacity:0.5;border-radius:4px 0 4px 0}
 @media (min-width: 64em){.page__hero-caption{padding:5px 10px}
 }
 .page__hero-caption a{color:#fff;text-decoration:none}
