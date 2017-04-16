@@ -5,7 +5,7 @@ permalink: /cv/
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: http://media-cache-ak0.pinimg.com/736x/33/2c/4b/332c4b8b524e9c004421360f50252888.jpg
+  overlay_image: https://therebelkitchen.files.wordpress.com/2012/10/barleycove-west-cork.jpg
   caption: 
 sidebar: 
       nav: 

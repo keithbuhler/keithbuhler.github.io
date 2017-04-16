@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Welcome to KeithBuhler.com
+title:  Welcome
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
