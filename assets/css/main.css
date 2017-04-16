@@ -548,7 +548,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__hero--overlay .wrapper{padding-left:1em;padding-right:1em}
 @media (min-width: 80em){.page__hero--overlay .wrapper{max-width:1280px}
 }
-.page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5); position: absolute; top: 50%; left: 50%;}
+.page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5);}
 .page__hero--overlay .page__lead{max-width:768px}
 .page__hero--overlay .page__title{font-size:1.953em}
 @media (min-width: 37.5em){.page__hero--overlay .page__title{font-size:2.441em}
