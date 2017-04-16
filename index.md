@@ -2,7 +2,10 @@
 layout: single
 title:  Hello!
 header:
-      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: http://blog.autoeurope.com.au/wp-content/uploads/2014/03/West-Cork-Ireland.jpg
+  caption: "Image from: [**Devvy**](http://point-of-no-23.livejournal.com/tag/ireland.)"
 excerpt: 
 author_profile: true
 permalink: 
