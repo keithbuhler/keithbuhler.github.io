@@ -8,7 +8,7 @@ en: &DEFAULT_EN
   pagination_next       : "Next"
   breadcrumb_home_label : "Home"
   breadcrumb_separator  : "/"
-  toc_label             : "On This Page"
+  toc_label             : "Table of Contents"
   ext_link_label        : "Direct Link"
   less_than             : "less than"
   minute_read           : "minute read"
