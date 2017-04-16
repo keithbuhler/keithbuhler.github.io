@@ -12,14 +12,42 @@ http://www.keithbuhler.com/images/background-morality.svg
 
 # Justin Martyr
 
-- Today: Justin's view on Socrates
-* The relationship between faith and reason
+- The Early Church Fathers
+- Justin's view on Socrates
+- The relationship between faith and reason
 
 </section> <!--Intro slide end-->
 <section data-markdown>  <!--Slide Beginning-->
 
 
+### Apostolic Fathers
 
+- Apostles
+- Apostolic Fathers
+- Early Church Fathers
+
+
+### Apostolic Fathers
+
+- Clement of Rome
+- Ignatius of Antioch
+- Polycarp of Smyrna
+- Shepherd of Hermas
+- Didache
+
+### Early Church Fathers ("Patristics")
+
+
+### Justin Martyr
+
+![justin](http://www.conservapedia.com/File:Justin_Martyr.jpg)
+
+- Greek philosopher
+- Converted 132 AD
+- Wrote about the union of faith and philosophy
+- Wrote to Roman emperors, Jews, and fellow Greeks
+- Died 165 AD
+- Martyred
 
 
 

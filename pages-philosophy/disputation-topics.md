@@ -40,9 +40,25 @@ Ayn Rand argues that traditional altruistic, self-sacrificial "morality" is anti
 
 ## Unit 4 (Moral Problems) 
 
-**Option A**
+****Option A -- Is abortion morally permissible?** 
 
-**Option B**
+Thomson argues that abortion is morally permissible even if the fetus is an individual human being because a woman must give permission before another person has the right to bodily space, just like you have the right to "unplug" a famous violinist from your liver. And Marquis argues that abortion is impermissible even if the fetus is not an individual human being because the fetus has a future that we cannot deprive it of. Who is right? Comment on these arguments or build your own case for or against some or all abortions. 
+
+**Option B -- Is homosexual sex morally permissible?**
+
+Levin argues that homosexual sex (he does not discuss feelings, identities, attractions, or homosexual orientation itself) is abnormal because it violates natural usage of body parts. Corvino argues that there is no good reason why two gay men (etc.) in a committed relationship shouldn't have sex for the relational benefits it brings. Who is right? Comment on these arguments or build your own case for or against some or all LGBT sexual activities. 
+
+**Option C -- Is euthanasia morally permissible?**
+
+Gay-Williams argues that euthanasia is wrong because it involves the deliberate killing of an innocent person and that it will lead to further negative consequences. Brock argues that euthanasia is not wrong because it is not morally different from the sort of 'letting die' that is already legal and that it will not likely lead to further negative consequences. Who is right? Comment on these arguments or build your own case for or against some or all euthanasia. 
+
+
+
+
+
+
+
+
 
 ## Unit Paper #5 Term Paper
 
