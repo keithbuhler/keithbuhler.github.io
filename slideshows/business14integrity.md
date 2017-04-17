@@ -5,7 +5,7 @@ theme: league
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg" data-markdown> <!--Intro slide begin-->
-<section data-markdown data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/500px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg"><!--Intro slide begin-->
+<section data-markdown><!--Intro slide begin-->
 
 
 # Organizational Integrity
