@@ -1,7 +1,7 @@
 ---
 title: 
 layout: slide
-theme: blood
+theme: league
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg">
@@ -32,6 +32,9 @@ theme: blood
 - 100 animals are killed in labs every minute (for science)
 - 8 billion chickens are killed for food in the U.S. alone (for food)
 - Do animals have rights? 
+
+
+</section><section data-markdown>
 
 ## Some distinctions
 
