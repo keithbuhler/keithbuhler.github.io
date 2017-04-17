@@ -4,8 +4,8 @@ layout: slide
 theme: league
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
-<section data-markdown><!--Intro slide begin-->
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg" data-markdown> <!--Intro slide begin-->
+<section data-markdown data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/500px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg"><!--Intro slide begin-->
 
 
 # Organizational Integrity
@@ -20,12 +20,12 @@ theme: league
 
 How can an organization or corporation (a group), rather than merely individuals in that organization, have integrity? 
 
-</section><section data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/500px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg" data-markdown>
+</section><section data-markdown>
 
 ### Thesis
 
 
-Although it may seem that _corporate_ integrity is the same as personal integrity (e.g., faithfulness to one's principles), an organization is ethical, or has integrity, when it has a "a certain sort of moral climate" (701) constituted by shared norms of altruism and fairness as well as clear procedures for resolving moral wrongs. 
+Although it may seem that _corporate_ integrity is the same as personal integrity (e.g., faithfulness to one's principles), an organization is ethical, or has integrity, when it has a "a certain sort of moral climate" -- that is, when it is _a cooperative social union of people with a shared moral purpose and shared norms of fairness._
 
 
 </section><section data-markdown>
@@ -112,6 +112,7 @@ A good moral climate has at least four norms:
 - Social planners create a society with equally distributed goods, not knowing which segment of society they will make up
 
 
+</section><section data-markdown>
 
 ### Rawls on Fairness
 - Two principles: 
@@ -119,6 +120,7 @@ A good moral climate has at least four norms:
 - Equal opportunity for everyone to climb the economic and/or social ladder and attain more Primary Goods
 - Social and economic inequalities exist to help the least advantaged to achieve Primary Goods
 
+</section><section data-markdown>
 
 ### Norm 2: Procedural Fairness
 
@@ -127,12 +129,35 @@ A good moral climate has at least four norms:
 - Yet receiving input does not eliminate potential biases
 - Decision makers should strive to be impartial and unbiased
 
+</section><section data-markdown>
 
 ### Norm 2: Procedural Fairness in Pay
+
+- Do CEOs receive unfair proportion of surplus?
+- Perhaps CEOs have a "market rate", so their salary is determined by the market
+- However, even this market rate is biased in favor of CEOs, who help set rates
+- How to overcome this bias?
+
+</section><section data-markdown>
+
+### Agency theory
+- Agency theory is the observation that agents, even leaders committed to the good of the group, tend to seek their own good
+- One answer: align incentives of individual with the incentives of the group
+- That is, give pay with stock options so that the CEO benefits only when the company benefits
+- This lead to a conflict of interest: cheating on accounting
+- Conclusion: people are selfish, yes, but also immoral. Selfishness and immorality are two different things. 
+
+
 
 </section><section data-markdown>
 
 ### Norm 4: Incentives
+
+- Morality is about the ideal (what ought to be)
+- But humans are real (what is)
+- So business ethics needs constant input from psychology, sociology, economics, and common sense 
+
+
 
 </section><section data-markdown>
 
