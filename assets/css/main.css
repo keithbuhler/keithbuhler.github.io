@@ -1460,6 +1460,16 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;bo
 @media print{.masthead,.toc,.page__share,.page__related,.ads,.page__footer{display:none}
 }
 
+.well {
+    background-image: url('../img/well.png');
+    background-color: #f5f5f5;
+    box-shadow: none;
+    border: 1px solid #E7E7E7;
+}
+
+.input {
+    background-image: url('../img/search.png');
 
 }
+
 
