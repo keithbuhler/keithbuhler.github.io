@@ -4,7 +4,7 @@ layout: slide
 theme: league
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-lexington.svg" ><!--Intro slide begin-->
+<section>
 <section data-markdown><!--Intro slide begin-->
 
 
