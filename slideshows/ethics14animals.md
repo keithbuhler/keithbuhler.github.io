@@ -8,17 +8,17 @@ theme: blood
 <section data-background="https://i.imgflip.com/19oo1z.jpg"  data-markdown><!--Intro slide begin-->
 
 
+
+</section> <!--Intro slide end-->
+<section data-markdown>  <!--Slide Beginning-->
+
 # Animal Rights
 
 - Animals, Right!?
 - Orwell, "Shooting an Elephant"
 
 
-
-
-</section> <!--Intro slide end-->
-<section data-markdown>  <!--Slide Beginning-->
-
+</section><section data-markdown>
 
 ## Intro
 
@@ -31,6 +31,7 @@ theme: blood
 - killing / torturing (chickens can be killed without suffering)
 - torturing for money / torturing for knowledge (civet cats are tormented for profitable product, baboons tortured for scientific research)
 - animal rights / human virtues (it might be virtuous to be conscientious with your car, coffee table, and clothes even the object of your care don't have rights)
+- early death / natural death (100% of all animals die eventually)
 
 </section><section data-markdown>
 
