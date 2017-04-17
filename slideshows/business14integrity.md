@@ -5,7 +5,7 @@ theme: league
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
-<section data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/500px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg"data-markdown><!--Intro slide begin-->
+<section data-markdown><!--Intro slide begin-->
 
 
 # Organizational Integrity
@@ -20,7 +20,7 @@ theme: league
 
 How can an organization or corporation (a group), rather than merely individuals in that organization, have integrity? 
 
-</section><section data-markdown>
+</section><section data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/500px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg" data-markdown>
 
 ### Thesis
 
@@ -89,7 +89,7 @@ A good moral climate has at least four norms:
 
 </section><section data-markdown>
 
-### Norm 2: Fairness (Substantive)
+### Norm 2: Substantive Fairness
 
 - Equitably distribute "surplus" (as in negotiation of house price)
 - Proportionality versus equality -- contribute more, receive more
@@ -106,8 +106,29 @@ A good moral climate has at least four norms:
 
 </section><section data-markdown>
 
-### Norm 2: Fairness (Procedural)
+### Rawls on Fairness
 
+- Rawl's fairness procedure: a veil of ignorance
+- Social planners create a society with equally distributed goods, not knowing which segment of society they will make up
+
+
+
+### Rawls on Fairness
+- Two principles: 
+- Equal basic liberty, compatible with liberties of others, and
+- Equal opportunity for everyone to climb the economic and/or social ladder and attain more Primary Goods
+- Social and economic inequalities exist to help the least advantaged to achieve Primary Goods
+
+
+### Norm 2: Procedural Fairness
+
+
+- The more input the governed have, the more they accept difficult decisions
+- Yet receiving input does not eliminate potential biases
+- Decision makers should strive to be impartial and unbiased
+
+
+### Norm 2: Procedural Fairness in Pay
 
 </section><section data-markdown>
 
@@ -145,8 +166,6 @@ A good moral climate has at least four norms:
 # Before you go
 
 * Questions?
-
-
 
 
 </section>
