@@ -25,10 +25,10 @@ sidebar:
 * [Week 8 Inside Job (Film)](/slideshows/business8insidejob)
 * [Week 9 Information](/slideshows/business9information)
 * [Week 10 Incentives](/slideshows/business10incentives)
-* [Week 11 Affirmative Action]
-* [Week 12 Whistle-Blowing]
-* [Week 13 Safety]
-* [Week 14 Moral Climate]
+* Week 11 Affirmative Action
+* Week 12 Whistle-Blowing
+* Week 13 Safety
+* [Week 14 Moral Climate](/slideshows/business14integrity)
 * [Week 15 Christmas Carol]
 
 

@@ -4,8 +4,8 @@ layout: slide
 theme: league
 ---
 
-<section><!--Intro slide begin-->
-<section data-background="http://cgimg.s3.amazonaws.com/cg/g30/392830/392830_1290464228_orig.jpg" data-markdown><!--Intro slide begin-->
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro slide begin-->
+<section data-markdown><!--Intro slide begin-->
 
 
 # Organizational Integrity
@@ -25,11 +25,7 @@ How can an organization or corporation (a group), rather than merely individuals
 ### Thesis
 
 
-
-- An organization that is ethical is one with integrity
-- An organization with integrity has a "a certain sort of moral climate" (701)
-- _Corporate_ integrity has something in common with personal (faithfulness to one's principles)
-- But corporate integrity has some unique features personal integrity cannot have (a climate or culture)
+Although it may seem that _corporate_ integrity is the same as personal integrity (e.g., faithfulness to one's principles), an organization is ethical, or has integrity, when it has a "a certain sort of moral climate" (701) constituted by shared norms of altruism and fairness as well as clear procedures for resolving moral wrongs. 
 
 
 </section><section data-markdown>
@@ -106,6 +102,8 @@ A good moral climate has at least four norms:
 
 - Is a Coke vending machine that raises the price on a hot day "unfair"? 
 
+![coke](https://s3-us-west-1.amazonaws.com/img.coca-colafemsa.com/assets/images/es/carreras/1-2-3.jpg)
+
 </section><section data-markdown>
 
 ### Norm 2: Fairness (Procedural)
@@ -136,8 +134,6 @@ A good moral climate has at least four norms:
 </section><section data-markdown>
 
 ## Discussion Question
-
-
 
 
 
