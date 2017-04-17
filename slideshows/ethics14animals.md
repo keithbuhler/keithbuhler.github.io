@@ -5,10 +5,8 @@ theme: blood
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg">
-<section data-background="https://imgflip.com/i/19oo1z"  data-markdown><!--Intro slide begin-->
+<section data-background="https://i.imgflip.com/19oo1z.jpg"  data-markdown><!--Intro slide begin-->
 
-
-http://www.keithbuhler.com/images/background-morality.svg
 
 # Animal Rights
 
