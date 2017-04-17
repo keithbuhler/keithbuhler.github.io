@@ -4,8 +4,9 @@ layout: slide
 theme: league
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg" data-markdown> <!--Intro slide begin-->
+<section data-background="http://www.keithbuhler.com/images/background-lexington.svg" ><!--Intro slide begin-->
 <section data-markdown><!--Intro slide begin-->
+
 
 
 # Organizational Integrity
