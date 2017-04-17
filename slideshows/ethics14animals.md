@@ -140,3 +140,37 @@ theme: blood
 
 </section>
 </section><!--Slide end-->
+
+
+
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg">
+<section data-background="https://i.imgflip.com/19oo1z.jpg"  data-markdown><!--Intro slide begin-->
+
+# A Defense of Animal Rights
+
+</section><section data-markdown>
+
+
+### Singer, Animal Liberation
+
+
+
+# A Critique of Animal Rights
+
+
+### Cohen
+
+
+
+
+
+</section><section data-markdown>
+
+### Discussion
+
+* Your questions?
+
+
+</section>
+</section><!--Slide end-->
+
