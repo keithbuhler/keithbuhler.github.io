@@ -7,7 +7,14 @@ theme: blood
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg">
 <section data-background="https://i.imgflip.com/19oo1z.jpg"  data-markdown><!--Intro slide begin-->
 
+# Animal Rights
 
+- Animals, Right!?
+- Orwell, "Shooting an Elephant"
+
+</section><section data-markdown>
+
+![kat](https://i.imgflip.com/19oo1z.jpg)
 
 </section> <!--Intro slide end-->
 <section data-markdown>  <!--Slide Beginning-->
