@@ -12,9 +12,15 @@ http://www.keithbuhler.com/images/background-morality.svg
 
 # Justin Martyr
 
+<<<<<<< Updated upstream
 - The Early Church Fathers
 - Justin's view on Socrates
 - The relationship between faith and reason
+=======
+- Today: Justin's view on Socrates
+- The relationship between faith and reason
+- 
+>>>>>>> Stashed changes
 
 </section> <!--Intro slide end-->
 <section data-markdown>  <!--Slide Beginning-->
