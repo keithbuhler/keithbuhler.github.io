@@ -54,7 +54,6 @@ Why is philosophy interesting? Perhaps because it invites you to think deeply ab
 - check out some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
 - and my [personal site](/fun) for fiction, art, and more fun stuff. 
 
-professional 
 
 ### Random Fun Things?
 
