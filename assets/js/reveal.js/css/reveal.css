@@ -839,11 +839,11 @@ body {
   visibility: visible !important; }
 
 
-/* Images, Dan's code 
-        if( backgroundImage ) {
-          /* background.style.backgroundImage = 'linear-gradient(rgba(255, 0, 0, 0.45), rgba(255, 0, 0, 0.45) ), url('+ backgroundImage +')'; 
+/* Images, Dan's code */
+
+if( backgroundImage ) {background.style.backgroundImage = 'linear-gradient(rgba(255, 0, 0, 0.45), rgba(255, 0, 0, 0.45) ), url('+ backgroundImage +')'; 
           background.style.backgroundImage = 'url('+ backgroundImage +')';
-          background.style.opacity = '0.7'; */
+          background.style.opacity = '0.7';
 
 
 /* Video backgrounds */
