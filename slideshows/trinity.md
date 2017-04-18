@@ -26,12 +26,14 @@ theme: black
 </section> <!--Intro end-->
 
 
-<section data-markdown>  <!--Apostolic Fathers Begin-->
+<section>  <!--Apostolic Fathers Begin-->
 <section data-markdown>  
 
 ### Apostolic Fathers
 
-- Apostles --> Apostolic Fathers --> Church Fathers (Patristics)
+- Apostles
+- Apostolic Fathers
+- Church Fathers (Patristics)
 
 </section><section data-markdown>
 
@@ -56,23 +58,32 @@ theme: black
 
 
 
-<section data-markdown>
+<section>
 <section data-markdown><!--Justin Martyr's _Apology_ Begin-->
 
-### Justin Martyr
+## Justin Martyr
 
-![justin](http://www.conservapedia.com/File:Justin_Martyr.jpg)
+![justin](https://blogs.ancientfaith.com/onbehalfofall/wp-content/uploads/sites/17/2014/06/justinmartyronlxx.jpg)
 
-- Greek philosopher
-- Converted 132 AD
-- Wrote about the union of faith and philosophy
-- Wrote to Jews, fellow Greeks, and Roman emporers
+- Greek philosopher who converted 132 AD
+- Wrote to Jews, fellow Greeks, and Roman emperors
 - Died 165 AD, as a martyr
+
 
 
 </section><section data-markdown>
 
-## Apologetics: faith and reason
+![justin 2](https://blogs.ancientfaith.com/onbehalfofall/wp-content/uploads/sites/17/2013/02/theboldwitnessof.jpg)
+
+
+>To the Emperor Titus Ælius Adrianus Antoninus Pius Augustus Cæsar, and to his son Verissimus the Philosopher, and to Lucius the Philosopher, the natural son of Cæsar, and the adopted son of Pius, a lover of learning, and to the sacred Senate, with the whole People of the Romans, I, Justin, the son of Priscus and grandson of Bacchius, natives of Flavia Neapolis in Palestine, present this address and petition in behalf of those of all nations who are unjustly hated and wantonly abused, myself being one of them.
+
+
+
+
+</section><section data-markdown>
+
+### Apologetics: faith and reason
 
 - How to evangelize to those who do not know Jesus but _do_ love truth and goodness
 - Connect the known to the unknown
@@ -83,21 +94,21 @@ theme: black
 
 </section><section data-markdown>
 
-## Socrates
+### Socrates
 
 > Socrates is a saint. 
 
 
 </section><section data-markdown>
 
-## Faith and reason
+### Faith and reason
 
 > We can prove to you the philosophy of Christians. 
 
 
 </section><section data-markdown>
 
-## Beyond reason
+### Beyond reason
 
 > You can be resurrected. See the life Christians live? 
 
@@ -113,12 +124,13 @@ theme: black
 <section><!--Discussion of faith and reason begin-->
 <section data-markdown> 
 
-### Discussion Question
+## Discussion Question
 
 * So what "natural knowledge" does revelation presuppose? 
 * What does the Bible assume you already know? (Language, social skills, hygiene, etc.)
 
 
+</section><section data-markdown>
 
 ### 5 Minutes Left
 
