@@ -4,9 +4,8 @@ layout: slide
 theme: black
 ---
 
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro begin-->
-<section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg"><!--Intro Splash begin-->
-
+<section data-markdown data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro begin-->
+<section data-markdown data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg"><!--Intro Splash begin-->
 
 
 # Justin Martyr
