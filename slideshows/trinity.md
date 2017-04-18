@@ -10,7 +10,7 @@ theme: black
 
 
 # Justin Martyr
-# On Faith and Reason
+### On Faith and Reason
 
 </section> <!--Intro Splash end-->
 <section data-markdown>  <!--Overview Begin-->
@@ -31,7 +31,7 @@ theme: black
 <section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
   
 
-### Apostolic Fathers
+# "Apostolic Fathers"
 
 - Apostles
 - Apostolic Fathers
