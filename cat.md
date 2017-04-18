@@ -11,4 +11,4 @@ sidebar:
       nav: 
 --- 
 
-{% include cat.html %}
+<!--{% include cat.html %}-->
