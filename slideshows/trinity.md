@@ -24,43 +24,24 @@ theme: black
 
 
 </section><!--Overview end-->
-</section> <!--Intro end-->
-
-
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg">  <!--Apostolic Fathers Begin-->
 <section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
   
 
 # "Apostolic Fathers"
 
-- Apostles
-- Apostolic Fathers
-- Church Fathers (Patristics)
+- Apostles 
+- Apostolic Fathers (Clement, Ignatius, Polycarp)
+- Church Fathers 
 
 </section><section data-markdown>
 
-### Apostolic Fathers
-
-- Clement of Rome
-- Ignatius of Antioch
-- Polycarp of Smyrna
-- Shepherd of Hermas
-- Didache
-
-</section><section data-markdown>
-
-### Church Fathers ("Patristics")
+## "Apostolic Fathers"
 
 - Many writers, leaders, preachers, thinkers of the church from the Apostles to about the 8th century
 - Three groups: "Ante-Nicene", "Nicene" and "Post-Nicene" Fathers
 - Before Nicea (325), during, and after the council of Nicea 325 & 380 AD
 
-</section>
 </section>  <!--Apostolic Fathers-->
-
-
-
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg">
 <section data-markdown><!--Justin Martyr's _Apology_ Begin-->
 
 ## Justin Martyr
@@ -74,20 +55,28 @@ theme: black
 
 </section><section data-markdown>
 
+### Apologetics
+
+- How do you share the gospel with those who do not know Jesus but _do_ love truth and goodness?
+
+</section><section data-markdown>
+
+### Apologetics
+
+- Mars Hill sermon vs. Peter's Pentecost sermon
+
+</section><section data-markdown>
+
 
 >To the Emperor Titus... Pius Augustus Cæsar, and to his son Verissimus the Philosopher... and to the sacred Senate, with the whole People of the Romans, I, Justin, the son of Priscus and grandson of Bacchius... present this address and petition in behalf of those of all nations who are unjustly hated and wantonly abused, myself being one of them.
 
 
 
 
-</section><section data-markdown>
 
-### Apologetics: faith and reason
-
-- How to evangelize to those who do not know Jesus but _do_ love truth and goodness
 - Connect the known to the unknown
 - Mars Hill sermon as model
-- Mars Hill sermon vs. Peter's Pentecost sermon
+
 
 
 
@@ -112,16 +101,10 @@ theme: black
 > You can be resurrected. See the life Christians live? 
 
 
-</section>
+
 </section> <!--Justin Martyr's _Apology_-->
-
-
-
-
-
-
-<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Discussion of faith and reason begin-->
-<section data-markdown> 
+<section data-markdown><!--Discussion of faith and reason begin-->
+ 
 
 ## Discussion Question
 
