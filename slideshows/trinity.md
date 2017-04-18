@@ -1,11 +1,11 @@
 ---
-title: 
-layout: slide2
-theme: blood
+title: Justin Martyr
+layout: slide
+theme: black
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg"> <!--Intro begin-->
-<section data-background="http://p8.storage.canalblog.com/86/95/1164341/90654171_o.jpg"><!--Intro Splash begin-->
+<section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg"><!--Intro Splash begin-->
 
 
 
@@ -13,7 +13,7 @@ theme: blood
 # On Faith and Reason
 
 </section> <!--Intro Splash end-->
-<section>  <!--Overview Begin-->
+<section data-markdown>  <!--Overview Begin-->
 
 
 ## Today 
@@ -27,14 +27,14 @@ theme: blood
 </section> <!--Intro end-->
 
 
-<section>  <!--Apostolic Fathers Begin-->
-<section>  
+<section data-markdown>  <!--Apostolic Fathers Begin-->
+<section data-markdown>  
 
 ### Apostolic Fathers
 
 - Apostles --> Apostolic Fathers --> Church Fathers (Patristics)
 
-</section><section>
+</section><section data-markdown>
 
 ### Apostolic Fathers
 
@@ -44,7 +44,7 @@ theme: blood
 - Shepherd of Hermas
 - Didache
 
-</section><section>
+</section><section data-markdown>
 
 ### Church Fathers ("Patristics")
 
@@ -57,8 +57,8 @@ theme: blood
 
 
 
-<section>
-<section><!--Justin Martyr's _Apology_ Begin-->
+<section data-markdown>
+<section data-markdown><!--Justin Martyr's _Apology_ Begin-->
 
 ### Justin Martyr
 
@@ -71,7 +71,7 @@ theme: blood
 - Died 165 AD, as a martyr
 
 
-</section><section>
+</section><section data-markdown>
 
 ## Apologetics: faith and reason
 
@@ -82,21 +82,21 @@ theme: blood
 
 
 
-</section><section>
+</section><section data-markdown>
 
 ## Socrates
 
 > Socrates is a saint. 
 
 
-</section><section>
+</section><section data-markdown>
 
 ## Faith and reason
 
 > We can prove to you the philosophy of Christians. 
 
 
-</section><section>
+</section><section data-markdown>
 
 ## Beyond reason
 
@@ -111,8 +111,8 @@ theme: blood
 
 
 
-<section> <!--Discussion of faith and reason begin-->
-<section> 
+<section data-markdown> <!--Discussion of faith and reason begin-->
+<section data-markdown> 
 
 ### Discussion Question
 
