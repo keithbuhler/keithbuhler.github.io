@@ -8,6 +8,7 @@ theme: black
 <section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown><!--Intro Splash begin-->
 
 
+
 # Justin Martyr
 # On Faith and Reason
 
@@ -26,8 +27,9 @@ theme: black
 </section> <!--Intro end-->
 
 
-<section>  <!--Apostolic Fathers Begin-->
-<section data-markdown>  
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg">  <!--Apostolic Fathers Begin-->
+<section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
+  
 
 ### Apostolic Fathers
 
@@ -50,7 +52,7 @@ theme: black
 ### Church Fathers ("Patristics")
 
 - Many writers, leaders, preachers, thinkers of the church from the Apostles to about the 8th century
--"Ante-Nicene", "Nicene" and "Post-Nicene" Fathers
+- Three groups: "Ante-Nicene", "Nicene" and "Post-Nicene" Fathers
 - Before Nicea (325), during, and after the council of Nicea 325 & 380 AD
 
 </section>
@@ -58,7 +60,7 @@ theme: black
 
 
 
-<section>
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg">
 <section data-markdown><!--Justin Martyr's _Apology_ Begin-->
 
 ## Justin Martyr
@@ -70,13 +72,10 @@ theme: black
 - Died 165 AD, as a martyr
 
 
-
 </section><section data-markdown>
 
-![justin 2](https://blogs.ancientfaith.com/onbehalfofall/wp-content/uploads/sites/17/2013/02/theboldwitnessof.jpg)
 
-
->To the Emperor Titus Ælius Adrianus Antoninus Pius Augustus Cæsar, and to his son Verissimus the Philosopher, and to Lucius the Philosopher, the natural son of Cæsar, and the adopted son of Pius, a lover of learning, and to the sacred Senate, with the whole People of the Romans, I, Justin, the son of Priscus and grandson of Bacchius, natives of Flavia Neapolis in Palestine, present this address and petition in behalf of those of all nations who are unjustly hated and wantonly abused, myself being one of them.
+>To the Emperor Titus... Pius Augustus Cæsar, and to his son Verissimus the Philosopher... and to the sacred Senate, with the whole People of the Romans, I, Justin, the son of Priscus and grandson of Bacchius... present this address and petition in behalf of those of all nations who are unjustly hated and wantonly abused, myself being one of them.
 
 
 
@@ -121,7 +120,7 @@ theme: black
 
 
 
-<section><!--Discussion of faith and reason begin-->
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Discussion of faith and reason begin-->
 <section data-markdown> 
 
 ## Discussion Question
