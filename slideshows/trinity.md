@@ -28,6 +28,7 @@ theme: black
 </section><!--Overview end-->
 <section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
 
+
 </section><!--Overview end-->
 <section data-markdown>
 
@@ -73,7 +74,7 @@ What do you notice here? What rhetorical devices?
 
 </section><section data-markdown>
 
-### There's lots in Justin's _Apology_
+### There's lots in Justin's _Apology_..
 ### Let's look at three more passages
 
 </section><section data-markdown>
