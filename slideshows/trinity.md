@@ -8,17 +8,10 @@ theme: black
 <section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown><!--Intro Splash begin-->
 
 # Justin Martyr
-### On Faith and Reason
+### On Apologetics
 
 </section> <!--Intro Splash end-->
 <section data-markdown>  <!--Overview Begin-->
-
-## Today 
-
-- Justin Martyr's Apologetics
-
-</section><!--Overview end-->
-<section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
 
 ## Justin Martyr
 
@@ -27,17 +20,10 @@ theme: black
 - Greek philosopher who converted 132 AD
 - Wrote to Jews, fellow Greeks, and Roman emperors
 - Died 165 AD, as a martyr
-- An early "Church Father"
+- An early "Church Father" (Clement, Polycarp... who else?)
 
-</section><section data-markdown>
-
-## Church Fathers 
-
-- Clement
-- Polycarp
-- who else?
-
-</section><section data-markdown>
+</section><!--Overview end-->
+<section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
 
 ## Church Fathers or "Apostolic Fathers"
 - Mentored by the Apostles, but not Apostles
@@ -45,12 +31,13 @@ theme: black
 - Justin Martyr is in this broad group
 - One of the first "apologists"
 
-
 </section><section data-markdown>
 
-### Apologia (ἀπολογία)
+### Apologia
 
-- What is it? 
+- ἀπολογία
+- Root of "apologetics" and "apology"
+- What does apologia mean? 
 
 </section><section data-markdown>
 
@@ -81,11 +68,12 @@ theme: black
 
 </section><section data-markdown>
 
-### Three more passages
+### There's lots in Justin's _Apology_
+### Let's look at three more passages
 
 </section><section data-markdown>
 
->Reason directs those who are **truly pious and philosophical to honour and love only what is true**, declining to follow traditional opinions, if these be worthless. For not only does sound reason direct us to refuse the guidance of those who did or taught anything wrong, but it is **incumbent on the lover of truth... even before his own life, to choose to do and say what is right.** Do you, then, since you are called pious and philosophers, guardians of justice and lovers of learning, give good heed, and hearken to my address; and if you are indeed such, it will be manifested.
+>Reason directs those who are **truly pious and philosophical to honour and love only what is true**, declining to follow traditional opinions, if these be worthless... Do you, then, since you are called pious and philosophers, guardians of justice and lovers of learning, give good heed, and hearken to my address; and **if you are indeed such, it will be manifested.**
 
 - Common love of truth
 
@@ -113,6 +101,8 @@ theme: black
 
 >And if these things seem to you to be reasonable and true, honour them; but if they seem nonsensical, despise them as nonsense, and do not decree death against those who have done no wrong, as you would against enemies. For we forewarn you, that you shall not escape the coming judgment of God, if you continue in your injustice; and we ourselves will invite you to do that which is pleasing to God.
 
+- Rejecting non-sense in common
+
 </section><section data-markdown>
 
 
@@ -126,11 +116,11 @@ theme: black
 - How can we build on that to preach the gospel to secular folks? 
 
 
-</section><section data-markdown>
+</section><section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown >
 
-### 5 Minutes Left
+# 5 Minutes Left
 
-* What are _your_ questions?
+### What are _your_ questions?
 
 </section>  
 </section><!--Discussion of faith and reasonend-->
