@@ -156,15 +156,75 @@ theme: league
 
 ### Singer, Animal Liberation
 
+- Equality between blacks, Spanish-Americans, LGBT
+- Equality between men and women was the "last remaining form of discrimination" until it wasn't
+- Equality between mankind and animals is the "last remaining form of discrimination"
+- Sounds like parody.. but so did other movements
+
+</section><section data-markdown>
+
+### Male Female Differences
+
+- Men and women are relevantly similar (in rationality) and so should have voting rights
+- Mankind and animals are not relevantly similar and so should not have same rights
+- Mankind and animals do have _some_ differences
+
+</section><section data-markdown>
+
+### Proportionality
+
+> "The extension of the basic principle of equality from one group to another does not imply that we must treat both groups in exactly the same way, or grant exactly the same rights to both groups."
+
+> "The basic principle of equality is equality of consideration..."
+
+- Equality (sameness) vs. justice (proportionality)
 
 
-# A Critique of Animal Rights
+</section><section data-markdown>
 
 
-### Cohen
+### Equality as Fact vs Value
+
+- Objection: equality is not a fact, human beings differ in needs, abilities, sizes, shapes, intellects, morality, etc. 
+- Response: "We have no absolute guarantee that these abilities and capacities really are distributed evenly, without regard to race or sex... There do seem to be certain measurable differences between both races and sexes."
+- "There is no need to pin the case for equality to one particular outcome of this scientific investigation"
+- Equality is a moral ideal, even in the face of factual inequalities (individually or across races, sexes, intelligences, etc.)
 
 
+</section><section data-markdown>
 
+### Equal consideration of suffering
+
+- Equality of consideration in accounting for needs
+- The question is not "can they talk" but "can they suffer?" (Bentham)
+- "Species-ism" gives greater consideration to one's own species
+
+
+</section><section data-markdown>
+
+### Equality of animals and humans
+
+- We kill and eat animals according to taste
+- We also experiment on them for knowledge and scientific research
+- "There seems to be no relevant characteristic that human infants possess that adult mammals do not have to the same or a higher degree"
+
+### Philosophy
+
+- Species-ism in philosophy
+- Criticizing what others take for granted -- have they done this?
+- Frankena says all humans are equal to each other and unequal to all non-humans because (a) thinking, (b) feelings and desires, and (c) enjoying the good life.
+
+</section><section data-markdown>
+
+
+</section>
+</section>
+
+<section> 
+<section data-markdown>
+
+
+# A Critique of Animal Rights, Cohen
 
 
 </section><section data-markdown>

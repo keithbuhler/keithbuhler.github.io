@@ -534,7 +534,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 .page .page__inner-wrap{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
 .page .page__inner-wrap .page__content,.page .page__inner-wrap .page__meta,.page .page__inner-wrap .page__share{clear:both;width:100%;float:left;margin-left:0;margin-right:0}
-.page__title{margin-top:0;line-height:1}
+.page__title{margin-top:0;line-height:1 }
 .page__title+.page__meta{margin-top:-0.5em}
 .page__lead{font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:1.25em}
 .page__content h2{padding-bottom:0.5em;border-bottom:1px solid #f2f3f3}
@@ -552,7 +552,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__hero--overlay{position:relative;margin-bottom:2em;padding:3em 0;clear:both;background-size:cover;background-repeat:no-repeat;background-position:center;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
 .page__hero--overlay::after{clear:both;content:"";display:table}
 .page__hero--overlay a{color:#fff}
-.page__hero--overlay .wrapper{padding-left:1em;padding-right:1em}
+.page__hero--overlay .wrapper{padding-left:1em;padding-right:1em; margin: 0;  position: absolute;     top: 50%;     left: 50%;    margin-right: -50%;     transform: translate(-50%, -50%) }
 @media (min-width: 80em){.page__hero--overlay .wrapper{max-width:1280px}
 }
 .page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5);}
