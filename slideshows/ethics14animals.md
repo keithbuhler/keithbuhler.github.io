@@ -208,6 +208,8 @@ theme: league
 - We also experiment on them for knowledge and scientific research
 - "There seems to be no relevant characteristic that human infants possess that adult mammals do not have to the same or a higher degree"
 
+</section><section data-markdown>
+
 ### Philosophy
 
 - Species-ism in philosophy
