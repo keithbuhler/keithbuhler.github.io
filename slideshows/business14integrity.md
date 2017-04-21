@@ -159,18 +159,69 @@ A good moral climate has at least four norms:
 - So business ethics needs constant input from psychology, sociology, economics, and common sense 
 
 
+</section><section data-markdown>
+
+### Human Nature
+
+- X theory -- mankind is selfish. Dislike work but do it if necessary. 
+- Y theory -- mankind is human. Like work but prefer it to be self-directed. 
+- The more Y people, the easier to have integrity
+- X people can be managed, converted to Y people, or fired
 
 </section><section data-markdown>
 
-### Norm 5: Profit
+### Incentive Structures
+
+- Sears Auto Center performed unnecessary repairs
+- They had production quotas of 60% higher
+- Their hourly pay was dropped 17%, to be compensated by commission
+- The CA attorney general said the structure "made it totally inevitable that the consumer would be oversold"
+- Suggestion: make sure there is a moral climate in place _before_ creating incentive structures that test integrity
 
 
 </section><section data-markdown>
 
-## Objections
+### Code of Ethics
+
+- These are necessary, but not sufficient
+- It must be part of a broader moral climate
+- Codes can change -- this can be a pro or con
 
 
 </section><section data-markdown>
+
+### Individual vs Structural
+
+- Not all moral failings have individual responsibility
+- Some moral failings are due to structure or system
+- The problem in the Sears case for instance is not just human weakness (eg: Abraham Lincoln)
+- Sometimes no one is entirely culpable (eg. Medical deaths)
+
+</section><section data-markdown>
+
+
+### Jose Martinez
+
+- Doctor called for 0.09 Digoxin
+- Wrote out 0.9 milligrams (10 times higher)
+- The pharmacist was concerned that was too high, set prescription aside, and paged resident
+- Resident was not in
+- A pharmacy tech got a copy of the order, filled 0.9 milligrams
+- Pharmacist checked it, saw that the prescription matched, forgetting his original concern
+- Nurse concerned it was too high, approached the resident
+- Resident knew it was 0.09, but didn't realize the vial was missing a zero
+- Administered drug, and the kid died
+
+</section><section data-markdown>
+
+
+### Jose Martinez
+
+- Who's at fault? The system? Everyone? Someone?
+
+</section><section data-markdown>
+
+
 
 ## Reflections
 
@@ -180,18 +231,13 @@ A good moral climate has at least four norms:
 
 </section><section data-markdown>
 
-## Discussion Question
+## Discussion of Obstacles (716)
 
+- Groupthink 
+- Telopathy
+- Conflict of interest
 
-
-</section><section data-markdown>
-
-
-
-
-# Before you go
-
-* Questions?
+- Other questions?
 
 
 </section>
