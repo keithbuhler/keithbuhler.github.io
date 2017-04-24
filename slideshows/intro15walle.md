@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: slide
-theme: blood
+theme: sky
 ---
 
 <section data-background=""><!--Day 1 begin-->
