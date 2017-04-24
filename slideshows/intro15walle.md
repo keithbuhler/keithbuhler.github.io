@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: slide
-theme: league
+theme: blood
 ---
 
 <section data-background="http://keithbuhler.com/images/background-walle.jpg"><!--Day 1 begin-->

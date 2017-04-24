@@ -69,7 +69,7 @@ sidebar:
 * [Week 12 God and Evil](https://docs.google.com/presentation/d/1cbiG6MP_EJ-PXjxQlALRsfHAZYWX6zvUOR-s06UwWDk/edit)
 * [Week 13 Atheism](/slideshows/intro13atheism)
 * [Week 14 A Space Odyssey]
-* [Week 15 Wall-E]
+* [Week 15 Wall-E](http://www.keithbuhler.com/slideshows/intro15walle#/)
 * [Week 16 Tree of Life]
 
 
