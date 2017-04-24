@@ -549,10 +549,10 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 .page__content blockquote+.small{margin-top:-1.5em;padding-left:1.25rem}
 .page__hero{position:relative;margin-bottom:2em;clear:both;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
 .page__hero::after{clear:both;content:"";display:table}
-.page__hero--overlay{position:relative;margin-bottom:2em;padding:3em 0;clear:both;background-size:cover;background-repeat:no-repeat;background-position:center;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
+.page__hero--overlay{position:relative;margin-bottom:1em;padding:4em 0;clear:both;background-size:cover;background-repeat:no-repeat;background-position:center;-webkit-animation:intro 0.3s both;animation:intro 0.3s both;-webkit-animation-delay:0.25s;animation-delay:0.25s}
 .page__hero--overlay::after{clear:both;content:"";display:table}
 .page__hero--overlay a{color:#fff}
-.page__hero--overlay .wrapper{padding-left:1em;padding-right:1em; margin: 0;  position: absolute;     top: 80%;     left: 50%;    margin-right: -50%;     transform: translate(-50%, -50%) }
+.page__hero--overlay .wrapper{padding-left:1em;padding-right:1em; margin: 0; top: 50%;     left: 50%;    margin-right: -50%;     transform: translate(-50%, -50%) }
 @media (min-width: 80em){.page__hero--overlay .wrapper{max-width:1280px}
 }
 .page__hero--overlay .page__title,.page__hero--overlay .page__meta,.page__hero--overlay .page__lead,.page__hero--overlay .btn,.page__hero--overlay #goog-wm-sb{color:#fff;text-shadow:1px 1px 4px rgba(0,0,0,0.5);}
