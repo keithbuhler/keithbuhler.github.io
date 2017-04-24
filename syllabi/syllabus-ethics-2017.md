@@ -125,10 +125,9 @@ F       Apr-21   Discussion on Animal rights (Group 9)
 
 ### Week 15 Globalism 
 (Unit Paper 4, Moral Problems due Monday by Midnight)     
-M     Apr-24 Chapter 16, Introduction; Hardin "Living on a Lifeboat" (852-871)  (Group 10)     
-
-W     Apr-26 Murdoch, "A Critique of Lifeboat Ethics" (872-887)   Group 10  
-F     Apr-28 Discussion on Globalism  (Buhler)  and Term Paper Work Shop
+M     Apr-24 Term Paper Work Shop       
+W     Apr-26  Chapter 16, Introduction; Hardin "Living on a Lifeboat" (852-871)   
+F     Apr-28 Murdoch, "A Critique of Lifeboat Ethics" (872-887)   (Group 10)    
 
 ### Finals Week  
 M       May-1  No class  
