@@ -4,15 +4,18 @@ layout: slide
 theme: league
 ---
 
-<section><!--Day 1 begin-->
-<section data-background="" data-markdown><!--Intro slide begin-->
+<section data-background="http://keithbuhler.com/images/background-walle.jpg"><!--Day 1 begin-->
+<section data-background="http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/3481980_orig.png" data-markdown><!--Intro slide begin-->
 
-# Introduction to Philosophy
+## Human Nature in Film
 
 </section> <!--Intro slide end-->
 <section data-markdown> 
 
-## Topic for the day
+## Today
+
+- An interpretation of 2001:
+- Comparing Wall-E
 
 
 </section><section data-markdown>
