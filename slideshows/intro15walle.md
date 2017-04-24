@@ -21,9 +21,6 @@ theme: sky
 
 </section><section data-markdown> 
 
-
-
-
 ### An Interpretation of 2001
 
 - First, think about a Meta-Narrative or mythic pattern: 
@@ -110,10 +107,17 @@ theme: sky
 - Atheism: Bad, Good... Better?
 
 
-</section><section data-markdown> 
+</section><section> 
 
-### The monolith 
+<h3> The monolith </h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=b75EpoF1W88" frameborder="0" allowfullscreen></iframe>
+
+
+
+</section><section data-markdown>
+
+### The monolith
 
 - The Monolith is the Known Unknown, a Kappa Element (kryptic)
 - The monolith was present at the evolution of apes to tool-using man, pointing apes toward the moon. 
@@ -142,8 +146,6 @@ theme: sky
 - David meets the monolith (and evolves again?) 
 - What is a Starchild? Not human, and that's the point
 
-
-
 </section><section data-markdown> 
 
 ## Wall-E
@@ -151,8 +153,6 @@ theme: sky
 - Wall-E is E.T. inverted
 - Wall-E is Dave inverted
 - Wall-E is the new Adam "coming down to the ground" (Peter Gabriel)
-
-
 
 </section><section data-markdown> 
 
@@ -170,7 +170,13 @@ theme: sky
 - Dave is human but transforms to superhuman
 - The Captain is sub-human (like a baby) but transforms _back_ to human -- see the Musical Cue
 
+
+</section><section>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSaGrbnEesg" frameborder="0" allowfullscreen></iframe>
+
+
+</section><section data-markdown> 
 
 ### The Captain is the new Adam
 
@@ -180,9 +186,9 @@ theme: sky
 
 
 
-</section><section data-markdown> 
+</section><section> 
 
-### Captain is the new Adam
+<h2> Captain is the new Adam</h2>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hscu7cc1_2Y" frameborder="0" allowfullscreen></iframe>
@@ -193,8 +199,6 @@ theme: sky
 ### 2 Minutes Left
 - Discussion
 - Your questions?
-
-
 
 
 
