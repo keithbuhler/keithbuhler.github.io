@@ -4,7 +4,7 @@ layout: slide
 theme: blood
 ---
 
-<section data-background="http://keithbuhler.com/images/background-walle.jpg"><!--Day 1 begin-->
+<section data-background=""><!--Day 1 begin-->
 <section data-background="http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/3481980_orig.png" data-markdown><!--Intro slide begin-->
 
 ## Human Nature in Film
