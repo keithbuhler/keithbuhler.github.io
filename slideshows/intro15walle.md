@@ -109,8 +109,6 @@ theme: sky
 
 </section><section> 
 
-<h3> The monolith </h3>
-
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=b75EpoF1W88" frameborder="0" allowfullscreen></iframe>
 
 
@@ -173,7 +171,7 @@ theme: sky
 
 </section><section>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qSaGrbnEesg" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/qSaGrbnEesg" frameborder="0" allowfullscreen></iframe>
 
 
 </section><section data-markdown> 
