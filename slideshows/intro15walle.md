@@ -70,8 +70,7 @@ theme: sky
 ### What about a pessimistic narrative? 
 
 - Inverts elements
-- Creation, redemption, fall
-- I.e., 
+- Creation, _redemption_, fall
 
 </section><section data-markdown> 
 
@@ -111,7 +110,7 @@ theme: sky
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=b75EpoF1W88" frameborder="0" allowfullscreen></iframe>
 
-
+![video](https://www.youtube.com/watch?v=b75EpoF1W88)
 
 </section><section data-markdown>
 
