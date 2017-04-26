@@ -52,8 +52,8 @@ sidebar:
 * [Week 11 Sexual Ethics](/slideshows/ethics11sexuality)
 * [Week 12 Abortion](/slideshows/ethics12abortion)
 * [Week 13 Euthanasia](/slideshows/ethics13euthanasia)
-* [Week 14 Animals]
-* [Week 15 Globalism]
+* [Week 14 Animals](/slideshows/ethics14animals)
+* [Week 15 Environemnt](/slideshows/ethics15environment)
 
 ## Intro to Philosophy, Asbury (2017)
 
@@ -68,8 +68,7 @@ sidebar:
 * [Week 11 Augustine](/slideshows/intro11augustine)
 * [Week 12 God and Evil](https://docs.google.com/presentation/d/1cbiG6MP_EJ-PXjxQlALRsfHAZYWX6zvUOR-s06UwWDk/edit)
 * [Week 13 Atheism](/slideshows/intro13atheism)
-* [Week 14 A Space Odyssey]
-* [Week 15 Wall-E](http://www.keithbuhler.com/slideshows/intro15walle#/)
+* [Week 14 Wall-E and 2001: A Space Odyssey](http://www.keithbuhler.com/slideshows/intro15walle)
 * [Week 16 Tree of Life]
 
 
@@ -91,5 +90,5 @@ sidebar:
 * [Week 15 Kubrick](https://docs.google.com/presentation/d/1hIzk8dfLircKW-9Yemd37OK4inNW3D-4-uov-Tj_qAQ/)
 * [Week 16 Malick](https://docs.google.com/presentation/d/1nP-FNHKbIAWb59OAdWaH4TQmRVMoJs_yy3cqAJEgCZ0/)
 
-## [CS Lewis, Asbury (2016)](/slideshows/lewis1intro)
+## [CS Lewis, Asbury (2016)](/slideshows/single-cslewis)
 

@@ -105,12 +105,12 @@ theme: sky
 - Atheism: Bad, Good, Bad
 - Atheism: Bad, Good... Better?
 
+![video](https://www.youtube.com/watch?v=b75EpoF1W88)
+
 
 </section><section> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=b75EpoF1W88" frameborder="0" allowfullscreen></iframe>
-
-![video](https://www.youtube.com/watch?v=b75EpoF1W88)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b75EpoF1W88" frameborder="0" allowfullscreen></iframe>
 
 </section><section data-markdown>
 
