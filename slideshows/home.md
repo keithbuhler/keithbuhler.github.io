@@ -80,7 +80,7 @@ theme: black
 
 </section><section data-markdown>
 
-#### They are so grateful for our community here in Kentucky who have become family to us.
+#### They are so grateful for our community here in Kentucky who have become family.
 
 ## They will miss you all.
 
@@ -88,7 +88,7 @@ theme: black
 </section><section data-markdown>
 
 
-### And to family we have missed so much….
+### And to family they have missed so much….
 
 # THE BUHLERS ARE COMING HOME!
 
