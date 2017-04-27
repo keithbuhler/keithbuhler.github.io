@@ -22,29 +22,20 @@ theme: black
 
 </section><section data-markdown>
 
-## We immediately began applying for jobs.
+## And immediately began applying for jobs.
 
 
 
 </section><section data-markdown>
 
 
-## We hoped to return to Cali.
+## They hoped to return to Cali.
 
 
 
 </section><section data-markdown>
 
-### We longed to be closer to family and friends there.
-
-
-
-</section><section data-markdown>
-
-
-
-
-# We prayed a lot.
+### They longed to be closer to family and friends there.
 
 
 
@@ -53,7 +44,7 @@ theme: black
 
 
 
-## We thought it just wouldn’t work to come back.
+# They prayed a lot.
 
 
 
@@ -62,7 +53,8 @@ theme: black
 
 
 
-### Then, in a few short weeks our prayers were answered.
+### They thought it just wouldn’t work... 
+
 
 
 </section><section data-markdown>
@@ -70,19 +62,27 @@ theme: black
 
 
 
-# We are moving back in Cali this June.
+#### Then, suddenly, their prayers were answered.
 
 
 </section><section data-markdown>
 
-## We are grateful to God for providing.
+
+
+
+### They are moving to California in June 2017.
 
 
 </section><section data-markdown>
 
-#### We are so grateful for our community here in Kentucky who have become family to us.
+#### They are so grateful to God for providing a dream job near family. 
 
-# We will miss you all.
+
+</section><section data-markdown>
+
+#### They are so grateful for our community here in Kentucky who have become family to us.
+
+## They will miss you all.
 
 
 </section><section data-markdown>
@@ -90,7 +90,7 @@ theme: black
 
 ### And to family we have missed so much….
 
-# WE ARE COMING HOME!
+# THE BUHLERS ARE COMING HOME!
 
 </section>
 </section>
