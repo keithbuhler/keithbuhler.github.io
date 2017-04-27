@@ -35,7 +35,7 @@ theme: black
 
 </section><section data-markdown>
 
-## We longed to be closer to family and friends there.
+### We longed to be closer to family and friends there.
 
 
 
@@ -53,7 +53,7 @@ theme: black
 
 
 
-# We thought it just wouldn’t work to come back.
+## We thought it just wouldn’t work to come back.
 
 
 
@@ -62,7 +62,7 @@ theme: black
 
 
 
-# Then, in a few short weeks our prayers were answered.
+### Then, in a few short weeks our prayers were answered.
 
 
 </section><section data-markdown>
@@ -75,14 +75,14 @@ theme: black
 
 </section><section data-markdown>
 
-# We are grateful to God for providing.
+## We are grateful to God for providing.
 
 
 </section><section data-markdown>
 
-# We are so grateful for our community here in Kentucky who have become family to us.
+#### We are so grateful for our community here in Kentucky who have become family to us.
 
-## We will miss you all.
+# We will miss you all.
 
 
 </section><section data-markdown>
