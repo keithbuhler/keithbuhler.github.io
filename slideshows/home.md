@@ -4,11 +4,10 @@ layout: slide
 theme: black
 ---
 
-
+<section>
 <section data-markdown>
 
 # Keith and Lindsay left California in July of 2012.
-
 
 </section><section data-markdown>
 
@@ -93,4 +92,5 @@ theme: black
 
 # WE ARE COMING HOME!
 
-</section><section data-markdown>
+</section>
+</section>
