@@ -4,7 +4,9 @@ layout: single
 author_profile: true
 permalink: /README/
 header:
-      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: http://parks.lacounty.gov/wps/wcm/connect/7b7d5069-f3da-4a61-9088-d15af9daf9b6/Castaic+Lake+crop.jpg?MOD=AJPERES&CACHEID=7b7d5069-f3da-4a61-9088-d15af9daf9b6
 
 ---
 

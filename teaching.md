@@ -6,7 +6,7 @@ sidebar:
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: https://therebelkitchen.files.wordpress.com/2012/10/barleycove-west-cork.jpg
+  overlay_image: http://parks.lacounty.gov/wps/wcm/connect/7b7d5069-f3da-4a61-9088-d15af9daf9b6/Castaic+Lake+crop.jpg?MOD=AJPERES&CACHEID=7b7d5069-f3da-4a61-9088-d15af9daf9b6
   caption: 
 permalink: /teaching/
 feature_row:
