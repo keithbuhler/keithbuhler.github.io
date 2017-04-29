@@ -5,7 +5,7 @@ permalink: /cv/
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: http://parks.lacounty.gov/wps/wcm/connect/7b7d5069-f3da-4a61-9088-d15af9daf9b6/Castaic+Lake+crop.jpg?MOD=AJPERES&CACHEID=7b7d5069-f3da-4a61-9088-d15af9daf9b6
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
   caption: 
 sidebar: 
       nav: 
