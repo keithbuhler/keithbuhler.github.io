@@ -4,11 +4,7 @@ layout: splash
 permalink: /fun/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: nasmith-banner.jpeg
-  caption: "[Image Credit: **Nasmith**](http://www.tednasmith.com/)"
-excerpt: "This sandbox includes various projects -- complete or in development -- that I am playing with. Enjoy!"
+    image: http://keithbuhler.com/images/nasmith-banner.jpeg
 intro: 
   - excerpt: ''
 feature_row:
@@ -79,6 +75,8 @@ feature_row3:
 
 ---
 
+The "Fun" page is a sandbox for various projects -- complete or in development -- that I am playing with. Enjoy!
+
 <br>
 
 {% include feature_row id="intro" type="center" %}
@@ -120,3 +118,4 @@ feature_row3:
 
 
 
+[Image Credit: **Nasmith**](http://www.tednasmith.com/)
