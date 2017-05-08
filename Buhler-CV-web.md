@@ -3,14 +3,7 @@ layout: single
 title: Curriculum Vitae 2017
 permalink: /cv/
 header:
-<<<<<<< Updated upstream
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
-  caption: 
-=======
-      image: https://therebelkitchen.files.wordpress.com/2012/10/barleycove-west-cork.jpg
->>>>>>> Stashed changes
+      image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
 sidebar: 
       nav: 
 --- 
