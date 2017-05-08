@@ -4,10 +4,7 @@ layout: single
 author_profile: true
 permalink: /README/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
-
+      image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
 ---
 
 This site is built more or less from scratch in plain text. Jekyll transforms the Markdown-styled text into HTML and Github hosts it for me. You can view and even duplicate the source code [here](http://bit.ly/2lYmQsa).

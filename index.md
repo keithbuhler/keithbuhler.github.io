@@ -2,10 +2,7 @@
 layout: single
 title:  Welcome
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
-  caption: 
+      image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
 author_profile: true
 permalink: 
 ---
