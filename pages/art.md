@@ -2,7 +2,6 @@
 permalink: /art
 ---
 
-<!DOCTYPE html>
 <html>
 <title>Some Art of Keith Buhler</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -394,7 +393,6 @@ body, html {
 
 <!-- Footer -->
 <footer class="w3-center w3-dark-grey w3-padding-48 w3-hover-black">
-  <p><a href="/README"> © 2017 Keith Buhler </a> | Layout powered by <a href="http://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">W3</a></p>
 </footer>
  
 <!-- Add Google Maps -->
