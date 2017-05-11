@@ -1,5 +1,5 @@
 # Site settings
- url      : https://www.keithbuhler.com
+ url      : http://www.keithbuhler.com
  baseurl  : 
  locale:         "en"
  title:          "keithbuhler.com"
