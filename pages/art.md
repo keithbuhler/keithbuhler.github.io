@@ -1,3 +1,7 @@
+---
+permalink: /art
+---
+
 <!DOCTYPE html>
 <html>
 <title>Some Art of Keith Buhler</title>
