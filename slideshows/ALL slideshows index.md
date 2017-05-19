@@ -14,7 +14,7 @@ sidebar:
 
 ## Business Ethics, UK (2017)
 
-* [Week 1 Syllabus](/slideshows/business1intro)
+* [Week 1 Syllabus](/slideshows/business1syllabus)
 * [Week 1 Truth](/slideshows/business1truth)
 * [Week 2 Methods](http://www.keithbuhler.com/slideshows/business2methods)
 * [Week 3 Ethical Theories 1 -- Deontology, Utilitarianism](/slideshows/business3theories1)
