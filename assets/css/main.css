@@ -730,7 +730,7 @@ a:hover .archive__item-subtitle{text-decoration:underline; color:#3b7aae}
 }
 .sidebar{clear:both;margin-bottom:1em}
 .sidebar::after{clear:both;content:"";display:table}
-@media (min-width: 64em){.sidebar{width:15.25424%;float:left;margin-right:1.69492%;opacity:0.75;-webkit-transition:opacity 0.2s ease-in-out;transition:opacity 0.2s ease-in-out}
+@media (min-width: 64em){.sidebar{width:95.25424%;float:left;margin-right:1.69492%;opacity:0.75;-webkit-transition:opacity 0.2s ease-in-out;transition:opacity 0.2s ease-in-out}
 .sidebar:hover{opacity:1}
 }
 @media (min-width: 80em){.sidebar{padding-right:0}
