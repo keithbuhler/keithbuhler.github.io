@@ -1,63 +1,87 @@
 ---
-layout: single
-title:  Welcome
-header:
-      image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
-author_profile: true
+layout: page
+title: 
 permalink: 
+header:
+  image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+  
+related: 
 ---
-
-I'm currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
-
-My primary research interest is traditional virtue ethics. I put Aristotelian ethics in dialogue with contemporary ethical and metaphysical naturalism to see if it's possible to provide a scientifically respectable articulation of the age-old view that virtue is 'natural.'  More broadly, I have a long-standing interest in metaphysics, philosophy of mind, Plato, and philosophy of religion. 
-
-I completed my PhD in philosophy under the direction of David Bradshaw. I also hold a master's degree in Orthodox Theology from the University of Balamand and a bachelor's in Humanities from Biola University.
- 
 <br>
 
-# Research 
-
-![wither](http://www.keithbuhler.com/images/wither.jpg)
-
-My research centers on naturalism and its rivals. Currently, I am developing a novel form of ethical naturalism that builds on Philippa Foot and Michael Thompson's concept of natural norms. My [dissertation](/phd), titled "Becoming What We Are", defends Philippa Foot's ethical naturalism and criticizes that of John McDowell, whose conception of 'nature' I argue is contradictory. Virtue and especially practical wisdom are *natural*  for human beings (in a sense that I explain in detail). My future work puts Foot's "secular natural law theory" into conversation with religious theorists such as Mark Murphy, John Finnis, and Tristram Englehardt. 
-
-- [Some draft papers at Academia.edu](https://uky.academia.edu/KeithBuhler){:target="_blank"}
-- [And a paper arguing that we should remain agnostic about causal closure](/publications)
-
-
+*"The Buhler Report" is a blog about timeless wisdom and current events in academic philosophy, classical education, and more. The aim is to enlighten and entertain, to please and instruct, to "mix the pleasant with the useful." Reader comments are read and appreciated; I look forward to the dialog!*
 
 <br>
 
 
-# Teaching
+{% for post in site.posts limit:8 %}
+<div>
+<center>
+<h1><font color="gray"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></font></h1>
+<span class="time"> <font color="gray" font-size="2em"><i> {{ post.date | date: "%m.%d.%Y" }} / {{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if post.categories != empty and post.subheadline != NULL %} – {% endif %}{{ post.subheadline }} </i></font></span> 
+</center>
+<br>
+{{ post.content | markdownify | split:'<!--more-->' | first }}
+{% if post.content contains '<!--more-->' %}
+<a href="{{ post.url | prepend: site.baseurl }}"><i>Read the rest... </i></a><br><br>
+{% endif %}
 
-![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
+</div>
 
-Over the last 15 years, I've helped almost a thousand students of all ages to learn and grow. 
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
+{% endfor %}
 
-- [Courses taught, syllabi, student feedback](/teaching)
 
+<br> 
+
+
+
+<center>
+
+
+<h2> <a href="/categories"> Categories </a> </h2>
+
+</center>
+
+* [Politics](/categories/#Politics-ref)
+* [Philosophy](/categories/#Philosophy-ref)
+* [Classical Education](/categories/#Classical education-ref)
+
+<center>
+
+<h2> Popular Posts</h2> 
+
+</center>
+
+- 04.01.2017 --  [**A Recent Chapter on Deification**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/04/01/deification.html) *His article clarifies what the notion of “becoming god” amounts to, and explains the various species of deifiction: political deification, deification through beauty, deification as magic, deification as imitation, Christian deification, self-deification, deification through Gnosticism. This is all historically informative and very interesting; the kicker is that he accurately covers our own fashionable form of deification: techno-deification.*
+
+- 02.23.2017 -- [**Reflections on Graduate Student Stipends**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/02/23/Reflections-on-Philosophy-Graduate-School-Stipends.html) -- *Now that I am a postdoc scholar at the University of Kentucky (Go ‘Cats!), I am reflecting back on my experience as a Teaching Assistant. One thing that was hard to discover, perhaps understandably, was the expected “stipend” of graduate teaching assistants at other universities I applied to. For what it’s worth, I saved the information about our stipend. My department preferred that it not be public. But count your lucky stars you aren’t as poor as I was in 2012.*
+
+
+- 12.17.2016 -- [**Glowing Fish Analogy**](http://www.keithbuhler.com/buhlerreport/philosophy/2016/12/17/glowing-fish-analogy.html) -- *A: There are no such things as glowing fish. B: But I saw a glowing fish, so they must exist. A: You can’t have one seen one, because they don’t exist. B:...*
+
+- 12.29.2016 -- [**This Classic Text Explains why Classical Education is Best**](http://www.keithbuhler.com/buhlerreport/yalereport-post/) -- *If you haven’t read the Yale Repot, it is very good. The “Yale Report of 1828” is one of the “most influential documents in the history of American higher education” according to R.J. O’Hara. It is still a pleasure to read, and its influence should not wane.*
+
+- 12.07.2016 -- [**Force Awakens Wasn’t Just a Copy of New Hope**](http://www.keithbuhler.com/buhlerreport/viicopyiv) -- *It’s been about a year since Star Wars: The Force Awakens came out. While we wait for Rogue One, it’s a good time to reflect. When Episode VII first came out...*
+
+- 11.09.2016 -- [**Mini Exit Survey – Student Feelings about Trump**](http://www.keithbuhler.com/buhlerreport/politics/2016/11/09/student-trump-feelings2.html) --  *I teach 5 classes at two universities in Kentucky. So, after reading a lot about students on campus feeling terrible or unsafe after a Trump election victory...*
+
+
+
+<center>
 
 <br>
 
-# Testimonials
+<h3> <a href="/archive"> Archive </a> </h3>
 
-- "A good-conversation machine." -- [Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
+</center>
 
-* "Makes philosophy come alive..." -- [Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+*The opinions expressed on this site are the author’s alone and do not represent the views of any organizations he is affiliated with.*
 
-*  "Dynamism, acumen, and compassion..."   -- [Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
-
-* "Enthusiastic and personable... clear and precise" -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
-
-* "Give[s] me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
-
-
-<br>
-
-
-- [*Student feedback here.*](/teaching)
-
+<!-- Code for posting just an excerpt (with no image) of each post. Put under heading. {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}-->
 

@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: page
 title: Teaching Information
 sidebar:
     nav: 
 header:
-      image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
+      image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 permalink: /teaching/
 feature_row:
   - image_path: http://www.keithbuhler.com/images/syllabus-334.png
@@ -29,9 +29,13 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-{% include toc %}
+![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
-<br>
+<br> 
+
+
+Over the last 15 years, I've helped hundreds of students of all ages to learn and grow. My classroom culture is suffused with humor. Students explore big ideas by carefully analyzing great books and by engaging in real conversation. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
+
 
 # Courses Taught
 
@@ -77,45 +81,44 @@ feature_row:
 # Current Courses
 
 {% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
 
 
 
 <br>
 
+<br>
 
-# Testimonials
 
-* "Insight that allows you to do more than learn, it allows you to grow." -- Student 2009
 
-* "My writing and thinking ability have both improved" Student 2010
 
-* "My Mom says that I talk better and I am more rational about things than when I started." -- Student 2011
+## Student Comments
 
-* "I don't think a class went by where I didn't laugh"  -- Student 2016
+* "His insight allows you to do more than learn, it allows you to grow." -- Student 2009
 
-* "Constructed a safe place to express opinions"  -- Student 2016
+* "My Mom says I am more rational than when I started." -- Student 2011
 
-* "None of his assignments are busy work" -- Student 2016
+* "I don't think a class went by where I didn't laugh."  -- Student 2016
 
-* "Engaging and mind-stretching" -- Student 2016
+* "Constructed a safe place to express opinions."  -- Student 2016
+
+* "None of his assignments are busy work." -- Student 2016
+
+* "Engaging and mind-stretching." -- Student 2016
  
 * "This is what college is SUPPOSED to be." Student 2017 
 
 * "Created Gandalf out of clay, cartwheeled into a trash can, and showed us his one finger push up. Oh and he taught Health Care Ethics pretty well too. 10/10.” 
 
-* "Very theatrical about philosophy" -- Student 2016
+* "Very theatrical about philosophy." -- Student 2016
 
-* "Makes us all feel heard, while challenging our views" -- Student 2016
+* "Makes us all feel heard, while challenging our views." -- Student 2016
 
-* "Understood the struggle of learning Philosophy at 8:00am" -- Student 2016
+* "Understood the struggle of learning Philosophy at 8:00am." -- Student 2016
 
 * "None of his assignments are busy work." -- Student 2016
 
 * "I learned more from this class than any I have taken before."  -- Student 2016
-
-* "Probably the best Prof I have ever had [at Asbury]." -- Student 2016
 
 * "By far the best instructor I have ever had here at UK." -- Student 2016
 
@@ -123,12 +126,7 @@ feature_row:
 
 
 
-
-<br>
-<br>
-
-
-# Evaluation Data
+# Student Evaluation Data
 
 
 ## 2016 

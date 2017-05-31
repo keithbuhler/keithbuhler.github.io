@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /README/
 header:
-      image: https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg
+      image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 ---
 
 This site is built more or less from scratch in plain text. Jekyll transforms the Markdown-styled text into HTML and Github hosts it for me. You can view and even duplicate the source code [here](http://bit.ly/2lYmQsa).

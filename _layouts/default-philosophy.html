@@ -2,8 +2,6 @@
 layout: compress
 ---
 
-{% include base_path %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
@@ -16,12 +14,24 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead-philosophy.html %}
 
+    <div class="page__hero" style=" ">
+ 
+   <a href="http://www.keithbuhler.com/philosophy/"> <img src="http://bellarmine.lmu.edu/media/lmubellarminesite/bcladepartments/philosophy/philosophyimages/philosophy-splash-1920x7602.jpg"></a>
+  </div>
+
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+<div class="page__footer">
+<footer>
+<div class="page__footer-follow" align="center">
+  <ul class="social-icons">
+      <li><a href="/README"><i class="fa fa-sitemap" aria-hidden="true"></i> About This Site</a></li>
+      <li><a href="/privacy"><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i>Privacy</a></li>
+      <li><a href="/contact"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>Contact </a></li>
+      <li><a href="/sandbox"><i class="fa fa-inbox" aria-hidden="true"></i> Sandbox </a></li>
+      
+  </ul>
+</div>
       </footer>
     </div>
 

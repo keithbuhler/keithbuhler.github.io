@@ -3,7 +3,7 @@
  baseurl  : 
  locale:         "en"
  title:          "keithbuhler.com"
- description:    "The professional site of Keith Buhler, philosopher, educator, and writer -- including coaching for philosophy students."
+ description:    "The professional site of Keith Buhler, philosopher, classical educator, and writer."
  comments: 
   provider:       "facebook"
   facebook: 
@@ -125,18 +125,13 @@ collections:
 defaults:
   - scope:
       path: "" # empty string for all files
-      values:
-        read_time: false
-        comments: true
-        share: false
-        related: false  
-        author_profile: true
-        layout: "single"
-        words_per_minute: 200
+      type: 
+    values: 
+      layout: "page"
   - scope:
       path: "posts"
       type: ""
-      layout: "single" # overrides previous default layout
+      layout: "post" # overrides previous default layout
       values:
         read_time: false
         comments: true
@@ -148,12 +143,12 @@ defaults:
       path: "slideshows"
       type: "slideshows"
     values:
-      layout: "slides"
+      layout: "slide"
 
-defaults:
+# defaults:
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single 
+ # - scope:
+ #     path: ""
+ #     type: pages
+ #   values:
+ #     layout: single 

@@ -1,21 +1,73 @@
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu" align="center">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://www.keithbuhler.com/">Keith Buhler</a></li>
-            {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = site.url | append: site.baseurl %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" {% if page.url=="{{ domain }}{{ link.url }}" %} class="active"{% endif %}>{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div> <!--masthead__menu-->
-  </div><!--masthhead__inner-wrap-->
-</div> <!--masthead-->
+
+<header class="navbar navbar-inverse navbar-fixed-top docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a href="{{ '/' | prepend: site.baseurl }}" class="navbar-brand"><img src="http://www.keithbuhler.com/images/signature-transparent.svg"></a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+
+  <!--everything in this navbar-right goes to the left, next to the icon-->
+      <ul class="nav navbar-nav">  
+      </ul>
+
+<!--everything in this navbar-right goes to the right, next to the icon-->
+      <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">BLOG<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="/">Buhler Report Home</a></li>
+            <li><a href="/categories/">Categories</a></li>
+            <li><a href="/archive/">Archive</a></li>           
+          </ul>
+        </li>
+
+
+          <li><a href="/about/">ABOUT</a></li>
+      
+    
+          <li><a href="/CV/">CV</a></li>
+
+     <li class="dropdown">
+          <a href= "/philosophy/" class="dropdown-toggle" data-toggle="dropdown">PHILOSOPHY<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+          <li><a href="/research/">Research</a></li>
+          <li><a href="/teaching/">Teaching</a></li>  
+          <li><a href="/philosophy/">Student coaching</a></li>
+          <li><a href="/philosophy-3-major/">Why study philosophy?</a></li>
+
+
+          </ul>
+    </li>
+      <li><a href="/books/">BOOKS</a></li>  
+
+<!-- This is the generic code for a drop-down menu item
+<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Parent<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a rel="nofollow" target="_blank" href="{{site.github}}">Child 1 </a></li>
+            <li><a rel="nofollow" target="_blank" href="{{site.github}}">Child 2</a></li>
+          </ul>
+        </li>
+-->
+
+
+<!--- This will be a classical education tab when it's out of beta
+   <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">EDUCATION<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="/classical-education/">What is classical education?</a></li>
+            <li><a href="/classical-resources/">Classical ed resources</a></li> 
+          </ul>
+        </li>
+-->
+       
+
+      </ul>
+    </nav>
+  </div>
+</header>

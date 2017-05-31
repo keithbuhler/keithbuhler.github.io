@@ -1,0 +1,89 @@
+#Future "Main" links, copying Roger Scruton
+#$ future:
+#$   - title: "HOME (Front page of blog, remove. Add posts by category and year)"
+#$     url: http://keithbuhler.com/
+#$   - title: "ABOUT"
+#$     url: http://keithbuhler.com/about
+       children: 
+          - title: "CV"
+            url: http://www.keithbuhler.com/cv
+          - title: "Bio"
+#$   - title: "BOOKS"
+#$     url: http://keithbuhler.com/books (https://www.amazon.com/Sola-Scriptura-Dialogue-Keith-Buhler/dp/1475270860/ref=sr_1_11?ie=UTF8&qid=1351488005&sr=8-11&keywords=sola+scriptura)
+#$   - title: "RESEARCH AND TEACHING (scholarship, books)"
+#$     url: http://keithbuhler.com/scholarship
+       children: 
+        - title: "PAPERS"
+          url: http://www.keithbuhler.com/publications
+        - title: "TEACHING"
+          url: http://www.keithbuhler.com/teaching
+#$   - title: "WRITINGS (articles, lectures, speeches)"
+#$     url: http://keithbuhler.com/writing-links
+#$   - title: "PHILOSOPHY PORTAL
+#$     url: http://keithbuhler.com/students
+#$   - title: "SANDBOX (sandbox, call it sandbox probably)"
+#$     url: http://www.keithbuhler.com/fun
+
+
+
+# Side nav for Philosophy Portal
+philosophy:
+  - title: "Start Here"
+    url: http://www.keithbuhler.com/philosophy
+    children:
+      - title: "Syllabi"
+        url: http://www.keithbuhler.com/syllabi
+      - title: "Logic 101"
+        url: http://www.keithbuhler.com/logic
+      - title: "Discussion 101"
+        url: http://www.keithbuhler.com/discussion101
+      - title: "Slideshows"
+        url: http://www.keithbuhler.com/slideshows
+  - title: "How to Succeed"
+    url: http://www.keithbuhler.com/philosophy-class
+    children:
+      - title: "Reading"
+        url: http://www.keithbuhler.com/reading
+      - title: "Participation"
+        url: http://www.keithbuhler.com/participation
+      - title: "Disputations"
+        url: http://www.keithbuhler.com/disputations
+      - title: "Disputation Topics"
+        url: http://www.keithbuhler.com/disputation-topics
+      - title: "Critical Readings"
+        url: http://www.keithbuhler.com/critical-reading
+
+      - title: "Extra Credit"
+        url: http://www.keithbuhler.com/extra-credit
+  - title: "After Class"
+    children:
+      - title: "What to Read Next"
+        url: http://www.keithbuhler.com/philosophy-6-next
+      - title: "Should I Major?"
+        url: http://www.keithbuhler.com/philosophy-3-major
+      - title: "What about Grad School?" 
+        url: http://www.keithbuhler.com/philosophy-7-profession
+      - title: "Contact me"
+        url: http://www.keithbuhler.com/contact
+  - title: "Fun Stuff"
+    url: http://www.keithbuhler.com/fun
+
+
+
+
+# Buhler Report Future
+#$   - title: Buhler Report
+#$       urL: 
+#$   - title: Categories
+        url: 
+        children:
+            - title: Philosophy
+#$              urL: 
+#$          - title: Classical Education
+#$             urL: 
+#$          - title: Politics
+#$               urL: 
+#$   - title: Archive (with categories, tags)
+#$       urL: 
+#$   - title: About
+#$       urL: 
