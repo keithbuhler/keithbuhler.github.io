@@ -2,12 +2,41 @@
 layout: compress
 ---
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+    
+  <!-- Search Engine Optimization -->
+
+  {% include seo.html %}
+
+<!-- XML feed -->
+<link href="http://keithbuhler.com/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<!-- Favicon -->
+<link rel="icon" sizes="16x16 32x32" href="/images/favicon.ico">
+        <!--[if IE]><link rel="shortcut icon" href="/path/to/favicon.ico"><![endif]-->
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<!-- Javascript -->
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- Stylesheets -->
+
+<link rel="stylesheet" href="http://www.keithbuhler.com/blog7-lessmore/styles/css/index.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora|Raleway|Lato:light|Playfair+Display">
+<meta http-equiv="cleartype" content="on">
+
+</head>
+
 
   <body>
 
