@@ -25,12 +25,15 @@ B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
 Postdoctoral Scholar, University of Kentucky,  Spring 2017    
 Instructor of Philosophy, Asbury University, 2013-2017       
 Director of High School Studies, Veritas Academy, 2013-2014   
-Master Tutor, Torrey Academy, 2010-2012   
-Tutor, Torrey Academy, 2007-2010  
+Master Tutor, Torrey Academy, 2010-2012     
+Tutor, Torrey Academy, 2007-2010    
+Lecturer, Wheatstone Academy, 2006-2011    
+Assistant Director, Wheatstone Academy, 2004-2005  
+
 
 ### RESEARCH AREAS
-Specialization in Ethics and the History of Philosophy.     
-Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion. 
+Areas of specialization: Ethics and the History of Philosophy.     
+Areas of competence:  Philosophy of Mind, and Philosophy of Religion. 
 
 
 ### WORKS IN PROGRESS
@@ -65,6 +68,18 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 
 11. Philosophy of Science 
 
+*Secondary School*
+
+12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
+12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
+13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
+14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
+15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
+16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
+17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
+18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
+19. ESL Tutor  (Etum Academy, CA 2010-2012)
+20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
 
 
 
@@ -90,40 +105,6 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 3. Session Chair, Ian Ramsey Centre Conference, Oxford University, 2014.
 2. Comments on Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics," Midsouth Philosophy Conference, Rhodes College, 2014.
 4. Referee for Kentucky Graduate School Conference submissions, 2013.
-
-
-### DISSERTATION
-**Title**: *Becoming What We Are: Virtue and Practical Wisdom as Natural Ends*   
-**Committee:** David Bradshaw (Chair), Dan Breazeale, Stefan Bird-Pollan, Mark Kightlinger      
-**Abstract (Brief):** This dissertation defends moral realism and ethical naturalism. I dispute John McDowell's conception of "nature" in his version of neo-Aristotelian ethical naturalism and endorse Philippa Foot's conception. Her view is true even on a broadly construed scientific naturalism.  I defend Footian "organic" naturalism by appealing to generic propositions in linguistic theory to show that science trades in fundamental normative concepts such as life forms and functions. 'Human being' and 'practical reasoning' are terms we use to capture generic life forms and functions which have scientific and ethical import. Building with generics, we can construct scientifically respectable utterances such as that human beings are practical, rational primates and good human beings exemplify virtues, especially practical wisdom. I offer my own contemporary definitions of 'virtue' and 'practical wisdom' and explore in more detail the view that practical reasoning is an intrinsically value-laden activity of identifying the good or the to-be-pursued. In short, virtue and practical wisdom are natural ends for human beings. We are practical rational animals capable of reasoning, so we ought to become practically wise, despite varying abilities and life circumstances. The life of virtue is the life spent becoming what we are. 
-
-
-
-
-
-
-### SECONDARY SCHOOL TEACHING
-
-12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
-12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
-13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
-14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
-15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
-16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
-17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
-18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
-19. ESL Tutor  (Etum Academy, CA 2010-2012)
-20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
-
-
-### ADMINISTRATION POSITIONS
-1. Director of High School Studies (Veritas Academy, 2013-2014)
-2. Master Tutor (Torrey Academy, 2010-2012)
-3. Lecturer (Wheatstone Academy, 2006-2011)
-6. Assistant Director (Wheatstone Academy, 2004-2005)
-
-
-
 
 
 ### AWARDS AND HONORS
