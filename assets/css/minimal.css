@@ -728,21 +728,14 @@ a:hover .archive__item-subtitle{text-decoration:underline; color:#3b7aae}
 .feature__item--center .archive__item-teaser{margin:0 auto;width:40.67797%}
 .feature__item--center .archive__item-body{margin:0 auto;width:57.62712%}
 }
-.sidebar{clear:both;margin-bottom:1em}
-.sidebar::after{clear:both;content:"";display:table}
-@media (min-width: 64em){.sidebar{width:95.25424%;float:left;margin-right:1.69492%;opacity:0.75;-webkit-transition:opacity 0.2s ease-in-out;transition:opacity 0.2s ease-in-out}
-.sidebar:hover{opacity:1}
-}
-@media (min-width: 80em){.sidebar{padding-right:0}
-}
 .sidebar h2,.sidebar h3,.sidebar h4,.sidebar h5,.sidebar h6{margin-bottom:0;font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
 .sidebar h3,.sidebar h4{font-size:1em}
 .sidebar p,.sidebar li{font-family:'Lato',"San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;font-size:0.75em;line-height:1.5}
 .sidebar img{width:100%}
-.sidebar__right2{margin-bottom:1em}
-@media (min-width: 64em){.sidebar__right2{position:relative;float:right;width:250px;margin-left:2.54237%;z-index:10}
+.sidebar__right{margin-bottom:1em}
+@media (min-width: 64em){.sidebar__right{position:relative;float:right;width:250px;margin-left:2.54237%;z-index:10}
 }
-@media (min-width: 80em){.sidebar__right2{width:300px}
+@media (min-width: 80em){.sidebar__right{width:300px}
 }
 .author__avatar{display:table-cell;vertical-align:top;width:36px;height:36px}
 @media (min-width: 64em){.author__avatar{display:block;width:auto;height:auto}
