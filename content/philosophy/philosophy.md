@@ -1,6 +1,6 @@
 ---
 title: Philosophy Portal
-layout: default-philosophy
+layout: philosophy
 author_profile: false
 sidebar:
   nav: philosophy
