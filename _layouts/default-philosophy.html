@@ -2,64 +2,26 @@
 layout: compress
 ---
 
-  <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    
-  <!-- Search Engine Optimization -->
-
-  {% include seo.html %}
-
-<!-- XML feed -->
-<link href="http://keithbuhler.com/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
-<!-- Favicon -->
-<link rel="icon" sizes="16x16 32x32" href="/images/favicon.ico">
-        <!--[if IE]><link rel="shortcut icon" href="/path/to/favicon.ico"><![endif]-->
-
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-<!-- Javascript -->
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- Stylesheets -->
-
-<link rel="stylesheet" href="http://www.keithbuhler.com/blog7-lessmore/styles/css/index.css">
-<link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora|Raleway|Lato:light|Playfair+Display">
-<meta http-equiv="cleartype" content="on">
-
-</head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead-philosophy.html %}
 
-    <div class="page__hero" style=" ">
- 
-   <a href="http://www.keithbuhler.com/philosophy/"> <img src="http://bellarmine.lmu.edu/media/lmubellarminesite/bcladepartments/philosophy/philosophyimages/philosophy-splash-1920x7602.jpg"></a>
-  </div>
-
     {{ content }}
 
-<div class="page__footer">
-<footer>
-<div class="page__footer-follow" align="center">
-  <ul class="social-icons">
-      <li><a href="/README"><i class="fa fa-sitemap" aria-hidden="true"></i> About This Site</a></li>
-      <li><a href="/privacy"><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i>Privacy</a></li>
-      <li><a href="/contact"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>Contact </a></li>
-      <li><a href="/sandbox"><i class="fa fa-inbox" aria-hidden="true"></i> Sandbox </a></li>
-      
-  </ul>
-</div>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
       </footer>
     </div>
 
