@@ -44,17 +44,18 @@ related:
 <center>
 
 
-<h2> <a href="/categories"> Categories </a> </h2>
+<h1> <a href="/categories"> Categories </a> </h1>
 
 </center>
 
-* [Politics](/categories/#Politics-ref)
 * [Philosophy](/categories/#Philosophy-ref)
 * [Classical Education](/categories/#Classical education-ref)
+* [Politics](/categories/#Politics-ref)
+
 
 <center>
 
-<h2> Popular Posts</h2> 
+<h1> Popular Posts</h1> 
 
 </center>
 
@@ -77,7 +78,10 @@ related:
 
 <br>
 
-<h3> <a href="/archive"> Archive </a> </h3>
+<h1> <a href="/archive"> Archive </a> </h1>
+
+<br>
+<br>
 
 </center>
 
