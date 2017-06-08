@@ -6,27 +6,6 @@ sidebar:
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 permalink: /teaching/
-feature_row:
-  - image_path: http://www.keithbuhler.com/images/syllabus-334.png
-    alt: "Business Ethics"
-    title: "Business Ethics"
-    excerpt: "PHI 334 at UK, 9am and 11am, MWF."
-    url: "http://www.keithbuhler.com/business"
-    btn_label: "Syllabus"
-    btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/anderson-ecce-homo2.jpg
-    alt: "Morality and Society"
-    title: "Morality and Society"
-    excerpt: "PHI 130 at UK 2pm, MWF."
-    url: "http://www.keithbuhler.com/ethics"
-    btn_label: "Syllabus"
-    btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/syllabus-200.png
-    title: "Philosophy"
-    excerpt: "PHL 200 at Asbury 8am, T/Th"
-    url: "http://www.keithbuhler.com/introduction"
-    btn_label: "Syllabus"
-    btn_class: "btn--inverse"
 ---
 
 ![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
@@ -37,7 +16,7 @@ feature_row:
 Over the last 15 years, I've helped hundreds of students of all ages to learn and grow. My classroom culture is suffused with humor. Students explore big ideas by carefully analyzing great books and by engaging in real conversation. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
 
 
-# Courses Taught
+## Courses Taught
 
 *University of Kentucky*   
 
@@ -78,18 +57,6 @@ Over the last 15 years, I've helped hundreds of students of all ages to learn an
 <br>
 <br>
 
-# Current Courses
-
-{% include feature_row id="intro" type="center" %}
-{% include feature_row %}
-
-
-
-<br>
-
-<br>
-
-
 
 
 ## Student Comments
@@ -125,6 +92,9 @@ Over the last 15 years, I've helped hundreds of students of all ages to learn an
 
 <br> 
 
-* [*More raw and real student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
-* [A teaching statement](/teaching-statement)
+## More Info
+
+* [*Raw and real student reviews at RateMyProfessors*](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1822771)
+* [*A teaching statement*](/teaching-statement)
+* [*Student evaluation data*](/student-evals)
 
