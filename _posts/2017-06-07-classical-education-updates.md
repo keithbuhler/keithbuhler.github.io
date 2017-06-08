@@ -1,7 +1,7 @@
 ---
-title:  
+title:  Founders Academy (Texas) receives award from Hillsdale College
 categories: [Classical education]
-tags: []
+tags: [classical education]
 permalink: 
 excerpt_separator: <!--more-->
 layout: post
@@ -9,12 +9,11 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---
 
-![header image](http://www.keithbuhler.com/images/founders.jpg)
+![header image](http://www.keithbuhler.com/images/founders.png)
 
+[SAT PR News reports](http://www.satprnews.com/2017/05/31/founders-classical-academy-named-2017-recipient-of-henry-salvatori-prize-for-excellence-in-teaching/) that Founders Classical Academy in Leander, Texas will receive $25,000 from Hillsdale College as recognition of its "excellence in teaching."
 
-SAT PR News reports that Founders Classical Academy in Leander, Texas will receive $25,000 from Hillsdale College as recognition of its "excellence in teaching."
-
-Hillsdale gives out the Henry Salvatori Prize for Excellence in Teaching each year to a public or private school that " exemplifies the principles of a classical liberal arts education."
+Hillsdale gives out the Henry Salvatori Prize for Excellence in Teaching each year to a public or private school that "exemplifies the principles of a classical liberal arts education."
 
 Founders is a young charter school in Texas. The charter system is booming in places like California ([Intellectual Virtues Academy](http://www.ivalongbeach.org/)) Texas ([Aristoi Academy](http://www.aristoiclassical.org/)) and Arizona ([Great Hearts Academy](http://www.greatheartsamerica.org/)) and others. This award goes to show that public support for good teaching in a public context will be recognized and awarded. 
 
@@ -28,3 +27,4 @@ This mission is pretty close to what public schools and universities used to str
 
 >We stand against many of the trends that have overtaken American education for the sake of providing something increasingly rare: an education that is good for its own sake. At Founders Classical Academy, we believe that a liberal education in the sciences and the humanities is inherently good—something worth having apart from the many good things that can come from it. 
 
+Congratulations to Founders and bravo for executing this mission for the good of its students and the good of society. To learn more, [explore their website.](https://responsiveed.com/foundersleander)
