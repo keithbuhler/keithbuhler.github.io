@@ -37,10 +37,10 @@ feature_row2:
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-writings.png
-    alt: "Writings"
-    title: "Writings"
-    excerpt: "Fiction, poetry, and screenplays."
-    url: "http://www.keithbuhler.com/writings"
+    alt: "Unpublished Writings"
+    title: "Unpublished"
+    excerpt: "Fun scraps of fiction, poetry, and screenplays that have yet to see the light of day"
+    url: "http://www.keithbuhler.com/unpublished-writings"
     btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-speaking.png
@@ -74,7 +74,7 @@ feature_row3:
 
 ---
 
-The Sandbox holds a bevy of fun projects I'm playing with, whether they are complete or in development. ([Image Credit: **Ted Nasmith**](http://www.tednasmith.com/))
+The Sandbox is a place for a bevy of fun projects I'm playing with, whether they are complete or in development. ([Image Credit: **Ted Nasmith**](http://www.tednasmith.com/))
 
 <br>
 
@@ -95,8 +95,8 @@ The Sandbox holds a bevy of fun projects I'm playing with, whether they are comp
 
 - [Is Philosophy a Science?](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences. 
 - [The Yale Report of 1828 Ebook](http://www.keithbuhler.com/yalereport) -- Why this classic statement of the importance of Greek and Latin languages is still relevant today (Draft 1)
-- [The Buhler Report YouTube Channel](https://www.youtube.com/channel/UC9HkYtB0VI6kwDmnmNgLr3A) -- For timeless wisdom and current events. 
-- [Orthodoxy](http://www.keithbuhler.com/buhlerreport/orthodoxy) -- a bit about the ancient church 
+- [The Buhler Report (YouTube Channel)](https://www.youtube.com/channel/UC9HkYtB0VI6kwDmnmNgLr3A) -- For timeless wisdom and current events. 
+- [Orthodox Christianity](http://www.keithbuhler.com/buhlerreport/orthodoxy) -- a bit about the ancient church 
 - [Web Design](/sites) -- A few websites I've created
 - [Follow me on Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation. Suggest corrections, or fork the code and make your own site. 
 - <a href="/phd-how-to/">How to get a PhD</a>
