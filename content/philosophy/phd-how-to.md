@@ -9,23 +9,35 @@ sidebar:
 
 
 
-*[Another page explains my research.](/phd) This post offers advice on each stage of the process.*
+(*[Another page explains my research.](/phd) This post offers advice on each stage of the process.*)
+
+How do you get a PhD in philosophy? The short answer is this: 
+
+1. Apply and get into graduate school with a good Phd program. 
+2. Work hard to complete all the necessary aspects of the program, but especially to complete a dissertation.
+
+Before discussing how to do these two steps, a prior discussion is whether you *want* to or *should* get a PhD. This page discusses all three major questions and offers advice rooted in my own experience. This advice is necessarily limited, but may be helpful to those who can relate. 
 
 
-
-Do you want to go to graduate school? This is the difficult discernment decision. Why go to grad school? [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
-
-An earnest desire is necessary but not sufficient. You need desire and aptitude. Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself. 
-
-Some of those who study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university, or get non-academic jobs.  
 
 {% include toc %}
 
-*{:toc:}
+
+## Do I *Want* to get a PhD?
+
+
+This is the difficult discernment decision. Why go to grad school? Some people say you should avoid a doctorate in the humanities. [There are almost no jobs in philosophy.](http://leiterreports.typepad.com/blog/2015/02/pedigree-matters-and-prospective-students-are-entitled-to-know.html) 
+Even if you really like philosophy, an earnest desire is necessary but not sufficient. You need both desire and aptitude. 
+
+
+In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
+
+Some of those who study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university, or get non-academic jobs.
+
+The best method is to know yourself:  Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself.   
 
 ### 1 My story
 
-By 2011, my wife and I had decided to pursue a PhD in philosophy. 
 
 For me, the discernment process was long. I enjoyed philosophy as an undergraduate but also enjoyed art and psychology. I had known for five years I wanted to pursue further graduate training. I needed to work, so I got a job teaching classics in a high school. I was accepted to, but never began, a psychology doctoral program. It didn't feel right. Instead, I began an M.A. in theology. 
 
@@ -33,7 +45,8 @@ Then, my wife and I got married in 2010. She was the admissions department at a 
 
 I took one year of philosophy MA classes at [Talbot.](http://www.talbot.edu/) This gave me good practice writing rigorous analytic papers and also gave me a reference letter from JP Moreland. 
 
-Eventually, the timing was right to apply. I got lots of advice from friends and teachers on how, when, where, to apply. I took the GRE (after some study) and did well. I researched schools and jumped in. 
+
+By 2011, my wife and I had decided to pursue a PhD in philosophy.  I got lots of advice from friends and teachers on how, when, where, to apply. I took the GRE (after some study) and did well. I researched schools and jumped in. 
 
 We applied to 14 schools. It cost about $1,400 dollars, all told. 
 
