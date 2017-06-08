@@ -13,9 +13,8 @@ header:
 * [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
 * [How to lead a discussion](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHow.com)
 * [The Courage to Witness: Reflections on martyrdom](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
-* [Is Beauty Objective?](/is-beauty-objective)
 
-
+### Literary Non-Fiction
 * [When My Breath Stops](https://drive.google.com/file/d/0B0CYQDZ8AWu8WFktT3ZCMjFxMVU/view)
 
 
@@ -23,8 +22,3 @@ header:
 ## Film and Music Criticism
 * [Andrei Tarkovsky's Ivan's Childhood](http://wheatstoneministries.squarespace.com/tel/ivans-childhood-an-andrei-tarkovsky-film.html) (from Examined Life) 
 * [Paul Simon's Graceland](http://wheatstoneministries.squarespace.com/tel/graceland-reflections-on-paul-simons-greatest-album.html) (from Examined Life)  
-
-### Satire
-* [2014 College Budget Completely Cuts Faculty Salary](http://ukcolonel.com/2014-budget-revealed-faculty-salaries-completely-cut/)
-* [College Student Might Give Professor a "2"](http://ukcolonel.com/uk-student-might-rate-professor-as-a-2/) 
-
