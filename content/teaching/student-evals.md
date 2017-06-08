@@ -5,6 +5,7 @@ sidebar:
     nav: 
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
+permalink: /student-evals
 ---
 
 ## 2016 
