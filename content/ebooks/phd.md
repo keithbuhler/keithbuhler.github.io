@@ -2,7 +2,7 @@
 title: BECOMING WHAT WE ARE -- VIRTUE AND PRACTICAL WISDOM AS NATURAL ENDS
 layout: single
 header: 
-      image: rembrandt-sea-galilee1.bmp
+      image: https://i.ytimg.com/vi/3t0JQ0f2AvQ/maxresdefault.jpg
 permalink: /phd/
 ---
 
