@@ -24,8 +24,10 @@ header:
 
 I'm Keith Buhler, a philosopher, classical teacher, and writer from Los Angeles. 
 
-While I'm currently a postdoctoral scholar of philosophy at the University of Kentucky, in the fall, I will be teaching history, writing, theology, and Greek at Trinity Classical Academy. I have served as Master Tutor at Torrey Academy (La Mirada, CA), Director of High School Studies at Veritas Academy  (Lexington, KY), and instructor of philosophy at Asbury University. My teaching method inspires and awakens students of all ages by using the lost tools of learning to examine great books, films, music, and their own lives. 
+While I'm currently a postdoctoral scholar of philosophy at the University of Kentucky, in the fall, I will be teaching history, writing, theology, and Greek at a private school in LA. 
+
+Previously, I have served as Master Tutor at Torrey Academy (La Mirada, CA), Director of High School Studies at Veritas Academy  (Lexington, KY), and instructor of philosophy at Asbury University. My teaching method inspires and awakens students of all ages by using the lost tools of learning to examine great books, films, music, and their own lives. 
 
 I completed my PhD in philosophy under the direction of [David Bradshaw](https://uky.academia.edu/DBradshaw). I also hold an M.A. in Orthodox Theology from the University of Balamand, and a B.A. in Humanities from Biola University.  My primary academic research interests are in virtue ethics, naturalism, and philosophy of religion.
 
-Beyond these interests, I am also a devout amateur who creates screenplays, short stories, poetry, paint, clay sculptures, silly putty art, pumpkin carvings, draws, sings tenor, and creates the occasional website. Thanks for visiting. 
+Beyond these interests, I am also a devout amateur who believes it is important to create things for the love of it. I write screenplays, short stories, poetry, as well as draw and paint, sing tenor, create clay sculptures, silly putty art, pumpkin carvings, and the occasional website. Thanks for visiting. 
