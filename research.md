@@ -3,7 +3,7 @@ layout: page
 title: Academic Research
 permalink: /research/
 header:
-      image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
+      image: http://www.keithbuhler.com/images/oxford4.png
 --- 
 
 My research centers on naturalism and its rivals. I analyze aspects of naturalism and its rivals in ethics, metaphysics, and religion.

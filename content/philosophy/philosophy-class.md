@@ -5,6 +5,8 @@ permalink: /philosophy-class
 author_profile: false
 sidebar: 
       nav: philosophy
+header:
+      image: http://www.keithbuhler.com/images/oxford4.png
 --- 
 
 
