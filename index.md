@@ -4,32 +4,16 @@ title:
 permalink: 
 header:
   image: http://www.keithbuhler.com/images/banner-buhler-report.svg
-  
 related: 
 ---
 <br>
 
 
-### About 
 
 *"The Buhler Report" is a blog about timeless wisdom and current events. Practically, that means I mostly cover topics in classical education, academic philosophy, and U.S. politics. The aim is to enlighten and entertain, to please and instruct,  or (as Horace says), to "mix the pleasant with the useful."  I enjoy dialogging with old friends, new friends, and also enemies, so please feel free to comment if you agree or disagree. This blog is not a monologue but a dialogue,  so your comments are taken seriously and much appreciated. Thanks for reading.*
 
 <br>
 
-
-
-<div class="container docs-container">
-  <div class="row">
-    <div class="col-md-3">
-      <div class="sidebar hidden-print" role="complementary">
-        <div id="navigation">
-            <h1>About the Blog</h1>
-                  <ul class="nav sidenav">
-                  "The Buhler Report" is a blog about timeless wisdom and current events. Practically, that means I mostly cover topics in classical education, academic philosophy, and U.S. politics. The aim is to enlighten and entertain, to please and instruct,  or (as Horace says), to "mix the pleasant with the useful."  I enjoy dialogging with old friends, new friends, and also enemies, so please feel free to comment if you agree or disagree. This blog is not a monologue but a dialogue,  so your comments are taken seriously and much appreciated. Thanks for reading.
-            </ul>
-        </div>
-      </div>
-    </div>
 
 
 {% for post in site.posts limit:8 %}
