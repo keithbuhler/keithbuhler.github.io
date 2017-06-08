@@ -12,7 +12,6 @@ related: true
 permalink: /star%20wars/17-times-r2-d2-saves-the-universe
 sidebar: 
 layout: single
-date: 2015-12-19 08:04:18 +0530
 ---
 
 ![header](http://img.lum.dolimg.com/v1/images/open-uri20150608-27674-1fwzu9h_bec2141d.jpeg?region=0%2C0%2C1200%2C675)
