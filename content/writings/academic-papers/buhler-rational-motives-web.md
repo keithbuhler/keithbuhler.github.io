@@ -5,7 +5,7 @@ permalink: /motives/
 
 ---
 
-#### [PDF version](/papers/buhler-rational-motives.web.pdf)
+#### [PDF version](/content/writings/academic-papers/buhler-rational-motives.web.pdf)
 
 Keith Buhler    
 University of Kentucky      
