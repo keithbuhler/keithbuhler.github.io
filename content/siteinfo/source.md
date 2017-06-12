@@ -1,6 +1,8 @@
 ---
 title: Source Code
 permalink: /source/
+header:
+      image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 ---
 
 The content and style of this site was created by Keith Buhler -- with the help of [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com) and the good folks at [Github](https://github.com). 
@@ -13,7 +15,7 @@ The CSS design consists of modified version of the beautiful [Minimal Mistakes L
 
 When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML which is  *hosted* and published for free by Github. Amazing, right?
 
-![batman](http://screencrush.com/442/files/2013/03/thumbs-up.jpg)
+![i am batman, thank you very much](https://m.popkey.co/d86114/qxy0g.gif)
 
 If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). (Alternately, I could [make yours for you.](/sites))
 

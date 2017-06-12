@@ -2,8 +2,7 @@
 title: Study Indicates that Disadvantaged Kids Perform Better in School because of Philosophy
 categories: [Philosophy]
 header:
-    image: 
-      teaser: https://qzprod.files.wordpress.com/2016/03/rtr2e2lt.jpg?quality=80&strip=all&w=1600
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 permalink: 
 layout: single
 tags: [philosophy, children]
@@ -14,10 +13,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-### 12.28.16
-
 ![philosophy header](https://qzprod.files.wordpress.com/2016/03/rtr2e2lt.jpg?quality=80&strip=all&w=1600)
-
 
 File this under "Things That Shouldn't Be Surprising."
 

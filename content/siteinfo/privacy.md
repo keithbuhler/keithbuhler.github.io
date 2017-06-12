@@ -3,7 +3,7 @@ title: Privacy Policy and Affiliate Disclosure
 permalink: /privacy
 layout: single
 header:
-      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+      image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 ---
 
 ### Introduction
