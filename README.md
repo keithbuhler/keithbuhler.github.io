@@ -24,6 +24,9 @@ The content is written in plain text [Markdown](https://daringfireball.net/proje
 
 When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML which is  *hosted* and published for free by Github. Amazing, right?
 
+Logo credit goes to LogoMaker:
+
+Monuments graphic by <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a> https://logomakr.com/2H25PP2H25PP
 
 ### Map
 
