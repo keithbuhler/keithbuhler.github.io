@@ -6,7 +6,6 @@ header:
   image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---
 
-
 <div class="container docs-container">
   <div class="row">
     <div class="col-md-3">
