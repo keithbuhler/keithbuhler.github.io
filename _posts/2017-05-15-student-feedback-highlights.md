@@ -12,7 +12,7 @@ permalink:
 
 ---
 
-![student eval pic](http://www.slate.com/content/dam/slate/articles/life/education/2014/04/140423_EDU_StudentEvaluation.jpg.CROP.promo-mediumlarge.jpg)
+![student eval pic](http://teaching.temple.edu/sites/tlc/files/styles/featured_image/public/edvice/feedback%201%20%5BConverted%5D.jpg?itok=iuk8cKNR&c=66ed1ad4b8edb6a23b6685ff5b48ea67)
 
 Spring of 2017 is my last semester teaching philosophy at the University of Kentucky and Asbury University. Next fall, [I'll be teaching history, theology, writing, and ancient Greek at a secondary school.](http://www.keithbuhler.com/buhlerreport/job/) I may (or may not) end up teaching adjunct at local colleges. 
 

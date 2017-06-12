@@ -12,7 +12,7 @@ permalink:
 
 ---
 
-![pirates pick](https://pmcdeadline2.files.wordpress.com/2017/05/piratesdead.png?w=446&h=299&crop=1)
+![pirates pick](http://screenrant.com/wp-content/uploads/Johnny-Depp-on-Pirates-of-the-Caribbean-poster.jpg)
 
 [Deadline reports that some hackers stole a digital copy of the new Disney movie and are planning to release it bit by bit unless Disney pays a ransom.](http://deadline.com/2017/05/pirates-of-the-caribbean-dead-men-tell-no-tales-hackers-ransom-1202094203/) 
 
