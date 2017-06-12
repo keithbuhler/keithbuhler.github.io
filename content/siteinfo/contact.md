@@ -2,7 +2,7 @@
 title: Follow / Connect
 layout: single
 permalink: /contact/
-author_profile: true
+author_profile: false
 header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 
@@ -27,12 +27,11 @@ while(x=eval(x));
 
 
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
-* Secure mail:  [circularreason at protonmail.com](emailto:circularreason@protonmail.com)
+* Secure mail:  circularreason [that swirly sign] protonmail.com
 * Social: [Facebook](http://www.facebook.com/kedbuhler/)  &  [Twitter](https://twitter.com/Keith_Buhler) [Google Plus](https://plus.google.com/+KeithBuhler)
 * Call:  area 562 number 23O 292O
-* Mail: Keith Buhler, University of Kentucky, 1402 Patterson Office Tower    
-University of Kentucky, Lexington, KY 40506   
+* Mail: Pending
 
-(Current as of December 2016)
+(Current as of June 2017)
 
 

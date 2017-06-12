@@ -15,6 +15,7 @@ header:
 * [Review of *Rage Against God* by Peter Hitchins](http://wheatstoneministries.squarespace.com/tel/review-the-rage-against-god-how-atheism-led-me-to-faith.html) (in Examined Life)
 * ["How to Lead a Discussion"](http://www.wikihow.com/Lead-a-Discussion) (featured on WikiHow.com)
 * ["The Courage to Witness: Reflections on Martyrdom"](http://wheatstoneministries.squarespace.com/tel/the-courage-to-witness.html) (in Examined Life)
+* "How to Research", London Training School
 
 ## Literary Non-Fiction
 * [Friends with Holiness: My St Stephen's Residency](http://www.antiochian.org/content/friends-holiness-my-st-stephen%E2%80%99s-residency) (in Orthodox Word)
