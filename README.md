@@ -27,7 +27,7 @@ When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb
 
 ### Map
 
-The main site consists of HOME (with links to my dissertation, a brief research statement, links to syllabi, a brief teaching statement, and some reviews from students and employers), CV (my academic resume), PAPERS (a summary of publications forthcoming), and the STUDENT PORTAL (a separate site with resources for my students). 
+The site is constantly being revised and updated. However, the main information is the BLOG (BUHLER REPORT), ABOUT the author, and some of my WRITINGS, TEACHING, and RESEARCH. 
 
 
 ### History
