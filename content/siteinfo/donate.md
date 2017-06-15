@@ -7,8 +7,6 @@ header:
 ---
 
 
-Keithbuhler.com and the Buhler Report are run free from ads. 
+Like what you’re reading? [Say thank you through Paypal.](https://www.paypal.me/keithbuhler) For any amount, big or small, we thank you!
 
-If you find what we're doing here of value, [consider donating to keep the site running.](https://www.paypal.me/keithbuhler) For any amount, big or small, we thank you!
-
-
+Keithbuhler.com and the **Buhler Report** are free from ads for now. These gifts help to keep the site up and running. 
