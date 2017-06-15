@@ -16,4 +16,4 @@ Header, “Sir Roger Scruton”, subtitle “Writer & Philosopher” with search
 
 Footer, “Contact”, “Mailing List, “Tweets”
 
-Footer: Copyright {% year %} Roger Scruton. All rights reserved. Website by Mindvision. 
+Footer: Copyright year Roger Scruton. All rights reserved. Website by Mindvision. 
