@@ -10,7 +10,7 @@ related:
 
 
 
-*"The Buhler Report" aims to present current events in light of timeless wisdom. Practically, that means weekly posts about classical education, academic philosophy, and U.S. politics to enlighten and entertain, to please and instruct,  or (as Horace says), to "mix the pleasant with the useful." Dialogue is greater than monologue, so I much appreciate comments and emails from enemies and friends, new and old. (The comment functionality is under construction.) Thanks for reading.*
+*"The Buhler Report" offers timeless wisdom in response to current events. That means weekly posts about classical education, academic philosophy, and U.S. politics. This blog is not a monologue. I much appreciate comments and emails from enemies and friends, new and old. (The comment functionality is under construction.) Thanks for reading.*
 
 <br>
 
