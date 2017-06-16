@@ -29,6 +29,7 @@ permalink: /testimonials
 
 - "Gives me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
+- Thank you for a great semester, you are one of my favorite professors I have had since I have been in college. I really enjoyed your class and the way you conducted it. I learned a lot this past semester and I thought your teaching style was very unique and highly effective.
 
 
 ## Students
