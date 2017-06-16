@@ -27,6 +27,8 @@ Even so, is Hamill saying he still hates the Episode VIII Luke?
 
 No. In context, Hamill was making a point that he is not the best arbiter of what will actually work in the film. 
 
+<!--more-->
+
 For example, with *The Force Awakens*, Hamill initially didn't like the ending. He expressed vehement disapproval of J.J. Abrams' creative decision to end on a cliffhanger, where Luke has less than a minute of screentime and no lines. He only felt that way *as he read the script*. He had not reckoned on John Williams' music and Daisy Ridley's performance making the cliffhanger ending work, and he saw its power.
 
 Similarly, in *The Last Jedi*, Hamill *initially* disliked Johnson's interpretation of Luke's character, but eventually came around: 
