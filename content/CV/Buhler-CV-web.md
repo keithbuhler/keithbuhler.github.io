@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum Vitae (2017)
-permalink: /cv/
+title: Curriculum Vitae (old)
+permalink: 
 header:
       image: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1680_front.jpg
 sidebar: 

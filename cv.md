@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae (2017)
+title: 
 permalink: /cv/
 header:
       image: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1680_front.jpg
@@ -8,9 +8,10 @@ sidebar:
       nav: 
 --- 
 
-# Keith Buhler
+### Curriculum Vitae (2017)
+### Keith Buhler
 
-[PDF version](http://www.keithbuhler.com/content/CV/Buhler-CV.pdf)
+#### [PDF version](http://www.keithbuhler.com/cv.pdf)
 
 
 ### EDUCATION
@@ -21,29 +22,28 @@ M.A.&nbsp; Orthodox Theology, University of Balamand, 2014
 B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
 
 
-### EMPLOYMENT
-Postdoctoral Scholar, University of Kentucky,  Spring 2017    
-Instructor of Philosophy, Asbury University, 2013-2017       
-Director of High School Studies, Veritas Academy, 2013-2014   
-Master Tutor, Torrey Academy, 2010-2012     
-Tutor, Torrey Academy, 2007-2010    
-Lecturer, Wheatstone Academy, 2006-2011    
-Assistant Director, Wheatstone Academy, 2004-2005  
-
-
 ### RESEARCH AREAS
 Areas of specialization: Ethics and the History of Philosophy.     
 Areas of competence:  Philosophy of Mind, and Philosophy of Religion. 
 
 
-### WORKS IN PROGRESS
-1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
-4. *Becoming What We Are* (book draft complete)
+
+### EMPLOYMENT
+1. Postdoctoral Scholar, University of Kentucky,  Spring 2017 
+2. Instructor of Philosophy, Asbury University, 2013-2017
+3. Director of High School, Veritas Academy, 2013-2014
+4. Master Tutor, Torrey Academy, 2010-2012
+5. Tutor, Torrey Academy, 2007-2010
+6. Lecturer, Wheatstone Academy, 2006-2011
+6. Assistant Director, Wheatstone Academy, 2004-2005
+7. ESL Tutor (6th-grade), Etum Korean Academy, CA 2010-2012
+8. Great Books Tutor (4th-Grade), GATE Program, Willow School of Long Beach, CA 2001-2002
+9. ESL Teacher, Biola University Abroad, Ulaambatar, Mongolia, 2001
+
+
 
   
-
-
-### TEACHING 
+### COURSES TAUGHT 
 
 *University of Kentucky*
 
@@ -52,6 +52,7 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 3. Introduction to Philosophy (x2)
 4. Ethics (x3)
 5. Logic (x2)
+
 
 *Asbury University*
 
@@ -62,24 +63,37 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 
 *As Teaching Assistant, University of Kentucky*
 
-10. Logic (x2)
+10. Logic (x2)  
 
 *As Teaching Assistant, Biola University*  
 
 11. Philosophy of Science 
 
-*Secondary School*
 
-12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
-12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
-13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
-14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
-15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
-16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
-17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
-18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
-19. ESL Tutor  (Etum Academy, CA 2010-2012)
-20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
+
+### SECONDARY SCHOOL COURSES
+
+*Freedom Project Academy (online), 2017*
+
+12. Introduction to Philosophy 
+
+
+*Veritas Christian Academy, KY*
+
+13. Humanities: 20th Century British Thought (2013)
+
+*Torrey Academy, Biola University, CA*
+
+13. Philosophy: Plato on Being and Knowing (2011)
+14. Philosophy: Traditional Logic  (2009-2010)
+15. Humanities: Foundations of American Thought  (2009-2012)
+16. Humanities: Ancient and Medieval Thought  (2008-2012)
+17. Humanities: 20th Century British Thought  (2007-2012)
+
+
+
+
+
 
 
 
@@ -94,6 +108,10 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 7. "Virtue and Imaginative Resistance,” Midsouth Philosophy Conference, Rhodes College, 2014.
 8. "Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.
 
+### WORKS IN PROGRESS
+1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
+4. *Becoming What We Are* (book draft complete)
+
 
 
 ### COMMMENTS AND SERVICE
@@ -107,12 +125,7 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 4. Referee for Kentucky Graduate School Conference submissions, 2013.
 
 
-### AWARDS AND HONORS
-
-Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)      
-Travel Funding, University of Kentucky Graduate School (2014)     
-Teaching Assistantship, University of Kentucky (2012-2016)     
-Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
+  
 
 
 ### INVITED PUBLIC TALKS
@@ -127,6 +140,14 @@ Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)
 8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
 
 
+### AWARDS AND HONORS
+
+Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)       
+Travel Funding, University of Kentucky Graduate School (2014)     
+Teaching Assistantship, University of Kentucky (2012-2016)     
+Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)       
+
+
 ### LANGUAGES
 Reading proficiency in Ancient Greek  
 Speaking fluency in Spanish  
@@ -139,18 +160,3 @@ Society of Orthodox Philosophers in America, 2014-present
 International Society for MacIntyrean Enquiry, 2015-present       
 
 
-
-
-### REFERENCES
-
-David Bradshaw, Professor of Philosophy   
-University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859-257-7107
-
-Dan Breazeale, Professor of Philosophy    
-University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859-257-4376
-
-Brandon Look, Research Professor of Philosophy     
-University of Kentucky, 1415 Patterson. look@uky.edu / 859-257-1862   
-
-Chris Bounds, Chair, Philosophy and Religion    
-Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859-858-3511  
