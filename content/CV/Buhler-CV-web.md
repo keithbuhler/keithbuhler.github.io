@@ -22,25 +22,37 @@ B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
 
 
 ### EMPLOYMENT
-Postdoctoral Scholar, University of Kentucky,  Spring 2017    
-Instructor of Philosophy, Asbury University, 2013-2017       
-Director of High School Studies, Veritas Academy, 2013-2014   
-Master Tutor, Torrey Academy, 2010-2012   
-Tutor, Torrey Academy, 2007-2010  
+1. Postdoctoral Scholar, University of Kentucky,  Spring 2017    
+2. Instructor of Philosophy, Asbury University, 2013-2017       
+3. Director of High School, Veritas Academy, 2013-2014   
+4. Master Tutor, Torrey Academy, 2010-2012     
+5. Tutor, Torrey Academy, 2007-2010    
+6. Lecturer, Wheatstone Academy, 2006-2011
+6. Assistant Director, Wheatstone Academy, 2004-2005
+7. ESL Tutor (6th-grade), Etum Korean Academy, CA 2010-2012    
+8. Great Books Tutor (4th-Grade), GATE Program, Willow School of Long Beach, CA 2001-2002   
+9. ESL Teacher, Biola University Abroad, Ulaambatar, Mongolia, 2001   
+
 
 ### RESEARCH AREAS
-Specialization in Ethics and the History of Philosophy.     
-Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion. 
+Specialization: Ethics and the History of Philosophy.     
+Competence: Metaphysics, Philosophy of Mind, and Philosophy of Religion.  
 
 
-### WORKS IN PROGRESS
-1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
-4. *Becoming What We Are* (book draft complete)
 
-  
+### PRESENTATIONS
+
+1. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
+2. "Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
+3. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
+4. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
+5. “Is the Cosmos Causally Closed?” Ian Ramsey Centre, Oxford University, 2014.
+6. “Socratic Therapy,” SOPHIA Conference, Spring Branch, TX 2014.
+7. "Virtue and Imaginative Resistance,” Midsouth Philosophy Conference, Rhodes College, 2014.
+8. "Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.
 
 
-### TEACHING 
+### COURSES TAUGHT 
 
 *University of Kentucky*
 
@@ -67,19 +79,32 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 
 
 
+### SECONDARY SCHOOL COURSES
 
-### PRESENTATIONS
+*Freedom Project Academy (online), 2017*
 
-1. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
-2. "Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
-3. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
-4. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
-5. “Is the Cosmos Causally Closed?” Ian Ramsey Centre, Oxford University, 2014.
-6. “Socratic Therapy,” SOPHIA Conference, Spring Branch, TX 2014.
-7. "Virtue and Imaginative Resistance,” Midsouth Philosophy Conference, Rhodes College, 2014.
-8. "Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.
+12. Introduction to Philosophy 
 
 
+*Veritas Christian Academy, KY*
+
+13. Humanities: 20th Century British Thought (2013)
+
+*Torrey Academy, Biola University, CA*
+
+13. Philosophy: Plato on Being and Knowing (2011)
+14. Philosophy: Traditional Logic  (2009-2010)
+15. Humanities: Foundations of American Thought  (2009-2012)
+16. Humanities: Ancient and Medieval Thought  (2008-2012)
+17. Humanities: 20th Century British Thought  (2007-2012)
+
+
+
+### WORKS IN PROGRESS
+1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
+4. *Becoming What We Are* (book draft complete)
+
+  
 
 ### COMMMENTS AND SERVICE
 
@@ -102,25 +127,6 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 
 
 
-### SECONDARY SCHOOL TEACHING
-
-12. Introduction to Philosophy (online course, Freedom Project Academy, 2017)
-12. Humanities: 20th Century British Thought (Veritas Academy, KY 2013)
-13. Philosophy: Plato on Being and Knowing (Torrey Academy, CA 2011)
-14. Philosophy: Traditional Logic  (Torrey Academy, CA 2009-2010)
-15. Humanities: Foundations of American Thought  (Torrey Academy, CA 2009-2012)
-16. Humanities: Ancient and Medieval Thought  (Torrey Academy, CA 2008-2012)
-17. Humanities: 20th Century British Thought  (Torrey Academy, CA 2007-2012)
-18. Philosophy: Great Books Tutor, GATE Program (Willow School of Long Beach, CA 2001-2002)
-19. ESL Tutor  (Etum Academy, CA 2010-2012)
-20. ESL Teacher (Biola University Abroad, Ulaambatar, Mongolia, 2001) 
-
-
-### ADMINISTRATION POSITIONS
-1. Director of High School Studies (Veritas Academy, 2013-2014)
-2. Master Tutor (Torrey Academy, 2010-2012)
-3. Lecturer (Wheatstone Academy, 2006-2011)
-6. Assistant Director (Wheatstone Academy, 2004-2005)
 
 
 
@@ -128,10 +134,10 @@ Competence in Metaphysics, Philosophy of Mind, and Philosophy of Religion.
 
 ### AWARDS AND HONORS
 
-Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)      
-Travel Funding, University of Kentucky Graduate School (2014)     
-Teaching Assistantship, University of Kentucky (2012-2016)     
-Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
+- Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)      
+- Travel Funding, University of Kentucky Graduate School (2014)     
+- Teaching Assistantship, University of Kentucky (2012-2016)     
+- Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)         
 
 
 ### INVITED PUBLIC TALKS
@@ -157,19 +163,3 @@ American Philosophical Association, 2014-present
 Society of Orthodox Philosophers in America, 2014-present  
 International Society for MacIntyrean Enquiry, 2015-present       
 
-
-
-
-### REFERENCES
-
-David Bradshaw, Professor of Philosophy   
-University of Kentucky, 1415 Patterson. [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859-257-7107
-
-Dan Breazeale, Professor of Philosophy    
-University of Kentucky, 1417 Patterson. [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859-257-4376
-
-Brandon Look, Research Professor of Philosophy     
-University of Kentucky, 1415 Patterson. look@uky.edu / 859-257-1862   
-
-Chris Bounds, Chair, Philosophy and Religion    
-Asbury University, One Macklem Drive, Wilmore KY. [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859-858-3511  
