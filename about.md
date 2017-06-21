@@ -8,17 +8,16 @@ header:
 
 <br> 
 
-* "Makes philosophy come alive."  --[Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+* "Makes philosophy come alive."  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
-* "A good-conversation machine." --[Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
+* "A good-conversation machine." --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
-*  "Dynamism, acumen, and compassion."   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+* "Enthusiastic, personable, and precise." --[Dr. Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
+* “A deep thinker with a jovial personality” --[Jimmy Prehn, Pixona](https://www.linkedin.com/in/jrprehn/)
 
-* “A deep thinker with a jovial personality” — [Jimmy Prehn, Pixona](https://www.linkedin.com/in/jrprehn/)
+*  "[He has] dynamism, acumen, and compassion."   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
 
-* "Enthusiastic, personable, precise." -- [Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
-
-* "Give[s] me great hope for our next generation." -- [Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
+* "Give[s] me great hope for our next generation." --[Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 --------
 
