@@ -18,7 +18,3 @@ The conference is put on by the Association of Classical Christian Schools and i
 If all goes well, I'll be live-blogging some of the conference sessions as well as interviewing some of the speakers and participants. 
 
 Stay tuned!
-
-
-
-<!--more-->
