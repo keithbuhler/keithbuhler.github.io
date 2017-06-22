@@ -16,7 +16,34 @@ header:
 
 --- 
 
-## Thursday, 9:30 -- Brigade -- Tim Griffith
+## Thursday, 9:30 -- Brigade -- Tim Griffith "Teaching Meaning in Language"
+
+[Tim Griffiths](http://www.nsa.edu/academics/faculty/timothy-l-griffith/) is a Latin teacher at [New Saint Andrew's College](http://www.nsa.edu/). He is talking to us about teaching *meaning*, rather than simple translation of "equus" to "horse" in another language like Latin. 
+
+He's taught many age-levels and grades, from children, to middle and high school, to college, including adult learners. 
+
+He says that most people teach meaning by offering "English equivalence." For example, the teacher might say "Amo" means "I love". The student feels comfortable, the teacher feels competent. 
+
+But "amare" in Latin has all the worst connotations of love, the kinds of love Ovid likes to write about. 
+
+He says Latin dictionaries were written by Englishman in the 1700s.
+
+Some words have changed: "Corn" in 18th century English meant "grain". 
+
+"Phero" means "bear" (as in "carry") but "bear" is becoming archaic. 
+
+Latin has no word for an "owl". We have an idea of owl, a class of birds, that hoot, that look the same within a range. Latin has a bunch of words for various classes of birds. 
+
+"Aquila" applies to eagles but also vultures and raptors. 
+
+"Lentus" means "slow, sticky, flexible." 
+
+"Quinam" doesn't mean anything in Latin, it has a *use*. "of course" or "yes" or "indeed". Really, it is used to underline emphasis. 
+
+
+
+<!--more-->
+
 
 ---
 
@@ -34,7 +61,7 @@ Grant is eloquently contrasting reformation with revolution; revolutions like th
 
 Grant summarizes the life of Luther and Calvin and the apparently insignificant achievements of the first pioneers of the movement. 
 
-He argues from Domine(sp?) there are four phases of a movement: 
+He argues from the French author Domine(sp?) there are four phases of a movement: 
 
 1. Pioneers -- jeremiads, fulminations, controversies (Luther)
 2. Foundations -- Nehemiahs, depth, pastoral care, dogmatics (Calvin)
@@ -81,7 +108,10 @@ I met Kirby from [CLT](https://www.cltexam.com/), the "Classic Learning Test", a
 
 ![airport selfie](/images/rr1.JPG)
 
-Wasn't the best night of sleep in my life, but I caught some shut-eye on the overnight flight and got freshened up and changed at the airport. Headed to Pittsburgh and the Wyndham Grand Hotel!
+
+I caught some shut-eye on the overnight flight but it wasn't the best night of sleep in my life. Feeling a little upside down.  
+
+It's 3am to my body, but I've freshened up and changed at the airport. Headed to Pittsburgh and the Wyndham Grand Hotel!
 
 ---- 
 
