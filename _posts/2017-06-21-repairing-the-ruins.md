@@ -50,6 +50,8 @@ In any society where the traditional family dissolves, physical, spiritual, emot
 
 The actual existence of virtue in the society is the only way the government rulers can actual become and remain servants.
 
+>"You can have morality without religion. But you can't have morality in large groups, sustained over time, across generations, without religion." -- Robert George (slightly paraphrased) at the ACCS "Repairing the Ruins" Conference 2017
+
 
 ## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
 
