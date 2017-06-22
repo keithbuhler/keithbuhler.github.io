@@ -11,14 +11,30 @@ header:
 
 ![header image](http://2017.repairingtheruins.org/wp-content/uploads/2016/11/slider_pittsburgh_new-1170x400.jpg)
 
+*The Buhler Report is live-blogging the [ACCS](https://classicalchristian.org/)  [Repairing the Ruins](http://2017.repairingtheruins.org/) conference (2017) in Pittsburgh. Repairing the Ruins is the largest such conference in the country. Sessions cover big ideas and practical details of classical education in our context today. Updates below.*
 
-*The Buhler Report is attending the [2017 Repairing the Ruins](http://2017.repairingtheruins.org/) conference in Pittsburgh. The conference is put on by the [Association of Classical Christian Schools](https://classicalchristian.org/) and is the largest such conference in the country, with sessions on the big ideas and practical details of classical education in our context today. Stay tuned for updates below.*
 
---- 
 
-# Thursday, 9:30 -- Brigade -- Tim Griffith "Teaching Meaning in Language"
+## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
 
-[Tim Griffiths](http://www.nsa.edu/academics/faculty/timothy-l-griffith/) is a Latin teacher at [New Saint Andrew's College](http://www.nsa.edu/). He is talking to us about teaching *meaning*, rather than simple translation of "equus" to "horse" in another language like Latin. 
+John Mark is talking about the cultural shifts that happen about on the 70 year marks. 
+
+He suggests that if we lose, we must lose cheerfully. And if we win, we must win cheerfully. 
+
+Saruman's temptation is to compromise to win. The Utopian temptation is to *never* compromise, and to throw reality under the bus. 
+
+
+
+
+<!--more-->
+
+
+
+## Thursday, 9:30am -- Tim Griffith "Teaching Meaning in Language"
+
+*For this session, I had to choose a path. I chose a presentation having to do with teaching language because I'll be teaching Ancient Greek in fall 2017.* 
+
+BRIGADE ROOM: [Tim Griffiths](http://www.nsa.edu/academics/faculty/timothy-l-griffith/) is a Latin teacher at [New Saint Andrew's College](http://www.nsa.edu/). He is talking to us about teaching *meaning*, rather than simple translation of "equus" to "horse" in another language like Latin. 
 
 He's taught many age-levels and grades, from children, to middle and high school, to college, including adult learners. 
 
@@ -48,18 +64,23 @@ Switch the order. Teach them some English, and ask them "How would you say that 
 
 "Boat" can be a vessel, large or small, and a verb "to boat". There are Latin words for each of those concepts. "Chaffe"(sp?) = small boat; navus = boat; navigare = to boat or navigate. 
 
+To teach the dative, he presents a situation, where we talk about the indirect object for 10 minutes, then show how to do Latin. Then try to use it. 
+
+"Ecce" does something -- it doesn't just *mean* 'behold'. It could also mean, listen, pay attention.  
+
+<br>
 
 
-
-# Thursday, 9:30am -- Break -- Courtney Palumbo
+## Thursday, 9:30am -- Break -- Courtney Palumbo
 
 I ran into Douglas Wilson and he was gracious enough to grant me an interview. I didn't have a cameraman so it was a "selfie" interview... I'll post that as soon as I get it edited. 
 
 I also ran into my friend Courtney Palumbo of [Regents School in Charlottesville](http://regents-school.org/). Check out the amazing things they are doing there in Virginia. 
 
 
+<br>
 
-# Thursday, 8:30am -- George Grant "Reformation and Revolution"
+## Thursday, 8:30am -- George Grant "Reformation and Revolution"
 
 
 ![grant](/images/rr2.JPG)
@@ -88,18 +109,20 @@ We must strive for *semper reformanda*, constant reformation. We have received a
 
 Grant notes that some in the audience are tired, weary, and who are giving classical education "one more shot." He quips that "maybe it's time for, I don't know, the Benedict Option." But all we have to do to change the world is just "the next right thing."
 
---- 
 
-# Thursday, 8:00am -- Orientation
+<br>
+
+
+## Thursday, 8:00am -- Orientation
 
 The ACCS administration hosted a playful "metaphor contest", awarding rhetoric books to the student who could craft the most poignant, funny, insightful, and surprising metaphor in a single sentence. The winner was: 
 
 >"His excuse for being late was like his toupee; patchy, inadequate, and not fooling anyone."
 
+<br>
 
---- 
 
-# Thursday, 8:00am -- First Impressions
+## Thursday, 8:00am -- First Impressions
 
 ![panorama](/images/rr3.JPG)
 
@@ -112,9 +135,8 @@ There are also venders a-plenty.
 I met Kirby from [CLT](https://www.cltexam.com/), the "Classic Learning Test", a relatively new alternative and competitor to the SAT/ACT. I've heard of the test and already found it intriguing, but Kirby closed the sale. I'm buying a student study guide to pitch to my administrators at my school. 
 
 
+<br>
 
-
----
 
 ## Thursday, 6:00am -- Airport
 
@@ -125,14 +147,21 @@ I caught some shut-eye on the overnight flight but it wasn't the best night of s
 
 It's 3am to my body, but I've freshened up and changed at the airport. Headed to Pittsburgh and the Wyndham Grand Hotel!
 
----- 
+
+<br>
+
+
+##  Interviews
+
+Update: Doctors Markos and George, and Andrew Kern have agreed to do interviews. Should be fun! Also, I was able to catch Douglas Wilson for a few questions. 
+
+
+<br>
+
 
 ## First Announcement 
 
 
 If all goes well, I'll be live-blogging some of the conference sessions as well as interviewing some of the speakers and participants. 
 
-**Update:** The keynote speakers include Louis Markos, John Mark Reynolds, Robert George, [Andrew Kern](https://www.circeinstitute.org/staff-speaker-consultant-teacher/andrew-kern), [Christopher Perrin](https://classicalacademicpress.com/consulting/dr-christopher-perrin/), and Douglas Wilson. 
-
-**Update 2:** Doctors Markos and George have agreed to do interviews. Should be fun!
-
+The keynote speakers include Louis Markos, John Mark Reynolds, Robert George, [Andrew Kern](https://www.circeinstitute.org/staff-speaker-consultant-teacher/andrew-kern), [Christopher Perrin](https://classicalacademicpress.com/consulting/dr-christopher-perrin/), and [Douglas Wilson](https://dougwils.com/). 
