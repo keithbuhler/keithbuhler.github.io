@@ -20,13 +20,33 @@ header:
 
 Robert George is speaking about ruling, rulers and being ruled in a constitutional society where rulers are bound by structures such as voting and term limits.
 
-rulers are sometimes called public servants.
+Rulers are sometimes called "public servants."
 
 He points out that rulers do rule, even in a republic. Ruling is a practical necessity even if we had morally perfect members. Ruling is a moral necessity because the ruler is to serve.
 
 The common good is aimed at. The common good is instrumental not intrinsic. It serves the intrinsic goods.
 
-He explains the principle of subsidiarity. the state cannot monopolize edication. the common good requires limited government. 
+He explains the principle of subsidiarity. the state cannot monopolize education. The common good requires limited government because the common good can only be achieved by less-than-state structures such as families, private associations, and schools. 
+
+State monopolizing of health care, health and diet, education, or anything else is unjust. The bottom-up associations of civil society increase the health of society and also of government. 
+
+State monopolies can render civil institutions impotent to resist state (lack of) authority. 
+
+Separation of powers; enumerated powers; federalism are very important constitutional constraints. 
+
+However, George says, constitutional constraints are only effective insofar as they are supported by the people who make up the society. They have to understand and value those constraints. They have to resist government overreach even when it seems to be offering quick fix solutions.
+
+Resistance to government quick fixes requires virtues. Virtues are strengths, habits. 
+
+George quotes Madison: "Only a well-educated people can be permanantly a free people." He says that even the madisonian system of checks and balances "aren't worth the paper they are printed on" if people don't understand and value them in the face of temptation. 
+
+Virtue is needed. Control of people by government is needed as well as control *of government* by itself, or by the people. 
+
+The government will always exist who wants to bribe the people with free stuff, shiny apples. So how do we create a populous who can resist that temptation? 
+
+Here we see the central political role of the family, the religious community, the school. These are devoted to the inculcation of knowledge and virtue. Private, often religiously-based institutions are necessary for the transmission of virtue. They assist the family in forming virtuous young people who can be good citizens. 
+
+
 
 
 ## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
