@@ -11,10 +11,28 @@ header:
 
 ![header image](http://2017.repairingtheruins.org/wp-content/uploads/2016/11/slider_pittsburgh_new-1170x400.jpg)
 
-*The Buhler Report is live-blogging the [ACCS](https://classicalchristian.org/)  [Repairing the Ruins](http://2017.repairingtheruins.org/) conference (2017) in Pittsburgh. Repairing the Ruins is the largest such conference in the country. Sessions cover big ideas and practical details of classical education in our context today. Updates below.*
+*The Buhler Report is live-blogging the [ACCS](https://classicalchristian.org/) [Repairing the Ruins](http://2017.repairingtheruins.org/) conference (2017) in Pittsburgh. Repairing the Ruins is the largest such conference in the country. Sessions cover big ideas and practical details of classical education in our context today. Updates below.*
 
 ---
 
+## Thursday, 4:20 -- Andrew Kern, "Memory, Imitation, Harmony"
+
+Three capacities that are fundamental to our humanity are memory, imitation, and harmony. 
+
+- Memory. We must remember. We remember facts. 
+
+- Imitation. We are ontologically mimetic. We are images, so we are imitations. We imitate whether we like it or not, despite the fact that our culture has a negative connotation of imitation.
+
+- Harmony. All things are made one in Christ, but that means not flattened into unity but harmonized. If all things are harmonized in Christ, then certainly all the curriculum must be harmonized in Christ. 
+
+That's the whole talk. Now Kern will take us back around. 
+
+
+
+## Thursday, 2:50 -- Turley, "Beauty Matters"
+
+- We must order our loves. 
+- Art redeems the senses.
 
 ## Thursday, 1:25am -- Robert George, "Constitutional structures"
 
@@ -69,7 +87,9 @@ The tool shapes the soul of the person using it. Those who perpetrated the white
 
 Christian schools compromise when they use "Great Books" but don't use "The Great Book", the Bible. Or when they are dishonest about their achievements. Or when they use Bible verses out of context like "the fool says in his heart, 'there is no god.'" To exaggerate and lose our integrity.
 
+Sarumon tried to compromise and use any means, like Lenin, to get the ring. But we must destroy the ring, although we know that we cannot. 
 
+Reynolds argued that no one will save education or save this generation in a time of turmoil if we do not. He said, "The eagles are not coming. Or rather, you are the eagles. And only God can destroy the ring." 
 
 
 
