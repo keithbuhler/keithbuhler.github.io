@@ -15,6 +15,20 @@ header:
 
 ---
 
+
+## Thursday, 1:25am -- Robert George, "Constitutional structures"
+
+Robert George is speaking about ruling, rulers and being ruled in a constitutional society where rulers are bound by structures such as voting and term limits.
+
+rulers are sometimes called public servants.
+
+He points out that rulers do rule, even in a republic. Ruling is a practical necessity even if we had morally perfect members. Ruling is a moral necessity because the ruler is to serve.
+
+The common good is aimed at. The common good is instrumental not intrinsic. It serves the intrinsic goods.
+
+He explains the principle of subsidiarity. the state cannot monopolize edication. the common good requires limited government. 
+
+
 ## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
 
 ![john mark](/images/rr4.JPG)
