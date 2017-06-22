@@ -7,7 +7,7 @@ layout: single
 
 > "Orthodox Christianity is the authentic and original Christian Faith founded by Jesus Christ. As an Orthodox Christian you can experience heaven on earth through the Divine Liturgy which is mystical, spiritual, and beautiful, with its incense, icons, and sacred music. You can transcend time and space while you meditate upon the words and teachings of Jesus Christ. It's the most pure form of Christianity – nothing artificial added. It's the real deal."  -- Valerie Zrake
 
-![pantokrator](/pantokrator.JPG)
+![pantokrator](/images/pantokrator.JPG)
 
 
 ## My Story
