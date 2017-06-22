@@ -12,20 +12,27 @@ header:
 ![header image](http://2017.repairingtheruins.org/wp-content/uploads/2016/11/slider_pittsburgh_new-1170x400.jpg)
 
 
-*I'll be attending the [2017 Repairing the Ruins](http://2017.repairingtheruins.org/) conference in Pittsburgh. The conference is put on by the [Association of Classical Christian Schools](https://classicalchristian.org/) and is the largest such conference in the country. There will be sessions on the big ideas and practical details of classical education in our context today. Stay tuned for updates below.*
+*The Buhler Report is attending the [2017 Repairing the Ruins](http://2017.repairingtheruins.org/) conference in Pittsburgh. The conference is put on by the [Association of Classical Christian Schools](https://classicalchristian.org/) and is the largest such conference in the country, with sessions on the big ideas and practical details of classical education in our context today. Stay tuned for updates below.*
 
+--- 
+
+## Thursday, 9:30 -- Brigade -- Tim Griffith
 
 ---
 
 ## Thursday, 8:30am -- George Grant "Reformation and Revolution"
 
-![grant](/images/rr3.JPG)
 
-[George Grant](https://en.wikipedia.org/wiki/George_Grant_(author)) is speaking about the connection between two historical events: Protestant Reformation and the Association of Classical and Christian Schools. This is year marks the 500th anniversary of the Reformation and the 25th anniversary of the ACCS. 
+![grant](/images/rr2.JPG)
+
+
+[George Grant](https://en.wikipedia.org/wiki/George_Grant_(author)) is speaking about the connection between two historical events: Protestant Reformation and the Association of Classical and Christian Schools. This is year marks the 500th anniversary of the Reformation and the 25th anniversary of the ACCS.
 
 Grant is eloquently contrasting reformation with revolution; revolutions like the French revolution, the Prussian revolution, Bolshevik revolution, and our own sexual and cultural revolution aim for quick fixes by razing to the ground centuries of tradition. Reformation is a slow, steady, faithfulness in one direction intended to restore a lost tradition. 
 
-He summarized the life of Luther and Calvin and the apparently insignificant achievements of the first pioneers of the movement. 
+(While the Catholic, Orthodox, and high church Anglicans in the audience might be less-than-enthusiastic about the Reformation, Grant's definition of restoring tradition sits well with this Orthodox Christian. Regardless, Grant is playing to the majority crowd of Protestants.)
+
+Grant summarizes the life of Luther and Calvin and the apparently insignificant achievements of the first pioneers of the movement. 
 
 He argues from Domine(sp?) there are four phases of a movement: 
 
@@ -36,6 +43,11 @@ He argues from Domine(sp?) there are four phases of a movement:
 
 Many ACCS schools are in phases 1-3. Our challenge, Grant says, is to find our way through this circuitous route to the maturity phase. 
 
+Grant says that genuine education is always a form of repentance. 
+
+We must strive for *semper reformanda*, constant reformation. We have received a stockpile of goodness, truth, and beauty. It takes humility to hold that securely, to hold it precious. 
+
+Grant notes that some in the audience are tired, weary, and who are giving classical education "one more shot." He quips that "maybe it's time for, I don't know, the Benedict Option." But all we have to do to change the world is just "the next right thing."
 
 --- 
 
@@ -50,7 +62,7 @@ The ACCS administration hosted a playful "metaphor contest", awarding rhetoric b
 
 ## Thursday, 8:00am -- First Impressions
 
-![panorama](/images/rr2.JPG)
+![panorama](/images/rr3.JPG)
 
 Looks like an impressive turn out. More than 500, I'd guess around 1,000 attendees. 
 
@@ -80,5 +92,5 @@ If all goes well, I'll be live-blogging some of the conference sessions as well 
 
 **Update:** The keynote speakers include Louis Markos, John Mark Reynolds, Robert George, [Andrew Kern](https://www.circeinstitute.org/staff-speaker-consultant-teacher/andrew-kern), [Christopher Perrin](https://classicalacademicpress.com/consulting/dr-christopher-perrin/), and Douglas Wilson. 
 
-**Update 2:** Doctors Markos and George have agreed to do interviews for the Buhler Report, if we can find the time. 
+**Update 2:** Doctors Markos and George have agreed to do interviews. Should be fun!
 
