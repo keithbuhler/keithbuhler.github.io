@@ -16,7 +16,7 @@ header:
 
 --- 
 
-## Thursday, 9:30 -- Brigade -- Tim Griffith "Teaching Meaning in Language"
+# Thursday, 9:30 -- Brigade -- Tim Griffith "Teaching Meaning in Language"
 
 [Tim Griffiths](http://www.nsa.edu/academics/faculty/timothy-l-griffith/) is a Latin teacher at [New Saint Andrew's College](http://www.nsa.edu/). He is talking to us about teaching *meaning*, rather than simple translation of "equus" to "horse" in another language like Latin. 
 
@@ -40,14 +40,26 @@ Latin has no word for an "owl". We have an idea of owl, a class of birds, that h
 
 "Quinam" doesn't mean anything in Latin, it has a *use*. "of course" or "yes" or "indeed". Really, it is used to underline emphasis. 
 
+"Puer" means "boy" -- or "child" (or sometimes "slave", in Cicero, for example.)
+
+What's the solution? 
+
+Switch the order. Teach them some English, and ask them "How would you say that in Latin?" You teach the concept or concept cluster first (using English) and then attach the Latin words. 
+
+"Boat" can be a vessel, large or small, and a verb "to boat". There are Latin words for each of those concepts. "Chaffe"(sp?) = small boat; navus = boat; navigare = to boat or navigate. 
 
 
-<!--more-->
 
 
----
+# Thursday, 9:30am -- Break -- Courtney Palumbo
 
-## Thursday, 8:30am -- George Grant "Reformation and Revolution"
+I ran into Douglas Wilson and he was gracious enough to grant me an interview. I didn't have a cameraman so it was a "selfie" interview... I'll post that as soon as I get it edited. 
+
+I also ran into my friend Courtney Palumbo of [Regents School in Charlottesville](http://regents-school.org/). Check out the amazing things they are doing there in Virginia. 
+
+
+
+# Thursday, 8:30am -- George Grant "Reformation and Revolution"
 
 
 ![grant](/images/rr2.JPG)
@@ -78,7 +90,7 @@ Grant notes that some in the audience are tired, weary, and who are giving class
 
 --- 
 
-## Thursday, 8:00am -- Orientation
+# Thursday, 8:00am -- Orientation
 
 The ACCS administration hosted a playful "metaphor contest", awarding rhetoric books to the student who could craft the most poignant, funny, insightful, and surprising metaphor in a single sentence. The winner was: 
 
@@ -87,7 +99,7 @@ The ACCS administration hosted a playful "metaphor contest", awarding rhetoric b
 
 --- 
 
-## Thursday, 8:00am -- First Impressions
+# Thursday, 8:00am -- First Impressions
 
 ![panorama](/images/rr3.JPG)
 
