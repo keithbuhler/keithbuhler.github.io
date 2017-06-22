@@ -13,24 +13,33 @@ header:
 
 *The Buhler Report is live-blogging the [ACCS](https://classicalchristian.org/)  [Repairing the Ruins](http://2017.repairingtheruins.org/) conference (2017) in Pittsburgh. Repairing the Ruins is the largest such conference in the country. Sessions cover big ideas and practical details of classical education in our context today. Updates below.*
 
-
+---
 
 ## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
+
+![john mark](/images/rr4.JPG)
 
 John Mark is talking about the cultural shifts that happen about on the 70 year marks. 
 
 He suggests that if we lose, we must lose cheerfully. And if we win, we must win cheerfully. 
 
-Saruman's temptation is to compromise to win. The Utopian temptation is to *never* compromise, and to throw reality under the bus. 
+Saruman's temptation is to compromise to win. The Utopian temptation is to *never* compromise, and to throw reality under the bus. Christians are utopian in the sense that we pray "thy kingdom come" and mean it; we are waiting for the King. In the mean time, however, it is easy to see that his kingdom is not of this world. 
+
+Although Christians might be tempted to illicit utopianism, we are more often tempted to Leninism: "By any means necessary." Leninism compromises its message by its method. 
+
+The tool shapes the soul of the person using it. Those who perpetrated the white terror in Russia became impotent to form an effective Russian existence in exile because they had lost their moral authority. 
+
+Christian schools compromise when they use "Great Books" but don't use "The Great Book", the Bible. Or when they are dishonest about their achievements. Or when they use Bible verses out of context like "the fool says in his heart, 'there is no god.'" To exaggerate and lose our integrity.
 
 
 
 
 <!--more-->
 
+<br>
 
 
-## Thursday, 9:30am -- Tim Griffith "Teaching Meaning in Language"
+## Thursday, 10:10am -- Tim Griffith "Teaching Meaning in Language"
 
 *For this session, I had to choose a path. I chose a presentation having to do with teaching language because I'll be teaching Ancient Greek in fall 2017.* 
 
@@ -71,7 +80,7 @@ To teach the dative, he presents a situation, where we talk about the indirect o
 <br>
 
 
-## Thursday, 9:30am -- Break -- Courtney Palumbo
+## Thursday, 9:30am -- Break -- Douglas Wilson and Courtney Palumbo
 
 I ran into Douglas Wilson and he was gracious enough to grant me an interview. I didn't have a cameraman so it was a "selfie" interview... I'll post that as soon as I get it edited. 
 
@@ -113,7 +122,7 @@ Grant notes that some in the audience are tired, weary, and who are giving class
 <br>
 
 
-## Thursday, 8:00am -- Orientation
+## Thursday, 8:15am -- Orientation
 
 The ACCS administration hosted a playful "metaphor contest", awarding rhetoric books to the student who could craft the most poignant, funny, insightful, and surprising metaphor in a single sentence. The winner was: 
 
@@ -122,17 +131,26 @@ The ACCS administration hosted a playful "metaphor contest", awarding rhetoric b
 <br>
 
 
+## Thursday, 8:10am -- Vendors
+
+![clt](/images/rr5.JPG)
+
+There are also venders a-plenty. 
+
+I met Kirby from [CLT](https://www.cltexam.com/), the "Classic Learning Test", a relatively new alternative and competitor to the SAT/ACT. I've heard of the test and already found it intriguing, but Kirby closed the sale. I'm buying a student study guide to pitch to my administrators at my school. 
+
+
+<br>
+
 ## Thursday, 8:00am -- First Impressions
 
 ![panorama](/images/rr3.JPG)
 
 Looks like an impressive turn out. More than 500, I'd guess around 1,000 attendees. 
 
-The younger folks manning the conference registration table seem to be high school students or college students from Grove City College and other classical colleges. Everything is professionally done. 
+The younger folks manning the conference registration table ACCS staff, and college students from Grove City College and other classical colleges. Everything is professionally done. 
 
-There are also venders a-plenty. 
 
-I met Kirby from [CLT](https://www.cltexam.com/), the "Classic Learning Test", a relatively new alternative and competitor to the SAT/ACT. I've heard of the test and already found it intriguing, but Kirby closed the sale. I'm buying a student study guide to pitch to my administrators at my school. 
 
 
 <br>
