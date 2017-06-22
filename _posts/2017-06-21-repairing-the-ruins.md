@@ -46,7 +46,9 @@ The government will always exist who wants to bribe the people with free stuff, 
 
 Here we see the central political role of the family, the religious community, the school. These are devoted to the inculcation of knowledge and virtue. Private, often religiously-based institutions are necessary for the transmission of virtue. They assist the family in forming virtuous young people who can be good citizens. 
 
+In any society where the traditional family dissolves, physical, spiritual, emotional, and civil maladies multiply. Where government expands to do the roles of civil society, the family and civil society disintegrates and the limited government becomes impossible. 
 
+The actual existence of virtue in the society is the only way the government rulers can actual become and remain servants.
 
 
 ## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
@@ -68,7 +70,6 @@ Christian schools compromise when they use "Great Books" but don't use "The Grea
 
 
 
-<!--more-->
 
 <br>
 
