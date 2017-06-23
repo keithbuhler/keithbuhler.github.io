@@ -19,52 +19,66 @@ header:
 
 Three capacities that are fundamental to our humanity are memory, imitation, and harmony. 
 
-- Memory. We must remember. We remember facts. 
+- Memory. We must remember the past. We remember facts. We must remember what we already know. 
 
-- Imitation. We are ontologically mimetic. We are images, so we are imitations. We imitate whether we like it or not, despite the fact that our culture has a negative connotation of imitation.
+- Imitation. We are "ontologically mimetic", that is, we are images, so we are imitations. We imitate whether we like it or not, despite the fact that our culture has a negative connotation of imitation.
 
 - Harmony. All things are made one in Christ, but that means not flattened into unity but harmonized. If all things are harmonized in Christ, then certainly all the curriculum must be harmonized in Christ. 
 
-That's the whole talk. Now Kern will take us back around. 
 
 
 
 ## Thursday, 2:50 -- Turley, "Beauty Matters"
 
-- We must order our loves. 
+I was late for the Turley talk, unfortunately, because what I heard was very good and wish I could have heard the whole thing. [His website is here.](http://turleytalks.com/) A few scattered notes: 
+
+- We must order our loves. Beauty helps us to do that.
 - Art redeems the senses.
+- Art mediates heaven and earth. 
+- Even in ugly art, Turley seeks the good: "How does it show me paradise?"
+- He recommends using music in the classroom; use music in Greek and Latin classes; chant the psalms at the beginning of class. His former students who return miss singing together. 
+- Use architecture, art, clothes, even gardens in a school to create beauty. 
+- Uniforms are not "just because" or to avoid inappropriate dress; uniforms are special rules for special places. Sacred colors for sacred spaces. 
 
-## Thursday, 1:25am -- Robert George, "Constitutional structures"
+## Thursday, 1:25pm -- Robert George, "Constitutional structures"
 
-Robert George is speaking about ruling, rulers and being ruled in a constitutional society where rulers are bound by structures such as voting and term limits.
+A live-blog summary of Robert P. George's talk, “Constitutional Structures”, delivered at the ACCS “Repairing the Ruins” Conference. (Apologies for any of errors and omissions!)
 
-Rulers are sometimes called "public servants."
+--- 
+
+Dr. George prefaces his talk by suggesting that the classical schooling movement is important for preserving the constitutional structure of our American government. 
+
+He is speaking about ruling. Even in a liberal democracy we have "rulers" and we are "being ruled".  In a constitutional society, rulers are bound by structures such as voting and term limits. But they also rule. They make the rules and the rules are binding.
+
+Rulers are sometimes called “public servants.” In what sense are rulers servants? 
 
 He points out that rulers do rule, even in a republic. Ruling is a practical necessity even if we had morally perfect members. Ruling is a moral necessity because the ruler is to serve.
 
-The common good is aimed at. The common good is instrumental not intrinsic. It serves the intrinsic goods.
+What does the ruler do to serve society? He serves the common good and prevents injustices.
 
-He explains the principle of subsidiarity. the state cannot monopolize education. The common good requires limited government because the common good can only be achieved by less-than-state structures such as families, private associations, and schools. 
+Justice aims for the common good.  Is the common good an intrinsic good or instrumental good? The common good is instrumental not intrinsic. It serves the intrinsic goods of family, church, and other segments of civil society. 
 
-State monopolizing of health care, health and diet, education, or anything else is unjust. The bottom-up associations of civil society increase the health of society and also of government. 
+He explains the principle of subsidiarity: that the smallest unit of society should do as much as it can do. The larger units should do what they can, but no more. The nation-state should take care of protecting us from nuclear warfare, for instance, because no family or organization can do that. The nation-state should not provide healthcare or education for every citizen, because that good aim can be provided by smaller segments of society. 
 
-State monopolies can render civil institutions impotent to resist state (lack of) authority. 
+The state cannot monopolize education. The common good requires limited government because the common good can only be achieved by less-than-state structures such as families, private associations, and schools.
 
-Separation of powers; enumerated powers; federalism are very important constitutional constraints. 
+State monopolizing of health care, health and diet, education, or anything else is unjust. The bottom-up associations of civil society increase the health of society and also of government.
 
-However, George says, constitutional constraints are only effective insofar as they are supported by the people who make up the society. They have to understand and value those constraints. They have to resist government overreach even when it seems to be offering quick fix solutions.
+State monopolies can render civil institutions impotent to resist state (lack of) authority.
 
-Resistance to government quick fixes requires virtues. Virtues are strengths, habits. 
+Constitutional constraints (written on the page) are important: Separation of powers; enumerated powers; federalism are very important constitutional constraints. However, George says, constitutional constraints are only effective insofar as they are supported by the people who make up the society. They have to understand and value those constraints. They have to resist government overreach even when it seems to be offering quick fix solutions.
 
-George quotes Madison: "Only a well-educated people can be permanantly a free people." He says that even the madisonian system of checks and balances "aren't worth the paper they are printed on" if people don't understand and value them in the face of temptation. 
+Resistance to government quick fixes requires virtues. Virtues are strengths, habits.
 
-Virtue is needed. Control of people by government is needed as well as control *of government* by itself, or by the people. 
+George quotes Madison: “Only a well-educated people can be permanantly a free people.” He says that even the madisonian system of checks and balances “aren’t worth the paper they are printed on” if people don’t understand and value them in the face of temptation.
 
-The government will always exist who wants to bribe the people with free stuff, shiny apples. So how do we create a populous who can resist that temptation? 
+Virtue is needed. Control of people by government is needed as well as control of government by itself, or by the people.
 
-Here we see the central political role of the family, the religious community, the school. These are devoted to the inculcation of knowledge and virtue. Private, often religiously-based institutions are necessary for the transmission of virtue. They assist the family in forming virtuous young people who can be good citizens. 
+The government will always exist who wants to bribe the people with free stuff, shiny apples. So how do we create a populous who can resist that temptation?
 
-In any society where the traditional family dissolves, physical, spiritual, emotional, and civil maladies multiply. Where government expands to do the roles of civil society, the family and civil society disintegrates and the limited government becomes impossible. 
+Here we see the central political role of the family, the religious community, the school. These are devoted to the inculcation of knowledge and virtue. Private, often religiously-based institutions are necessary for the transmission of virtue. They assist the family in forming virtuous young people who can be good citizens.
+
+In any society where the traditional family dissolves, physical, spiritual, emotional, and civil maladies multiply. Where government expands to do the roles of civil society, the family and civil society disintegrates and the limited government becomes impossible.
 
 The actual existence of virtue in the society is the only way the government rulers can actual become and remain servants.
 
