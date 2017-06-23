@@ -15,11 +15,60 @@ header:
 
 ---
 
+## Friday, 3:00pm -- Louis Markos, "CS Lewis and the Psychology of Hell"
 
+We were a little bit late into "Lou" Markos talk. However, picking up *in media res*. 
+
+Markos says that hell is not a pit you fall in all at once; hell is more like a swamp or marsh you edge into, little sin by little sin. 
+
+Hell was not intended for humans. The Bible says as much pretty explicitly. Matthew 25 says, in passing, "Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels." So hell is a place for those who have sacrificed their humanity. It's not that hell is a place for human beings who are beyond salvation; the problem is there is nothing left to save. 
+
+Markos is going to discuss three case studies from Lewis *Great Divorce*. He says Lewis is one of the great psychologists (as well as theologians, writers, apologists, literary critics). 
+
+The first is the case of the woman who grumbles so much she voluntarily chose hell, where she is able to grumble more. Lewis (through MacDonald) says she is not just "a grumbler" but she has become completely "a grumble." 
+
+The second is the case of the painter who loves the *techne* of painting so much that he lost his first love. What he fell in love with was the "light behind the landscape" and now, in heaven, confronted by that light, the painter turned away. He made an idol of the paint. 
+
+>"Love is the movement out of narcissism." --Louis Markos
+
+The third case is the unhappy person who tries to blackmail paradise. He says that heaven is above such pettiness. The unhappy brat, the cynical, the bitter, who cannot enjoy heaven himself wants to ruin it for everyone else -- but he can't. 
+
+"Shatan" is Hebrew for "accuser."
+
+
+## Friday, 2:00pm -- Douglas Wilson, "Three Central Duties"
+
+Douglas Wilson took the stage to a standing ovation of thanks from the crowd. 
+
+He expressed his gratitude to God for this movement. 
+
+His goal is to remind and to challenge the audience. Three points: 
+
+1. Gratitude and remembrance
+2. Three kindnesses of God
+3. Central challenges that will be faced
+
+
+Remember God's blessing. Gratitude is not what we fight for but fight with. God's blessings continue when we continue in gratitude.
+
+God loves us by remembering us. We love God by remembering him. When forgetfulness begins, that marks the decline of love. 
+
+He thanked his wife, Nancy, for having the idea. And his kids for loyalty in doing this form of education. His 17 grandkids too! He mentioned many people, including Marvin Olasky took a chance with the book "Recovering the Lost Tools of Learning" and Crossway books who published it. 
+
+He also has a challenge. Something could wreck your school: sin. Ego concerns, territory concerns, a lot of different kind of sins. Watch out for compromise, and especially watch out for forgetting. 
+
+1. Don't be too proud to learn from Catholic and Orthodox educators; but don't be ashamed of our glorious heritage of historic evangelical Protestantism. 
+2. Don't do low-carb classical. It can't be surfacey, scratch and sniff, especially in assembling your board. 
+3. Guard yourself from old idol of "respectability". Guard yourself snobbery, boasting in awards handed out by the secular establishment, such as awards and scholarships and test scores. You want God to accredit your school. You want to show yourselves approved by God. 
+4. When it comes to the LGBTABCD nonsense, you must have titanium spines. The world is going to come to you and demand. Only have two bathroom signs: XX and XY, because the bathrooms are on the far end of the science wing. Reporters will ask about the transgender student who's sad. Wilson said, hopefully the cameras are running, and he would say "Give me the student's name  and I'll throw his ass out." The audience grew silent. Wilson said there's a point to the vulgarity: if you have more of a problem with the word "ass" than with the practices of "Metrosexual Classical Academy" then you have already compromised and don't understand the severity of the situation. They will come after you with a club. They don't know what love or hate is, but they will come for you. Don't just fight the gender confusion issues, but don't get close to Darwin, or anything that rhymes with Darwin, or anything that smells like Darwin. If you believe that anything can turn into anything else then you are a babe in the woods and you aren't going to survive. 
+
+Wilson concluded with a quotation from Anthony Eselon about seeking the Kingdom first. 
+
+During the Q&A, Wilson was asked about what major objective students should have. Wilson responded that students should know how to think about the world to see through the magician's tricks. They need to know what to think, how to think, and have rightly ordered love. For right thinking is grounded in love. You can't think rightly about the world until you love the world. He was then asked about the ideal person coming out of our school. He said he can't describe that person because he is not that person. We just have to walk in the spirit, love God and love each other, and fight sin. 
 
 ## Friday, 1:30pm -- Oratory Contest
 
-A high school or college aged student presented her fascinating paper about sacred and secular uses of food. She is arguing that modernity since the industrial revolution has redefined food in anti-Christian ways. Our use of food leads to disconnect from creation, alienation from the body, and diet-culture eating. 
+A high school or college aged student presented her fascinating paper about sacred and secular uses of food. She is arguing that modernity since the industrial revolution has redefined food in anti-Christian ways. Our use of food leads to disconnect from creation, alienation from the body, and diet-culture eating. A Christian approach to food blesses creation and transforms ourselves and the world as an integrated whole, including blessing the content of our meals. 
 
 ## Friday, 9:50am -- "Telling the Story of the World"
 
@@ -70,7 +119,7 @@ Veritas Press does this well.
 
 
 
-## Thursday, 4:20 -- Andrew Kern, "Memory, Imitation, Harmony"
+## Thursday, 4:20pm -- Andrew Kern, "Memory, Imitation, Harmony"
 
 Three capacities that are fundamental to our humanity are memory, imitation, and harmony. 
 
@@ -80,6 +129,7 @@ Three capacities that are fundamental to our humanity are memory, imitation, and
 
 - Harmony. All things are made one in Christ, but that means not flattened into unity but harmonized. If all things are harmonized in Christ, then certainly all the curriculum must be harmonized in Christ. 
 
+Kern's talk was longer but these were the three "linear" points. 
 
 
 
