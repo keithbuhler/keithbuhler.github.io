@@ -15,7 +15,13 @@ header:
 
 ---
 
-## Friday, 9:50 -- "Telling the Story of the World"
+
+
+## Friday, 1:30pm -- Oratory Contest
+
+A high school or college aged student presented her fascinating paper about sacred and secular uses of food. She is arguing that modernity since the industrial revolution has redefined food in anti-Christian ways. Our use of food leads to disconnect from creation, alienation from the body, and diet-culture eating. 
+
+## Friday, 9:50am -- "Telling the Story of the World"
 
 History is hard to do because of the "vexing relationship" between how we see the world and how we tell its story. 
 
