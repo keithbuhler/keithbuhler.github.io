@@ -200,7 +200,7 @@ To teach the dative, he presents a situation, where we talk about the indirect o
 
 ## Thursday, 9:30am -- Break -- Douglas Wilson and Courtney Palumbo
 
-I ran into Douglas Wilson and he was gracious enough to grant me an interview. I didn't have a cameraman so it was a "selfie" interview... I'll post that as soon as I get it edited. 
+I ran into Douglas Wilson, pastor, writer, author, blogger, and godfather of the classical education revival, and he was gracious enough to grant me an interview. I didn't have a cameraman so it was a "selfie" interview... I'll post that as soon as I get it edited. 
 
 I also ran into my friend Courtney Palumbo of [Regents School in Charlottesville](http://regents-school.org/). Check out the amazing things they are doing there in Virginia. 
 
