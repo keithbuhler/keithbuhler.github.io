@@ -11,7 +11,7 @@ sidebar:
 ### Curriculum Vitae (2017)
 ### Keith Buhler
 
-#### [PDF version](http://www.keithbuhler.com/cv.pdf)
+#### [PDF version](http://www.keithbuhler.com/content/CV/cv.pdf)
 
 
 ### EDUCATION

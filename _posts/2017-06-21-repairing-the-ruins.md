@@ -33,7 +33,10 @@ The second is the case of the painter who loves the *techne* of painting so much
 
 The third case is the unhappy person who tries to blackmail paradise. He says that heaven is above such pettiness. The unhappy brat, the cynical, the bitter, who cannot enjoy heaven himself wants to ruin it for everyone else -- but he can't. 
 
-"Shatan" is Hebrew for "accuser."
+Markos said that one of the biggest lies is that satan makes people free to be themselves. In fact, satan makes people cookie cutter by badgering them with criticism and shame and self-hatred and despair. "Shatan" is Hebrew for "accuser." He accuses. His accusations ruin all the fun. God makes people free to be themselves, and makes us happy. Go to a party where Jesus turns water into wine.
+
+
+
 
 
 ## Friday, 2:00pm -- Douglas Wilson, "Three Central Duties"
