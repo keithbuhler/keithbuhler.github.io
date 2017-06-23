@@ -1,5 +1,5 @@
 ---
-title:  Live Blogging at "Repairing the Ruins" 
+title: Language, Beauty, and Standardized Tests at the (2017) Repairing the Ruins Conference
 categories: [Classical education]
 tags: [classical education]
 permalink: 
@@ -14,6 +14,55 @@ header:
 *The Buhler Report is live-blogging the [ACCS](https://classicalchristian.org/) [Repairing the Ruins](http://2017.repairingtheruins.org/) conference (2017) in Pittsburgh. Repairing the Ruins is the largest such conference in the country. Sessions cover big ideas and practical details of classical education in our context today. Updates below.*
 
 ---
+
+## Friday, 9:50 -- "Telling the Story of the World"
+
+History is hard to do because of the "vexing relationship" between how we see the world and how we tell its story. 
+
+History has been done differently over time. Just as a scientist would never use Harvard's science curriculum from 1850, but should know it, so a historian should not do history like Herodotus or Eusebius but should know it. 
+
+What has changed? A commitment to reductive explanations, a rejection of divine providence. Science is the "real method" for understanding not just natural world but everything, including human history. Out are metaphysics, divine, telos, familial, hierarchical; in are the empirical, open-ended, material, individual, and flat. 
+
+At one point, the goal was to be "unbiased" and "objective." In many circles, that has changed. There is a postmodern crisis in history where any one with a bias and narrative (queer, Marxist, etc.) can do a legitimate "reading" of history. 
+
+How can Christian interventions solve this dilemma?
+
+Jay Green identifies "Five Rival Versions" of Christian Historiography. (Examples: Marshall, Mark Noll) 
+
+1. Historical study that takes religion seriously
+2. Historical study through the lens of Christian faith commitments (worldview) 
+3. Historical study as applied Christian ethics
+4. Historical study as Christian apologetic
+5. Historical study as search for God
+6. Historical study as Christian vocation
+
+Mark Noll's providentialist matrix (from *Jesus Christ and the Life of the Mind* 2011). 
+
+General History   General revelation and special revelation
+Christian events  General revelation and special revelation
+
+Radical proposals like Steven Keillor offer tentative interpretations of providence. 
+
+A twofold proposal: 
+
+1. History as storytelling
+2. History as part of a story
+
+
+**History as storytelling**. The Hayden White (1973) "Interpretation in History", recommends presenting history as a plot structure with a sequence of events that reveals their nature as a story of a particular kind. Embrace it. Two people could tell the same 25 facts about the American Revolution *as* a romance of the victory of justice or *as* a tragedy of the victory of the oppressing class. 
+
+The discipline is that you have to stick to the facts. Doris Betts (*Shouts and Whispers*) knows that what you believe will sink into the facts like a stain.
+
+If we see ourselves as storytellers, not just fact presenters, or researchers, we can connect with our students.
+
+
+**History as part of a story**. History is dependent. It's a branch of the tree of learning. Wendell erry "If we represent knowledge as a tree, we know that things are divided are yet connected." We have a shared language in theology. Theology is a set of doctrines that help us tell stories better. What does the atonement look like not just in a theologian but in the world as a historical principle operating even now, as I speak. Then we can talk about what the civil war means. The great movements and actions of the church in history. As we study theology, we can incorporate other disciplines, anthropology, literature. 
+
+Veritas Press does this well. 
+
+
+
+
 
 ## Thursday, 4:20 -- Andrew Kern, "Memory, Imitation, Harmony"
 
@@ -42,9 +91,7 @@ I was late for the Turley talk, unfortunately, because what I heard was very goo
 
 ## Thursday, 1:25pm -- Robert George, "Constitutional structures"
 
-A live-blog summary of Robert P. George's talk, “Constitutional Structures”, delivered at the ACCS “Repairing the Ruins” Conference. (Apologies for any of errors and omissions!)
-
---- 
+![robert george](http://brandonvogt.com/wp-content/uploads/Robert-George-Banner-575x349.jpg)
 
 Dr. George prefaces his talk by suggesting that the classical schooling movement is important for preserving the constitutional structure of our American government. 
 
@@ -87,7 +134,7 @@ The actual existence of virtue in the society is the only way the government rul
 
 ## Thursday, 11:10am -- John Mark Reynolds "Avoiding the Temptation of Christian Leninism" 
 
-![john mark](/images/rr4.JPG)
+![john mark](https://i.ytimg.com/vi/FLIW0hXn_Wc/maxresdefault.jpg)
 
 John Mark is talking about the cultural shifts that happen about on the 70 year marks. 
 
