@@ -10,7 +10,7 @@ related:
 
 
 
-*"The Buhler Report" is a conversational blog about classical education, liberal arts, philosophy, politics, film, and more. Comments and emails from enemies and friends, new and old, are much appreciated. (Note: The comment functionality is currently under construction.) I aim to bring you timeless wisdom and current events. Thanks for reading!*
+*"The Buhler Report" is a conversational blog delivering timeless wisdom and current events in classical education, liberal arts, philosophy, politics, film, and more. Reader comments and emails are much appreciated, whether positive or negative (Note: The comment functionality is currently under construction.)  Thanks for reading!*
 
 <br>
 
