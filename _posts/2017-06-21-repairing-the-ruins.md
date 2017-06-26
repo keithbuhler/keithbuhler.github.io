@@ -16,6 +16,17 @@ header:
 ---
 
 
+- Louis Markos, "CS Lewis and the Psychology of Hell"
+- Douglas Wilson, "Three Central Duties"
+- "Telling the Story of the World"
+- Andrew Kern "Memory, Imitation, Harmony"
+- Turley, "Beauty Matters"
+- Robert George, "Constitutional Structures"
+- John Mark Reynolds, "Avoiding the Temptation to Christian Leninism"
+- and more!
+
+<!--more-->
+
 
 ## Friday, 3:00pm -- Louis Markos, "CS Lewis and the Psychology of Hell"
 
