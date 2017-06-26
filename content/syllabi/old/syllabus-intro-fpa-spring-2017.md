@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-permalink: /history/
+permalink: /intro-fpa
 title: Introduction to Philosophy Syllabus
 ---
 
