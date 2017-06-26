@@ -1,14 +1,16 @@
 ---
 layout: page
-permalink: /history/
+permalink: /greek/
 title: 
 ---
 
-#### [Fall 2017 Syllabus PDF](/syllabi/syllabus-intro-fpa-spring-2017.pdf)   
+#### [Fall 2017 Syllabus PDF](/syllabi/greek-syllabus-trinity.pdf)   
+
+<center>
 
 \begin{center}
 
-Ancient and Roman History Syllabus
+Ancient Greek
 
 Dr. Buhler 
 
@@ -16,32 +18,30 @@ kbuhler@trinityclassicalacademy.com
 
 \end{center}
 
+</center>
+
 ### Required Books: 
-- *English Standard Version of the Bible: ESV Study Bible.*
-- Peter Leithart, *The Four: A Survey of the Gospels* 
-- A three ring binder with dividers devoted to this class
+- Athanaze
 
 ### Handouts (provided)
-- Western Civilization; 8th Edition, Spielvogel 
+- Plato
+- Tricky words and phrases
+- Declensions
+
 
 
 
 ### Course Description:
-This course is intended produce students who are keen observers of history and careful readers of the Holy Scriptures.  By developing these skills together, students can expect to gain a better appreciation for the ongoing dialog between man and God throughout history.
+This course is intended to enable students to read and translate ancient Greek, including Plato, Xenophon, and New Testament Greek. Students will learn the basics of alphabet, pronunciation, and grammar, memorize a Greek vocabulary of 500+ common words, as well as become proficient with advanced declensions, conjugations, tenses, accent marks, and enclitics. Students will also become familiar with Greek cultural and historical relevancies.  By the end of the year, students will be excited and empowered to read, understand, and translate the New Testament directly from the original Greek. 
 
-Specifically, this course covers the History of Rome and its impact on Western Civilization up through the Middle Ages. We cover about 1200 years, from 400 BC-600 AD, with special focus on 0-400 AD, during which time Rome became an empire, Jesus was born, lived, and started the Church, and the New Testament was written.
-
-Humanities is a discipline based upon the manipulation of abstract ideas more than the learning of concrete facts. The goal is formation of good thought patterns and excellent character, rather than mastery of a body of technical knowledge. As a result, Humanities coursework involves reading and discussion more than anything else. Humanities homework, when assigned, will generally involve reading and note-taking, but most of our work actually takes place in the classroom. 
-
+Language is a discipline built on rote memorization and immersion into the thought-patterns of a foreign time and place. The goal is not only to be able to translate English thoughts into Greek words but to "think in Greek" as soon as possible. As a result, students are expected to devote time and energy to memorizing vocabulary, practicing declension and conjugation forms, and doing translations in and out of class. 
 
 
 ### Learning Goals:
 
-* To become familiar with the contours of western history
-* To understand the Gospels and the New Testament in its historical context
-* To understand the complexity of the causes of major historical events
-* To understand, test, and defend the Christian worldview applied to Rome, Greece, and the early Church.
-* To become more virtuous and wise human beings in the pursuit of goodness, truth, and beauty.
+* To memorize the Greek alphabet, especially new letters such as phi, upsilon, eta, and chi.
+* To learn Greek word-concepts like 'logos', 'bios', 'paidos'.
+* To read, understand, and translate short Greek sentences and longer Greek primary texts such as Plato, Xenophon, and the New Testament
 
 ### Scope, Sequence, and Grades:
 
@@ -61,11 +61,6 @@ You will be graded primarily on reading, participation, and tests, plus applicab
 
 
  
-
-
-### Reading tips
-
-Read ahead. There is a lot of reading but read carefully and slowly as need be; you will get faster, but start slow and careful. Try to read _and understand_ the book or essay. Ask yourself: What is the main thesis? Is it true? Take notes. Talk with each other before class. Ask yourselves and each other: What is the main point? What confused me? Come to class with objections, questions, and arguments. More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
 
 ### Quizzes
 
@@ -133,8 +128,77 @@ Late work will not be accepted.  In the case of emergencies or absences known ah
 
 The outline tells you the reading due each day, the topic. The outline is *subject to changes* for weather, sicknesses, travel, etc. The online version is always up to date.
 
-### Unit 1 Origins
 
-### Week 1 -- 
+### Week 1 (Quarter 1)
 
-Aug-24 
+### Week 2
+
+### Week 3
+
+### Week 4
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
+
+### Week 9 
+
+### Week 10 (Quarter 2)
+
+### Week 11
+
+### Week 12
+
+### Week 13
+
+### Week 14
+
+### Week 15
+
+### Week 16
+
+### Week 17
+
+### Week 18
+
+----- 
+
+### Week 19 (Quarter 3)
+
+### Week 20
+
+### Week 21
+
+### Week 22
+
+### Week 23
+
+### Week 24
+
+### Week 25
+
+### Week 26
+
+### Week 27
+
+### Week 28 (Quarter 4)
+
+### Week 29
+
+### Week 30
+
+### Week 31
+
+### Week 32
+
+### Week 33
+
+### Week 34
+
+### Week 35
+
+### Week 36

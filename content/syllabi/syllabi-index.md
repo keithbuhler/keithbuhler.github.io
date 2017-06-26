@@ -7,6 +7,32 @@ header:
       image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
 permalink: /syllabi/
 feature_row:
+
+---
+
+### Current Courses
+
+- [History-Bible (9th grade)](/history)
+- [Pre-Rhetoric Writing (9th grade)](/rhetoric)
+- [Greek (12th grade elective)](/greek)
+
+
+
+### Prior Courses
+
+- Business Ethics ([Syllabus](/syllabus334))  
+- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
+- Philosophy of Religion    
+- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
+- Introduction to Philosophy ([Syllabus](/syllabus200))  
+- Introduction to Philosophy (FPA) ([Syllabus](http://www.keithbuhler.com/intro))
+- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
+- Introduction to Logic   
+
+
+{% include feature_row id="intro" type="center" %}
+
   - image_path: http://www.keithbuhler.com/images/syllabus-334.png
     alt: "Business Ethics"
     title: "Business Ethics"
@@ -27,21 +53,6 @@ feature_row:
     url: "http://www.keithbuhler.com/introduction"
     btn_label: "Syllabus"
     btn_class: "btn--inverse"
----
-
-{% include feature_row id="intro" type="center" %}
-
+    
 {% include feature_row %}
 
-
-### Prior Courses
-
-- Business Ethics ([Syllabus](/syllabus334))  
-- Philosophy of CS Lewis ([Syllabus](/syllabus251))  
-- Philosophy of Religion    
-- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
-- Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
-- Introduction to Philosophy ([Syllabus](/syllabus200))  
-- Introduction to Philosophy (FPA) ([Syllabus](http://www.keithbuhler.com/intro))
-- Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
-- Introduction to Logic   
