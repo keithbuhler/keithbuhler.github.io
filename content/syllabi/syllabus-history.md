@@ -1,5 +1,5 @@
 ---
-layout: philosophy
+layout: page
 permalink: /history/
 title: 
 ---
