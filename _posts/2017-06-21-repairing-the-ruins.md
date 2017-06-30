@@ -1,5 +1,5 @@
 ---
-title: Language, Beauty, and Standardized Tests at the ACCS "Repairing the Ruins" 2017 Conference
+title: Language, Beauty, and Standardized Tests at "Repairing the Ruins" 2017
 categories: [Classical education]
 tags: [classical education]
 permalink: 
@@ -11,10 +11,29 @@ header:
 
 ![header image](http://2017.repairingtheruins.org/wp-content/uploads/2016/11/slider_pittsburgh_new-1170x400.jpg)
 
-*The Buhler Report was live-blogging the [ACCS](https://classicalchristian.org/) [Repairing the Ruins](http://2017.repairingtheruins.org/) 2017 Conference June 22-23. "Repairing the Ruins" is the largest national conference for classical Christian education. Sessions cover big ideas and practical details of classical education in our context today. Updates below.*
 
----
+In June 22-23, The Buhler Report attended and live-blogged several talks and workshops from the   [Repairing the Ruins](http://2017.repairingtheruins.org/) Conference in Pittsburgh, PA. 
 
+"Repairing the Ruins" is put on by the [ACCS](https://classicalchristian.org/) and is the largest conference for classical Christian education in the nation. Sessions cover big ideas and practical details of classical education in our context today. 
+
+### A few highlights
+
+
+> “Love is the movement out of narcissism.” --Louis Markos
+
+>God loves us by remembering us. We love God by remembering him. When forgetfulness begins, that marks the decline of love. -- Douglas Wilson
+
+>"All things are made one in Christ, but that means not flattened into unity but harmonized. If all things are harmonized in Christ, then certainly all the curriculum must be harmonized in Christ." --Andrew Kern
+
+>"Beautiful art redeems our fallen senses." --Steve Turley
+
+>“You can have morality without religion. But you can’t have morality in large groups, sustained over time, across generations, without religion.” --Robert George
+
+>"No one will save education or save this generation in a time of turmoil if we do not. The eagles are not coming. Or rather, you are the eagles. And only God can destroy the ring." -- John Mark Reynolds
+
+
+
+Read below for updates from: 
 
 - Louis Markos, "CS Lewis and the Psychology of Hell"
 - Douglas Wilson, "Three Central Duties"
