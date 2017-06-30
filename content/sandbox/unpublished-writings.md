@@ -18,7 +18,7 @@ I am a devout amateur, which means 'lover.' Everyone should create things becaus
 ## Philosophical Dialogues
 * [Yapha Poesis Ivinitus: A Short Myth of Language​](https://drive.google.com/file/d/0B0CYQDZ8AWu8cEZNaWxxOGwtR00/view) 
 * [Still In the Shining Sea: An American Myth](/buhlerreport/american-myth) 
-* [The Sin of Satan: On the Problem of Evil](/buhlerreport/sinofsatan) 
+* [The Sin of Satan: On the Problem of Evil](/buhlerreport/sinofsatan) -- (see also [this William Wood paper](https://www.academia.edu/12180892/Anselm_of_Canterbury_on_the_Fall_of_the_Devil_The_Hard_Problem_the_Harder_Problem_and_a_New_Formal_Model_of_the_First_Sin) addressing the same topic in a scholarly, monological way.)
 * [Heraclitus De-fragmented: An Interpretation](/buhlerreport/heraclitus)
 
 

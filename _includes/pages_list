@@ -4,12 +4,12 @@
     	{% if page.url == node.url %}
     	<ol class="breadcrumb">
     		<li class="active"><a href="{{ node.url | prepend: site.baseurl }}" class="active">{{ node.title }}</a></li>
-    		<li style="float:right;"><span>{{ node.date | date: "%b %d, %Y” }}</span></li>
+    		<li style="float:right;"><span>{{ node.date | date: “%a, %b %d, %y” }}</span></li>
     	</ol>
     	{% else %}
     	<ol class="breadcrumb">
     		<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
-    		<li style="float:right;"><span>{{ node.date | date: "%b %d, %Y” }}</span></li>
+    		<li style="float:right;"><span>{{ node.date | date: “%a, %b %d, %y” }}</span></li>
     	</ol>
     	{% endif %}
     {% endif %}

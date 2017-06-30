@@ -74,7 +74,13 @@ feature_row3:
 
 ---
 
-The Sandbox is a place for a bevy of fun projects I'm playing with, whether they are complete or in development. ([Image Credit: **Ted Nasmith**](http://www.tednasmith.com/))
+<br>
+
+<center>
+
+This Sandbox page is a playground full of fun projects in various stages of completion. Feel free to poke around and let me know if you have any feedback. 
+
+</center>
 
 <br>
 
@@ -112,3 +118,6 @@ The Sandbox is a place for a bevy of fun projects I'm playing with, whether they
 
 
 
+### Image Credit 
+
+The banner image above is one of many [beautiful renderings by the artist **Ted Nasmith.**](http://www.tednasmith.com/) Check out more of his work at his website.
