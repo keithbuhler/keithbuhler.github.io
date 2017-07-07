@@ -11,7 +11,7 @@ sidebar:
 ### Curriculum Vitae (2017)
 ### Keith Buhler
 
-#### [PDF version](http://www.keithbuhler.com/content/CV/cv.pdf)
+#### [PDF version](http://www.keithbuhler.com/content/CV/cv-buhler.pdf)
 
 
 ### EDUCATION
@@ -29,6 +29,7 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 
 
 ### EMPLOYMENT
+1. Humanities Teacher (History, Greek, Writing), Trinity Classical Academy, 2017 - present
 1. Postdoctoral Scholar, University of Kentucky,  Spring 2017 
 2. Instructor of Philosophy, Asbury University, 2013-2017
 3. Director of High School, Veritas Academy, 2013-2014
@@ -99,6 +100,7 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 
 ### PRESENTATIONS
 
+1. University of St. Katherine, Forum Lectures, Fall 2017.
 1. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
 2. "Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
 3. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
@@ -130,7 +132,8 @@ Areas of competence:  Philosophy of Mind, and Philosophy of Religion.
 
 ### INVITED PUBLIC TALKS
 
-1. "Morality: Rule-following or New Life?," Wesleyan Society, Lexington KY, 2014.
+1. Vainglory and Pride, Sojourner's Theology Patio, August 2017
+2. "Morality: Rule-following or New Life?," Wesleyan Society, Lexington KY, 2014.
 2. "Reading Great Books in Classical Education," Veritas Academy, Lexington KY, 2013.
 3. "The Goodness of the Tao: CS Lewis' *Abolition of Man*," Torrey Academy, CA  2012.
 4. "Is Vainglory Pride? Dorothy Sayers' *Gaudy Night*," Torrey Academy, 2012.

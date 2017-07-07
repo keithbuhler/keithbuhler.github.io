@@ -9,57 +9,101 @@ layout: page
 
 {% include toc %}
 
-## Abortion
+## Abortion, post-birth termination
 
-1. Two ethicists working with Australian universities argue in the latest online edition of the Journal of Medical Ethics that if abortion of a fetus is allowable, so to should be the termination of a newborn.
+>Two ethicists working with Australian universities argue in the latest online edition of the Journal of Medical Ethics that if abortion of a fetus is allowable, so to should be the termination of a newborn.
 
-Alberto Giubilini with Monash University in Melbourne and Francesca Minerva at the Centre for Applied Philosophy and Public Ethics at the University of Melbourne write that in “circumstances occur[ing] after birth such that they would have justified abortion, what we call after-birth abortion should be permissible.”
+>Alberto Giubilini with Monash University in Melbourne and Francesca Minerva at the Centre for Applied Philosophy and Public Ethics at the University of Melbourne write that in “circumstances occur[ing] after birth such that they would have justified abortion, what we call after-birth abortion should be permissible.”
 
-The two are quick to note that they prefer the term “after-birth abortion“ as opposed to ”infanticide.” Why? Because it “[emphasizes] that the moral status of the individual killed is comparable with that of a fetus (on which ‘abortions’ in the traditional sense are performed) rather than to that of a child.” The authors also do not agree with the term euthanasia for this practice as the best interest of the person who would be killed is not necessarily the primary reason his or her life is being terminated. In other words, it may be in the parents’ best interest to terminate the life, not the newborns.
+>The two are quick to note that they prefer the term “after-birth abortion“ as opposed to ”infanticide.” Why? Because it “[emphasizes] that the moral status of the individual killed is comparable with that of a fetus (on which ‘abortions’ in the traditional sense are performed) rather than to that of a child.” The authors also do not agree with the term euthanasia for this practice as the best interest of the person who would be killed is not necessarily the primary reason his or her life is being terminated. In other words, it may be in the parents’ best interest to terminate the life, not the newborns.
 
-The circumstances, the authors state, where after-birth abortion should be considered acceptable include instances where the newborn would be putting the well-being of the family at risk, even if it had the potential for an “acceptable” life. The authors cite Downs Syndrome as an example, stating that while the quality of life of individuals with Downs is often reported as happy, “such children might be an unbearable burden on the family and on society as a whole, when the state economically provides for their care.”
+>The circumstances, the authors state, where after-birth abortion should be considered acceptable include instances where the newborn would be putting the well-being of the family at risk, even if it had the potential for an “acceptable” life. The authors cite Downs Syndrome as an example, stating that while the quality of life of individuals with Downs is often reported as happy, “such children might be an unbearable burden on the family and on society as a whole, when the state economically provides for their care.”
 
-This means a newborn whose family (or society) that could be socially, economically or psychologically burdened or damaged by the newborn should have the ability to seek out an after-birth abortion. They state that after-birth abortions are not preferable over early-term abortions of fetuses but should circumstances change with the family or the fetus in the womb, then they advocate that this option should be made available.
+>This means a newborn whose family (or society) that could be socially, economically or psychologically burdened or damaged by the newborn should have the ability to seek out an after-birth abortion. They state that after-birth abortions are not preferable over early-term abortions of fetuses but should circumstances change with the family or the fetus in the womb, then they advocate that this option should be made available.
 
-The authors go on to state that the moral status of a newborn is equivalent to a fetus in that it cannot be considered a person in the “morally relevant sense.”
+>The authors go on to state that the moral status of a newborn is equivalent to a fetus in that it cannot be considered a person in the “morally relevant sense.”
 
-2. Florida legislators considering a bill to require abortionists to provide medical care to an infant who survives an abortion were shocked during a committee hearing this week when a Planned Parenthood official endorsed a right to post-birth abortion. Alisa LaPolt Snow, the lobbyist representing the Florida Alliance of Planned Parenthood Affiliates, testified that her organization believes the decision to kill an infant who survives a failed abortion should be left up to the woman seeking an abortion and her abortion doctor. To be clear, sponsor of the bill Republican Rep. Cary Pigman has said his interest in the bill is “solely and strictly to provide care for that infant that is born alive, following any procedure, that it receives full and appropriate resuscitation.” But Snow thinks politicians shouldn’t be the ones to decide “what constitutes the best medically appropriate treatment in any given situation.” Needless to say, the lawmakers were absolutely stunned: "So, um, it is just really hard for me to even ask you this question because I’m almost in disbelief," said Rep. Jim Boyd. "If a baby is born on a table as a result of a botched abortion, what would Planned Parenthood want to have happen to that child that is struggling for life?” "We believe that any decision that's made should be left up to the woman, her family, and the physician," said Planned Parenthood lobbyist Snow. Rep. Daniel Davis then asked Snow, "What happens in a situation where a baby is alive, breathing on a table, moving. What do your physicians do at that point?” "I do not have that information," Snow replied. "I am not a physician, I am not an abortion provider. So I do not have that information.” Rep. Jose Oliva followed up, asking the Planned Parenthood official, "You stated that a baby born alive on a table as a result of a botched abortion that that decision should be left to the doctor and the family. Is that what you’re saying?” Again, Snow replied, “That decision should be between the patient and the health care provider.”“I think that at that point the patient would be the child struggling on the table, wouldn’t you agree?” asked Oliva."That’s a very good question. I really don’t know how to answer that," Snow said. "I would be glad to have some more conversations with you about this.” ([Townhall reporter Leah Barkoukis](https://townhall.com/tipsheet/leahbarkoukis/2013/03/29/planned-parenthood-official-endorses-right-to-kill-babies-born-alive-n1553161))
 
+Question: If terminating a fetus is morally permissible, then is terminating a newborn morally permissible? If terminating a newborn is wrong, then is terminating a fetus wrong? Why or why not?
+
+## Abortion, post-birth medical care
+
+>Florida legislators considering a bill to require abortionists to provide medical care to an infant who survives an abortion were shocked during a committee hearing this week when a Planned Parenthood official endorsed a right to post-birth abortion. Alisa LaPolt Snow, the lobbyist representing the Florida Alliance of Planned Parenthood Affiliates, testified that her organization believes the decision to kill an infant who survives a failed abortion should be left up to the woman seeking an abortion and her abortion doctor. To be clear, sponsor of the bill Republican Rep. Cary Pigman has said his interest in the bill is “solely and strictly to provide care for that infant that is born alive, following any procedure, that it receives full and appropriate resuscitation.” But Snow thinks politicians shouldn’t be the ones to decide “what constitutes the best medically appropriate treatment in any given situation.” 
+
+>Needless to say, the lawmakers were absolutely stunned: "So, um, it is just really hard for me to even ask you this question because I’m almost in disbelief," said Rep. Jim Boyd. "If a baby is born on a table as a result of a botched abortion, what would Planned Parenthood want to have happen to that child that is struggling for life?” "We believe that any decision that's made should be left up to the woman, her family, and the physician," said Planned Parenthood lobbyist Snow. Rep. Daniel Davis then asked Snow, "What happens in a situation where a baby is alive, breathing on a table, moving. What do your physicians do at that point?” "I do not have that information," Snow replied. "I am not a physician, I am not an abortion provider. So I do not have that information.” 
+
+>Rep. Jose Oliva followed up, asking the Planned Parenthood official, "You stated that a baby born alive on a table as a result of a botched abortion that that decision should be left to the doctor and the family. Is that what you’re saying?” Again, Snow replied, “That decision should be between the patient and the health care provider.”“I think that at that point the patient would be the child struggling on the table, wouldn’t you agree?” asked Oliva."That’s a very good question. I really don’t know how to answer that," Snow said. "I would be glad to have some more conversations with you about this.” ([Townhall reporter Leah Barkoukis](https://townhall.com/tipsheet/leahbarkoukis/2013/03/29/planned-parenthood-official-endorses-right-to-kill-babies-born-alive-n1553161))
+
+
+Question: Is a baby who survives an abortion, born alive, now a medical patient to whom the doctors are obligated to give care? 
 
 
 ## American Empire
 
-1. The intense controversy that this question engenders is remarkable. On the left, critics of assertive American foreign, military, and economic policies depict these policies as aggressively immoral by branding them “imperial.” On the right, advocates for an even more forceful application of American “hard power,” such as Niall Ferguson and the other members of his self-described “neo-imperialist gang,” argue that the United States should use its immense wealth and military might to impose order and stability on an increasingly chaotic world. The two positions appear to be polar opposites, but they both assume that the United States is in fact an empire. One faction argues that imperial hard power can be put to just and humane uses, while the other sees empires as inherently illegitimate and malevolent. And both sides tend to use the Roman Empire as a cautionary reference point in arguing over whether the “American Empire” is likely to fall. This debate is pointless and ahistorical. The United States is not an empire because, quite simply, there are no empires any more. By strict definition, empire meant the overt, formal, direct, and authoritarian rule of one group of people over another. Empires ruled permanently different and disenfranchised subjects, while the populations of twenty-first century nation states are, at least in theory, rights-bearing citizens. Many of these contemporary states encompass communities that have their own frustrated nationalist ambitions, but no modern government would cite empire as their reason for denying separatist groups the right of self-determination. Doing so would be an open admission of tyranny. Empire became so stigmatized over the course of the twentieth century, particularly after the1960 United Nations resolution 1514 (XV) labeled foreign imperial rule “a denial of fundamental human rights,” that no power would admit to being one. (Timothy Parsons is a Professor of African History at Washington University.)
-2. "Three decades ago, the radical left used the term "American empire" as an epithet. Now that same term has come out of the closet: analysts on both the left and right now use it to explain - if not guide - American foreign policy. In many ways, the metaphor of empire is seductive. The American military has a global reach, with bases around the world, and its regional commanders sometimes act like proconsuls. English is a lingua franca like Latin. The US economy is the largest in the world, and American culture serves as a magnet. But it is a mistake to confuse primacy with empire." ([Joseph Nye](https://www.project-syndicate.org/columnist/joseph-s--nye) )
+>The intense controversy that this question engenders is remarkable. On the left, critics of assertive American foreign, military, and economic policies depict these policies as aggressively immoral by branding them “imperial.” On the right, advocates for an even more forceful application of American “hard power,” such as Niall Ferguson and the other members of his self-described “neo-imperialist gang,” argue that the United States should use its immense wealth and military might to impose order and stability on an increasingly chaotic world. 
+
+The two positions appear to be polar opposites, but they both assume that the United States is in fact an empire. One faction argues that imperial hard power can be put to just and humane uses, while the other sees empires as inherently illegitimate and malevolent. And both sides tend to use the Roman Empire as a cautionary reference point in arguing over whether the “American Empire” is likely to fall. This debate is pointless and ahistorical. The United States is not an empire because, quite simply, there are no empires any more. By strict definition, empire meant the overt, formal, direct, and authoritarian rule of one group of people over another. Empires ruled permanently different and disenfranchised subjects, while the populations of twenty-first century nation states are, at least in theory, rights-bearing citizens. Many of these contemporary states encompass communities that have their own frustrated nationalist ambitions, but no modern government would cite empire as their reason for denying separatist groups the right of self-determination. Doing so would be an open admission of tyranny. Empire became so stigmatized over the course of the twentieth century, particularly after the1960 United Nations resolution 1514 (XV) labeled foreign imperial rule “a denial of fundamental human rights,” that no power would admit to being one. (Timothy Parsons is a Professor of African History at Washington University.)
+
+"Three decades ago, the radical left used the term "American empire" as an epithet. Now that same term has come out of the closet: analysts on both the left and right now use it to explain - if not guide - American foreign policy. In many ways, the metaphor of empire is seductive. The American military has a global reach, with bases around the world, and its regional commanders sometimes act like proconsuls. English is a lingua franca like Latin. The US economy is the largest in the world, and American culture serves as a magnet. But it is a mistake to confuse primacy with empire." ([Joseph Nye](https://www.project-syndicate.org/columnist/joseph-s--nye) )
 
 
-## Apatheia, dispassion, detachment
+Question: Is America an empire? What is an empire? 
 
-1. And I say to mankind, Be not curious about God, / For I who am curious about each am not curious about God, /  (No array of terms can say how much I am at peace about God and about death.) /  I hear and behold God in every object, yet understand God not in the least. (Walt Whitman, Leaves of Grass)
-2. “Diogenes Laertius cites life, health, pleasure, beauty, strength, wealth, good reputation, and noble birth as examples of preferables, and death, disease, pain, ugliness, poverty, ad reputation, and low birth, as examples of non-preferables.” (Nicholas Wolterstorff, Justice: Rights and Wrongs, (Princeton: 2008), 162)
+
+## Apatheia (dispassion, detachment) about God
+
+>And I say to mankind, Be not curious about God, / For I who am curious about each am not curious about God, /  (No array of terms can say how much I am at peace about God and about death.) /  I hear and behold God in every object, yet understand God not in the least. (Walt Whitman, Leaves of Grass)
+
+Question: Is Whitman's "peace" about God genuine? Should we be curious about God or be at peace seeing and beholding God in every object but not understanding Him in the least?
+
+
+>Where is my dewelling place? Where I can never stand. 
+>Where is my final goal, toward which I should ascend? 
+>It is beyond all place. What should my quest then be? 
+>I must, transcending God, into the desert flee. (Angelus Silesius, Cherubinic Wanderer, "One Must Go Beyond God")
+
+Question: Is it possible to go "beyond God"? What does this phrase mean? Is it advisable to "transcend God"? What is the "desert"? 
+
+## Apatheia, (dispassion, detachment)
+
+>“Diogenes Laertius cites life, health, pleasure, beauty, strength, wealth, good reputation, and noble birth as examples of preferables, and death, disease, pain, ugliness, poverty, ad reputation, and low birth, as examples of non-preferables.” (Nicholas Wolterstorff, *Justice: Rights and Wrongs*, (Princeton: 2008), 162)
+
+Question: Are Laertius' "preferables" necessary or just preferable? Are his "non-preferables" horrifying tragedies or merely non-preferrable?
 
 
 
 ## Christianity, is it a religion?
 
-1. If Judaism is a religion, then Christianity is a religion. If Christianity is not a religion, then Judaism is not a religion.
+>If Judaism is a religion, then Christianity is a religion. If Christianity is not a religion, then Judaism is not a religion.
+
+Question: Is Christianity a religion? 
 
 ## Conservatism
 
-1. “Adams also excoriated the French speculators not only for their infatuation with human perfectibility, but also for their love of equality. Adams insisted that, far from all men being substantially equal, there actually is a natural aristocracy of men, formed from the benefactors of the unavoidable inequality of humankind. Like Burke, Adams held to every man having equal rights to his own and equal standing before God. Beyond that, though, men are unequal in their powers and faculties, influence in society, property and advantages, piety and iniquity, and nearly every other attribute.” — Russel Kirk, “The Conservative Mind”
-4. “Many people on the left are skeptical towards utopian impulses; at the same time, having allied themselves beneath a moralizing banner, they inevitably find themselves galvanized, inspired and eventually governed by the most fervent members of their sect. For politics on the left is politics with a goal: your place within the alliance is judged by the lengths you are prepared to go to on behalf of ‘social justice’, however defined.” —Roger Scruton, “Thinkers of the New Left”
-5. “After the long domination of liberalism, with its adulation of the “common man,” its faith in mechanistic political solutions to all human problems, its rejection of the tragic and heroic aspects of life, and the not exactly inspiring prose in which its ideas are usually expressed, after all this, I repeat, such sentiments as “the unbought grace of life,” the “eternal chain of right and duty which links great and obscure, living and dead,” a view of politics as “the art of apprehending and applying the Justice which is above nature,” came like rain after a long drought.” (Henry Regnery, introduction to Russell Kirk, The Conservative Mind)
+>“Adams also excoriated the French speculators not only for their infatuation with human perfectibility, but also for their love of equality. Adams insisted that, far from all men being substantially equal, there actually is a natural aristocracy of men, formed from the benefactors of the unavoidable inequality of humankind. Like Burke, Adams held to every man having equal rights to his own and equal standing before God. Beyond that, though, men are unequal in their powers and faculties, influence in society, property and advantages, piety and iniquity, and nearly every other attribute.” (Russel Kirk, “The Conservative Mind”)
+
+Question: Are human beings "equal"? If so, in what respect? If not, then is equality a moral ideal or not? 
+
+>“Many people on the left are skeptical towards utopian impulses; at the same time, having allied themselves beneath a moralizing banner, they inevitably find themselves galvanized, inspired and eventually governed by the most fervent members of their sect. For politics on the left is politics with a goal: your place within the alliance is judged by the lengths you are prepared to go to on behalf of ‘social justice’, however defined.” (—Roger Scruton, “Thinkers of the New Left”)
+
+Question: Is leftist politics utopian? If so, is it necessarily utopian or only contingently? If not, why is "social justice" so hard to define, picture, imagine, or illustrate with examples from history or literature? 
+
+>“After the long domination of liberalism, with its adulation of the “common man,” its faith in mechanistic political solutions to all human problems, its rejection of the tragic and heroic aspects of life, and the not exactly inspiring prose in which its ideas are usually expressed, after all this, I repeat, such sentiments as “the unbought grace of life,” the “eternal chain of right and duty which links great and obscure, living and dead,” a view of politics as “the art of apprehending and applying the Justice which is above nature,” came like rain after a long drought.” (Henry Regnery, introduction to Russell Kirk, The Conservative Mind)
+
+Question: Is liberalism aesthetically vulgar, socially ignoble, and sentimentally demoralizing? If so, why do socialists blame capitalism and capitalists blame socialists for this vulgarity and demoralization?
 
 
 ## Consciousness
 
-1. “If we look for consciousness in the physical world, all we find are increasingly complex systems giving rise to increasingly complex behavior—which may or may not be attended by consciousness” (Sam Harris, [“The Mystery of Consciousness”](http://www.samharris.org/blog/item/the-mystery-of-consciousness-ii/))
+>If we look for consciousness in the physical world, all we find are increasingly complex systems giving rise to increasingly complex behavior -- which may or may not be attended by consciousness”. (Sam Harris, [“The Mystery of Consciousness”](http://www.samharris.org/blog/item/the-mystery-of-consciousness-ii/))
 
-
+Question: Is consciousness correlated with or caused by complex physical systems? Is consciousness correlated with or identical to complex physical systems?
 
 ## Lying
 
-“Kant and Sidgwick take views at opposite extremes about whether we may tell paternalistic lies. I trace the extremism to their views about ethical concepts. Sidgwick thinks that fundamental ethical concepts must be capable of precise application. Common Sense morality says we may tell paternalistic lies to children but not to sane adults. Because the distinction between a child and an adult is imprecise, Sidgwick thinks this principle cannot be fundamental, and must be based on the principle of utility, which he thinks can always (in principle) be precisely applied, and which often mandates paternalistic lies to adults. Kant thinks that ethical concepts are ideals of reason, which cannot be applied to things in the empirical world precisely because the world is imperfect. We lie to children and the insane because they are not perfectly rational, but no one is perfectly rational. We must treat all persons with the respect due to rational agents, so the pressure of the theory is toward not lying to anyone. In this kind of ideal theory, decisions about where to draw the line must be made pragmatically, like the decision who counts as an adult in the law, and to some extent arbitrarily. But fear of this is not a good reason to abandon ethical ideals for utilitarianism.” (Paternalistic lying (to children) is wrong)
+>“Kant and Sidgwick take views at opposite extremes about whether we may tell paternalistic lies. I trace the extremism to their views about ethical concepts. Sidgwick thinks that fundamental ethical concepts must be capable of precise application. Common Sense morality says we may tell paternalistic lies to children but not to sane adults. Because the distinction between a child and an adult is imprecise, Sidgwick thinks this principle cannot be fundamental, and must be based on the principle of utility, which he thinks can always (in principle) be precisely applied, and which often mandates paternalistic lies to adults. Kant thinks that ethical concepts are ideals of reason, which cannot be applied to things in the empirical world precisely because the world is imperfect. We lie to children and the insane because they are not perfectly rational, but no one is perfectly rational. We must treat all persons with the respect due to rational agents, so the pressure of the theory is toward not lying to anyone. In this kind of ideal theory, decisions about where to draw the line must be made pragmatically, like the decision who counts as an adult in the law, and to some extent arbitrarily. But fear of this is not a good reason to abandon ethical ideals for utilitarianism.” (Paternalistic lying (to children) is wrong)
+
+Question: Is paternalistic lying wrong? 
 
 
 
@@ -68,8 +112,10 @@ The authors go on to state that the moral status of a newborn is equivalent to a
 
 ## Civil Dialog
 
-1. “If you humanize your enemies, you might be dehumanized by your friends.” ([Cassie Jaye, interview with Jesse Lee Peterson on The Fallen State.](https://www.youtube.com/watch?v=W8i0Rwyyc0M))
-2. “Willingness to engage in an honest and civil manner those on the other side is a sign of confidence in the truth, not lack of conviction or courage.” (Robert George, Facebook post)
+>“If you humanize your enemies, you might be dehumanized by your friends.” ([Cassie Jaye, interview with Jesse Lee Peterson on The Fallen State.](https://www.youtube.com/watch?v=W8i0Rwyyc0M))
+
+
+>“Willingness to engage in an honest and civil manner those on the other side is a sign of confidence in the truth, not lack of conviction or courage.” (Robert George, Facebook post)
 
 
 
