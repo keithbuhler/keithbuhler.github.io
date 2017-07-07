@@ -13,9 +13,10 @@ header:
 * "A good-conversation machine." --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
 * "Enthusiastic, personable, and precise." --[Dr. Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
+
 * “A deep thinker with a jovial personality” --[Jimmy Prehn, Pixona](https://www.linkedin.com/in/jrprehn/)
 
-*  "[He has] dynamism, acumen, and compassion."   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+*  "Dynamism, acumen, and compassion."   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
 
 * "Give[s] me great hope for our next generation." --[Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
@@ -25,9 +26,11 @@ header:
 
 I'm Keith Buhler, a philosopher, classical teacher, and writer from Los Angeles. 
 
-While I'm currently a postdoctoral scholar of philosophy at the University of Kentucky, in the fall, I will be teaching history, writing, theology, and Greek at a private school in LA. 
+I am currently an upper school teacher of history, writing, and Greek at a private school in LA. 
 
-Previously, I have served as Master Tutor at Torrey Academy (La Mirada, CA), Director of High School Studies at Veritas Academy  (Lexington, KY), and instructor of philosophy at Asbury University. My teaching method inspires and awakens students of all ages by using the lost tools of learning to examine great books, films, music, and their own lives. 
+Previously, I was postdoctoral scholar of philosophy at the University of Kentucky and instructor of philosophy at Asbury University; before that I served as Master Tutor at Torrey Academy (La Mirada, CA), Director of High School Studies at Veritas Academy  (Lexington, KY). 
+
+My teaching method inspires and awakens students of all ages by using the lost tools of learning to examine great books, films, music, and their own lives. 
 
 I completed my PhD in philosophy under the direction of [David Bradshaw](https://uky.academia.edu/DBradshaw). I also hold an M.A. in Orthodox Theology from the University of Balamand, and a B.A. in Humanities from Biola University.  My primary academic research interests are in virtue ethics, naturalism, and philosophy of religion.
 

@@ -24,7 +24,7 @@ layout: page
 >The authors go on to state that the moral status of a newborn is equivalent to a fetus in that it cannot be considered a person in the “morally relevant sense.”
 
 
-Question: If terminating a fetus is morally permissible, then is terminating a newborn morally permissible? If terminating a newborn is wrong, then is terminating a fetus wrong? Why or why not?
+Question: 
 
 ## Abortion, post-birth medical care
 
@@ -42,9 +42,9 @@ Question: Is a baby who survives an abortion, born alive, now a medical patient 
 
 >The intense controversy that this question engenders is remarkable. On the left, critics of assertive American foreign, military, and economic policies depict these policies as aggressively immoral by branding them “imperial.” On the right, advocates for an even more forceful application of American “hard power,” such as Niall Ferguson and the other members of his self-described “neo-imperialist gang,” argue that the United States should use its immense wealth and military might to impose order and stability on an increasingly chaotic world. 
 
-The two positions appear to be polar opposites, but they both assume that the United States is in fact an empire. One faction argues that imperial hard power can be put to just and humane uses, while the other sees empires as inherently illegitimate and malevolent. And both sides tend to use the Roman Empire as a cautionary reference point in arguing over whether the “American Empire” is likely to fall. This debate is pointless and ahistorical. The United States is not an empire because, quite simply, there are no empires any more. By strict definition, empire meant the overt, formal, direct, and authoritarian rule of one group of people over another. Empires ruled permanently different and disenfranchised subjects, while the populations of twenty-first century nation states are, at least in theory, rights-bearing citizens. Many of these contemporary states encompass communities that have their own frustrated nationalist ambitions, but no modern government would cite empire as their reason for denying separatist groups the right of self-determination. Doing so would be an open admission of tyranny. Empire became so stigmatized over the course of the twentieth century, particularly after the1960 United Nations resolution 1514 (XV) labeled foreign imperial rule “a denial of fundamental human rights,” that no power would admit to being one. (Timothy Parsons is a Professor of African History at Washington University.)
+>The two positions appear to be polar opposites, but they both assume that the United States is in fact an empire. One faction argues that imperial hard power can be put to just and humane uses, while the other sees empires as inherently illegitimate and malevolent. And both sides tend to use the Roman Empire as a cautionary reference point in arguing over whether the “American Empire” is likely to fall. This debate is pointless and ahistorical. The United States is not an empire because, quite simply, there are no empires any more. By strict definition, empire meant the overt, formal, direct, and authoritarian rule of one group of people over another. Empires ruled permanently different and disenfranchised subjects, while the populations of twenty-first century nation states are, at least in theory, rights-bearing citizens. Many of these contemporary states encompass communities that have their own frustrated nationalist ambitions, but no modern government would cite empire as their reason for denying separatist groups the right of self-determination. Doing so would be an open admission of tyranny. Empire became so stigmatized over the course of the twentieth century, particularly after the1960 United Nations resolution 1514 (XV) labeled foreign imperial rule “a denial of fundamental human rights,” that no power would admit to being one. (Timothy Parsons is a Professor of African History at Washington University.)
 
-"Three decades ago, the radical left used the term "American empire" as an epithet. Now that same term has come out of the closet: analysts on both the left and right now use it to explain - if not guide - American foreign policy. In many ways, the metaphor of empire is seductive. The American military has a global reach, with bases around the world, and its regional commanders sometimes act like proconsuls. English is a lingua franca like Latin. The US economy is the largest in the world, and American culture serves as a magnet. But it is a mistake to confuse primacy with empire." ([Joseph Nye](https://www.project-syndicate.org/columnist/joseph-s--nye) )
+>Three decades ago, the radical left used the term "American empire" as an epithet. Now that same term has come out of the closet: analysts on both the left and right now use it to explain - if not guide - American foreign policy. In many ways, the metaphor of empire is seductive. The American military has a global reach, with bases around the world, and its regional commanders sometimes act like proconsuls. English is a lingua franca like Latin. The US economy is the largest in the world, and American culture serves as a magnet. But it is a mistake to confuse primacy with empire. ([Joseph Nye](https://www.project-syndicate.org/columnist/joseph-s--nye) )
 
 
 Question: Is America an empire? What is an empire? 
@@ -117,21 +117,33 @@ Question: Is paternalistic lying wrong?
 
 >“Willingness to engage in an honest and civil manner those on the other side is a sign of confidence in the truth, not lack of conviction or courage.” (Robert George, Facebook post)
 
-
+Question: Is it morally permissible to dialog in a civil manner with those whose views are not just mistaken but in some sense immoral, depraved, wicked, hateful, hurtful, or deluded? 
 
 
 ## Normativity, subjective
 
-1. Korsgaard began with a search for moral entities (and values) that might provide the basis for normativity. She concludes that all the accounts of normativity she discusses are "true": Normativity must spring from the commands of a legislative authority. (Hobbes);  Reasons are intrinsically moral entities. What we should do when a desire presents itself is to reflect on it, to look at it more objectively to see whether it is such an entity. (Clarke, Moore, Nagel); Reflection has the power to compel obedience, and to punish us for disobedience. It in turn is bound to govern us by laws that are good. Reflection makes us authorities over ourselves. (Hume, Mill, Williams); In so far as we have authority over ourselves, we can make laws for ourselves, and those laws will be normative. Autonomy is the source of moral obligation. (Kant, Rawls, Korsgaard)
+> Korsgaard began with a search for moral entities (and values) that might provide the basis for normativity. She concludes that all the accounts of normativity she discusses are "true": Normativity must spring from the commands of a legislative authority. (Hobbes);  Reasons are intrinsically moral entities. What we should do when a desire presents itself is to reflect on it, to look at it more objectively to see whether it is such an entity. (Clarke, Moore, Nagel); Reflection has the power to compel obedience, and to punish us for disobedience. It in turn is bound to govern us by laws that are good. Reflection makes us authorities over ourselves. (Hume, Mill, Williams); In so far as we have authority over ourselves, we can make laws for ourselves, and those laws will be normative. Autonomy is the source of moral obligation. (Kant, Rawls, Korsgaard)
+
+
+Question: Is autonomy the source of moral obligation? 
 
 ## Normativity, objective
-2. “I believe that there are irreducibly normative truths and facts, facts such that we should care about our future well-being, that we should not humiliate other people, that we should not reason and form beliefs in ways we know to be unreliable. These are, of course, just examples: even if I am wrong about them, I believe there must be some examples of this sort, examples of normative (and indeed moral) truths that are irreducibly normative, truths that are perfectly objective, universal, absolute. They are independent of us, our desires and our (or anyone else’s) will. And our thinking and talking about them amounts not just to an expression of any practical attitudes, but to a representation of these normative truths and facts. These normative truths are truths that, when successful in our normative inquiries, we discover rather than create or construct. They are, in other words, just as respectable as empirical or mathematical truths (at least, that is, according to scientific and mathematical realists). (David Enoch, Taking Morality Seriously 1)
-2. "According to Mackie, it is fantastic to think that the world contains objective values, or intrinsically normative entities. For in order to do what values do, they would have to meet certain impossible criteria. They would have to be entities of a very strange sort. utterly unlike anything else in the universe. The way that we know them would have to be different from the way that we know other sorts of facts. Knowledge of them, Mackie said, would have to provide the knower with both a direction and a motive. For when you met an objective value, according to Mackie, it would have to be — and I'm nearly quoting now — able both to tell you what to do and make you do it. And nothing is like that. But Mackie is wrong and realism is right. Of course there are entities that meet these criteria. It's true that they are queer sorts of entities, and that knowing them isn't like anything else. But that doesn't mean that they don't exist. John Mackie must have been alone in his room with the Scientific World View when he wrote those words. For it is the most familiar fact of human life that the world contains entities that can tell us what to do and make us do it. They are people, and the other animals." (Korsgaard, *The Sources of Normativity*, p.166)
-3. “I wish mainly to applaud [Robert] Adams's defense of a framework that takes the idea of a transcendent good seriously. However large are the problems the idea carries with it, the fact remains that it captures a great deal of ordinary thought and experience of  value that no anthropocentric, subjectivist, or naturalist conception of value can." Susan Wolf, "A World of Goods" Philosophy and Phenomenological Research, Vol 64, No. 2, March 2002. [Taking morality seriously]
 
-2. All morality is trained into young people by their culture. All things trained into young people by their culture are subjective, that is, neither true nor false. Therefore, it would seem that all morality is subjective. However, the second premise is false. Some things trained into young people by the culture are objective, such as the notion that twice a number is double, that squares have four corners, that the sun is millions of miles away from the earth, that ancient Egyptians built the pyramids, and so on.
-3. "If people are not outraged, they need to be."  (Jerry Miller, Controller, Mountain Pure Water)
+>  1. “I believe that there are irreducibly normative truths and facts, facts such that we should care about our future well-being, that we should not humiliate other people, that we should not reason and form beliefs in ways we know to be unreliable. These are, of course, just examples: even if I am wrong about them, I believe there must be some examples of this sort, examples of normative (and indeed moral) truths that are irreducibly normative, truths that are perfectly objective, universal, absolute. They are independent of us, our desires and our (or anyone else’s) will. And our thinking and talking about them amounts not just to an expression of any practical attitudes, but to a representation of these normative truths and facts. These normative truths are truths that, when successful in our normative inquiries, we discover rather than create or construct. They are, in other words, just as respectable as empirical or mathematical truths (at least, that is, according to scientific and mathematical realists). (David Enoch, Taking Morality Seriously 1)
 
+
+
+> 2. "According to Mackie, it is fantastic to think that the world contains objective values, or intrinsically normative entities. For in order to do what values do, they would have to meet certain impossible criteria. They would have to be entities of a very strange sort. utterly unlike anything else in the universe. The way that we know them would have to be different from the way that we know other sorts of facts. Knowledge of them, Mackie said, would have to provide the knower with both a direction and a motive. For when you met an objective value, according to Mackie, it would have to be — and I'm nearly quoting now — able both to tell you what to do and make you do it. And nothing is like that. But Mackie is wrong and realism is right. Of course there are entities that meet these criteria. It's true that they are queer sorts of entities, and that knowing them isn't like anything else. But that doesn't mean that they don't exist. John Mackie must have been alone in his room with the Scientific World View when he wrote those words. For it is the most familiar fact of human life that the world contains entities that can tell us what to do and make us do it. They are people, and the other animals." (Korsgaard, *The Sources of Normativity*, p.166)
+
+
+> 3. “I wish mainly to applaud [Robert] Adams's defense of a framework that takes the idea of a transcendent good seriously. However large are the problems the idea carries with it, the fact remains that it captures a great deal of ordinary thought and experience of  value that no anthropocentric, subjectivist, or naturalist conception of value can." Susan Wolf, "A World of Goods" Philosophy and Phenomenological Research, Vol 64, No. 2, March 2002. [Taking morality seriously]
+
+> 4. All morality is trained into young people by their culture. All things trained into young people by their culture are subjective, that is, neither true nor false. Therefore, it would seem that all morality is subjective. However, the second premise is false. Some things trained into young people by the culture are objective, such as the notion that twice a number is double, that squares have four corners, that the sun is millions of miles away from the earth, that ancient Egyptians built the pyramids, and so on.
+
+> 4. "If people are not outraged, they need to be."  (Jerry Miller, Controller, Mountain Pure Water)
+
+
+Question: Does the evidence suggest that normative claims just as real as empirical or mathematical facts? If so, is there any serious contender to this view? If not, are all normative claims, including epistemic claims about what the evidence suggests, equally false? 
 
 
 
@@ -139,37 +151,45 @@ Question: Is paternalistic lying wrong?
 
 ## Total Truth
 
-1. We should reject the idea that knowledge can be divided into two (or any number) of separate realms. "Religious knowledge" and "secular knowledge" are particularly inadequate and even dangerous categories to start with. Such divisions are practical constructions that help us organize the world, but they don't reflect the way the world actually is. An alien anthropologist might conclude that physics and biology are somehow "different and separate" because of the way they function in our universities and laboratories. But we know that the world is not adorned with little flags labeled "biological phenomena" and "physical phenomena" to help us assign the problems to the right department. The arrangement in our great universities where these disciplines are housed in separate buildings, reflects the practical reality that the problems of those disciplines are sufficiently different that people tend to be drawn to one or the other. But we know that there can be no discrete separation, for those disciplines meet constantly to engage problems of optics, joint mechanics, blood pressure and so on. And we know that it would be meaningless to dispute about whether the study of blood pressure or near-sightedness properly belonged to physics or biology.            In the same way -- but far more importantly -- we cannot divide the world on a large scale into "secular" and "religious." A slightly less flawed, but still too simple, knowledge map would be a continuum stretching from "religious knowledge claims" at one end to "anti-religious knowledge claims" at the other with "secular knowledge claims" somewhere in the middle. ([Karl Giberson, Christianity and the Secular World](http://www.huffingtonpost.com/entry/christianity-and-the-secular-world_b_1032515.html))
+> We should reject the idea that knowledge can be divided into two (or any number) of separate realms. "Religious knowledge" and "secular knowledge" are particularly inadequate and even dangerous categories to start with. Such divisions are practical constructions that help us organize the world, but they don't reflect the way the world actually is. An alien anthropologist might conclude that physics and biology are somehow "different and separate" because of the way they function in our universities and laboratories. But we know that the world is not adorned with little flags labeled "biological phenomena" and "physical phenomena" to help us assign the problems to the right department. The arrangement in our great universities where these disciplines are housed in separate buildings, reflects the practical reality that the problems of those disciplines are sufficiently different that people tend to be drawn to one or the other. But we know that there can be no discrete separation, for those disciplines meet constantly to engage problems of optics, joint mechanics, blood pressure and so on. And we know that it would be meaningless to dispute about whether the study of blood pressure or near-sightedness properly belonged to physics or biology.            
+
+> In the same way -- but far more importantly -- we cannot divide the world on a large scale into "secular" and "religious." A slightly less flawed, but still too simple, knowledge map would be a continuum stretching from "religious knowledge claims" at one end to "anti-religious knowledge claims" at the other with "secular knowledge claims" somewhere in the middle. ([Karl Giberson, Christianity and the Secular World](http://www.huffingtonpost.com/entry/christianity-and-the-secular-world_b_1032515.html))
+
+
+Question: How should the branches of knowledge be divided? Is theology a science? Is physics natural philosophy? Is history a theological discipline? 
 
 
 
 
 ## Moral Argument for the Existence of God
 
-1. If there is no God, all is permissible. (Dostoyevsky).  There is no god. Therefore, either all is permissible, or it is false that all is permissible. If it is false that all is permissible, then there is a god. 
-2. Morality conceived as a *moral law* is incoherent without Divine Law, because if there is no divine *lawgiver*, there can be no moral *law*. According to the atheist or agnostic, we cannot affirm a divine lawgiver, so we cannot help ourselves to a moral law. That said, the only two metaethical options for grounding objective morality are moral law or in the virtues which are grounded in human nature. There is no moral law, yet there is real objective morality. Therefore, the only or best secular grounding for objective morality is virtue ethics. (Paraphrasing Elizabeth Anscombe)
+> If there is no God, all is permissible. (Dostoyevsky).  There is no god. Therefore, either all is permissible, or it is false that all is permissible. If it is false that all is permissible, then there is a god. 
 
 
+> Morality conceived as a *moral law* is incoherent without Divine Law, because if there is no divine *lawgiver*, there can be no moral *law*. According to the atheist or agnostic, we cannot affirm a divine lawgiver, so we cannot help ourselves to a moral law. That said, the only two metaethical options for grounding objective morality are moral law or in the virtues which are grounded in human nature. There is no moral law, yet there is real objective morality. Therefore, the only or best secular grounding for objective morality is virtue ethics. (Paraphrasing Elizabeth Anscombe)
 
+
+Question: Is anything wrong? If so, must there therefore be a God? 
 
 
 
 ## Justice
 
-1. If justice is fairness, then the right should take priority over the good, because.... The second part of the paper examines the concept of priority of the right. It argues that such a concept should not be identified with that of deontology— indeed, deontological theories do not necessarily assign priority to the right over the good. However, it contends that the concept of priority of the right is essential to explaining what specific kind of deontological theory "justice as fairness" is. Justice as fairness is a deontological theory which assigns priority to the right as a consequence of its commitment to a neutral position with respect to different accounts of what is ultimately valuable and good. (Miriam Ronzini, "Teleology, Deontology, and the Priority of the Right: On Some Unappreciated Distinctions", *Ethical Theory and Moral Practice*, Vol. 13, No. 4 (August 2010), pp. 453-472)
+> If justice is fairness, then the right should take priority over the good, because.... The second part of the paper examines the concept of priority of the right. It argues that such a concept should not be identified with that of deontology— indeed, deontological theories do not necessarily assign priority to the right over the good. However, it contends that the concept of priority of the right is essential to explaining what specific kind of deontological theory "justice as fairness" is. Justice as fairness is a deontological theory which assigns priority to the right as a consequence of its commitment to a neutral position with respect to different accounts of what is ultimately valuable and good. (Miriam Ronzini, "Teleology, Deontology, and the Priority of the Right: On Some Unappreciated Distinctions", *Ethical Theory and Moral Practice*, Vol. 13, No. 4 (August 2010), pp. 453-472)
+
+
+Question: Is justice fairness or harmony? 
 
 
 
 
 ## Naturalism
 
-1. “G. E. Moore's Principia Ethica in 1903, however, ‘naturalism’ has served anglophone moral philosophy above all as a name of a type of metaethical position, a view about the meaning of ethical terms and the nature of ethical properties. It is, roughly, the view that ethical terms signify natural properties, properties that are or will be mentioned in the best development of the natural sciences, including psychology and the other social sciences.17 (Robert Adams, Finite and Infinite Goods, I. 2. 2) 
+> “G. E. Moore's Principia Ethica in 1903, however, ‘naturalism’ has served anglophone moral philosophy above all as a name of a type of metaethical position, a view about the meaning of ethical terms and the nature of ethical properties. It is, roughly, the view that ethical terms signify natural properties, properties that are or will be mentioned in the best development of the natural sciences, including psychology and the other social sciences. (Robert Adams, Finite and Infinite Goods, I. 2. 2) 
 
 
 
-## Naturalism, as an attitude
-
-1. “Naturalism, as presented by the essays in this volume, is not so much a system or a body of doctrine as an attitude and temper: it is essentially a philosophic method and a program. It undertakes to bring scientific analysis and criticism to bear on all the human enterprises and values so zealously maintained by the traditional supernaturalists and by the more sophisticated idealists.” (Thelma Z. Lavine and Clarence J. Robinson. "Modernity and the Spirit of Naturalism", Proceedings and Addresses of the American Philosophical Association, Vol. 65, No. 3 (Nov., 1991), pp. 73-83)
+> “Naturalism, as presented by the essays in this volume, is not so much a system or a body of doctrine as an attitude and temper: it is essentially a philosophic method and a program. It undertakes to bring scientific analysis and criticism to bear on all the human enterprises and values so zealously maintained by the traditional supernaturalists and by the more sophisticated idealists.” (Thelma Z. Lavine and Clarence J. Robinson. "Modernity and the Spirit of Naturalism", Proceedings and Addresses of the American Philosophical Association, Vol. 65, No. 3 (Nov., 1991), pp. 73-83)
 
 
 ## Naturalism, ancient naturalists
@@ -183,7 +203,6 @@ Question: Is paternalistic lying wrong?
 
 ## Naturalism, materialism is unlivable
 2. You can sympathize with Leiter and Weisberg for fudging on materialism. As a philosophy of everything it is an undeniable drag. As a way of life it would be even worse. Fortunately, materialism is never translated into life as it’s lived. As colleagues and friends, husbands and mothers, wives and fathers, sons and daughters, materialists never put their money where their mouth is. Nobody thinks his daughter is just molecules in motion and nothing but; nobody thinks the Holocaust was evil, but only in a relative, provisional sense. A materialist who lived his life according to his professed convictions—understanding himself to have no moral agency at all, seeing his friends and enemies and family as genetically determined robots—wouldn’t just be a materialist: He’d be a psychopath. Say what you will about Leiter and Weisberg and the workshoppers in the Berkshires. From what I can tell, none of them is a psychopath. Not even close.    Applied beyond its own usefulness as a scientific methodology, materialism is, as Nagel suggests, self-evidently absurd. *Mind and Cosmos* can be read as an extended paraphrase of Orwell’s famous insult: “One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool.” Materialism can only be taken seriously as a philosophy through a heroic feat of cognitive dissonance; pretending, in our abstract, intellectual life, that values like truth and goodness have no objective content even as, in our private life, we try to learn what’s really true and behave in a way we know to be good. Nagel has sealed his ostracism from the intelligentsia by idly speculating why his fellow intellectuals would undertake such a feat.  “The priority given to evolutionary naturalism in the face of its implausible conclusions,” he writes, “is due, I think, to the secular consensus that this is the only form of external understanding of ourselves that provides an alternative to theism.” (Andrew Ferguson, “Nagel the Heretic” The Weekly Standard)
-
 3. “There is no reason to allow our confidence in the objective truth of our moral beliefs, or for that matter our confidence in the objective truth of our mathematical or scientific reasoning, to depend on whether this is consistent with the assumption that those capacities are the product of natural selection. Given how speculative evolutionary explanations of human mental faculties are, they seem to weak a ground for putting into question the most basic forms of thought. Our confidence in the truth of propositions that seem evident on reflection should not be shaken so easily (and, I would add, cannot be shaken on those sorts of grounds without a kind of false consciousness. It seems reasonable to run the test equally in the oppoiste direction: namely, to evaluate hypotheses about the universe and how we have come into existence by reference to ordinary judgments in which we have a very high confidence.”  (Thomas Nagel, Mind and Cosmos. Oxford 2012. p. 29)
 4. “One of the difficulties in this area is to describe a form of value realism that is not weighed down by metaphysical baggage but that is still clearly distinguishable from a sophisticated subjectivist conception of value. Value realism is highly controversial because subjectivist accounts of value are not flagrantly implausible in the way that subjectivist accounts of science or materialist accounts of consciousness are.” (Thomas Nagel, Mind and Cosmos. Oxford 2012. 98)
 5. “In simple terms, the subjectivist position that I will contrast with realism is that evaluative and moral truth depend on our motivational dispositions and responses, whereas the realist position is that on the contrary, our responses try to reflect the evaluative truth and can be correct or incorrect by reference to it.” (Thomas Nagel, Mind and Cosmos. Oxford 2012. 98-99)
@@ -237,7 +256,8 @@ Question: Is paternalistic lying wrong?
 7. That man is the product of causes which had no prevision of the end they were achieving; that his origin, his growth, his hopes and fears, his loves and his beliefs are but the outcome of accidental collocations of atoms; that no fire, no heroism, no intensity of thought and feeling, can preserve an individual life beyond the grave; that all the labors of the ages, all the devotion, all the inspiration, all the noonday brightness of human genius, are destined to extinction in the vast death of the solar system, and that the whole temple of man’s achievement must inevitably be buried beneath the debris of a universe in ruins—all these things, if not quite beyond dispute, are yet so nearly certain that no philosophy which rejects them can hope to stand. Only within the scaffolding of these truths, only on the firm foundation of unyielding despair, can the soul’s habitation henceforth be safely built. (Bertrand Russell, "Free Man's Worship")
 
 ## Nihilism, 
-"Indeed, throughout the modern period, we have progressively redefined the human enterprise in terms of self-interested pursuit of materialistic values, with reason regarded as the servant of desire and knowledge as power in exploiting the environment and imposing our will upon the world for materialistic gain. This worked a reformation in science, and with the success of modern science in the economic, medical, and military enterprises, it has come to dominate our intellectual life and to shape our vision of humankind and the world. The results have been the disenchantment of the world (what Nietzsche called the "death of God"), a severe human identity crisis (what C. S. Lewis called the "abolition of man"), and a cut-flower moral, civic, artistic, and religious culture." (E. M. Adams)
+
+>"Indeed, throughout the modern period, we have progressively redefined the human enterprise in terms of self-interested pursuit of materialistic values, with reason regarded as the servant of desire and knowledge as power in exploiting the environment and imposing our will upon the world for materialistic gain. This worked a reformation in science, and with the success of modern science in the economic, medical, and military enterprises, it has come to dominate our intellectual life and to shape our vision of humankind and the world. The results have been the disenchantment of the world (what Nietzsche called the "death of God"), a severe human identity crisis (what C. S. Lewis called the "abolition of man"), and a cut-flower moral, civic, artistic, and religious culture." (E. M. Adams)
 
 
 
@@ -312,54 +332,53 @@ Question: Is paternalistic lying wrong?
 
 ## Veneration for the King
 
-In the deathlike stillness only the tramp of horses was heard. This was the Emperors' suites. The Emperors rode up to the flank, and the trumpets of the first cavalry regiment played the general march. It seemed as though not the trumpeters were playing, but as if the army itself, rejoicing at the Emperors' approach, had naturally burst into music. Amid these sounds, only the youthful kindly voice of the Emperor Alexander was clearly heard. He gave the words of greeting, and the first regiment roared "Hurrah!" so deafeningly, continuously, and joyfully that the men themselves were awed by their multitude and the immensity of the power they constituted.
+>In the deathlike stillness only the tramp of horses was heard. This was the Emperors' suites. The Emperors rode up to the flank, and the trumpets of the first cavalry regiment played the general march. It seemed as though not the trumpeters were playing, but as if the army itself, rejoicing at the Emperors' approach, had naturally burst into music. Amid these sounds, only the youthful kindly voice of the Emperor Alexander was clearly heard. He gave the words of greeting, and the first regiment roared "Hurrah!" so deafeningly, continuously, and joyfully that the men themselves were awed by their multitude and the immensity of the power they constituted.
 
-Rostov, standing in the front lines of Kutuzov's army which the Tsar approached first, experienced the same feeling as every other man in that army: a feeling of self-forgetfulness, a proud consciousness of might, and a passionate attraction to him who was the cause of this triumph.
+>Rostov, standing in the front lines of Kutuzov's army which the Tsar approached first, experienced the same feeling as every other man in that army: a feeling of self-forgetfulness, a proud consciousness of might, and a passionate attraction to him who was the cause of this triumph.
 
-He felt that at a single word from that man all this vast mass (and he himself an insignificant atom in it) would go through fire and water, commit crime, die, or perform deeds of highest heroism, and so he could not but tremble and his heart stand still at the imminence of that word.
+>He felt that at a single word from that man all this vast mass (and he himself an insignificant atom in it) would go through fire and water, commit crime, die, or perform deeds of highest heroism, and so he could not but tremble and his heart stand still at the imminence of that word.
 
-"Hurrah! Hurrah! Hurrah!" thundered from all sides, one regiment after another greeting the Tsar with the strains of the march, and then "Hurrah!"... Then the general march, and again "Hurrah! Hurrah!" growing ever stronger and fuller and merging into a deafening roar.
+>"Hurrah! Hurrah! Hurrah!" thundered from all sides, one regiment after another greeting the Tsar with the strains of the march, and then "Hurrah!"... Then the general march, and again "Hurrah! Hurrah!" growing ever stronger and fuller and merging into a deafening roar.
 
-Till the Tsar reached it, each regiment in its silence and immobility seemed like a lifeless body, but as soon as he came up it became alive, its thunder joining the roar of the whole line along which he had already passed. Through the terrible and deafening roar of those voices, amid the square masses of troops standing motionless as if turned to stone, hundreds of riders composing the suites moved carelessly but symmetrically and above all freely, and in front of them two men- the Emperors. Upon them the undivided, tensely passionate attention of that whole mass of men was concentrated.
+>Till the Tsar reached it, each regiment in its silence and immobility seemed like a lifeless body, but as soon as he came up it became alive, its thunder joining the roar of the whole line along which he had already passed. Through the terrible and deafening roar of those voices, amid the square masses of troops standing motionless as if turned to stone, hundreds of riders composing the suites moved carelessly but symmetrically and above all freely, and in front of them two men- the Emperors. Upon them the undivided, tensely passionate attention of that whole mass of men was concentrated.
 
-The handsome young Emperor Alexander, in the uniform of the Horse Guards, wearing a cocked hat with its peaks front and back, with his pleasant face and resonant though not loud voice, attracted everyone's attention.
+>The handsome young Emperor Alexander, in the uniform of the Horse Guards, wearing a cocked hat with its peaks front and back, with his pleasant face and resonant though not loud voice, attracted everyone's attention.
 
+>Rostov was not far from the trumpeters, and with his keen sight had recognized the Tsar and watched his approach. When he was within twenty paces, and Nicholas could clearly distinguish every detail of his handsome, happy young face, he experienced a feeling tenderness and ecstasy such as he had never before known. Every trait and every movement of the Tsar's seemed to him enchanting.
 
-Rostov was not far from the trumpeters, and with his keen sight had recognized the Tsar and watched his approach. When he was within twenty paces, and Nicholas could clearly distinguish every detail of his handsome, happy young face, he experienced a feeling tenderness and ecstasy such as he had never before known. Every trait and every movement of the Tsar's seemed to him enchanting.
+>Stopping in front of the Pavlograds, the Tsar said something in French to the Austrian Emperor and smiled.
 
-Stopping in front of the Pavlograds, the Tsar said something in French to the Austrian Emperor and smiled.
+>Seeing that smile, Rostov involuntarily smiled himself and felt a still stronger flow of love for his sovereign. He longed to show that love in some way and knowing that this was impossible was ready to cry. The Tsar called the colonel of the regiment and said a few words to him.
 
-Seeing that smile, Rostov involuntarily smiled himself and felt a still stronger flow of love for his sovereign. He longed to show that love in some way and knowing that this was impossible was ready to cry. The Tsar called the colonel of the regiment and said a few words to him.
+>"Oh God, what would happen to me if the Emperor spoke to me?" thought Rostov. "I should die of happiness!"
 
-"Oh God, what would happen to me if the Emperor spoke to me?" thought Rostov. "I should die of happiness!"
+>The Tsar addressed the officers also: "I thank you all, gentlemen, I thank you with my whole heart." To Rostov every word sounded like a voice from heaven. How gladly would he have died at once for his Tsar!
 
-The Tsar addressed the officers also: "I thank you all, gentlemen, I thank you with my whole heart." To Rostov every word sounded like a voice from heaven. How gladly would he have died at once for his Tsar!
+>"You have earned the St. George's standards and will be worthy of them."
 
-"You have earned the St. George's standards and will be worthy of them."
+>"Oh, to die, to die for him " thought Rostov.
 
-"Oh, to die, to die for him " thought Rostov.
+>The Tsar said something more which Rostov did not hear, and the soldiers, straining their lungs, shouted "Hurrah!"
 
-The Tsar said something more which Rostov did not hear, and the soldiers, straining their lungs, shouted "Hurrah!"
+>Rostov too, bending over his saddle, shouted "Hurrah!" with all his might, feeling that he would like to injure himself by that shout, if only to express his rapture fully.
 
-Rostov too, bending over his saddle, shouted "Hurrah!" with all his might, feeling that he would like to injure himself by that shout, if only to express his rapture fully.
+>The Tsar stopped a few minutes in front of the hussars as if undecided.
 
-The Tsar stopped a few minutes in front of the hussars as if undecided.
+>"How can the Emperor be undecided?" thought Rostov, but then even this indecision appeared to him majestic and enchanting, like everything else the Tsar did.
 
-"How can the Emperor be undecided?" thought Rostov, but then even this indecision appeared to him majestic and enchanting, like everything else the Tsar did.
+>That hesitation lasted only an instant. The Tsar's foot, in the narrow pointed boot then fashionable, touched the groin of the bobtailed bay mare he rode, his hand in a white glove gathered up the reins, and he moved off accompanied by an irregularly swaying sea of aides-de-camp. Farther and farther he rode away, stopping at other regiments, till at last only his white plumes were visible to Rostov from amid the suites that surrounded the Emperors.
 
-That hesitation lasted only an instant. The Tsar's foot, in the narrow pointed boot then fashionable, touched the groin of the bobtailed bay mare he rode, his hand in a white glove gathered up the reins, and he moved off accompanied by an irregularly swaying sea of aides-de-camp. Farther and farther he rode away, stopping at other regiments, till at last only his white plumes were visible to Rostov from amid the suites that surrounded the Emperors.
+>Among the gentlemen of the suite, Rostov noticed Bolkonski, sitting his horse indolently and carelessly. Rostov recalled their quarrel of yesterday and the question presented itself whether he ought or ought not to challenge Bolkonski. "Of course not!" he now thought. "Is it worth thinking or speaking of it at such a moment? At a time of such love, such rapture, and such self-sacrifice, what do any of our quarrels and affronts matter? I love and forgive everybody now."
 
-Among the gentlemen of the suite, Rostov noticed Bolkonski, sitting his horse indolently and carelessly. Rostov recalled their quarrel of yesterday and the question presented itself whether he ought or ought not to challenge Bolkonski. "Of course not!" he now thought. "Is it worth thinking or speaking of it at such a moment? At a time of such love, such rapture, and such self-sacrifice, what do any of our quarrels and affronts matter? I love and forgive everybody now."
+>When the Emperor had passed nearly all the regiments, the troops began a ceremonial march past him, and Rostov on Bedouin, recently purchased from Denisov, rode past too, at the rear of his squadron- that is, alone and in full view of the Emperor.
 
-When the Emperor had passed nearly all the regiments, the troops began a ceremonial march past him, and Rostov on Bedouin, recently purchased from Denisov, rode past too, at the rear of his squadron- that is, alone and in full view of the Emperor.
+>Before he reached him, Rostov, who was a splendid horseman, spurred Bedouin twice and successfully put him to the showy trot in which the animal went when excited. Bending his foaming muzzle to his chest, his tail extended, Bedouin, as if also conscious of the Emperor's eye upon him, passed splendidly, lifting his feet with a high and graceful action, as if flying through the air without touching the ground.
 
-Before he reached him, Rostov, who was a splendid horseman, spurred Bedouin twice and successfully put him to the showy trot in which the animal went when excited. Bending his foaming muzzle to his chest, his tail extended, Bedouin, as if also conscious of the Emperor's eye upon him, passed splendidly, lifting his feet with a high and graceful action, as if flying through the air without touching the ground.
+>Rostov himself, his legs well back and his stomach drawn in and feeling himself one with his horse, rode past the Emperor with a frowning but blissful face "like a vewy devil," as Denisov expressed it.
 
-Rostov himself, his legs well back and his stomach drawn in and feeling himself one with his horse, rode past the Emperor with a frowning but blissful face "like a vewy devil," as Denisov expressed it.
+>"Fine fellows, the Pavlograds!" remarked the Emperor.
 
-"Fine fellows, the Pavlograds!" remarked the Emperor.
-
-"My God, how happy I should be if he ordered me to leap into the fire this instant!" thought Rostov. (Tolstoy, *War and Peace*, Book 3, Chapter 8)
+>"My God, how happy I should be if he ordered me to leap into the fire this instant!" thought Rostov. (Tolstoy, *War and Peace*, Book 3, Chapter 8)
 
 
 
@@ -368,35 +387,49 @@ Rostov himself, his legs well back and his stomach drawn in and feeling himself 
 
 ## History
 
-1. The concentrated activity which had begun at the Emperor's headquarters in the morning and had started the whole movement that followed was like the first movement of the main wheel of a large tower clock. One wheel slowly moved, another was set in motion, and a third, and wheels began to revolve faster and faster, levers and cogwheels to work, chimes to play, figures to pop out, and the hands to advance with regular motion as a result of all that activity.   Just as in the mechanism of a clock, so in the mechanism of the military machine, an impulse once given leads to the final result; and just as indifferently quiescent till the moment when motion is transmitted to them are the parts of the mechanism which the impulse has not yet reached. Wheels creak on their axles as the cogs engage one another and the revolving pulleys whirr with the rapidity of their movement, but a neighboring wheel is as quiet and motionless as though it were prepared to remain so for a hundred years; but the moment comes when the lever catches it and obeying the impulse that wheel begins to creak and joins in the common motion the result and aim of which are beyond its ken.   Just as in a clock, the result of the complicated motion of innumerable wheels and pulleys is merely a slow and regular movement of the hands which show the time, so the result of all the complicated human activities of 160,000 Russians and French- all their passions, desires, remorse, humiliations, sufferings, outbursts of pride, fear, and enthusiasm- was only the loss of the battle of Austerlitz, the so-called battle of the three Emperors- that is to say, a slow movement of the hand on the dial of human history. (Tolstoy, War and Peace, Book 3, Chapter 11)
+> The concentrated activity which had begun at the Emperor's headquarters in the morning and had started the whole movement that followed was like the first movement of the main wheel of a large tower clock. One wheel slowly moved, another was set in motion, and a third, and wheels began to revolve faster and faster, levers and cogwheels to work, chimes to play, figures to pop out, and the hands to advance with regular motion as a result of all that activity.   Just as in the mechanism of a clock, so in the mechanism of the military machine, an impulse once given leads to the final result; and just as indifferently quiescent till the moment when motion is transmitted to them are the parts of the mechanism which the impulse has not yet reached. Wheels creak on their axles as the cogs engage one another and the revolving pulleys whirr with the rapidity of their movement, but a neighboring wheel is as quiet and motionless as though it were prepared to remain so for a hundred years; but the moment comes when the lever catches it and obeying the impulse that wheel begins to creak and joins in the common motion the result and aim of which are beyond its ken.   Just as in a clock, the result of the complicated motion of innumerable wheels and pulleys is merely a slow and regular movement of the hands which show the time, so the result of all the complicated human activities of 160,000 Russians and French- all their passions, desires, remorse, humiliations, sufferings, outbursts of pride, fear, and enthusiasm- was only the loss of the battle of Austerlitz, the so-called battle of the three Emperors- that is to say, a slow movement of the hand on the dial of human history. (Tolstoy, War and Peace, Book 3, Chapter 11)
 
 
 
 ## Ethics
 
-“[Ethical problems] that are familiar in everyday discussions, and which range from idle bits of gossip about this or that man's character to prolonged and serious discussions of international politics” (1963a, v). C. L. Stevenson
+>“[Ethical problems] that are familiar in everyday discussions, and which range from idle bits of gossip about this or that man's character to prolonged and serious discussions of international politics” (1963a, v). C. L. Stevenson
 
 
 
 ## Genesis
 
-5. Let me hear and understand how in the beginning Thou made the heaven and the earth. Genesis 1:1 Moses wrote this; he wrote and departed—passed hence from You to You. Nor now is he before me; for if he were I would hold him, and ask him, and would adjure him by You that he would open unto me these things, and I would lend the ears of my body to the sounds bursting forth from his mouth. And should he speak in the Hebrew tongue, in vain would it beat on my senses, nor would anything touch my mind; but if in Latin, I should know what he said. But whence should I know whether he said what was true? But if I knew this even, should I know it from him? Verily within me, within in the chamber of my thought, Truth, neither Hebrew, nor Greek, nor Latin, nor barbarian, without the organs of voice and tongue, without the sound of syllables, would say, He speaks the truth, and I, immediately assured of it, confidently would say unto that man of Yours, You speak the truth. As, then, I cannot inquire of him, I beseech You—You, O Truth, full of whom he spoke truth—You, my God, I beseech, forgive my sins; and do Thou, who gave to that Your servant to speak these things, grant to me also to understand them.
+> Let me hear and understand how in the beginning Thou made the heaven and the earth. Genesis 1:1 Moses wrote this; he wrote and departed—passed hence from You to You. Nor now is he before me; for if he were I would hold him, and ask him, and would adjure him by You that he would open unto me these things, and I would lend the ears of my body to the sounds bursting forth from his mouth. And should he speak in the Hebrew tongue, in vain would it beat on my senses, nor would anything touch my mind; but if in Latin, I should know what he said. But whence should I know whether he said what was true? But if I knew this even, should I know it from him? Verily within me, within in the chamber of my thought, Truth, neither Hebrew, nor Greek, nor Latin, nor barbarian, without the organs of voice and tongue, without the sound of syllables, would say, He speaks the truth, and I, immediately assured of it, confidently would say unto that man of Yours, You speak the truth. As, then, I cannot inquire of him, I beseech You—You, O Truth, full of whom he spoke truth—You, my God, I beseech, forgive my sins; and do Thou, who gave to that Your servant to speak these things, grant to me also to understand them.
 
 
 
 
 ## Nature, anthropocentric and non-anthropocentric
 
-"I have in mind here the classical view that the distinctive value of humanity lies in our possession of nous. Nous is standardly translated as ‘mind’ or ‘intellect,’ but it is important that these terms  be understood in a non-Cartesian way. Nous for the Greeks is something that exists in the cosmos  at large, independently of human thought. As such it is both the eternal Mind or Consciousness that orders the cosmos, and the rational structure of the cosmos that is eternally apprehended by this Mind. Variations of this view can be found in Anaxagoras, Plato (the Demiurge), Aristotle (the Prime Mover), the Stoics (the Logos), and Plotinus (Intellect).
+> "I have in mind here the classical view that the distinctive value of humanity lies in our possession of nous. Nous is standardly translated as ‘mind’ or ‘intellect,’ but it is important that these terms  be understood in a non-Cartesian way. Nous for the Greeks is something that exists in the cosmos  at large, independently of human thought. As such it is both the eternal Mind or Consciousness that orders the cosmos, and the rational structure of the cosmos that is eternally apprehended by this Mind. Variations of this view can be found in Anaxagoras, Plato (the Demiurge), Aristotle (the Prime Mover), the Stoics (the Logos), and Plotinus (Intellect).
 
-On this view, human nous is simply our local participation in the eternal divine Nous. In this respect the term nous functions more like ‘reason’ than ‘mind’; each of us partakes of Nous, but we do not collectively possess multiple nous-es (at least until Plotinus—although even his view, which posits a plurality of intellects, remains decidedly non-Cartesian). 
+> On this view, human nous is simply our local participation in the eternal divine Nous. In this respect the term nous functions more like ‘reason’ than ‘mind’; each of us partakes of Nous, but we do not collectively possess multiple nous-es (at least until Plotinus—although even his view, which posits a plurality of intellects, remains decidedly non-Cartesian). 
 
-Importantly, non-human nature also participates in Nous, although in a different way. It does so because processes of natural growth, development, and reproduction consist in the realization of natural forms, which in turn already exist in full actuality as the objects of the divine intellect.
+>Importantly, non-human nature also participates in Nous, although in a different way. It does so because processes of natural growth, development, and reproduction consist in the realization of natural forms, which in turn already exist in full actuality as the objects of the divine intellect.
 
-Any such natural process is thus a way in which nature participates, in a non-cognitive way, in the eternal actuality of Nous. This is a view that was adumbrated by Aristotle and developed
-systematically by Plotinus." (David Bradshaw)
+>Any such natural process is thus a way in which nature participates, in a non-cognitive way, in the eternal actuality of Nous. This is a view that was adumbrated by Aristotle and developed systematically by Plotinus." (David Bradshaw)
 
 
 ## Prayer
 
 1. "Seek the kingdom, by acquiring virtue, by praying, and hard work. In this way, acquire love, patience, peace, and become like God." -- Father Michael, St. George Orthodox Church, Hesperia
+
+
+
+
+
+## Censorship, banning books
+
+"One of the curious things about banning books is that the only way for you to have an opinion on whether the banning was a good idea or not is to read the book. Which you cannot do if it is banned. 
+
+So you must delegate the reading of the banned book to someone else whose intellect and psyche is presumably less impressionable than yours, and then you must accept their opinion without question. 
+
+This willing delegation of the power to police thought is the reason book banning and totalitarianism have appeared historically as two peas in a pod." [Huffington Post](http://www.huffingtonpost.com/entry/silencing-milo_us_586f3975e4b0eb9e49bfba52)
+
+
+
