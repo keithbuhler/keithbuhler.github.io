@@ -4,7 +4,7 @@ permalink: /history/
 title: 
 ---
 
-#### [Fall 2017 Syllabus PDF](/syllabi/bible-history-syllabus-trinity.pdf)   
+#### [Fall 2017 Syllabus PDF](/syllabi/history-bible-syllabus-trinity.pdf)   
 
 <center>
 
@@ -23,7 +23,7 @@ kbuhler@trinityclassicalacademy.com
 ### Required Books: 
 - *English Standard Version of the Bible: ESV Study Bible.*
 - Peter Leithart, *The Four: A Survey of the Gospels* 
-- A three ring binder with dividers devoted to this class
+- A three ring binder with dividers, devoted exclusively to this class
 
 ### Handouts (provided)
 - Western Civilization; 8th Edition, Spielvogel 
@@ -35,7 +35,7 @@ This course is intended cultivate careful reading and keen understanding of hist
 
 Specifically, this course covers the History of Rome and its impact on Western Civilization up through the Middle Ages. We cover about 1200 years, from 400 BC-600 AD, with special focus on 0-400 AD, during which time Rome became an empire, and in which Jesus lived, died, resurrected, and started the Church, which recorded its own history in the New Testament. 
 
-Humanities is a discipline based upon the manipulation of abstract ideas more than the learning of concrete facts. The goal is formation of good thought patterns and excellent character, rather than mastery of a body of technical knowledge. As a result, Humanities coursework involves reading and discussion more than anything else. Humanities homework, when assigned, will generally involve reading and note-taking, but most of our work actually takes place in the classroom. 
+Humanities is a discipline based upon the manipulation of abstract ideas, causes, and effects, as much as on the learning of concrete facts. The goal is formation of good thought patterns and excellent character, rather than mastery of a body of technical knowledge. As a result, Humanities coursework involves reading and discussion more than anything else. Humanities homework, when assigned, will generally involve reading and note-taking, but most of our work actually takes place in the classroom. 
 
 
 
@@ -147,7 +147,7 @@ Thursday/Friday: Welcome to Ancient History! Who are you and who am I? What is t
 
 No homework. 
 
-### Week 3 Macedonia, the Gospels
+### Week 3 Hellenistic World I, Macedonia 
 
 Today, we think about the world in which Christ was born. 
 
@@ -161,19 +161,24 @@ Homework: Essay (150 words): After our class discussion, how would you define wh
 
 
 
-### Week 4
+### Week 4 Hellenestic world II
 
-### Week 5
+### Week 5 Gospels
 
-### Week 6
+### Week 6 Hellenization
 
-### Week 7
+### Week 7 Judaism
 
-### Week 8
+### Week 8 Maccabees
 
-### Week 9 
+### Week 9 Maccabees
 
-### Week 10 (Quarter 2)
+
+
+### Week 10 (Quarter 2) The Roman Republic, Matthew, Mark
+
+Roman Republic lectures
+Video, Jesus "The New Way" (chs 3-4)
 
 ### Week 11
 
@@ -193,9 +198,13 @@ Homework: Essay (150 words): After our class discussion, how would you define wh
 
 ----- 
 
-### Week 19 (Quarter 3)
+### Week 19 (Quarter 3) The Roman Empire, Luke, Acts
+
+Roman Empire lecture
 
 ### Week 20
+
+Ovid Lecture
 
 ### Week 21
 
@@ -211,7 +220,7 @@ Homework: Essay (150 words): After our class discussion, how would you define wh
 
 ### Week 27
 
-### Week 28 (Quarter 4)
+### Week 28 (Quarter 4) Late Antiquity, Early Medieval World, John
 
 ### Week 29
 
@@ -226,11 +235,5 @@ Homework: Essay (150 words): After our class discussion, how would you define wh
 ### Week 34
 
 ### Week 35
-
-### Week 36
-
-### Week 36
-
-### Week 36
 
 ### Week 36
