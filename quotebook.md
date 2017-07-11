@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-*A Commonplace of Arguments, Quotations, and Examples from Sources both Ancient and Modern for use in class discussions, citing papers, and pensees.*
+*A Commonplace of Pensees, Arguments, Quotations, and Examples from Sources both Ancient and Modern for use in class discussions, citing papers.*
 
 
 {% include toc %}
@@ -64,12 +64,57 @@ Question: Is Whitman's "peace" about God genuine? Should we be curious about God
 
 Question: Is it possible to go "beyond God"? What does this phrase mean? Is it advisable to "transcend God"? What is the "desert"? 
 
-## Apatheia, (dispassion, detachment)
+## Apatheia, (dispassion, detachment) about normal things
 
 >“Diogenes Laertius cites life, health, pleasure, beauty, strength, wealth, good reputation, and noble birth as examples of preferables, and death, disease, pain, ugliness, poverty, ad reputation, and low birth, as examples of non-preferables.” (Nicholas Wolterstorff, *Justice: Rights and Wrongs*, (Princeton: 2008), 162)
 
 Question: Are Laertius' "preferables" necessary or just preferable? Are his "non-preferables" horrifying tragedies or merely non-preferrable?
 
+
+
+## Apatheia, (dispassion, detachment) about daily life
+
+-   Every day, two sorts of things happen: the expected and the unexpected. Put another way, only events we prefer and events we do not prefer. Every day, accept the unexpected to happen; accept those experiences you do not prefer. And vividly imagine and expect those experiences you prefer and do what is in your power to bring them about.
+
+1.  I might get sick
+
+2.  I might die.
+
+3.  My children might disobey.
+
+4.  Those whom I try to persuade may ignore or resist me.
+
+5.  Those I wish to do one action may delay in doing it, or do the opposite.
+
+6.  I might be late to an appointment.
+
+7.  I might be injured.
+
+8.  I might lose money by theft or mistake.
+
+9.  I might lose my job.
+
+Commit to accept all these things should they happen.
+
+Also, I my preferences might transpire.
+
+1.  Today might be the best day of my life.
+
+2.  I might be in good health.
+
+3.  My children might obey.
+
+4.  I may persuade those whom I try to persuade.
+
+5.  Those I wish to do an action may do it in good time.
+
+6.  I might receive money as a gift or from unexpected sources.
+
+7.  I might get a raise.
+
+8.  All those I love might be well and happy.
+
+Commit to be grateful to God should all these things happen.
 
 
 ## Christianity, is it a religion?
@@ -279,6 +324,15 @@ Question: Is justice fairness or harmony?
 ## Sexuality and Religion
 
 1. "Judaism is against paganism... The essence of paganism is unchastity." -- Milton Himmelfarb (First Things magazine, March 1991)
+2. Richard Rorty: ‎"No, I'm delighted that liberal theologians do their best to do what Pio Nono said shouldn't be done -- try to accommodate Christianity to modern science, modern culture, and democratic society. If I were a fundamentalist Christian, I'd be appalled by the wishy-washiness of their version of the Christian faith. But since I am a non-believer who is frightened of the barbarity of many fundamentalist Christians (e.g., their homophobia), I welcome theological liberalism. Maybe liberal theologians will eventually produce a version of Christianity so wishy-washy that nobody will be interested in being a Christian any more. If so, something will have been lost, but probably more will have been gained." Comment: Christians and all human beings must be intellectually honest, and consistent. Reject what you reject, accept what you accept. Rorty himself does not even believe in the possibility of truth.
+
+
+
+## Science and Religion
+
+1. Edward Feser argues in The Last Superstition: “in fact there is not, and never has been, any war between science and religion at all. There has instead been a conflict between two entirely philosophical conceptions of the natural order: on the one hand, the classical "teleological" vision of Plato, Aristotle, Augustine, and Aquinas, on which purpose or goal-directedness is as inherent a feature of the physical world as mass or electric charge; and the modern "mechanical" vision of Descartes, Hobbes, Locke, and Hume, according to which the physical world is comprised of nothing more than purposeless, meaningless particles in motion. The modern "mechanical" picture has never been established by science, and cannot be, for it is not a scientific theory in the first place but merely a philosophical interpretation of science.” 
+2. I believe there is a god for the same reason I believe that there is a "me" and that I have parents: reason, experience, science, the declaration of experts, and trust in the testimony of others. 
+
 
 
 
@@ -291,6 +345,8 @@ Question: Is justice fairness or harmony?
 5. "The universe-wide microphysical machine, the integrated realm of microscopic particles that forms the substance of reductionist fantasies, is not the product of naturalistic inquiry, but a supernatural construct of the scientific dreamer." (Dupre, "The Miracle of Monism" Naturalism in Question, Harvard: 2004. p. 52)
 6. Graham Harman rejects scientism on account of its anthropocentrism: "[T]here’s a more insidious form of human-centric ontology, as found in many version of scientism. On the one hand, scientism insists that human consciousness is nothing special, and should be naturalized just like everything else. On the other hand, it also wants to preserve knowledge as a special kind of relation to the world quite different from the relations that raindrops and lizards have to the world. Another of putting it… for all their gloating over the fact that people are pieces of matter just like everything else, they also want to claim that the very status of that utterance is somehow special. For them, raindrops know nothing and lizards know very little, and some humans are more knowledgeable than others. This is only possible because thought is given a unique ability to negate and transcend immediate experience, which inanimate matter is never allowed to do in such theories, of course. In short, for all its noir claims that the human doesn’t exist, it elevates the structure of human thought to the ontological pinnacle.” (http://ecologywithoutnature.blogspot.com/2011/10/harman-on-anthropocentrism.html)
 7. The appeal of materialism lies precisely in this, in its claim to be natural metaphysics within the bounds of science. That a doctrine which promises to gratify our ambition (to know the noumenal) and our caution (not to be unscientific) should have great appeal is hardly something to be wondered at. (Putnam (1983), p.210) 
+8. Thesis: If all truth is subjective or relative to the culture or observer, then even scientific claims are subjective; but if even some scientific claims are objectively true, then at least some of the philosophical assumptions upon which those scientific claim depend are also objectively true. Hence, scientism and subjectivism are both refuted, in an instant, upon a bit of reflection.  People like Feyaraband took the former premise to heart and deconstruct even natural scientific methods and conclusions. They deflate the pretensions of modern science and debunk its more arrogant claims. On the latter claim, some pro-science folks are honest but more need to be. 
+
 
 
 
@@ -417,7 +473,7 @@ Question: Is justice fairness or harmony?
 
 ## Prayer
 
-1. "Seek the kingdom, by acquiring virtue, by praying, and hard work. In this way, acquire love, patience, peace, and become like God." -- Father Michael, St. George Orthodox Church, Hesperia
+> 1. "Seek the kingdom, by acquiring virtue, by praying, and hard work. In this way, acquire love, patience, peace, and become like God." -- Father Michael, St. George Orthodox Church, Hesperia
 
 
 
@@ -425,11 +481,90 @@ Question: Is justice fairness or harmony?
 
 ## Censorship, banning books
 
-"One of the curious things about banning books is that the only way for you to have an opinion on whether the banning was a good idea or not is to read the book. Which you cannot do if it is banned. 
-
-So you must delegate the reading of the banned book to someone else whose intellect and psyche is presumably less impressionable than yours, and then you must accept their opinion without question. 
-
-This willing delegation of the power to police thought is the reason book banning and totalitarianism have appeared historically as two peas in a pod." [Huffington Post](http://www.huffingtonpost.com/entry/silencing-milo_us_586f3975e4b0eb9e49bfba52)
+> "One of the curious things about banning books is that the only way for you to have an opinion on whether the banning was a good idea or not is to read the book. Which you cannot do if it is banned. So you must delegate the reading of the banned book to someone else whose intellect and psyche is presumably less impressionable than yours, and then you must accept their opinion without question. This willing delegation of the power to police thought is the reason book banning and totalitarianism have appeared historically as two peas in a pod." [Bob Ostertag, Huffington Post](http://www.huffingtonpost.com/entry/silencing-milo_us_586f3975e4b0eb9e49bfba52)
 
 
 
+
+
+## Mortality
+
+1. Most people who have ever lived are already dead. Think on this for some time. 
+
+
+
+## Pleasure
+
+1. Pleasure is a good, but it is not the good. Solomon (Ecclesiastes), Plato (Philebus), even Epicurus (Letter to Menoeceus) attest to this truth. It is better to trust them, but if you must find it out for yourself, then go ahead and do so. This truth bears out under theoretical investigation, and practical experimentation. But finding it will be very painful for you; it is better to trust them. Pleasures are good (food, wine, sugar, beer, bourbon, jokes, kissing, movies, funny videos) but they are not the good. If you chase pleasure alone you will not achieve the Good. If you chase the Good, you might catch it. The Good is far more satisfying and (even) more pleasurable. 
+
+
+
+
+-   Most people who have ever lived are already dead. Think on this for some time.
+
+-   [Edward Feser](http://www.amazon.com/Last-Superstition-Refutation-New-Atheism/dp/1587314525) argues in The Last Superstition, "in fact there is not, and never has been, any war between science and religion at all. There has instead been a conflict between two entirely philosophical conceptions of the natural order: on the one hand, the classical "teleological" vision of Plato, Aristotle, Augustine, and Aquinas, on which purpose or goal-directedness is as inherent a feature of the physical world as mass or electric charge; and the modern "mechanical" vision of Descartes, Hobbes, Locke, and Hume, according to which the physical world is comprised of nothing more than purposeless, meaningless particles in motion. The modern "mechanical" picture has never been established by science, and cannot be, for it is not a scientific theory in the first place but merely a philosophical interpretation of science."
+
+-   I believe there is a god for the same reason I believe that there is a "me" and that I have parents: reason, experience, science, the declaration of experts, and trust in the testimony of others.
+
+-   She said, "This discussion is hard!" The master said, "Yes, it is hard! You think it's easy? Some 1000 piece puzzles take a month to finish and you never doubt (seriously) that there's no right answer. Some science puzzles take 50 years and then there's a breakthrough and we get it."
+
+-   Richard Rorty said,‎"No, I'm delighted that liberal theologians do their best to do what Pio Nono said shouldn't be done -- try to accommodate Christianity to modern science, modern culture, and democratic society. If I were a fundamentalist Christian, I'd be appalled by the wishy-washiness of their version of the Christian faith. But since I am a non-believer who is frightened of the barbarity of many fundamentalist Christians (e.g., their homophobia), I welcome theological liberalism. Maybe liberal theologians will eventually produce a version of Christianity so wishy-washy that nobody will be interested in being a Christian any more. If so, something will have been lost, but probably more will have been gained." Christians and all human beings must be intellectually honest, and consistent. Reject what you reject, accept what you accept. Rorty himself does not even believe in the possibility of truth.
+
+-   A young man said to his lover, "Dear, me being drawn to you at 9.81 m/s squared must be a natural law; it has been observed repeatedly under a variety of circumstances in my heart." Determinism is opposed to romance. Fated lovers are not really in love --- it is only free lovers who are in love. Chesterton's Flying Inn communicates this the best that I have seen.
+
+-   Consider the following exchange: "Miracles occur. Those who deny some miracles might be correct, since not all conceivable miracles nor all reported miracles actually occurred. But if some miracles occur, then those who deny all miracles are mistaken. Since those who deny miracles are mistaken, those who accept miracles are correct. Therefore, miracles occur." Respondent: "Miracles do not occur. Those who affirm miracles are deluded, ignorant, or charlatans. If no miracles are, then those who believe in miracles are mistaken. Since those who believe in miracles have no evidence, those who deny them are correct. Therefore, no miracles occur." What futility and unreason!
+
+-   Aristotle said that the mark of the educated man is the ability to withhold judgment. To remain undecided is, in some arguments, great courage; in others, it is great cowardice. Who can decide this? Only the wise person.
+
+-   To learn is, by definition, to learn from someone. To learn something "for oneself" is most often only to learn it from a book, written by someone else for you to study. To learn about plants, say, "for oneself" is be to learn from nature through observation. But how many actually learn thus? And who is to say that nature is not also a book, written by someone else for you to study?
+
+-   Al Geier said that dialectic is a winding, wandering path as you walk it and that, when you arrive at the destination and turn around, it is a straight line.
+
+-   Anthony de Mello said that to love someone you must not need anything from them. For instance, if I need you for something (you cheer me up, or help me process, or make me proud) then the moment you stop doing that is the moment I have to start forcing you to change. I can't let you change, be yourself, follow your bliss.
+
+-   Pleasure is a good, but it is not the good. Solomon (Ecclesiastes), Plato (Philebus), even Epicurus (Letter to Menoeceus) attest to this truth. It is better to trust them, but if you must find it out for yourself, then go ahead and do so. This truth bears out under theoretical investigation, and practical experimentation. But finding it will be very painful for you; it is better to trust them. Pleasures are good (food, wine, sugar, beer, bourbon, jokes, kissing, movies, funny videos) but they are not the good. If you chase pleasure alone you will not achieve the Good. If you chase the Good, you might catch it. The Good is far more satisfying and (even) more pleasurable.
+
+-   You think that all that exists is physical? All is natural, and nature is all? Then you cannot believe in numbers, in gods, in celestial beings, in concepts, in sets, in propositions or any abstract objects, in natural laws, in other people, or even in yourself.
+
+-   Starting from anywhere, you can get everywhere. If you wake up in an unknown land, and desire to get to your home --- or if you are stuck in your home spurred by a longing to go to an unknown land --- but do not know where to begin, one way forward is to go left. Discover the error on the way, or, by luck or providence, discover that your arbitrary thrust forward hit home. Similarly, to gain wisdom, start from where you are. Ask a question, launch out, start the voyage. It is false to say, "it does not matter where you start." Rather, where you go is all important, but it may befall that you know not where to go until you arbitrarily choose. Send up a prayer, and begin. The false step may be corrected. The failed step will always be stuck. The still mind will always remain foolish.
+
+-   The climax of the story, the few seconds that constitute the climax, are a tableau that communicates in an image or a word or both the whole meaning of your story. In Heart of Darkness the arche and the telos are "the horror!", and in Apocalypse Now the horror is made into a tableaux of the sacrifice of the cow and the murder of Kurtz. In Life of Pi the tableau is two men, two story tellers, conversing on a couch, telling stories and challenging each other to believe or disbelieve in god or gods, and one says, "Two stories, both account for the facts, neither is provable --- which do you prefer?" and the other responds, "The one with the tiger," and the first propounds, "So it is with God." This is the whole of the film in three lines of dialogue, and an image. So, to make a good story, spend as many hours crafting, constructing, inventing, fixing this tableau (perhaps many months, or years) as you do crafting the rest. This is to be expected. The seed contains the whole plant, and the fruit at the climax of the plant contains the seed.
+
+-   Story, not any particular story, but the form of story, is the most powerful form for communication. Why? Perhaps because we are stories, and we live in a story. Pixar thinks thus. Are we not philosophy? What is philosophy to Socrates is not philosophy to Aquinas nor to Wittgenstein. We are certainly love, and even love of wisdom, but more so we are love of immortality, of a neverending story, as the Symposium seems to teach. Are we not religion? Yes, but each religion tells a story --- which one matches the true story of real things is the true religion.
+
+-   Those who thematize story may or may not penetrate to the depth, to the heart of stories and become stories and story-tellers. J. R. R. Tolkien has found out the truth, he is both "poet" and "hero.". M. Night Shyamalan did not, he is hero but not poet, and his attempt to talk about story ruined his stories; also, Robert McKee is poet, but not hero; Joseph Cambpell, poet but not hero. Many more are heroes and not poets.
+
+-   Going from single to interested in somebody was: longing & sparks. Going from interested to dating was: fluttery fulfillment & a sense of falling. Going from dating to engaged was: exciting & electric.Going from engaged to married was: higher-level harmony, a season of tougher fights with more tender make-ups, a mixture of new dance and new conversations, a host of new discussions to have, and an onslaught of self-knowledge, an unrivalled depth of intimacy and growing sense of the bottomless wonder that is another human soul
+
+-   It is easy to be misunderstood. Your message, the transmission, is so fragile. This is no sign of greatness --- deep messages are misunderstood and so are superficial ones.
+
+-   Two views on education, with a great difference: The mechanized "subjects" fit into the machine of the human that fits into the machine of society that fits into the machine of the world; the organism of knowledge fits into the human organism that fits into the organism of society that fits into the organism of the world.
+
+-   Three mysteries puzzle anyone who reflects upon them: existence, life, and understanding. That there should be something rather than nothing is a mystery; that there should be living things rather than dead plasma, rock, and space is a mystery; that there should be rational beings who think and reflect rather than merely millions of unthinking bacteria, insects, and animals is a mystery. Neither the existence of God nor the existence of Nature fully and automatically explain these mysteries, but the existence of a rational God is the better of the two. If Nature or the Cosmos were all there ever was, is, or will be, then the emergence of life and of rational intellect is a great mysterious fact. If God were all there ever was, is, or will be, then the creation of life and rational intellect is a smaller but still mysterious fact.
+
+-   All men and women are philosophers. All seek wisdom, all are curious, all want to know, from the first flutterings of intellect childhood until the last dementia of death. Professional philosophers of the 21st century either augment this project or detract from it. They augment it who practice reflection, ratiocination, the acquisition of truth and the dispelling of ignorance and falsehood with careful arguments.  They detract from it who practice an overly specialized, abstruse, and irrelevant analysis upon topics only of interest to fellow monkey-minds.
+
+## Respect
+-   To earn the respect of anyone, you must earn the respect of everyone. Every human being has failings, and these become apparent over time. Children watch their parents fall from pedestals like gods falling from heaven. Only after time, patience, forgiveness, and self-understanding do some grown children rebuild any respect and restore the idol to its pedestal, if only partly. This respect is at least partly motivated by knowing their own faults, and the anxiety to earn some measure of respect from their own children. Some through their pride earn only scorn, and are rightly despised and then forgotten. We ache for universal respect, without qualification, without mixture of blame, from our own friends and family and from all posterity through time. And such is possible. Universal fame and praise result from conquering the flesh, mastering vanity, and acquiring great humility and love. For such a full man, a real man, the proper measure of respect is unconditional veneration.
+
+## Deepities
+
+-   That many aphorisms, theological statements, truisms are [deepities](http://rationalwiki.org/wiki/Deepity) is a serious charge. Is  "[The way that can be spoken of Is not the constant way; The name that can be named Is not the constant name.](http://www.centertao.org/essays/scripture/tao-te-ching/chapter-1/)" a deepity? Is "In the beginning, God created the heavens and the earth." a deepity? I think not. What about,  "We men of knowledge of today, we godless anti-metaphysicians, we, too, still derive our flame from the fire ignited by a faith millennia old, the Christian faith, which was also Plato's, that God is truth, that truth is divine." (Gay Science, 344) Every pool or lake, no matter how deep, has a surface. Every substance has a face. Every human has an aspect. But are these surfaces all there is? Likewise, every sentence or set of sentences has a surface. Some are shallow, others profound. The depth (if there is one) cannot be plumbed without more or less effort and, in some cases, skill. The conscious choice to view only the surface of something that also has depth is a serious error. The settled worldview that reduces all human and divine to flat material realities tends to find in deep sentences only deepities.
+
+## Victimizing Oneself
+
+-   A victim trains people to violate him. A former victim sometimes allows it for a time before she realizes she is being violated -- and may allow it, disallow it, or flee. A recovered victim most often realizes a violation is occurring in the moment and disallows it, training people to respect him.
+
+
+## To Do Lists
+
+-   Sometimes a "To Do" list is a master tool of efficiency, organizing and streamlining your efforts into maximal accomplishment; other times, it is a quiet pasture in which to release seemingly urgent but actually unimportant tasks and let them die. Both uses are useful.
+
+## Anxiety
+
+-   To avoid anxiety, take two steps: Ask yourself "What is the worst thing that could happen?" and embrace that possibility completely, committing to deal with it as best you can should it happen. Then, do everything in your power to avoid that happening. The anxiety will wither and disappear if you truly surrender to the worst (the possibility of it happening) and truly do presently needful actions to create the best. Also, pray to God for relief.
+
+
+-   I read Marilynn Robinson's Gilead this last month. Is it good? Yes. Is it great? I think so, but I am not sure. It won a Pulitzer prize. It moved me to tears more than once. It helped me (along with Terrence Mallick, and Dosteyevsky, and Tolstoy, and Tarkovsky, and Tolkien, and Lewis) to see the glory that is all around us. It convicted me. But the biggest potential impact it had on me was to re-interpret what I am doing here. Is this my letter to you, Josiah?
+
+-
