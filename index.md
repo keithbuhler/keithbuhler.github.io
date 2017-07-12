@@ -10,7 +10,15 @@ related:
 
 
 
-*"The Buhler Report" is a conversational blog delivering timeless wisdom and current events in classical education, liberal arts, philosophy, politics, film, and more. Reader comments and emails are much appreciated, whether positive or negative (Note: The comment functionality is currently under construction.)  Thanks for reading!*
+*Welcome to keithbuhler.com, the online home of Dr. Keith Buhler. I'm a philosopher and classical educator based in Los Angeles.* 
+
+*"The Buhler Report" is my blog discussing timeless wisdom and current events. I mostly cover classical education, philosophy, politics, film, and culture from a conservative perspective. Scroll down to read, or peruse the [categories](/categories/) or [archive](/archive/).*
+
+*This blog is not a monologue but a dialogue so reader comments are much appreciated, whether positive or negative. (I've just re-tooled the comments using Disqus, so let me know if you have any issues commenting.)*
+
+*On this site, you can also learn more [about me](/about/), about [my academic work in virtue ethics](/cv/), or explore some of other fun projects in the [sandbox](/sandbox/).* 
+
+*Thanks for reading!*
 
 <br>
 
