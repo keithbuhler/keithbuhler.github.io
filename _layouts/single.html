@@ -51,6 +51,7 @@ layout: default
 
 
     </div>
+{% if page.share %}{% include social-share.html %}{% endif %}
 
     <br>
 
@@ -80,7 +81,6 @@ s.setAttribute('data-timestamp', +new Date());
   </article>
 
   
-{% if page.share %}{% include social-share.html %}{% endif %}
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}

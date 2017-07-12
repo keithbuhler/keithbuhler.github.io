@@ -8,6 +8,9 @@ layout: single
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
+related: true
+comments: true
+
 ---
 
 ![header image](http://www.keithbuhler.com/images/founders.png)

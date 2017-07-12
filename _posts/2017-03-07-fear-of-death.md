@@ -8,11 +8,11 @@ excerpt:
 permalink: 
 layout: single
 tags: [essay, fear of death, politics]
-comments: true
 author_profile: false
-share: true
 excerpt_separator: <!--more-->
 related: true
+share: true
+comments: true
 
 ---
 

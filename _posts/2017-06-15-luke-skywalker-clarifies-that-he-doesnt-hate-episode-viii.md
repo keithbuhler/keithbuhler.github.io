@@ -6,6 +6,8 @@ permalink:
 excerpt_separator: <!--more-->
 layout: single
 share: true
+related: true
+comments: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---
