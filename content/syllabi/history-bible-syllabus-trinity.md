@@ -41,15 +41,33 @@ Humanities is a discipline based upon the manipulation of abstract ideas, causes
 
 ### Learning Goals:
 
-* To become familiar with the contours of western history
-* To understand the Gospels and the New Testament in its historical context
-* To understand the complexity of the causes of major historical events
-* To understand, test, and defend the Christian worldview applied to Rome, Greece, and the early Church.
+* To become familiar with the main contours of western history, such as Hellenistic Kingdoms, the Roman Republic, the Roman Empire
+* To understand the Gospels and the New Testament in historical context
+* To identify causes of major historical events
+* To understand, test, and defend the Christian worldview applied to Greece, Israel, Rome, and the early Church.
 * To become more virtuous and wise human beings in the pursuit of goodness, truth, and beauty.
 
 ### Scope, Sequence, and Grades:
 
-This course is divided into four Blocks of about 8 weeks each and each block is divided into 4 Units of about 2 weeks. The 16 resulting units cover the following topics: 
+This course is divided into four Blocks, and a total of about 16 units: 
+
+The World of Hellenism: Kingdoms, Society, Culture, and Religion
+The Jews in the Hellenistic World, Maccabees
+The Emergence of the Roman Republic
+Roman Conquest and Roman Culture
+The Decline and Fall of the Republic
+Ovid and the Age Augustus
+The Story of Jesus
+The Gospels, Mark and Matthew
+The Gospels, Luke and Acts
+The Gospel of John
+ The Early Church
+Crises in the Third Century, Diocletian
+The Transformation of the Roman World by Christianity
+The Late Roman Empire, Germanic Kingdoms 
+The Byzantine Empire
+The Rise of Islam
+
 
 Student work in each unit consists of reading, discussion, and assessments. Therefore, the best way to earn an 'A' is to read carefully, participate, and write. 
 
@@ -67,17 +85,21 @@ You will be graded primarily on reading, participation, and tests, plus applicab
  
 
 
-### Reading tips
-
-Read ahead. There is a lot of reading but read carefully and slowly as need be; you will get faster, but start slow and careful. Try to read _and understand_ the book or essay. Ask yourself: What is the main thesis? Is it true? Take notes. Talk with each other before class. Ask yourselves and each other: What is the main point? What confused me? Come to class with objections, questions, and arguments. More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
-
-### Quizzes
-
-Short reading quizzes assess that you read the day’s text. These are easy points, so be diligent in doing every quiz.
-
 ### Attendance & Participation Rubric
 
-Daily, students will be assessed on their participation in class.  Though outstanding participation may appear in a variety of ways, it is always marked by preparation, diligence, attentiveness, articulateness, insight, and respect.  Daily participation will be scored on a scale of 1-10, according to the following criteria:
+You will be assessed on your daily participation in class.  
+
+One of the primary goals of this class is to improve in our dialog skills. Much of class time is devoted to discussing the material because (1) You must take responsibility for your own learning. (2) We can actually get to know each other. (3) Most people learn (and retain) best in discussion. 
+
+To earn participation points, you will *voluntarily* share your thoughts in discussion at least once per week, and/or respond when called upon. 
+
+_You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
+
+Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+
+Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.  
+
+Daily participation will be scored on a scale of 1-10, according to the following criteria:
 
 9-10:
 Students always take a voluntary and active role in his or her own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute to the class as a result of having thoughtfully completed assignments, and the thoroughness of their work demonstrates the high regard they hold for learning.  In class, they demonstrate a superior work ethic and focus on the tasks at hand.
@@ -96,41 +118,32 @@ Students rarely take an active role in their own learning.  They often do not pa
 Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 
----
+### Reading tips:
+Read for understanding, not just completion.  Read each book or chapter slowly and actively, pausing to ask yourself: What is the main thesis? Is it true? Take notes summarizing the story or argument of the text and your questions or opinions on that story.
 
-The primary competency of this class is dialog. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. We dialog so much because: (1) You must take responsibility for your own learning. (2) We can actually get to know each other. (3) Most people learn (and retain) best in discussion. 
+Read as slowly as you must in order to read for understanding; you will get faster over time!
 
-To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. If you do not talk in class, you must post reflections online every week. By default, everyone is an “external processor”. _“Internal processors”_: Some may wish to opt out of speaking in class and emphasize writing. To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
+Talk with each other before class: What was the main point of the reading? What was especiallyconfusing? What especially interesting? Come to class with objections, questions, and arguments. 
 
-_You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
+### Quizzes
 
-Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+Short reading quizzes will occur each day to assess that you read the assigned text. These are "easy points" if you are diligent in reading.
 
+
+### Tests/Exams
+
+Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Greece, Rome, Persia, Israel, and the Early Church. 
  
 ### Extra Credit
 
 Those who opt for extra credit may do so. You may do extra reading, extra writing, extra class preparation, for up to 3% of the semester grade. The normal amount of extra credit awarded is 1-2%. The only way to earn all 3% is to do multiple types of extra credit and do them well. Full instructions are posted online.
 
-### Miscellany:
 
-1. **Bring your textbook** to every class. Reference it in the discussion. Be specific. 
-2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
-3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back.
-6. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up too early – 1 minute before the end of class is fine.
-7. **Contact me.** The best method is to chat is a Canvas message; I read every message but may not respond to every email. If you need a response but I haven’t responded within three (3) days, send a message again with the subject “nudge”. 
-9. **Email**. You are expected to have an active account that you check regularly, and to check “news” or “announcements” section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail (e.g. if I am sick, pointers for home work, change in due dates).
-11. **Plagiarism**. Do not plagiarize. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. It may jeopardize your standing in the class. If you forget to quote a source, that’s still plagiarism. Also, if you intentionally take anyone else’s work or offer your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. [For more information, refer to academic integrity documents like this one](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
-12. **Enjoy yourself.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
-
-
-
-## Quality Work Guidelines:
+### Quality Work Guidelines:
 
 Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
 
 Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
-
-
 
 
 ##  Outline:
