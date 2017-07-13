@@ -2,8 +2,9 @@
 title: This Classic Text Explains Why Classical Education is Best
 categories: [Classical education]
 header:
-    image: 
-teaser: https://admissions.yale.edu/sites/default/files/styles/main-carousel-image--1280x850/public/home-main-carousel-images/fin_aid.jpg?itok=6NEQ6j3v)
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+permalink: 
+share: true
 permalink: /yalereport-post/
 layout: single
 tags: [Classical education, yale]
@@ -14,11 +15,9 @@ excerpt_separator: <!--more-->
 
 ---
 
-### 12.29.16
-
 ![yale](https://admissions.yale.edu/sites/default/files/styles/main-carousel-image--1280x850/public/home-main-carousel-images/fin_aid.jpg?itok=6NEQ6j3v)
 
-If you haven't read the [Yale Repot, it is very good.](http://www.keithbuhler.com/yalereport) I spent (far too long) this morning adapting this text to HTML as well as PDF, so now you can read it on your phone,  download it to your Kindle, or print it off. 
+If you haven't read the [Yale Repot, it is very good.](http://www.keithbuhler.com/yalereport) I spent this morning adapting this text to HTML as well as PDF, so now you can read it on your phone,  download it to your Kindle, or print it off. 
 
 
 ### What it is 
@@ -47,3 +46,4 @@ Today, while one can find academics fighting against the barbaric prejudice for 
 There are many delicate and difficult arguments to debate and discuss. Sadly, some readers will never get that far. The Report was written when only males attended college, when it was openly acknowledged that working class professionals needed less college education, and when teachers viewed themselves as holding benevolent and paternalistic authority over students. So the first objections one can imagine arising in some readers' minds are objections pertaining to the pet obsessions of cultural Marxism (race, class, sex, gender, culture, orientation, etc.)  These bugbears will almost certainly drive to distraction those for whom identity politics trumps any interest in education per se.  They should not distract the attentive and sympathetic reader.
 
 The Report's principles, it may be, transcend time, place, and political fad. For those who care about children and students and for those who themselves want to become free in mind and spirit, the Yale Report is as fresh and wise as when it was written in 1828.
+

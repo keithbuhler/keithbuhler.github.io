@@ -15,7 +15,7 @@ I am a perpetual member of the Torrey Honors Institute at Biola University and a
 
 My passion is not only teaching students, but helping schools to grow and form, and advocating to the public for classical education. 
 
-{% include toc %}
+<!--{% include toc %} when my TOC code is rehabilitated-->
 
 
 ## What is classical education?
@@ -81,5 +81,3 @@ Join us!
 - [Dr. Christopher Perrin's](http://classicalacademicpress.com/about-dr-christopher-perrin/) excellent essay: [Classical Education: An Introduction](https://drive.google.com/file/d/0B0CYQDZ8AWu8T29jRnRScmFGVGM/view?usp=sharing)
 - [Sheryl Lowe's](http://www.memoriapress.com/about) early curriculum for [introducing classical studies](http://www.memoriapress.com/curriculum/introduction-classical-studies)
 - [Martin Cothran](http://www.memoriapress.com/onlineschool/faculty/martin-cothran) on [the seven liberal arts](https://vimeo.com/85731207)
-
-[Resources]
