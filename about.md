@@ -36,5 +36,5 @@ In 2017, I completed my [Ph.D.](/phd) in Philosophy under [David Bradshaw](https
 
 Outside of the classroom, I am a devout amateur. I believe it is important to create things for the love of it: For example, I self-published a [Platonic dialog](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition, and have written or co-written four feature-length screenplays (none produced -- yet!). I enjoy creating art with unusual media like silly putty, snow, sand, and pumpkins, and I also write poetry, draw, paint, sculpt, act, MC, sing tenor and create the occasional website. 
 
-I am happily married to one of the world's few remaining Perfect Women, with whom I have two children who are Not Yet Perfect. Put together, they make life a raucous good time. 
+I am happily married to one of the world's few Perfect Women, with whom I have two children who are Not Yet Perfect. Put together, they make life a raucous good time. 
 
