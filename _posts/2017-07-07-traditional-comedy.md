@@ -12,7 +12,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---
 
-![header image](http://www.dailywire.com/sites/default/files/styles/article_full/public/uploads/2017/07/gettyimages-118662510.jpg?itok=OFyZTIrv)
+![header image](https://pixel.nymag.com/imgs/daily/vulture/2015/06/16/16-judd-apatow.w1200.h630.jpg)
 
 
 John Nolte over at Daily Wire provides [a comedy lover's analysis of where all the good comedies have gone.](http://www.dailywire.com/news/18390/guess-who-hollywoods-blaming-string-comedy-flops-john-nolte) Nolte mixes two of my loves: comedy and politics. The results are insightful (if not humorous). 
