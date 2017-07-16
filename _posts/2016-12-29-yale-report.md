@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 
 ![yale](https://admissions.yale.edu/sites/default/files/styles/main-carousel-image--1280x850/public/home-main-carousel-images/fin_aid.jpg?itok=6NEQ6j3v)
 
-If you haven't read the [Yale Repot, it is very good.](http://www.keithbuhler.com/yalereport) I spent this morning adapting this text to HTML as well as PDF, so now you can read it on your phone,  download it to your Kindle, or print it off. 
+If you haven't read the [Yale Report, it is very good.](http://www.keithbuhler.com/yalereport) I spent this morning adapting this text to HTML as well as PDF, so now you can read it on your phone,  download it to your Kindle, or print it off. 
 
 
 ### What it is 

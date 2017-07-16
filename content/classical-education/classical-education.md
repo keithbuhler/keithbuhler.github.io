@@ -22,7 +22,7 @@ My passion is not only teaching students, but helping schools to grow and form, 
 
 ‘Classical education’ is shorthand for a cluster of related educational aims and methods.  Classical education is one of humanity's oldest wisdom traditions. It was recently forgotten in the west. Now, many around the world [are re-discovering it.](http://www.patheos.com/blogs/geneveith/2013/06/classical-education-in-the-news/)
 
-Classical education is a set of the best, time-tested practices for education -- the kind of education James Madison got at the college we now know as Princeton... the kind of education W. E. B. Dubois got at Harvard... that Jefferson wanted to give students when he started the University of Virginia. Frankyl, it was the kind of education most Americans got in grammar school during the pre-Colonial era and the first 60 years after the Revolution. 
+Classical education is a set of the best, time-tested practices for education -- the kind of education James Madison got at the college we now know as Princeton... the kind of education W. E. B. Dubois got at Harvard... that Jefferson wanted to give students when he started the University of Virginia. Frankly, it was the kind of education most Americans got in grammar school during the pre-Colonial era and the first 60 years after the Revolution. 
 
 As [Founders Academy in Dallas](https://responsiveed.com/foundersdallas/about/what-is-classical/)  says: 
 
