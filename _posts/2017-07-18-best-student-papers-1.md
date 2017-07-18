@@ -12,10 +12,11 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-> I am pleased to present a series of posts from former students. These represent excellent philosophical essays on a variety of topics from my Business Ethics and other philosophy classes from the Spring of 2017 at the University of Kentucky and Asbury University. They are reprinted with permission. 
+*For July and August, I am pleased to present a series of guest posts from my former university students at the University of Kentucky and Asbury University. These posts represent the excellent philosophical writing (on a variety of topics) from my Business Ethics and other philosophy classes from the Spring of 2017.   Whether I agree or disagree with the thesis, I think these essays are worth reading because they present a formidable case that is informative and challenging. My own view, if I write them out, will come after the essays are published.  All the essays are reprinted with permission.* --Keith Buhler
+
+---
 
 ![Header](http://az616578.vo.msecnd.net/files/2016/06/01/6360035277177830871761195558_Sheryl-Sandberg-Facebook-COO.jpg)
-
 
 
 Since 1978, CEO compensation on average has grown almost 1000%, twice as fast as the rate of growth of the stock market and ninety times as fast as the rate of growth of a typical employee's pay. Because of this, the gap between the lowest-paid and highest-paid members of a given company has widened greatly, to the point that the average CEO will make 300 times more than the typical worker in a given year. Though the rationale for high executive compensation is widely accepted in corporations as well as in society, there is a growing debate over whether this compensation is truly representative of executive contribution to their companies.
