@@ -9,13 +9,11 @@ related:
 
 <br>
 
-Hi, I'm Keith Buhler, a philosopher and classical educator based out of Los Angeles. 
+I'm Keith Buhler, a philosopher and classical educator based out of Los Angeles. Welcome to my online hub for sharing new projects, connecting with people, and growing together in virtue in  wisdom by pursuing beauty and truth.
 
-Welcome to my online hub for sharing new projects, connecting with people, and growing intellectually. 
+On this site, you can follow [*The Buhler Report*](/blog) for dialog about timeless wisdom and  current events.  It features curated links, brief thoughts, and longer essays on the incredibly important themes of [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
 
-On this site, you can follow [*The Buhler Report*](/blog) for doses of timeless wisdom and coverage of current events.  The blog features curated links, brief thoughts, and longer essays on the incredibly important themes of [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
-
-You can also learn more [about me](/about/) and my [academic work on naturalism](/cv/),  consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy, or explore a bunch of fun stuff in the [sandbox](/sandbox/) (including how to build a website like this for free). Thanks for reading. 
+You can also learn more [about me](/about/) and my [academic work in virtue ethics](/cv/),  consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy. Finally, you can explore a bunch of fun stuff in the [sandbox](/sandbox/) (including how to build a website like this for free). Thanks for reading. 
 
 <br>
  
