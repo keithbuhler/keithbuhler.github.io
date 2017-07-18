@@ -7,24 +7,39 @@ header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 ---
 
-This site is built more or less from scratch in plain text. Jekyll transforms the Markdown-styled text into HTML and Github hosts it for me. You can view and even duplicate the source code [here](http://bit.ly/2lYmQsa).
 
-Below, I explain in more detail about the site.
-
-### Style
-
-
-Keith Buhler created the content and style with help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com) and the good folks at [Github](https://github.com). 
+This site is built more or less from scratch in plain text. That text is transformed into web code by the magic of Jekyll and hosted for free by the good folks at [Github](https://github.com). 
 
 ![github cat](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
 
-The CSS design consists of modified version of the beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) by New York designer [Michael Rose.](https://mademistakes.com/) 
+Keith Buhler is the author, but he had major help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com). 
+
+Below, I explain in more detail about the site.
+
+
+
+
+### Content
 
 The content is written in plain text [Markdown](https://daringfireball.net/projects/markdown/syntax) and stored on my hard-drive. 
 
 When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML which is  *hosted* and published for free by Github. Amazing, right?
 
-Logo credit goes to LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a> https://logomakr.com/2H25PP2H25PP
+![i am batman, thank you very much](https://m.popkey.co/d86114/qxy0g.gif)
+
+
+### Style
+
+The core of the CSS design is the beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) by New York designer [Michael Rose.](https://mademistakes.com/) 
+
+### Source Code 
+
+You can view and even duplicate the source code on Github [by clicking here with the mouse machine](http://bit.ly/2lYmQsa).
+
+
+### Logo
+
+The little "KB" Logo was created by LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Create your own, free. (Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a>) 
 
 ### Map
 
@@ -37,7 +52,9 @@ This site is my *eighth* draft. The [2013 first try](https://web.archive.org/web
 
 [Dan Sheffler](http://www.dansheffler.com) showed me his site and got me started using Markdown. There was a learning curve, but I am tech curious and enjoyed the problem-solving. Over Christmas 2015, I worked compulsively on making the content and organization the data.  Versions 3-6 were failed attempts at using Github (first username was circularreason.github.io). Version 7 worked. Now it's a work in progress. 
 
-Design-wise, I started with Dan Sheffler's site and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/). After learning a lot about CSS by building from the ground up, I started over with the very powerful and beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) from New York designer Michael Rose, and have made slight changes from there.
+Design-wise, I started with Dan Sheffler's site and made changes inspired by [Baron Peter Von Elswyk](http://www.rci.rutgers.edu/~pdv12/research.html) and [Andrew M. Bailey](http://www.andrewmbailey.com/). After learning a lot about CSS by building from the ground up, I started over with the very powerful and beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) from New York designer Michael Rose, and have made slight changes from there. 
+
+In May 2017, I made a major shift toward the "Less is More" layout because it had additional functionality for sub-menus in the masthead. Even though I sandboxed this transition, upon implementation it of course broke a bunch of things. I am still in the process of making the Less is More CSS play nicely with the Minimal Mistakes CSS. 
 
 ### DIY
 

@@ -105,7 +105,7 @@ This Sandbox page is a playground full of fun projects in various stages of comp
 - [Orthodox Christianity](http://www.keithbuhler.com/buhlerreport/orthodoxy) -- a bit about the ancient church 
 - [Web Design](/sites) -- A few websites I've created
 - [Follow me on Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation. Suggest corrections, or fork the code and make your own site. 
-- <a href="/phd-how-to/">How to get a PhD</a>
+- <a href="/phd-how-to/">How to get a PhD</a> -- My story of earning a terminal degree without contracting a terminal illness. 
 
 
 ### Future Projects

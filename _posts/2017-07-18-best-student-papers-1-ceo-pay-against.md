@@ -1,6 +1,6 @@
 ---
 title: Guest Post 1 "Can CEO Pay Be Unjustifiably High?" by Frances Roorda
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
@@ -12,7 +12,9 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-*For July and August, I am pleased to present a series of guest posts from my former university students at the University of Kentucky and Asbury University. These posts represent the excellent philosophical writing (on a variety of topics) from my Business Ethics and other philosophy classes from the Spring of 2017.   Whether I agree or disagree with the thesis, I think these essays are worth reading because they present a formidable case that is informative and challenging. My own view, if I write them out, will come after the essays are published.  All the essays are reprinted with permission.* --Keith Buhler
+*For July and August, I am pleased to present a series of guest posts from my former university students at the University of Kentucky and Asbury University. These posts represent the excellent philosophical writing (on a variety of topics) from last semester's philosophy classes.*  
+
+*Whether I agree or disagree with the thesis, I think these essays are worth reading because they present a formidable case that is informative and challenging. My own view, if I write them out, will come after the essays are published.  All the essays are reprinted with permission.* -- Keith 
 
 ---
 
