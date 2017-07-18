@@ -1,5 +1,5 @@
 ---
-title: Guest post #1 -- "Can CEO Pay Be Unjustifiably High?" by Frances Roorda
+title: Guest Post 1 "Can CEO Pay Be Unjustifiably High?" by Frances Roorda
 layout: post
 share: true
 header:
