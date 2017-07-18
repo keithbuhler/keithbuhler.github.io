@@ -165,6 +165,11 @@ Question: Is paternalistic lying wrong?
 Question: Is it morally permissible to dialog in a civil manner with those whose views are not just mistaken but in some sense immoral, depraved, wicked, hateful, hurtful, or deluded? 
 
 
+## Feminism
+
+>Anti-feminism is the radical notion that women are adults. --Karen Straughan
+
+
 ## Normativity, subjective
 
 > Korsgaard began with a search for moral entities (and values) that might provide the basis for normativity. She concludes that all the accounts of normativity she discusses are "true": Normativity must spring from the commands of a legislative authority. (Hobbes);  Reasons are intrinsically moral entities. What we should do when a desire presents itself is to reflect on it, to look at it more objectively to see whether it is such an entity. (Clarke, Moore, Nagel); Reflection has the power to compel obedience, and to punish us for disobedience. It in turn is bound to govern us by laws that are good. Reflection makes us authorities over ourselves. (Hume, Mill, Williams); In so far as we have authority over ourselves, we can make laws for ourselves, and those laws will be normative. Autonomy is the source of moral obligation. (Kant, Rawls, Korsgaard)
@@ -485,7 +490,7 @@ Question: Is justice fairness or harmony?
 
 
 
-
+# Pensees
 
 ## Mortality
 
@@ -567,4 +572,3 @@ Question: Is justice fairness or harmony?
 
 -   I read Marilynn Robinson's Gilead this last month. Is it good? Yes. Is it great? I think so, but I am not sure. It won a Pulitzer prize. It moved me to tears more than once. It helped me (along with Terrence Mallick, and Dosteyevsky, and Tolstoy, and Tarkovsky, and Tolkien, and Lewis) to see the glory that is all around us. It convicted me. But the biggest potential impact it had on me was to re-interpret what I am doing here. Is this my letter to you, Josiah?
 
--

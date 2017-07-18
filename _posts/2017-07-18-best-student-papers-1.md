@@ -1,5 +1,5 @@
 ---
-title:  Can Executive Compensation Be Unjustifiably High? (Guest post By Frances Roorda)
+title: Guest post #1 -- "Can CEO Pay Be Unjustifiably High?" by Frances Roorda
 layout: post
 share: true
 header:
@@ -12,9 +12,11 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-I am pleased to present some of my student papers from spring 2017. These represent the best writing in my classes from the University of Kentucky and Asbury University. They are reprinted with permission. 
+> I am pleased to present a series of posts from former students. These represent excellent philosophical essays on a variety of topics from my Business Ethics and other philosophy classes from the Spring of 2017 at the University of Kentucky and Asbury University. They are reprinted with permission. 
 
-![Header]()
+![Header](http://az616578.vo.msecnd.net/files/2016/06/01/6360035277177830871761195558_Sheryl-Sandberg-Facebook-COO.jpg)
+
+
 
 Since 1978, CEO compensation on average has grown almost 1000%, twice as fast as the rate of growth of the stock market and ninety times as fast as the rate of growth of a typical employee's pay. Because of this, the gap between the lowest-paid and highest-paid members of a given company has widened greatly, to the point that the average CEO will make 300 times more than the typical worker in a given year. Though the rationale for high executive compensation is widely accepted in corporations as well as in society, there is a growing debate over whether this compensation is truly representative of executive contribution to their companies.
 
