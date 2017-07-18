@@ -1,23 +1,28 @@
 ---
 layout: page
-title: 
+title: Welcome!
 permalink: 
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 related: 
 ---
 
+<br>
 
-Welcome to the online home of Dr. Keith Buhler, a philosopher and classical educator based out of Los Angeles.
+Hi, I'm Keith Buhler, a philosopher and classical educator based out of Los Angeles. 
 
-On this site, you can follow [*The Buhler Report*](/blog) for reflections on timeless wisdom and coverage of current events.  The blog provides links,  brief thoughts, and longer essays mainly focusing on [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+Welcome to my online hub for sharing new projects, connecting with people, and growing intellectually. 
 
-You can also learn more about [Dr. Buhler](/about/) and his [academic work](/cv/), learn [how](philosophy-class) and [why](/philosophymajor) to study philosophy, or explore other fun projects in the [sandbox](/sandbox/). Thanks for reading. 
+On this site, you can follow [*The Buhler Report*](/blog) for doses of timeless wisdom and coverage of current events.  The blog features curated links, brief thoughts, and longer essays on the incredibly important themes of [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+
+You can also learn more [about me](/about/) and my [academic work on naturalism](/cv/),  consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy, or explore a bunch of fun stuff in the [sandbox](/sandbox/) (including how to build a website like this for free). Thanks for reading. 
 
 <br>
  
 
-<h2> Latest Post </h2>
+<center>
+<h2> Most Recent Post  </h2>
+</center>
 
 <br>
 
@@ -37,6 +42,5 @@ You can also learn more about [Dr. Buhler](/about/) and his [academic work](/cv/
 
 </div>
 {% endfor %}
-<center>
 <br> 
 

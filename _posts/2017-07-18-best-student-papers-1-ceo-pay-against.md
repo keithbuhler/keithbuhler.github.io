@@ -12,9 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-*For July and August, I am pleased to present a series of guest posts from my former university students at the University of Kentucky and Asbury University. These posts represent the excellent philosophical writing (on a variety of topics) from last semester's philosophy classes.*  
-
-*Whether I agree or disagree with the thesis, I think these essays are worth reading because they present a formidable case that is informative and challenging. My own view, if I write them out, will come after the essays are published.  All the essays are reprinted with permission.* -- Keith 
+*"This month I am happy to announce that I will be publishing a series of guest posts from my former students. I asked these students if I could publish their essays because I think they represent excellent examples of philosophical reasoning on important or contemporary topics. Some I agree with and some I do not... but they all make me think. -- Keith*
 
 ---
 
