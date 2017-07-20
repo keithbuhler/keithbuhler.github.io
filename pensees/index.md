@@ -1,9 +1,12 @@
 ---
 title: Pensees
 layout: single
+header:
+      image: http://www.keithbuhler.com/images/oxford4.png
+
 ---
 
-# A generator of quotations and questions
+# Thoughts and Reflection Questions
 
 
 <div id="quoteDisplay">
@@ -12,7 +15,11 @@ layout: single
 
 <br>
 
+<center> 
+
 <button onclick="newQuote()"> New Quote </button>
+
+</center>
 
 <script type="text/javascript" src="javascript.js"></script>
 
