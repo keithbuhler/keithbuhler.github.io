@@ -1,12 +1,10 @@
 ---
-title: Pensees
+title: Pensees -- thoughts and questions for reflection
 layout: single
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
 
 ---
-
-# Thoughts and Reflection Questions
 
 
 <div id="quoteDisplay">
@@ -15,11 +13,10 @@ header:
 
 <br>
 
-<center> 
 
-<button onclick="newQuote()"> New Quote </button>
 
-</center>
+      <button onclick="newQuote()">New Quote</button>
 
-<script type="text/javascript" src="javascript.js"></script>
+
+      <script type="text/javascript" src="javascript.js"></script>
 
