@@ -9,7 +9,9 @@ related:
 
 <br>
 
-I'm Keith Buhler, a philosopher and classical educator based out of Los Angeles. Welcome to my online hub for sharing new projects, connecting with people, and growing together in virtue in  wisdom by pursuing beauty and truth.
+I'm Dr. Keith Buhler, a philosopher and classical educator based out of Los Angeles. 
+
+Welcome to my online hub for sharing new projects, connecting with people, and growing together in virtue in  wisdom by pursuing beauty and truth.
 
 On this site, you can follow [*The Buhler Report*](/blog) for dialog about timeless wisdom and  current events.  It features curated links, brief thoughts, and longer essays on the incredibly important themes of [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
 

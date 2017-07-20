@@ -4,14 +4,16 @@ layout: single
 permalink: /disambiguation/
 header: 
       image: http://www.keithbuhler.com/images/josiah-grass.jpg
-      teaser: http://www.keithbuhler.com/images/josiah-grass.jpg
 --- 
 
 ## Redirected from kiθ bulər (disambiguation)[^1]
 
-*Keith Buhler is not to be confused with:*
 
-* [Ferris Bueller's Day Off (film)](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
+*This site is about Keith Buhler, the philosopher and classical educator.* 
+
+*He is not to be confused with:*
+
+* [Ferris Bueller, who mispelled his name horribly](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
 
 ![Bueller](/images/bueller.jpg)
 

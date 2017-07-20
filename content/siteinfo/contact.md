@@ -4,7 +4,7 @@ layout: single
 permalink: /contact/
 author_profile: false
 header:
-      image: http://www.keithbuhler.com/images/banner-keithbuhler.svg
+      image: http://www.keithbuhler.com/images/oxford4.png
 
 ---
 
@@ -28,7 +28,9 @@ while(x=eval(x));
 
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
 * Secure mail:  circularreason [that swirly sign] protonmail.com
-* Social: [Facebook](http://www.facebook.com/kedbuhler/)  &  [Twitter](https://twitter.com/Keith_Buhler) [Google Plus](https://plus.google.com/+KeithBuhler)
+* [Facebook](http://www.facebook.com/kedbuhler/)  kedbuhler
+* [Twitter](https://twitter.com/Keith_Buhler) Keith_Buhler
+* [Google Plus](https://plus.google.com/+KeithBuhler) +KeithBuhler
 * Call:  area 562 number 23O 292O
 * Mail: Pending
 

@@ -1,5 +1,5 @@
 ---
-title: Site Info
+title: Site Information
 layout: single
 author_profile: false
 permalink: /README/
@@ -8,42 +8,52 @@ header:
 ---
 
 
-This site is built more or less from scratch in plain text. That text is transformed into web code by the magic of Jekyll and hosted for free by the good folks at [Github](https://github.com). 
-
 ![github cat](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
 
-Keith Buhler is the author, but he had major help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, [W3Schools](www.w3schools.com). 
-
-Below, I explain in more detail about the site.
-
-
+This site is built by Keith Buhler more or less from scratch in plain text. It is hosted for free by the good folks at [Github](https://github.com). Below, I explain more details about the site.
 
 
 ### Content
 
 The content is written in plain text [Markdown](https://daringfireball.net/projects/markdown/syntax) and stored on my hard-drive. 
 
-When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML which is  *hosted* and published for free by Github. Amazing, right?
+When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML. 
+
+The HTML which is  *hosted* and published for free by Github. Amazing, right?
 
 ![i am batman, thank you very much](https://m.popkey.co/d86114/qxy0g.gif)
+
 
 
 ### Style
 
 The core of the CSS design is the beautiful [Minimal Mistakes Layout](https://mmistakes.github.io/minimal-mistakes/about/) by New York designer [Michael Rose.](https://mademistakes.com/) 
 
+
+### Map
+
+The site is constantly being revised and updated because of my ADD. However, the main information is the BLOG (BUHLER REPORT), ABOUT the author, and some of my WRITINGS, TEACHING, and RESEARCH. There are also resources about PHILOSOPHY and other fun projects in the SANDBOX.  
+
+
+### Acknowledgments
+
+I learned to write Markdown and how to use Github with major help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, and [W3Schools](www.w3schools.com). 
+
+The little "KB" Logo was created by LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Create your own, free. (Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a>) 
+
+
+
 ### Source Code 
 
 You can view and even duplicate the source code on Github [by clicking here with the mouse machine](http://bit.ly/2lYmQsa).
 
+### DIY
 
-### Logo
+If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). (Alternately, I could [make yours for you.](/sites))
 
-The little "KB" Logo was created by LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Create your own, free. (Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a>) 
 
-### Map
 
-The site is constantly being revised and updated. However, the main information is the BLOG (BUHLER REPORT), ABOUT the author, and some of my WRITINGS, TEACHING, and RESEARCH. 
+
 
 
 ### History
@@ -56,14 +66,7 @@ Design-wise, I started with Dan Sheffler's site and made changes inspired by [Ba
 
 In May 2017, I made a major shift toward the "Less is More" layout because it had additional functionality for sub-menus in the masthead. Even though I sandboxed this transition, upon implementation it of course broke a bunch of things. I am still in the process of making the Less is More CSS play nicely with the Minimal Mistakes CSS. 
 
-### DIY
 
-If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). (Alternately, I could [make yours for you.](/sites))
-
-
-### Errata
-
-[Please send an email](emailto:info@keithbuhler.com) if you spot any typos or dead links.
 
 ### Copyright
 
@@ -72,3 +75,13 @@ The content of the site by <span xmlns:cc="http://creativecommons.org/ns#" prope
 In other words, all rights are reserved, with two exceptions: (1) **Code**: Though I retain rights to the content, you are free to copy the style and basic structure of the site by forking it on Github. (2) **Fiction**: You can use (but not sell) my fiction and art with proper ascription for your creative projects under Creative Commons License. [Contact me](emailto:keithedbuhler@gmail.com) for commercial licensing or for more information.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+
+### Errata
+
+I'm fairly dyslexic, so [please send an email](emailto:info@keithbuhler.com) if you spot any typos,  dead links, or other weirdness. 
+
+### Winners
+
+![blue feet](https://s-media-cache-ak0.pinimg.com/originals/18/84/56/1884564698d0f66c468cddb6f29b50e5.jpg)
+
+If you finished reading all of this for some reason, email me a new and unusual picture of my favorite bird, the Blue-Footed Boobie, to let me know you are a winner who can finish things. 
