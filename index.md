@@ -9,9 +9,9 @@ related:
 
 <br>
 
-I'm Dr. Keith Buhler, a philosopher and classical educator based out of Los Angeles. 
+<img src="http://www.keithbuhler.com/images/keith_face.jpg" align="left">
 
-<img src="http://www.keithbuhler.com/images/keith_face.jpg" align="right">
+I'm Dr. Keith Buhler, a philosopher and classical educator based out of Los Angeles. 
 
 Welcome to my online hub for sharing new projects, connecting with people, and pursuing virtue,  wisdom, truth, and beauty together.
 
