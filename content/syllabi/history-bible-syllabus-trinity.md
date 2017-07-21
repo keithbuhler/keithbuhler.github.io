@@ -51,22 +51,24 @@ Humanities is a discipline based upon the manipulation of abstract ideas, causes
 
 This course is divided into four Blocks, and a total of about 16 units: 
 
-The World of Hellenism: Kingdoms, Society, Culture, and Religion
-The Jews in the Hellenistic World, Maccabees
-The Emergence of the Roman Republic
-Roman Conquest and Roman Culture
-The Decline and Fall of the Republic
-Ovid and the Age Augustus
-The Story of Jesus
-The Gospels, Mark and Matthew
-The Gospels, Luke and Acts
-The Gospel of John
- The Early Church
-Crises in the Third Century, Diocletian
-The Transformation of the Roman World by Christianity
-The Late Roman Empire, Germanic Kingdoms 
-The Byzantine Empire
-The Rise of Islam
+1. The Hellenistic Kingdoms
+2. The Hellenistic World: Society, Culture, and Religion
+3. Hellenism and the Jewish Resistance
+4. The Emergence of Rome (the Republic)
+5. The Roman Conquest and Culture
+6. The Decline and Fall of the Republic
+7. Ovid and the Age Augustus (63 BC -14 AD)
+8. The Story of Jesus
+9. The Gospels, Mark and Matthew
+10. The Gospels, Luke and Acts
+11. The Early Church
+12. The Gospel of John
+13. Crises of the Third Century, and Diocletian
+14. Christendom: The Transformation of the Roman World
+15. The Late Roman Empire and Germanic Kingdoms
+16. The Byzantine Empire & the Rise of Islam
+
+
 
 
 Student work in each unit consists of reading, discussion, and assessments. Therefore, the best way to earn an 'A' is to read carefully, participate, and write. 
@@ -79,7 +81,6 @@ You will be graded primarily on reading, participation, and tests, plus applicab
 | Readings/Notes                        | 25%         |
 | Quizzes                               | 25%         |
 | Exams/Projects                        | 25%         |
-| Extra Credit                          | 3% max      |
 
 
  
@@ -134,9 +135,6 @@ Short reading quizzes will occur each day to assess that you read the assigned t
 
 Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Greece, Rome, Persia, Israel, and the Early Church. 
  
-### Extra Credit
-
-Those who opt for extra credit may do so. You may do extra reading, extra writing, extra class preparation, for up to 3% of the semester grade. The normal amount of extra credit awarded is 1-2%. The only way to earn all 3% is to do multiple types of extra credit and do them well. Full instructions are posted online.
 
 
 ### Quality Work Guidelines:
@@ -150,103 +148,53 @@ Late work will not be accepted.  In the case of emergencies or absences known ah
 
 The outline tells you the reading due each day, the topic. The outline is *subject to changes* for weather, sicknesses, travel, etc. The online version is always up to date.
 
+## 1. Welcome
 
-### Week 1 (Quarter 1)
+Thursday/Friday: Welcome to Ancient History! Who are you and who am I? What is this class about and why will it be so awesome? Also, what exactly is history? 
 
-Thursday/Friday: Welcome to Ancient History! Who are you and who am I? What is this class about and why will it be so awesome? Also, what exactly is history?
+## 1. The Hellenistic Kingdoms
 
+The world Alexander created was the Hellenistic world. His four main commanders inherited a Macedonian empire that transmitted the culture of the Greeks, a "Hellenized" empire, to the world. 
 
-### Week 2 Hume Lake
+## 2. The Hellenistic World: Society, Culture, and Religion
 
-No homework. 
+The Hellenistic world was focused on philosophy, mathematics, science, art, theater, and polytheistic religion. It was militarily powerful but also intellectual and beautiful. 
 
-### Week 3 Hellenistic World I, Macedonia 
+## 3. Hellenism and the Jewish Resistance
 
-Today, we think about the world in which Christ was born. 
+Judah "The Hammer" Maccabees, with his father and brother, fought back Antiochius, the wicked King and political descendant of Alexander. Judah temporarily recaptured the holy places and re-instituted worship in the temple. He showed that a small force could, by God's grace, conquer a great empire. 
 
-Devotional: Psalm 2. 
+## 4. The Emergence of Rome (the Republic) 
 
-In class: Read "The Four" Chapter One Section one. And Read Spielvogel Chapter 4, section 2: the World of the Hellenistic Kingdoms. 
-
-Homework: Read Spielvogel chapter 4, Section 1, pp. 89-96. Think through the "Thought questions" p. 33. and be prepared with a question and comment to address to your peers on the discussion day. 
-
-Homework: Essay (150 words): After our class discussion, how would you define what  history is and the purpose of studying it? 
-
+- Roman Republic lectures
+- Video, Jesus "The New Way" (chs 3-4)
 
 
-### Week 4 Hellenestic world II
-
-### Week 5 Gospels
-
-### Week 6 Hellenization
-
-### Week 7 Judaism
-
-### Week 8 Maccabees
-
-### Week 9 Maccabees
+## 5. The Roman Conquest and Culture (Quarter 2)
 
 
+## 6. The Decline and Fall of the Republic
 
-### Week 10 (Quarter 2) The Roman Republic, Matthew, Mark
+## 7. Ovid and the Age Augustus (63 BC -14 AD) 
 
-Roman Republic lectures
-Video, Jesus "The New Way" (chs 3-4)
+- Roman Empire lecture
+- Ovid Lecture
 
-### Week 11
 
-### Week 12
+## 8. The Story of Jesus
 
-### Week 13
+## 9. The Gospels, Mark and Matthew  (Quarter 3)
 
-### Week 14
+## 10. The Gospels, Luke and Acts 
 
-### Week 15
+## 11. The Early Church 
 
-### Week 16
+## 12. The Gospel of John 
 
-### Week 17
+## 13. Crises of the Third Century, and Diocletian (Quarter 4) 
 
-### Week 18
+## 14. Christendom: The Transformation of the Roman World
 
------ 
+## 15. The Late Roman Empire and Germanic Kingdoms
 
-### Week 19 (Quarter 3) The Roman Empire, Luke, Acts
-
-Roman Empire lecture
-
-### Week 20
-
-Ovid Lecture
-
-### Week 21
-
-### Week 22
-
-### Week 23
-
-### Week 24
-
-### Week 25
-
-### Week 26
-
-### Week 27
-
-### Week 28 (Quarter 4) Late Antiquity, Early Medieval World, John
-
-### Week 29
-
-### Week 30
-
-### Week 31
-
-### Week 32
-
-### Week 33
-
-### Week 34
-
-### Week 35
-
-### Week 36
+## 16. The Byzantine Empire & the Rise of Islam

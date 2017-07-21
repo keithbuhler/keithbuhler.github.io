@@ -7,7 +7,6 @@ title: August Caesar
 
 Read more at: http://www.ducksters.com/citation.php?title=Biography%20for%20Kids:%20Augustus&location=http://www.ducksters.com/history/ancient_rome/augustus.php
 
-
 ## Biography: 
 
 ## Childhood 
