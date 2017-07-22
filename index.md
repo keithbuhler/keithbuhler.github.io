@@ -9,7 +9,8 @@ related:
 
 <br>
 
-<img src="http://www.keithbuhler.com/images/keith_face.jpg" align="left">
+<img src="http://www.keithbuhler.com/images/keith_face.jpg" align="left" hspace="20" border="1px">
+
 
 I'm Dr. Keith Buhler, a philosopher and classical educator based out of Los Angeles. 
 
