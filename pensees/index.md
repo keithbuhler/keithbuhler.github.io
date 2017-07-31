@@ -15,7 +15,7 @@ header:
 
 
 
-<button onclick="newQuote()">New Quote</button>
+<button onclick="newQuote()">New Reflection</button>
 
 
 <script type="text/javascript" src="javascript.js"></script>

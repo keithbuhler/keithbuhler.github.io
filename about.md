@@ -26,11 +26,11 @@ header:
 
 Hi, I'm Keith Buhler, a philosopher, classical teacher, and writer from Los Angeles. Thanks for visiting.  
 
-As of fall 2017, I've taken a position teaching History, Writing, and Greek at a classical Christian school in LA. 
+I'm currently teaching History, Writing, and Greek at a classical Christian school in LA. Before that, I recently finished a semester long postdoc at the University of Kentucky, and three years as philosophy instructor at Asbury University. 
 
-I've been teaching philosophy and liberal arts since 2001, including two years as Master Tutor at Torrey Academy (La Mirada, CA), a semester long postdoc at the University of Kentucky, and three years as philosophy instructor at Asbury University. As an educator, I use humor, inspiring lectures, and hard questions to create a learning atmosphere that motivates and invigorates students of all ages to reflect on Great Books, film, music, and their own lives.
+As an educator, I use humor and Socratic dialog to create a friendly and challenging learning atmosphere. Then inspiring lectures, high expectations, and hard questions motivate and invigorate students to reflect on Great Books, film, music, and their own lives.
 
-I also have several years of leadership and administrative experience in classical schools, serving as High School Director at Veritas Christian Academy (Lexington, KY) and Assistant Director at Wheatstone Academy (La Habra, CA). We build [programs that are truly classical](http://www.keithbuhler.com//classical-education/): fully engaged in primary sources, digging into the big ideas that have occupied the western imagination, and in zealous pursuit of virtue and wisdom. 
+My experience with classical education began at the Torrey Honors Institute at Biola University. I began teaching in 2001, leading Socratic discussions about fairy tales with 4th grade GATE students in Long Beach, CA. Since then, I've served two years as Master Tutor at Torrey Academy (La Mirada, CA), Assistant Director at Wheatstone Academy (La Habra, CA), and High School Director at Veritas Christian Academy (Lexington, KY). We build [programs that are truly classical](http://www.keithbuhler.com//classical-education/): fully engaged in primary sources, digging into the big ideas that have occupied the western imagination, and in zealous pursuit of virtue and wisdom. 
 
 In 2017, I completed my [Ph.D.](/phd) in Philosophy under [David Bradshaw](https://uky.academia.edu/DBradshaw). I also hold an M.A. in Orthodox Theology from the University of Balamand and a B.A. in Humanities from Biola University.  
 
