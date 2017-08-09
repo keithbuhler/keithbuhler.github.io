@@ -43,9 +43,9 @@ Humanities is a discipline based upon the manipulation of abstract ideas, causes
 ### Learning Goals:
 
 * To become familiar with the main contours of western history, such as Hellenistic Kingdoms, the Roman Republic, the Roman Empire
-* To understand the Gospels and the New Testament in historical context
+* To understand the Gospels and the New Testament, both in historical context and as living documents relevant for us today
 * To identify likely causes of major historical events such as the founding of the Church, the fall of Rome, the conversion of Constantine
-* To understand, test, and defend the Christian worldview applied to Greece, Israel, Rome, and the early Church.
+* To understand, test, and defend the Christian worldview applied to Greece, Israel, Rome, the Gospels, and the early Church.
 * To become more virtuous and wise by pursuing truth and goodness 
 
 ### Scope, Sequence:
@@ -131,7 +131,7 @@ Tests and exams will assess how well you have mastered the core material of the 
 
 ### Quality Work Guidelines:
 
-Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
+Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, electronic assignments are to be turned in online and paper assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
 
 Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
 
