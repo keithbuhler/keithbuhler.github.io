@@ -4,7 +4,7 @@ permalink: /history/
 title: 
 ---
 
-#### [Fall 2017 Syllabus PDF](/syllabi/history-bible-syllabus-trinity.pdf)   
+#### [Fall 2017 Syllabus PDF](/content/syllabi/history-bible-syllabus-trinity.pdf)   
 
 <center>
 
