@@ -4,7 +4,7 @@ permalink: /rhetoric/
 title: 
 ---
 
-#### [Fall 2017 Syllabus PDF](/syllabi/pre-rhetoric-syllabus-trinity.pdf)   
+#### [Fall 2017 Syllabus PDF](/content/syllabi/pre-rhetoric-syllabus-trinity.pdf)   
 
 <center>
 

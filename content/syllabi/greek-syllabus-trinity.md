@@ -4,7 +4,7 @@ permalink: /greek/
 title: 
 ---
 
-#### [Fall 2017 Syllabus PDF](/syllabi/greek-syllabus-trinity.pdf)   
+#### [Fall 2017 Syllabus PDF](/content/syllabi/greek-syllabus-trinity.pdf)   
 
 <center>
 
