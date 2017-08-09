@@ -21,7 +21,8 @@ kbuhler@trinityclassicalacademy.com
 </center>
 
 ### Required Books: 
-- Athanaze
+
+- Athanaze (2nd Edition): Book I, Balme and Lawall
 
 ### Handouts (provided)
 - Plato
@@ -59,9 +60,7 @@ Language-learning is a discipline built on rote memorization and immersion into 
 
 ### Scope, Sequence, and Grades:
 
-This course is divided into four blocks, consisting of sixteen units of about two weeks each. Student work in each block consists of reading, discussion, and assessments. 
-
-
+This course is divided into sixteen units of about two weeks each. Student work in each block consists of memorization, reading, quizzes, and eventually translation and composition. 
 
 
 
@@ -75,10 +74,9 @@ You will be graded primarily on reading, participation, and tests, plus applicab
 | Quizzes                               | 25%         |
 | Homework                              | 25%         |
 | Exams                                 | 25%         |
-| Extra Credit                          | 3% max      |
 
 
-The best way to earn an 'A' is to memorize vocabulary and grammar forms, participate, and study well for the tests. 
+The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned., participate, and study well for the tests. 
 
 
 
@@ -97,8 +95,8 @@ Week 5 (9/18-22)
 Week 6 (9/25-29)
 Week 7 (10/2-6)
 Week 8 (10/10-13)
-
 Week 9 (10/16-20)
+
 Week 10 (10/23-27) (quarter 2 begins)
 Week 11 (10/30-11/3)
 Week 12 (11/13-14)
@@ -111,6 +109,7 @@ Week 18 (12/25-29) Christmas
 Week 19 (1/3-5) 
 Week 20 (1/8-12)
 Week 21 (1/16-18)
+
 Week 22 (1/22-26) (quarter 3 begins)
 Week 23 (1/29-2/2)
 Week 24 (2/5-9)
@@ -121,6 +120,7 @@ Week 28 (3/5-9)
 Week 29 (3/12-16)
 Week 30 (3/19-23)
 Week 31 (3/26-29)
+
 Week 32 (4/2-6) Easter 
 Week 33 (4/10-13)
 Week 34 (4/16-20)
