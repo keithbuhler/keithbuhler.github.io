@@ -1,5 +1,5 @@
 ---
-title: Guest post 2-- "Can CEO Pay Be Unjustifiably High?" by Stephanie Obieroma
+title: Guest post 2 -- "Can CEO Pay Be Unjustifiably High?" by Stephanie Obieroma
 layout: single
 share: true
 header:
