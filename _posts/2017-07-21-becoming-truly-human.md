@@ -14,9 +14,11 @@ permalink:
 
 ![header](http://wp.production.patheos.com/blogs/filmchat/files/2017/07/becomingtrulyhuman-1024x314.png)
 
+*Disclosure: I worked as a production assistant on this film.*
+
 Check out [this new documentary by Nathan Jacobs, titled *Becoming Truly Human*.](http://www.patheos.com/blogs/filmchat/2017/07/exclusive-watch-trailer-becoming-truly-human-documentary-religiously-unaffiliated.html) It will hit your interest on multiple levels -- if you are religious, or not religious, or formerly religious, or simply curious about trends in American life. 
 
-I've seen the film and it is beautifully moving in ways that reveal more about the heights, and depths, of being human.
+I've screened film before its release and can attest that it is beautifully moving in ways that reveal more about the heights, and depths, of being human.
 
 Watch the trailer on [Patheos.](http://www.patheos.com/blogs/filmchat/2017/07/exclusive-watch-trailer-becoming-truly-human-documentary-religiously-unaffiliated.html)
 
