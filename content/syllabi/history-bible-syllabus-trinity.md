@@ -2,13 +2,14 @@
 layout: page
 permalink: /history/
 title: 
+image: 
+      header: http://researchrome.com/wp-content/uploads/2014/11/rome-960x368.jpg
 ---
 
 #### [Fall 2017 Syllabus PDF](/content/syllabi/history-bible-syllabus-trinity.pdf)   
 
 <center>
 
-\begin{center}
 
 Ancient History Syllabus
 
@@ -18,7 +19,6 @@ Dr. Buhler
 
 kbuhler@trinityclassicalacademy.com   
 
-\end{center}
 
 </center>
 
