@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /history/
 title: 
 image: 
@@ -80,7 +80,7 @@ You will be graded primarily on reading, participation, and tests.
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
 | Participation                         | 25%         |  
-| Readings/Notes                        | 25%         |
+| Homework/Readings/Notes               | 25%         |
 | Quizzes                               | 25%         |
 | Exams/Projects                        | 25%         |
 
@@ -120,12 +120,12 @@ Read for understanding, not just completion.  Read each book or chapter slowly a
 
 ### Quizzes
 
-Short reading quizzes will assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. Always be prepared for a quiz!
+Short reading quizzes will assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. So always be prepared for a quiz!
 
 
 ### Tests/Exams
 
-Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Greece, Rome, Persia, Israel, and the Early Church. 
+Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Macedon, Greece, Rome, Israel, and the Early Church. 
  
 
 
@@ -135,3 +135,22 @@ Only quality work from students will be accepted.  Quality work is clean, clear,
 
 Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
 
+### Course Outline
+
+A detailed course outline will be available online. \newline
+
+-----
+
+### Parent / Student Signature (please return this page only)
+
+>  *I have read and understand the above rules and responsibilities. By signing this document, I agree to abide by the expectations above and to make a positive contribution to this class.*
+
+___________________________    
+Student Signature   
+
+
+____________________________   
+Parent Signature   
+
+____________________________   
+Date  

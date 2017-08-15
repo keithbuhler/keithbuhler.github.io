@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rhetoric/
+permalink: /writing/
 title: 
 image: 
       header: 
@@ -10,15 +10,12 @@ image:
 
 <center>
 
-\begin{center}
-
-Pre-Rhetoric Writing
+Pre-Rhetoric Writing and Grammar
 
 Dr. Buhler 
 
 kbuhler@trinityclassicalacademy.com   
 
-\end{center}
 
 </center>
 

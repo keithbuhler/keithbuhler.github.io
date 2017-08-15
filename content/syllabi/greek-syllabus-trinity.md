@@ -81,52 +81,69 @@ The best way to earn an 'A' is to spend time every day memorizing new vocabulary
 
 
 
-##  Outline:
 
-The outline tells you the reading due each day, the topic. The outline is *subject to changes* for weather, sicknesses, travel, etc. The online version is always up to date.
+### Attendance & Participation Rubric
+
+One of the primary goals of this class is to improve in the live reading, understanding, and translating of Greek into good English (and English into Greek). Hence we will *speak* Greek and *read* Greek almost every class. 
+
+To earn participation points, you will *voluntarily* share your thoughts in discussion *at least once per week* and respond when called upon. _You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
+
+Everyone starts at an 80% (B-) for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+
+Daily participation will be scored on a scale of 1-5, according to the following criteria:
+
+Daily participation will be scored on a scale of 1-10, according to the following criteria:
+
+### 5: 
+Students always take a voluntary and active role in their own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
+
+ 
+### 4: 
+Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
+
+### 3: 
+Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
+
+### 2: 
+Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
+
+### 1-0:
+Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 
-Week 1 (8/24-25) (quarter 1 begins)
-Week 2 (8/28-31)
-Week 3 (9/5-8)
-Week 4 (9/11-15)
+### Quizzes
 
-Week 5 (9/18-22)
-Week 6 (9/25-29)
-Week 7 (10/2-6)
-Week 8 (10/10-13)
-Week 9 (10/16-20)
+Short reading quizzes will assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. So always be prepared for a quiz!
 
-Week 10 (10/23-27) (quarter 2 begins)
-Week 11 (10/30-11/3)
-Week 12 (11/13-14)
-Week 13 (11/20-24) Thanksgiving
-Week 14 (11/27-12/1)
-Week 15 (12/4-8)
-Week 16 (12/11-15)
-Week 17 (12/18-22) Christmas
-Week 18 (12/25-29) Christmas
-Week 19 (1/3-5) 
-Week 20 (1/8-12)
-Week 21 (1/16-18)
 
-Week 22 (1/22-26) (quarter 3 begins)
-Week 23 (1/29-2/2)
-Week 24 (2/5-9)
-Week 25 (2/12-16)
-Week 26 (2/20-23)
-Week 27 (2/27-3/3)
-Week 28 (3/5-9) 
-Week 29 (3/12-16)
-Week 30 (3/19-23)
-Week 31 (3/26-29)
+### Tests/Exams
 
-Week 32 (4/2-6) Easter 
-Week 33 (4/10-13)
-Week 34 (4/16-20)
-Week 35 (4/23-26)
-Week 36 (4/30-5/4)
-Week 37 (5/7-11)
-Week 38 (5/14-18)
-Week 39 (5/21-25)
-Week 40 (5/29-31)
+Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Macedon, Greece, Rome, Israel, and the Early Church. 
+ 
+
+
+### Quality Work Guidelines:
+
+Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, electronic assignments are to be turned in online and paper assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
+
+Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
+
+### Course Outline
+
+A detailed course outline will be available online. \newpage
+
+-----
+
+### Parent / Student Signature (please return this page only)
+
+> I have read and understand the above rules and responsibilities. By signing this document, I agree to abide by the expectations above and to make a positive contribution to this class.
+
+___________________________    
+Student Signature   
+
+
+____________________________   
+Parent Signature   
+
+____________________________   
+Date  
