@@ -2,6 +2,8 @@
 layout: page
 permalink: /rhetoric/
 title: 
+image: 
+      header: 
 ---
 
 #### [Fall 2017 Syllabus PDF](/content/syllabi/pre-rhetoric-syllabus-trinity.pdf)   

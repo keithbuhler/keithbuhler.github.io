@@ -3,7 +3,7 @@ layout: page
 permalink: /history/
 title: 
 image: 
-      header: http://researchrome.com/wp-content/uploads/2014/11/rome-960x368.jpg
+      header: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Rome/rome-overview-bridge-and-river-small.jpg
 ---
 
 #### [Fall 2017 Syllabus PDF](/content/syllabi/history-bible-syllabus-trinity.pdf)   
