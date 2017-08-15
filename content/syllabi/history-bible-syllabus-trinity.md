@@ -11,13 +11,13 @@ image:
 <center>
 
 
-Ancient History Syllabus
+<p> Ancient History Syllabus</p>
 
-2017-2018
+<p> 2017-2018</p>
 
-Dr. Buhler 
+<p> Dr. Buhler </p>
 
-kbuhler@trinityclassicalacademy.com   
+<p> kbuhler@trinityclassicalacademy.com   </p>
 
 
 </center>
