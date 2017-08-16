@@ -88,7 +88,7 @@ You will be graded primarily on reading, participation, and tests.
  
 
 
-### Attendance & Participation Rubric
+### Participation Rubric:
 
 One of the primary goals of this class is to improve in the skill of intellectual dialog in a group. Such discussion is necessary because (1) You must take responsibility for your own learning, (2) discussion helps us to get to know each other, and (3) most people learn and retain material better in discussion. 
 
@@ -96,22 +96,23 @@ To earn participation points, you will *voluntarily* share your thoughts in disc
 
 Everyone starts at an 80% (B-) for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
-Daily participation will be scored on a scale of 1-10, according to the following criteria:
+Daily participation will be scored on a scale of 1-5, according to the following criteria:
 
-### 9-10: 
+
+### 5: 
 Students always take a voluntary and active role in their own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
 
  
-### 8: 
+### 4: 
 Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
 
-### 7: 
+### 3: 
 Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
 
-### 6: 
+### 2: 
 Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
 
-### 0-5:
+### 1-0:
 Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 

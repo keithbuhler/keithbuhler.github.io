@@ -82,7 +82,7 @@ The best way to earn an 'A' is to spend time every day memorizing new vocabulary
 
 
 
-### Attendance & Participation Rubric
+### Participation:
 
 One of the primary goals of this class is to improve in the live reading, understanding, and translating of Greek into good English (and English into Greek). Hence we will *speak* Greek and *read* Greek almost every class. 
 
@@ -92,7 +92,6 @@ Everyone starts at an 80% (B-) for the participation grade. Outstanding particip
 
 Daily participation will be scored on a scale of 1-5, according to the following criteria:
 
-Daily participation will be scored on a scale of 1-10, according to the following criteria:
 
 ### 5: 
 Students always take a voluntary and active role in their own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
