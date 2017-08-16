@@ -2,11 +2,11 @@
 layout: page
 permalink: /greek/
 title: 
-image: 
-      header: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Rome/rome-overview-bridge-and-river-small.jpg
+header: 
+      image: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Rome/rome-overview-bridge-and-river-small.jpg
 ---
 
-#### [Fall 2017 Syllabus PDF](/content/syllabi/greek-syllabus-trinity.pdf)   
+#### [PDF version of 2017-2018 Syllabus](/content/syllabi/greek-syllabus-trinity.pdf)   
 
 <center>
 
@@ -112,12 +112,14 @@ Students are absent, unprepared, disrespectful, inattentive, or otherwise posing
 
 ### Quizzes
 
-Short reading quizzes will assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. So always be prepared for a quiz!
+Short vocab and grammar quizzes will be given *frequently*. These quizzes assess how consistent and diligent you are being in memorizing new material. These are "easy points" if you are diligent. Some days may not have quizzes, and some quizzes will be a surprise (pop quiz, not announced). So always be prepared for a quiz!
 
 
 ### Tests/Exams
 
-Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Macedon, Greece, Rome, Israel, and the Early Church. 
+Tests and exams will assess how well you have mastered the core material of the class. In addition to periodic unit tests, students will take a fall final, and a spring final.
+
+Also, students will take the NGE (National Greek Exam) in the spring, which will compare student knowledge against national 
  
 
 

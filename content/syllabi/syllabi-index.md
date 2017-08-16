@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Syllabi
 sidebar:
     nav: 
@@ -12,9 +12,9 @@ feature_row:
 
 ### Current Courses
 
-- [History-Bible (9th grade)](/history)
-- [Pre-Rhetoric Writing (9th grade)](/rhetoric)
-- [Greek (12th grade elective)](/greek)
+- [9th Grade History-Bible (9th grade)](/history)
+- [9th Grade Pre-Rhetoric Writing (9th grade)](/rhetoric)
+- [Ancient Greek (12th grade elective)](/greek)
 
 
 
