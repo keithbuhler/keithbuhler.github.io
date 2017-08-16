@@ -3,7 +3,7 @@ layout: page
 permalink: /writing/
 title: 
 image: 
-      header: 
+      header: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Rome/rome-overview-bridge-and-river-small.jpg
 ---
 
 #### [Fall 2017 Syllabus PDF](/content/syllabi/pre-rhetoric-syllabus-trinity.pdf)   

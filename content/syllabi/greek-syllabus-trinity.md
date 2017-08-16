@@ -2,21 +2,20 @@
 layout: page
 permalink: /greek/
 title: 
+image: 
+      header: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Rome/rome-overview-bridge-and-river-small.jpg
 ---
 
 #### [Fall 2017 Syllabus PDF](/content/syllabi/greek-syllabus-trinity.pdf)   
 
 <center>
 
-\begin{center}
 
-Ancient Greek
+<p> Ancient Greek</p>
 
-Dr. Buhler 
+<p> Dr. Buhler </p>
 
-kbuhler@trinityclassicalacademy.com   
-
-\end{center}
+<p> kbuhler@trinityclassicalacademy.com   </p>
 
 </center>
 
@@ -24,10 +23,11 @@ kbuhler@trinityclassicalacademy.com
 
 - Athanaze (2nd Edition): Book I, Balme and Lawall
 
-### Handouts (provided)
+### Provided Handouts
 - Plato
 - Tricky words and phrases
 - Declensions
+- And more!
 
 
 
