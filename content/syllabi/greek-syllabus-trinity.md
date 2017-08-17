@@ -3,7 +3,7 @@ layout: page
 permalink: /greek/
 title: 
 header: 
-      image: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Rome/rome-overview-bridge-and-river-small.jpg
+      image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
 ---
 
 #### [PDF version of 2017-2018 Syllabus](/content/syllabi/greek-syllabus-trinity.pdf)   
@@ -120,7 +120,6 @@ Short vocab and grammar quizzes will be given *frequently*. These quizzes assess
 Tests and exams will assess how well you have mastered the core material of the class. In addition to periodic unit tests, students will take a fall final, and a spring final.
 
 Also, students will take the NGE (National Greek Exam) in the spring, which will compare student knowledge against national 
- 
 
 
 ### Quality Work Guidelines:

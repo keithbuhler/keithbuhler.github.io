@@ -7,7 +7,7 @@ comments: true
 author_profile: false
 share: true
 header:
-      image: 
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://s3-eu-west-1.amazonaws.com/spiked-online.com/images/students_sad.jpg
 excerpt_separator: <!--more-->
 
