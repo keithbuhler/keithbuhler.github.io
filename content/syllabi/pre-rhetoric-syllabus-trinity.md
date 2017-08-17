@@ -6,197 +6,85 @@ header:
       image: https://www.italyguides.it/images/lazio/roma/head_home_2.en-GB.jpg
 ---
 
-#### [PDF version of 2017-2018 Syllabus](/content/syllabi/pre-rhetoric-syllabus-trinity.pdf)   
 
 <center>
 
-Pre-Rhetoric Writing and Grammar
+<p> 9th Grade Writing </p>
 
-Dr. Buhler 
+<p> Dr. Keith Buhler </p>
 
-kbuhler@trinityclassicalacademy.com   
+<p> kbuhler@trinityclassicalacademy.com   </p>
 
 
 </center>
 
-### Required Books: 
-
-### Handouts (provided)
+#### [(PDF version of 2017-2018 Syllabus)](/content/syllabi/pre-rhetoric-syllabus-trinity.pdf)   
 
 
+### Course Description and Objectives:
 
-### Course Description:
-This course is intended cultivate careful reading and keen understanding of history and the Holy Scriptures.  By developing in one course the skill of reading and understanding, and by studying both history and Sacred Scripture, students can expect to gain a better appreciation for the ongoing dialog between man and God throughout history.
+This course will continue practicing Trinity's unique Progymnasmata curriculum. Based off the Roman rhetorician Apthonius' pedagogy, the Progymnasmata stood for centuries as the most dominant and wildly successful means of developing the skills of writing. The Progymnasmata is designed to minimize the common frustrations students experience in today's writing classes by providing the structure to enable clear, effective, and creative writing. Students will refine/review older stages of the Progymnasmata and develop new skill sets in the Encomium and Invective stages, receiving further structure to describe, persuade, and communicate ideas with clarity, order, and creativity. Further, the daily practice of writing, both in and out of class, will also encourage the development and expansion of the student's vocabulary, grammar, and powers of description.
 
+This course will also continue students' formal study of grammar at Trinity. Essential concepts such as the parts of speech, sentence structure, and grammatical agreement will be explored in depth.
 
+Students will have opportunities to demonstrate their learning through class discussions, quizzes, grammar assignments and assessments as well as through the completion of major writing projects relevant to each stage of the Progymnasmata curriculum.
 
+### Assigned Texts:
 
-### Learning Goals:
+         Progymnasmata: Encomium and Invective  
 
+         Grammar: *A Beka III*  
 
-* To become more virtuous and wise human beings in the pursuit of goodness, truth, and beauty.
+### Course Calendar:
 
-### Scope, Sequence, and Grades:
+         Semester 1: Review -- Fable, Narrative, Chreia, Refutation, and Confirmation
 
-This course is divided into four Blocks of about 8 weeks each and each block is divided into 4 Units of about 2 weeks. The 16 resulting units cover the following topics: 
+         Semester 2: Common Topic, Encomium, and Invective
 
-Student work in each unit consists of reading, discussion, and assessments. Therefore, the best way to earn an 'A' is to read carefully, participate, and write. 
+### Course Grading:
 
-You will be graded primarily on reading, participation, and tests, plus applicable extra credit.
-
-|  Assessment category                  |  %          |
-| --------------------------------------|-------------|
-| Participation                         | 25%         |  
-| Readings/Notes                        | 25%         |
-| Quizzes                               | 25%         |
-| Exams/Projects                        | 25%         |
-| Extra Credit                          | 3% max      |
-
-
- 
+- Major Essays and Unit Tests: 30%                                
+- Writing Exercises and Assignments: 30%
+- Quizzes and Homework: 20%
+- Class Participation: 20%
 
 
-### Reading tips
+### Participation Rubric:
 
-Read ahead. There is a lot of reading but read carefully and slowly as need be; you will get faster, but start slow and careful. Try to read _and understand_ the book or essay. Ask yourself: What is the main thesis? Is it true? Take notes. Talk with each other before class. Ask yourselves and each other: What is the main point? What confused me? Come to class with objections, questions, and arguments. More are tips [available online.](http://www.keithbuhler.com/philosophy-class)
+Daily, students will be assessed on their participation in class. Though outstanding participation may appear in a variety of ways, it is always marked by preparation, diligence, attentiveness, articulateness, insight, and respect. Daily participation will be scored on a scale of 1-10, according to the following criteria:
 
-### Quizzes
+9-10: Students always take a voluntary, thoughtful, and active role in their own learning, challenging themselves on a daily basis. Through participation and inquiry, they consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates. They initiate discussions, ask significant questions, and act as leaders within the group. They are willing to take risks, to assert an opinion and support it, and to listen actively to others. These students are always well prepared to contribute to the class as a result of having thoughtfully completed assignments, and the thoroughness of their work demonstrates the high regard they hold for learning. In class, they demonstrate a superior work ethic and focus on the tasks at hand.
 
-Short reading quizzes assess that you read the day’s text. These are easy points, so be diligent in doing every quiz.
+8: Students consistently take an active role in their own learning.  They participate regularly in class discussions and frequently volunteer their ideas, ask thoughtful questions, and defend opinions. They listen respectfully to their classmates and are willing to share ideas as a result of having completed assignments. Though never causing disruption to the class, these students do not always demonstrate a consistent commitment to make the most out of our class time each and every day. In class, they demonstrate a satisfactory work ethic and focus.
 
-### Attendance & Participation Rubric
+7: Students sometimes take an active role in their own learning, sharing relevant ideas and asking appropriate questions. They contribute modestly to class discussions. These students listen to their classmates and respect their opinions. As a result of having completed assignments, these students are prepared to ask or answer questions when called upon. They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course. In class, the work ethic and focus demonstrated generally needs improvement.
 
-Daily, students will be assessed on their participation in class.  Though outstanding participation may appear in a variety of ways, it is always marked by preparation, diligence, attentiveness, articulateness, insight, and respect.  Daily participation will be scored on a scale of 1-10, according to the following criteria:
+6: Students rarely take an active role in their own learning. They often do not participate and rarely share ideas or ask questions. These students display poor listening skills, and they may be intolerant of the opinions of others. As a result of being unprepared for or disengaged from class, these students are unable to offer ideas, even when called upon. In class, their work ethic and focus is lacking.
 
-9-10:
-Students always take a voluntary and active role in his or her own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute to the class as a result of having thoughtfully completed assignments, and the thoroughness of their work demonstrates the high regard they hold for learning.  In class, they demonstrate a superior work ethic and focus on the tasks at hand.
+0-5: Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
- 
-8: 
-Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
+### Quality Work Guidelines: 
 
-7: 
-Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
+Only quality work from students will be accepted. Quality work is original, clean, clear, and properly titled, formatted, and stapled according to the assignment's specifications. Work that does not meet these expectations will not be graded. Plagiarism in any form is unacceptable and any student who plagiarizes will be given at a minimum a zero on the assignment, detention, and a dock in participation.
 
-6: 
-Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
+Late work will not be accepted. Students who miss a class are required to obtain the necessary notes and homework from a fellow student and must have it completed by the next class period if they have not gotten an extension beforehand. Students who miss an assessment because of an absence, must make up the assessment the next school day they are present, either during a break (brunch or lunch) or study hall. Students who fail to make arrangements for missed assessments will not receive credit. Extensions can only be granted in advance and in case of emergencies or illness that prevents students from completing their work.
 
-0-5:
-Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
+Assignments will only be considered on time if they are completed and turned in at the start of the class period. Students who are caught completing work in class will receive a zero on that assignment as well as detention and a dock in participation points.
+
+### Contact: 
+
+If any concerns arise throughout the year, please contact Dr. Buhler directly. Students may also make appointments to meet during brunch or lunch. Emails will be answered as soon as possible, though email will only be checked and answered during school hours.  
 
 
----
 
-The primary competency of this class is dialog. Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. We dialog so much because: (1) You must take responsibility for your own learning. (2) We can actually get to know each other. (3) Most people learn (and retain) best in discussion. 
+**Email: kbuhler@trinityclassicalacademy.com** \newpage
 
-To earn participation points, you will voluntarily share your thoughts in discussion at least once per week, and/or respond when called upon. If you do not talk in class, you must post reflections online every week. By default, everyone is an “external processor”. _“Internal processors”_: Some may wish to opt out of speaking in class and emphasize writing. To earn participation points, you will post class reflections online every week. You may elect to speak in class as well, and may be called upon.
 
-_You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
+*Please detach and sign this page only. Return it to class the next class period. Retain the pages above for your reference.*
 
-Everyone starts at an 80% (B-) for the participation grade. You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+
+Signature of Parent_________________________   
+                 
 
  
-### Extra Credit
-
-Those who opt for extra credit may do so. You may do extra reading, extra writing, extra class preparation, for up to 3% of the semester grade. The normal amount of extra credit awarded is 1-2%. The only way to earn all 3% is to do multiple types of extra credit and do them well. Full instructions are posted online.
-
-### Miscellany:
-
-1. **Bring your textbook** to every class. Reference it in the discussion. Be specific. 
-2. **Participate.** Participation is your responsibility; I may or may not call on you. Challenge yourself!
-3. **Stay focused.** Do not distract yourself with side conversations, texting, Facebook, or doing anything else in class. Take a short mental break or bathroom break if you need to, but come back.
-6. **Be respectful of others**: Pay attention when a neighbor is talking. No teasing. Don’t pack up too early – 1 minute before the end of class is fine.
-7. **Contact me.** The best method is to chat is a Canvas message; I read every message but may not respond to every email. If you need a response but I haven’t responded within three (3) days, send a message again with the subject “nudge”. 
-9. **Email**. You are expected to have an active account that you check regularly, and to check “news” or “announcements” section on Canvas (or Discovery, etc.). Section related announcements will be made on this platform and/or via e-mail (e.g. if I am sick, pointers for home work, change in due dates).
-11. **Plagiarism**. Do not plagiarize. If I detect plagiarism, I will contact you. The assignment will receive a zero, and disciplinary action may follow. It may jeopardize your standing in the class. If you forget to quote a source, that’s still plagiarism. Also, if you intentionally take anyone else’s work or offer your work to anyone else (under whatever auspices). You’ll submit your papers to SafeAssign to help avoid accidental plagiarism. Don’t even think about stealing someone else’s thought/work. [For more information, refer to academic integrity documents like this one](https://www.uky.edu/Ombud/What_Is_Plagiarism.pdf).
-12. **Enjoy yourself.** We are not merely solving abstract puzzles here, but digging deeply into human thinking in a way that could change your life forever. The more you and your fellows allow yourselves to acquire a “taste” for the material, the more inclined you will be to give it the real effort required to master it.
-
-
-
-## Quality Work Guidelines:
-
-Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
-
-Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
-
-
-
-
-##  Outline:
-
-The outline tells you the reading due each day, the topic. The outline is *subject to changes* for weather, sicknesses, travel, etc. The online version is always up to date.
-
-
-### Week 1 (Quarter 1)
-
-### Week 2
-
-### Week 3
-
-### Week 4
-
-### Week 5
-
-### Week 6
-
-### Week 7
-
-### Week 8
-
-### Week 9 
-
-### Week 10 (Quarter 2)
-
-### Week 11
-
-### Week 12
-
-### Week 13
-
-### Week 14
-
-### Week 15
-
-### Week 16
-
-### Week 17
-
-### Week 18
-
------ 
-
-### Week 19 (Quarter 3)
-
-### Week 20
-
-### Week 21
-
-### Week 22
-
-### Week 23
-
-### Week 24
-
-### Week 25
-
-### Week 26
-
-### Week 27
-
-### Week 28 (Quarter 4)
-
-### Week 29
-
-### Week 30
-
-### Week 31
-
-### Week 32
-
-### Week 33
-
-### Week 34
-
-### Week 35
-
-### Week 36
+Signature of Student_________________________    

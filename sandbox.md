@@ -38,15 +38,15 @@ feature_row2:
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-writings.png
     alt: "Writings"
-    title: "Unpublished Writings"
-    excerpt: "Some writings on classical education, literary non-fiction, web content, and more"
+    title: "Writings"
+    excerpt: "Some published essays, literary non-fiction, web content, and more"
     url: "http://www.keithbuhler.com/writings"
     btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-speaking.png
     alt: "Speeches"
     title: "Speaking"
-    excerpt: "Invite Dr. Buhler to speak at your event!"
+    excerpt: "Book Dr. Buhler for a speaking engagement."
     url: "http://www.keithbuhler.com/speaking"
     btn_label: "More"
     btn_class: "btn--inverse"

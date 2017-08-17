@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-*"This month I am happy to announce that I will be publishing a series of guest posts from my former students. I asked these students if I could publish their essays because I think they represent excellent examples of philosophical reasoning on important or contemporary topics. Some I agree with and some I do not... but they all make me think. -- Keith*
+*This month I am happy to announce that I will be publishing a series of guest posts from my former students. I asked these students if I could publish their essays because I think they represent excellent examples of philosophical reasoning on important or contemporary topics. Some I agree with and some I do not... but they all make me think. -- Keith*
 
 
 ![Header](http://az616578.vo.msecnd.net/files/2016/06/01/6360035277177830871761195558_Sheryl-Sandberg-Facebook-COO.jpg)
