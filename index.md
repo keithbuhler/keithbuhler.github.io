@@ -61,7 +61,7 @@ You can also learn more [about me](/about/) and my [academic work in virtue ethi
 
 - 12.17.2016 -- [**Glowing Fish Analogy**](http://www.keithbuhler.com/buhlerreport/philosophy/2016/12/17/glowing-fish-analogy.html) -- *A: There are no such things as glowing fish. B: But I saw a glowing fish, so they must exist. A: You can’t have one seen one, because they don’t exist. B:...*
 
-- 12.29.2016 -- [**This Classic Text Explains why Classical Education is Best**](http://www.keithbuhler.com/buhlerreport/yalereport-post/) -- *If you haven’t read the Yale Repot, it is very good. The “Yale Report of 1828” is one of the “most influential documents in the history of American higher education” according to R.J. O’Hara. It is still a pleasure to read, and its influence should not wane.*
+- 12.29.2016 -- [**This Classic Text Explains why Classical Education is Best**](http://www.keithbuhler.com/buhlerreport/yalereport-post/) -- *If you haven’t read the Yale Report, it is very good. The “Yale Report of 1828” is one of the “most influential documents in the history of American higher education” according to R.J. O’Hara. It is still a pleasure to read, and its influence should not wane.*
 
 - 12.07.2016 -- [**Force Awakens Wasn’t Just a Copy of New Hope**](http://www.keithbuhler.com/buhlerreport/viicopyiv) -- *It’s been about a year since Star Wars: The Force Awakens came out. While we wait for Rogue One, it’s a good time to reflect. When Episode VII first came out...*
 
