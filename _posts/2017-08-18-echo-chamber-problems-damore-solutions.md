@@ -16,15 +16,13 @@ permalink:
 ![header](http://static5.businessinsider.com/image/598d897f0dafe8072d3879f6/james-damore-has-an-above-decent-chance-of-winning-his-legal-case-against-google.jpg)
 
 
-I am an Orthodox Christian and therefore, ipso facto, a "heterodox academic." 
+As an orthodox Christian, I am almost necessarily a "heterodox academic." 
 
-It's not just that I unironically believe in God and daily engage in religious practice  without debonaire agnosticism; the tension I experience within academia arises from my skepticism or outrage rejection of particular secular 'dogmas' -- or beliefs that function like dogmas. 
+It's not just that I un-ironically defend certain dogmas as literally true and accurate, nor that I worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
 
-For example, it flies in the face of academic orthodoxy to challenge socialism, naturalism, or climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to seriously considering alternate political, scientific, or philosophical views. 
+For example, it flies in the face of academic orthodoxy to challenge socialism, naturalism, or climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to  considering alternate political, scientific, or philosophical views with any seriousness.  They find doubting Marxist revelations or (allegedly) scientific revelations more outrageous than *not* doubting divine revelation.
 
-They find doubting Marxist revelations or allegedly scientific revelations more outrageous than *not* doubting divine revelation.
-
-Such heterodoxy inevitably creates a certain tension in academic contexts... Which can be trying (because one must work so hard to set up a discussion in such a way that one's interlocuters will argue instead of attack) and delightful (because the discussions, once they get going, are so rich). 
+My heterodoxy inevitably creates a certain tension in academic contexts, which can be trying (because one must work so hard to set up a discussion in such a way that one's interlocuters will argue instead of attack) as well as delightful (because the discussions, once they get going, are so rich). 
 
 
 
@@ -36,7 +34,6 @@ What are some other academic dogmas that are difficult, if not impossible, to fo
 
 Consider this beautiful list of heterodox views outlined by [heterodox academic Ben Foster in the Louisville Cardinal](http://www.louisvillecardinal.com/2017/07/letter-to-editor-intellectual-diversity-u-of-l/).  
 
-
 >- Capitalism and private property rights have spurred great innovations that improve lives of most people on earth
 >- The U.S. has been a force for good throughout the world, not the source of all misery in the world
 >- Injustices regarding slavery and forcible taking of land from others are not inherent, or unique, to the U.S. or the white race
@@ -46,9 +43,9 @@ Consider this beautiful list of heterodox views outlined by [heterodox academic 
 >- Taking guns from law-abiding citizens does not reduce crime, and
 >- Life on earth is not about to collapse due to man-made climate change
 
-Foster suggests that unless a substantive percentage of the professors in a given college hold one or more of these views, there no real intellectual diversity. 
+Foster suggests that unless a substantive percentage of the professors in a given college hold one or more of these views, there no real intellectual diversity.  And he is right. 
 
-And he proudly proclaims that such diversity does in fact exist at his school, concluding with this re-assurance to incoming students: 
+He proudly proclaims that real viewpoint diversity still exists at his own school, concluding with this re-assurance to incoming students: 
 
 >Not all U of L personnel automatically conclude that you are ignorant, greedy, racist, sexist, or xenophobic, etc. if you voted for Donald Trump or hold certain religious beliefs. 
 
@@ -59,23 +56,20 @@ If you find it amazing that Foster would even need to specify something as obvio
 
 ![heterodox](https://i.ytimg.com/vi/SduHuR3JbSQ/hqdefault.jpg)
 
-All this said, I am happy to report that I have been accepted as a member of [Heterodox Academy](https://heterodoxacademy.org/), started by Jonathan Haidt. 
+Since I have always been a de facto heterodox academic, I am happy to report that I have been formally accepted as a member of [Heterodox Academy](https://heterodoxacademy.org/), started by Jonathan Haidt. 
 
-What is HxA? The Heterodox Academy welcome page states that: 
+What is Heterodox Academy? Our mission, you might say, is to eliminate echo-chambers. 
 
->We are a politically diverse group of social scientists, natural scientists, humanists, and other scholars who want to improve our academic disciplines and universities.
 
->We share a concern about a growing problem: the loss or lack of “viewpoint diversity.” When nearly everyone in a field shares the same political orientation, certain ideas become orthodoxy, dissent is discouraged, and errors can go unchallenged.
-
+>We are a politically diverse group of social scientists, natural scientists, humanists, and other scholars who want to improve our academic disciplines and universities.  
+>We share a concern about a growing problem: the loss or lack of “viewpoint diversity.” When nearly everyone in a field shares the same political orientation, certain ideas become orthodoxy, dissent is discouraged, and errors can go unchallenged.  
 >To reverse this process, we have come together to advocate for a more intellectually diverse and heterodox academy.
-
-Heterodox Academy's mission, you might say, is to eliminate echo-chambers. 
 
 The importance of allowing 'heterodox' or intellectually diverse elements into a university is clear: a university is perhaps the one place on earth where *thinking* is of paramount importance and so the dangers of *groupthink* or other illogical habits are ruinous. 
 
 So I am proud to join the ranks of those who annoy the opponents of viewpoint diversity. 
 
-Originally, I had planned to write a brief post about Heterodox Academy. But then  Google #Memogate happened. 
+This was to be the end of my post... Originally, I had planned to write briefly about HxA. But then Google #Memogate happened. 
 
 ## Google Echo-Chambers
 
