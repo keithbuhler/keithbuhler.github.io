@@ -18,13 +18,14 @@ permalink:
 
 As an orthodox Christian, I am ipso facto an academic heretic.
 
-It's not just that I un-ironically defend certain religious dogmas as literally true and objectively accurate, nor that I worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
+It's not just that I un-ironically defend certain religious dogmas as literally true and objectively accurate, nor even that I pray to and worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
 
-For example, it flies in the face of academic orthodoxy to challenge socialism, naturalism, or climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to  considering alternate political, scientific, or philosophical views with any seriousness.  They find doubting Marxist revelations or (allegedly) scientific revelations more outrageous than *not* doubting divine revelation.
+For example, it flies in the face of academic orthodoxy even to remain open-minded or agnostic about socialism, philosophical naturalism, or climate change. Some of my otherwise open-minded philosopher friends are radically closed even *to considering* alternate political, scientific, or philosophical views with any seriousness.  They find doubting Marxist revelations or (allegedly) scientific revelations more outrageous than *not* doubting divine revelation.
 
-My heterodoxy inevitably creates a certain tension in academic contexts. This tension can be trying because one must work so hard to set up a discussion in such a way that one's interlocuters will argue instead of attack. But it's mostly delightful because the discussions, once they get going, are so rich. 
+My heterodoxy inevitably creates a certain tension in academic contexts. At the average gathering of philosophers, I have the privilege of contributing to viewpoint diversity by representing a minority report. 
 
-Plus, at the average gathering of philosophers, I have the privilege of contributing to viewpoint diversity by representing a minority report. 
+The tension can be trying because one must work so hard to set up a discussion in such a way that one's interlocutors will argue the point instead of attack the person. But it's mostly delightful because the discussions, once they get going, are so rich. 
+
 
 
 ## Academic Dogmas

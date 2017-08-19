@@ -23,9 +23,7 @@ Finally, you can learn more [about me](/about/) or explore a bunch of fun stuff 
 <br>
  
 
-<center>
-<h2> Most Recent Post  </h2>
-</center>
+<h2> Latest Post  </h2>
 
 <br>
 
