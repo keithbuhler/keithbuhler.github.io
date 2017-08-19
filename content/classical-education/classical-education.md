@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Classical Education
+layout: single
+title: What is Classical Education?
 permalink: /classical-education/
 header:
       image: https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/athens-jerusalem.jpg?itok=PUGDe6ab
@@ -11,9 +11,16 @@ header:
 
 ## Introduction
 
-I am a perpetual member of the Torrey Honors Institute at Biola University and a classical teacher with 15 years experience teaching and learning from great books. I was Master Tutor at the Torrey Academy in CA and Director of High School at Veritas Academy in KY before moving to a full-time position as Humanities Teacher at Trinity Classical. 
+
+I love to learn. But before college, I didn't know very well how to learn. 
+
+In college, I became a member of the Torrey Honors Institute at Biola University. After graduating, I continued learning by becoming a classical teacher. 
+
+Since then, I've acquired 15 years experience teaching and learning from great books. I was Master Tutor at the Torrey Academy in CA and Director of High School at Veritas Academy in KY before moving to a full-time position as Humanities Teacher at Trinity Classical. 
 
 My passion is not only teaching students, but helping schools to grow and form, and advocating to the public for classical education. 
+
+I hope these resources help you not only to be a better educator, but to fall in love with learning all over again. 
 
 <!--{% include toc %} when my TOC code is rehabilitated-->
 
