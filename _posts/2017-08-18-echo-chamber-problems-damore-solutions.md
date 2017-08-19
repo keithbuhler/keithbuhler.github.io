@@ -1,7 +1,6 @@
-
 ---
 title:  Echo-Chamber Problems, Damore Solutions
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
@@ -14,27 +13,29 @@ permalink:
 ---
 
 
-![header](https://lh3.googleusercontent.com/0-BzaWtxoAnsBjQ_wzUcKxyF07XE7v2Kkg1ogPVUdzmQpvaz118uHQEGU6BdtzJuzfo=h1264)
+![header](http://static5.businessinsider.com/image/598d897f0dafe8072d3879f6/james-damore-has-an-above-decent-chance-of-winning-his-legal-case-against-google.jpg)
 
 
 I am an Orthodox Christian and therefore, ipso facto, a "heterodox academic." 
 
 It's not just that I unironically believe in God and daily engage in religious practice  without debonaire agnosticism; the tension I experience within academia arises from my skepticism or outrage rejection of particular secular 'dogmas' -- or beliefs that function like dogmas. 
 
-Such heterodoxy inevitably creates a certain tension in academic contexts... Which can be trying as well as delightful.
+For example, it flies in the face of academic orthodoxy to challenge socialism, naturalism, or climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to seriously considering alternate political, scientific, or philosophical views. 
 
-For example, it flies in the face of academic orthodoxy to challenge socialism or to climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to seriously considering alternate political or historical views. 
+They find doubting Marxist revelations or allegedly scientific revelations more outrageous than *not* doubting divine revelation.
 
-They find doubting Marxist revelations or allegedly scientific revelations more outrageous than *not* doubting divine revelation. 
+Such heterodoxy inevitably creates a certain tension in academic contexts... Which can be trying (because one must work so hard to set up a discussion in such a way that one's interlocuters will argue instead of attack) and delightful (because the discussions, once they get going, are so rich). 
+
 
 
 ## Academic Dogmas
+
+![debate](https://upload.wikimedia.org/wikipedia/commons/b/b1/Avvakum_by_Myasoyedov.jpeg)
 
 What are some other academic dogmas that are difficult, if not impossible, to foster serious discussion about in higher education journals, conferences, and classrooms? 
 
 Consider this beautiful list of heterodox views outlined by [heterodox academic Ben Foster in the Louisville Cardinal](http://www.louisvillecardinal.com/2017/07/letter-to-editor-intellectual-diversity-u-of-l/).  
 
-Foster suggests that unless a substantive percentage of the professors in a given college hold one or more of these views, there no real intellectual diversity: 
 
 >- Capitalism and private property rights have spurred great innovations that improve lives of most people on earth
 >- The U.S. has been a force for good throughout the world, not the source of all misery in the world
@@ -45,14 +46,18 @@ Foster suggests that unless a substantive percentage of the professors in a give
 >- Taking guns from law-abiding citizens does not reduce crime, and
 >- Life on earth is not about to collapse due to man-made climate change
 
-Foster argues that such diversity does in fact exist at his school. He concludes: 
+Foster suggests that unless a substantive percentage of the professors in a given college hold one or more of these views, there no real intellectual diversity. 
+
+And he proudly proclaims that such diversity does in fact exist at his school, concluding with this re-assurance to incoming students: 
 
 >Not all U of L personnel automatically conclude that you are ignorant, greedy, racist, sexist, or xenophobic, etc. if you voted for Donald Trump or hold certain religious beliefs. 
 
-(If you find it amazing that Foster would even need to specify something as obvious as "you aren't a terrible person if you are religious or Republican", then you don't work in academia.)
+If you find it amazing that Foster would even need to specify something as obvious as "you aren't a terrible person if you are religious or Republican", then you don't work in academia.
 
 
 ## Heterodox Academy
+
+![heterodox](https://i.ytimg.com/vi/SduHuR3JbSQ/hqdefault.jpg)
 
 All this said, I am happy to report that I have been accepted as a member of [Heterodox Academy](https://heterodoxacademy.org/), started by Jonathan Haidt. 
 
@@ -73,6 +78,8 @@ So I am proud to join the ranks of those who annoy the opponents of viewpoint di
 Originally, I had planned to write a brief post about Heterodox Academy. But then  Google #Memogate happened. 
 
 ## Google Echo-Chambers
+
+![google](https://lh3.googleusercontent.com/0-BzaWtxoAnsBjQ_wzUcKxyF07XE7v2Kkg1ogPVUdzmQpvaz118uHQEGU6BdtzJuzfo=h1264)
 
 Academia is just as much an echo-chamber as Google. 
 
@@ -102,6 +109,8 @@ By contrast, Most segments of the U.S. have intellectual diversity: business, ch
 So what's the solution? 
 
 ## Damore Solutions
+
+![damore clip](http://i2.cdn.turner.com/money/dam/assets/170811173401-wall-street-journal-james-damore-780x439.jpg)
 
 James Damore's [radically centrist memo](https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f) should be read in full by every resident of Silicon valley or Hollywood and every academic or journalist. 
 
@@ -151,3 +160,10 @@ In full, here are Damore's solution's to Google's left-leaning ideological bias 
 -  We haven’t been able to measure any effect of our Unconscious Bias training and it has the potential for overcorrecting or backlash, especially if made mandatory.
 -   Some of the suggested methods of the current training (v2.3) are likely useful, but the political bias of the presentation is clear from the factual inaccuracies and the examples shown.
 -    Spend more time on the many other types of biases besides stereotypes. Stereotypes are much more accurate and responsive to new information than the training suggests (I’m not advocating for using stereotypes, I just pointing out the factual inaccuracy of what’s said in the training).
+
+
+## Bonus
+
+Watch [Jordan Peterson's interview with James Damore here:](https://www.youtube.com/watch?v=SEDuVF7kiPU) 
+
+
