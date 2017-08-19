@@ -3,7 +3,7 @@ layout: page
 permalink: /history/
 title: 
 header: 
-      image: https://www.italyguides.it/images/lazio/roma/head_home_2.en-GB.jpg
+      image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg
 ---
 
 #### [PDF version of 2017-2018 Syllabus](/content/syllabi/history-bible-syllabus-trinity.pdf)   

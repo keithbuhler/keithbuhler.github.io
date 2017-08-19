@@ -52,14 +52,17 @@ You can also learn more [about me](/about/) and my [academic work in virtue ethi
 <h2> Popular Posts </h2>
 </center>
 
-<br>
+<br> 
+
+- 07.13.2017 [**Interview with Douglas Wilson**](http://www.keithbuhler.com/classical%20education/2017/07/13/interview-douglas-wilson.html) *PITTSBURGH – June 24, 2017. Scroll down for an interview with Douglas Wilson about the future of classical education. It was filmed at the Association of Classical Christian Schools national conference, “Repairing the Ruins.”*
+
+-  04.25.2017 [**"Life is Suffering", and other Jordan Peterson quotations](http://www.keithbuhler.com/philosophy/2017/04/25/jordan-peterson-quotes.html) *We don’t understand the world. I do think the world is more like a musical masterpiece than it is like anything else. And things are oddly connected.*
+
 
 - 04.01.2017 --  [**A Recent Chapter on Deification**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/04/01/deification.html) *His article clarifies what the notion of “becoming god” amounts to, and explains the various species of deifiction: political deification, deification through beauty, deification as magic, deification as imitation, Christian deification, self-deification, deification through Gnosticism. This is all historically informative and very interesting; the kicker is that he accurately covers our own fashionable form of deification: techno-deification.*
 
 - 02.23.2017 -- [**Reflections on Graduate Student Stipends**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/02/23/Reflections-on-Philosophy-Graduate-School-Stipends.html) -- *Now that I am a postdoc scholar at the University of Kentucky (Go ‘Cats!), I am reflecting back on my experience as a Teaching Assistant. One thing that was hard to discover, perhaps understandably, was the expected “stipend” of graduate teaching assistants at other universities I applied to. For what it’s worth, I saved the information about our stipend. My department preferred that it not be public. But count your lucky stars you aren’t as poor as I was in 2012.*
 
-
-- 12.17.2016 -- [**Glowing Fish Analogy**](http://www.keithbuhler.com/buhlerreport/philosophy/2016/12/17/glowing-fish-analogy.html) -- *A: There are no such things as glowing fish. B: But I saw a glowing fish, so they must exist. A: You can’t have one seen one, because they don’t exist. B:...*
 
 - 12.29.2016 -- [**This Classic Text Explains why Classical Education is Best**](http://www.keithbuhler.com/buhlerreport/yalereport-post/) -- *If you haven’t read the Yale Report, it is very good. The “Yale Report of 1828” is one of the “most influential documents in the history of American higher education” according to R.J. O’Hara. It is still a pleasure to read, and its influence should not wane.*
 
