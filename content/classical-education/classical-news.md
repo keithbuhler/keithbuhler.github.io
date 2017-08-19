@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Classical Education in the News
-permalink: /classical-education/
+permalink: /classical-news/
 header:
       image: https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/athens-jerusalem.jpg?itok=PUGDe6ab
 ---
@@ -15,8 +15,7 @@ header:
 - [New Atlanta Charter Classical School](http://www.reporternewspapers.net/2013/05/14/boe-to-consider-proposed-buckhead-charter-school/)
 - [Review of Peter Leithart's "New Classical" Schooling](http://icher.org/blog/?p=731)
 - [Report on the growing popularity of classical education](http://schoolsofthought.blogs.cnn.com/2013/06/21/classical-schools-put-plato-over-ipad/)
-- [Classical education teacher and classics](http://www.shreveporttimes.com/article/D4/20130811/NEWS/308110020/The-Sunday-Q-Austin-Cagle-Classical-education-can-teach-students-how-think-more-critically?nclick_check=1)
 
+<br>
 
-
-[More classical education news at the Buhler Report.](/blog)
+## [More classical education news at the Buhler Report.](/blog)
