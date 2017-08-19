@@ -1,29 +1,30 @@
 ---
-title:  Echo-Chamber Problems, Damore Solutions
+title: Diversity Problems, Damore Solutions
 layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
 comments: true
-tags: [conservatism]laur
-categories: [Politics, Philosophy]
+tags: [conservatism, politics, academia]
+categories: [Philosophy]
 excerpt_separator: <!--more-->
 permalink: 
 ---
 
 
-![header](http://static5.businessinsider.com/image/598d897f0dafe8072d3879f6/james-damore-has-an-above-decent-chance-of-winning-his-legal-case-against-google.jpg)
+![header](http://i2.cdn.turner.com/money/dam/assets/170811173401-wall-street-journal-james-damore-780x439.jpg)
 
 
-As an orthodox Christian, I am almost necessarily a "heterodox academic." 
+As an orthodox Christian, I am ipso facto an academic heretic.
 
 It's not just that I un-ironically defend certain dogmas as literally true and accurate, nor that I worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
 
 For example, it flies in the face of academic orthodoxy to challenge socialism, naturalism, or climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to  considering alternate political, scientific, or philosophical views with any seriousness.  They find doubting Marxist revelations or (allegedly) scientific revelations more outrageous than *not* doubting divine revelation.
 
-My heterodoxy inevitably creates a certain tension in academic contexts, which can be trying (because one must work so hard to set up a discussion in such a way that one's interlocuters will argue instead of attack) as well as delightful (because the discussions, once they get going, are so rich). 
+My heterodoxy inevitably creates a certain tension in academic contexts. This tension can be trying because one must work so hard to set up a discussion in such a way that one's interlocuters will argue instead of attack. But it's mostly delightful because the discussions, once they get going, are so rich. 
 
+Plus, at the average gathering of philosophers, I have the privilege of contributing to viewpoint diversity by representing a minority report. 
 
 
 ## Academic Dogmas
@@ -33,6 +34,8 @@ My heterodoxy inevitably creates a certain tension in academic contexts, which c
 What are some other academic dogmas that are difficult, if not impossible, to foster serious discussion about in higher education journals, conferences, and classrooms? 
 
 Consider this beautiful list of heterodox views outlined by [heterodox academic Ben Foster in the Louisville Cardinal](http://www.louisvillecardinal.com/2017/07/letter-to-editor-intellectual-diversity-u-of-l/).  
+
+<!--more-->
 
 >- Capitalism and private property rights have spurred great innovations that improve lives of most people on earth
 >- The U.S. has been a force for good throughout the world, not the source of all misery in the world
@@ -104,7 +107,7 @@ So what's the solution?
 
 ## Damore Solutions
 
-![damore clip](http://i2.cdn.turner.com/money/dam/assets/170811173401-wall-street-journal-james-damore-780x439.jpg)
+![damore clip](http://static5.businessinsider.com/image/598d897f0dafe8072d3879f6/james-damore-has-an-above-decent-chance-of-winning-his-legal-case-against-google.jpg)
 
 James Damore's [radically centrist memo](https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f) should be read in full by every resident of Silicon valley or Hollywood and every academic or journalist. 
 
