@@ -18,7 +18,7 @@ permalink:
 
 As an orthodox Christian, I am ipso facto an academic heretic.
 
-It's not just that I un-ironically defend certain dogmas as literally true and accurate, nor that I worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
+It's not just that I un-ironically defend certain religious dogmas as literally true and objectively accurate, nor that I worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
 
 For example, it flies in the face of academic orthodoxy to challenge socialism, naturalism, or climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to  considering alternate political, scientific, or philosophical views with any seriousness.  They find doubting Marxist revelations or (allegedly) scientific revelations more outrageous than *not* doubting divine revelation.
 

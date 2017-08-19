@@ -14,9 +14,9 @@ related:
 
 I'm Dr. Keith Buhler, a philosopher and classical educator based in Los Angeles. Welcome to my online hub for sharing new projects, connecting with people, and pursuing virtue and wisdom. 
 
-Follow the [*The Buhler Report*](/blog) for content bringing timeless wisdom dialog to current events in [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+Here, you can follow the [*The Buhler Report*](/blog) for conversations about timeless wisdom and current events in [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
 
-On this site, [high school students](/syllabi) can see their syllabi and other resources, undergraduates can consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy, and fellow academics can explore my [academic work in virtue ethics.](/cv/) 
+On this site, my [high school students](/syllabi) can see their syllabi and other resources, undergraduates can consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy, and fellow academics can explore my [academic work in virtue ethics.](/cv/) 
 
 Finally, you can learn more [about me](/about/) or explore a bunch of fun stuff in the [sandbox](/sandbox/) (including how to build a website like this for free). Thanks for reading. 
 
