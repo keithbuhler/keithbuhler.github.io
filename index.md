@@ -54,7 +54,7 @@ Finally, you can learn more [about me](/about/) or explore a bunch of fun stuff 
 
 - 07.13.2017 [**Interview with Douglas Wilson**](http://www.keithbuhler.com/classical%20education/2017/07/13/interview-douglas-wilson.html) *PITTSBURGH – June 24, 2017. Scroll down for an interview with Douglas Wilson about the future of classical education. It was filmed at the Association of Classical Christian Schools national conference, “Repairing the Ruins.”*
 
--  04.25.2017 [**"Life is Suffering", and other Jordan Peterson quotations](http://www.keithbuhler.com/philosophy/2017/04/25/jordan-peterson-quotes.html) *We don’t understand the world. I do think the world is more like a musical masterpiece than it is like anything else. And things are oddly connected.*
+-  04.25.2017 [**"Life is Suffering", and other Jordan Peterson quotations**](http://www.keithbuhler.com/philosophy/2017/04/25/jordan-peterson-quotes.html) *We don’t understand the world. I do think the world is more like a musical masterpiece than it is like anything else. And things are oddly connected.*
 
 
 - 04.01.2017 --  [**A Recent Chapter on Deification**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/04/01/deification.html) *His article clarifies what the notion of “becoming god” amounts to, and explains the various species of deifiction: political deification, deification through beauty, deification as magic, deification as imitation, Christian deification, self-deification, deification through Gnosticism. This is all historically informative and very interesting; the kicker is that he accurately covers our own fashionable form of deification: techno-deification.*
