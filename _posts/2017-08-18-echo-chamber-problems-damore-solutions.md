@@ -114,11 +114,9 @@ So what's the solution?
 
 ![damore clip](http://static5.businessinsider.com/image/598d897f0dafe8072d3879f6/james-damore-has-an-above-decent-chance-of-winning-his-legal-case-against-google.jpg)
 
-James Damore's [radically centrist memo](https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f) should be read in full by every resident of Silicon valley or Hollywood and every academic or journalist. 
+James Damore's [radically centrist memo](https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f) should be read in full and debated on its merits, not dismissed, by residents of Silicon valley, the entertainment industry, journalists, and academics.
 
-He wrote it in response to Google's racist and sexist policy of only offering some benefits to privileged races and only placing other inferior races in mandatory "Unconscious Bias" trainings. 
-
-But Damore's solutions can be equitably applied in entertainment, journalism, and higher education as well.
+He wrote it in response to Google's discriminatory policy of priviliging some races and sexes over others (while simultaneously forcing disfavored groups into mandatory "Unconscious Bias" trainings). But Damore's solutions can be equitably applied in entertainment, journalism, and higher education as well.
 
 In full, here are Damore's solution's to Google's left-leaning ideological bias it uses to justify shaming dissenters into silence: 
 
