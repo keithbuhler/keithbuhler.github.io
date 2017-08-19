@@ -14,6 +14,14 @@ header:
 - [Auden on Poetic Education](http://ayjay.tumblr.com/post/48935685281/in-my-daydream-college-for-bards-the-curriculum)
 - [Reasons to study philosophy in undergrad](https://sites.google.com/site/whystudyphilosophy/)
 
+## Asking Questions
+
+- [Fred Sanders on Opening Questions](http://www.patheos.com/blogs/scriptorium/2013/07/the-opening-question-torrey-101/)
+- [S. A Dance. "The Worst Thing Schools Do is Teach Kids to Ask the Wrong Questions"](http://thefederalist.com/2017/03/28/worst-thing-schools-teach-kids-ask-wrong-questions/)
+- [Matthew Anderson, The End of our Exploring: A Book about Questioning](https://www.amazon.com/End-Our-Exploring-Questioning-Confidence/dp/0802406521)
+
+
+
 
 ## Philosophy as a Liberal Art
 - [Picture-book Philosophy for 2nd Grade](http://www.youtube.com/watch?v=x5wuHRyHez0&feature=player_embedded#!)
@@ -26,8 +34,7 @@ header:
 - Josh Lawmen's inspiring Essay, [*People of the Math*](/buhlerreport/math) -- "It is only important to remember that numbers are intrinsically beautiful and wonderful – we do not need to project these qualities onto them." 
 
 ## How to teach logic 
-
-- Read Bradley Griffith's [*A Logical Introduction* is the best book on the market.](https://books.google.com/books?op=lookup&id=gewqjgEACAAJ&continue=https://books.google.com/books/about/A_Logical_Introduction.html%3Fid%3DgewqjgEACAAJ%26hl%3Den)
+- Read Bradley Griffith's [*A Logical Introduction*.](https://books.google.com/books?op=lookup&id=gewqjgEACAAJ&continue=https://books.google.com/books/about/A_Logical_Introduction.html%3Fid%3DgewqjgEACAAJ%26hl%3Den) Despite its imperfections, it is one of the best book on the market.
 
 
 ## Alternatives to College
@@ -42,12 +49,4 @@ header:
 
 ## Problem Solving
 
-- [Pitfalls of classical education, Writing Rhetorically](http://writingrhetorically.com/category/classical-education/)
-
-## Asking Questions
-
-- [Fred Sanders on Opening Questions](http://www.patheos.com/blogs/scriptorium/2013/07/the-opening-question-torrey-101/)
-- [S. A Dance. "The Worst Thing Schools Do is Teach Kids to Ask the Wrong Questions"](http://thefederalist.com/2017/03/28/worst-thing-schools-teach-kids-ask-wrong-questions/)
-- [Matthew Anderson, The End of our Exploring: A Book about Questioning](https://www.amazon.com/End-Our-Exploring-Questioning-Confidence/dp/0802406521)
-
-
+- [Pitfalls of classical education](http://writingrhetorically.com/category/classical-education/)

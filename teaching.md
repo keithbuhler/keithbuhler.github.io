@@ -69,8 +69,6 @@ Over the last 15 years, I've helped hundreds of students of all ages to learn an
 
 * "Constructed a safe place to express opinions."  -- Student 2016
 
-* "None of his assignments are busy work." -- Student 2016
-
 * "Engaging and mind-stretching." -- Student 2016
  
 * "This is what college is SUPPOSED to be." Student 2017 

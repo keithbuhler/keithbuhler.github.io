@@ -18,13 +18,17 @@ permalink:
 
 As an orthodox Christian, I am ipso facto an academic heretic.
 
-It's not just that I un-ironically defend certain religious dogmas as literally true and objectively accurate, nor even that I pray to and worship God without debonair agnosticism; my academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
+It's not just that I un-ironically defend certain religious dogmas as literally true and objectively accurate, nor even that I pray to and worship God without debonair agnosticism. My secular humanist  friends are, as a rule, rather tolerant of my religiosity. 
+
+My academic heresy is being skeptical, undecided, or resistant to *very particular rival dogmas.* 
 
 For example, it flies in the face of academic orthodoxy even to remain open-minded or agnostic about socialism, philosophical naturalism, or climate change. Some of my otherwise open-minded philosopher friends are radically closed even *to considering* alternate political, scientific, or philosophical views with any seriousness.  They find doubting Marxist revelations or (allegedly) scientific revelations more outrageous than *not* doubting divine revelation.
 
 My heterodoxy inevitably creates a certain tension in academic contexts. At the average gathering of philosophers, I have the privilege of contributing to viewpoint diversity by representing a minority report. 
 
 The tension can be trying because one must work so hard to set up a discussion in such a way that one's interlocutors will argue the point instead of attack the person. But it's mostly delightful because the discussions, once they get going, are so rich. 
+
+My point here is that secular academics can be benignly dismissive about varying religious beliefs; but they are more often vociferous about varying political beliefs. (I even get into trouble with my co-religionists who are left-leaning.) 
 
 
 
@@ -34,7 +38,7 @@ The tension can be trying because one must work so hard to set up a discussion i
 
 What are some other academic dogmas that are difficult, if not impossible, to foster serious discussion about in higher education journals, conferences, and classrooms? 
 
-Consider this beautiful list of heterodox views outlined by [heterodox academic Ben Foster in the Louisville Cardinal](http://www.louisvillecardinal.com/2017/07/letter-to-editor-intellectual-diversity-u-of-l/).  
+Consider this beautiful list of secular political heresies outlined by [heterodox academic Ben Foster in the Louisville Cardinal](http://www.louisvillecardinal.com/2017/07/letter-to-editor-intellectual-diversity-u-of-l/).  
 
 <!--more-->
 
