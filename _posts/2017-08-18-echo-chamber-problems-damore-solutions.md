@@ -1,0 +1,153 @@
+
+---
+title:  Echo-Chamber Problems, Damore Solutions
+layout: post
+share: true
+header:
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+share: true
+comments: true
+tags: [conservatism]laur
+categories: [Politics, Philosophy]
+excerpt_separator: <!--more-->
+permalink: 
+---
+
+
+![header](https://lh3.googleusercontent.com/0-BzaWtxoAnsBjQ_wzUcKxyF07XE7v2Kkg1ogPVUdzmQpvaz118uHQEGU6BdtzJuzfo=h1264)
+
+
+I am an Orthodox Christian and therefore, ipso facto, a "heterodox academic." 
+
+It's not just that I unironically believe in God and daily engage in religious practice  without debonaire agnosticism; the tension I experience within academia arises from my skepticism or outrage rejection of particular secular 'dogmas' -- or beliefs that function like dogmas. 
+
+Such heterodoxy inevitably creates a certain tension in academic contexts... Which can be trying as well as delightful.
+
+For example, it flies in the face of academic orthodoxy to challenge socialism or to climate alarmism. Some of my otherwise open-minded philosopher friends are radically closed to seriously considering alternate political or historical views. 
+
+They find doubting Marxist revelations or allegedly scientific revelations more outrageous than *not* doubting divine revelation. 
+
+
+## Academic Dogmas
+
+What are some other academic dogmas that are difficult, if not impossible, to foster serious discussion about in higher education journals, conferences, and classrooms? 
+
+Consider this beautiful list of heterodox views outlined by [heterodox academic Ben Foster in the Louisville Cardinal](http://www.louisvillecardinal.com/2017/07/letter-to-editor-intellectual-diversity-u-of-l/).  
+
+Foster suggests that unless a substantive percentage of the professors in a given college hold one or more of these views, there no real intellectual diversity: 
+
+>- Capitalism and private property rights have spurred great innovations that improve lives of most people on earth
+>- The U.S. has been a force for good throughout the world, not the source of all misery in the world
+>- Injustices regarding slavery and forcible taking of land from others are not inherent, or unique, to the U.S. or the white race
+>- People here illegally should not necessarily be treated like US citizens
+>- Some affirmative action and Title IX regulations are inappropriately interpreted, administered and enforced
+>- Discrimination is not the main cause for all inequalities in society
+>- Taking guns from law-abiding citizens does not reduce crime, and
+>- Life on earth is not about to collapse due to man-made climate change
+
+Foster argues that such diversity does in fact exist at his school. He concludes: 
+
+>Not all U of L personnel automatically conclude that you are ignorant, greedy, racist, sexist, or xenophobic, etc. if you voted for Donald Trump or hold certain religious beliefs. 
+
+(If you find it amazing that Foster would even need to specify something as obvious as "you aren't a terrible person if you are religious or Republican", then you don't work in academia.)
+
+
+## Heterodox Academy
+
+All this said, I am happy to report that I have been accepted as a member of [Heterodox Academy](https://heterodoxacademy.org/), started by Jonathan Haidt. 
+
+What is HxA? The Heterodox Academy welcome page states that: 
+
+>We are a politically diverse group of social scientists, natural scientists, humanists, and other scholars who want to improve our academic disciplines and universities.
+
+>We share a concern about a growing problem: the loss or lack of “viewpoint diversity.” When nearly everyone in a field shares the same political orientation, certain ideas become orthodoxy, dissent is discouraged, and errors can go unchallenged.
+
+>To reverse this process, we have come together to advocate for a more intellectually diverse and heterodox academy.
+
+Heterodox Academy's mission, you might say, is to eliminate echo-chambers. 
+
+The importance of allowing 'heterodox' or intellectually diverse elements into a university is clear: a university is perhaps the one place on earth where *thinking* is of paramount importance and so the dangers of *groupthink* or other illogical habits are ruinous. 
+
+So I am proud to join the ranks of those who annoy the opponents of viewpoint diversity. 
+
+Originally, I had planned to write a brief post about Heterodox Academy. But then  Google #Memogate happened. 
+
+## Google Echo-Chambers
+
+Academia is just as much an echo-chamber as Google. 
+
+If you don't know about ex-Google engineer James Damore, he wrote a memo to his fellow Googlers inviting them to embrace real intellectual diversity and to challenge their presuppositions about the cause of gender gaps in tech. 
+
+Perhaps part of the reason the tech industry struggles to bring in equal numbers of every sub-population is that some sub-populations who generally do not like tech are freely and autonomously pursuing their own preferences. 
+
+For daring to share a [well-researched scientifically supported hypothesis](https://heterodoxacademy.org/2017/08/10/the-google-memo-what-does-the-research-say-about-gender-differences/) in a calm and balanced manner, Damore was fired. 
+
+>"Is Google an echo chamber?" James Damore asks. 
+>"How dare you!" answers Sundar Pachai, "You're fired!"
+>James Damore: "So, just to be clear -- that's a 'Yes'?"
+
+
+Google's refusal to consider alternate viewpoints is what Edward Feser calls ["meta-bigotry"](http://edwardfeser.blogspot.com/2017/03/meta-bigotry.html) -- that is, "the deployment of epithets like “bigot” in a manner that is itself bigoted."
+
+Google's decision to fire Damore reveals a kinship between the left-leaning higher educational institutions and left-leaning Silicon valley. The echo-chambers are identical or at least blood-related. 
+
+Indeed, the meta-bigotry that creates and perpetuates echo chambers only exists in places mostly populated by college grads: Hollywood, journalism, academia, and tech. 
+
+These big four industries or sub-cultures are dominated by meta-bigots who cannot bear to hear their views on human nature challenged without huffing and puffing. 
+
+The education system produces meta-bigots who are otherwise intelligent and talented and who then gravitate toward the places most susceptible to becoming echo-chambers mired in groupthink. 
+
+By contrast, Most segments of the U.S. have intellectual diversity: business, churches, clubs, elementary and high schools, Washington D.C., local government, sports, and so on. 
+
+So what's the solution? 
+
+## Damore Solutions
+
+James Damore's [radically centrist memo](https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f) should be read in full by every resident of Silicon valley or Hollywood and every academic or journalist. 
+
+He wrote it in response to Google's racist and sexist policy of only offering some benefits to privileged races and only placing other inferior races in mandatory "Unconscious Bias" trainings. 
+
+But Damore's solutions can be equitably applied in entertainment, journalism, and higher education as well.
+
+In full, here are Damore's solution's to Google's left-leaning ideological bias it uses to justify shaming dissenters into silence: 
+
+### De-moralize diversity.
+- As soon as we start to moralize an issue, we stop thinking about it in terms of costs and benefits, dismiss anyone that disagrees as immoral, and harshly punish those we see as villains to protect the “victims.”
+
+### Stop alienating conservatives.
+- Viewpoint diversity is arguably the most important type of diversity and political orientation is one of the most fundamental and significant ways in which people view things differently. 
+- In highly progressive environments, conservatives are a minority that feel like they need to stay in the closet to avoid open hostility. We should empower those with different ideologies to be able to express themselves. 
+- Alienating conservatives is both non-inclusive and generally bad business because conservatives tend to be higher in conscientiousness, which is required for much of the drudgery and maintenance work characteristic of a mature company.
+
+
+### Confront Google’s biases.
+- I’ve mostly concentrated on how our biases cloud our thinking about diversity and inclusion, but our moral biases are farther reaching than that. 
+- I would start by breaking down Googlegeist scores by political orientation and personality to give a fuller picture into how our biases are affecting our culture.
+
+### Stop restricting programs and classes to certain genders or races.
+- These discriminatory practices are both unfair and divisive. Instead focus on some of the non-discriminatory practices I outlined.  
+- Have an open and honest discussion about the costs and benefits of our diversity programs. 
+- Discriminating just to increase the representation of women in tech is as misguided and biased as mandating increases for women’s representation in the homeless, work-related and violent deaths, prisons, and school dropouts. 
+- There’s currently very little transparency into the extent of our diversity programs which keeps it immune to criticism from those outside its ideological echo  chamber.
+- These programs are highly politicized which further alienates non-progressives.
+- I realize that some of our programs may be precautions against government  accusations of discrimination, but that can easily backfire since they incentivize illegal discrimination.
+
+### Focus on psychological safety, not just race/gender diversity.
+- We should focus on psychological safety, which has shown positive effects and should (hopefully) not lead to unfair discrimination. 
+-  We need psychological safety and shared values to gain the benefits of diversity.
+-   Having representative viewpoints is important for those designing and testing our products, but the benefits are less clear for those more removed from UX.
+
+### De-emphasize empathy.
+- I’ve heard several calls for increased empathy on diversity issues. While I strongly support trying to understand how and why people think the way they do, relying on affective empathy—feeling another’s pain—causes us to focus on anecdotes, favor individuals similar to us, and harbor other irrational and dangerous biases. Being emotionally unengaged helps us better reason about the facts.
+
+### Prioritize intention.
+- Our focus on microaggressions and other unintentional transgressions increases our sensitivity, which is not universally positive: sensitivity increases both our tendency to take offence and our self censorship, leading to authoritarian policies. Speaking up without the fear of being harshly judged is central to psychological safety, but these practices can remove that safety by judging unintentional transgressions.
+- Microaggression training incorrectly and dangerously equates speech with violence and isn’t backed by evidence.
+
+###   Be open about the science of human nature.
+-  Once we acknowledge that not all differences are socially constructed or due to discrimination, we open our eyes to a more accurate view of the human condition which is necessary if we actually want to solve problems.
+
+###  Reconsider making Unconscious Bias training mandatory for promo committees.
+-  We haven’t been able to measure any effect of our Unconscious Bias training and it has the potential for overcorrecting or backlash, especially if made mandatory.
+-   Some of the suggested methods of the current training (v2.3) are likely useful, but the political bias of the presentation is clear from the factual inaccuracies and the examples shown.
+-    Spend more time on the many other types of biases besides stereotypes. Stereotypes are much more accurate and responsive to new information than the training suggests (I’m not advocating for using stereotypes, I just pointing out the factual inaccuracy of what’s said in the training).
