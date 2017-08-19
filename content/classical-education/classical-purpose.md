@@ -22,9 +22,9 @@ In this aim, the successfully educated person is free, free to think, live, and 
 
 The second aim of education is to *equip students for their social role*. 
 
-In this aim, younger members of society are prepared to be professionals, pastors, or parents. They perform valuable jobs in the community. The successfully educated person is a capable professional in some trade or craft. 
+In this aim, younger members of society are prepared to be professionals, pastors, or parents. The successfully educated person is a capable of performing valuable jobs in the community, whether that "job" is a for profit trade or craft,  a non-profit service or charity, or a care-giving job such as parent or monk. 
 
-This second aim of education must be stretched to include the less "useful" uses, such as artists, entertainers, academics, historians, philosophers, theologians, and musicians who enrich society in a way that is not immediately related to food, water, shelter, and other practicalities. 
+This second aim of education is a large umbrella. It includes the less "useful" activities that occupy human society, such as art, entertainment, academic study, theoretical science, philosophy, and music. These activities enrich society, but they do so in a way that is not immediately related to food, water, shelter, and other practicalities. 
 
 ## A Detour about Technical Jobs
 
