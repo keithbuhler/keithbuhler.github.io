@@ -66,17 +66,17 @@ This course is divided into sixteen units of about two weeks each. Student work 
 
 ### Grading 
 
-You will be graded primarily on reading, participation, and tests, plus applicable extra credit.
+You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
-| Participation                         | 25%         |  
-| Quizzes                               | 25%         |
-| Homework                              | 25%         |
-| Exams                                 | 25%         |
+| Participation                         | 10%         |  
+| Quizzes                               | 20%         |
+| Homework                              | 20%         |
+| Exams                                 | 50%         |
 
 
-The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned., participate, and study well for the tests. 
+The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned, participate, and study well for the tests. 
 
 
 
@@ -117,9 +117,12 @@ Short vocab and grammar quizzes will be given *frequently*. These quizzes assess
 
 ### Tests/Exams
 
-Tests and exams will assess how well you have mastered the core material of the class. In addition to periodic unit tests, students will take a fall final, and a spring final.
+Tests and exams will assess how well you have mastered the core material of the class. In addition to periodic unit tests, students will take a fall final, and a spring final. Finals may be cumulative. 
 
-Also, students will take the NGE (National Greek Exam) in the spring, which will compare student knowledge against national 
+
+### National Greek Examination
+
+Also, students will take the NGE (National Greek Examination) in the spring (March). This test will compare student knowledge against more than 2,000 introductory Greek students nationally. Students can earn purple, blue, red, or green ribbons. 
 
 
 ### Quality Work Guidelines:
