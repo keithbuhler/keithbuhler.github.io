@@ -7,7 +7,7 @@ header:
 share: true
 comments: true
 tags: [conservatism, politics, academia]
-categories: [Philosophy]
+categories: [Politics]
 excerpt_separator: <!--more-->
 permalink: 
 ---
