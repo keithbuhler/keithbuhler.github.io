@@ -25,20 +25,33 @@ Professor A had just held forth, in his philosophy class, about the virtues of v
 Student B stayed after to clarify things a bit. 
 
 B: "But if you value the opinion of even people who disagree with you, you're just saying they can help you see new truths, right? You're not saying that people who believe falsehoods that you do not believe have something to contribute, are you?"
+
 A: "Yes, everyone's opinion is valuable to me. Even people who think differently from me are correct about something and need to be heard." 
+
 B: "I disagree, professor. You believe in tolerance. So, I think everyone who thinks differently from you on this point doesn't value tolerance -- and so they are incorrect."
+
 A: "Well,  the people who think similarly to me are correct. But the people who think differently from me on that point are still valuable to me. They're both valuable to me."
+
 B: "No, that can't be right! If you're saying even the intolerant and close-minded have opinions that are 'valuable' and should be heard, you'd have to conclude that conformity of mind is just as good as open debate and reasoned disagreement."
+
 A: "Yes, I guess so."
+
 B: "I disagree. Your opinion that intolerance is tolerable is wrong and, even more, it's dangerous. It would allow the intolerant and close-minded a place at the table, even though they don't value the opinions of everyone else at the table."
+
 A: "That's why I love you -- because you refuse to think like me and I value viewpoint diversity." 
+
 B: "That's creepy. You're contradicting yourself and praising me for contradicting you."
+
 A: "I am large, I contain multitudes." 
+
 B: "I think I'm dropping out of college to become an electrician. My uncle said it's a great life."
+
 
 THE END.
 
-Reader response: What's the moral of the story? 
+--- 
+
+**Reader response: What's the moral of the story?**
 
 A. Diversity of opinion is even more important than you thought. 
 
