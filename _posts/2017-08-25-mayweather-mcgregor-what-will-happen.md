@@ -13,17 +13,17 @@ permalink:
 ---
 
 
-![header](http://www.politicaltheology.com/blog/wp-content/uploads/2017/04/Nietzsche.gif)
+![header](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/25/18/mayweather-mcgregor-2.jpg)
 
 
 Who will win on Saturday in the McGregor vs. Mayweather fight? 
 
-(I really shouldn't have an opinion on this, because I know next to nothing about boxing or MMA. From watching both men's thoughts (in interviews) and fights (on YouTube) I've come to  my own opinion, such as it is.)
+Mayweather will win... But it will be interesting. And that's the point. Here's my prediction of what happens, and an explanation of why, written up like a news story I imagine people will write on Sunday morning. 
 
-
-Mayweather will win... But it will be interesting. And that's the point. Here's my prediction of what happens, and an explanation of why. 
+Disclaimer: I know next to nothing about boxing or MMA. I've come to a tentative prediction from watching both men's thoughts (in interviews) and fights on YouTube. 
 
 ## What will happen
+
 
 >Mayweather wanted to retire 50-0, and make a boatload of money one last time. He wanted a safe fight he can win easily, but he didn't want to seem like he wass playing it safe. 
 
