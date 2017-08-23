@@ -109,18 +109,4 @@ Just because it’s a “discussion day” doesn’t mean we have to discuss the
 If the conversation gets off track, refocus on the opening question by restating it. Human reason is not infallible, but it is reliable. Trust the argument, even if it leads to unexpected, surprising, painful, or implausible conclusions. If the conclusion we are lead to is in error, use the argument to expose that error. If not, then take courage, have faith, and change your mind (and if need be, change your life). 
 
 
-## How to Lead Discussion
-
-As we get better at discussion, some of  you will try your hand at leading. Here are some tips. 
-
-**BEFORE**
-Read the text carefully, attending to main themes and one’s own wonder/interest/questions.
-Brainstorm opening questions
-Filter out yes/no questions, or questions whose scope is impossibly large, or questions that relate text
-
-**DURING**
-Give introductory comments on topic (to frame question)
-Ask opening question (to give students today’s goal)
-If needed, give brief comments (to support question)
-Temporarily sit back and be quiet (to allow students to take responsibility for answering the question, defining the terms, finding and citing relevant text, etc.)
-Moderate discussion (to keep students on the topic and relevant tangents, to challenge easy but inadequate answers, to deepen curiosity)
+## [*Ready to learn How to Lead a Discussion?*](http://www.wikihow.com/Lead-a-Discussion)
