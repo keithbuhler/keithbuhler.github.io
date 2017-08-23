@@ -33,22 +33,24 @@ header:
 
 
 ### Course Description:
-The aim of this course is to enable you to begin reading, understanding, and translating Ancient Greek. 
+This course aims to enable you to begin reading, understanding, and translating Ancient Greek. 
 
-Following the "Athenaze" text and workbook, we will cover the fundamentals of the ancient Greek language, including the alphabet, pronunciation, grammar, and a working vocabulary of about 500+ common words. The Athanaze course focuses upon frequent and early reading of continuous Greek, progressing from Classical prose and poetry (such as Heraclitus, Xenophon) to the Greek of the New Testament. 
+Following the "Athenaze" text and workbook, we will cover the fundamentals of the ancient Greek language, including the alphabet, pronunciation, grammar, and a working vocabulary of hundreds of common words. The Athanaze course focuses upon frequent and early reading of continuous Greek, progressing from Classical prose and poetry (such as Heraclitus, Xenophon, and Plato) to the New Testament. 
 
-Students will also become familiar with relevant cultural history of Greece and Rome, which will open up a wealth of thought, culture, and literature which will be discussed informally throughout the term, and which you can connect with your learning in other classes.
+Students will also become familiar with relevant cultural history of Greece and Rome. Knowledge of these cultures will open up a wealth of thought and literature that connects to other classes and which will be discussed informally in Greek. 
 
 By the end of the year, students will be excited and empowered to read, understand, and translate the New Testament directly from the original Greek. Advanced study will involved advanced declensions, conjugations, tenses, accent marks, and enclitics. 
 
-Language-learning is a discipline built on rote memorization and immersion into the thought-patterns of a foreign time and place. The goal is not only to be able to translate English thoughts into Greek words but to "think in Greek" as soon as possible. As a result, students are expected to devote time and energy to memorizing vocabulary, practicing declension and conjugation forms, practicing "Grenglish" (speaking Greek and mixing in Enlighs vocabulary) and doing translations in and out of class. 
+Language-learning is a discipline built on rote memorization and immersion into the thought-patterns of a foreign time and place. The goal is not only to be able to translate English thoughts into Greek words but to "think in Greek" as soon as possible. As a result, students are expected to devote time and energy to memorizing vocabulary, practicing declension and conjugation forms, practicing "Grenglish" (speaking Greek and mixing in English vocabulary) and translating in and out of class. 
 
 
 ### Learning Goals:
 
 * To memorize the Greek alphabet, especially new letters such as epsilon, upsilon, omicron, dzeta, theta, phi, chi, psi.
 * To learn Greek word-concepts like 'logos', 'bios', 'paidos'.
-* To read, understand, and translate short Greek sentences and longer Greek primary texts such as Plato, Xenophon, and the New Testament
+* To master the basics of grammar: the conjugation of present tense, past tense, and future tense verbs; 1st, 2nd, and 3rd declension nouns, articles, adjectives, and participles. 
+* To acquire a large Greek vocabulary of hundreds of words
+* And finally, to read, understand, and translate short Greek sentences and longer Greek primary texts such as Plato, Xenophon, and the New Testament
 
 
 ### Required Texts:
@@ -76,7 +78,7 @@ You will be graded primarily on reading, participation, and tests.
 | Exams                                 | 50%         |
 
 
-The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned, participate, and study well for the tests. 
+The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned, participate, and study well for the tests. Weekly and sometimes daily quizzes build to monthly or quarterly tests. 
 
 
 

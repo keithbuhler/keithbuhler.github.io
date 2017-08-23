@@ -19,7 +19,7 @@ feature_row:
 
 
 - [(9th Grade) Ancient History-Bible](/history)
-- [(9th Grade) Pre-Rhetoric, Writing and Grammer](/rhetoric)
+- [(9th Grade) Pre-Rhetoric, Writing and Grammer](/writing)
 - [Ancient Greek](/greek)
 
 
