@@ -25,7 +25,7 @@ Disclaimer: I know next to nothing about boxing or MMA. I've come to a tentative
 ## What will happen
 
 
->Mayweather wanted to retire 50-0, and make a boatload of money one last time. He wanted a safe fight he can win easily, but he didn't want to seem like he wass playing it safe. 
+>Mayweather wanted to retire 50-0, and make a boatload of money one last time. He wanted a safe fight he can win easily, but he didn't want to seem like he was playing it safe. 
 
 >He lighted upon a cocky underdog opponent who actually has 0-1% chance, and made it seem like the underdog has a real 30%-40% chance. He played up the fight, "giving concessions" like 8 oz gloves. He played up the hypo, loving the drama, enhancing the drama, earning free publicity, and grew the hype as big as it could be. He let McGregor fans, Irishmen, and underdog lovers the world over hope for an upset. 
 
@@ -73,7 +73,7 @@ Mayweather needed a fighter who was (a) good publicity, (b) skilled enough to se
 
 Conor is all those things. 
 
-McGregor is entertaining, cocky, and a good promoter outside the ring (or octogan). Inside, he's a very good fighter. Also, although he has lost fights, he hasn't lost in awhile. 
+McGregor is entertaining, cocky, and a good promoter outside the ring (or octagon). Inside, he's a very good fighter. Also, although he has lost fights, he hasn't lost in awhile. 
 
 Mayweather knows that Conor's cockiness will make good entertainment, build hype for the fight, and make it seem that he (Conor) has a chance. That will mean big money, huge money, 100 million dollars worth of money. 
 
@@ -100,4 +100,8 @@ When you add that McGregor was willing to take the fight because it will ["qaudr
 >McGregor spins the loss by saying that "if it were a MMA fight, I would have won", walks with his $50 million, happy as can be, and goes back to UFC. 
 
 
-## We'll see on Saturday what actually happens!
+---
+
+I guess on Saturday night, we'll see!
+
+## Comment below -- What do you think will happen? 
