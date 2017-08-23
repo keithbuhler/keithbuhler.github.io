@@ -34,6 +34,8 @@ A: "Well,  the people who think similarly to me are correct. But the people who 
 
 B: "No, that can't be right! If you're saying even the intolerant and close-minded have opinions that are 'valuable' and should be heard, you'd have to conclude that conformity of mind is just as good as open debate and reasoned disagreement."
 
+<!--more-->
+
 A: "Yes, I guess so."
 
 B: "I disagree. Your opinion that intolerance is tolerable is wrong and, even more, it's dangerous. It would allow the intolerant and close-minded a place at the table, even though they don't value the opinions of everyone else at the table."
