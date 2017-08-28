@@ -72,10 +72,10 @@ You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
-| Participation                         | 10%         |  
+| Participation                         | 25%         |  
 | Quizzes                               | 20%         |
 | Homework                              | 20%         |
-| Exams                                 | 50%         |
+| Exams                                 | 35%         |
 
 
 The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned, participate, and study well for the tests. Weekly and sometimes daily quizzes build to monthly or quarterly tests. 
