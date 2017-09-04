@@ -164,6 +164,14 @@ In full, here are Damore's solution's to Google's left-leaning ideological bias 
 
 ## Bonus
 
-Watch [Jordan Peterson's interview with James Damore here:](https://www.youtube.com/watch?v=SEDuVF7kiPU) 
+1. Watch [Jordan Peterson's interview with James Damore here:](https://www.youtube.com/watch?v=SEDuVF7kiPU) 
+2. Read [Quillette's take down of the fictitious "Larry Page" response to James Demore.](http://quillette.com/2017/08/31/google-memo-economist-nothing/) 
+
+## Roaming Millenial's Take
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Niv9fDJ-T0s?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+## 
 
 
