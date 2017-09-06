@@ -15,23 +15,25 @@ permalink:
 
 ![header]()
 
-In 2003, living with Biola University film students, I learned of the American Film Institute (AFI) list of top 100 American films.  I resolved to watch them all. Not only for self-education about film (who doesn't want to know more about film?) but for entertainment. 
 
-The last 14 years have been a winding, wandering journey as far as media consumption. I've seen lots of recent movies in theater or on video, and read a lot more books than seen movies. 
+## Background & Motivation
 
-Nevertheless, I've kept to the tortoise approach and kept watching AFI films. I've averaged one AFI film every two months for the past 14 years. 
+In 2003, living with Biola University film students, I learned of the American Film Institute (AFI) list of top 100 American films.  I resolved to watch them all. 
 
-(By contrast, I average 40 books a year.)
+I just began watching them. Since that time, I've averaged one AFI film every two months for the past 14 years. 
 
-Each film is unique, interesting, surprising, fascinating, and delightful. 
+I originally started the list to become a more informed film viewer and because I wanted to maybe write screenplays. 
 
-Many of them were, for a time, "the best film I've ever seen"... until I watch the next one. 
+However, I continued the project not only for self-education about film (who doesn't want to know more about film?) but for entertainment. Each film is unique, interesting, surprising, fascinating, and delightful. Many of them were, for a time, "the best film I've ever seen"... until I watch the next one. 
 
-I started at the top, going from the 1st best movie down the line. Until I realized that it would be more sumptious to move from 100th movie up. *Yankee Doodle Dandee* (#100) is still one of the best movies I've ever seen.
+So I kept watching... even through marriage, a doctoral program, and now kids and a full-time career in classical education. 
 
-Now, the end is in sight. I'm on the final stretch. 
+Now, in 2017, the end is in sight. I'm on the final stretch. 
 
-There are only 2 or 3 films on the list I've elected never to watch because recommendations have convinced me that the content is slimy and repulsive enough to be a waste of time. 
+The goal is not really *completion* in some neurotic sense, although I do love checking off lists. For example, there are only 2 or 3 films on the list I've elected never to watch because recommendations have convinced me that the content is slimy and repulsive enough to be a waste of time (Clockwork Orange) or because I have sworn off a particular director (I've seen enough Tarantino in my life and will never voluntarily watch Pulp Fiction, no matter how great people say it is.)
+
+
+## Status
 
 Of those I will see, the remaining films are: 
 
@@ -50,7 +52,67 @@ Of those I will see, the remaining films are:
 |72   |Ben-Hur (1959)|
 
 
+Watching one a week I can finish by Christmas. Or watching one a month, I can finish by the end of 2018. I'm in no rush. But I'll keep you posted if and when I finish. 
 
-Watching one a week I can finish by Christmas. One a month, I can finish by the end of next summer. I'm in no rush. But I'll keep you posted!
 
-Finding the films is often tricky. Some you can rent or find free on YouTube. Some (like Birth of a Nation) are virtually unavailable. Others are only available at indy video shops or by electronic purchase. Others you have to chance upon a friend who owns them and will let you borrow them. I think I'll be able to track them down. 
+## The Project
+
+The last 14 years have been a winding, wandering journey as far as media consumption. I've read a lot more books than seen movies: I average 40 books a year.
+
+I watch movies as they come out, in theater or on video, and go with what interests me or what friends and Rotten Tomatoes declare is a Must See. 
+
+Nevertheless, I've kept to the tortoise approach and kept watching AFI films. 
+
+In the meantime, I've delved as much as time and interest allow into foreign films. I've seen all of Andrei Tarkovsky's seven films, a few Bergmans. 
+
+I don't mind slow, non-narrative, or otherwise challenging movies, though a few have bested me. The only Great Films I have ever turned off because the mood just wasn't right were Dreams, Russian Ark, and Diary of a Country Priest (though I hope to return to them someday). 
+
+The AFI movies are almost without exception both arresting and entertaining. 
+
+
+
+## The Process
+
+At first, I started at the top of the list, going from the 1st best movie down the line. 
+
+Then I realized that it would be more sumptious to move from 100th movie up. *Yankee Doodle Dandee* (#100) is still one of the best movies I've ever seen.
+
+At this point, any systematic approach has broken down and I'm watching whichever of the remaining ten films I can get my hands on first. 
+
+
+## Access
+
+Finding the films is often tricky. Some you can rent or find free on YouTube. Some (like Birth of a Nation) are virtually unavailable. 
+
+Others are only available at indy video shops like Cinefile in Los Angeles, or by electronic purchase. 
+
+Others you have to chance upon a friend who owns them and will let you borrow them. 
+
+Still others (Duck Soup) are old enough that I count them, for all intents and purposes, as in the public domain. 
+
+I think I'll be able to track them all down eventually. 
+
+## Reviews
+
+Over the years, I've toyed with the idea of reviewing each film, at least in a paragraph or a page. However, three interlocking factors dissuaded me: (1.) the time commitment would be enormous; (2.) all these films are saturated with reviews from great film reviewers; and (3.) my film reviewing and writing skills and my perspective as a philosopher do not seem sufficiently unique to warrant yet another review. 
+
+So I've opted to enjoy them as a viewer and content myself with recommending outstanding films to friends. 
+
+## Reviewing the AFI List
+
+On the one hand, using the AFI list to direct one's movie viewing choices is certainly arbitrary. 
+
+The list is unabashedly American. Any list of Best Movies Ever full stop will have to go outside the U.S. to include The Passion of Joan of Arc, Andrei Rublev, Seventh Seal, The Decalogue, and a whole bunch of Kurosawa. Hence, I have also used [Image Journal's list](https://www.imagejournal.org/top-100-films/) in directing my next viewing. 
+
+On the other hand, the AFI list has it's place. 
+
+Some of the movies are simply entertaining and patriotic (Yankee Doodle Dandee, Best Years of our Lives, Mr. Smith Goes to Washington). As an American, I have an almost genetic disposition toward entertainment and patriotism. 
+
+The AFI list is more than parochial, though. Some of its films are truly great art (2001: A Space Odyssey, Network, Deer Hunter) that belong on any list of Best Movies Ever. 
+
+The AFI list slants towards artistic films or films that are great for being influential (Psycho, Citizen Kane). However, it is not a snob's list: It includes Star Wars, Snow White, and Singin' in the Rain, and Gold Rush. [(You can read the judging criteria here.)](http://www.filmsite.org/afi100films.html)
+
+The list is also limited in scope by the historical contingency of being composed in 1988.  In excluding films from the last 40 years or so, it does not include any Terence Malick, Darren Aronofsky, or Danny Boyle, Coen Brothers, or Pixar. That's not a flaw per se but it is a limitation. 
+
+That's why I use the AFI list as self-education about the history of the first hundred years of American cinema and not an end-all be-all. 
+
