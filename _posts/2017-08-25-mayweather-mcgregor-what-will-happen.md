@@ -104,4 +104,6 @@ When you add that McGregor was willing to take the fight because it will ["qaudr
 
 I guess on Saturday night, we'll see!
 
-## Comment below -- What do you think will happen? 
+What do you think will happen? 
+
+If you enjoyed this article, please "Recommend" below, comment, and share to your social media networks. Thanks!

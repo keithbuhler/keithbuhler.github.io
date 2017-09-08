@@ -22,3 +22,7 @@ This week, [Current reports](http://www.currentzionsville.com/2017/08/22/little-
 [Psychology today](https://www.psychologytoday.com/blog/can-t-we-all-just-get-along/201708/lincolns-reading-list-divided-nation) reports the process of self-education Abraham Lincoln followed a classical focus on the Bible, the Declaration of Independence, and Euclid's elements. 
 
 Finally, [Markets Insider](http://markets.businessinsider.com/news/stocks/Great-Hearts-Announces-Newest-Campus-in-Northwest-San-Antonio-590429) reports that the successful and growing Great Hearts Academy in Arizona has announced plans for a third campus in San Antonio to be named "Great Hearts Western Hills." Because Great Hearts is a stable and popular option in Arizona, the new campus will hit the ground running with 560 students its first year (fall 2018). The construction will have the capacity to serve 1,400. With 4,000 students already on the waiting list, it won't be long before that capacity is met. (You can read the [full report on PR Newswire here.](http://www.prnewswire.com/news-releases/great-hearts-announces-newest-campus-in-northwest-san-antonio-300506775.html))
+
+Do you have any classical news? Leave a comment below! 
+
+If you enjoyed this article, please "Recommend" below, comment, and share to your social media networks. Thanks!
