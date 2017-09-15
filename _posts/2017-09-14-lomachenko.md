@@ -27,9 +27,12 @@ They call him the "Matrix" fighter because he moves like Neo, and it's an apt ex
 
 In one fight, he hurts his hand halfway through and finishes (winning every round) using only his right hand. 
 
+<!--more-->
+
 He beats world champions one after another, without seeming to shift out of third gear. He fights defensively for a few rounds, doesn't break a sweat, downloads the opponent's strengths and weaknesses and patterns, and then goes to work. He works on guys from the side in a way that no one else does or (according to commentators) ever has. He dodges well, counters well, and attacks well. He launches 5 punch combos that actually land five punches in a row. When he wants to put you away, he becomes positively relentless and lethal. He doesn't box the same way in round 1 as round 5 or round 10. It's like watching a musical piece unfold in movements. 
 
 Breathtaking stuff. 
+
 
 
 Add to that that he is a Christian who is apparently pious and humble. He knows his talent, but pays full respect to his trainer: his father, Lomachenko Sr. Asked whether he models his style after any of the greats of the past, he said: "No. I use the style invented by my father."
