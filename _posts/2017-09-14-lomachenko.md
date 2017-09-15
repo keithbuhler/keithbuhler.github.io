@@ -33,8 +33,14 @@ He beats world champions one after another, without seeming to shift out of thir
 
 Breathtaking stuff. 
 
+Lomachenko described his approach in artistic terms: 
+
+> I try to paint in the ring. I want to show fans in one fight you can do everything. You can throw punches, throw combinations, you can defend, you can move, feint your opponent, [all] the tricks.
 
 
-Add to that that he is a Christian who is apparently pious and humble. He knows his talent, but pays full respect to his trainer: his father, Lomachenko Sr. Asked whether he models his style after any of the greats of the past, he said: "No. I use the style invented by my father."
+
+Add to all that, he is a humble guy, a Christian who is apparently pious. Of course he knows his talent, but he doesn't live out the egotistical trend that a lot of American athletes aim for. For example, he gives full credit for his excellnce to his trainer: his father, Lomachenko Sr. 
+
+Asked whether he models his style after any of the greats of the past, he said: "No. I use the style invented by my father."
 
 Have you seen Lomachenko? What do you make of him? 
