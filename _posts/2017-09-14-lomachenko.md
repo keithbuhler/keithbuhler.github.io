@@ -1,5 +1,5 @@
 ---
-title: The Music Lomanchenko 
+title: The Music of Lomanchenko 
 layout: single
 share: true
 header:
