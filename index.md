@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Welcome to keithbuhler.com
 permalink: 
 header:
       image: http://www.keithbuhler.com/images/oxford4.png
@@ -12,11 +12,11 @@ related:
 <img src="http://www.keithbuhler.com/images/keith_face.jpg" align="left" hspace="20" border="1px">
 
 
-Hi there, and welcome to my online hub for sharing new projects, connecting with people, and pursuing wisdom. I'm a philosopher and classical educator based in Los Angeles.  
+Hi there, I'm a philosopher and classical educator based in Los Angeles.  Welcome to my online hub for connecting with people and sharing new projects. 
 
-Here, you can follow the [*The Buhler Report*](/blog) for conversations about timeless wisdom and current events in [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+On this site, you can follow the [*The Buhler Report*](/blog) for conversational blog posts about timeless wisdom and current events in [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref) and various aspects of American culture. 
 
-On this site, my [students](/syllabi) can see their syllabi and other resources, while undergraduates can consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy. Also, fellow academics can explore my [academic work in virtue ethics.](/cv/) 
+Also,  [ my students](/syllabi) can see their syllabi and other resources, while undergraduates can consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy. Also, fellow academics can explore my [academic work in virtue ethics.](/cv/) 
 
 The "beta" section of this site is my [sandbox](/sandbox/), which is a bunch of fun projects I'm working on, including how to build a website like this for free. 
 
