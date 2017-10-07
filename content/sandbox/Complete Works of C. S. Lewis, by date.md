@@ -1,8 +1,10 @@
 ---
-title: complete works of C. S. Lewis
+title: Complete Works of C. S. Lewis, by date
 permalink: /lewis/
 layout: single
 ---
+
+[PDF version](/content/sandbox/Complete Works of C. S. Lewis, by date.pdf)
 
 | #  | Year | Book    | Category  (and Genre)            | Notes    |
 |----|------|---------|------------------------------|-----------|
