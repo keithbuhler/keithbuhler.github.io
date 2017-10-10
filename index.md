@@ -8,7 +8,7 @@ related:
 ---
 
 
-Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and wisdom. I'm Keith Buhler (PhD, University of Kentucky), a philosopher, classical educator, and author based in Los Angeles. You can read more about me [here.](/about)
+Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and wisdom. (You can read more about [Buhler here.](/about))
 
 [*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
 
