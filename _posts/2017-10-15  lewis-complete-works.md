@@ -16,9 +16,11 @@ permalink: /lewis-complete-works-post
 
 The list below supplies, in chronological order, all of C. S. Lewis's books. 
 
-The reason for composing this list is that many Lewis fans want to read "everything he wrote" but may have a hard time actually finding everything he wrote.  Few, if any, other online sources present this information plainly. Amazon and such places lean heavily on the books that made him most popular:  *Narnia*, *Mere Christianity* and *Screwtape Letters*. 
+The reason for composing this list is that many Lewis fans want to read "everything he wrote" but may have a hard time actually finding everything he wrote.  
 
-A narrower set of books are known and read by die-hard fans --  *Great Divorce* or *An Experiment in Criticism*. But some books even raving Lewis fans may not have heard: the theologically exploratory *Reflections on the Psalms* or the literary criticism of the poetry of Charles Williams (*Arthurian Torso*). 
+As far as I can discover, this type of exhaustive list doesn't exist on cslewis.com, Wikipedia, Goodreads, Amazon, or anywhere else.  
+
+Amazon and such places lean heavily on the books that made him most popular:  *Narnia*, *Mere Christianity* and *Screwtape Letters*. A narrower set of books are known and read by die-hard fans --  *Great Divorce* or *An Experiment in Criticism*. But some books even raving Lewis fans may not have heard: the theologically exploratory *Reflections on the Psalms* or the literary criticism of the poetry of Charles Williams (*Arthurian Torso*). 
 
 Personally, I have not read everything on the list -- the scholarly books are slow going, and the letters and many essays are hard to come by. But this list has helped me find some hidden gems in the Lewisian corpus. Hence I present it for you.
 

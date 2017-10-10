@@ -1,29 +1,29 @@
 ---
 layout: page
-title: Welcome to keithbuhler.com
+title: 
 permalink: 
 header:
-      image: http://www.keithbuhler.com/images/oxford4.png
+      image: http://www.keithbuhler.com/images/header-hume2.jpg
 related: 
 ---
 
 <br>
 
-<img src="http://www.keithbuhler.com/images/keith_face.jpg" align="left" hspace="20" border="1px">
+
+Welcome to keithbuhler.com, my online hub for connecting with people who are  virtue and wisdom. I'm Keith Buhler (PhD, University of Kentucky), a philosopher, classical educator, and author based in Los Angeles. I currently teach History, Rhetoric, and Ancient Greek at a classical school, and before that taught philosophy at Asbury University. I've written two books, and published writings in venues such as Wheatstone Academy's *Examined Life* and *The Word*. You can read more about me [here.](/about)
+
+[*The Buhler Report*](/blog) is my blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories: [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+
+Beyond this, undergraduates can find resources [here to help them decide whether or not to study philosophy](/philosophymajor) and fellow scholars can peruse my [scholarly work in virtue ethics here.](/cv/) Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects I'm working on, including art, writings, and . Thanks for visiting. 
 
 
-Hi there, I'm a philosopher and classical educator based in Los Angeles.  Welcome to my online hub for connecting with people and sharing new projects. 
 
-On this site, you can follow the [*The Buhler Report*](/blog) for conversational blog posts about timeless wisdom and current events in [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref) and various aspects of American culture. 
 
-Also,  [ my students](/syllabi) can see their syllabi and other resources, while undergraduates can consider [how](philosophy-class) and [why](/philosophymajor) to study philosophy. Also, fellow academics can explore my [academic work in virtue ethics.](/cv/) 
-
-The "beta" section of this site is my [sandbox](/sandbox/), which is a bunch of fun projects I'm working on, including how to build a website like this for free. 
 
 <br>
  
 
-<h2> Latest Post  </h2>
+<h3> Latest from the Buhler Report  </h3>
 
 <br>
 
