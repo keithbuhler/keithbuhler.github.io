@@ -2,7 +2,25 @@
 title: Complete Works of C. S. Lewis, by date
 permalink: /lewis/
 layout: single
+header: 
+      image: https://redeeminggod.com/wp-content/uploads/2013/12/CS-Lewis.jpg
 ---
+
+The list below supplies, in chronological order, all of the books C. S. Lewis wrote. 
+
+The reason for composing this list is that many Lewis fans want to read "everything he wrote" but may have a hard time actually finding everything he wrote.  Few, if any, other online sources present this information plainly. Amazon and such places lean heavily on the books that made him most popular:  *Narnia*, *Mere Christianity* and *Screwtape Letters*. 
+
+A narrower set of books are known and read by die-hard fans --  *Great Divorce* or *An Experiment in Criticism*. 
+
+But some books even raving Lewis fans may not have heard: the theologically exploratory *Reflections on the Psalms* or the literary criticism of the poetry of Charles Williams (*Arthurian Torso*). 
+
+Personally, I have not read everything on the list -- the scholarly books are slow going, and the letters and many essays are hard to come by. But this list has helped me find some hidden gems in the Lewisian corpus. Hence I present it for you.
+
+A few words about the information. First, the list has a number column, the year of composition, the title of the book, and a "category column." This column contains four main categories: fiction, scholarly books, popular non-fiction books, and essays. One could easily break things down into more subcategories, such as fiction for children (Narnia) and fiction for adults (The Cosmic Trilogy), but I opted for simplicity over a high resolution. I did put the Genre of the book in parentheses. Finally, there is a "Notes" column where I put a sentence or two of relevant information about the book. 
+
+One other feature of the list requires comment: there are quite a few redundant essay collections. I include them all, and try to clarify in the "Notes" whether there are actually any essays in the collection you couldn't read elsewhere. The problem of so many redundant essay collections is due to various publishers retaining the rights to various essays and collections. No one publisher or individual has yet  hazarded the creation of a complete and non-repetitive collection of "The Complete Essays of C.S. Lewis". And one is likely to do so for a few decades until the Lewis copyright runs out in the U.S. 
+
+Happy reading!
 
 [PDF version](/content/sandbox/Complete Works of C. S. Lewis, by date.pdf)
 
