@@ -23,8 +23,9 @@ In the case of the pious and non-ironic believers, we pray to an Object, of cour
 1. The positive effects of a prayerful posture are available to atheists, non-believers, the searching, the confused, the backslidden, etc. Why should we who actually believe jealously guard those positive effects and not share them with non-believers? Even in the absence of belief in God or participation in true religion, we can wish that outsiders enjoy the crumbs that fall from our table. 
 2. The positive effects of a prayerful posture are beneficial, *in addition to* God's answering our prayers or communicating his presence and love to us. 
 
-At the risk of opacity, I present the outline of Scruton's presentation which I transcribed as he talked. You can just make out the contours of the talk. 
+At the risk of opacity, I present the transcribed notes that I took which amount to an outline of Scruton's presentation. You can just make out the contours of the talk. 
 
+<!--more-->
 
 ## Prayer... What does it mean?
 

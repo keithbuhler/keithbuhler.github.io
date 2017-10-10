@@ -34,12 +34,12 @@ header:
 - Josh Lawmen's inspiring Essay, [*People of the Math*](/buhlerreport/math) -- "It is only important to remember that numbers are intrinsically beautiful and wonderful – we do not need to project these qualities onto them." 
 
 ## How to teach logic 
-- Read Bradley Griffith's [*A Logical Introduction*.](https://books.google.com/books?op=lookup&id=gewqjgEACAAJ&continue=https://books.google.com/books/about/A_Logical_Introduction.html%3Fid%3DgewqjgEACAAJ%26hl%3Den) Despite its imperfections, it is one of the best book on the market.
+- Read Bradley Griffith's [*A Logical Introduction*.](https://books.google.com/books?op=lookup&id=gewqjgEACAAJ&continue=https://books.google.com/books/about/A_Logical_Introduction.html%3Fid%3DgewqjgEACAAJ%26hl%3Den) Despite its imperfections, it is one of the best books on the market.
+- [Socratic Logic](http://amzn.to/2i1eClu), by Peter Kreeft
 
 
 ## Alternatives to College
-- [Uncollege Manifesto](http://www.uncollege.org/)
-- [Unschooling]()
+- [The Uncollege Manifesto](http://www.uncollege.org/)
 
 ## Home Schooling
 - [International Center for Home Education Research Reviews (Four Home school families)](http://icher.org/blog/?p=733)

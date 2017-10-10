@@ -7,23 +7,17 @@ header:
 related: 
 ---
 
-<br>
+
+Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and wisdom. I'm Keith Buhler (PhD, University of Kentucky), a philosopher, classical educator, and author based in Los Angeles. You can read more about me [here.](/about)
+
+[*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+
+Beyond this, undergraduates can find resources [here to help them decide whether or not to study philosophy](/philosophymajor) and  academics can peruse my [scholarly work in virtue ethics here.](/cv/) Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. Thanks for visiting. 
 
 
-Welcome to keithbuhler.com, my online hub for connecting with people who are  virtue and wisdom. I'm Keith Buhler (PhD, University of Kentucky), a philosopher, classical educator, and author based in Los Angeles. I currently teach History, Rhetoric, and Ancient Greek at a classical school, and before that taught philosophy at Asbury University. I've written two books, and published writings in venues such as Wheatstone Academy's *Examined Life* and *The Word*. You can read more about me [here.](/about)
-
-[*The Buhler Report*](/blog) is my blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories: [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
-
-Beyond this, undergraduates can find resources [here to help them decide whether or not to study philosophy](/philosophymajor) and fellow scholars can peruse my [scholarly work in virtue ethics here.](/cv/) Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects I'm working on, including art, writings, and . Thanks for visiting. 
-
-
-
-
-
-<br>
- 
-
-<h3> Latest from the Buhler Report  </h3>
+<center>
+<h2> The Latest from the Buhler Report </h2>
+</center>
 
 <br>
 
