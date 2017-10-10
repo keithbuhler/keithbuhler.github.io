@@ -44,7 +44,7 @@ At the risk of opacity, I present the transcribed notes that I took which amount
 3. Prayer as re-orientation of the one who prays, turning towards God/Nirvana/Brahman
 4. Liturgical prayers are precise words, in which affirmation prevails over petition. These prayers are fixed, with precise words. 
 5. The Lord’s Prayer: more a promise than a request
-6. The Hail Mary: a very special prayer, which is also a recognition of the difficulties. Desdemona’s prayer, she puts herself to bed after despairing about Othello, and prayers the Hail Mary, and then is murdered.
+6. The Hail Mary: a very special prayer, which is also a recognition of the difficulties. Desdemona’s prayer, she puts herself to bed after despairing about Othello, and prays the Hail Mary, and then is murdered.
 
 ## Liturgical prayers
 1. Humility and recognition of weakness
@@ -67,11 +67,8 @@ At the risk of opacity, I present the transcribed notes that I took which amount
 4. What difference does it make?
 
 ## Two types of prayer
-1. Those which are granted through some inner change in me
-2. Praying for strength in the face of temptation
-3. Penitence and the prayer for forgiveness
-4. Prayer that asks for some outer change which I cannot effect by any effort of my own
-5. "Bidding" prayers, and Voltaire’s ironic response
+1. First, a prayer for some inner change in me: Praying for strength in the face of temptation; Penitence and the prayer for forgiveness
+4. Second, prayer that asks for some outer change which I cannot effect by any effort of my own; "bidding" prayers, and Voltaire’s ironic response
 
 ## Being on the side of God
 1. Prayers in the OT and the Koran
