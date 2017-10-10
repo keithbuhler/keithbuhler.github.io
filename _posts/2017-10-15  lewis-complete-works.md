@@ -1,10 +1,18 @@
 ---
-title: Complete Works of C. S. Lewis, by date
-permalink: /lewis/
+title: The Complete Works of C. S. Lewis
 layout: single
-header: 
-      image: https://redeeminggod.com/wp-content/uploads/2013/12/CS-Lewis.jpg
+share: true
+header:
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+share: true
+comments: true
+tags: []
+categories: [Misc]
+excerpt_separator: <!--more-->
+permalink: /lewis-complete-works-post
 ---
+
+![header](https://redeeminggod.com/wp-content/uploads/2013/12/CS-Lewis.jpg)
 
 The list below supplies, in chronological order, all of C. S. Lewis's books. 
 
@@ -19,6 +27,10 @@ A few words about the information. First, the list has a number column, the year
 One other feature of the list requires comment: there are quite a few redundant essay collections. I include them all, and try to clarify in the "Notes" whether there are actually any essays in the collection you couldn't read elsewhere. The problem of so many redundant essay collections is due to various publishers retaining the rights to various essays and collections. No one publisher or individual has yet  hazarded the creation of a complete and non-repetitive collection of "The Complete Essays of C.S. Lewis". And one is likely to do so for a few decades until the Lewis copyright runs out in the U.S. 
 
 Happy reading!
+
+---
+
+[Permalink](/lewis)
 
 [PDF version](/content/sandbox/Complete Works of C. S. Lewis, by date.pdf)
 
