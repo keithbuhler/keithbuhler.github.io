@@ -9,21 +9,6 @@ header:
 >"The greatest service we can do to education today is to teach fewer subjects.  
 ― C.S. Lewis, *Surprised by Joy*
 
-## Introduction
-
-
-I love to learn. But before college, I didn't know very well how to learn. 
-
-In college, I became a member of the Torrey Honors Institute at Biola University. After graduating, I continued learning by becoming a classical teacher. 
-
-Since then, I've acquired 15 years experience teaching and learning from great books. I was Master Tutor at the Torrey Academy in CA and Director of High School at Veritas Academy in KY before moving to a full-time position as Humanities Teacher at Trinity Classical. 
-
-My passion is not only teaching students, but helping schools to grow and form, and advocating to the public for classical education. 
-
-I hope these resources help you not only to be a better educator, but to fall in love with learning all over again. 
-
-<!--{% include toc %} when my TOC code is rehabilitated-->
-
 
 ## What is classical education?
 
@@ -38,6 +23,16 @@ As [Founders Academy in Dallas](https://responsiveed.com/foundersdallas/about/wh
 Classical education aims to free the mind and make truly independent reasoners who are responsible adults and members of society. 
 
 That said, not everyone agrees on the details or even the outline. Still, most people agree about what classical education is *not*. Classical education is *not* a radical innovation. It is not a social experiment. It is not indoctrination, not mere college prep, and not mere technical training. 
+
+## My story
+
+I love to learn. But, before college, no one had taught me *how* to learn. In college, I became a member of the Torrey Honors Institute at Biola University where we were mentored in reading well, thinking well, and writing well.
+
+I became a classical educator myself and continued the pursuit of wisdom. Since then, I've acquired 15 years experience teaching and learning from great books. I was Master Tutor at the Torrey Academy in CA and Director of High School at Veritas Academy in KY before moving to a full-time position as Humanities Teacher at Trinity Classical. My passion is not only teaching students, but advocating for classical education among parents and the general public. I love to help schools to grow and mature.  
+
+I hope these resources help you not only to be a better educator, but to fall in love with learning all over again. 
+
+<!--{% include toc %} when my TOC code is rehabilitated-->
 
 ## Six Properties of a Good Education
 
