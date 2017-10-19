@@ -13,8 +13,9 @@ Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and
 This site offers the following resources: 
 
 1. [*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
-2. Undergraduates can find resources [here to help them decide whether or not to study philosophy](/philosophymajor). 
-3. Fellow academics can peruse my [scholarly work in virtue ethics here.](/cv/) 
+2. Fellow classical educators or interested families can find introductions and [educational resources here.](http://www.keithbuhler.com/classical-resources/)
+3. Undergraduates can find help [doing well in philosophy class](http://www.keithbuhler.com/philosophy-class) and [help deciding whether to study philosophy](/philosophymajor) or go to graduate school.  
+3. Fellow academics can peruse my [CV](/cv/) and [scholarly work in virtue ethics here.](http://www.keithbuhler.com/research/)
 4. Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. 
 
 Leave a comment on a post to share your thoughts or let me know about classical education news. Thanks for visiting. 
