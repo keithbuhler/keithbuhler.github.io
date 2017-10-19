@@ -8,11 +8,16 @@ related:
 ---
 
 
-Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and wisdom. (You can read more about [Buhler here.](/about))
+Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and wisdom. You can [get to know me on the about page.](/about)
 
-[*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+This site offers the following resources: 
 
-Beyond this, undergraduates can find resources [here to help them decide whether or not to study philosophy](/philosophymajor) and  academics can peruse my [scholarly work in virtue ethics here.](/cv/) Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. Thanks for visiting. 
+1. [*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+2. Undergraduates can find resources [here to help them decide whether or not to study philosophy](/philosophymajor). 
+3. Fellow academics can peruse my [scholarly work in virtue ethics here.](/cv/) 
+4. Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. 
+
+Leave a comment on a post to share your thoughts or let me know about classical education news. Thanks for visiting. 
 
 
 <center>
