@@ -16,17 +16,17 @@ permalink: /lewis-complete-works-post
 
 The list below supplies, in chronological order, all of C. S. Lewis's books. 
 
-The reason for composing this list is that many Lewis fans want to read "everything he wrote" but may have a hard time actually finding everything he wrote.  
+The reason for composing this list is that many Lewis fans want to read "everything he wrote" but may have a hard time actually finding everything he wrote.  As far as I can discover, this type of exhaustive list doesn't exist on cslewis.com, Wikipedia, Goodreads, Amazon, or anywhere else.  Amazon and such places lean heavily on the books that made him most popular:  *Narnia*, *Mere Christianity* and *Screwtape Letters*. A narrower set of books are known and read by die-hard fans --  *Great Divorce* or *An Experiment in Criticism*. But some books even raving Lewis fans may not have heard: the theologically exploratory *Reflections on the Psalms* or the literary criticism of the poetry of Charles Williams (*Arthurian Torso*). 
 
-As far as I can discover, this type of exhaustive list doesn't exist on cslewis.com, Wikipedia, Goodreads, Amazon, or anywhere else.  
+A few words about the information. There is a column for the year of composition, the title of the book. These are self-explanatory. 
 
-Amazon and such places lean heavily on the books that made him most popular:  *Narnia*, *Mere Christianity* and *Screwtape Letters*. A narrower set of books are known and read by die-hard fans --  *Great Divorce* or *An Experiment in Criticism*. But some books even raving Lewis fans may not have heard: the theologically exploratory *Reflections on the Psalms* or the literary criticism of the poetry of Charles Williams (*Arthurian Torso*). 
+There is a "category" column for sorting (fiction, scholarly books, popular non-fiction books, and essays) and a catch all "notes" column. One could easily break things down into more subcategories, such as fiction for children (Narnia) and fiction for adults (The Cosmic Trilogy), but I opted for simplicity over a high resolution. I did put the Genre of the book in parentheses. 
+
+Finally, there is a "Notes" column where I put a sentence or two of relevant information about the book, such as the origin of the title, or the theme of the book. 
+
+Regarding essay collections: there are quite a few redundant essay collections out there. I include them all, and try to clarify in the "Notes" whether there are actually any essays in the collection you couldn't read elsewhere. The problem of so many redundant essay collections is due to various publishers retaining the rights to various essays and collections. No one publisher or individual has yet  hazarded the creation of a complete and non-repetitive collection of "The Complete Essays of C.S. Lewis". And one is likely to do so for a few decades until the Lewis copyright runs out in the U.S. 
 
 Personally, I have not read everything on the list -- the scholarly books are slow going, and the letters and many essays are hard to come by. But this list has helped me find some hidden gems in the Lewisian corpus. Hence I present it for you.
-
-A few words about the information. First, the list has a number column, the year of composition, the title of the book, and a "category" column, containing four main categories: fiction, scholarly books, popular non-fiction books, and essays. One could easily break things down into more subcategories, such as fiction for children (Narnia) and fiction for adults (The Cosmic Trilogy), but I opted for simplicity over a high resolution. I did put the Genre of the book in parentheses. Finally, there is a "Notes" column where I put a sentence or two of relevant information about the book. 
-
-One other feature of the list requires comment: there are quite a few redundant essay collections. I include them all, and try to clarify in the "Notes" whether there are actually any essays in the collection you couldn't read elsewhere. The problem of so many redundant essay collections is due to various publishers retaining the rights to various essays and collections. No one publisher or individual has yet  hazarded the creation of a complete and non-repetitive collection of "The Complete Essays of C.S. Lewis". And one is likely to do so for a few decades until the Lewis copyright runs out in the U.S. 
 
 Happy reading!
 
