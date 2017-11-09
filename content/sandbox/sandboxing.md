@@ -55,3 +55,18 @@ Example: the Wright Brothers’ airplane
 
 Wonderland: how triviality is the mother of invention. People make the most breakthroughs where they are having the most fun. People enjoy themselves, do things for their own sake — those people are more innovative than some
 
+
+
+
+----
+
+We’re talking a lot about this tone and the comedy, how does it then reconnect to what the plot of the movie is about?
+I have no idea. Honestly, I gave it a little bit of thought, but sometimes, often I was like, You know what? I’m gonna let Marvel deal with that. That’s their department. I know how to tell a story, but I’m having so much fun subverting all of this, and like telling weird jokes and making this the weirdest Marvel movie ever. If you’ve seen my movies, you don’t hire me for any reason other than what I’ve done.
+
+So Marvel’s job really is to look after their characters, look after their source material, and make sure I don’t completely break it, or it doesn’t negatively affect the rest of the movies or how they all interweave. I don’t understand that, and I’ve never watched all those movies with the eye of like, Oh, how does this link up? Oh, what year was this when, like, Fury encountered this thing? That’s why it was a good partnership. If I’d written it and been really hung up on my words and the intricacies of the story and the Marvel lore, I probably would have had a worse time and probably would have been controlled a lot more. But as it stood, I focused on things that I think I’m good at, and Marvel gave me so much freedom to run with that and play in that sandbox, knowing that they could just keep me in my lane
+
+-- Taika Waititi, talking about Thor
+
+http://www.vulture.com/2017/11/thor-ragnarok-funniest-scene-taika-waititi.html
+
+Thor is the highest grossing Thor movie
