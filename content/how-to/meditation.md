@@ -80,25 +80,19 @@ A: Yes and no. Sometimes, after a hectic day, or busy week or month, 20 minutes 
 Q: Isn't meditation esoteric?   
 A: No, the [military](http://psychcentral.com/news/2010/02/18/mindfulness-training-helpful-for-the-military/11562.html), professional athletes, practice it as well as monks. 
 
-## Going beyond Meditation
-
-Meditation is not the height of prayer, but a good beginning for prayer. To go beyond, start [here](http://www.orthodoxprayer.org/Jesus%20Prayer.html).
-2. Frederica Mathews-Greene, ["The Jesus Prayer"](http://frederica.com/writings/kyria-the-jesus-prayer.html)
-3. Elder Sophrony, [Why the Jesus Prayer is not Meditation](http://www.orthodoxprayer.org/Articles_files/Sophrony-Jesus%20Prayer.html)
-4. The Way of the Pilgrim
-
 ## More Readings ##
 
+1. [Robert Puff, *Meditation for Health and Happiness*](http://www.amazon.com/Meditation-Health-Happiness-Robert-Puff-ebook/dp/B005XR4ANS)
 1. [Thomas Keating, *Centering Prayer*](http://www.centeringprayer.com/)
 2. [John Main, World Community for Christian Meditation](http://wccm-usa.org/)
 3. [Thomas Merton, *Spiritual Direction & Meditation*](http://amzn.to/1IBdkV5)
-4. [Robert Puff, *Meditation for Health and Happiness*](http://www.amazon.com/Meditation-Health-Happiness-Robert-Puff-ebook/dp/B005XR4ANS)
 5. [Robert Puff, *Reflections on Meditation: A Guide for Beginners*](http://www.amazon.com/Reflections-Meditation-A-Guide-Beginners-ebook/dp/B005VQUZNU/ref=pd_sim_351_2?ie=UTF8&dpID=41-IouFr2oL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=18YA35XJ68S5PAHZ53XS)
 6. [Some of the 3,000+ scientific studies on the benefits](http://liveanddare.com/benefits-of-meditation/)
 7. [JenReviews guide to meditation](https://www.jenreviews.com/how-to-meditate/)
 
 ## More Audio  ##
 
-1. The ["Calm" app](http://www.calm.com/) for iPhone and Android. 
-2. [UCLA Mindful Awareness Research Center free guided meditations](http://marc.ucla.edu/body.cfm?id=22&oTopID=22)
+2. The ["Calm" app](http://www.calm.com/) for iPhone and Android is good for beginners, with a guided introduction.
+1. The [Insight Timer](https://insighttimer.com/) for intermediate and expert. It's a simple, beautiful app for timing your meditation, tracking progress, guided meditations, making friends, and more. (Friend me on this app!)
+3. [UCLA Mindful Awareness Research Center free guided meditations](http://marc.ucla.edu/body.cfm?id=22&oTopID=22)
 
