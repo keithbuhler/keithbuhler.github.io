@@ -30,8 +30,8 @@ feature_row:
 - Philosophy of Religion    
 - Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
 - Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
-- Introduction to Philosophy ([Syllabus](/syllabus200))  
-- Introduction to Philosophy (FPA) ([Syllabus](http://www.keithbuhler.com/intro))
+- Introduction to Philosophy ([Syllabus](/introduction))  
+- Introduction to Philosophy (FPA) ([Syllabus](/intro))
 - Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 - Introduction to Logic   
 
