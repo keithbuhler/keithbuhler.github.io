@@ -16,11 +16,18 @@ Traditionally, education has had two related but distinct purposes.
 
 The first aim of education is to *liberate men and women to be fully human.* 
 
-In this aim, the successfully educated person is free, free to think, live, and thrive within his community. This is traditionally described as a liberal education: the liberal arts reading, writing, literature, rhetoric, logic, geometry, arithmetic history and so on. The liberated individual is capable of thinking for himself of leading his community of setting goals and achieving of commanding his life his property, his family to settled ends. Such a person has a distinct value for the community. He or she may serve in the role of governing, writing, leading a church or organization teaching, preaching. A class in which students might ask "Am I ever going to use this?" like history or algebra II is geared towards the subject matter not for the sake of some particular skill but simply for knowledge and the beneficial affect that that knowledge has on the developing mind. 
+In this aim, the successfully educated person is free: free to think, live, and thrive within his community. 
+
+The education aimed at freeing men and women has been traditionally described as "liberal education": the liberal arts reading, writing, literature, rhetoric, logic, geometry, arithmetic history and so on. 
+
+The liberated individual is capable of thinking for himself of leading his community of setting goals and achieving of commanding his life his property, his family to settled ends. Such a person has a distinct value for the community. He or she may serve in the role of governing, writing, leading a church or organization teaching, preaching. 
+
+A class such as algebra or ancient history, in which students are inclined to ask "when will I ever *use* this?" is a class designed to teach students knowledge for its own sake. We learn math because it is good to know math; learning math "humanizes" us. Many aspects of algebra or history are potentially useful for future application, of course, in daily life or in some professions. But the student need not know, in advance, that she will apply her knowledge someday. Rather, she should be taught that her mastery of the material is both intrinsically valuable and that it has immediate benefits for the formation of her mind.
+
 
 ## Making Society Function
 
-The second aim of education is to *equip students for their social role*. 
+The second traditional aim of education has been to *equip young people for their role in society*. 
 
 In this aim, younger members of society are prepared to be professionals, pastors, or parents. The successfully educated person is a capable of performing valuable jobs in the community, whether that "job" is a for profit trade or craft,  a non-profit service or charity, or a care-giving job such as parent or monk. 
 
@@ -52,11 +59,15 @@ One of my bosses when I worked in construction was an excellent general contract
 
 The second factor that places liberal arts in a unique position in education is perhaps best illustrated by story. 
 
-Consider farmer Charles let's suppose the farmer Charles lives in an early American Township in New England. What does he do on a typical day? He wakes up early works on harvesting or planting his crops takes care of the animals, and perhaps mends a broken tool. Then he rides his horse into town to sell milk and eggs to the town merchant by the few necessities. Then he stops by the town church to talk to the parson, confess his sins and donate a little bit of milk and cheese to the church is a tithe. On his way home he stops by the public house for a drink with his friends and talks politics in town gossip, hears and tells a few jokes, and goes on his way. At home, he eats the dinner that his wife cooked and sits around the table with his children quizzing them on their days activities. As a family. They sing a chorus or two after dinner, and sit out under the stars while he reads aloud from a book that they have acquired or inherited. Perhaps the Bible or a novel, then he goes to bed. 
+Consider a farmer named Charles, who lives in an early American Township in New England.  
+
+What does a farmer like Charles do on a typical day? He wakes up early works on harvesting or planting his crops takes care of the animals, and perhaps mends a broken tool. Then he rides his horse into town to sell milk and eggs to the town merchant by the few necessities. Then he stops by the town church to talk to the parson, confess his sins and donate a little bit of milk and cheese to the church is a tithe. On his way home he stops by the public house for a drink with his friends and talks politics in town gossip, hears and tells a few jokes, and goes on his way. At home, he eats the dinner that his wife cooked and sits around the table with his children quizzing them on their days activities. As a family. They sing a chorus or two after dinner, and sit out under the stars while he reads aloud from a book that they have acquired or inherited. Perhaps the Bible or a novel, then he goes to bed. 
 
 What we notice in this little illustration is that only part of Charles's day is taken up with the technical activity and skill of farming the rest of it is taken up with talking with friends singing with his family, reading and enjoying relationship. 
 
-Liberal education aims to equip Charles to live his life. His whole life with flourishing. What is the practical use of singing? Perhaps for a professional singer who earns their wages by singing it could be considered a practical activity. But for Charles singing is simply part of the joy of his daily life. What is the practical use of talking politics with his friends? Or looking at the stars? Charles is an excellent thinker and debates persuasively, and he knows quite a bit about the stars--but these skills do not directly concern his success as a farmer. 
+Liberal education aims to equip anyone in any walk of life, however noble or mean, to live a flourishing life. 
+
+Flourishing sometimes is tangential to one's professional or practical activity. For example, what is the practical use of singing? Perhaps for a professional singer who earns their wages by singing it could be considered a practical activity. But for Charles singing is simply part of the joy of his daily life. What is the practical use of talking politics with his friends? Or looking at the stars? Charles is an excellent thinker and debates persuasively, and he knows quite a bit about the stars -- but these skills do not directly concern his success as a farmer. 
 
 The point here is to observe that the liberal arts take aim at the specifically human side of life. To this day. They are called the humanities, history, literature and philosophy and we might include the arts, music, theater, dance, painting, sculpture, and so on. These activities though they may have a more highly specialized or professional aspect for some people, are common to all people. They are universal. Everybody philosophizes (perhaps not with profession-specific vocabulary!), everybody enjoys music, and most everybody creates something, whether it's choosing an artful outfit to wear in the morning or cooking a new dish for dinner. 
 
@@ -65,12 +76,15 @@ The liberal arts help men and women to thrive as human beings. They also serve t
 
 ## Conclusion
 
-With these two purposes of education in mind the classical school is both more modest and more ambitious in its aims, then the public school down the street. 
+With these two purposes of education in mind, we can confidently assert that the classical school is both more modest and more ambitious than the public or private school down the street. 
 
 More modest in that we have cut out the plurality of topics and subjects that the typical school includes some high schools even incorporating electives into their curriculum! By focusing on the master skills of reading, language, writing, arguing, calculating, and speaking, we leverage every minute spent in class to the greatest possible effect. Students are not only learning their subject, but they're learning how to learn. They're not only receiving the great body of knowledge that is the treasure of Western civilization, but they are recovering the lost tools of learning themselves whereby they are equipped to serve the community in myriad capacities to thrive as human beings and to continue learning for the rest of their lives.
 
-We are also more ambitious in that a quick study of history reveals just how much students are capable of learning and accomplishing by their 16th year of age-- so we hold students to that standard. Our graduates are ready to apply for useful and rewarding jobs, or to apply to the Buhler College, where they can learn a real trade from real professionals in that field. In other words, we are confidently sending these remarkable young people into a successful place in the workforce or a promising role in higher education by the age in which my generation was taking Economics, Spanish III, and preparing college applications. 
+Classical schools are also more ambitious: a quick study of history reveals just how much students are capable of learning and accomplishing by their 16th year of age-- so we hold students to that standard. Our graduates are ready to apply for useful and rewarding jobs, or to apply to the Buhler College, where they can learn a real trade from real professionals in that field. In other words, we are confidently sending these remarkable young people into a successful place in the workforce or a promising role in higher education by the age in which my generation was taking Economics, Spanish III, and preparing college applications. 
 
-Graduates of classical schools like ours are remarkably well equipped. They are engaging, articulate thinkers and sharp, capable doers. They are bright-eyed and ready to mantle the full responsibilities of adulthood in their community. Whereas in the old model high school was simply a preparation for college and college merely a preparation for a job classical schools are re-thinking a model, drawing on the best of the classical traditions and the best of our modern traditions. We are not perfect in our execution, but our graduates find that they are prepared for college a job and for a flourishing life.
+Graduating students of classical schools are remarkably well equipped. They are engaging, articulate thinkers and sharp, capable doers. They are bright-eyed and ready to mantle the full responsibilities of adulthood in their community. 
 
-Get to know our model.  We think you'll be impressed with our students. We sure are. 
+Whereas in the old model high school was simply a preparation for college and college merely a preparation for a job classical schools are re-thinking a model, drawing on the best of the classical traditions and the best of our modern traditions. 
+
+Even when not perfect in execution, classical school graduates find that they are prepared for college a job and for a flourishing life.
+
