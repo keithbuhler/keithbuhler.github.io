@@ -3,17 +3,20 @@ layout: page
 title: 
 permalink: 
 header:
-      image: http://www.keithbuhler.com/images/header-hume2.jpg
+      image: http://amadaseniorcare.com/santa-clarita-senior-care/wp-content/uploads/sites/127/2017/08/SantaClaritaBanner.jpg
 related: 
 ---
 
 
-Welcome to keithbuhler.com, an online hub for people who are pursuing virtue and wisdom. You can [get to know me on the about page.](/about)
+Welcome to my online hub for the pursuit of virtue and wisdom.
 
-This site offers the following resources: 
+[*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. 
 
-1. [*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
-2. Fellow classical educators or interested families can find introductions and [educational resources here.](http://www.keithbuhler.com/classical-resources/)
+Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+
+This site also hosts the following resources: 
+
+1. Fellow classical educators or interested families can find introductions and [educational resources here.](http://www.keithbuhler.com/classical-resources/)
 3. Undergraduates can find help [doing well in philosophy class](http://www.keithbuhler.com/philosophy-class) and [help deciding whether to study philosophy](/philosophymajor) or go to graduate school.  
 3. Fellow academics can peruse my [CV](/cv/) and [scholarly work in virtue ethics here.](http://www.keithbuhler.com/research/)
 4. Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. 
