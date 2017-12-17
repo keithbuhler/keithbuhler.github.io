@@ -98,6 +98,10 @@ This Sandbox page is a playground full of fun projects in various stages of comp
 
 ### Projects in Beta
 
+- [Why Study Philosophy?](http://www.keithbuhler.com/philosophymajor/)
+- [How to Succeed in Philosophy](http://www.keithbuhler.com/philosophy-class)
+- [Why Consider Philosophy Graduate School?](http://www.keithbuhler.com/philosophy-7-profession)
+- [Classical education resources](http://www.keithbuhler.com/classical-resources/)
 - [Unpublished writings](/unpublished-writings) Fun scraps of fiction, poetry, and screenplays that have yet to see the light of day
 - [Is Philosophy a Science?](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences. 
 - [The Yale Report of 1828 Ebook](http://www.keithbuhler.com/yalereport) -- Why this classic statement of the importance of Greek and Latin languages is still relevant today (Draft 1)
