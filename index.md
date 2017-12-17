@@ -3,61 +3,61 @@ layout: page
 title: 
 permalink: 
 header:
-      image: http://amadaseniorcare.com/santa-clarita-senior-care/wp-content/uploads/sites/127/2017/08/SantaClaritaBanner.jpg
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 related: 
 ---
 
 
-Welcome to my online hub for the pursuit of virtue and wisdom.
+Welcome to keithbuhler.com, an online hub for the pursuit of virtue and wisdom. [*The Buhler Report*](/blog) offers the recent news and timeless reflections in  pursuit of goodness, truth, and beauty. 
 
-[*The Buhler Report*](/blog) is a blog offering the recent news and timeless reflections to help you in your pursuit of goodness, truth, and beauty. 
+Scroll down for the latest posts or explore some of the main categories:  [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
 
-Scroll down for the latest post or explore some of the main categories, such as [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. 
 
-This site also hosts the following resources: 
-
-1. Fellow classical educators or interested families can find introductions and [educational resources here.](http://www.keithbuhler.com/classical-resources/)
-3. Undergraduates can find help [doing well in philosophy class](http://www.keithbuhler.com/philosophy-class) and [help deciding whether to study philosophy](/philosophymajor) or go to graduate school.  
-3. Fellow academics can peruse my [CV](/cv/) and [scholarly work in virtue ethics here.](http://www.keithbuhler.com/research/)
-4. Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. 
-
-Leave a comment on a post to share your thoughts or let me know about classical education news. Thanks for visiting. 
+Leave a comment, share your thoughts, or let me know a topic you'd like to hear discussed. Thanks for visiting. 
 
 
-<center>
-<h2> The Latest from the Buhler Report </h2>
-</center>
+-----------
+
 
 <br>
 
-{% for post in site.posts limit:1 %}
 
+{% for post in site.posts limit:10 %}
 <div>
 <center>
-<h3><font color="gray"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></font></h3>
+<h1><font color="gray"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></font></h1>
 <span class="time"> <font color="gray" font-size="2em"><i> {{ post.date | date: "%m.%d.%Y" }} / {{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if post.categories != empty and post.subheadline != NULL %} – {% endif %}{{ post.subheadline }} </i></font></span> 
 </center>
 <br>
 {{ post.content | markdownify | split:'<!--more-->' | first }}
 {% if post.content contains '<!--more-->' %}
 <a href="{{ post.url | prepend: site.baseurl }}"><i>Read the rest... </i></a><br><br>
-
 {% endif %}
 
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 {% endfor %}
+
+
 <br> 
 
 
 <center>
-<h2> Popular Posts </h2>
+<h2> Popular Posts</h2> 
 </center>
-
 <br> 
+
 
 - 07.13.2017 [**Interview with Douglas Wilson**](http://www.keithbuhler.com/classical%20education/2017/07/13/interview-douglas-wilson.html) *PITTSBURGH – June 24, 2017. Scroll down for an interview with Douglas Wilson about the future of classical education. It was filmed at the Association of Classical Christian Schools national conference, “Repairing the Ruins.”*
 
--  04.25.2017 [**"Life is Suffering", and other Jordan Peterson quotations**](http://www.keithbuhler.com/philosophy/2017/04/25/jordan-peterson-quotes.html) *We don’t understand the world. I do think the world is more like a musical masterpiece than it is like anything else. And things are oddly connected.*
+- 04.25.2017 [**"Life is Suffering", and other Jordan Peterson quotations**](http://www.keithbuhler.com/philosophy/2017/04/25/jordan-peterson-quotes.html) *We don’t understand the world. I do think the world is more like a musical masterpiece than it is like anything else. And things are oddly connected.*
 
 
 - 04.01.2017 --  [**A Recent Chapter on Deification**](http://www.keithbuhler.com/buhlerreport/philosophy/2017/04/01/deification.html) *His article clarifies what the notion of “becoming god” amounts to, and explains the various species of deifiction: political deification, deification through beauty, deification as magic, deification as imitation, Christian deification, self-deification, deification through Gnosticism. This is all historically informative and very interesting; the kicker is that he accurately covers our own fashionable form of deification: techno-deification.*
@@ -71,4 +71,40 @@ Leave a comment on a post to share your thoughts or let me know about classical 
 
 - 11.09.2016 -- [**Mini Exit Survey – Student Feelings about Trump**](http://www.keithbuhler.com/buhlerreport/politics/2016/11/09/student-trump-feelings2.html) --  *I teach 5 classes at two universities in Kentucky. So, after reading a lot about students on campus feeling terrible or unsafe after a Trump election victory...*
 
+
+
+
+
+<center>
+<h2> <a href="/categories"> Categories </a> </h2>
+</center>
+<br>
+
+* [**Classical Education**](/categories/#Classical education-ref)
+* [**Philosophy**](/categories/#Philosophy-ref)
+* [**Politics**](/categories/#Politics-ref)
+
+
+
+
+
+<center>
+<br>
+<h1> <a href="/archive"> Click here for all posts, organized by date </a> </h1>
+<br>
+<br>
+
+</center>
+
+
+
+
+
+<br>
+
+---
+
+*The opinions expressed on this site are the author’s alone and do not represent the views of any organizations he is affiliated with.*
+
+<!-- Code for posting just an excerpt (with no image) of each post. Put under heading. {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}-->
 
