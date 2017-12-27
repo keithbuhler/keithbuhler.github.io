@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header](https://images-na.ssl-images-amazon.com/images/I/51Xf6Fe2fOL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIAmznPrime%2CBottomLeft%2C0%2C-5_SCLZZZZZZZ_.jpg)
+![header](http://cnu.edu/_assets/img/CAM/CNH/Class_change_from_lawn/secondary-md.jpg)
 
 I'm happy to announce a new interview on my other blog, Advice to Christian Philosophers.com
 
@@ -21,6 +21,9 @@ Our 4th interview is with <a href="https://sites.google.com/a/cnu.edu/eric-j-sil
 Dr. Silverman is a philosopher of contemporary ethics and medieval philosophy. He did his undergraduate study at Rutgers and majored in political science and history, intending at the time to go to law school. After surviving a battle with cancer (Hodgkins-Lymphoma), he decided to study philosophy(!). He earned his MA from Baylor and Ph.D. from St. Louis University under the guidance of Eleonore Stump.<br />
 <br />
 His first book,&nbsp;<i><a href="http://amzn.to/2z1rcV0" target="_blank">The Prudence of Love</a></i>&nbsp;(Lexington Press), argues that love is a virtue which benefits those who practice it.<br />
+
+![book](https://images-na.ssl-images-amazon.com/images/I/51Xf6Fe2fOL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIAmznPrime%2CBottomLeft%2C0%2C-5_SCLZZZZZZZ_.jpg)
+
 <br />
 With a penchant for fascinating topics, Silverman's most recent volume is <i><a href="http://amzn.to/2yhX6Py" target="_blank">Paradise Understood: New Philosophical Essays about Heaven</a>:&nbsp;</i><br />
 <i><br /></i>

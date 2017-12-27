@@ -1,5 +1,5 @@
 ---
-title: The Alcuin Retreat
+title: The Alcuin Retreat (Updated)
 layout: single
 share: true
 header:
@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header](http://scriptoriumdaily.com/wp-content/uploads/2009/05/Raban-Maur_Alcuin_Otgar.jpg)
+![header](https://i.ytimg.com/vi/JNgYzh-B3U8/maxresdefault.jpg)
 
 Fun update: I went to New York a couple of weeks ago for the Alcuin Retreat. Alcuin is a retreat for teachers and administrators at classical schools. The Society of Classical Learning puts on the Alcuin Retreat every year, with the leadership of [Dr. Chris Perrin.](https://classicalacademicpress.com/consulting/dr-christopher-perrin/) I'm also excited to visit King's College and meet Dr. Thornbury, about whom I've heard many good things.
 
