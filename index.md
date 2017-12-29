@@ -8,13 +8,11 @@ related:
 ---
 
 
-Welcome to keithbuhler.com, an online hub for the pursuit of virtue and wisdom. [*The Buhler Report*](/blog) offers the recent news and timeless reflections in  pursuit of goodness, truth, and beauty. 
+Welcome to keithbuhler.com, an online hub for pursuing wisdom through humility.
 
-Scroll down for the latest posts or explore some of the main categories:  [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref). 
+[*The Buhler Report*](/blog) is a blog covering recent news and timeless reflections on a variety of topics. The main themes are [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref), high culture, and popular culture.
 
-Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects such as art, interviews with philosophers, and more. 
-
-Leave a comment, share your thoughts, or let me know a topic you'd like to hear discussed. Thanks for visiting. 
+Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects including art, fiction, and interviews with philosophers. Leave a comment, share your thoughts, and let me know which topics you'd like to hear discussed. Thanks for visiting. 
 
 
 -----------
