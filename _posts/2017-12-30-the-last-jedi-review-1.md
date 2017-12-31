@@ -27,9 +27,13 @@ Here's my bottom line review of The Last Jedi: the Rian Johnson hit his target i
 
 That is, he accomplished exactly what he set out to do; he satisfied his own criterion. 
 
-The question (for audiences and critics) is whether he was aiming at the right target. If you agree with his target, you'll love the movie; if not, you'll hate it. I've not read or heard many  reviews that were lukewarm. Either Johnson improved Star Wars or "ruined" Star Wars. 
+The question (for audiences and critics) is whether he was aiming at the right target. If you agree with his target, you'll love the movie; if not, you'll hate it. 
+
+I've not read or heard many  reviews that were lukewarm. Either Johnson improved Star Wars or "ruined" Star Wars. 
 
 ## Goals
+![TLJ ratiings](/images/lastjedi5050.png)
+
 
 In my review, I have three goals.
 
@@ -37,31 +41,15 @@ First, I want to argue that TLJ is a truly good film. I think it's Rian Johnson'
 
 Second, I want to argue that people are justified in not liking it. I get it. TLJ is weird and disappointing and destructive. It changes things and plays fast and loose with sacred elements of the franchise. 
 
-![TLJ ratiings](/images/lastjedi5050.png)
-
-In other words, my I want to explain why this movie is so divisive and help each side understand the other. 
-
-Almost half the movie going audience hated the dang thing; and almost half loved it.  The film is slightly less divisive than Donald Trump, but only slightly. 
-
-To call any movie good, you have to defend a criterion of "goodness". What should the film be aiming to do, and does it do it? So my third goal is to define, and ultimately defend, the bullseye Johnson was trying to hit. 
+Third, I want explain and defend the expectations that one must have in order to enjoy the movie. 
 
 
+I've been very curious to understand why this movie is so divisive.   Almost half the movie going audience hated the dang thing; and almost half loved it.  The film is slightly less divisive than Donald Trump, but only slightly. 
 
-<!--more-->
-
-
-## Criteria?
-
-![Poe, Rey, Finn](https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/star-wars-the-last-jedi-poe-rey-and-finn1.jpg)
+It'd be nice for some more reviews that help each side understand the other. 
 
 
-My two criteria are first, that *The Last Jedi* is a fun, entertaining movie that managed to defy expectations. The first thing TLJ had to do to please fans was surprise them. That's a tall order after two years of fan speculation about Leia's fate, Rey's origin, Luke's role in all this, Snoke's identity, and more. Johnson managed to play the "con-man" to our confidence and deliver multiple big surprises, even up to the last scenes. For me, that was satisfying. 
-
-Secondly, TLJ does something I thought impossible after the Prequels and Episode VII; it *improves* Star Wars. 
-
-Episode VIII is "more Star Wars-y" than Episode II, written by George Lucas himself.
-
-Of course, to assert something that crazy requires justification: what makes a Star Wars movie "Star Wars"? What is the essence of Star Wars? What does "being Star Wars-y" mean? That's a much harder question I'll try to tackle later. 
+## Why this film is "So X"
 
 All that said, I won't fault anyone for disliking or even hating the movie. I've tried to read and hear as many negative reviews as possible to try and understand the fan experience of this film. In important ways, TLJ does violence to many aspects of "Star Wars." So I'll try to discuss the most common complaints below. 
 
@@ -69,18 +57,37 @@ Personally, I enjoyed every minute of it. This is a movie I will re-watch with p
 
 That said, there's no accounting for taste. I won't try to convince you that you "should" like the movie, or that it's wrong to be disappointed. 
 
-Instead, I'll try to convince you that there is a mindset or set of expectations in which you can enjoy the movie, and a mindset or set of expectations in which you just cannot. 
+
+## Criteria?
+
+![Poe, Rey, Finn](https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/star-wars-the-last-jedi-poe-rey-and-finn1.jpg)
+
+To call any movie good, you have to defend a criterion of "goodness". What should the film be aiming to do, and does it do it? 
+
+You may not enjoy the movie, even if you agree with me. However, I'd like to convince a few people that there is a mindset or set of expectations in which you can enjoy the movie, and a mindset or set of expectations in which you just cannot. 
+
+What was the bullseye Johnson was trying to hit? What were the expectations that, if you had them going into the theater, you came out satisfied? 
+
+My two criteria are first, that *The Last Jedi* is a fun, entertaining movie that managed to defy expectations. 
+
+TLJ had to do to please fans by surprising them. That's a tall order after two years of fan speculation about Leia's fate, Rey's origin, Luke's role in all this, Snoke's identity, and more. Johnson managed to play the "con-man" to our confidence and deliver multiple big surprises, even up to the last scenes. For me, that was satisfying. 
+
+Secondly, TLJ does something I thought impossible after the Prequels and Episode VII; it *improves* Star Wars. 
+
+Episode VIII is "more Star Wars-y" than Episode II, written by George Lucas himself.
+
+Of course, to assert something that crazy requires justification: what makes a Star Wars movie "Star Wars"? What is the essence of Star Wars? What does "being Star Wars-y" mean? That's a much harder question I'll try to tackle later. 
+
 
 
 ## Conclusion
 
 ![rey and luke](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5x9CHNBp2kaVJdHHWu4r1laf_TIjNTI5yflDbUWm6s9jsMUum1w)
 
-So, in sum, I want to defend the film by defining the criterion of success and explaining what 'mindset' makes it enjoyable, and then consider the biggest the complaints and objections and the 'mindset' that makes the film miserable. 
+So, in sum, in these reviews my goal is to defend the film by defining the criterion of success and explaining what 'mindset' makes it enjoyable, and then consider the biggest the complaints and objections and the 'mindset' that makes the film miserable. 
 
 Why care this much about a movie? Because I think it represents a deeper challenge to our approach to change, to succession, to an artistic legacy like that of Lucas. Also because I want more people to enjoy this film as much as I did. (I know that desire is hopeless.)
 
 So here goes.  
-
 
 [The Last Jedi Review Part 2 (SPOILERS) -- The Weird Big Picture]()
