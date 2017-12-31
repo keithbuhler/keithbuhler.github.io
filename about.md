@@ -24,10 +24,18 @@ header:
 
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
 
-Keith Buhler (PhD, University of Kentucky) is a philosopher, classical teacher, and writer from Los Angeles. He currently holds a position of instructor of humanities at a classical school in CA. Before that, he taught philosophy at Asbury University. He uses humor and Socratic dialogue to engage students in [a truly classical education.](http://www.keithbuhler.com/classical-education/) He inspires students to ask hard questions about Great Books, film, music, and their own lives. 
+Keith Buhler is a philosopher, classical teacher, and writer based out of Los Angeles. 
 
-Buhler has written two books, including one self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition and a philosophy dissertation in contemporary analytic virtue ethics titled [Becoming What We Are](/phd). His writings on classical education have been published in Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com among others. 
+He currently holds teaches History, Greek Language, and Bible at a classical school in CA. Before that, he was a philosophy instructor at Asbury University and post-doc at the University of Kentucky. 
 
-In early 2017, Buhler completed a [Ph.D.](/phd) in Philosophy under [David Bradshaw](https://uky.academia.edu/DBradshaw) and also holds an M.A. in Orthodox Theology from the University of Balamand and a B.A. in Humanities from Biola University.  
+Buhler aims to invite everyone to pursue wisdom through humility. He uses dialog to ask hard questions about Great Books, history, and life itself, including high culture and pop culture. 
 
-He is happily married to one of the world's Perfect Women and has three children but no dogs or cats. In his 20 minutes of spare time per month, Buhler is a devout amateur who believes in creating for the sake of art, rather than return. He writes screenplays, poetry, and fiction, in addition to drawing, painting, sculpting, and singing tenor. 
+Buhler has written two books: the first was a self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. 
+
+The second, a philosophy dissertation in contemporary analytic virtue ethics titled [Becoming What We Are](/phd). 
+
+His writings on classical education have been published in Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com among others. 
+
+He completed a [Ph.D.](/phd) in Philosophy under [David Bradshaw](https://uky.academia.edu/DBradshaw) and also holds an M.A. in Orthodox Theology from the University of Balamand and a B.A. in Humanities from Biola University.  
+
+He is happily married to one of the world's Perfect Women and has three children -- but no dogs or cats. In his 20 minutes of spare time per month, Buhler is a devout amateur who believes in creating for the sake of art, rather than return. He writes screenplays, poetry, and fiction, in addition to drawing, painting, sculpting, and singing tenor. 
