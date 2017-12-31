@@ -23,7 +23,6 @@ What in the world is Episode IX going to be about?
 
 Chris Terrio and JJ Abrams have to write a chapter to follow the Last Jedi (TLJ). Doing so is going to be almost impossible. I'll try to explain why later... But just think about it: What is it going to be about? 
 
-
 Here's my bottom line review of The Last Jedi: the Rian Johnson hit his target in the bullseye. 
 
 That is, he accomplished exactly what he set out to do; he satisfied his own criterion. 
@@ -38,7 +37,7 @@ First, I want to argue that TLJ is a truly great film.
 
 Second, I want to argue that people are justified in not liking it. 
 
-![TLJ ratiings]()
+![TLJ ratiings](/images/lastjedi5050.png)
 
 In other words, I want to explain why this movie is so divisive and help each side understand the other. 
 
@@ -77,3 +76,4 @@ Why care this much about a movie? Because I think it represents a deeper challen
 So here goes.  
 
 
+[The Last Jedi Review Part 2 (SPOILERS) -- The Weird Big Picture]()
