@@ -9,7 +9,7 @@ comments: true
 tags: [culture]
 categories: [Culture]
 excerpt_separator: <!--more-->
-permalink: /thelastjedi
+permalink: /thelastjedi2
 ---
 
 ![header](https://static.rogerebert.com/uploads/review/primary_image/reviews/star-wars-the-last-jedi-2017/hero_Last_Jedi.jpg)
