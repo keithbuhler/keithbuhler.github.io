@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: /thelastjedi
 ---
 
-![header](http://starwarsblog.starwars.com/wp-content/uploads/2017/01/sw-the-last-jedi-tall-B.jpg)
+![header](https://static.rogerebert.com/uploads/review/primary_image/reviews/star-wars-the-last-jedi-2017/hero_Last_Jedi.jpg)
 
 
 ## A Paradoxical Big Picture
@@ -32,10 +32,12 @@ The only way to meet paradoxical demands is with a paradoxical solution.
 In my view, TLJ met all the impossible expectations by being impossibly good. It did contradictory things at the same time and somehow worked.
 
 
-<!--more-->
 
 
 ## Setting Expectations
+
+![image](http://mammothgamers.com/wp-content/uploads/2017/09/star-wars-the-last-jedi-credit-disney-lucasfilm.jpg)
+
 
 TLJ was comfortably familiar: the opening space battle against impossible odds, the "run and chase" plot that doesn't really matter (remember the "run from the Empire" plot of *Empire Strikes Back*?), an awesome light-saber battle, the unbreakable bond between Luke and Leia, the "Resistance" forces are back to being called "Rebels", AT-AT Walkers, an ice planet -- scratch that, salt planet.  The best moment of the film -- Luke gazing into the sunset on Ahch Tu -- was powerful in its own right and recalled the best moment in the Star Wars Saga -- Luke gazing into the twin sunset on Tatooine. 
 
@@ -45,6 +47,9 @@ Ask yourself, though: How much of your love or hatred of the movie arises from t
 
 
 ## It Had to Be Weird
+
+![holdo](https://vignette.wikia.nocookie.net/starwars/images/e/e1/Amilyn_Holdo_Ellen.png/revision/latest?cb=20171019165909)
+
 
 Then ask yourself: what else could Johnson do? 
 
@@ -72,7 +77,9 @@ The only expectation you needed to enjoy this film was to expect the unexpected.
 
 If that was your expectation, that's exactly what you got. 
 
+If you want to enjoy this movie, it's up to you. Don't complain that it was too different from the original trilogy or Episode VII. Be grateful it wasn't too similar. "This is how we win: not by fighting what we hate, but by saving what we love." That line, from Rose, was the second most important line of the film. 
 
+The first most important is coming soon...
 
 [The Last Jedi Review Part 3 (SPOILERS) -- LL the Complaints]()
 
