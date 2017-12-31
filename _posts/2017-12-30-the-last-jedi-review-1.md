@@ -92,4 +92,4 @@ Why care this much about a movie? Because I think it represents a deeper challen
 
 So here goes.  
 
-[The Last Jedi Review Part 2 (SPOILERS) -- The Weird Big Picture]()
+[The Film Had to Be Weird -- The Last Jedi Review Part 2 (SPOILERS) -- ](http://www.keithbuhler.com/thelastjedi2)
