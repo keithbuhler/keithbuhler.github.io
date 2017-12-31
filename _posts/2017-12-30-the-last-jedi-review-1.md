@@ -23,11 +23,13 @@ What in the world is Episode IX going to be about?
 
 Chris Terrio and JJ Abrams have to write a chapter to follow the Last Jedi (TLJ). Doing so is going to be almost impossible. I'll try to explain why later... But just think about it: What is it going to be about? 
 
-Here's my bottom line review of The Last Jedi: the Rian Johnson hit his target in the bullseye. 
+Here's my bottom line review of The Last Jedi:  Rian Johnson hit *a* target in the bullseye. 
 
 That is, he accomplished exactly what he set out to do; he satisfied his own criterion. 
 
-The question (for audiences and critics) is whether he was aiming at the right target. If you agree with his target, you'll love the movie; if not, you'll hate it. 
+But was it the right target to aim for? 
+
+The question (for audiences and critics) is whether he was aiming for the right thing. If you agree with his target, you'll love the movie; if not, you'll hate it. 
 
 I've not read or heard many  reviews that were lukewarm. Either Johnson improved Star Wars or "ruined" Star Wars. 
 
