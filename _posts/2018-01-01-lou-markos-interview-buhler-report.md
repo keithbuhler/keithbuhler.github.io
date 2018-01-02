@@ -1,5 +1,5 @@
 ---
-title: "Real virtue will win out every time," An interview with Louis Markos
+title: Real virtue wins out every time
 layout: single
 share: true
 header:
