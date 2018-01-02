@@ -1,5 +1,5 @@
 ---
-title: What's Your Expectation? The Last Jedi Review Part 1 (NO SPOILERS)
+title: All about Expectations -- The Last Jedi Review Part 1 (NO SPOILERS)
 layout: single
 share: true
 header:

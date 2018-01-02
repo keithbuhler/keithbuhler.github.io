@@ -1,5 +1,5 @@
 ---
-title: It Had to be Weird: The Last Jedi Review, Part 2 (SPOILERS) 
+title: It Had to be Weird -- The Last Jedi Review, Part 2 (SPOILERS) 
 layout: single
 share: true
 header:
