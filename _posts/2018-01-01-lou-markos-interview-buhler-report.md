@@ -1,5 +1,5 @@
 ---
-title: "Real virtue will win out every time." --Louis Markos Interview
+title: "Real virtue will win out every time," An interview with Louis Markos
 layout: single
 share: true
 header:
@@ -9,7 +9,7 @@ comments: true
 tags: [classical education, Lou Markos, CS Lewis]
 categories: [Classical education]
 excerpt_separator: <!--more-->
-permalink: 
+permalink: /markos
 ---
 
 ![header](https://d3kgabqf7qmx2w.cloudfront.net/media/personnel/profile_pictures/Louis_Markos.jpg)
@@ -18,17 +18,21 @@ I'm happy to announce a new interview with a classical educator, Dr. "Lou" Marko
 
 In this talk, Dr. Markos explains next steps for classical educators, how we can win the culture war by being Frodo, why you shouldn't go to Yale or Harvard especially if you could, and more. 
 
-If you enjoy it, please, "like", comment, and "subscribe". I have one more interview to edit and post soon, and more coming up!
+(Some of the audio quality isn't the best, but it's audible -- thanks for your patience!)
+
+If you enjoy this interview, please, "like", comment, and "subscribe". I have one more interview to edit and post soon, and more coming up! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GI7etgHrb4o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 Thanks Dr. Markos for taking the time!
 
-Check out Markos' BOOKS: http://amzn.to/2CgofFr
+Check out [Markos' Books here.](http://amzn.to/2CgofFr) 
 
-And his page at HBU: www.Loumarkos.com
+And [his page at HBU here.](www.Loumarkos.com)
 
-Main quotes: “Preserve masculinity and femininity”. "At a classical school people are healthy of body, mind, and soul. There is real eagerness." 
+Some key quotes: 
 
-(Some of the audio quality isn't the best, but it's audible -- thanks for your patience!)
+- “Preserve masculinity and femininity!”.
+- "At a classical school people are healthy of body, mind, and soul. There is real eagerness." 
+

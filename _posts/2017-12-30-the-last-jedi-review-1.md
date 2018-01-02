@@ -1,5 +1,5 @@
 ---
-title: The Last Jedi Review (NO SPOILERS) Part 1
+title: What's Your Expectation? The Last Jedi Review Part 1 (NO SPOILERS)
 layout: single
 share: true
 header:
@@ -49,6 +49,9 @@ Third, I want explain and defend the expectations that one must have in order to
 I've been very curious to understand why this movie is so divisive.   Almost half the movie going audience hated the dang thing; and almost half loved it.  The film is slightly less divisive than Donald Trump, but only slightly. 
 
 It'd be nice for some more reviews that help each side understand the other. 
+
+
+<!--more-->
 
 
 ## Why this film is "So X"

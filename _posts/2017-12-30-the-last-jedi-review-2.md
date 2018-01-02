@@ -1,5 +1,5 @@
 ---
-title: The Last Jedi Review Part 2 (SPOILERS)
+title: It Had to be Weird: The Last Jedi Review, Part 2 (SPOILERS) 
 layout: single
 share: true
 header:
@@ -45,6 +45,8 @@ Also, TLJ was uncomfortably new: the irreverent humor, the Rose sub-plot, the al
 
 Ask yourself, though: How much of your love or hatred of the movie arises from the new, different, and weird stuff? 
 
+
+<!--more-->
 
 ## It Had to Be Weird
 
