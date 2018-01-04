@@ -8,9 +8,9 @@ related:
 ---
 
 
-Welcome to keithbuhler.com, an online hub for pursuing wisdom through humility.
+Welcome to keithbuhler.com, an online hub for the humble pursuit of wisdom. 
 
-[*The Buhler Report*](/blog) is a blog covering recent news and timeless reflections on a variety of topics. The main themes are [classical education](/categories/#Classical education-ref), [academic philosophy](/categories/#Philosophy-ref), and [conservative politics](/categories/#Politics-ref), high culture, and popular culture.
+[*The Buhler Report*](/blog) is a blog covering recent news and timeless reflections on a variety of topics. The main themes are [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), [politics](/categories/#Politics-ref), and culture, both high and popular. 
 
 Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects including art, fiction, and interviews with philosophers. Leave a comment, share your thoughts, and let me know which topics you'd like to hear discussed. Thanks for visiting. 
 
