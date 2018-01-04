@@ -51,11 +51,33 @@ Episode VII, The Force Awakens made a few playful quips about "That's not how th
 According to Johnson's New and Improved concept of the Force, it is a balance between light and dark, life and death, that does not belong just to Jedi. 
 
 
+- Luke Skywalker: Breathe. Just breathe. Now reach out. What do you see? 
+- Rey: Light. Darkness. A balance. 
+- Luke Skywalker: It's so much bigger.
+
+... 
+
+- Luke Skywalker: What do you see?
+- Rey: The island. Life. Death and decay, that feeds new life. Warmth. Cold. Peace. Violence.
+- Luke Skywalker: And between it all?
+- Rey: Balance and energy. A force.
+- Luke Skywalker: And inside you?
+- Rey: Inside me, that same force.
+
+
+I don't know exactly what all this means, but it actually sounds worth thinking through. There might be something to it. 
+
+That's an achievement. 
+
 ## 3. The Plot is Perfect 
 
 I know, there are big complaints with the plot. But hear me out. 
 
-Plot is "value reversal" to quote Robert McKee. Plot is what happens and what is revealed; it is what characters *do* and what they *discover*. A movie's plot has to show the movement from A -> B. In a Rom Com, the plot is the transition from lonely and single to happily married; in a horror movie it's the transition from safe and alive to scarred and dead. In a Star Wars movie the "plot" is the balance between light and dark, not just whether or not the Death Star has been destroyed. 
+To paraphrase screenwriting guru Robert McKee, [plot is "value reversal".](https://www.slideshare.net/jucaitis/the-elements-of-story-by-robert-mckee) Plot is the change from a starting condition to the final condition. 
+
+Plot can be either *what happens* or *what is revealed*; it can be what characters *do* and what they *discover*. 
+
+A movie's plot has to show the movement or transformation from state A to  B: In a Rom Com, the plot is the transition from lonely and single to happily married; in a horror movie it's the transition from safe and alive to scarred and dead. In a Star Wars movie the "plot" is the balance between light and dark, not just whether or not the Death Star has been destroyed. 
 
 TLJ begins with a space battle between the First Order (at the height of its powers) and the Resistance. It ends with the First Order basically victorious, taking some losses but almost snuffing out the Resistance entirely. All the remaining souls in the Resistance fit on the Millennium Falcon and zero of the resistance sympathizers who are  “scattered in the outer rim” responded to Leia’s distress signal.
 
@@ -65,6 +87,10 @@ It begins with Rey, handing Luke his old lightsaber, askin him to join the Resis
 
 All of this is perfectly good stuff. 
 
+## Two Big Objections
+
+![dreadnought](https://i0.wp.com/thekingdominsider.com/wp-content/uploads/2017/08/First-Order-Dreadnought-snoke-star-destroyer.jpg?resize=786%2C387)
+
 Most of the complaints about the plot are complaints about (a) the "run and chase" Macguffin or (b) the Canto Bight sequence. 
 
 First, *it is* lame that the First Order just puts it in autopilot and chases the Resistance Fleet. But it's not unacceptably lame. Because this movie is not about the First Order / Resistance chase scene. It's about Rey, Kylo, Snoke, Luke. It's about hope, failure, and balance. 
@@ -73,7 +99,11 @@ On these main themes, the movie is tightly constructed: Snoke is dead, but so is
 
 The Resistance is hurt badly, but there may already be allies born (the slave children on Canto Bight) who will soon be old enough to fight, especially if they are inspired by harrowing tales of of the heroism of Luke Skywalker. 
 
-Secondly, the Canto Bight sequence is not pointless. It shows us a third segment of the Star Wars galaxy: the polished, clean, rich kind of villainy. We've seen the Emperor's sinister darkness, the Ewok's natural goodness, Jabba's dirty ignobility. We've now seen a slick form of evil, the degeneracy of the casino and the [nearly lethal comforts of the luxory cruise.](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
+Secondly, the Canto Bight sequence is not pointless. It shows us a third segment of the Star Wars galaxy: the polished, clean, rich kind of villainy. We've seen the Emperor's sinister darkness, the Ewok's natural goodness, Jabba's dirty ignobility. We've now seen a slick form of evil, the degeneracy of the casino and the [nearly lethal comforts of the luxory cruise.](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf) Canto Bight is everything wrong with Monte Carlo, Vegas, Cruise Ships, the Derby. Even if you disagree that being rich makes you evil, there are special evils particular to the rich. 
+
+![canto bight](https://screenrant.com/wp-content/uploads/2017/05/Canto-Bight-residents-from-Star-Wars-The-Last-Jedi.jpg)
+
+
 
 Canto Bight also introduces us to the child with the broom who is likely to be the hero of a new Star Wars movie, or potentially [even a new trilogy.](https://www.hollywoodreporter.com/heat-vision/star-wars-last-jedi-rian-johnson-new-trilogy-1068535) This child also confirms that the shocking revelation about Rey's parents is true, and not just a lie from Kylo. Rey is a "nobody" from "nowhere" and yet she is a rockstar with the Force. That child with the broom proves, as Ratatouille does, that not everyone can be a great Jedi but a great Jedi can come from anywhere. 
 
