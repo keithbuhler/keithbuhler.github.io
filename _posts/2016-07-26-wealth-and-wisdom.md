@@ -5,8 +5,7 @@ tags: [philosophy, wisdom, money]
 categories: [Philosophy]
 permalink: 
 header:
-    image: 
-    teaser: http://www.motivatingthemasses.com/wp-content/uploads/2016/06/wisdom_wealth_series.jpg
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 excerpt_separator: <!--more-->
 teaser: 
 author_profile: false
@@ -17,7 +16,7 @@ related: false
 
 
 
-<img src="http://www.motivatingthemasses.com/wp-content/uploads/2016/06/wisdom_wealth_series.jpg"> 
+![charlie](https://i.ytimg.com/vi/u65lvwfTPtM/maxresdefault.jpg)
 
 One of my goals after college graduation was to read the complete works of Plato. The ["big red book"](http://amzn.to/2ats88l), as it was affectionately known in my [honors program](http://academics.biola.edu/torrey/), included spurious works that were probably not written by Plato himself but by "pseudo-Plato", one of his students or admirers.
 

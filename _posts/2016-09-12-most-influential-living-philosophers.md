@@ -8,8 +8,7 @@ comments: true
 author_profile: false
 share: true
 header:
-    image: 
-teaser: http://74g2t4f911l3d46ma3e1dgr1.wpengine.netdna-cdn.com/wp-content/uploads/2016/07/50-most-influential-living-philosophers4-740x416.jpg
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 excerpt_separator: <!--more-->
 
 ---
