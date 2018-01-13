@@ -1,10 +1,10 @@
 ---
-title: "Life is Suffering", and Other Jordan Peterson Quotes
+title: Life is Suffering --  and Other Jordan Peterson Quotes
 categories: [Philosophy]
 header: 
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://i2.wp.com/jordanbpeterson.com/wp-content/uploads/2016/10/jordan-smaller-size-bw.jpg?resize=1024%2C683
-permalink: /buhlerreport/philosophy/academia/2017/04/25/jordan-peterson-quotes.html
+permalink: /philosophy/academia/2017/04/25/jordan-peterson-quotes.html
 
 layout: single
 tags: []
