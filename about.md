@@ -8,6 +8,7 @@ header:
 
 <br> 
 
+
 * "Makes philosophy come alive"  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
 * "A good-conversation machine" --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
