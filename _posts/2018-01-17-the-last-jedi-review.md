@@ -147,15 +147,17 @@ If the film didn't ask audiences to expand and stretch their definition of Star 
 
 TLJ was undeniably "weird". It was weird in ways that are idiosyncratic to Johnson alone. I would guess that's why Kathleen Kennedy chose him to direct. She was right to do so. 
 
-Star Wars was either going to turn down the safe "remake Empire Strikes Back" or make a sharp left turn and become... weirder. Bodhisattva Luke weird. Super Leia space flight weird. Monte Carlo horse racing weird. Purple-hair Holdo weird. 
+Star Wars was either going to turn down the safe "remake Empire Strikes Back" path or else make a sharp left turn and become... weirder: Bodhisattva Luke weird. Super Leia space flight weird. Monte Carlo horse racing weird. Purple-hair Holdo weird. 
 
 
 What else could Johnson do? 
 
-If the answer is "Nothing", then a lot of complaints become moot. Yes, it was weird. But if the only other option was to have JJ Abrams remake Episode V with slight variations, then a whole other set of fans would have complained, and rightly so, for that very reason. 
+If you admit that there is nothing else Johnson coudl do, then a lot of complaints become moot. Yes, it was weird. But if the only other option was to have JJ Abrams remake Episode V with slight variations, then a whole other set of fans would have complained, and rightly so, for that very reason. 
 
 
-Again, was TLJ a good movie? Did it satisfy expectations? Did it please fans and critics? It was a good movie by simultaneously satisfying *some* expectations and defying others. 
+Again, we can ask whether TLJ a good movie and whether it pleased the fans and satisfied expectations. 
+
+Now we can answer more exactly: It was a good movie by simultaneously satisfying *some* expectations and defying others. 
 
 The only expectation you needed to enjoy this film was to expect the unexpected. Expect a movie about con-men, time travel, and whodunnit mysteries, because that's what Johnson is good at. 
 
@@ -171,11 +173,11 @@ The *most important* is coming soon...
 ![header](http://starwarsblog.starwars.com/wp-content/uploads/2017/01/sw-the-last-jedi-tall-B.jpg)
 
 
-TLJ is a truly good film. 
+Now I'd like to argue the really hard thesis that TLJ is a truly good film. 
 
-As a basic necessity, it successfully looks, sounds, and "feels" like Star Wars. That doesn't make the movie great but it helps. 
+First, we have to start with the less controversial stuff: it looks and sounds like Star Wars. That's a low bar, but it clears the bar. It successfully looks, sounds, and "feels" like Star Wars. That doesn't make the movie great but it helps. 
 
-Also, the acting is the best out of any Star Wars movie (except perhaps Rogue One). Leia's acting was better than passable, unlike The Force Awakens. Luke's acting is better than the Original Trilogy. Rey's acting has even come along, and Kylo Ren is even better than he was before (and still the best of the bunch). 
+Second, the acting is the best out of any Star Wars movie (except perhaps Rogue One). Leia's acting was better than passable, unlike The Force Awakens. Luke's acting is better than the Original Trilogy. Rey's acting has even come along, and Kylo Ren is even better than he was before (and still the best of the bunch). 
 
 The acting and special effects and so on don't make a movie great, but I point them out because even the most aggrieved haters are admitting that they were good. Start with the obvious.
 
@@ -273,3 +275,7 @@ Episode VIII has flaws. And I understand if you hate it.
 But for these reasons, among others, I think it's Rian Johnson's best by far followed by Looper and Brother's Bloom. 
 
 My sense is that it is *probably* better than Rogue One or Episode VII, but I'm open to negotiating that.
+
+But with all that said -- it defied expectations, added to the Star Wars Universe, opening up possibilities by ruining simplistic plans for Episode IX. 
+
+It was a surprising movie that made all of us wonder what in the wide galaxy will come next. And restoring that wonder was worth the price of admission.
