@@ -1,26 +1,12 @@
 ---
 layout: page
-title: About The Buhler Report
+title: About Buhler
 permalink: /about/
 header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 --- 
 
 <br> 
-
-
-[*The Buhler Report*](/blog) is a blog about recent news and timeless truths. The intended audience is anyone pursuing wisdom. 
-
-The main themes include [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), [politics](/categories/#Politics-ref), as well as high culture and pop culture. 
-
-Leave a comment, share your thoughts, and let me know which topics you'd like to hear discussed. Thanks for visiting. 
-
-Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects including art, fiction, and interviews with philosophers. 
-
-
-
-# About Buhler
-
 
 
 * "Makes philosophy come alive"  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
@@ -43,10 +29,8 @@ Keith Buhler ([Ph.D.](/phd) University of Kentucky) is a philosopher, classical 
 
 He currently holds teaches History, Greek Language, and Bible at a classical school in CA. Before that, he was a philosophy instructor at Asbury University and post-doc at the University of Kentucky. 
 
-He has written two books: the first was a self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. 
+He has written two books: the first was a self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. The second, a philosophy dissertation in contemporary analytic virtue ethics titled [Becoming What We Are](/phd). His non-fiction writings on classical education have been published in Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com among others. 
 
-His philosophy dissertation in contemporary analytic virtue ethics is titled [Becoming What We Are](/phd). 
+He completed a   also holds an M.A. in Orthodox Theology from the University of Balamand and a B.A. in Humanities from Biola University.  
 
-His non-fiction writings on classical education have been published in Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com among others. 
-
-He studied with [David Bradshaw](https://uky.academia.edu/DBradshaw) and also completed an M.A. in Orthodox Theology from the University of Balamand. His B.A. in Humanities is from Biola University and the Torrey Honors Institute.  
+Buhler aims to invite everyone to pursue wisdom through humility. He uses dialog to ask hard questions about Great Books, history, and life itself, including high culture and pop culture. 
