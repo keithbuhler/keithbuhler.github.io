@@ -21,21 +21,18 @@ Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun project
 
 # About Buhler
 
+* *"Makes philosophy come alive"*  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
+* *"A good-conversation machine"* --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
 
-* "Makes philosophy come alive"  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+* *"Enthusiastic, personable, and precise"* --[Dr. Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
-* "A good-conversation machine" --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
+* *“A deep thinker with a jovial personality”* --[Jimmy Prehn, Pixona](https://www.linkedin.com/in/jrprehn/)
 
-* "Enthusiastic, personable, and precise" --[Dr. Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
+*  *"Dynamism, acumen, and compassion"*   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
 
-* “A deep thinker with a jovial personality” --[Jimmy Prehn, Pixona](https://www.linkedin.com/in/jrprehn/)
+* *"Give[s] me great hope for our next generation"* --[Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
-*  "Dynamism, acumen, and compassion"   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
-
-* "Give[s] me great hope for our next generation" --[Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
-
---------
 
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
 
