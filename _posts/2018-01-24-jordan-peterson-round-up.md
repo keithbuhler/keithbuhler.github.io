@@ -15,20 +15,47 @@ permalink: /jbp
 ![header](https://spectator.imgix.net/content/uploads/2018/01/jordanpeterson.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=820&h=550)
 
 
-Remember that one time Jordan Peterson [spent 20-30 uncomfortable but productive minutes being interviewed by British journalist Cathy Newman](https://www.youtube.com/watch?time_continue=61&v=aMcjxSThD54) and his [book shot to #1 on Amazon](http://amzn.to/2DSKqSQ)?
+Remember that one time a Canadian psychologist [spent 20-30 uncomfortable but productive minutes being interviewed by British journalist Cathy Newman](https://www.youtube.com/watch?time_continue=61&v=aMcjxSThD54) and his [book shot to #1 on Amazon](http://amzn.to/2DSKqSQ)?
+
+Yeah, that was awesome. 
+
+<br> 
+
+<br> 
+
 
 ![#1](https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/27459069_10155781835805239_110903461721192595_n.jpg?oh=e972b2ddd02e4ada05c67a660b290f30&oe=5B226F60)
 
+<br> 
+
+<br> 
+
+What was said interview? 
+
+It was between Jordan Peterson and Cathy Newman of Channel 4.  
+
 If you have 30 minutes to spare... the video will edify and or decimate you.
 
+<br> 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aMcjxSThD54" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br> 
+
+<br> 
 
 Among my favorite highlights from this interview are the underrated: 
 
 - "Grow the hell up." and
 - "Women deeply want men who are competent." 
 
-Newman now knows that you don't mess with the well-researched, well-spoken psychologist who actually knows people from his decades in clinical psychology unless you have cards to compete.
+<br> 
+
+
+Newman tussled with a well-researched, well-spoken psychologist who actually knows people from his decades in clinical psychology, and it helped make him famous. 
+
+---- 
+
 
 If you're just hearing about JBP, he's a real psychologist with a clinical practice, lots of published research on religion, mythology, psychology and more, as well as a popularizer and pundit. Don't let anyone define him into a box for you, too quickly. Get to know him.
 
@@ -39,6 +66,7 @@ Lately, Peterson's "book tour" consists of simply going on television, saying tr
 - [One filmmaker mashed up all the times Cathy Newman told Peterson what he was saying](Being interviewed = saying X, being asked if you're saying Y, asserting that you're not saying Y, but X.)
 - [Freedom tunes followed up their original JBP fable](https://www.youtube.com/watch?v=rUdxCj7IKCY) with [another one satirizing the Newman interview.](https://www.youtube.com/watch?v=bU8IJE7Vthk)
 
+-----
 
 That said, some serious think pieces have been written as well. Two good ones.
 
