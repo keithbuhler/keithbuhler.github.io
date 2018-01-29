@@ -30,9 +30,7 @@ Yeah, that was awesome.
 
 <br> 
 
-What was said interview? 
-
-It was between Jordan Peterson and Cathy Newman of Channel 4.  
+The interview was between Jordan Peterson and Cathy Newman of Channel 4.  
 
 If you have 30 minutes to spare... the video will edify and or decimate you.
 
@@ -61,10 +59,12 @@ If you're just hearing about JBP, he's a real psychologist with a clinical pract
 
 I've been enjoying Peterson's YouTube content for a while now. There's a lot of it, far more than I have seen. He's more than just a pundit on sexual politics. For example, [he explains why your path to enlightenment goes down through the darkest parts of you, the places you least want to see, acknowledge, and tackle.](https://www.youtube.com/watch?v=fesSvXKxYd0&feature=youtu.be) 
 
+
 Lately, Peterson's "book tour" consists of simply going on television, saying true things simply and forcefully, receiving insane backlash, and creating internet culture. 
 
 - [One filmmaker mashed up all the times Cathy Newman told Peterson what he was saying](Being interviewed = saying X, being asked if you're saying Y, asserting that you're not saying Y, but X.)
 - [Freedom tunes followed up their original JBP fable](https://www.youtube.com/watch?v=rUdxCj7IKCY) with [another one satirizing the Newman interview.](https://www.youtube.com/watch?v=bU8IJE7Vthk)
+
 
 -----
 
@@ -73,4 +73,8 @@ That said, some serious think pieces have been written as well. Two good ones.
 - [David Brooks at NYT says Peterson's advice (in *12 Rules for Life*) is "exhortatory banality".](https://www.nytimes.com/2018/01/25/opinion/jordan-peterson-moment.html)
 - [Douglas Murray at the Spectator says that Peterson's live speech was "wonderful."](https://www.spectator.co.uk/2018/01/the-curious-star-appeal-of-jordan-peterson/)
 
-Enjoy!
+-- 
+
+Some other JBP videos to enjoy:
+
+- Peterson just did a [Prager U video on fixing yourself.](https://www.youtube.com/watch?v=o73pqQ9Gzt4)
