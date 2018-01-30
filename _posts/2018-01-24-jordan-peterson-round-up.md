@@ -63,14 +63,8 @@ There have been serious and not-so-serious reactions.
 
 - [One filmmaker mashed up all the times Cathy Newman told Peterson what he was saying](Being interviewed = saying X, being asked if you're saying Y, asserting that you're not saying Y, but X.)
 - [Freedom tunes followed up their original JBP fable](https://www.youtube.com/watch?v=rUdxCj7IKCY) with [another one satirizing the Newman interview.](https://www.youtube.com/watch?v=bU8IJE7Vthk)
-- [His Reddit ]
-
-
-
-
-## Recent Peterson
-
-- Peterson just did a [Prager U video on fixing yourself.](https://www.youtube.com/watch?v=o73pqQ9Gzt4)
+- [His Reddit account devoted entirely to Jordan Peterson quotes and pictures -- the Maps of Memeing](https://www.reddit.com/r/Jordan_Peterson_Memes/)
+- [Babylon Bee's satire article](http://babylonbee.com/news/jordan-peterson-convinces-pile-clean-laundry-sort/)
 
 
 ## Introducing Jordan Peterson
@@ -79,7 +73,9 @@ If you're just hearing about JBP, don't let anyone define him into a box for you
 
 Get to know him.
 
-he's a real psychologist with a clinical practice, lots of published research on religion, mythology, psychology and more. He's also, recently, a popularizer and pundit. 
+<!--more-->
+
+He's a real psychologist with a clinical practice, lots of published research on religion, mythology, psychology and more. He's also, recently, a popularizer and pundit. 
 
 I've been enjoying Peterson's YouTube content for a while now. There's a lot of it, far more than I have seen. He's more than just a pundit on sexual politics. For example, [he explains why your path to enlightenment goes down through the darkest parts of you, the places you least want to see, acknowledge, and tackle.](https://www.youtube.com/watch?v=fesSvXKxYd0&feature=youtu.be) 
 
@@ -91,6 +87,7 @@ Some other JBP to explore:
 - [The Self-Authoring Suite](https://www.selfauthoring.com/)
 - [His first book: Maps of Meaning](https://jordanbpeterson.com/maps-of-meaning/)
 - [JBP's latest book: 12 Rules for Life](https://jordanbpeterson.com/12-rules-for-life/)
+- Peterson just did a [Prager U video on fixing yourself.](https://www.youtube.com/watch?v=o73pqQ9Gzt4)
 
 
 Enjoy!
