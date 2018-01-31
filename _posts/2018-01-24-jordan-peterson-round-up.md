@@ -32,7 +32,7 @@ Awesome.
 
 <br> 
  
-Among my favorite highlights from this interview are the underrated: 
+Among my favorite highlights from this interview are the underrated lines: 
 
 - "Grow the hell up." and
 - "Women deeply want men who are competent." 
@@ -65,6 +65,7 @@ There have been serious and not-so-serious reactions.
 - [Freedom tunes followed up their original JBP fable](https://www.youtube.com/watch?v=rUdxCj7IKCY) with [another one satirizing the Newman interview.](https://www.youtube.com/watch?v=bU8IJE7Vthk)
 - [His Reddit account devoted entirely to Jordan Peterson quotes and pictures -- the Maps of Memeing](https://www.reddit.com/r/Jordan_Peterson_Memes/)
 - [Babylon Bee's satire article](http://babylonbee.com/news/jordan-peterson-convinces-pile-clean-laundry-sort/)
+- [On the "Joe Rogan Experience", Joe Rogan interviews Peterson about the Cathy Newman experience](https://www.youtube.com/watch?v=dXzZvooWH2Q)
 
 
 ## Introducing Jordan Peterson
@@ -75,7 +76,9 @@ Get to know him.
 
 <!--more-->
 
-He's a real psychologist with a clinical practice, lots of published research on religion, mythology, psychology and more. He's also, recently, a popularizer and pundit. 
+He's a clinical and academic psychologist. He has spent years in clinical practice and published widely influential research on religion, mythology, and psychology. 
+
+More recently, he's become a YouTube content creator and political commentator. 
 
 I've been enjoying Peterson's YouTube content for a while now. There's a lot of it, far more than I have seen. He's more than just a pundit on sexual politics. For example, [he explains why your path to enlightenment goes down through the darkest parts of you, the places you least want to see, acknowledge, and tackle.](https://www.youtube.com/watch?v=fesSvXKxYd0&feature=youtu.be) 
 
@@ -88,6 +91,7 @@ Some other JBP to explore:
 - [His first book: Maps of Meaning](https://jordanbpeterson.com/maps-of-meaning/)
 - [JBP's latest book: 12 Rules for Life](https://jordanbpeterson.com/12-rules-for-life/)
 - Peterson just did a [Prager U video on fixing yourself.](https://www.youtube.com/watch?v=o73pqQ9Gzt4)
+- [A recent talk at "How To Academy" in London](https://www.youtube.com/watch?v=PWasTAtR6Ns)
 
 
 Enjoy!
