@@ -2,6 +2,7 @@
 title: Bios - A Life
 layout: slide
 theme: black
+permalink: 
 ---
 
 
