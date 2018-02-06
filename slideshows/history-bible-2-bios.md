@@ -108,24 +108,35 @@ The bios or life examines a particular individual’s achievements, sayings, tea
 
 ## Example 2: Philo, Life of Moses
 
-*Philo: Life of Moses: I. (1) I have conceived the idea of writing the life of Moses, who, according to the account of some persons, was the lawgiver of the Jews, but according to others only an interpreter of the sacred laws, the greatest and most perfect man that ever lived, having a desire to make his character fully known to those who ought not to remain in ignorance respecting him, (2) for the glory of the laws which he left behind him has reached over the whole world, and has penetrated to the very furthest limits of the universe; and those who do really and truly understand him are not many, perhaps partly out of envy...*
+I have conceived the idea of writing the life of Moses, who, according to the account of some persons, was the lawgiver of the Jews, but according to others only an interpreter of the sacred laws, the greatest and most perfect man that ever lived, having a desire to make his character fully known to those who ought not to remain in ignorance respecting him, (2) for the glory of the laws which he left behind him has reached over the whole world, and has penetrated to the very furthest limits of the universe; and those who do really and truly understand him are not many, perhaps partly out of envy...*
 
 </section><section data-markdown>
+
+## Philo, Life of Moses
 
 *..or else from the disposition so common to many persons of resisting the commands which are delivered by lawgivers in different states, since the historians who have flourished among the Greeks have not chosen to think him worthy of mention...*
 
 </section><section data-markdown>
 
+## Philo, Life of Moses
 
-*(3) the greater part of whom have both in their poems and also in their prose writings, disparaged or defaced the powers which they have received through education, composing comedies and works full of Sybaritish profligacy and licentiousness to their everlasting shame, while they ought rather to have employed their natural endowments and abilities in preserving a record of virtuous men and praiseworthy lives, so that honourable actions, whether ancient or modern, might not be buried in silence, and thus have all recollection of them lost, while they might shine gloriously if duly celebrated; and that they might not themselves have seemed to pass by more appropriate subjects, and to prefer such as were unworthy of being mentioned at all,*
+*(3) the greater part of whom have both in their poems and also in their prose writings, disparaged or defaced the powers which they have received through education, composing comedies and works full of Sybaritish profligacy and licentiousness to their everlasting shame, while they ought rather to have employed their natural endowments and abilities in preserving a record of virtuous men and praiseworthy lives, so that honourable actions, whether ancient or modern, might not be buried in silence, and thus have all recollection of them lost, while they might shine gloriously if duly celebrated;*
+
+## Philo, Life of Moses
 
 </section><section data-markdown>
 
-*...while they were eager to give a specious appearance to infamous actions, so as to secure notoriety for disgraceful deeds.*
+*...and that they might not themselves have seemed to pass by more appropriate subjects, and to prefer such as were unworthy of being mentioned at all, while they were eager to give a specious appearance to infamous actions, so as to secure notoriety for disgraceful deeds.*
 
 </section><section data-markdown>
+
+## Philo, Life of Moses
 
 *(4) But I disregard the envious disposition of these men, and shall proceed to narrate the events which befell him, having learnt them both from those sacred scriptures which he has left as marvellous memorials of his wisdom, and having also heard many things from the elders of my nation, for I have continually connected together what I have heard with what I have read, and in this way I look upon it that I am acquainted with the history of his life more accurately than other people.*
+
+</section><section data-markdown>
+
+## What do you notice?
 
 </section><section data-markdown>
 
@@ -150,6 +161,12 @@ The bios or life examines a particular individual’s achievements, sayings, tea
 
 *And the followers of Pythagoras accepted as law any decisions communicated by him, and honored him as an emissary from Zeus, but imposed, out of respect for their divine character, a ritual silence on themselves. For many were the divine and ineffable secrets which they had heard, but which it was difficult for any to keep who had not previously learnt that silence also is a mode of speech.*
 
+</section><section data-markdown>
+
+## What do you notice? 
+
+</section><section data-markdown>
+
 ## Review
 
 - Bios is a literary genre
@@ -157,10 +174,14 @@ The bios or life examines a particular individual’s achievements, sayings, tea
 - It's purpose is to showcase a teacher or virtuous person worthy of emulation
 - It has social significance 
 
+</section><section data-markdown>
+
 
 ## Gospel of Mark
 
 > A beginning of the good news of Jesus Christ, Son of God.
+
+</section><section data-markdown>
 
 
 ## Reflection
