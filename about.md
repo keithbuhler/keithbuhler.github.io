@@ -34,16 +34,16 @@ Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun project
 * *"Give[s] me great hope for our next generation"* --[Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
 
 
+<br>
+
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
 
-Keith Buhler ([Ph.D.](/phd) University of Kentucky) is a philosopher, classical teacher, and writer based out of Los Angeles. 
+Keith Buhler ([Ph.D.](/phd) University of Kentucky) is a philosopher and writer from Los Angeles, CA.
 
-He currently holds teaches History, Greek Language, and Bible at a classical school in CA. Before that, he was a philosophy instructor at Asbury University and post-doc at the University of Kentucky. 
+He currently teaches History and Greek Language at a classical school in CA. Before that, he was a philosophy instructor at Asbury University and post-doc at the University of Kentucky. 
 
-He has written two books: the first was a self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. 
+He has written two books: the first was a self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. The second, his philosophy dissertation, is about contemporary forms of Aristotle's virtue ethics. It is titled [Becoming What We Are](/phd). 
 
-His philosophy dissertation in contemporary analytic virtue ethics is titled [Becoming What We Are](/phd). 
-
-His non-fiction writings on classical education have been published in Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com among others. 
+His non-fiction writings on education, culture, and theology have been published in a variety of venues such as Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com.
 
 He studied with [David Bradshaw](https://uky.academia.edu/DBradshaw) and also completed an M.A. in Orthodox Theology from the University of Balamand. His B.A. in Humanities is from Biola University and the Torrey Honors Institute.  

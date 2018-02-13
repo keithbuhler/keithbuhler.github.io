@@ -57,6 +57,7 @@ There have been serious and not-so-serious reactions.
 - [Douglas Murray at the Spectator says that Peterson's live speech was "wonderful."](https://www.spectator.co.uk/2018/01/the-curious-star-appeal-of-jordan-peterson/)
 - [Peggy Noonan at the Wall Street Journal asks who and why anyone is afraid of Jordan Peterson](https://www.wsj.com/articles/whos-afraid-of-jordan-peterson-1516925574)
 - [Conor Friedersdorf tries to explain why Newman and others can't hear what Peterson is saying](https://www.theatlantic.com/politics/archive/2018/01/putting-monsterpaint-onjordan-peterson/550859/)
+- [Zachary Slayback at FEE tries to explain why intellectuals don't like Peterson's public intellectual status](https://fee.org/articles/many-intellectuals-cant-stand-jordan-peterson-why/)
 
 
 ## Some Internet Culture reactions
