@@ -18,7 +18,7 @@ feature_row:
     alt: "Advice"
     title: "Advice to Christian Philosophers"
     excerpt: "Interviews, stories, and advice from big name philosophers."
-    url: "http://bit.ly/22o8m7j"
+    url: "http://www.advicetochristianphilosophers.com/"
     btn_label: "Read"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-books3.png

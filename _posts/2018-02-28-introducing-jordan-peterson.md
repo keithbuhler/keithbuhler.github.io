@@ -34,6 +34,12 @@ Some other JBP to explore:
 - [JBP's latest book: 12 Rules for Life](https://jordanbpeterson.com/12-rules-for-life/)
 - Peterson just did a [Prager U video on fixing yourself.](https://www.youtube.com/watch?v=o73pqQ9Gzt4)
 - [Peterson summarizes his "12 Rules Book" at the "How To Academy" in London](https://www.youtube.com/watch?v=PWasTAtR6Ns)
+
+--- 
+
+## Some Interviews and Articles
+
+- [An interview with Jocko on walking away from family](https://www.youtube.com/watch?v=L2riylnf0SM)
 - [Slavoj Zizek explains how both poles of the political spectrum are wrong... for some reason](http://www.independent.co.uk/voices/jordan-peterson-clinical-psychologist-canada-popularity-convincing-why-left-wing-alt-right-cathy-a8208301.html)
 - [Even Pewdie Pie (the internet's most widely subscribed YouTuber and also, just a bizarre person)](https://www.youtube.com/watch?v=y0JmGp92cYo) likes JBP
 - [Russel Brand asks Peterson about Job (and then just is Russel Brand)](https://www.youtube.com/watch?v=muWVKUnRdaE)
