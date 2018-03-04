@@ -1,5 +1,5 @@
 ---
-title: What is the Reverse of Empathy? 
+title: Seeing Other as Self, Seeing Self as Other
 layout: single
 share: true
 header:
