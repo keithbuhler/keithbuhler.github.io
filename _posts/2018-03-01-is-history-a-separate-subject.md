@@ -19,17 +19,17 @@ Should history be a taught as a separate subject (in middle and high school)?
 
 It seems pretty obvious to most people that the answer is 'Yes.' They think that history should be taught each year, from kindergarten through 12th grade, and again in college. 
 
-But classical schools have retained deep insight about *knowledge* that affects how we view *education*. 
+But some classical schools answer 'no.' To see why, we have to examine deep insight about *knowledge* that they have retained, and which affects how we view *education*. 
 
-To begin, consider a brief statement from Thomas Aquinas College as to why thy don't study history as a separate subject: 
+To begin, consider a brief statement from Thomas Aquinas College as to why they don't study history as a separate subject: 
 
 > "The uniform curriculum of Thomas Aquinas College does not include distinct parts devoted to history and the social sciences... Histories by such writers as Herodotus, Thucydides, Plutarch, Gibbon, and Tocqueville are read. However, the discussions they provoke are not limited merely to an interest in historical fact. These discussions, for example, may involve an analysis of the assumptions used by the writer in establishing and evaluating historical events. The value of reading history will always depend upon the quality of the reader’s general understanding of reality."
 
-I think that the argument is pretty sound that history should not be taught as its own distinct subject, separate from the books and artifacts in which the past survives to the present. History *should be taught*, of course! But it should be taught in and through other subjects. 
+I think that the argument is pretty sound that history should not be taught as its own distinct subject. It should not be taught separately from the books and artifacts in which the past survives to the present. History *should be taught*, of course! But it should be taught in and through other subjects. 
 
 ## The Basic Arguments 
 
-For it is pedagogically more proper that historical thinking and historical facts are learned alongside the mathematics, the science, the philosophy, of a particular time and place. 
+Pedagogically, the more proper strategy is to make sure historical thinking and historical facts are learned alongside the mathematics, the science, the philosophy, of a particular time and place. 
 
 First, because students understand the past best when they learn about a particular time and place by studying primary sources, biographies, stories, archaeological data, and secondary sources (such as contemporary historians). But such study of primary sources demands much more than mere "historical thinking"; studying the decline of the Roman Republic, for instance, requires logical thinking, worldview analysis, a working understanding of human nature, a working hypothesis about whether or not gods interfere in human affairs, and a lot of data about Rome. 
 
