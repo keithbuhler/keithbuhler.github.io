@@ -30,21 +30,24 @@ This is the difficult discernment decision. Why go to grad school? Some people s
 Even if you really like philosophy, an earnest desire is necessary but not sufficient. You need both desire and aptitude. 
 
 
-In my opinion, you should only go to graduate school if you cannot imagine being happy doing anything else except researching or teaching or both. 
+I've heard it said somewhere, I think it was by C. S. Lewis, that you should only go to graduate school if you cannot imagine being happy doing anything else but being a scholar. Graduate school takes a lot of time and stress. You will live below the poverty line for at least 5 years.  50% of people drop out. The degree you earn basically qualifies you to become a researcher, teacher, writer. For a lot of people, that end result not worth the time, money, and stress. 
 
-Some of those who study philosophy and go on to other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. Others go "all the way" with a PhD and try to teach at a university, or get non-academic jobs.
+For those who finish, graduate school is an essential gateway into the world of academia. Scholarship can be a satisfying career. 
 
-The best method is to know yourself:  Ask your teachers for an honest appraisal of your current ability and potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself.   
+Furthermore, some of those who study philosophy finish but go on to do other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. 
+
+The best method is to know yourself:  Ask your teachers and mentors to give you an honest appraisal of your current ability and your future potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself.
+
+
 
 ### 1 My story
 
 
 For me, the discernment process was long. I enjoyed philosophy as an undergraduate but also enjoyed art and psychology. I had known for five years I wanted to pursue further graduate training. I needed to work, so I got a job teaching classics in a high school. I was accepted to, but never began, a psychology doctoral program. It didn't feel right. Instead, I began an M.A. in theology. 
 
-Then, my wife and I got married in 2010. She was the admissions department at a new college. We had settled on philosophy. Philosophy doctorates have a broad range of application: philosophy professor, administration, classical educator, writer, and more.
-
 I took one year of philosophy MA classes at [Talbot.](http://www.talbot.edu/) This gave me good practice writing rigorous analytic papers and also gave me a reference letter from JP Moreland. 
 
+Then, my wife and I got married in 2010. I decided to pursue graduate work, and had settled on philosophy. Philosophy doctorates have a broad range of application: philosophy professor, administration, classical educator, writer, and more.
 
 By 2011, my wife and I had decided to pursue a PhD in philosophy.  I got lots of advice from friends and teachers on how, when, where, to apply. I took the GRE (after some study) and did well. I researched schools and jumped in. 
 
@@ -59,18 +62,26 @@ We moved to Kentucky in July of 2012.
 
 Contrary to popular belief, you *can* go from graduating college straight into an American PhD program. You don't *need* an M.A. That said, there are reasons to consider an M.A. first.
 
-Pro -- [MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  The end goal is to learn a lot, hone your writing, get good references (for PhD applications) or move on to your career.  Con -- they extend your total time to job market from average 7 years to average 9 years. 
+Pro -- [MAs, in general, leverage you up to better PhD programs (if you do well).](http://leiterreports.typepad.com/blog/2013/11/terminal-vs-non-terminal-ma-programs.html)  The end goal is to learn a lot, hone your writing, get good references (for PhD applications) or move on to your career.  
 
-Pro -- [PhDs, in general, get you on the job market in average 7 years.](http://wayback.archive-it.org/5902/20160210153659/http://www.nsf.gov/statistics/infbrief/nsf06312/) The end goal is to become a professor and/or researcher at a university. They often pay you to teach or research along the way to your degree. Con -- unless your philosophical writing is exceptionally good (in your professors' opinion, not in your opinion), you may not be able to reach a more prestigious school without an MA,  developed research plans, and good references.
+Con -- an MA program extend your total time to job market from average 7 years to average 9 years. 
+
+What about going straight for the PhD? 
+
+Pro -- [PhDs, in general, get you on the job market in average 7 years.](http://wayback.archive-it.org/5902/20160210153659/http://www.nsf.gov/statistics/infbrief/nsf06312/) The end goal is to become a professor and/or researcher at a university. They often pay you to teach or research along the way to your degree. 
+
+Con -- unless your philosophical writing is exceptionally good, you may not be able to reach a more prestigious school without an MA,  developed research plans, and good references. When I say "exceptionally good", I mean in your professors' opinion, not in your opinion.
 
 For me, the time factor was big. Even though I didn't have a completed MA, I was able to get in to UK on the strength of my writing sample, GRE score, and good references. 
 
 
 ### 3. How do you best apply? ##
 
-Your philosophical essay is the most important. Pick your best undergrad or MA essay, re-write it twice, polish it, send it to your favorite and most generous professor, re-write it again, pay someone to proof-read it for you, make the corrections, then print it out and read it aloud with a red pen. Find errors in grammar, typing, or thinking, and re-write it again...  THEN include it in your portfolio.
+Your philosophical essay is the most important. 
 
-The [GRE](http://www.ets.org/gre) is necessary, but not life or death. Philosophers tend to do well on the math. But you should study harder for the verbal and writing, as this counts more than math. (Math is more important for, say, engineering grad students). 
+Pick your best undergrad essay (or MA essay), re-write it twice, print it, edit it, re-write it again, and polish it. Only then, send it to your favorite and most generous professor to get their notes. Re-write it again. Consider paying someone to proof-read it for you, then make those corrections. Print it out again and read it aloud with a red pen. Find errors in grammar, typing, or thinking, and re-write it again...  *When it's very nearly perfect*, include it in your application portfolio.
+
+The [GRE](http://www.ets.org/gre) is necessary for most schools. I don't consider it a life or death test, because some schools may not need and some may not require much from it. Philosophers tend to do well on the math, but the math is more important for, say, engineering grad schools. You should study harder for the verbal and writing, as this counts more, from what I have heard. 
 
 [Personal statements?](http://leiterreports.typepad.com/blog/2007/09/advice-on-perso.html) Not sure how important they are. No one has ever told me they *make* a candidate; but it seems commonsense that they can *break* a candidate. 
 
@@ -79,9 +90,9 @@ Play it safe -- just be calm, be yourself, be frank, and say what you want to st
 
 ### 4. Making Progress
 
-Getting a degree is your job. Treat it like a business. Better, treat it like YOUR OWN business. You are an entrepreneur whose sole goal is to make yourself ready for the job market -- marketable research, strong publications, a wide base of teaching, friendly connections, and lots (I mean lots) of red tape 
+Getting a degree is your job. Treat it like a business. Better, treat it like *your own* business. You are an entrepreneur whose sole goal is to make yourself ready for the job market -- marketable research, strong publications, a wide base of teaching, friendly connections, and the endurance to press through lots (and I mean *lots*) of red tape. 
 
-At U. Kentucky, there are 35 steps from admission to "congratulations Doctor". So I've [made a list.](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing) You should do the same. I call it the Master List.
+At my university -- the University of Kentucky (UK) -- there were 35 steps from admission to "congratulations Doctor". So I've [made a list.](https://docs.google.com/spreadsheets/d/1RqZIRaApZnbUcbipRMALKwz1FTuKLeRoB529OZpdbeA/edit?usp=sharing) You should do the same. I called my list "the Master List."
 
 A UK, the Master List is 35 or so items, broken into 6 (very dis-proportionally sized) projects: 
 
