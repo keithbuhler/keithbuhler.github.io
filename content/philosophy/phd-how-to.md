@@ -32,24 +32,33 @@ Even if you really like philosophy, an earnest desire is necessary but not suffi
 
 I've heard it said somewhere, I think it was by C. S. Lewis, that you should only go to graduate school if you cannot imagine being happy doing anything else but being a scholar. Graduate school takes a lot of time and stress. You will live below the poverty line for at least 5 years.  50% of people drop out. The degree you earn basically qualifies you to become a researcher, teacher, writer. For a lot of people, that end result not worth the time, money, and stress. 
 
-For those who finish, graduate school is an essential gateway into the world of academia. Scholarship can be a satisfying career. 
+For others the process is a joy: the challenge, the abstract thinking, the camaraderie. 
+
+And for those who finish their degree, graduate school is an essential gateway into the world of academia. Scholarship can be an incredibly satisfying career. Scholars impact future generations, get paid to think, and can build a platform to share their ideas with the public and the world. Philosophers engage in the highest level of thinking and problem-solving, up in the airy echelons occupied by scientists, psychologists, pastors, and politicians... *at least some* politicians.
 
 Furthermore, some of those who study philosophy finish but go on to do other things. Some get a B.A. or even an M.A. before going into business, non-profit, or ministry. 
 
-The best method is to know yourself:  Ask your teachers and mentors to give you an honest appraisal of your current ability and your future potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself.
+The best method is to know yourself:  Ask your teachers and mentors to give you an honest appraisal of your current ability and your future potential. Academic philosophy has room for a vast range of interests and abilities. Nevertheless, you don't want to kid yourself. Ask yourself *what you want out of it*. Do you just want the credentials needed to become an academic? Or are you likely to enjoy the journey, despite the sacrifices? 
 
 
 
 ### 1 My story
 
+For me, graduate school was an overwhelmingly positive experience. I enjoyed my colleagues, the classes, the teaching requirements. I didn't enjoy being poor, but being married helped because my spouse worked. I also worked part-time jobs from the 2nd year forward. 
 
-For me, the discernment process was long. I enjoyed philosophy as an undergraduate but also enjoyed art and psychology. I had known for five years I wanted to pursue further graduate training. I needed to work, so I got a job teaching classics in a high school. I was accepted to, but never began, a psychology doctoral program. It didn't feel right. Instead, I began an M.A. in theology. 
+How did I decide to get a PhD? The discernment process was long. 
 
-I took one year of philosophy MA classes at [Talbot.](http://www.talbot.edu/) This gave me good practice writing rigorous analytic papers and also gave me a reference letter from JP Moreland. 
+As an undergraduate, I enjoyed philosophy, history, art, and psychology. 
 
-Then, my wife and I got married in 2010. I decided to pursue graduate work, and had settled on philosophy. Philosophy doctorates have a broad range of application: philosophy professor, administration, classical educator, writer, and more.
+While teaching in a classical high school, I applied to a psychology PhD. Though I got in, I never attended.  It didn't feel right. 
 
-By 2011, my wife and I had decided to pursue a PhD in philosophy.  I got lots of advice from friends and teachers on how, when, where, to apply. I took the GRE (after some study) and did well. I researched schools and jumped in. 
+The next year, I took 3 semesters of philosophy and theology MA coursework at [Talbot.](http://www.talbot.edu/) This gave me good practice writing rigorous analytic papers and also gave me a reference letter from JP Moreland. 
+
+I stopped at Talbot and moved to a 3 year masters in theology. 
+
+My wife and I got married in 2010. I decided to pursue graduate work, and had finally settled on philosophy. The main reason was that philosophy doctorates have a broad range of application: philosophy professor, administration, classical educator, writer, and more. I wanted to teach but also continue entrepreneurial endeavors and writing. 
+
+I got lots of advice from friends and teachers on how, when, where, to apply. I took the GRE (after some study) and did well. I researched schools and jumped in. 
 
 We applied to 14 schools. It cost about $1,400 dollars, all told. 
 
