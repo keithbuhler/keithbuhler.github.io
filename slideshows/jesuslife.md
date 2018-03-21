@@ -5,7 +5,7 @@ theme: black
 ---
 
 <section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro begin-->
-<section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown><!--Intro Splash begin-->
+<section data-background="http://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_icon_of_Jesus_Christ_Pantocrator_24_grande.jpeg?v=1467724172" data-markdown><!--Intro Splash begin-->
 
 # The Life and Ministry of Jesus 
 
@@ -44,29 +44,40 @@ That's all we know from his early life.
 
 ## Beginnings (27 AD)
 
+![cana](https://upload.wikimedia.org/wikipedia/commons/0/08/Jan_Cossiers_-_The_wedding_at_Cana%2C_Jesus_blesses_the_water.jpg)
+
 * Jesus is baptized. 
 * 40 days in the wilderness
-* First public miracle
-* Goes to Jerusalem, cleanses the temple. 
+* First public miracle in Cana
+* Goes to **Jerusalem**, cleanses the temple. 
 * Jesus heals Nobleman's son. 
 
 
 </section><section data-markdown>
 
+### Where is Israel?
 
 ![map](https://kevingdrendel.files.wordpress.com/2014/12/6f3f8-romanempire.jpg)
 
 </section><section data-markdown>
 
+### Where Jesus went
 
-![map](http://www.bible-history.com/maps/images/matthew_jesus_in_galilee.jpg)
+![map](http://keithbuhler.com/images/matthew_jesus_in_galilee.jpg)
 
 </section><section data-markdown>
 
 
 ### Ministry (29-30 AD)
 
-- Mostly in Galilee
+
+![lord save me](https://i.pinimg.com/originals/c7/03/b3/c703b3865a55e6498ca739e7d8b4164e.jpg)
+
+</section><section data-markdown>
+
+### Ministry (29-30 AD)
+
+- Mostly in **Galilee**
 - Starts in Nazareth
 - Preaches
 - Heals
@@ -85,15 +96,13 @@ That's all we know from his early life.
 
 ### Death & Resurrection (31 AD)
 
-- Jesus begins last journey to Jerusalem
+- Jesus begins last journey to **Jerusalem**
 - Sends out 70 others
 - Raises Lazurus
 - Jesus arrested, tried, and executed
 - Raised from the dead
-- 40 days later, 
-
-</section><section data-markdown>
-
+- 40 days later, Jesus ascends.
+- The disciples begin to minister
 
 </section><section data-markdown>
 
@@ -101,13 +110,13 @@ That's all we know from his early life.
 
 1. What are the three phases of Jesus' ministry? 
 2. What are some of the main events that happen in each phase? 
-3. 
+
 
 
 </section><section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown >
 
 
-## Discussion Question
+## Discussion Questions
 
 1. What is Jesus' ministry about?
 2. What is the "Kingdom of God" like? 
@@ -115,4 +124,4 @@ That's all we know from his early life.
 
 
 </section>  
-</section><!--Discussion of faith and reasonend-->
+</section><!--Discussion of faith and reason-->
