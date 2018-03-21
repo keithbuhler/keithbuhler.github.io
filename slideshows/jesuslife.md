@@ -23,31 +23,28 @@ theme: black
 
 
 </section><!--Overview end-->
-<section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
+<section data-background="https://dg.imgix.net/the-horror-of-crucifixion-jlnstoeb-en/landscape/the-horror-of-crucifixion-jlnstoeb.jpg?ts=1491334937&ixlib=rails-2.1.4&w=700&h=394&dpr=2&ch=Width%2CDPR&auto=format%2Ccompress&fit=min" data-markdown>
 
 
 </section><!--Overview end-->
 <section data-markdown>
 
+## Beginnings (0-12 AD)
 
-</section><section data-markdown>
-
-
-## Beginnings
-
-![justin]()
+![justin](https://tomperna.files.wordpress.com/2016/12/birth-of-jesus-christ-icon.jpg)
 
 * 0 AD. Jesus is born.
-* 12 AD. Jesus visits the temple
+* 2 AD. Herod kills all the babies he can.
+* 12 AD. Jesus visits the temple as a young man.
 
-That's all we know from his early life!
+That's all we know from his early life.
 
 
 </section><section data-markdown>
 
-## Beginnings
+## Beginnings (27 AD)
 
-* 27 AD. Jesus is baptized. 
+* Jesus is baptized. 
 * 40 days in the wilderness
 * First public miracle
 * Goes to Jerusalem, cleanses the temple. 
@@ -57,14 +54,18 @@ That's all we know from his early life!
 </section><section data-markdown>
 
 
-### Ministry 
+![map](https://kevingdrendel.files.wordpress.com/2014/12/6f3f8-romanempire.jpg)
+
+</section><section data-markdown>
+
 
 ![map](http://www.bible-history.com/maps/images/matthew_jesus_in_galilee.jpg)
 
 </section><section data-markdown>
 
 
-- 29 AD - 30 AD
+### Ministry (29-30 AD)
+
 - Mostly in Galilee
 - Starts in Nazareth
 - Preaches
@@ -82,7 +83,7 @@ That's all we know from his early life!
 
 </section><section data-markdown>
 
-### Death & Resurrection 
+### Death & Resurrection (31 AD)
 
 - Jesus begins last journey to Jerusalem
 - Sends out 70 others
@@ -96,7 +97,11 @@ That's all we know from his early life!
 
 </section><section data-markdown>
 
-## Conclusion
+## Review
+
+1. What are the three phases of Jesus' ministry? 
+2. What are some of the main events that happen in each phase? 
+3. 
 
 
 </section><section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown >
@@ -104,6 +109,9 @@ That's all we know from his early life!
 
 ## Discussion Question
 
+1. What is Jesus' ministry about?
+2. What is the "Kingdom of God" like? 
+3. What does that mean for us today? 
 
 
 </section>  
