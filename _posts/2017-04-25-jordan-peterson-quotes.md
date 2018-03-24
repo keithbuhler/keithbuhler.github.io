@@ -4,8 +4,7 @@ categories: [Philosophy]
 header: 
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://i2.wp.com/jordanbpeterson.com/wp-content/uploads/2016/10/jordan-smaller-size-bw.jpg?resize=1024%2C683
-permalink: /philosophy/academia/2017/04/25/jordan-peterson-quotes.html
-
+permalink: 
 layout: single
 tags: []
 comments: true
@@ -87,3 +86,16 @@ TL: "That's what I expected you to say."
 Jordan Peterson: "Just because that's true doesn't mean that's *all* that's true about it."
 
 [Talking with Timothy Lott](https://www.youtube.com/watch?v=RIB05YeMiW8&feature=youtu.be), youtube clip, Aug 1, 2017. 
+
+
+---- 
+
+Sunrise media: "What's wrong with being inclusive?" 
+
+JBP: "Well, I suppose there's nothing wrong with being inclusive. But there is something wrong with "
+
+
+
+"To stand up straight with your shoulders back is to actually expose the most vulnerable parts of yourself to the world. And that's a courageous act. It indicates confidence and the willingness to take risk. That's not the same as combativeness."
+
+[Sunrise Media Interview](https://www.youtube.com/watch?v=XJr6CYHHOnk)
