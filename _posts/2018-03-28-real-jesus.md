@@ -26,9 +26,15 @@ As my friend Jesse once said, it's "axiomatic reasoning with B.S. axioms."
 
 The same problem occurs in this article searching for the real Jesus. 
 
+<!--more-->
+
+It's good to search for the real Jesus. It's good to search for the real *anything.* Don't take appearances as final. Investigate under the surface. 
+
+That said, much depends on the *how*. How does one search for the real sun? Not by psychology but astronomy. How does one search for the real story of the Vietnam war? Not by astronomy but by history and political science. How does one search for the real Jesus? By history, philosophy, prayer, fasting, and conversation with those who follow Jesus as a God. 
+
 The article assumes that one can and should find the "real Jesus" through science. The big assumption is that material sciences are the only, or the best, paths to discovering reality. Call this assumption "scientism." 
 
-Of course it follows from scientism that one should investigate the 'real Jesus' in the same way one investigates the real anything: real history, real physics, real astronomy, real psychology will all turn out to be material and hence best studied through material sciences (as far as possible). 
+*Of course* it follows from scientism that one should investigate the 'real Jesus' in the same way one investigates the real anything: real history, real physics, real astronomy, real psychology will all turn out to be material and hence best studied through material sciences (as far as possible). 
 
 Scientism, as an axiom, is perfectly respectable. Many people approach the world as if the only way to know anything is to use all the sciences, and only the sciences. They get by. 
 
@@ -56,7 +62,6 @@ The dilemma the scientistic thinker must confront is that his belief in scientis
 I would put the point even more strongly: scientism is necessarily false. For those who understand the terms, it is impossible to believe that the empirical methods of material sciences are the only available means of discovering reality. 
 
 (I cannot *force* you to confront your own question-begging assumptions any more that you can force me confront mine. But we can invite each other to reflect and so humble ourselves. )
-
 
 For this reason, it is more logical to do what philosophers and scientists like Plato and Galileo have always done, which is to discover reality through a combination of methods that, together, aim to canvass all domains of reality which are available to our scrutiny. We use a combination of logical, practical, sensory, empirical, scientific, and experiential methods and we investigate in a variety of domains. 
 
