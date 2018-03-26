@@ -14,9 +14,9 @@ permalink: /realjesus
 
 ![header](http://anothercity.org/wp-content/uploads/2017/12/real-jesus-250x367.png)
 
-[Check out Bruce Seraphim Foltz's take down of the latest National Geographic piece aobut "the real Jesus."](http://anothercity.org/looking-for-the-real-jesus-try-the-gospels/)
+The National Geographic recently put out a piece about searching for the real Jesus.  [Check out Bruce Seraphim Foltz's take down.](http://anothercity.org/looking-for-the-real-jesus-try-the-gospels/)
 
-Assuming you are right -- begging the question -- is the most common logical fallacy. Everyone does it at some point. If Kant, Aquinas, Aristotle, and Hegel do it, then what hope is there for us mortals? 
+The fallacy of "begging the question" refers to assuming that you are right. Assuming you are correct is the most common logical fallacy. Everyone does it at some point. If Kant, Aquinas, Aristotle, and Hegel do it, then what hope is there for us mortals? 
 
 When I beg the question, I try to catch myself. Better yet, I try to humbly acknowledge it when an interlocuter catches me out and then try to provide real arguments. That seems to me the best way. Acknowledging and providing real arguments is all I want from others, so why not start with myself? 
 
@@ -25,6 +25,8 @@ It's easy to catch others begging the question. They assume without argument tha
 As my friend Jesse once said, it's "axiomatic reasoning with B.S. axioms."
 
 The same problem occurs in this article searching for the real Jesus. 
+
+
 
 <!--more-->
 
