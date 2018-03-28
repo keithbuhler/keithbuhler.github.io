@@ -1,15 +1,13 @@
 ---
 title:  Stacks of Papers, arranged by Category
-categories: [Misc]
-tags: [humor, smiles]
+categories: [Smiles]
+tags: [humor, smiles, misc]
 permalink: 
 excerpt_separator: <!--more-->
 layout: single
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---
-
-![header](https://images-na.ssl-images-amazon.com/images/I/51Xf6Fe2fOL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIAmznPrime%2CBottomLeft%2C0%2C-5_SCLZZZZZZZ_.jpg)
 
 I have a neat system for organizing papers on my desk which demand attention. There are approximately eleven categories. 
 
