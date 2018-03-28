@@ -1,5 +1,5 @@
 ---
-title: Looking for the Real Jesus
+title: Looking for the Real Jesus... with Science?
 layout: single
 share: true
 header:
@@ -12,29 +12,48 @@ excerpt_separator: <!--more-->
 permalink: /realjesus
 ---
 
-![header](http://anothercity.org/wp-content/uploads/2017/12/real-jesus-250x367.png)
+![Header](https://faithworkschildren.files.wordpress.com/2012/02/portrait-of-jesus-logo.jpg)
 
 The National Geographic recently put out a piece about searching for the real Jesus.  [Check out Bruce Seraphim Foltz's take down.](http://anothercity.org/looking-for-the-real-jesus-try-the-gospels/)
 
+![header](http://anothercity.org/wp-content/uploads/2017/12/real-jesus-250x367.png)
+
+
 The fallacy of "begging the question" refers to assuming that you are right. Assuming you are correct is the most common logical fallacy. Everyone does it at some point. If Kant, Aquinas, Aristotle, and Hegel do it, then what hope is there for us mortals? 
 
-When I beg the question, I try to catch myself. Better yet, I try to humbly acknowledge it when an interlocuter catches me out and then try to provide real arguments. That seems to me the best way. Acknowledging and providing real arguments is all I want from others, so why not start with myself? 
+We all beg the question. We all assume we are right. What do we do about it? 
 
-It's easy to catch others begging the question. They assume without argument that they know some *big truth* with certainty. And they then proceed to point out all the little truths that would follow if they were right. Problem is, of course, that they haven't shown the big truth. 
+For me, when I find myself committing this fallacy, I try to catch myself. Better yet, I try to humbly acknowledge it when an interlocuter catches me out. Then I try to provide real arguments. 
 
-As my friend Jesse once said, it's "axiomatic reasoning with B.S. axioms."
+That seems to me the best way: Acknowledging and providing real arguments. That's what I want others to do, so why not start with myself? 
+
+Regardless, it is easy to catch people begging the question. 
+
+Authors, writers, and conversational partners very often assume without argument that they know something important.
+
+Often the argument goes like this: assume some *big truth* with certainty, then proceed to point out all the little truths that would follow if the first point were right. 
+
+Problem is, of course, that you haven't shown the big truth to be actually true. 
+
+My friend Jesse once described this process of question begging as "axiomatic reasoning with B.S. axioms."
 
 The same problem occurs in this article searching for the real Jesus. 
 
-
-
 <!--more-->
 
-It's good to search for the real Jesus. It's good to search for the real *anything.* Don't take appearances as final. Investigate under the surface. 
+It's good to search for the real Jesus. It's good to search for the real *anything.* 
 
-That said, much depends on the *how*. How does one search for the real sun? Not by psychology but astronomy. How does one search for the real story of the Vietnam war? Not by astronomy but by history and political science. How does one search for the real Jesus? By history, philosophy, prayer, fasting, and conversation with those who follow Jesus as a God. 
+Searching for the real X means that you are thinking scientifically, philosophically, and critically. Don't take appearances as final. Look under the surface. See through deceptive appearances. 
 
-The article assumes that one can and should find the "real Jesus" through science. The big assumption is that material sciences are the only, or the best, paths to discovering reality. Call this assumption "scientism." 
+We agree on the *what*, but much depends on the *how*. 
+
+*How* does one search for the real sun? Not by psychology but astronomy. 
+
+*How* does one search for the real story of the Vietnam war? Not by astronomy but by history and political science. 
+
+*How* does one search for the real Jesus? By archeology and atheistic axioms? Or by history, philosophy, prayer, fasting, and conversation with those who follow Jesus as a God. 
+
+The Nat Geo article merely *assumes* that one can and should find the "real Jesus" through science. The big assumption is that material sciences are the only, or the best, paths to discovering reality. Call this assumption "scientism." 
 
 *Of course* it follows from scientism that one should investigate the 'real Jesus' in the same way one investigates the real anything: real history, real physics, real astronomy, real psychology will all turn out to be material and hence best studied through material sciences (as far as possible). 
 
