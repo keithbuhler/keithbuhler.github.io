@@ -6,8 +6,8 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
 comments: true
-tags: [culture]
-categories: [Philosophy]
+tags: [culture, Jordan Peterson]
+categories: [Politics]
 excerpt_separator: <!--more-->
 permalink: 
 ---
