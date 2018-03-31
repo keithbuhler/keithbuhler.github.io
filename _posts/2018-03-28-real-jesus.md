@@ -67,11 +67,15 @@ To answer this, step back and look at a deeper problem.
 
 By scientism's own lights, you must use one or more sciences to prove scientism to be true. Otherwise, it is simply an assumption. 
 
-But it seems obvious to me that in order to prove that there are no other available means of discovering reality, you'd have to reach outside the empirical methods of the material sciences. For example, you'd have to make an epistemological argument. 
+Certainly, science is so reliable we might want to jump to the conclusion that only science is reliable. But it's a risk. It'd be better to prove the conclusion, if possible. 
 
-Epistemological arguments can and do certainly incorporate the latest information from the sciences (from psychology or the neurosciences, for instance). But epistemologists fundamentally use the abstract methods of philosophy.  They use arguments, not "studies." Their raw material is abstract, not concrete. They use thought experiments, not experiments. They do not study knowledge direcetly; they study the writings of *other epistemologists*. 
+But it seems obvious to me that in order to prove that there are no other available means of discovering reality, you’d have to reach outside the empirical methods of the material sciences. 
 
-I grant that I'm simplifying. But the argument is somewhat simple. 
+For example, you’d have to make an epistemological argument.
+
+Epistemological arguments can and do certainly incorporate the latest information from the sciences (from psychology or the neurosciences, for instance). But epistemologists fundamentally use the abstract methods of philosophy. They use arguments, not “studies.” Their raw material is abstract, not concrete. They use thought experiments, not experiments. They do not study knowledge direcetly; they study the writings of other epistemologists.
+
+I grant that I’m simplifying. But isn't this argument somewhat simple?
 
 If all this is right, then one of two things turns out to be true. 
 
