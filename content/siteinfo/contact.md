@@ -28,7 +28,7 @@ while(x=eval(x));
 
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
 * Secure mail:  circularreason [that swirly sign] protonmail.com
-* [Facebook](http://www.facebook.com/kedbuhler/)  kedbuhler
+* [Facebook](https://www.facebook.com/keithedbuhler)  keithedbuhler
 * [Twitter](https://twitter.com/Keith_Buhler) Keith_Buhler
 * [Google Plus](https://plus.google.com/+KeithBuhler) +KeithBuhler
 * Call:  area 562 number 23O 292O
