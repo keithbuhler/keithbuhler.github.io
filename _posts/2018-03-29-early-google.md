@@ -12,22 +12,29 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
+![header](https://c.pxhere.com/photos/04/43/books_encyclopedias_reading_learning_old_antique_knowledge_writing-860294.jpg!d)
+
+
+I am reading Dostoevsky's *Demons* presently and stumbled across this description of a proto-Google, or proto-internet of information. 
+
+Dostoevsky's idea comes from the character Lizaveta. She imagines a book or series that condenses and makes accessible impossibly vast streams of information into a single, searchable source. 
+
 Once upon a time, I hatched a crazy idea for an encyclopedia of human knowledge that people could add to, connecting up questions with answers in a gigantic web of information. I fancy that the idea was a proto-Wikipedia. But of course the genius of Wikipedia is that it actually works. It exists. It's not *just* an idea. 
 
-I am reading Dosteyevsky's *Demons* presently and stumbled across this description of a proto-Google, or proto-internet of information. 
+
+(The moral of the story, perhaps, is that good ideas are thought of a dozen, a hundred, a thousand times before the true genius finds a way to implement them. )
+
+The proto-internet is shared for your reading pleasure: 
 
 
-The character Lizaveta imagines a book that condenses and makes accessible impossibly vast streams of information into a single, searchable source. 
-
-The moral of the story, perhaps, is that good ideas are thought of a dozen, a hundred, a thousand times before the true genius finds a way to implement them. 
-
- <!--more-->
- 
-Shared for your reading pleasure: 
 
 >Lizaveta was thinking of bringing out a book which she thought would be of use... 
 
 >Her literary scheme was as follows. Numbers of papers and journals are published in the capitals and the provinces of Russia, and every day a number of events are reported in them. The year passes, the newspapers are everywhere folded up and put away in cupboards, or are torn up and become litter, or are used for making parcels or wrapping things. Numbers of these facts make an impression and are remembered by the public, but in the course of years they are forgotten. 
+
+
+<!--more-->
+
 
 >Many people would like to look them up, but it is a labour for them to embark upon this sea of paper, often knowing nothing of the day or place or even year in which the incident occurred. Yet if all the facts for a whole year were brought together into one book, on a definite plan, and with a definite object, under headings with references, arranged according to months and days, such a compilation might reflect the characteristics of Russian life for the whole year, even though the facts published are only a small fraction of the events that take place.
 
