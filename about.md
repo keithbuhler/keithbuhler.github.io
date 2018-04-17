@@ -9,7 +9,9 @@ header:
 
 Thank you for visiting keithbuhler.com. This site hosts the thoughts and projects of Keith Buhler (PhD, Philosophy), a philosopher, teacher, and writer from Los Angeles. 
 
-The Buhler Report's recurring themes include  [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), [politics](/categories/#Politics-ref), and popular culture.
+The Buhler Report aims to seek wisdom. The goal of philosophy as a [way of life](https://amzn.to/2vjDyuJ) is to live the examined life, the reflective life, the pursuit of wisdom. Put differently, the goal is to live a dialogic life. The word 'dialogic' captures three important concepts in a single word: 1. Dialogue -- discussion through words between two or more people; 2. Logic -- the necessary relations between propositions; and Logos -- reality, truth, speech. 
+
+In pursuing wisdom, recurring themes include  [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), current [politics](/categories/#Politics-ref), and popular culture.
 
 
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
@@ -20,18 +22,19 @@ My academic research focuses on ethics and the philosophy of religion. You can p
 
 I had the privilege of studying with [David Bradshaw](https://uky.academia.edu/DBradshaw) for my doctoral work. In 2012, I completed an M.A. in Applied Orthodox Theology from the University of Balamand, and my B.A. in Humanities is from Biola University and the Torrey Honors Institute.  
 
-I've self-published a book-length [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. 
+My first book is a [Platonic dialogue](http://bitly.com/ScriptureOrTradition) consisting of of various Christians discussing Scripture and Tradition. 
 
-And my philosophy dissertation is a book-length defense of a contemporary form of Aristotle's virtue ethics that is (arguably!) compatible with some versions of scientific naturalism. It is titled [Becoming What We Are](/phd). 
+My philosophy dissertation is a book-length defense of a contemporary form of Aristotle's virtue ethics that is (arguably!) compatible with some versions of scientific naturalism. It is titled [Becoming What We Are](/phd). 
 
-My non-fiction writing on topics such as education, culture, and theology have been published in a variety of venues such as Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com.
+Finally, some of my non-fiction writing on topics such as education, culture, and theology have been published in a variety of venues such as Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com.
 
 This is a dialogue, not a monologue! Please check out my YouTube channel for videos, and let me know your thoughts, whether you agree, disagree, or have questions or comments.  Your comments are read and very much appreciated. 
 
-Finally, intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects including art, fiction, and interviews with philosophers. 
+
+*All opinions contained in this site are my own and do not represent the views of any organizations I am affiliated with.*
 
 
-(P.S. also, all opinions contained in this site are my own and do not represent the views of any organizations I am affiliated with.)
+P.S. Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects including art, fiction, and interviews with philosophers. 
 
 ----- 
 
