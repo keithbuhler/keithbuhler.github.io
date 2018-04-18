@@ -10,7 +10,7 @@ categories: [Classical education]
 excerpt_separator: <!--more-->
 author_profile: false
 header:
-      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+      image: http://www.keithbuhler.com/images/banner-trees.jpg
       teaser: 
 ---
 
