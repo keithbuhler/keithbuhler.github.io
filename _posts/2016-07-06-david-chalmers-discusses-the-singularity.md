@@ -29,7 +29,7 @@ Singularitarians also tend to be atheists or agnostics. They think the singulari
 
 So, to take the Singularity seriously requires that you occupy a pretty narrow set of parameters. And to explain the Singularity to those who are skeptical or uninformed takes occupying an even narrower niche.
 
-Philosopher, atheist, and tech nerd David Chalmers fits the bill. He takes the Singularity seriously. He commissioned reflection from 26 other philosophers. Here are his takeways. [David Chalmers on the Singularity](/assets/texts/chalmers-singularity.pdf)
+Philosopher, atheist, and tech nerd David Chalmers fits the bill. He takes the Singularity seriously. He commissioned reflection from 26 other philosophers. Here are his takeways. [David Chalmers on the Singularity](http://consc.net/papers/singularity.pdf)
 
 
 [^1]: Cf. http://www.yudkowsky.net/singularity

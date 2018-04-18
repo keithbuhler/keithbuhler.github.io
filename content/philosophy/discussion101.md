@@ -9,7 +9,7 @@ sidebar:
 
 *Ground Rules for Following the Logos*
 
-#### [(pdf version)](/pages-philosophy/discussion101.pdf)
+#### [(pdf version)](/content/philosophy/discussion101.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
 Humanities

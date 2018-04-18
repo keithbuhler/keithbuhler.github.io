@@ -6,7 +6,7 @@ sidebar:
       nav: philosophy
 ---
 
-#### [(pdf version)](/philosophy-portal/disputations.pdf)
+#### [(pdf version)](/content/philosophy/disputations.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
 Department of Philosophy  
