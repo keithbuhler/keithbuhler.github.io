@@ -28,7 +28,7 @@ feature_row:
 - Business Ethics ([Syllabus](/syllabus334))  
 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
 - Philosophy of Religion    
-- Wisdom and Virtue Ethics  ([Syllabus](/syllabus-S2016-293-wisdom))   
+- Wisdom and Virtue Ethics  ([Syllabus](/syllabus293wisdom))   
 - Health Care Ethics ([Syllabus](/syllabus-S2016-305-health-care))             
 - Introduction to Philosophy ([Syllabus](/introduction))  
 - Introduction to Philosophy (FPA) ([Syllabus](http://www.keithbuhler.com/intro-fpa))
