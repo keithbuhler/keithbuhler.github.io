@@ -11,15 +11,14 @@ header:
 
 You are invited to a discussion of Cicero's *De Oficiis* or "On Duties." 
 
-Date: June 15. 
-Time: 6:30pm.
-Place: Buhler House (31732 Ridge Route Rd. #209, Castaic)
-Amount: Please read the whole book, or as much as you are able to and wish to. 
-Who: Keith Buhler, James Johnson, Shea Ramquist, Aaron Fudge, you... 
+Date: June 15.   
+Time: 6:30pm.  
+Place: Buhler House (31732 Ridge Route Rd. #209, Castaic)  
+Amount: Please read the whole book, or as much as you are able to and wish to.   
+Who: Keith Buhler, James Johnson, Shea Ramquist, Aaron Fudge,   you... 
 
 
 ## Where to get De Oficiis
-
 
 1. [Online Text (Free)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html) and [here](http://www.gutenberg.org/files/47001/47001-h/47001-h.htm)
 2. [Amazon for Kindle text ($6) or paperback](https://www.amazon.com/Cicero-Cambridge-History-Political-Thought-ebook/dp/B00L4CP7I8)
@@ -29,7 +28,7 @@ Who: Keith Buhler, James Johnson, Shea Ramquist, Aaron Fudge, you...
 
 ## Discussion Notes
 
-A few pericopes we might be able to discuss, including a passage, an observation, and a question. 
+A few [pericopes](https://www.google.com/search?q=pericope&rlz=1C5CHFA_enUS721US721&oq=pericope&aqs=chrome..69i57j0l5.1646j0j7&sourceid=chrome&ie=UTF-8) we might be able to discuss. Each question  includes a passage, an observation about that passage, and a question for our consideration and discussion. 
 
 
 -------
