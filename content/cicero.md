@@ -8,8 +8,22 @@ header:
 --- 
 
 
+Cicero was one of Rome's greatest orators, politicians, and lawyers. 
 
-You are invited to a discussion of Cicero's *De Oficiis* or "On Duties." 
+Today, he is read as a moral teacher, a Stoic philosopher, and a stylist of unparalleled grace. 
+
+You are invited to a discussion of Cicero's *De Oficiis*, "On Duties" (on Obligations)
+
+Men, women, and children are welcome. 
+
+We will be reading the whole book before the discussion. We will read outloud some main portions and then discuss some of the main points. 
+
+
+
+The description of the book online is this: 
+
+>Roman statesman and philosopher Marcus Tullius Cicero wrote on a wide range of subjects, from Greek philosophy to moral duty to friendship. Though he considered philosophy secondary to politics and often used his writings for explicit political ends, his work has nevertheless been widely read for over two thousand years and has influenced everything from the culture of the Renaissance to the ideals of the founding fathers of the United States. This edition contains three of Cicero's best-known works. In De Officiis, or "On Duties," written as a letter to his son, Cicero shares his beliefs about the potential conflicts between moral obligation and expedience.
+
 
 Date: June 15.   
 Time: 6:30pm.  
@@ -20,9 +34,7 @@ Who: Keith Buhler, James Johnson, Shea Ramquist, Aaron Fudge,   you...
 
 ## Where to get De Oficiis
 
-1. [Online Text (Free)](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html) and [here](http://www.gutenberg.org/files/47001/47001-h/47001-h.htm)
-2. [Amazon for Kindle text ($6) or paperback](https://www.amazon.com/Cicero-Cambridge-History-Political-Thought-ebook/dp/B00L4CP7I8)
-3. Local library or bookstore.
+The book is available in various formats. You can get [free audio here](https://librivox.org/on-duties-by-marcus-tullius-cicero/), [purchase better audio here](http://amzn.to/2CIzLFJ), [free online text here](http://www.perseus.tufts.edu/hopper/text?doc=Cic.%20Off.) or [here](http://oll.libertyfund.org/titles/cicero-on-moral-duties-de-officiis), and [purchase the book here.](http://amzn.to/2CJk2pY). Also, check your local library or bookstore!
 
 
 
