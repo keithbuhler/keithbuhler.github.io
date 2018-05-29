@@ -1,5 +1,5 @@
 --- 
-title: Where Tolkein got the Hobbit Names
+title: Where Tolkien got the Hobbit Names
 layout: single
 share: true
 header:
@@ -18,7 +18,7 @@ I just finished "reading" (i.e., listening to the audio books of) a few Dostoevs
 
 It's rough going at points. Lots of Icelandic names. That's one of the reasons I'm listening to it on audio, as I do with Dostoevsky, rather than slogging through the text. 
 
-Anyhow, I'm stumbling through the Prose Edda, minding my own business, when I come across a remarkable passage I want to share with you Tolkein fans. The Prose Edda is a classic source of Norse Mythology. 
+Anyhow, I'm stumbling through the Prose Edda, minding my own business, when I come across a remarkable passage I want to share with you Tolkien fans. The Prose Edda is a classic source of Norse Mythology. 
 
 The surprising passage is from the second part of the Prose Edda, titled "Gylfaginning", about the adventures of Gylfi. 
 
@@ -81,4 +81,6 @@ Of the 13 Dwarves, all the names appear on this list except Dwalin, Balin, with 
 
 For bonus effect, you may have also spotted Gandalf (Gandalfr) on this list. 
 
-There you have it. Tolkein's Dwarf (and Wizard) names derive from the *Prose Edda*, Part 2, Sections 13 and 14. 
+All this information is on Wikipedia, but it's more fun to stumble across it yourself in context and without warning. 
+
+So there you have it. Tolkien's Dwarf (and Wizard) names derive from the *Prose Edda*, Part 2, Sections 13 and 14. 
