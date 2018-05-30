@@ -18,9 +18,9 @@ I just finished "reading" (i.e., listening to the audio books of) a few Dostoevs
 
 It's rough going at points. Lots of Icelandic names. That's one of the reasons I'm listening to it on audio, as I do with Dostoevsky, rather than slogging through the text. 
 
-Anyhow, I'm stumbling through the Prose Edda, minding my own business, when I come across a remarkable passage I want to share with you Tolkien fans. The Prose Edda is a classic source of Norse Mythology. 
+Anyhow, I'm stumbling through the Prose Edda, minding my own business, when I come across a remarkable passage I want to share with you Tolkien fans. 
 
-The surprising passage is from the second part of the Prose Edda, titled "Gylfaginning", about the adventures of Gylfi. 
+The surprising passage is from the second part of the *Prose Edda*, titled "Gylfaginning", which is about the adventures of Gylfi. 
 
 In this passage, Gangleri is quizzing Harr about what he knows. Harr is then showing off his knowledge of gods and nature. At the end, Harr explains how the "dwarves" were made under the earth.
 
