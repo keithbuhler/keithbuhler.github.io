@@ -15,7 +15,7 @@ Date: June 15.
 Time: 6:30pm.  
 Place: Buhler House (31732 Ridge Route Rd. #209, Castaic)  
 Amount: Please read the whole book, or as much as you are able to and wish to.   
-Who: Keith Buhler, James Johnson, Shea Ramquist, Aaron Fudge,   you... 
+Who: Keith Buhler, James Johnson, you... [Edit: Shea Ramquist, Andrew Selby, you] 
 
 
 ## Where to get De Oficiis
