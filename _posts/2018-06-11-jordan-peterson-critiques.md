@@ -13,29 +13,24 @@ permalink:
 ---
 
 
-I recently stumbled across a [Facebook group compiling Jordan Peterson "character assassinations".](https://www.facebook.com/JBPassassinations/) So I decided to compile a list. 
+I recently stumbled across a [Facebook group compiling Jordan Peterson "character assassinations".](https://www.facebook.com/JBPassassinations/) It requires some scrolling to read all the articles, so I decided to put all the links into a single list. 
 
 Why? As a Peterson fan, it's useful to consider these critiques, to hear the other side. Secondly, it's also amusing to read the more unhinged and vitriolic hot takes people keep writing. Thirdly, if you're not a Peterson fan, these articles might help you articulate your criticisms. 
 
+You'll notice a smattering of articles from November 2017 through April 2018, followed by a rapid uptick of articles in May. Will June bring have another flood of articles or not? 
 
+Without further ado, a (fairly complete) list of articles criticizing JBP:
 
-# November, 2017
+## November 2017 - February 2018
 
 1. ["Jordan Peterson is causing problems at another university now". By Drew Brown. Vice. Nov 20, 2017](https://www.vice.com/amp/en_ca/article/8x5jdz/jordan-peterson-is-university-now)
 11. ["The Professor of Piffle -- The dangerous underside of Jordan Peterson’s crusade against the humanities" by Ira Wells. Nov 27, 2017](https://thewalrus.ca/the-professor-of-piffle/)
-
-# January, 2018
-
 1. ["The Jordan Peterson Paradox: high intellect, or just another angry white guy?" by John Semley. The Globe and Mail. January 31, 2018](https://www.theglobeandmail.com/arts/books-and-media/the-jordan-peterson-paradox-high-intellect-or-just-another-angry-white-guy/article37806524/)
-
-## February
-
 4. ["Jordan Peterson's Bull***t." by Harrison Fluss. Jacobin Mag. February 2, 2018.](https://jacobinmag.com/2018/02/jordan-peterson-enlightenment-nietzsche-alt-right)
 14. ["The Right's Favorite New Intellectual Has Some Truly Pitiable Ideas About Masculinity -- why does anyone take Jordan Peterson seriously?", by Jacob Bacharach. Alternet. February 13, 2018.](https://www.alternet.org/news-amp-politics/rights-favorite-new-intellectual-has-some-truly-pitiable-ideas-about-masculinity)
 2. ["Why Are So Many Young Men Drawn to Jordan Peterson’s Intellectual Misogyny?" by Grant Maxwell, APA Online. February 20, 2018. ](https://blog.apaonline.org/2018/02/20/why-are-so-many-young-men-drawn-to-jordan-petersons-intellectual-misogyny/)
 3. ["A Serious Man", by John Ganz. The Baffler. February 7.](https://thebaffler.com/latest/peterson-ganz-klein)
 
-<!--more-->
 
 
 ## March
@@ -81,4 +76,6 @@ Why? As a Peterson fan, it's useful to consider these critiques, to hear the oth
 3. ["A feminist philosopher makes the case against Jordan Peterson", by Sean Illing. Vox. June 6, 2018.](https://www.vox.com/conversations/2018/6/6/17409144/jordan-peterson-12-rules-for-life-feminism-philosophy)
 
 
-For the most recent examples, join the [Facebook group!](https://www.facebook.com/JBPassassinations/) 
+--- 
+
+I'll update the list if this post is useful (just leave a comment if so). But for the most *recent* examples, join the [Facebook group!](https://www.facebook.com/JBPassassinations/) 
