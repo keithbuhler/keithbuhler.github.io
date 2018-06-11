@@ -29,7 +29,7 @@ Without further ado, a (fairly complete) list of articles criticizing JBP:
 4. ["Jordan Peterson's Bull***t." by Harrison Fluss. Jacobin Mag. February 2, 2018.](https://jacobinmag.com/2018/02/jordan-peterson-enlightenment-nietzsche-alt-right)
 14. ["The Right's Favorite New Intellectual Has Some Truly Pitiable Ideas About Masculinity -- why does anyone take Jordan Peterson seriously?", by Jacob Bacharach. Alternet. February 13, 2018.](https://www.alternet.org/news-amp-politics/rights-favorite-new-intellectual-has-some-truly-pitiable-ideas-about-masculinity)
 2. ["Why Are So Many Young Men Drawn to Jordan Peterson’s Intellectual Misogyny?" by Grant Maxwell, APA Online. February 20, 2018. ](https://blog.apaonline.org/2018/02/20/why-are-so-many-young-men-drawn-to-jordan-petersons-intellectual-misogyny/)
-3. ["A Serious Man", by John Ganz. The Baffler. February 7.](https://thebaffler.com/latest/peterson-ganz-klein)
+3. ["A Serious Man", by John Ganz. The Baffler. February 7, 2018.](https://thebaffler.com/latest/peterson-ganz-klein)
 
 
 
