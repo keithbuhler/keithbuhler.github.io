@@ -106,7 +106,7 @@ This Sandbox page is a playground full of fun projects in various stages of comp
 - [Is Philosophy a Science?](http://www.philosophyisscience.com/) -- A provocative argument regarding philosophy's relationship to other natural and formal sciences. 
 - [The Yale Report of 1828 Ebook](http://www.keithbuhler.com/yalereport) -- Why this classic statement of the importance of Greek and Latin languages is still relevant today (Draft 1)
 - [The Buhler Report (YouTube Channel)](https://www.youtube.com/channel/UC9HkYtB0VI6kwDmnmNgLr3A) -- For timeless wisdom and current events. 
-- [Orthodox Christianity](http://www.keithbuhler.com/buhlerreport/orthodoxy) -- a bit about the ancient church 
+- [Orthodox Christianity](http://www.keithbuhler.com/orthodoxy) -- a bit about the ancient church 
 - [Web Design](/sites) -- A few websites I've created
 - [Follow me on Github](http://bit.ly/keithbuhlergithub) -- Code repositories for my sites (including this site!) and dissertation. Suggest corrections, or fork the code and make your own site. 
 - <a href="/phd-how-to/">How to get a PhD</a> -- My story of earning a terminal degree without contracting a terminal illness. 
