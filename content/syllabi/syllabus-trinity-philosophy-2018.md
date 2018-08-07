@@ -3,7 +3,7 @@ layout: page
 permalink: /trinity-philosophy/
 title: 
 header: 
-      image: http://www.keithbuhler.com/images/morpheushd.jpg
+      image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
 ---
 
 #### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-philosophy-2018.pdf)   

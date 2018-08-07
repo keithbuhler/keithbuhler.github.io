@@ -18,10 +18,10 @@ feature_row:
 {% include feature_row %}
 
 - [Philosophy (10th grade)](/trinity-philosophy/)
-- [History-Bible (9th grade)](/history/)
-- [Spanish 1 (9th)](/spanish1/)
-- [Spanish 2 (10th)](/spanish2/)
-- [Drama (LS)](/drama/)
+- [History-Bible (9th grade)](/history)
+- Spanish 1 (9th)
+- Spanish 2 (10th)
+- Drama (LS) 
 
 
 ### Prior Courses
