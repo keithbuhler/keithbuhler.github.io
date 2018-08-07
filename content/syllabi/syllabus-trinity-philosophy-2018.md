@@ -3,7 +3,7 @@ layout: page
 permalink: /trinity-philosophy/
 title: 
 header: 
-      image: http://www.keithbuhler.com/images/morpheushd.jpg
+      image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
 ---
 
 #### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-philosophy-2018.pdf)   
@@ -45,6 +45,7 @@ This course also covers the Thesis and Law stage of the Progymnasmata. Students 
 Humanities is a discipline based upon the manipulation of abstract ideas as much as on the learning of concrete facts. As a result, humanities coursework and homework consists primarily in in-class discussion, or assigned reading and writing. 
 
 
+![Morpheus](http://www.keithbuhler.com/images/morpheushd.jpg)
 
 ### Learning Goals:
 
@@ -102,6 +103,9 @@ One of the primary goals of this class is to improve in the skill of intellectua
 To earn participation points, you will *voluntarily* share your thoughts in discussion *at least once per week* and respond when called upon. _You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
 
 Everyone earns a 9/10 for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+
+
+![watermelon cat](http://i1.kym-cdn.com/photos/images/facebook/000/002/763/invalid.jpg)
 
 Daily participation will be scored on a scale of 1-5, according to the following criteria:
 
@@ -162,3 +166,6 @@ Parent Signature
 
 ____________________________   
 Date  
+
+
+![queen](https://i.imgflip.com/15sr6z.jpg)
