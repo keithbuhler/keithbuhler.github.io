@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /writing/
+permalink: /writing2017/
 title: 
 header: 
       image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg

@@ -17,14 +17,17 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
-
-
-- [(9th Grade) Ancient History-Bible](/history)
-- [(9th Grade) Pre-Rhetoric, Writing and Grammer](/writing)
-- [Ancient Greek](/greek)
+- [Philosophy (10th grade)](/trinity-philosophy/)
+- [History-Bible (9th grade)](/history/)
+- [Spanish 1 (9th)](/spanish1/)
+- [Spanish 2 (10th)](/spanish2/)
+- [Drama (LS)](/drama/)
 
 
 ### Prior Courses
+- [Ancient History-Bible (9th grade) ](/history2017)
+- [Pre-Rhetoric (9th grade)](/writing2017)
+- [Ancient Greek](/greek)
 
 - Business Ethics ([Syllabus](/syllabus334))  
 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  

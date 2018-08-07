@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /greek/
+permalink: /greek2017/
 title: 
 header: 
       image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg

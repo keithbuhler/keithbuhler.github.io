@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /trinityphilosophy/
+permalink: /trinity-philosophy/
 title: 
 header: 
       image: http://www.keithbuhler.com/images/morpheushd.jpg
