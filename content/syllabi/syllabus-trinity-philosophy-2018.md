@@ -1,19 +1,19 @@
 ---
 layout: page
-permalink: /history/
+permalink: /trinityphilosophy/
 title: 
 header: 
-      image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg
+      image: http://www.keithbuhler.com/images/morpheushd.jpg
 ---
 
-#### [PDF version of 2017-2018 Syllabus](/content/syllabi/history-bible-syllabus-trinity.pdf)   
+#### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-philosophy-2018.pdf)   
 
 <center>
 
 
-<p> Ancient History Syllabus</p>
+<p> Philosophy Syllabus</p>
 
-<p> 2017-2018</p>
+<p> 2018-2019</p>
 
 <p> Dr. Buhler </p>
 
@@ -24,50 +24,58 @@ header:
 
 ### Requirements: 
 
-1. The Holy Bible, *ESV Study Bible*
-2. Peter Leithart, *The Four: A Survey of the Gospels* 
-3. A three ring binder devoted exclusively to this class with appropriate dividers
-4. Spielvogel, *Western Civilization*; 8th Edition, chapters 4-7. (Handouts provided by teacher)
+1. Peter Kreeft, *Summa Philosophica*
+3. Plato, *Republic*
+4. Aristotle, *Nicomachean Ethics*
+5. The Holy Bible, *ESV Study Bible*
+6. A three ring binder devoted exclusively to this class with appropriate dividers
 
 
 
 ### Course Description:
-This course is intended cultivate careful reading and keen understanding of history and the Holy Scriptures.  By studying both history and Sacred Scripture in one course, students will gain a better appreciation for the ongoing dialog between man and God throughout history.
 
-Specifically, this course covers the History of Rome and its impact on Western Civilization from the fourth century before Christ to the early Middle Ages. There is a special focus on the years 0-400 AD, during which time Rome became an empire, Jesus lived and died and resurrected, the Church began and recorded its own history in the New Testament. By studying this epoch, students will wrestle with questions of faith, history, and philosophy, such as how we know that Jesus really rose from the dead, how a historian can account for God's providence, and the relationship between Greek and Christian thought. Students can expect to practice reading, critical thinking, and prayerful study of God's word.
+This course is intended to cultivate students' ability to argue well in conversation and in writing. More deeply, this course is intended to invite students into intellectual maturity by stoking their love of truth and fostering the joy of dialogue. 
 
-Humanities is a discipline based upon the manipulation of abstract ideas, causes, and effects, as much as on the learning of concrete facts. The goal is formation of good thought patterns and excellent character, rather than mastery of a body of technical knowledge. As a result, Humanities coursework involves reading and discussion more than anything else. Humanities homework, when assigned, will generally involve reading and note-taking, but most of our work actually takes place in the classroom. 
+By surveying eight major philosophical topics (such as metaphysics, epistemology, and ethics, and more) students will gain an appreciation for the vocabulary of the "Great Ideas" in the history of western philosophy. 
+
+Armed with this vocabulary, students will read Plato, Aristotle, and other primary sources to grapple with those Great Ideas. Students will form their own thoughts by arguing in speech and in writing. 
+
+This course also covers the Thesis and Law stage of the Progymnasmata. Students will learn to state a thesis clearly, provide arguments in support of the thesis, state objections or counterarguments, and then respond to reasonable objections to their own thesis. 
+
+Humanities is a discipline based upon the manipulation of abstract ideas as much as on the learning of concrete facts. As a result, humanities coursework and homework consists primarily in in-class discussion, or assigned reading and writing. 
 
 
 
 ### Learning Goals:
 
-* To become familiar with the main contours of western history, such as Hellenistic Kingdoms, the Roman Republic, the Roman Empire
-* To understand the Gospels and the New Testament, both in historical context and as living documents relevant for us today
-* To identify likely causes of major historical events such as the founding of the Church, the fall of Rome, the conversion of Constantine
-* To understand, test, and defend the Christian worldview applied to Greece, Israel, Rome, the Gospels, and the early Church.
+* To become familiar with the basic vocabulary of western philosophy (metaphysics, epistemology, ethics, cosmology, etc.)
+* To understand Plato, Aristotle, and other seminal philosophers in their historical context and as thinkers relevant for us today
+* To master the final Thesis/Law stages of the Progymnasmata
+* To identify arguments for and against major positions in each sub-field
+* To practice conversational inquiry (dialectic) into abstract topics as well as one's own life 
+* To understand, test, and defend the Christian worldview applied to God, man, the universe, right and wrong, and human communities
 * To become more virtuous and wise by pursuing truth and goodness 
 
 ### Scope, Sequence:
 
 This course is divided into 16 units of two weeks each:
 
-1. The Hellenistic Kingdoms
-2. The Hellenistic World: Society, Culture, and Religion
-3. Hellenism and the Jewish Resistance
-4. The Emergence of Rome (the Republic)
-5. The Roman Conquest and Culture
-6. The Decline and Fall of the Republic
-7. Ovid and the Age Augustus (63 BC -14 AD)
-8. The Story of Jesus
-9. The Gospels, Mark and Matthew
-10. The Gospels, Luke and Acts
-11. The Early Church
-12. The Gospel of John
-13. Crises of the Third Century, and Diocletian
-14. Christendom: The Transformation of the Roman World
-15. The Late Roman Empire and Germanic Kingdoms
-16. The Byzantine Empire & the Rise of Islam
+1. Orienting to Philosophical Thinking
+2. Logic and Method (the study of truth)
+3. Metaphysics (the study of existence)
+4. Natural Theology (the study of God)
+5. Cosmology (the study of the world)
+6. Anthropology (the study of man)
+7. Epistemology (the study of knowledge)
+8. Applied Ethics (the study of the good life)
+9. Plato, Republic II-III
+10. Plato, Republic IV-V
+11. Plato, Republic VI-VII
+12. Plato, Republic VIII-X
+13. Aristotle, Nicomachean Ethics I-III
+14. Aristotle, Nicomachean Ethics IV-VI
+15. Aristotle, Nicomachean Ethics VII-X
+16. Conclusion
 
 
 
@@ -79,10 +87,9 @@ You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
-| Participation                         | 25%         |  
-| Homework/Readings/Notes               | 25%         |
-| Quizzes                               | 25%         |
-| Exams/Projects                        | 25%         |
+| Participation                         | 30%         |  
+| Homework/Readings                     | 30%         |
+| Papers, Tests, Quizzes                | 40%         |
 
 
  
@@ -94,25 +101,25 @@ One of the primary goals of this class is to improve in the skill of intellectua
 
 To earn participation points, you will *voluntarily* share your thoughts in discussion *at least once per week* and respond when called upon. _You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
 
-Everyone starts at an 80% (B-) for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+Everyone earns a 9/10 for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
 Daily participation will be scored on a scale of 1-5, according to the following criteria:
 
 
-### 5: 
+### 9-10: 
 Students always take a voluntary and active role in their own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
 
  
-### 4: 
+### 8: 
 Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
 
-### 3: 
+### 7 
 Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
 
-### 2: 
+### 6: 
 Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
 
-### 1-0:
+### 1-5:
 Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 
@@ -121,12 +128,12 @@ Read for understanding, not just completion.  Read each book or chapter slowly a
 
 ### Quizzes
 
-Short reading quizzes will assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. So always be prepared for a quiz!
+Short reading quizzes or "pull questions" may be assigned. These assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. So always be prepared for a quiz!
 
 
-### Tests/Exams
+### Tests/Papers
 
-Tests and exams will assess how well you have mastered the core material of the class. That material includes dates, names, facts, concepts, causes, and arguments pertaining to the history of Macedon, Greece, Rome, Israel, and the Early Church. 
+Tests and exams will assess how well you have mastered the core material of the class. Most tests will consist of short to medium-length papers covering assigned topics. 
  
 
 
@@ -134,11 +141,11 @@ Tests and exams will assess how well you have mastered the core material of the 
 
 Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, electronic assignments are to be turned in online and paper assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
 
-Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
+*Late work will not be accepted.*  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
 
 ### Course Outline
 
-A detailed course outline will be available online. \newline
+A detailed course outline may be made available in print or online. \newline
 
 -----
 
