@@ -11,7 +11,7 @@ header:
 <center>
 
 
-<p> Philosophy Syllabus</p>
+<p> Western Philosophy & Pre-Rhetoric II Syllabus</p>
 
 <p> 2018-2019</p>
 
@@ -34,24 +34,26 @@ header:
 
 ### Course Description:
 
+\indent
+
 This course is intended to cultivate students' ability to argue well in conversation and in writing. More deeply, this course is intended to invite students into intellectual maturity by stoking their love of truth and fostering the joy of dialogue. 
 
 By surveying eight major philosophical topics (such as metaphysics, epistemology, and ethics, and more) students will gain an appreciation for the vocabulary of the "Great Ideas" in the history of western philosophy. 
 
 Armed with this vocabulary, students will read Plato, Aristotle, and other primary sources to grapple with those Great Ideas. Students will form their own thoughts by arguing in speech and in writing. 
 
-This course also covers the Thesis and Law stage of the Progymnasmata. Students will learn to state a thesis clearly, provide arguments in support of the thesis, state objections or counterarguments, and then respond to reasonable objections to their own thesis. 
+This course also reviews all prior stages of the Progymnasmata and covers the last stage: Thesis and Law. Students will learn to state a thesis/law clearly, provide arguments in its support, and state objections or counterarguments, and then respond to reasonable objections to their own thesis. 
 
 Humanities is a discipline based upon the manipulation of abstract ideas as much as on the learning of concrete facts. As a result, humanities coursework and homework consists primarily in in-class discussion, or assigned reading and writing. 
 
 
-![Morpheus](http://www.keithbuhler.com/images/morpheushd.jpg)
 
 ### Learning Goals:
 
 * To become familiar with the basic vocabulary of western philosophy (metaphysics, epistemology, ethics, cosmology, etc.)
 * To understand Plato, Aristotle, and other seminal philosophers in their historical context and as thinkers relevant for us today
-* To master the final Thesis/Law stages of the Progymnasmata
+* To review the Progymnasmata stages of fable, narrative, chreia/maxim, refutation/confirmation, and encomium/invective. 
+* To introduce the final stage o the Progymnasmata: Thesis/Law
 * To identify arguments for and against major positions in each sub-field
 * To practice conversational inquiry (dialectic) into abstract topics as well as one's own life 
 * To understand, test, and defend the Christian worldview applied to God, man, the universe, right and wrong, and human communities
@@ -62,20 +64,20 @@ Humanities is a discipline based upon the manipulation of abstract ideas as much
 This course is divided into 16 units of two weeks each:
 
 1. Orienting to Philosophical Thinking
-2. Logic and Method (the study of truth)
-3. Metaphysics (the study of existence)
-4. Natural Theology (the study of God)
+2. Logic and Method (the study of truth) / Fable, Narrative
+3. Metaphysics (the study of existence) / Refutation, Confirmation
+4. Natural Theology (the study of God)  / Encomium, Invective
 5. Cosmology (the study of the world)
-6. Anthropology (the study of man)
-7. Epistemology (the study of knowledge)
-8. Applied Ethics (the study of the good life)
-9. Plato, Republic II-III
-10. Plato, Republic IV-V
-11. Plato, Republic VI-VII
-12. Plato, Republic VIII-X
-13. Aristotle, Nicomachean Ethics I-III
-14. Aristotle, Nicomachean Ethics IV-VI
-15. Aristotle, Nicomachean Ethics VII-X
+6. Anthropology (the study of man)       / Thesis
+7. Epistemology (the study of knowledge) / Thesis, Law
+8. Applied Ethics (the study of the good life) / Thesis, Law
+9. Plato, Republic II-III / Thesis, Law
+10. Plato, Republic IV-V / Thesis, Law
+11. Plato, Republic VI-VII / Thesis, Law
+12. Plato, Republic VIII-X / Thesis, Law 
+13. Aristotle, Nicomachean Ethics I-III / Thesis, Law
+14. Aristotle, Nicomachean Ethics IV-VI / Thesis, Law
+15. Aristotle, Nicomachean Ethics VII-X / Thesis, Law
 16. Conclusion
 
 
@@ -90,8 +92,8 @@ You will be graded primarily on reading, participation, and tests.
 | --------------------------------------|-------------|
 | Participation                         | 30%         |  
 | Homework/Readings                     | 30%         |
-| Papers, Tests, Quizzes                | 40%         |
-
+| Papers, Tests                         | 30%         |
+| Quizzes                               | 10%         |
 
  
 
@@ -105,37 +107,36 @@ To earn participation points, you will *voluntarily* share your thoughts in disc
 Everyone earns a 9/10 for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
 
-![watermelon cat](http://i1.kym-cdn.com/photos/images/facebook/000/002/763/invalid.jpg)
 
 Daily participation will be scored on a scale of 1-5, according to the following criteria:
 
 
-### 9-10: 
+### 90-100: 
 Students always take a voluntary and active role in their own learning. They challenging themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
 
  
-### 8: 
+### 80: 
 Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
 
-### 7 
+### 70:
 Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
 
-### 6: 
+### 60: 
 Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
 
-### 1-5:
+### 10-50:
 Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 
 ### Reading tips:
 Read for understanding, not just completion.  Read each book or chapter slowly and actively, pausing to ask yourself: What is the main thesis? Is it true? Take notes summarizing the story or argument of the text and your questions or opinions on that story.  Read as slowly as you must in order to read for understanding; you will get faster over time! Also, talk with each other before class: What was the main point of the reading? What was especially confusing? What especially interesting? Come to class with objections, questions, and arguments. 
 
-### Quizzes
+### Quizzes:
 
 Short reading quizzes or "pull questions" may be assigned. These assess that you read the assigned text. These are "easy points" if you are diligent in reading. Some days may not have reading quizzes, and some quizzes may not be announced. So always be prepared for a quiz!
 
 
-### Tests/Papers
+### Tests/Papers:
 
 Tests and exams will assess how well you have mastered the core material of the class. Most tests will consist of short to medium-length papers covering assigned topics. 
  
@@ -147,7 +148,7 @@ Only quality work from students will be accepted.  Quality work is clean, clear,
 
 *Late work will not be accepted.*  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
 
-### Course Outline
+### Course Outline:
 
 A detailed course outline may be made available in print or online. \newline
 
@@ -168,4 +169,3 @@ ____________________________
 Date  
 
 
-![queen](https://i.imgflip.com/15sr6z.jpg)
