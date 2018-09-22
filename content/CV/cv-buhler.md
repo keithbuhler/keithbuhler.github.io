@@ -8,7 +8,7 @@ sidebar:
       nav: 
 --- 
 
-### Curriculum Vitae (2017)
+### Curriculum Vitae (2018)
 ### Keith Buhler
 
 #### [PDF version](http://www.keithbuhler.com/content/CV/cv-buhler.pdf)
@@ -29,7 +29,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 
 ### EMPLOYMENT
-1. Instructor of History, Greek, Writing, Trinity Classical Academy, 2017 - present
+1. Humanities Faculty, Trinity Classical Academy, 2017 - present 
 1. Postdoctoral Scholar, University of Kentucky,  Spring 2017 
 2. Instructor of Philosophy, Asbury University, 2013-2017
 3. Director of High School, Veritas Academy, 2013-2014
@@ -77,11 +77,16 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 ### SECONDARY SCHOOL COURSES
 
 
-*Trinity Classical Academy*, 2017-2018
+*Trinity Classical Academy*, 2017 - present
 
-1. Roman History and the Gospels (x3)
-2. Pre-Rhetoric 
-3. Ancient Greek
+1. Ancient Roman History (x4)
+2. Writing & Pre-Rhetoric I
+3. Writing & Pre-Rhetoric II
+3. Ancient Greek Language
+4. Spanish 1
+5. Spanish 2 
+6. Philosophy I
+7. Drama Elective
 
 
 *Freedom Project Academy (online)*
@@ -141,6 +146,9 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 ### INVITED PUBLIC TALKS
 
+1. "Philosophy for Everyone", Trinity Classical Academy, Los Angeles, 2018 (upcoming)
+2. "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts, 2018 (upcoming)
+1. "Assessing for Virtue", Association of Classical Christian Schools, Dallas TX 2018.
 1. "Effective, Enjoyable, Everlasting: Three Benefits of Classical Education", Chesterton School of Liberal Arts Launch event, 2017. 
 2. "Education as Initiation: When School is the Real World", University of St. Katherine, Forum Lectures, Fall 2017.
 2. "Vainglory and Pride", Sojourner's Church, August 2017
@@ -154,23 +162,13 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 8. "Life Experience as a Text: Learning From Initiatives," Biola University, CA 2007.
 
 
-### AWARDS AND HONORS
-
-Travel Funding, University of Kentucky Philosophy Department (2014, 2015, 2016)       
-Travel Funding, University of Kentucky Graduate School (2014)     
-Teaching Assistantship, University of Kentucky (2012-2016)     
-Perpetual Member of the Torrey Honors Institute, Academic Honors Society (2004)       
-
-
 ### LANGUAGES
 Reading proficiency in Ancient Greek  
 Speaking fluency in Spanish  
-Basic programming in HTML, CSS, and LaTex  
+Basic programming knowledge of HTML, CSS, and LaTex  
 
 ### AFFILIATIONS
-Society of Medieval and Renaissance Philosophy, 2012-present      
-American Philosophical Association, 2014-present   
-Society of Orthodox Philosophers in America, 2014-present  
-International Society for MacIntyrean Enquiry, 2015-present       
-
-
+Society of Orthodox Philosophers in America, 2014-present   
+International Society for MacIntyrean Enquiry, 2015-present         
+Society of Medieval and Renaissance Philosophy, 2012-2017       
+American Philosophical Association, 2014-2017   
