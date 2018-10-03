@@ -115,3 +115,7 @@ Virtue is not a passion nor a faculty but a state of character.
 11. The notion of a "human telos" is facistic. 
 12. The notion of virtue is inherently racist, sexist, classist, and elitist. 
 13. Virtue accounts are culturally relative (MacIntyre responds; Solomon responds, Nussbaum responds;)
+
+--- 
+
+Tree of Virtues, the Way of Life handout 

@@ -1,0 +1,78 @@
+---
+title: Liberal Arts Tradition -- Grammar, Math, and Philosophy 
+layout: slide
+theme: black
+---
+
+<section data-background="http://www.keithbuhler.com/images/background-morality.svg"><!--Intro begin-->
+<section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown><!--Intro Splash begin-->
+
+# Introduction
+
+- Today: Apologetics
+- Discussion
+
+</section> <!--Intro Splash end-->
+<section data-markdown>  <!--Overview Begin-->
+
+## Liberal Arts 1
+
+![justin](https://blogs.ancientfaith.com/onbehalfofall/wp-content/uploads/sites/17/2014/06/justinmartyronlxx.jpg)
+
+- Greek philosopher who converted 132 AD
+- Wrote to Jews, fellow Greeks, and Roman emperors
+- Died 165 AD, as a martyr
+- An early "Church Father" (Clement, Polycarp... who else?)
+
+
+</section><!--Overview end-->
+<section data-background="https://pursuingveritasdotcom.files.wordpress.com/2014/08/apostolic-fathers.jpeg" data-markdown>
+
+
+</section><!--Overview end-->
+<section data-markdown>
+
+## Grammar
+- Mentored by the Apostles, but not Apostles
+- Many writers, leaders, preachers, thinkers of the church from the Apostles to about the 8th century
+- Justin Martyr is in this broad group
+- One of the first "apologists"
+
+</section><section data-markdown>
+
+### Apologia
+
+- ἀπολογία
+- Root of "apologetics" and "apology"
+- What does apologia mean? 
+
+</section><section data-markdown>
+
+## Mathematics
+
+</section><section data-markdown>
+
+## Philosophy
+
+</section><section data-markdown>
+
+## So what?
+
+</section><section data-markdown>
+
+## Now what?
+
+</section><section data-markdown>
+
+</section><section data-background="https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg" data-markdown >
+
+
+## Discussion Question
+
+- Today, what is something good that Christians have in common with non-Christians? 
+- And how can we build on that to preach the gospel to secular folks? 
+- What are _your_ questions?
+
+
+</section>  
+</section><!--Discussion of faith and reasonend-->
