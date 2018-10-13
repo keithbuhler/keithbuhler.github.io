@@ -25,6 +25,8 @@ These two -- sorting through feelings and sorting through stuff -- are related.
 
 A stubborn pile that refused to be organized, put away, thrown away represents a pile of emotion that has to be *felt.* The same probably goes for stubborn pounds that refuse to go away.  Extra weight on the body and extra stuff around the house are spiritually identical. 
 
+<!--more-->
+
 Health comes from eating what you need (no more) and eating what is good for you (less junk) and burning it all off with healthy and enjoyable activity. Similarly, cleanliness comes from taking into your life what you use (no more) and what is actually good to have around (no junk), while consistently "burning it all off" by decluttering, getting rid, making decisions, and processing emotions. 
 
 
