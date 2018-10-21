@@ -7,7 +7,11 @@ permalink: /phd/
 ---
 
 
-To peruse my dissertation, you may want to download the [PDF](https://github.com/keithbuhler/dissertation-story/blob/gh-pages/Buhler%2C%20Becoming%20What%20We%20Are.pdf). You can also read each chapter online, but the footnotes are still being converted to HTML and so do not work.  Feel free to send me your comments. Please do not cite or distribute this draft until [Jan 1, 2018.](http://uknowledge.uky.edu/philosophy_etds/13/) Thanks!
+To peruse my dissertation, you may want to download the [PDF](http:www.keithbuhler.com/content/philosophy/buhler-becoming-what-we-are-philosophy-dissertation.pdf/). The PDF has all the content, citations, and proper formatting. 
+
+If you wish to read chapters online, be aware that the footnotes were not converted to HTML.   
+
+I appreciate hearing your comments and comments. For citation information, [you can refer to this University of Kentucky page.](http://uknowledge.uky.edu/philosophy_etds/13/) Thanks!
  
 ### TABLE OF CONTENTS 
 
