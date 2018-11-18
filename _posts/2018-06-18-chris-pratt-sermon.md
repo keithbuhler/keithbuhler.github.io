@@ -19,24 +19,27 @@ Chris Pratt [just received a generation achievement award from MTV](http://www.m
 It's not really a sermon because he had to make it funny, too. He went all Jordan Peterson on us and gave "Nine Rules from Chris Pratt, generation award winner". The nine rules consist of 33% jokes (#1, #4, #7), 22% life advice (#3, #5), and 44% gospel lesson (#2, #9, #6, #8). 
 
 
-He mixes in the jokes with the gospel and even explains what he is doing (rule #4 is to trick a dog into taking his medicine by putting the medicine in a little piece of hamburger... which is exactly what he is doing.
+He mixes in the jokes with the gospel and even explains what he is doing: rule #4 is to trick a dog into taking his medicine by putting the medicine in a little piece of hamburger... which is exactly what he is doing.
 
 Here's his "gospel lesson." 
 
-(#2) you have a soul, be careful with it.
+(#2) "You have a soul, be careful with it."
 
-(#9) you are imperfect. 
+(#9) "You are imperfect."
 
-(#6) God is real, he loves you and wants the best for you. 
+(#6) "God is real, he loves you and wants the best for you." 
 
-(#8) Learn to pray. It's easy and so good for your soul."
+(#8) "Learn to pray. It's easy and so good for your soul.
 
 
-He even alluded to patriotism and the sacrifice of Jesus Christ when he said  "grace is a gift. Like the freedom we enjoy in this country that grace was paid for with somebody else’s blood. Do not forget it. Don’t take it for granted."
+He even alluded to patriotism and the sacrifice of Jesus Christ when he said:
+
+>"grace is a gift. Like the freedom we enjoy in this country that grace was paid for with somebody else’s blood. Do not forget it. Don’t take it for granted."
 
 Beautiful work from Chris Pratt. 
 
-Here's all the lessons in order: 
+
+To see his whole speech, click the link below or here's all the lessons in order: 
 
 -----------------
 
