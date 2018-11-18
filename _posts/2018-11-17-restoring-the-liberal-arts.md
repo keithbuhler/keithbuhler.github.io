@@ -22,13 +22,11 @@ For example, I went to a “Liberal Arts” university: Biola University. There,
 
 Then, my first teaching job was introducing high school students to the “Great Conversation” through Great Books. 
 
-Since that time, I’ve been involved in multiple schools and non-profits aimed at restoring the liberal arts in American culture, rebuilding Western Civilization. 
+Since that time, I’ve been involved in multiple schools and non-profits aimed at rebuilding Western Civilization, cultivating the disinterested pursuit of knowledge for its own sake, and restoring a love of transcendent goods such as harmony, justice, fidelity, and truth. 
 
-I have even studied theology and philosophy at the graduate level, earning a master's in both and a doctorate in philosophy. 
+For the past seven years, I studied theology and philosophy at the graduate level -- two subjects that are presumably liberal arts or closely related. 
 
-And yet despite this exposure and reflection on the topic of liberal arts, I'm still not certain that I know what the term 'liberal arts' even means. And I'm certain that not many people who use the term know what it means. 
-
-Perhaps even the fundamental question of what liberal arts *are* is more difficult than we realize. 
+And yet despite this exposure and reflection on the topic of liberal arts, I'm still not certain that I (or anyone else) really knows what these things are.
 
 Sure, people use the term. But do they have more than a vague idea of its reference?
 
