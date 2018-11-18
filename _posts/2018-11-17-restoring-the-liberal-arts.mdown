@@ -12,25 +12,27 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header]
+![header](https://images.collegexpress.com/blog/why-liberal-arts.jpg)
 
 For the past twenty years or so, I’ve been trying to understand this concept of “Liberal Arts.” I don't think I fully understand it yet. And I don't think you do either. 
 
-One would hope 
+One would hope that any college-educated person steeped in liberal arts institutions would have a clear idea just what those things are. But we don't. 
 
-I went to a “Liberal Arts” university (Biola), majored in Humanities, the Great Books at the Torrey Honors Institute. 
+For example, I went to a “Liberal Arts” university: Biola University. There, I not only majored in Humanities but I studied the "Great Books" of western civilization at the Torrey Honors Institute. 
 
-My first teaching job was introducing high school students to the “Great Conversation” through Great Books. 
+Then, my first teaching job was introducing high school students to the “Great Conversation” through Great Books. 
 
-I’ve been involved in multiple schools and non-profits aimed at restoring the liberal arts in American culture, rebuilding Western Civilization. 
+Since that time, I’ve been involved in multiple schools and non-profits aimed at restoring the liberal arts in American culture, rebuilding Western Civilization. 
 
-I studied theology and philosophy at the graduate level, earning a master's in both and a doctorate in philosophy. I wrote a book-length dissertation about ethics and Aristotle within a framework of contemporary scientific naturalism. 
+I have even studied theology and philosophy at the graduate level, earning a master's in both and a doctorate in philosophy. 
 
-And yet I'm still not certain that I know what the term 'liberal arts' even means. And I'm certain that not many people who use the term know what it means. 
+And yet despite this exposure and reflection on the topic of liberal arts, I'm still not certain that I know what the term 'liberal arts' even means. And I'm certain that not many people who use the term know what it means. 
 
 Perhaps even the fundamental question of what liberal arts *are* is more difficult than we realize. 
 
-If a college labels itself as a "Liberal Arts" institution (as opposed to a "research" institution), they might mean no more by that than that they value a smattering of different subjects. Wikipedia defines the goal of liberal arts colelges as being to "impart a broad general knowledge and develop general intellectual capacities, in contrast to a professional, vocational, or technical curriculum." Liberal arts often stands for "general" knowledge as against specialized knowledge; or humanities as against STEM; or abstract, genteel, white-collar subjects as against concrete, blue collar subjects. 
+Sure, people use the term. But do they have more than a vague idea of its reference?
+
+When a college labels itself as a "Liberal Arts" institution (as opposed to a "research" institution), they might mean no more by that than that they value a smattering of different subjects. Wikipedia defines the goal of liberal arts colelges as being to "impart a broad general knowledge and develop general intellectual capacities, in contrast to a professional, vocational, or technical curriculum." Liberal arts often stands for "general" knowledge as against specialized knowledge; or humanities as against STEM; or abstract, genteel, white-collar subjects as against concrete, blue collar subjects. 
 
 But these vagueries are insufficient in the minds of an educator. One would expect clear answers to fundamental questions such as: how many liberal arts are there? What distinguishes them from other arts? Where did they begin and how did they evolve, if they evolved at all? Is mathematics a liberal art? How about physics? If "grammar" is a traditional liberal art, then why don't liberal arts schools teach grammar? 
 
