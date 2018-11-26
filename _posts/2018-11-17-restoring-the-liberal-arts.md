@@ -18,11 +18,11 @@ For the past twenty years or so, I’ve been trying to understand this concept o
 
 One would hope that any college-educated person steeped in liberal arts institutions would have a clear idea just what those things are. But we don't. 
 
-For example, I went to a “Liberal Arts” university: Biola University. There, I not only majored in Humanities but I studied the "Great Books" of western civilization at the Torrey Honors Institute. 
+For example, I went to a “Liberal Arts” university: Biola University. There, I majored in Humanities and studied the "Great Books" of western civilization at the Torrey Honors Institute. 
 
-Then, my first teaching job was introducing high school students to the “Great Conversation” through Great Books. 
+Then, my first teaching job was equipping young minds to join the “Great Conversation” by reading and discussing Great Books. 
 
-Since that time, I’ve been involved in multiple schools and non-profits aimed at rebuilding Western Civilization, cultivating the disinterested pursuit of knowledge for its own sake, and restoring a love of transcendent goods such as harmony, justice, fidelity, and truth. 
+Since that time, I’ve been involved in multiple schools and non-profits aimed at rebuilding Western Civilization through modern education -- schools that cultivate the disinterested pursuit of knowledge for its own sake, and restoring a love of transcendent goods such as goodness, truth, beauty, harmony, justice, and fidelity. 
 
 For the past seven years, I studied theology and philosophy at the graduate level -- two subjects that are presumably liberal arts or closely related. 
 
@@ -30,7 +30,9 @@ And yet despite this exposure and reflection on the topic of liberal arts, I'm s
 
 Sure, people use the term. But do they have more than a vague idea of its reference?
 
-When a college labels itself as a "Liberal Arts" institution (as opposed to a "research" institution), they might mean no more by that than that they value a smattering of different subjects. Wikipedia defines the goal of liberal arts colelges as being to "impart a broad general knowledge and develop general intellectual capacities, in contrast to a professional, vocational, or technical curriculum." Liberal arts often stands for "general" knowledge as against specialized knowledge; or humanities as against STEM; or abstract, genteel, white-collar subjects as against concrete, blue collar subjects. 
+When a college labels itself as a "Liberal Arts" institution (as opposed to a "research" institution), they might mean no more by that than that they value a smattering of different subjects. 
+
+Wikipedia defines the goal of liberal arts colelges as being to "impart a broad general knowledge and develop general intellectual capacities, in contrast to a professional, vocational, or technical curriculum." Liberal arts often stands for "general" knowledge as against specialized knowledge; or humanities as against STEM; or abstract, genteel, white-collar subjects as against concrete, blue collar subjects. 
 
 But these vagueries are insufficient in the minds of an educator. One would expect clear answers to fundamental questions such as: how many liberal arts are there? What distinguishes them from other arts? Where did they begin and how did they evolve, if they evolved at all? Is mathematics a liberal art? How about physics? If "grammar" is a traditional liberal art, then why don't liberal arts schools teach grammar? 
 
@@ -38,7 +40,11 @@ My football coach used to say that "it's all about fundamentals." Today, sport c
 
 In education, it's all about the fundamentals: What is education? What is its true nature and purpose? What methods or strategies are universal and what methods are particular to the group of students toward which they are aimed?
 
-My goal in this first part of the series is to suggest that we don't very well know the fundamentals.  In later parts, I want to offer a brief answer to the question of what liberal arts are and why they matter. 
+My goal in this first part of the series is to suggest that we don't very well know the fundamentals. 
+
+In later parts, I want to offer a brief answer to the question of what liberal arts are and why they matter. 
+
+At the Chesterton school, we are not just aiming to provide a rigorous education; we are aiming to bring inspiring faculty into contact with young minds who can restore education to its classical roots.  
 
 ## Discussion questions ##
 
