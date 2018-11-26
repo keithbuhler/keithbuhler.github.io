@@ -44,8 +44,6 @@ My goal in this first part of the series is to suggest that we don't very well k
 
 In later parts, I want to offer a brief answer to the question of what liberal arts are and why they matter. 
 
-At the Chesterton school, we are not just aiming to provide a rigorous education; we are aiming to bring inspiring faculty into contact with young minds who can restore education to its classical roots.  
-
 ## Discussion questions ##
 
 Did you go to a "liberal arts" school? Did they teach you what liberal arts are? Or did they just offer a smattering of knowledge from the humanities and sciences? 
