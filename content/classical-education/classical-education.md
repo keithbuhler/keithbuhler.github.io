@@ -3,7 +3,7 @@ layout: single
 title: What is Classical Education?
 permalink: /classical-education/
 header:
-      image: https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/athens-jerusalem.jpg?itok=PUGDe6ab
+      image: https://upload.wikimedia.org/wikipedia/commons/d/d5/1_Alexander_Nevski_Cathedral%2C_Sofia%2C_Bulgaria%2C_2017.jpg
 ---
 
 >"The greatest service we can do to education today is to teach fewer subjects.  

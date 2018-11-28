@@ -8,12 +8,12 @@ author_profile: false
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
-      teaser: https://s3-eu-west-1.amazonaws.com/spiked-online.com/images/students_sad.jpg
+      teaser: https://upload.wikimedia.org/wikipedia/commons/1/1d/Grief_is_the_price_we_pay_for_love._5023437110.jpg
 excerpt_separator: <!--more-->
 
 ---
 
-![teaser](https://s3-eu-west-1.amazonaws.com/spiked-online.com/images/students_sad.jpg)
+![teaser](https://upload.wikimedia.org/wikipedia/commons/1/1d/Grief_is_the_price_we_pay_for_love._5023437110.jpg)
 
 I teach 5 classes at two universities in Kentucky. So, after reading a lot about students on campus feeling terrible or unsafe after a Trump election victory, I decided to do my own exit poll. I asked students whether they felt generally happy or generally bad (mad, scared, sad) or generally "meh" (i.e., ambivalent, unconcerned, indifferent, apathetic). 
 
