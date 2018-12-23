@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: slide
+permalink: /business1syllabus/
 ---
 <section><!--Syllabus begin-->
 <section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" data-markdown><!--Intro slide begin-->
