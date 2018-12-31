@@ -32,7 +32,7 @@ to preserve me like His precious insect.
 
 1. It is healthy. My meditation mentor created [a podcast explaining benefits of meditation, summarizing the latest research, teaching how to meditate, and offering a dozen guided meditations.](http://www.meditationforhealthpodcast.com/)
 2. It is relaxing. [Meditation activates the parasympathetic system *better* than sleep. Herbert Benson, M.D., made meditation scientificaly respectable virtually overnight through his study of the "Relaxation Response".](https://www.bensonhenryinstitute.org/about/dr-herbert-benson)
-3. It reduces anxiety, depression, [insomnia](http://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726), [blood pressure](http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#), and more. [See also John Parrot's excellent summary here.](https://relaxlikeaboss.com/the-art-of-mindfulness/)
+3. It reduces anxiety, depression, [insomnia](http://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726), [blood pressure](http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#), and more. 
 4. It increases awareness, compassion, self-control, peacefulness, and more. 
 5. It feels good. 
 6. Every religious tradition practices meditation-- including Christianity -- and atheists and agnostics do too. It's like laughing or studying the stars: it's human.
@@ -89,6 +89,7 @@ A: No, the [military](http://psychcentral.com/news/2010/02/18/mindfulness-traini
 5. [Robert Puff, *Reflections on Meditation: A Guide for Beginners*](http://www.amazon.com/Reflections-Meditation-A-Guide-Beginners-ebook/dp/B005VQUZNU/ref=pd_sim_351_2?ie=UTF8&dpID=41-IouFr2oL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=18YA35XJ68S5PAHZ53XS)
 6. [Some of the 3,000+ scientific studies on the benefits](http://liveanddare.com/benefits-of-meditation/)
 7. [JenReviews guide to meditation](https://www.jenreviews.com/how-to-meditate/)
+8. [John Parrot's excellent summary of meditation resources.](https://relaxlikeaboss.com/the-art-of-mindfulness/)
 
 ## More Audio  ##
 
