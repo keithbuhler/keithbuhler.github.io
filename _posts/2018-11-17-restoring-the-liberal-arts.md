@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header](https://images.collegexpress.com/blog/why-liberal-arts.jpg)
+![header](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Giovanni_di_Ser_Giovanni_Guidi%2C_%27Lo_Scheggia%27_-_The_Seven_Liberal_Arts_-_Google_Art_Project.jpg/800px-Giovanni_di_Ser_Giovanni_Guidi%2C_%27Lo_Scheggia%27_-_The_Seven_Liberal_Arts_-_Google_Art_Project.jpg)
 
 For the past twenty years or so, I’ve been trying to understand this concept of “Liberal Arts.” I don't think I fully understand it yet. And I don't think you do either. 
 

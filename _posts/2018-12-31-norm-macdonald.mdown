@@ -12,8 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header](https://c1.staticflickr.com/6/5249/5327964705_1e980a96de.jpg)
-
+![header](/norm.png)
 
 I just read Norm MacDonald's "Based on a True Story", after receiving it for Christmas (Good Christmas gift!)
 
@@ -34,3 +33,8 @@ Some, like Cosby, fall from grace because of immoderation and vice. But it was n
 Others, like Louis C.K., Artie Lange, Norm MacDonald *make their comedy about their own horrifying lack of character.* That's the joke. "I'm such a bad person, isn't it hilarious? No really, I'm this bad off stage as well!"
 
 Why is it that these modern comedians sacrifice their life and happiness at the altar of being funny? Is it that the funniest thing possible is not jokes or stories about fools, but watching a fool throw his actual life away in folly? If so, are the laughs worth it?
+
+
+----
+
+*Image Credit: [Greg 2600](https://www.flickr.com/photos/greg2600/)*
