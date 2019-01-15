@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header](/norm.png)
+![header](http://www.keithbuhler.com/images/norm.png)
 
 I just read Norm MacDonald's "Based on a True Story", after receiving it for Christmas (Good Christmas gift!)
 
