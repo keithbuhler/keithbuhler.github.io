@@ -3,7 +3,7 @@ layout: single
 title: Classical Education Resources
 permalink: /classical-resources/
 header:
-      image: https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/athens-jerusalem.jpg?itok=PUGDe6ab
+      image: https://images.unsplash.com/photo-1503152394-c571994fd383?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
 ---
 
 
