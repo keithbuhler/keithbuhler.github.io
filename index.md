@@ -1,13 +1,11 @@
 ---
 layout: page
-title: 
+title: Welcome to keithbuhler.com
 permalink: 
 header:
       image: http://www.keithbuhler.com/images/keithat-trinity-speaking.jpg
 related: 
 ---
-
-## Welcome to keithbuhler.com
 
 I am a philosopher and classical educator. My life's work is to help people in and out of the classroom by teaching, coaching, and modeling the practical skills that bring about human flourishing. 
 
