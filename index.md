@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: 
 header:
-      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+      image: keithat-trinity-speaking.jpg
 related: 
 ---
 
