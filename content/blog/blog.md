@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: 
+permalink: /blog
 header:
       image: http://www.keithbuhler.com/images/keithat-trinity-speaking.jpg
 related: 
