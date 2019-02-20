@@ -19,10 +19,7 @@ The content is written in plain text [Markdown](https://daringfireball.net/proje
 
 When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML. 
 
-The HTML which is  *hosted* and published for free by Github. Amazing, right?
-
-![i am batman, thank you very much](https://m.popkey.co/d86114/qxy0g.gif)
-
+The HTML which is  *hosted* and published for free by Github. Amazing. 
 
 
 ### Style
@@ -32,14 +29,14 @@ The core of the CSS design is the beautiful [Minimal Mistakes Layout](https://mm
 
 ### Map
 
-The site is constantly being revised and updated because of my ADD. However, the main information is the BLOG (BUHLER REPORT), ABOUT the author, and some of my WRITINGS, TEACHING, and RESEARCH. There are also resources about PHILOSOPHY and other fun projects in the SANDBOX.  
+The site is constantly being revised and updated because of my ADD. However, the main information is the BLOG (BUHLER REPORT), RESEARCH (PHILOSOPHY), and PROJECTS which includes  some of my WRITINGS and other fun SANDBOX projects.
 
 
 ### Acknowledgments
 
 I learned to write Markdown and how to use Github with major help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, and [W3Schools](www.w3schools.com). 
 
-The little "KB" Logo was created by LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Create your own, free. (Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a>) 
+The little "KB" Logo I used for awhile was created by LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Create your own, free. (Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a>) 
 
 
 
