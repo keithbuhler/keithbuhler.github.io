@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Welcome 
+title: Welcome to Keith Buhler's website
 permalink: 
 header:
       image: http://www.keithbuhler.com/images/keithat-trinity-speaking.jpg
 related: 
 ---
 
-I am a philosopher and classical educator. My life's work is to help people in and out of the classroom by teaching, coaching, and modeling the practical skills that bring about human flourishing. 
+This site is a guide to my professional and personal activities. 
 
-The goal of human life is the cultivation of love and wisdom. Achieving this goal in each person's particular circumstances is difficult; it requires identifying and fighting the many vices that so easily entangle. It requires cultivating virtue in daily life. It requires pursuing wisdom tenaciously. 
+As a philosopher and classical educator, my mission is to help people (in the classroom and out) to pursue love and wisdom. My tools are teaching, coaching, and modeling the practical skills that bring about human flourishing. 
 
-My philosophical research centers on virtue, ethics, and naturalism. You can get to know my academic, professional, and personal activities or begin exploring some resources aimed at helping you become a more virtuous, wise, and loving person.
+Achieving the high goal of human flourishing, and understanding its relation to each person's particular circumstances, is difficult. The pursuit requires identifying and fighting the many vices that so easily entangle; and it requires cultivating virtue in daily life. It requires pursuing wisdom tenaciously. 
 
-Thank you for visiting. 
-   
+Yet all these things are possible. 
+
+Thank you for visiting. Please explore my research, blog, or some of the other fun and interesting resources on this site intended to enrich your journey. 

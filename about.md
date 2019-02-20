@@ -9,14 +9,9 @@ header:
 
 Thank you for visiting keithbuhler.com. This site hosts the thoughts and projects of Keith Buhler (PhD, Philosophy), a philosopher, teacher, and writer from Los Angeles. 
 
-The Buhler Report aims to seek wisdom. The goal of philosophy as a [way of life](https://amzn.to/2vjDyuJ) is to live the examined life, the reflective life, the pursuit of wisdom. Put differently, the goal is to live a dialogic life. The word 'dialogic' captures three important concepts in a single word: 1. Dialogue -- discussion through words between two or more people; 2. Logic -- the necessary relations between propositions; and Logos -- reality, truth, speech. 
-
-In pursuing wisdom, recurring themes include  [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), current [politics](/categories/#Politics-ref), and popular culture.
-
-
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
 
-A little about me: I'm currently a full-time teacher at a classical Christian school in CA. Before that, I taught philosophy at Asbury University and the University of Kentucky. 
+I'm currently a full-time teacher at a classical Christian school in CA. Before that, I taught philosophy at Asbury University and the University of Kentucky. 
 
 My academic research focuses on ethics and the philosophy of religion. You can peruse some of my [academic papers here.](https://trinityclassicalacademy.academia.edu/KeithBuhler) 
 
@@ -28,7 +23,15 @@ My philosophy dissertation is a book-length defense of a contemporary form of Ar
 
 Finally, some of my non-fiction writing on topics such as education, culture, and theology have been published in a variety of venues such as Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com.
 
-This is a dialogue, not a monologue! Please check out my YouTube channel for videos, and let me know your thoughts, whether you agree, disagree, or have questions or comments.  Your comments are read and very much appreciated. 
+This site is not a monologue but a dialogue.  Please check out my YouTube channel for videos, and let me know your thoughts, whether you agree, disagree, or have questions or comments.  Your comments are read and very much appreciated. 
+
+
+My blog, The Buhler Report, aims to pursue wisdom in current issues and timeless wisdom. The goal of philosophy as a [way of life](https://amzn.to/2vjDyuJ) is to live the examined life, the reflective life, the pursuit of wisdom. 
+
+Put differently, the goal is to live a dialogic life. The word 'dialogic' captures three important concepts in a single word: 1. Dialogue -- discussion through words between two or more people; 2. Logic -- the necessary relations between propositions; and Logos -- reality, truth, speech. 
+
+In pursuing wisdom, recurring themes include  [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), current [politics](/categories/#Politics-ref), and popular culture.
+
 
 
 *All opinions contained in this site are my own and do not represent the views of any organizations I am affiliated with.*
