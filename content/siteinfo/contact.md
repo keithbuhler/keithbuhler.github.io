@@ -26,14 +26,13 @@ while(x=eval(x));
 </script>
 
 
+* [Twitter](https://twitter.com/Keith_Buhler) Keith_Buhler
+* [Facebook](https://www.facebook.com/keithedbuhler)  keithedbuhler
+* Call:  area 562 the rest is 23zero 29too-zero
+* Mail: Email me first.
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
 * Secure mail:  circularreason [that swirly sign] protonmail.com
-* [Facebook](https://www.facebook.com/keithedbuhler)  keithedbuhler
-* [Twitter](https://twitter.com/Keith_Buhler) Keith_Buhler
-* [Google Plus](https://plus.google.com/+KeithBuhler) +KeithBuhler
-* Call:  area 562 number 23O 292O
-* Mail: Pending
 
-(Current as of June 2017)
+(Current as of February 2019)
 
 
