@@ -12,10 +12,9 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
+A [Facebook group now compiles Jordan Peterson "character assassinations".](https://www.facebook.com/JBPassassinations/) This hilarious compilation shows the good, the bad, the ugly of people trying to criticize a public intellectual with whom they disagree. 
 
-I recently stumbled across a [Facebook group compiling Jordan Peterson "character assassinations".](https://www.facebook.com/JBPassassinations/) It requires some scrolling to read all the articles, so I decided to put all the links into a single list. 
-
-Why? As a Peterson fan, it's useful to consider these critiques, to hear the other side. Secondly, it's also amusing to read the more unhinged and vitriolic hot takes people keep writing. Thirdly, if you're not a Peterson fan, these articles might help you articulate your criticisms. 
+Even if you like Peterson (as I do), it is useful to consider these critiques, to hear the other side. It's also plain amusing to read the more unhinged and vitriolic hot takes people keep writing. If you're not a Peterson fan, these articles might help you articulate your criticisms. 
 
 You'll notice a smattering of articles from November 2017 through April 2018, followed by a rapid uptick of articles in May. Will June bring have another flood of articles or not? 
 
@@ -31,6 +30,8 @@ Without further ado, a (fairly complete) list of articles criticizing JBP:
 2. ["Why Are So Many Young Men Drawn to Jordan Peterson’s Intellectual Misogyny?" by Grant Maxwell, APA Online. February 20, 2018. ](https://blog.apaonline.org/2018/02/20/why-are-so-many-young-men-drawn-to-jordan-petersons-intellectual-misogyny/)
 3. ["A Serious Man", by John Ganz. The Baffler. February 7, 2018.](https://thebaffler.com/latest/peterson-ganz-klein)
 
+
+<!--more-->
 
 
 ## March

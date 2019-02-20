@@ -16,9 +16,12 @@ permalink:
 
 6 years ago today my father passed away. 
 
-Six years ago today, I sat holding his hand, still warm, trying to comprehend that he was dead. 
+Six years ago today, I sat holding his hand.  I could not comprehend what it could mean that he was gone.
 
 I arrived at the hospital a little after 10pm, just minutes after he breathed his last. Thank God I had not gone to sleep! My brother and sister were there. 
+
+<!--more-->
+
 
 The transition from this life to the next, like the transition of a baby from inside the womb to the wide world, is a sacred transition. A liminal space. Something supernatural. The nurses cleaned him up because death, like birth, is messy. It's organic. It's not clean or neat or Hollywood. It's a rending. He looked like himself only his mouth was open. He knew he would pass soon, for he silently removed his wife's hand from his chest, signaling to her that it was time for her to let him go. 
 
