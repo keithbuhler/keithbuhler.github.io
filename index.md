@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to keithbuhler.com
+title: Welcome 
 permalink: 
 header:
       image: http://www.keithbuhler.com/images/keithat-trinity-speaking.jpg
