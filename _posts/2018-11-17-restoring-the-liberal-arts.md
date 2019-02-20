@@ -18,6 +18,9 @@ For the past twenty years or so, I’ve been trying to understand this concept o
 
 One would hope that any college-educated person steeped in liberal arts institutions would have a clear idea just what those things are. But we don't. 
 
+
+<!--more-->
+
 For example, I went to a “Liberal Arts” university: Biola University. There, I majored in Humanities and studied the "Great Books" of western civilization at the Torrey Honors Institute. 
 
 Then, my first teaching job was equipping young minds to join the “Great Conversation” by reading and discussing Great Books. 

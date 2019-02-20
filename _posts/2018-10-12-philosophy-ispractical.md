@@ -26,6 +26,8 @@ Using Peter Kreeft's masterful "Summation of Philosophy", students were able to 
 
 How could this be?
 
+<!--more-->
+
 Obviously, philosophy seems impractical to most people most of the time. But there are surprising attributes of philosophy that must be taken into account.
 
 Your metaphysics is your set of beliefs about what is real and (perhaps) even what is valuable. Is a fetus a person? Is God real? Is it possible to reach the end of life as a happy, successful, wise, and good old man or woman? These are metaphysical questions you *probably cannot avoid having at least a de facto answer to*.

@@ -19,6 +19,8 @@ In the recent volume on [Kant's views about God and religion](https://amzn.to/2F
 
 Bradshaw's thesis is that "Kant seriously misunderstands the relationship between experience of and conceptual beliefs about God." Once this misunderstanding is cleared up, Kant's skeptical claims about the possibility of experiencing an infinite, good God, lose their force." 
 
+<!--more-->
+
 Bradshaw's first section outlines Kant's classification of God as a "pure concept of reason" and shows why, on Kant's stipulation, God is not a possible object of experience. God is "unconditioned" and so no conditioned experience -- say, an experience of a psychological or physical character which are by definition limited -- can suffice to give one an experience of God.  Furthermore, it seems necessary that one's experience of X match  with some rational concept of X. If I experience a thing for which I have no rational concept, a bewildering *I-know-not-what*, it is difficult to assert that I have had an experience of any particular thing -- I shouldn't jump to the conclusion that I just experienced a narwhal, or angel, or hobbledehoy. Finally, our concept of God includes that God is morally perfect. So it is difficult to judge, Kant avers,  if and when one has experienced a being of infinite moral perfection. 
 
 Section two provides the substance of Bradshaw's responses. There are three, but I'll focus on the one I found most interesting. He says: "When one approaches Kant's criticisms from a biblical [perspective]... the narrowness of what Kant thinks of as a possible experience of God... leaps to the eye." Why is Kant's arbitrary limitation on what the experience of God *must* be like "narrow"? 
