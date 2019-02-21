@@ -1,14 +1,14 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: 
+permalink: /cv2018/
 header:
       image: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1680_front.jpg
 sidebar: 
       nav: 
 --- 
 
-### Curriculum Vitae (2019)
+### Curriculum Vitae (2018)
 ### Keith Buhler
 
 #### [PDF version](http://www.keithbuhler.com/content/CV/cv-buhler.pdf)
@@ -29,8 +29,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 
 ### EMPLOYMENT
-1. Philosophy Instructor, Humanities, Trinity Classical Academy, 2017 - present 
-2. Adjunct Philosophy Instructor, Asbury University, 2017 - present
+1. Humanities Faculty, Trinity Classical Academy, 2017 - present 
 1. Postdoctoral Scholar, University of Kentucky,  Spring 2017 
 2. Instructor of Philosophy, Asbury University, 2013-2017
 3. Director of High School, Veritas Academy, 2013-2014
@@ -45,41 +44,67 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 
   
-### UNIVERSITY COURSES TAUGHT 
+### COURSES TAUGHT 
 
-*I've taught upper-division and lower-division undergraduate classes at Biola University, the University of Kentucky, and Asbury University.*
+
+
+*University of Kentucky*
 
 1. Business Ethics  (x4)
 2. Health Care Ethics (x4)
 3. Introduction to Philosophy (x2)
 4. Ethics (x3)
 5. Logic (x2)
+
+
+*Asbury University*
+
 6. Philosophy of Religion (independent study)
 7. Philosophy of C.S. Lewis 
 8. Virtue Ethics, Ancient and Modern 
 9. Introduction to Philosophy (x6)
-10. Logic (as TA)
-11. Philosophy of Science  (as TA)
+
+*As Teaching Assistant, University of Kentucky*
+
+10. Logic (x2)  
+
+*As Teaching Assistant, Biola University*  
+
+11. Philosophy of Science 
 
 
 
 ### SECONDARY SCHOOL COURSES
 
-1. Ancient Roman History (x4) (*Trinity Classical Academy*)
-2. Writing & Pre-Rhetoric I (*Trinity Classical Academy*)
-3. Writing & Pre-Rhetoric II (*Trinity Classical Academy*)
-3. Ancient Greek  (*Trinity Classical Academy*)
-4. Spanish 1      (*Trinity Classical Academy*)
-5. Spanish 2      (*Trinity Classical Academy*)
-6. Philosophy I   (*Trinity Classical Academy*)
-7. Drama Elective  (*Trinity Classical Academy*)
-12. Introduction to Philosophy (2017) (*Freedom Project Academy (online)
-13. Humanities: 20th Century British Thought (*Veritas Christian Academy, KY* 2013)
-13. Philosophy: Plato on Being and Knowing (*Torrey Academy, Biola University, CA *2011)
-14. Philosophy: Traditional Logic  (*Torrey Academy, Biola University, CA* 2009-2010)
-15. Humanities: Foundations of American Thought  (*Torrey Academy, Biola University, CA* 2009-2012)
-16. Humanities: Ancient and Medieval Thought  (*Torrey Academy, Biola University, CA* 2008-2012)
-17. Humanities: 20th Century British Thought  (*Torrey Academy, Biola University, CA* 2007-2012)
+
+*Trinity Classical Academy*, 2017 - present
+
+1. Ancient Roman History (x4)
+2. Writing & Pre-Rhetoric I
+3. Writing & Pre-Rhetoric II
+3. Ancient Greek Language
+4. Spanish 1
+5. Spanish 2 
+6. Philosophy I
+7. Drama Elective
+
+
+*Freedom Project Academy (online)*
+
+12. Introduction to Philosophy (2017)
+
+
+*Veritas Christian Academy, KY*
+
+13. Humanities: 20th Century British Thought (2013)
+
+*Torrey Academy, Biola University, CA*
+
+13. Philosophy: Plato on Being and Knowing (2011)
+14. Philosophy: Traditional Logic  (2009-2010)
+15. Humanities: Foundations of American Thought  (2009-2012)
+16. Humanities: Ancient and Medieval Thought  (2008-2012)
+17. Humanities: 20th Century British Thought  (2007-2012)
 
 
 
@@ -88,7 +113,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 
 
-### ACADEMIC CONFERENCES
+### PRESENTATIONS
 
 1. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
 2. "Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
@@ -98,7 +123,6 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 6. “Socratic Therapy,” SOPHIA Conference, Spring Branch, TX 2014.
 7. "Virtue and Imaginative Resistance,” Midsouth Philosophy Conference, Rhodes College, 2014.
 8. "Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.
-
 
 ### WORKS IN PROGRESS
 1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
@@ -122,9 +146,8 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 ### INVITED PUBLIC TALKS
 
-1. "Philosophy for Everyone", Trinity Classical Academy, Los Angeles, 2018 
-2. "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts, 2018 
-3. "Digging Deeper into Meaning", The St. Maximos Academy, Riverside, CA 2018.
+1. "Philosophy for Everyone", Trinity Classical Academy, Los Angeles, 2018 (upcoming)
+2. "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts, 2018 (upcoming)
 1. "Assessing for Virtue", Association of Classical Christian Schools, Dallas TX 2018.
 1. "Effective, Enjoyable, Everlasting: Three Benefits of Classical Education", Chesterton School of Liberal Arts Launch event, 2017. 
 2. "Education as Initiation: When School is the Real World", University of St. Katherine, Forum Lectures, Fall 2017.

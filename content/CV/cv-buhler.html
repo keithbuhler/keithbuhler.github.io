@@ -1,0 +1,456 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\RequirePackage{etoolbox}
+    \documentclass[12pt,oneside]{article}
+
+
+\usepackage{amsmath,amssymb}
+
+\usepackage{ctable}
+\setupctable{width=2in}
+\usepackage{placeins}
+
+
+% Diagrams
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{subcaption}
+
+
+% Use fonts from system fonts.
+\usepackage{fontspec,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Mapping=tex-text]{Baskerville}
+%\settitlefont[Mapping=tex-text]{OFL Sorts Mill Goudy}
+%\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica Neue}
+%\setmonofont[Scale=MatchLowercase]{Consolas}
+%\newfontfamily\greekfont[Scale=1]{GFS Porson}
+
+% Ostensibly Spaces will typeset in mathmode.
+% Doesn't seem to work, us \textrm{} instead.
+{\catcode`\ =\active{\global\let =\ }}
+\everymath{\catcode`\ =\active}
+
+
+
+% Get \boxright from txfonts without changing math font face.
+% \boxright can only be used in mathmode.
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+
+
+
+
+% Pandoc's Meta-data handling
+
+% \newcommand{\mytitle}{testing}
+% \newcommand{\Originaltitle}{}
+
+% \let\Originaltitle\title
+% \renewcommand*{\title}[1]{%
+%   \Originaltitle{#1}%
+%   \renewcommand*{\mytitle}{#1}%
+% }
+
+% \newcommand{\myauthor}{testing}
+% \newcommand{\Originalauthor}{}
+
+% \let\Originalauthor\author
+% \renewcommand*{\author}[1]{%
+%   \Originalauthor{#1}%
+%   \renewcommand*{\myauthor}{#1}%
+% }
+
+% \newcommand{\mydate}{testing}
+% \newcommand{\Originaldate}{}
+
+% \let\Originaldate\date
+% \renewcommand*{\date}[1]{%
+%   \Originaldate{#1}%
+%   \renewcommand*{\mydate}{#1}%
+% }
+
+
+
+
+%Pandoc subscript command
+\newcommand{\textsubscr}[1]{\textsubscript{#1}}
+
+
+% My finicky block quote formating
+\usepackage[leftmargin=0.5in,rightmargin=0.5in,noorphans,indentfirst=false]{quoting}
+
+% Special No Indent Command
+\makeatletter
+\newcommand*{\@doendeq}{%
+  \everypar{{\setbox\z@\lastbox}\everypar{}}%
+}
+
+\renewenvironment{quote}{%
+    \singlespacing\begin{quoting}%
+}{%
+    \end{quoting}\ignorespacesafterend\par\noindent\aftergroup\@doendeq%
+}
+
+\makeatother
+
+
+
+% Make Footnote fontsize the same as the body text.
+\let\origfootnotesize\footnotesize
+\let\footnotesize\normalsize
+
+
+% Chicago style footnotes (full citation in first note)
+\usepackage[notes,isbn=false,url=false]{biblatex-chicago}
+\addbibresource{mybib.bib}
+
+
+% Fix footnote number indentation
+\usepackage{footmisc}
+\makeatletter
+\renewcommand\@makefntext[1]{% 
+    \parindent 0.5in% 
+    \@thefnmark.~#1}
+\makeatother
+
+
+%Automatic Links
+\usepackage[xetex, bookmarks, colorlinks=false, pdftitle={CV}, pdfauthor={}, pdfsubject={}]{hyperref}
+
+
+% Pandoc's expected environment for lists
+\usepackage[shortlabels]{enumitem}
+\setlistdepth{20}
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{afterpage}
+
+
+%%%%%%%%%%%%%%%%%% Pandoc's Presets %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+
+
+
+
+%%%% Important Metadata %%%%
+\title{CV}
+\date{}
+
+
+
+%%%%%%%%%% Chicago %%%%%%%%%%%%%
+
+
+% Page layout
+\usepackage[right=1in,left=1in,top=1in,bottom=1in,includehead]{geometry}
+\usepackage{setspace}
+\parindent  0.5in
+
+% List Environments
+\setlist[enumerate]{%
+    labelindent=0.5in,%
+    leftmargin=*,%
+     nosep%
+}
+\setlist[itemize]{%
+    leftmargin=0.5in,%
+    labelindent=0.0in,%
+    labelsep=*%
+}
+
+
+% Get single-spacing for paragraphs in numbered lists
+
+\makeatletter
+\let\oldenumerate=\enumerate
+\renewenvironment{enumerate}{%
+    \singlespacing\begin{oldenumerate}
+}{%
+
+    \end{oldenumerate}\ignorespacesafterend\par\noindent\aftergroup\@doendeq}
+\makeatother
+
+
+
+
+%Title, Section, etc. Subsubsections blank in the text body (paragraph labels), but the text *is* included in the TOC.
+
+%Not sure what this is.
+\usepackage[bottomtitles,explicit]{titlesec}
+
+% # Chapter formatting. Working fine Sept. 2015.
+\titleformat{\chapter}[display]{\vspace{1in}\bfseries\Large}{Chapter \thechapter \Large\newline #1}{0.2in}{}[\vspace{-1in}]
+
+% ## Section formatting. Working fine. Puts Roman Numeral in heading.
+\titleformat{\section}[hang]{\bfseries\large}{\Roman{section}. ~~#1}{0in}{}
+
+% ### Sub-section formatting. Want numbers, not romans. 
+% this one works — \titleformat{\subsection}[hang]{\bfseries\large}{#1}{0in}{}
+
+\titleformat{\subsection}[hang]{\bfseries\large}{#1}{0in}{}
+
+%%\titleformat{\subsubsection}[hang]{\bfseries\Large}{#1}{0in}{}
+
+\titleformat{\paragraph}[hang]{\bfseries\large}{\Roman{section}.~~#1}{0in}{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\titleformat{name=\subsection,numberless}[hang]{\bfseries\normalsize}{#1}{0in}{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\titleformat{\subsubsection}[runin]{\normalsize}{}{0.5in}{\hspace{0.5in}}
+\titlespacing*{\subsubsection}{0.5in}{0in}{0in}
+
+
+% Want to make #### sub-sub-sub headings invisible. 
+%\titleformat{\paragraph}[runin]{\large}{#1}{0in}{\hspace{0in}}
+
+%\titleformat{\subsubparagraph}[runin]{\bfseries\large}{{subsubsubsection}. ~~#1}{0in}{}
+
+%% Want to make ##### sub-sub-sub-sub headings invisible. Working fine. 
+%\titleformat{\subparagraph}[runin]{\normalsize}{}{0.5in}{\hspace{0.5in}}
+
+% Want to make ###### sub-sub-sub-sub headings invisible. Working fine. 
+\titleformat{\subsubparagraph}[runin]{}{}{.5in}{}
+
+
+% Reset subsubsection counters even if levels are skipped.
+\makeatletter
+    \@addtoreset{subsubsection}{section}
+\makeatother
+
+
+
+
+% Page Header Formating
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\usepackage{lastpage}
+
+\pagestyle{fancy}
+
+
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\thepage} % except the center
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\newgeometry{top=1in,left=1in,right=1in,bottom=1in}
+}
+
+\fancypagestyle{none}{%
+\fancyhf{} % clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\newgeometry{top=1in,left=1in,right=1in,bottom=1in}
+}
+
+
+\fancypagestyle{myheading}{%
+\lhead{\rightmark}\chead{}\rhead{Buhler \thepage}
+\fancyfoot[C]{}%
+\renewcommand{\headrulewidth}{1pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\restoregeometry%
+}
+
+
+
+
+
+\clubpenalty=1000
+\widowpenalty=1000
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%Fixes for sections in the header.
+\pagestyle{myheading}
+\renewcommand{\chaptermark}[1]{\markright{\chaptername\ \thechapter\ -\ #1}}
+\renewcommand{\sectionmark}[1]{\markright{\Roman{section}\ -\ #1}}
+
+
+    % % Exclude header from first page
+    \thispagestyle{plain}
+
+    % Class information
+    \noindent \\
+    CV\\
+    \\
+    \\
+    \\
+
+
+    % % Title
+    % \vspace{.1in}
+
+
+    % The rest of the paper
+
+\doublespace
+
+
+%%%%%%% Pandoc Presets %%%%%%%
+
+<h3 id="curriculum-vitae-2019">Curriculum Vitae (2019)</h3>
+<h3 id="keith-buhler">Keith Buhler</h3>
+<h4 id="pdf-version"><a href="http://www.keithbuhler.com/content/CV/cv-buhler.pdf">PDF version</a></h4>
+<h3 id="education">EDUCATION</h3>
+<p>Ph.D.  Philosophy, University of Kentucky, 2017<br />
+M.A.  Philosophy, University of Kentucky, 2016<br />
+M.A.  Orthodox Theology, University of Balamand, 2014<br />
+B.A.   Humanities, emphasis History, Biola University, 2004</p>
+<h3 id="research-areas">RESEARCH AREAS</h3>
+<p>Areas of specialization: Ethics, the History of Philosophy.<br />
+Areas of competence: Philosophy of Mind, Philosophy of Religion.</p>
+<h3 id="employment">EMPLOYMENT</h3>
+<ol style="list-style-type: decimal">
+<li>Philosophy Instructor, Humanities, Trinity Classical Academy, 2017 - present</li>
+<li>Adjunct Philosophy Instructor, Asbury University, 2017 - present</li>
+<li>Postdoctoral Scholar, University of Kentucky, Spring 2017</li>
+<li>Instructor of Philosophy, Asbury University, 2013-2017</li>
+<li>Director of High School, Veritas Academy, 2013-2014</li>
+<li>Master Tutor, Torrey Academy, 2010-2012</li>
+<li>Tutor, Torrey Academy, 2007-2010</li>
+<li>Lecturer, Wheatstone Academy, 2006-2011</li>
+<li>Assistant Director, Wheatstone Academy, 2004-2005</li>
+<li>ESL Tutor (6th-grade), Etum Korean Academy, CA 2010-2012</li>
+<li>Great Books Tutor (4th-Grade), GATE Program, Willow School of Long Beach, CA 2001-2002</li>
+<li>ESL Teacher, Biola University Abroad, Ulaambatar, Mongolia, 2001</li>
+</ol>
+<h3 id="university-courses-taught">UNIVERSITY COURSES TAUGHT</h3>
+<p><em>I’ve taught upper-division and lower-division undergraduate classes at Biola University, the University of Kentucky, and Asbury University.</em></p>
+<ol style="list-style-type: decimal">
+<li>Business Ethics (x4)</li>
+<li>Health Care Ethics (x4)</li>
+<li>Introduction to Philosophy (x2)</li>
+<li>Ethics (x3)</li>
+<li>Logic (x2)</li>
+<li>Philosophy of Religion (independent study)</li>
+<li>Philosophy of C.S. Lewis</li>
+<li>Virtue Ethics, Ancient and Modern</li>
+<li>Introduction to Philosophy (x6)</li>
+<li>Logic (as TA)</li>
+<li>Philosophy of Science (as TA)</li>
+</ol>
+<h3 id="secondary-school-courses">SECONDARY SCHOOL COURSES</h3>
+<ol style="list-style-type: decimal">
+<li>Ancient Roman History (x4) (<em>Trinity Classical Academy</em>)</li>
+<li>Writing &amp; Pre-Rhetoric I (<em>Trinity Classical Academy</em>)</li>
+<li>Writing &amp; Pre-Rhetoric II (<em>Trinity Classical Academy</em>)</li>
+<li>Ancient Greek (<em>Trinity Classical Academy</em>)</li>
+<li>Spanish 1 (<em>Trinity Classical Academy</em>)</li>
+<li>Spanish 2 (<em>Trinity Classical Academy</em>)</li>
+<li>Philosophy I (<em>Trinity Classical Academy</em>)</li>
+<li>Drama Elective (<em>Trinity Classical Academy</em>)</li>
+<li>Introduction to Philosophy (2017) (*Freedom Project Academy (online)</li>
+<li>Humanities: 20th Century British Thought (<em>Veritas Christian Academy, KY</em> 2013)</li>
+<li>Philosophy: Plato on Being and Knowing (<em>Torrey Academy, Biola University, CA </em>2011)</li>
+<li>Philosophy: Traditional Logic (<em>Torrey Academy, Biola University, CA</em> 2009-2010)</li>
+<li>Humanities: Foundations of American Thought (<em>Torrey Academy, Biola University, CA</em> 2009-2012)</li>
+<li>Humanities: Ancient and Medieval Thought (<em>Torrey Academy, Biola University, CA</em> 2008-2012)</li>
+<li>Humanities: 20th Century British Thought (<em>Torrey Academy, Biola University, CA</em> 2007-2012)</li>
+</ol>
+<h3 id="academic-conferences">ACADEMIC CONFERENCES</h3>
+<ol style="list-style-type: decimal">
+<li>“Rational Motives and Pursuing the Good”, Evangelical Philosophical Society, Louisville KY 2017.</li>
+<li>“Vainglory is not a form of Pride”, SOPHIA Conference, Spring Branch, TX 2017.</li>
+<li>“Natural Teleology without Theology in Thomas Nagel’s <em>Mind and Cosmos</em>” Society of Christian Philosophers, University of San Diego, 2016.</li>
+<li>“Fairy Tale Nihilism: The Empty Hero in <em>Kung Fu Panda</em> and <em>The Great and Powerful Oz</em>,” Faith and Film Conference, Baylor University, 2014.</li>
+<li>“Is the Cosmos Causally Closed?” Ian Ramsey Centre, Oxford University, 2014.</li>
+<li>“Socratic Therapy,” SOPHIA Conference, Spring Branch, TX 2014.</li>
+<li>“Virtue and Imaginative Resistance,” Midsouth Philosophy Conference, Rhodes College, 2014.</li>
+<li>“Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.</li>
+</ol>
+<h3 id="works-in-progress">WORKS IN PROGRESS</h3>
+<ol style="list-style-type: decimal">
+<li>“Remaining Agnostic about Causal Closure” (revise and resubmit)</li>
+<li><em>Becoming What We Are</em> (book draft complete)</li>
+</ol>
+<h3 id="commments-and-service">COMMMENTS AND SERVICE</h3>
+<ol style="list-style-type: decimal">
+<li>Comments on Rob Elisher’s “Aristotelian Moral Schizophrenia”, University of Kentucky Graduate School Conference.</li>
+<li>Referee for Kentucky Graduate School Conference submissions, 2017.</li>
+<li>“How to Keep Momentum in Dissertation Writing,” University of Kentucky Graduate School, Writing Bootcamp, 2016.</li>
+<li>Comments on David Skowronski’s “Inductive Reasoning in Naturalism and Supernaturalism.” Society of Christian Philosophers, University of San Diego, 2016.</li>
+<li>Session Chair, Ian Ramsey Centre Conference, Oxford University, 2014.</li>
+<li>Comments on Andrew Greenlee’s “Combating the Normativity Challenge to Virtue Ethics,” Midsouth Philosophy Conference, Rhodes College, 2014.</li>
+<li>Referee for Kentucky Graduate School Conference submissions, 2013.</li>
+</ol>
+<h3 id="invited-public-talks">INVITED PUBLIC TALKS</h3>
+<ol style="list-style-type: decimal">
+<li>“Philosophy for Everyone”, Trinity Classical Academy, Los Angeles, 2018</li>
+<li>“Grammar, Philosophy, and the Liberal Arts Tradition”, Chesterton School of Liberal Arts, 2018</li>
+<li>“Digging Deeper into Meaning”, The St. Maximos Academy, Riverside, CA 2018.</li>
+<li>“Assessing for Virtue”, Association of Classical Christian Schools, Dallas TX 2018.</li>
+<li>“Effective, Enjoyable, Everlasting: Three Benefits of Classical Education”, Chesterton School of Liberal Arts Launch event, 2017.</li>
+<li>“Education as Initiation: When School is the Real World”, University of St. Katherine, Forum Lectures, Fall 2017.</li>
+<li>“Vainglory and Pride”, Sojourner’s Church, August 2017</li>
+<li>“Morality: Rule-following or New Life?,” Wesleyan Society, Lexington KY, 2014.</li>
+<li>“Reading Great Books in Classical Education,” Veritas Academy, Lexington KY, 2013.</li>
+<li>“The Goodness of the Tao: CS Lewis’ <em>Abolition of Man</em>,” Torrey Academy, CA 2012.</li>
+<li>“Is Vainglory Pride? Dorothy Sayers’ <em>Gaudy Night</em>,” Torrey Academy, 2012.</li>
+<li>“Hope and the Cycle of Desire,” Hope Academy, 2011.</li>
+<li>“The Art of Conversation: Conversation with Art,” Wheatstone Academy, La Habra, CA 2011.</li>
+<li>“The Virtue of Constancy,” Hope Academy, Yorba Linda, CA 2009.</li>
+<li>“Life Experience as a Text: Learning From Initiatives,” Biola University, CA 2007.</li>
+</ol>
+<h3 id="languages">LANGUAGES</h3>
+<p>Reading proficiency in Ancient Greek<br />
+Speaking fluency in Spanish<br />
+Basic programming knowledge of HTML, CSS, and LaTex</p>
+<h3 id="affiliations">AFFILIATIONS</h3>
+<p>Society of Orthodox Philosophers in America, 2014-present<br />
+International Society for MacIntyrean Enquiry, 2015-present<br />
+Society of Medieval and Renaissance Philosophy, 2012-2017<br />
+American Philosophical Association, 2014-2017</p>
+
+\end{document}
