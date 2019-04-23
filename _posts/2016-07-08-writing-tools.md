@@ -63,7 +63,7 @@ Once you learn the basics, you can use some of these Markdown software utilities
 
 ### Other Fun or Useful Utilities ###
 
-* [Word Count Tool](https://wordcounter.net/). I use this regularly to check wordcount on student paper PDFs. 
+* [Word Count Tool](https://www.wordcounteronline.net/). I use this regularly to check wordcount on student paper PDFs. 
 * [Words to pages](http://wordstopages.com/). This tool is useful when writing for presentations or lectures. It helps you estimate how many pages your paper will be, how long it will take to read or to read outloud. etc. 
 * [Simple Writer](https://xkcd.com/simplewriter/). This playful tool from Randall Munroe of [xkcd fame](http://www.xkcd.com/) helps you write using only the 1000 most common words. A good exercise for testing how well you understand a thing. 
 
