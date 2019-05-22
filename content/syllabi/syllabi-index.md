@@ -13,21 +13,26 @@ feature_row:
 
 ### Current Courses
 
-
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
-- [Philosophy (10th grade)](/trinity-philosophy/)
-- [History-Bible (9th grade)](/history)
-- Spanish 1 (9th)
-- Spanish 2 (10th)
-- Drama (LS) 
+- Philosophy (10th grade) [Syllabus](/trinity-philosophy/)
+- History-Bible (9th grade)[Syllabus](/history)
+- Spanish 1 (9th grade)
+- Spanish 2 (10th grade)
+- Drama (7-8th grade) 
 
+## 2019-2020 Future Courses
+
+- Philosophy (10th grade) 
+- History-Bible (9th grade) 
+- Spanish 2 (10th grade)
+- Spanish 3 (11th grade)
 
 ### Prior Courses
-- [Ancient History-Bible (9th grade) ](/history2017)
-- [Pre-Rhetoric (9th grade)](/writing2017)
-- [Ancient Greek](/greek)
+- Ancient History-Bible (9th grade) [Syllabus](/history2017)
+- Writing and Pre-Rhetoric (9th grade) [Syllabus](/writing2017)
+- Ancient Greek [Syllabus](/greek)
 
 - Business Ethics ([Syllabus](/syllabus334))  
 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
