@@ -1,15 +1,17 @@
 ---
 layout: page
-permalink: /phl200/
+permalink: phl200/
 title: 
 header: 
       image: 
 ---
+<br> 
+<br> 
 
 #### [PDF version of 2019 Summer Syllabus](/content/syllabi/syllabus-phl200-summer-2019.pdf)   
 
-<center>
 
+<br> 
 **Course Number/Course Title:** PHL 200-Introduction to Philosophy
 
 **Semester/Year:** Summer 2019
@@ -24,8 +26,8 @@ header:
 
 **Phone Number:** 562-230-2920   (Text Messages Welcome)   
 
-</center>
-
+<br> 
+<br> 
 
 Please use Asbury email for general communication and phone for urgent communication.  
 
@@ -50,11 +52,11 @@ Please use Asbury email for general communication and phone for urgent communica
 
 * C.S. Lewis, *Mere Christianity.*
 
-* Louis Pojman and Lewis Vaughn, *Philosophy: The Quest for Truth*, **10^th^ edition**. (ISBN: 978-0-19-025477-3).
+* Louis Pojman and Lewis Vaughn, *Philosophy: The Quest for Truth*, **10th edition**. (ISBN: 978-0-19-025477-3).
 
-**Note:** The 10^th^ edition of the textbook is the version that the instructor will be referencing.  However, it is possible to complete this course and access all the required readings using the 9^th^ edition of the textbook (which may be significantly cheaper, especially if you can find a used copy).  If you use the 9^th^ edition of the textbook, the page numbers listed most prominently on the course Discovery site will be off.  To find the correct page numbers, **click on each individual reading assignment** and look for the page numbers that are listed for the 9^th^ edition. 
+**Note:** The 10th edition of the textbook is the version that the instructor will be referencing.  However, it is possible to complete this course and access all the required readings using the 9th edition of the textbook (which may be significantly cheaper, especially if you can find a used copy).  If you use the 9th edition of the textbook, the page numbers listed most prominently on the course Discovery site will be off.  To find the correct page numbers, **click on each individual reading assignment** and look for the page numbers that are listed for the 9th edition. 
 
-**Supplemental Text (Highly Recommended): **William Lawhead, *The Philosophical Journey*
+**Supplemental Text (Highly Recommended):** William Lawhead, *The Philosophical Journey*
 
 **Technology Requirements:**
 
@@ -80,7 +82,7 @@ All interactions in the discussion forums should be courteous, professional, tim
 
 **Essay Exams**: Every unit will conclude with an essay exam. On each such exam, you will be presented with two essay questions, and you will be required to answer **both** questions on **one DOC or Pdf file**. Once you see the questions posted online, you will have a limited time to complete and submit the assignment. You are permitted to look at your notes and books when you are writing your essays, but you are not permitted to use any other materials during the exam. Each exam will become *available* approximately two days prior to the day that it must be completed.
 
-**Integrative Paper on *Mere Christianity***: In addition to the weekly readings and assignments that are required to progress through the individual units, you are expected to read C.S. Lewis' *Mere Christianity* on your own time and then write a 5-7 page (double-spaced) integrative paper in which you (a) provide a summary of the main elements of *Mere Christianity* (in 2-3 pages) and (b) critically discuss connections between this book and the material we have covered in the rest of the course (in 3-4 pages). This integrative paper is due March 9^th^ , at 11:55 PM Eastern Time. More specific details for this assignment are provided on the course website in "Unit 5: The Existence of God" under the heading "Integrative Paper on *Mere Christianity*."
+**Integrative Paper on *Mere Christianity***: In addition to the weekly readings and assignments that are required to progress through the individual units, you are expected to read C.S. Lewis' *Mere Christianity* on your own time and then write a 5-7 page (double-spaced) integrative paper in which you (a) provide a summary of the main elements of *Mere Christianity* (in 2-3 pages) and (b) critically discuss connections between this book and the material we have covered in the rest of the course (in 3-4 pages). This integrative paper is due March 9th , at 11:55 PM Eastern Time. More specific details for this assignment are provided on the course website in "Unit 5: The Existence of God" under the heading "Integrative Paper on *Mere Christianity*."
 
 **Course Evaluation**: All students are required to complete the course evaluation.   Completion of the course evaluation will count as an assignment worth ten points.  It is your responsibility to note when the course evaluation becomes available and complete it before the end date.
 
