@@ -1,0 +1,549 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\RequirePackage{etoolbox}
+    \documentclass[12pt,oneside]{article}
+
+
+\usepackage{amsmath,amssymb}
+
+\usepackage{ctable}
+\setupctable{width=2in}
+\usepackage{placeins}
+
+
+% Diagrams
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{subcaption}
+
+
+% Use fonts from system fonts.
+\usepackage{fontspec,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Mapping=tex-text]{Baskerville}
+%\settitlefont[Mapping=tex-text]{OFL Sorts Mill Goudy}
+%\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica Neue}
+%\setmonofont[Scale=MatchLowercase]{Consolas}
+%\newfontfamily\greekfont[Scale=1]{GFS Porson}
+
+% Ostensibly Spaces will typeset in mathmode.
+% Doesn't seem to work, us \textrm{} instead.
+{\catcode`\ =\active{\global\let =\ }}
+\everymath{\catcode`\ =\active}
+
+
+
+% Get \boxright from txfonts without changing math font face.
+% \boxright can only be used in mathmode.
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+
+
+
+
+% Pandoc's Meta-data handling
+
+% \newcommand{\mytitle}{testing}
+% \newcommand{\Originaltitle}{}
+
+% \let\Originaltitle\title
+% \renewcommand*{\title}[1]{%
+%   \Originaltitle{#1}%
+%   \renewcommand*{\mytitle}{#1}%
+% }
+
+% \newcommand{\myauthor}{testing}
+% \newcommand{\Originalauthor}{}
+
+% \let\Originalauthor\author
+% \renewcommand*{\author}[1]{%
+%   \Originalauthor{#1}%
+%   \renewcommand*{\myauthor}{#1}%
+% }
+
+% \newcommand{\mydate}{testing}
+% \newcommand{\Originaldate}{}
+
+% \let\Originaldate\date
+% \renewcommand*{\date}[1]{%
+%   \Originaldate{#1}%
+%   \renewcommand*{\mydate}{#1}%
+% }
+
+
+
+
+%Pandoc subscript command
+\newcommand{\textsubscr}[1]{\textsubscript{#1}}
+
+
+% My finicky block quote formating
+\usepackage[leftmargin=0.5in,rightmargin=0.5in,noorphans,indentfirst=false]{quoting}
+
+% Special No Indent Command
+\makeatletter
+\newcommand*{\@doendeq}{%
+  \everypar{{\setbox\z@\lastbox}\everypar{}}%
+}
+
+\renewenvironment{quote}{%
+    \singlespacing\begin{quoting}%
+}{%
+    \end{quoting}\ignorespacesafterend\par\noindent\aftergroup\@doendeq%
+}
+
+\makeatother
+
+
+
+% Make Footnote fontsize the same as the body text.
+\let\origfootnotesize\footnotesize
+\let\footnotesize\normalsize
+
+
+% Chicago style footnotes (full citation in first note)
+\usepackage[notes,isbn=false,url=false]{biblatex-chicago}
+\addbibresource{mybib.bib}
+
+
+% Fix footnote number indentation
+\usepackage{footmisc}
+\makeatletter
+\renewcommand\@makefntext[1]{% 
+    \parindent 0.5in% 
+    \@thefnmark.~#1}
+\makeatother
+
+
+%Automatic Links
+\usepackage[xetex, bookmarks, colorlinks=false, pdftitle={}, pdfauthor={}, pdfsubject={}]{hyperref}
+
+
+% Pandoc's expected environment for lists
+\usepackage[shortlabels]{enumitem}
+\setlistdepth{20}
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{afterpage}
+
+
+%%%%%%%%%%%%%%%%%% Pandoc's Presets %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+
+
+
+
+%%%% Important Metadata %%%%
+\date{}
+
+
+
+%%%%%%%%%% Chicago %%%%%%%%%%%%%
+
+
+% Page layout
+\usepackage[right=1in,left=1in,top=1in,bottom=1in,includehead]{geometry}
+\usepackage{setspace}
+\parindent  0.5in
+
+% List Environments
+\setlist[enumerate]{%
+    labelindent=0.5in,%
+    leftmargin=*,%
+     nosep%
+}
+\setlist[itemize]{%
+    leftmargin=0.5in,%
+    labelindent=0.0in,%
+    labelsep=*%
+}
+
+
+% Get single-spacing for paragraphs in numbered lists
+
+\makeatletter
+\let\oldenumerate=\enumerate
+\renewenvironment{enumerate}{%
+    \singlespacing\begin{oldenumerate}
+}{%
+
+    \end{oldenumerate}\ignorespacesafterend\par\noindent\aftergroup\@doendeq}
+\makeatother
+
+
+
+
+%Title, Section, etc. Subsubsections blank in the text body (paragraph labels), but the text *is* included in the TOC.
+
+%Not sure what this is.
+\usepackage[bottomtitles,explicit]{titlesec}
+
+% # Chapter formatting. Working fine Sept. 2015.
+\titleformat{\chapter}[display]{\vspace{1in}\bfseries\Large}{Chapter \thechapter \Large\newline #1}{0.2in}{}[\vspace{-1in}]
+
+% ## Section formatting. Working fine. Puts Roman Numeral in heading.
+\titleformat{\section}[hang]{\bfseries\large}{\Roman{section}. ~~#1}{0in}{}
+
+% ### Sub-section formatting. Want numbers, not romans. 
+% this one works — \titleformat{\subsection}[hang]{\bfseries\large}{#1}{0in}{}
+
+\titleformat{\subsection}[hang]{\bfseries\large}{#1}{0in}{}
+
+%%\titleformat{\subsubsection}[hang]{\bfseries\Large}{#1}{0in}{}
+
+\titleformat{\paragraph}[hang]{\bfseries\large}{\Roman{section}.~~#1}{0in}{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\titleformat{name=\subsection,numberless}[hang]{\bfseries\normalsize}{#1}{0in}{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\titleformat{\subsubsection}[runin]{\normalsize}{}{0.5in}{\hspace{0.5in}}
+\titlespacing*{\subsubsection}{0.5in}{0in}{0in}
+
+
+% Want to make #### sub-sub-sub headings invisible. 
+%\titleformat{\paragraph}[runin]{\large}{#1}{0in}{\hspace{0in}}
+
+%\titleformat{\subsubparagraph}[runin]{\bfseries\large}{{subsubsubsection}. ~~#1}{0in}{}
+
+%% Want to make ##### sub-sub-sub-sub headings invisible. Working fine. 
+%\titleformat{\subparagraph}[runin]{\normalsize}{}{0.5in}{\hspace{0.5in}}
+
+% Want to make ###### sub-sub-sub-sub headings invisible. Working fine. 
+\titleformat{\subsubparagraph}[runin]{}{}{.5in}{}
+
+
+% Reset subsubsection counters even if levels are skipped.
+\makeatletter
+    \@addtoreset{subsubsection}{section}
+\makeatother
+
+
+
+
+% Page Header Formating
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\usepackage{lastpage}
+
+\pagestyle{fancy}
+
+
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\thepage} % except the center
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\newgeometry{top=1in,left=1in,right=1in,bottom=1in}
+}
+
+\fancypagestyle{none}{%
+\fancyhf{} % clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\newgeometry{top=1in,left=1in,right=1in,bottom=1in}
+}
+
+
+\fancypagestyle{myheading}{%
+\lhead{\rightmark}\chead{}\rhead{Buhler \thepage}
+\fancyfoot[C]{}%
+\renewcommand{\headrulewidth}{1pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\restoregeometry%
+}
+
+
+
+
+
+\clubpenalty=1000
+\widowpenalty=1000
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%Fixes for sections in the header.
+\pagestyle{myheading}
+\renewcommand{\chaptermark}[1]{\markright{\chaptername\ \thechapter\ -\ #1}}
+\renewcommand{\sectionmark}[1]{\markright{\Roman{section}\ -\ #1}}
+
+
+    % % Exclude header from first page
+    \thispagestyle{plain}
+
+    % Class information
+    \noindent \\
+    \\
+    \\
+    \\
+    \\
+
+
+    % % Title
+    % \vspace{.1in}
+
+
+    % The rest of the paper
+
+\doublespace
+
+
+%%%%%%% Pandoc Presets %%%%%%%
+
+<h4 id="pdf-version-of-2019-summer-syllabus"><a href="/content/syllabi/syllabus-phl200-summer-2019.pdf">PDF version of 2019 Summer Syllabus</a></h4>
+<center>
+<p><strong>Course Number/Course Title:</strong> PHL 200-Introduction to Philosophy</p>
+<p><strong>Semester/Year:</strong> Summer 2019</p>
+<p><strong>Department Name:</strong> Christian Studies &amp; Philosophy</p>
+<p><strong>Name:</strong> Dr. Keith Buhler</p>
+<p><strong>Email:</strong> keithedbuhler@gmail.com</p>
+<p><strong>Additional Email:</strong> Keith.Buhler@asbury.edu</p>
+<p><strong>Phone Number:</strong> 562-230-2920   (Text Messages Welcome)   </p>
+</center>
+<p>Please use Asbury email for general communication and phone for urgent communication.  </p>
+<p><strong>General Description:</strong> Introduction to the nature, methods, and purposes of philosophical inquiry. Investigates major topics such as reality, knowledge, and ethics. Surveys and evaluates important worldviews in an attempt to formulate a Christian worldview. (From AU Bulletin)</p>
+<p><strong>Student Learning Outcomes and Aligned Assessments:</strong> At the conclusion of this course, each student who successfully completes the studies designated should be able to:</p>
+<table>
+<colgroup>
+<col width="42%" />
+<col width="57%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Outcome</th>
+<th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Explain major philosophical fields, questions, figures, and theories</td>
+<td>Forum topics and essay exams are intentionally designed to examine the 6 major fields of philosophy.</td>
+</tr>
+<tr class="even">
+<td>Read, reconstruct, and evaluate arguments in both contemporary and historical philosophical texts</td>
+<td>Each of the 6 essay exams will intentionally make connections between historical insights of the past with present day questions and concerns.</td>
+</tr>
+<tr class="odd">
+<td>Develop communication skills needed to participate in “the great conversation” that is academic philosophy</td>
+<td>The course is designed to enhance the reading and analysis skills needed for excellence in any field or discipline.</td>
+</tr>
+<tr class="even">
+<td>Draw connections between specific philosophic topics and the Christian faith</td>
+<td>The course will conclude with a reflection on the implications of philosophy and Christian faith as we examine C. S. Lewis’ “Mere Christianity.”</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Estimated Time to Complete Course Requirements:</strong> You should expect to spend approximately 120 hours (divided by 8 weeks = 15 hours a week) to complete all of the requirements of this course.</p>
+<p><strong>Course Prerequisites:</strong> None</p>
+<p><strong>Required Texts:</strong></p>
+<ul>
+<li><p>C.S. Lewis, <em>Mere Christianity.</em></p></li>
+<li><p>Louis Pojman and Lewis Vaughn, <em>Philosophy: The Quest for Truth</em>, <strong>10<sup>th</sup> edition</strong>. (ISBN: 978-0-19-025477-3).</p></li>
+</ul>
+<p><strong>Note:</strong> The 10<sup>th</sup> edition of the textbook is the version that the instructor will be referencing.  However, it is possible to complete this course and access all the required readings using the 9<sup>th</sup> edition of the textbook (which may be significantly cheaper, especially if you can find a used copy).  If you use the 9<sup>th</sup> edition of the textbook, the page numbers listed most prominently on the course Discovery site will be off.  To find the correct page numbers, <strong>click on each individual reading assignment</strong> and look for the page numbers that are listed for the 9<sup>th</sup> edition. </p>
+<p><strong>Supplemental Text (Highly Recommended): </strong>William Lawhead, <em>The Philosophical Journey</em></p>
+<p><strong>Technology Requirements:</strong></p>
+<p><strong>Internet Access:</strong> DSL, Cable, or LAN Internet connection highly recommended for optimal student experience. Additionally, a wired connection is optimal. Download speed should be at least 512 kbps. To test your Internet speed, click the following link: <a href="http://www.speedtest.net/">OOKLA Speedtest</a>.</p>
+<p><strong>Computer Requirements:</strong> To view the most up-to-date online technology requirements, please visit the Asbury University Help Desk student support page at the following: <a href="http://www.asbury.edu/offices/its/help-desk/request-support/distance-ed-online-course-support/online-student-support">Distance Education &amp; Online Student Support Links and Documentation</a></p>
+<p><strong>Software:</strong> Microsoft Word and PDF Reader</p>
+<p><strong>Discovery:</strong> This course is conducted entirely online. This means you to not have to be on campus to complete any portion of the course. You will participate in the course using the Asbury University learning management system: <a href="http://discovery.asbury.edu/" class="uri">http://discovery.asbury.edu/</a>.</p>
+<p><strong>Discussion Forums</strong>: Every unit will include a graded “discussion forum” on a selected topic, reading, or video from the unit. For each such forum, you will be required both to respond to a prompt (which may require one or more posts) and to interact with other students (by commenting on their posts or responding to their comments on your own).</p>
+<p>All interactions in the discussion forums should be courteous, professional, timely, on-topic, and in conformity with the requirements laid out in the prompt. <em>Courteous:</em> treat fellow students, the authors we are discussing, and your instructor with respect, even if you disagree strongly with them.</p>
+<p><em>Professional</em>: use complete, grammatical, proofread sentences, and avoid slang.</p>
+<p><em>Timely</em>: submit your initial post by the date indicated all subsequent comments/replies to the forum are to be made <em>within 24 hours</em> of this initial deadline.</p>
+<p><em>On-topic</em>: read the prompt carefully and be sure to address it as opposed to some other issue. Comments/ replies should satisfy the previous requirements and should also constitute an engaged discussion with the person to whom they are addressed. Note that generic replies such as “that’s interesting,” “that’s a good idea,” and “I disagree” will never be considered sufficient. Posts and replies will be graded based on (1) their compliance with the above requirements and (2) the depth of reflection and understanding that they demonstrate.</p>
+<p><strong>Group Study Sessions</strong>: Every unit will conclude with a “group study session” on the unit’s material. The purpose of these study sessions is to help you help one another review for the upcoming exam. In each such session, you’ll ask any lingering questions you have about the unit’s material and then try to help answer the questions that your fellow students raise. Please note that, although your question isn’t “due” until the day before the unit’s exam opens, you can ask your question <em>at any time.</em> There is also <em>no limit on the number of questions you ask</em>, and the instructor will make an effort to answer any questions that other students leave unanswered for more than two days.</p>
+<p><strong>Essay Exams</strong>: Every unit will conclude with an essay exam. On each such exam, you will be presented with two essay questions, and you will be required to answer <strong>both</strong> questions on <strong>one DOC or Pdf file</strong>. Once you see the questions posted online, you will have a limited time to complete and submit the assignment. You are permitted to look at your notes and books when you are writing your essays, but you are not permitted to use any other materials during the exam. Each exam will become <em>available</em> approximately two days prior to the day that it must be completed.</p>
+<p><strong>Integrative Paper on <em>Mere Christianity</em></strong>: In addition to the weekly readings and assignments that are required to progress through the individual units, you are expected to read C.S. Lewis’ <em>Mere Christianity</em> on your own time and then write a 5-7 page (double-spaced) integrative paper in which you (a) provide a summary of the main elements of <em>Mere Christianity</em> (in 2-3 pages) and (b) critically discuss connections between this book and the material we have covered in the rest of the course (in 3-4 pages). This integrative paper is due March 9<sup>th</sup> , at 11:55 PM Eastern Time. More specific details for this assignment are provided on the course website in “Unit 5: The Existence of God” under the heading “Integrative Paper on <em>Mere Christianity</em>.”</p>
+<p><strong>Course Evaluation</strong>: All students are required to complete the course evaluation.   Completion of the course evaluation will count as an assignment worth ten points.  It is your responsibility to note when the course evaluation becomes available and complete it before the end date.</p>
+<p><strong>Additional Required Activities and Strategies for Success</strong>: Each unit will involve a number of other activities that will enhance your learning: readings, practice quizzes, and (often) videos. These assignments are “ungraded” in the sense that there is no grade assigned for completing the particular activity however, completing them will serve your grade by helping you master the course content. You will master the content required for writing the papers, passing the exams, and successfully participating in the discussion forums, only if you put effort into these ungraded activities. Be sure to pace yourself to complete ungraded activities in plenty of time to submit the graded assignments that they precede.</p>
+<p>When encountering the readings, <strong>a good idea is to read everything once</strong> to get a general understanding and <strong>then  read it a second time</strong> to understand the nuances that you may have missed in your initial reading. For this second reading, you will want to underline important material and write notes to yourself to remind yourself of key concepts and distinctions. Taking notes on the videos is also a good idea, and in order to do this, you may need to pause several times while you view the item. Remember that the essay exams are open-note, open-book. So, any notes or marks you make while watching or reading are notes you can reference later when taking the exam. You will also find it helpful to refer to these notes when participating in forum discussions, raising and answering questions during group study sessions, and composing papers (both the integrative paper and the shorter papers)</p>
+<p><strong>Accessing Grades: </strong>All grades will be posted in the Grade book in your course in Discovery.</p>
+<p><strong>Graded Course Activities:</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Activity</th>
+<th>Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Six discussion forums</td>
+<td>90 points (15 points each)</td>
+</tr>
+<tr class="even">
+<td>Six group study sessions</td>
+<td>60 points (10 points each)</td>
+</tr>
+<tr class="odd">
+<td>Integrative paper on Mere Christianity</td>
+<td>80 points</td>
+</tr>
+<tr class="even">
+<td>Six essay exams</td>
+<td>360 points (60 points each)</td>
+</tr>
+<tr class="odd">
+<td>Course evaluation</td>
+<td>10 points</td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td>700 points</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Grading Scale:</strong> Your course grade will be calculated using the following scale.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Letter Grade</th>
+<th>Percentage</th>
+<th>Letter Grade</th>
+<th>Percentage</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>94-100</td>
+<td>C+</td>
+<td>77-79</td>
+</tr>
+<tr class="even">
+<td>A-</td>
+<td>90-93</td>
+<td>C</td>
+<td>73-76</td>
+</tr>
+<tr class="odd">
+<td>B+</td>
+<td>87-89</td>
+<td>C-</td>
+<td>70-72</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>83-86</td>
+<td>D</td>
+<td>60-69</td>
+</tr>
+<tr class="odd">
+<td>B-</td>
+<td>80-82</td>
+<td>F</td>
+<td>59 and below</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rubrics: </strong>The discussion forums, group study sessions, short papers, and integrative paper on <em>Mere Christianity</em> will all be evaluated using rubrics.  ﻿To access these rubrics, go to the main course page, locate the “Administration” menu in the upper right corner, and click on “Joule Grader.”  This will take you to a page with two drop-down menus in the upper right corner.  The first of these menus contains a list of all assignments that involve a rubric.  Select the appropriate assignment from this menu and click “View grading rubric.”</p>
+<p><strong>Civility in the Online Classroom:</strong> In the online learning environment students and instructors interact and collaborate through virtual modes of communication. These interactions encourage meaningful connections and opportunities to share in a cyber learning community. When participating in an online course, it is important to be conscientious and courteous in interactions with classmates and the instructor(s). Student engagement in the online learning environment should reflect the same high level of professionalism that is expected in the workplace and the respect and integrity that is characteristic of the community at Asbury University.</p>
+<p><strong>Announcements:</strong> Announcements will be communicated through Discovery once a week or as needed. Individual emails may occasionally come from the professor to address specific issues, so check both regularly.</p>
+<p><strong>Questions:</strong> Questions for the instructor about assignments, grades, extensions, etc. may be sent by email or (if they are short) by text. Use the discussion forum for content related questions (about philosophy).</p>
+<p><strong>Turnaround/Feedback:</strong> Written feedback on papers will come within 5 days of submitting, with at least two days lead time before the next paper is due. Some papers will be graded with extensive written feedback within 1 day. Please <em>read instructor feedback carefully</em> and never make the same mistake twice.</p>
+<p>As a part of a larger learning community, students are expected to actively engage in their courses. Active participation is vital to success in this course. Student engagement is expected and monitored.</p>
+<p><strong>Attendance is very important and students are expected to attend any scheduled virtual class sessions.</strong> This course requires in-class and out-of-class time to complete the course requirements. Some required assignments might be completed and assessed during scheduled class sessions. </p>
+<p>Inactive students who fall behind will have a very hard time catching up and may be de-registered from the class, causing negative effects for academic progress, financial aid, etc.</p>
+<p>Due to the accelerated format of online classes, failure to actively participate in class could negatively affect a student’s grade. At the discretion of the faculty member, reasonable provisions may be made to allow students to make up work if an absence is due to a documented medical, work or family emergency.</p>
+<p><strong>Late Work:</strong> No late work will be accepted.</p>
+<p>If you are suffering a hardship (illness, death in the family) and require an extension, you may ask for one <em>by email only</em> (not text or forum) at least 12 hours before the assignment due date. The instructor may decline to offer an extension. “Last minute” extensions are usually denied.</p>
+<p>Otherwise, all assignments are due by 11:55 PM Eastern Time on the stated due date <em>unless otherwise noted</em>. The introduction for each unit (on the course website) provides the due dates for each of the graded assignments in that unit.</p>
+<p>To avoid a cascade of late work, when an extension is granted, the student must work hard to complete the extended assignment <em>and to remain on time for the next assignment</em>.</p>
+<p>Zeros will be inputted for assignments that are turned in late, even if an extension was granted, and the extended assignments will have the grade updated after it is graded.</p>
+<p><strong>Submission of Electronic Files:</strong> All assignments for this course will be submitted electronically through Discovery unless otherwise instructed. Refer to each assignment for specific instructions regarding expectations, deadlines, and submission. Please do not submit PDFs or .pages files, but .doc files.</p>
+<p><strong>Academic Integrity:</strong> Academic integrity, the embodiment of the moral and spiritual principles to which we adhere, is the essential basis of the Asbury University academic community. Integrity, as partially defined by the Student or Program Handbook on Community Life Expectations, is –both knowing the right thing to do and doing it regardless of the circumstances. This definition may be applied to all of the scholastic interactions of the academic community. Every member of the community shares responsibility for maintaining mutual trust, respect, and integrity. Violations of such trust and specific acts of academic dishonesty will be subject to disciplinary action.</p>
+<p>Asbury students need to be honest in their endeavors and be good examples to their peers. Students are expected to live a life of integrity that includes intentional and specific attention to academic honesty. For purposes of clarification, students will find in the <a href="http://www.asbury.edu/student-life/handbook-community-life">Student/Program Handbook</a> a list of acceptable and not acceptable actions during the creation and implementation of a project, lab, paper, or presentation. Students need to check with individual professors for specifics or variations from the list for specifics related to online course exams and other projects.</p>
+<p><strong>Plagiarism:</strong> The use of another’s ideas, words, thoughts, or organization without appropriate credit and documentation. Whether intentionally or unintentionally, if you do not clarify from where or from whom you take information that you use for a project, paper, presentation, or exam, you are being dishonest–taking credit for what someone else worked hard to discover and record. If you are found to have plagiarized at Asbury University, you will be subject to one or more of the following consequences: lowered grade, F or 0% on paper or project, meeting with Academic Dean; F in course; meeting with Academic Integrity Committee, suspension or expulsion from AU.</p>
+<p><strong>Academic Integrity Policies and Consequences:</strong> For additional information about the Asbury University Academic Integrity policies and consequences, see the <a href="http://www.asbury.edu/offices/registrar/bulletin">Asbury University Bulletin</a>.</p>
+<p><strong>Registration Changes During Drop/Add:</strong> It is the student’s responsibility to understand when they need to consider un-enrolling from a course. For information regarding registration changes during drop/add, please see the <a href="http://www.asbury.edu/offices/registrar/bulletin/academic-policies/courses-and-registration">Registrar’s page</a> on the Asbury University website.</p>
+<p><strong>Withdrawal from a Course:</strong> For information regarding course withdrawal, please see the <a href="http://www.asbury.edu/offices/registrar/bulletin/academic-policies/courses-and-registration">Registrar’s page</a> on the Asbury University website.</p>
+<p><strong>Incompletes:</strong> A temporary grade of incomplete (“I”) may be granted by the Dean of the appropriate college/school where the course resides. An incomplete may be granted due to extenuating circumstances such as equipment breakdown or medical crisis. Quality of work or more time is not a criterion for an incomplete and will not be granted on such basis. A student seeking an incomplete in more than one course may only be granted by the Academic Dean. See the <a href="http://www.asbury.edu/offices/registrar/bulletin">Asbury University Bulletin</a> for further information regarding incomplete grades.</p>
+<p><strong>Building Rapport:</strong> If you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. Building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.</p>
+<p>Asbury University is committed to providing reasonable accommodations for students with documented disabilities. If you want to discuss reasonable academic accommodations, it is your responsibility to contact the Asbury University Disabilities Coordinator as soon as possible. For additional information, see the <a href="https://www.asbury.edu/academics/cae/disability-services">Disabilities Services Website</a>. </p>
+<p><strong>Course Support:</strong> For questions regarding your class, <strong>contact your instructor</strong>. </p>
+<p><strong>Tech Support:</strong>Contact the <a href="http://www.asbury.edu/offices/its/help-desk/request-support/distance-ed-online-course-support/online-student-support">Help Desk</a> for assistance with email, logins, connection to Discovery or Moodlerooms, hardware questions, or access to Kinlaw Library resources.</p>
+<p><strong>Academic Support:</strong> For questions regarding academic records, registration and graduation functions, including transcript evaluations, contact the <a href="http://www.asbury.edu/offices/registrar">Registrar’s Office</a>.</p>
+<p>Library and Research Support: Contact the <a href="http://www.asbury.edu/offices/library/faculty-staff/jennifer-walz"><em>Head of Research and Distance Services</em></a>with any research questions. The <a href="http://www.asbury.edu/offices/library"><em>Kinlaw Library</em></a> is committed to support academic excellence and to develop lifelong learning through the provision of quality information resources and Christ-centered individual services.</p>
+<p><strong>Financial Aid:</strong> Contact the <a href="http://www.asbury.edu/offices/financial-aid">Financial Aid Office</a> for questions about institutional and federal student aid.</p>
+<p><strong>Student Accounts:</strong> For any questions regarding your student account, semester charges, or payment options, contact the Student Accounts Office at: <a href="mailto:student.accounts@asbury.edu">student.accounts@asbury.edu</a> or 859-858-3511 ext. 2380.</p>
+<p>==========================</p>
+<p><strong>Abbreviated Schedule With Due Dates of Graded Assignments</strong> (Please see course Discovery site for access to all assignments,including ungraded readings, practice quizzes, and viewing activities).</p>
+<p><em>Unit 1: Ethics and the Good Life</em> (May 20 - May 31)</p>
+<p><strong>Discussion Forum: Why Be Moral?- initial post due</strong>May 24.</p>
+<p><strong>Group Study Session initial post due May 29.</strong></p>
+<p><strong>Essay exam to be taken by May 31.</strong></p>
+<p><em>Unit 2: The Mind-Body Problem</em> (June 1 - June 7)</p>
+<p><strong>Discussion Forum: Do Computers Have Beliefs?- initial post due June 3.</strong></p>
+<p><strong>Group Study Session initial post due June 5.</strong></p>
+<p><strong>Essay exam to be taken by June 7.</strong></p>
+<p><em>Unit 3: Freedom and Determinism</em> (June 8 – June 14)</p>
+<p>            Discussion Forum: Morality and Determinism- initial post due June 10.</p>
+<p>            Group Study Session initial post due June 12.</p>
+<p>            Essay exam to be taken by June 14.</p>
+<p><em>Unit 4: Theory of Knowledge </em>(June 15 – June 21)</p>
+<p>Forum: What’s Wrong With Being Wrong?- initial post due 17.</p>
+<p>            Group Study Session initial post due June 19.</p>
+<p>            Essay exam to be taken by June 21.</p>
+<p><em>Unit 5: The Existence of God and the Problem of Evil</em> (June 22 – June 28)</p>
+<p>            Forum: Does the Universe Need a Designer- post due June 24</p>
+<p>            Group Study Session initial post due June 26.</p>
+<p>Essay exam to be taken by June 28.</p>
+<p><em>Unit 6: Applied Ethics</em> (June 29 – July 12)</p>
+<p>             Discussion Forum: Aid, Loans, and the Dignity of Our Impoverished </p>
+<p>             Neighbors initial post due July 1.</p>
+<p>Group Study Session initial post due July 3.</p>
+<p>             Essay exam to be taken by July 5.</p>
+<p>Integrative paper on <em>Mere Christianity</em> due July 12.</p>
+<p>Grades turned in on Monday, July 15</p>
+
+\end{document}
