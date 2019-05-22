@@ -16,8 +16,8 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
-- Philosophy (10th grade) [Syllabus](/trinity-philosophy/)
-- History-Bible (9th grade)[Syllabus](/history)
+- Philosophy (10th grade)     [Syllabus](/trinity-philosophy/)
+- History-Bible (9th grade)   [Syllabus](/history)
 - Spanish 1 (9th grade)
 - Spanish 2 (10th grade)
 - Drama (7-8th grade) 

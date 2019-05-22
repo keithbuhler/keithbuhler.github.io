@@ -11,7 +11,7 @@ header:
 #### [PDF version of 2019 Summer Syllabus](/content/syllabi/syllabus-phl200-summer-2019.pdf)   
 
 
-<br> 
+
 **Course Number/Course Title:** PHL 200-Introduction to Philosophy
 
 **Semester/Year:** Summer 2019
@@ -52,7 +52,7 @@ Please use Asbury email for general communication and phone for urgent communica
 
 * C.S. Lewis, *Mere Christianity.*
 
-* Louis Pojman and Lewis Vaughn, *Philosophy: The Quest for Truth*, **10th edition**. (ISBN: 978-0-19-025477-3).
+* Louis Pojman and Lewis Vaughn, *Philosophy: The Quest for Truth*,  **10th edition**. (ISBN: 978-0-19-025477-3).
 
 **Note:** The 10th edition of the textbook is the version that the instructor will be referencing.  However, it is possible to complete this course and access all the required readings using the 9th edition of the textbook (which may be significantly cheaper, especially if you can find a used copy).  If you use the 9th edition of the textbook, the page numbers listed most prominently on the course Discovery site will be off.  To find the correct page numbers, **click on each individual reading assignment** and look for the page numbers that are listed for the 9th edition. 
 
@@ -90,7 +90,7 @@ All interactions in the discussion forums should be courteous, professional, tim
 
 When encountering the readings, **a good idea is to read everything once** to get a general understanding and **then  read it a second time** to understand the nuances that you may have missed in your initial reading. For this second reading, you will want to underline important material and write notes to yourself to remind yourself of key concepts and distinctions. Taking notes on the videos is also a good idea, and in order to do this, you may need to pause several times while you view the item. Remember that the essay exams are open-note, open-book. So, any notes or marks you make while watching or reading are notes you can reference later when taking the exam. You will also find it helpful to refer to these notes when participating in forum discussions, raising and answering questions during group study sessions, and composing papers (both the integrative paper and the shorter papers)
 
-**Accessing Grades: **All grades will be posted in the Grade book in your course in Discovery.
+**Accessing Grades:** All grades will be posted in the Grade book in your course in Discovery.
 
 **Graded Course Activities:**
 
