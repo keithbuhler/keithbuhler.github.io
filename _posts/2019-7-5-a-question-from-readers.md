@@ -10,7 +10,7 @@ tags: [culture, reviews]
 categories: [Philosophy]
 excerpt_separator: <!--more-->
 permalink: 
-cover: https://4.bp.blogspot.com/-IbikpG2FqqY/V-wol87amWI/AAAAAAAAEMw/NEt4vUil19IXKJBkYh-9gBUUzFkL071jACLcB/s1600/stars-1081861_960_720.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Palma_il_Giovane_-_St_Lawrence_Giving_the_Wealth_to_the_Poor_-_WGA16902.jpg/800px-Palma_il_Giovane_-_St_Lawrence_Giving_the_Wealth_to_the_Poor_-_WGA16902.jpg
 ---
 
 
