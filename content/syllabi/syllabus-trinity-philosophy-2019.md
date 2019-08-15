@@ -124,7 +124,16 @@ Tests and exams will assess how well you have mastered the core material of the 
 
 Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, electronic assignments are to be turned in online and paper assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
 
-*Late work will not be accepted.*  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
+### Late Work Policy:
+Assignments are due at the beginning of class unless otherwise stated. *Late work will not be accepted.*  Late assignments are inputted in the gradebook as a zero. 
+
+That said, any student may request an extension (of 1-7 days) on any assignment at any time. That request may be denied. In general, it is advised to work ahead, and plan carefully, to avoid turning assignments in late or requesting extensions. 
+
+Invalid excuses for late work include printer failure, internet failure, forgetting, being busy, being tardy to class, and more. Diligent and proactive students will find a way to overcome these common problems and get the assignment in on time. When in doubt, print and email the assignment in order to prevent a zero. 
+
+Valid exceptions to the "no late work" policy are:  1. Illness: missed assignments due to excused absences resulting from illness are automatically extended, then due the first day the student returns, unless a further extension is granted. (It is the student's responsibility to find out from the teacher or fellow students what is due.)  2. Planned absences: missed deadlines resulting from vacations, sports games, college trips, etc., are extended then due the day a student returns, unless a further extension is granted. (A good practice is to turn in assignments *before* the planned absence.)   3. Teacher discretion: the teacher may choose to offer a retroactive extension out of courtesy if it seems appropriate, though a point deduction of 10%-50% may be applied. It is not advised that students be optimistic about their chances of receiving such an extension. 
+
+In sum, students should foster the habit of turning in completed assignments by the beginning of class on the day they are due.
 
 ### Course Outline:
 
