@@ -15,7 +15,7 @@ header:
 
 <p> 2019-2018</p>
 
-<p> Dr. Buhler </p>
+<p> Dr. Buhler / Mr. Johnson </p>
 
 <p> kbuhler@trinityclassicalacademy.com   </p>
 
@@ -24,8 +24,7 @@ header:
 
 ### Requirements: 
 
-1. 
-3. Plato, *Republic*
+1. Plato, *Republic*
 4. Aristotle, *Nicomachean Ethics*
 5. The Holy Bible, *ESV Study Bible*
 6. A three ring binder devoted exclusively to this class with appropriate dividers
@@ -38,9 +37,9 @@ header:
 
 This course is intended to cultivate students' ability to argue well in conversation and in writing. More deeply, this course is intended to invite students into intellectual maturity by stoking their love of truth and fostering the joy of dialogue. 
 
-Students will gain an appreciation and understanding of the vocabulary, concepts, problems, and relevance of a set of "Great Ideas" in the history of western philosophy. 
+Students will gain an appreciation and understanding of the vocabulary, concepts, problems, and relevance of a subset of the Great Ideas in the history of western philosophy. 
 
-Armed with this vocabulary, students will read Plato, Aristotle, and other primary sources to grapple with those Great Ideas. Students will form their own thoughts by arguing in speech and in writing. 
+Students will acquire and practice this knowledge through close readings of Plato, Aristotle, and other primary sources. Students will form their own thoughts by arguing in conversation and in writing. 
 
 This course also reviews all prior stages of the Progymnasmata and covers the last stage: Thesis and Law. Students will learn to state a thesis/law clearly, provide arguments in its support, and state objections or counterarguments, and then respond to reasonable objections to their own thesis. 
 
@@ -54,27 +53,14 @@ Humanities is a discipline based upon the manipulation of abstract ideas as much
 * To understand Plato, Aristotle, and other seminal philosophers in their historical context and as thinkers relevant for us today
 * To review the Progymnasmata stages of fable, narrative, chreia/maxim, refutation/confirmation, and encomium/invective. 
 * To introduce the final stage o the Progymnasmata: Thesis/Law
-* To identify arguments for and against major positions in each sub-field
+* To identify arguments for and against major positions in ethics, politics, metaphysics, and epistemology
 * To practice conversational inquiry (dialectic) into abstract topics as well as one's own life 
 * To understand, test, and defend the Christian worldview applied to God, man, the universe, right and wrong, and human communities
 * To become more virtuous and wise by pursuing truth and goodness 
 
 ### Scope, Sequence:
 
-This course is divided into 10 units of two weeks each:
-
-1. Orienting to Philosophical Thinking (Christian intellectualism)
-2. I. Pre-Christian thought (goodness, truth, beauty, knowledge) 
-3. Plato, Republic
-4. Aristotle, Nic Ethics
-5. II. Christian thought (God, evil, will, man)
-6. Justin Martyr
-7. Augustine
-8. Aquinas
-9. III. Anti-Christian thought (Naturalism, skepticism, despair)
-10. Hume
-11. Conclusion
-
+This course is divided into two semesters -- one on Aristotle and one on Plato. Each semester is framed with discussions about the challenge and privilege of being Christians who are called to live the life of the mind. 
 
 
 ### Grades: 
@@ -86,9 +72,10 @@ You will be graded primarily on reading, participation, and tests.
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
 | Participation                         | 30%         |  
-| Homework/Readings                     | 30%         |
-| Papers, Tests                         | 30%         |
-| Quizzes                               | 10%         |
+| Papers                                | 30%         |
+| Note checks                           | 15%         |
+| Quizzes                               | 15%         |
+| Symposium                             | 10%         |
 
  
 
@@ -99,27 +86,26 @@ One of the primary goals of this class is to improve in the skill of intellectua
 
 To earn participation points, you will *voluntarily* share your thoughts in discussion *at least once per week* and respond when called upon. _You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
 
-Everyone earns a 8/10 for the participation grade. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+Everyone starts at an 80% participation grade for the week and earns a higher or lower grade based on performance. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
 
+Daily participation will be scored on a scale of 1-10 (or 10-100). Students are expected to (a) be a contributor and (b) not cause problems in the classroom. Being a contributor
 
-Daily participation will be scored on a scale of 1-10 (10-100), according to the following criteria:
 
-
-### 90-100: 
+### 9-10:
 Students always take a voluntary and active role in their own learning. They challenge themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
 
  
-### 80: 
+### 8: 
 Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
 
-### 70:
+### 7:
 Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
 
-### 60: 
+### 6: 
 Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
 
-### 10-50:
+### 1-5:
 Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 
@@ -133,7 +119,7 @@ Short reading quizzes or "pull questions" may be assigned. These assess that you
 
 ### Tests/Papers:
 
-Tests and exams will assess how well you have mastered the core material of the class. Most tests will consist of short to medium-length papers covering assigned topics. 
+Tests and exams will assess how well you have mastered the core material of the class. Tests may consist of short to medium-length papers covering assigned topics or term papers covering a breadth of topics.  
  
 
 

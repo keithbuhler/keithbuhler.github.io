@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /spanish/
+permalink: /spanish1/
 title: 
 header: 
       image: 
 ---
 
-#### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-spanish2.pdf)   
+#### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-spanish1-2018.pdf)   
 
 <center>
 
 
-<p> Elementary Spanish 2 </p>
+<p> Elementary Spanish 1 </p>
 
 <p> Dr. Buhler </p>
 
@@ -34,6 +34,7 @@ Students will follow the *Avancemos!* textbook as well as supplemental materials
 Language-learning is a discipline built on rote memorization and immersion into the thought-patterns of a foreign time and place. The goal is not only to be able to translate English thoughts into Spanish words but to "think in Spanish" as soon as possible. As a result, students are expected to devote time and energy to memorizing vocabulary, practicing declension and conjugation forms, practicing "Spanglish" (speaking Spanish and mixing in English vocabulary) and translating in and out of class. 
 
 
+
 ### Learning Goals:
 
 * To memorize the proper Latin American pronunciation of each letter of the alphabet
@@ -44,15 +45,19 @@ Language-learning is a discipline built on rote memorization and immersion into 
 * And finally, to read, understand, and translate Spanish sentences and longer Spanish primary texts such as fairy tales, Bible passages, news, and items of popular culture
 
 
-### Required Texts:
+### Required Texts and Materials:
 
-* ¡Avancemos!
+* ¡Avancemos! (textbook)
+* Pen or pencil   
+* A composition notebook  
+* A 3-ring binder or section in another binder
+* Flashcards
 
 ### Provided Handouts:
 - 620 Words
 - Conjugation charts
 - Fairy tales, the Creed, Bible stories, etc.
-
+- Spanish Grammar Study Guide, Level 1 (provided)
 
 ### Scope, Sequence, and Grades:
 
@@ -66,10 +71,11 @@ You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
-| Participation                         | 20%         |  
-| Homework                              | 20%         |
-| Quizzes                               | 20%         |
-| Final Exams                           | 40%         |
+| Participation / classwork             | 20%         |  
+| Homework                              | 15%         |
+| Quizzes                               | 10%         |
+| Tests and Final Exam                  | 35%         |
+| Oral presentations and compositions   | 20%
 
 
 The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned, participate, and study well for the tests. Weekly and sometimes daily quizzes build to monthly or quarterly tests. 
@@ -86,7 +92,7 @@ To earn participation points, you will *voluntarily* share your thoughts in disc
 
 Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
-Daily participation will be scored on a scale of 1-10, according to the following criteria:
+Daily participation will be scored on a scale of 10-100, according to the following criteria:
 
 
 ### 9-10: 

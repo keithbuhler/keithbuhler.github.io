@@ -6,7 +6,7 @@ header:
       image: http://media.cntraveler.com/photos/55d24b6f37284fb1079cbc20/16:9/w_1024,c_limit/trevi-fountain-rome-night-cr-getty.jpg
 ---
 
-#### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-history-bible-2019.pdf)   
+#### [PDF version of 2019-20 Syllabus](/content/syllabi/syllabus-trinity-history-bible-2018.pdf)   
 
 <center>
 
@@ -15,7 +15,7 @@ header:
 
 <p> 2018-2019</p>
 
-<p> Mr. Leigh & Dr. Buhler  </p>
+<p> Dr. Buhler / Mr. Scroggins  </p>
 
 
 </center>
@@ -24,8 +24,7 @@ header:
 
 1. The Holy Bible, *ESV Study Bible*
 2. A three ring binder devoted exclusively to this class with appropriate dividers
-Peter Leithart, *The Four: A Survey of the Gospels* 
-4. Supplementary materials (Spielvogel, *Western Civilization*, provided by teacher)
+3. Supplementary materials (Spielvogel, *Western Civilization*, provided by teacher)
 
 
 
@@ -50,21 +49,18 @@ Humanities is a discipline based upon the manipulation of abstract ideas, causes
 
 ### Scope, Sequence:
 
-This course is divided into roughly 13 units:
+This course is divided into 9 units:
 
 1. Alexander the Great and the Hellenistic Kingdoms
-2. Roman Kingdoms
-3. The Roman Republic
-4. The Gospel of Matthew
-5. Rome: From Caesar to Augustus
-6. Rome: The Early Empire
-7. Marcus Aurelius
-8. The Gospel of Luke / Acts
-9. Eusebius and the Early Church
-10. The Council of Nicea
-11. Augustine and The Late Roman Empire
-12. The Gospel of John
-13. Rome: From Byzantium to Justinian
+2. The Roman Republic
+3. The Gospel of Matthew
+4. The Roman Empire (Early)
+5. The Gospel of Mark
+6. The Roman Empire (Late)
+7. The Gospel of Luke / Acts
+8. The Early Church
+9. The Gospel of John
+
 
 
 
@@ -77,13 +73,13 @@ You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                                  |  %          |
 | ------------------------------------------------------|-------------|
-| Daily Work: (bellwork, Terms, Summaries, etc.)        | 15%         |  
-| Evaluations: (exams, projects, quizzes)               | 35%         |
-| Participation: (discussion, behavior, preparedness)   | 20%         |
-| Responses: (essays, pull questions)                   | 30%         |
+| Quizzes                      | 15%         |  
+| Tests & papers               | 30%         |
+| Participation               | 30%         |
+| Note checks                 | 15%             |
+| Presentations               | 10%             |
 
  
-
 
 ### Participation Rubric:
 

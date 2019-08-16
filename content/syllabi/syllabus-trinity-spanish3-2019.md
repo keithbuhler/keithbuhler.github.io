@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /spanish1/
+permalink: /spanish/
 title: 
 header: 
       image: 
 ---
 
-#### [PDF version of 2018-2019 Syllabus](/content/syllabi/syllabus-trinity-spanish1.pdf)   
+#### [PDF version of 2019-2020 Syllabus](/content/syllabi/syllabus-trinity-spanish2-2019.pdf)   
 
 <center>
 
 
-<p> Elementary Spanish 1 </p>
+<p> Spanish 3 </p>
 
 <p> Dr. Buhler </p>
 
@@ -27,12 +27,11 @@ The goal of this Spanish course is to develop your ability to speak Spanish. Stu
 
 Students are expected to learn to use Spanish for communication in real, meaningful situations. It is also intended that students develop an understanding of basic grammatical concepts and an appreciation various Spanish speaking cultures.
 
-To attain these goals, the first year courses focus on using Spanish as much as possible for classroom interaction.
+To attain these goals, this course uses Spanish language as much as possible for classroom interaction.
 
-Students will follow the *Avancemos!* textbook as well as supplemental materials provided electronically. Starting with alphabet and pronunciation, students will acquire basic vocabulary and grammar. They will also  learn Spanish concepts that don't quite translate directly into English words. 
+Students will follow Don Potter's *Spanish Grammar* textbook to it's completion, as well as supplemental materials from *Encuentros Maravillosos* and *La Santa Biblia*. Reviewing content from alphabet and pronunciation, and Spanish 1-2 vocabulary and tenses, students will acquire intermediate to advanced vocabulary and grammar. They will also  learn Spanish concepts that don't quite translate directly into English words. 
 
 Language-learning is a discipline built on rote memorization and immersion into the thought-patterns of a foreign time and place. The goal is not only to be able to translate English thoughts into Spanish words but to "think in Spanish" as soon as possible. As a result, students are expected to devote time and energy to memorizing vocabulary, practicing declension and conjugation forms, practicing "Spanglish" (speaking Spanish and mixing in English vocabulary) and translating in and out of class. 
-
 
 
 ### Learning Goals:
@@ -45,19 +44,11 @@ Language-learning is a discipline built on rote memorization and immersion into 
 * And finally, to read, understand, and translate Spanish sentences and longer Spanish primary texts such as fairy tales, Bible passages, news, and items of popular culture
 
 
-### Required Texts and Materials:
+### Required Texts:
 
-* ¡Avancemos! (textbook)
-* Pen or pencil   
-* A composition notebook  
-* A 3-ring binder or section in another binder
-* Flashcards
-
-### Provided Handouts:
-- 620 Words
-- Conjugation charts
-- Fairy tales, the Creed, Bible stories, etc.
-- Spanish Grammar Study Guide, Level 1 (provided)
+* Don Potter, *Spanish Grammar*
+* Phrase book 
+* Various handouts
 
 ### Scope, Sequence, and Grades:
 
@@ -71,11 +62,10 @@ You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                  |  %          |
 | --------------------------------------|-------------|
-| Participation / classwork             | 20%         |  
-| Homework                              | 15%         |
-| Quizzes                               | 10%         |
-| Tests and Final Exam                  | 35%         |
-| Oral presentations and compositions   | 20%
+| Conversation (oral practice)          | 25%         |  
+| Homework                              | 25%         |
+| Quizzes / Translations                | 25%         |
+| Oral & Written Tests                  | 25%         |
 
 
 The best way to earn an 'A' is to spend time every day memorizing new vocabulary and grammar forms and practicing what you have already learned, participate, and study well for the tests. Weekly and sometimes daily quizzes build to monthly or quarterly tests. 
@@ -92,7 +82,7 @@ To earn participation points, you will *voluntarily* share your thoughts in disc
 
 Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
 
-Daily participation will be scored on a scale of 10-100, according to the following criteria:
+Daily participation will be scored on a scale of 1-10, according to the following criteria:
 
 
 ### 9-10: 

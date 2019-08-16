@@ -6,7 +6,7 @@ header:
       image: https://www.easyjet.com/en/holidays/shared/images/guides/greece.jpg
 ---
 
-#### [PDF version of 2017-2018 Syllabus](/content/syllabi/greek-syllabus-trinity.pdf)   
+#### [PDF version of 2017-2018 Syllabus](/content/syllabi/syllabus-greek-trinity-2017.pdf)   
 
 <center>
 
