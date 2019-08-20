@@ -20,7 +20,9 @@ header:
 
 </center>
 
-### Text Requirements: 
+### Texts:
+
+Other than a three-ring-binder, the required texts are provided by Trinity and the teacher: 
 
 1. The Holy Bible, *ESV Study Bible*
 2. A three ring binder devoted exclusively to this class with appropriate dividers
@@ -29,15 +31,18 @@ header:
 
 
 ### Course Description:
+
 This course is intended cultivate careful reading and keen understanding of history and the Holy Scriptures.  By studying both history and Sacred Scripture in one course, students will gain a better appreciation for the ongoing dialog between man and God throughout history.
 
-Specifically, this course covers the History of Rome and its impact on Western Civilization from the fourth century before Christ to the early Middle Ages. There is a special focus on the years 0-400 AD. During this time, Rome became an empire, Jesus lived and died and resurrected, the Church began and recorded its own history in the New Testament. By studying this epoch, students will wrestle with questions of faith, history, and philosophy, such as how we know that Jesus really rose from the dead, how a historian can account for God's providence, and the relationship between Greek and Christian thought. Students can expect to practice reading, critical thinking, and prayerful study of God's word.
+Specifically, this course covers the History of Rome and its impact on Western Civilization from the fourth century before Christ to the early Middle Ages. There is a special focus on the years 0-400 AD. During this time, Rome became an empire. Jesus lived, died, and resurrected. The Church began, and recorded its own history in the New Testament. By studying this epoch, students will wrestle with questions of faith, history, and philosophy, such as: how can we know that Jesus really rose from the dead? How a historian can account for God’s providence? What is the relationship between Greek and Christian thought?” Students can expect to practice reading, critical thinking, and prayerful study of God's word.
 
 Humanities is a discipline based upon the manipulation of abstract ideas, causes, and effects, as much as on the learning of concrete facts. The goal is formation of good thought patterns and excellent character, rather than mastery of a body of technical knowledge. As a result, Humanities coursework involves reading and discussion more than anything else. Humanities homework, when assigned, will generally involve reading and note-taking, but most of our work actually takes place in the classroom. 
 
 
 
 ### Learning Goals:
+
+Our main learning goals include: 
 
 * To become familiar with the main contours of western history, such as Hellenistic Kingdoms, the Roman Republic, the Roman Empire
 * To understand Rome's uniqueness in the history of human civilization
@@ -83,31 +88,22 @@ You will be graded primarily on reading, participation, and tests.
 
 ### Participation Rubric:
 
-One of the primary goals of this class is to improve in the skill of intellectual dialog in a group. Such discussion is necessary because (1) You must take responsibility for your own learning, (2) discussion helps us to get to know each other, and (3) most people learn and retain material better in discussion. 
+Trinity Classical Academy offers a challenging education grounded in the Christian faith and the classical tradition to produce young men and women of virtue, wisdom, purpose, and courage. 
 
-To earn participation points, you will *voluntarily* share your thoughts in discussion *at least once per week* and respond when called upon. _You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
+Inculcating virtue requires that teachers invite and allow students to take an active part in their own learning. Especially in humanities courses, one of the primary goals is to improve in the skill of intellectual dialog in a group. Such discussion is necessary because (1) You must take responsibility for your own learning, (2) discussion helps us to get to know each other, and (3) most people learn and retain material better in discussion. 
 
-Everyone starts at an 80% (B-) for the participation grade. You can move up or down based on your performance. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+Many of the activities of self-responsible students fall under the grading category of ‘participation.’ This rubric is designed to create clear expectations between teachers and students as to how to excel in participation and to develop the virtues needed to do so. 
 
-Daily participation will be scored on a scale of 1-10 (10-100), according to the following criteria:
+We want students to take responsibility for themselves and for their own learning. In so doing, students  learn leadership, initiative, self-knowledge, diligence, and wisdom. 
 
+With these truths in mind, the participation expectations for this course are as follows: 
 
-### 9-10: 
-Students always take a voluntary and active role in their own learning. They challenge themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
+1. Does not cause a problem (5 points per week)
+2. Is a contributor           (5 points per week)
 
- 
-### 8: 
-Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
+“How do I get an A in participation?” An “A” in participation is neither automatic nor easy. Excellent students may still need to work to refine their participation before they earn a perfect score. 
 
-### 7: 
-Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
-
-### 6: 
-Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
-
-### 1-5:
-Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
-
+Everyone starts out at an 8 out of 10 (80%) for the week. Students who cause no problems whatsoever will rise to a 9 or 10. Students who cause a problem sometimes will remain at an 8; those who cause more problems will drop to a 7, 6, 5, or even less. 
 
 ### Reading tips:
 Read for understanding, not just completion.  Read each book or chapter slowly and actively, pausing to ask yourself: What is the main thesis? Is it true? Take notes summarizing the story or argument of the text and your questions or opinions on that story.  Read as slowly as you must in order to read for understanding; you will get faster over time! Also, talk with each other before class: What was the main point of the reading? What was especially confusing? What especially interesting? Come to class with objections, questions, and arguments. 
@@ -127,13 +123,26 @@ Tests and exams will assess how well you have mastered the core material of the 
 
 Only quality work from students will be accepted.  Quality work is clean, clear, properly titled, formatted, and stapled according to the assignment’s specifications.  Unless otherwise stated, electronic assignments are to be turned in online and paper assignments are to be hand-written and completed in pencil. When the use of pens is allowed, only black ink will be acceptable. 
 
-Late work will not be accepted.  In the case of emergencies or absences known ahead of time, contact Dr. Buhler to develop a plan for satisfactory completion of required work.  Assignments will be considered on time when they are ready to be turned in at the beginning of class.  
+### Late Work Policy:
+Assignments are due at the beginning of class unless otherwise stated. *Late work will not be accepted.*  Late assignments are inputted in the gradebook as a zero. 
+
+That said, any student may request an extension (of 1-7 days) on any assignment at any time. That request may be denied. In general, it is advised to work ahead, and plan carefully, to avoid turning assignments in late or requesting extensions. 
+
+Invalid excuses for late work include printer failure, internet failure, forgetting, being busy, being tardy to class, and more. Diligent and proactive students will find a way to overcome these common problems and get the assignment in on time. When in doubt, print and email the assignment in order to prevent a zero. 
+
+Valid exceptions to the "no late work" policy are:  1. Illness: missed assignments due to excused absences resulting from illness are automatically extended, then due the first day the student returns, unless a further extension is granted. (It is the student's responsibility to find out from the teacher or fellow students what is due.)  2. Planned absences: missed deadlines resulting from vacations, sports games, college trips, etc., are extended then due the day a student returns, unless a further extension is granted. (A good practice is to turn in assignments *before* the planned absence.)   3. Teacher discretion: the teacher may choose to offer a retroactive extension out of courtesy if it seems appropriate, though a point deduction of 10%-50% may be applied. It is not advised that students be optimistic about their chances of receiving such an extension. 
+
+In sum, students should foster the habit of turning in completed assignments by the beginning of class on the day they are due.
 
 ### Course Outline
 
 A detailed course outline may be made available online or as the course progresses. See your teacher for more information. 
 
 -----
+
+<br>
+<br>
+<br>
 
 ### Parent / Student Signature (please return this page only)
 

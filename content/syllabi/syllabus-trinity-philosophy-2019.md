@@ -81,35 +81,30 @@ You will be graded primarily on reading, participation, and tests.
  
 
 
-### Participation Rubric:
 
 
-One of the primary goals of this class is to improve in the skill of intellectual dialogue in a group. Such discussion is necessary because (1) You must take responsibility for your own learning, (2) discussion helps us to get to know each other, and (3) most people learn and retain material better in discussion. 
 
-To earn participation points, you will *voluntarily* share your thoughts in discussion *at least once per week* and respond when called upon. _You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. Come _prepared_. Read, take notes, reflect, and come ready to share your viewpoint, defend it, listen to others’ viewpoints, and critique theirs.
+### Participation:
 
-Everyone starts at an 80% participation grade for the week and earns a higher or lower grade based on performance. Outstanding participation is marked by preparation, diligence, attentiveness, articulateness, insight, and respect.   You will move up or down depending on whether you pay attention and speak at least once per week. Other [discussion ground rules are posted online.](http://www.keithbuhler.com/discussion101)
+Trinity Classical Academy offers a challenging education grounded in the Christian faith and the classical tradition to produce young men and women of virtue, wisdom, purpose, and courage. 
+
+Inculcating virtue requires that teachers invite and allow students to take an active part in their own learning. Many of the activities of self-responsible students fall under the grading category of ‘participation.’ This rubric is designed to create clear expectations between teachers and students as to how to excel in participation and to develop the virtues needed to do so. 
+
+We want students to take responsibility for themselves and for their own learning. In so doing, students  learn leadership, initiative, self-knowledge, diligence, and wisdom. 
 
 
-_You are responsible to talk in class._ Even if you are confused, tired, or unmotivated, I expect you to make yourself participate and engage. Get out of your comfort zone into your growth zone. 
+Especially in language courses, one of the primary goals is to improve in the live reading, understanding, and translating of Spanish into good English (and English into Spanish). Hence we will *speak* and *read* Spanish almost every class. 
 
-Daily participation will be scored on a scale of 1-10 (or 10-100). Students are expected to (a) be a contributor and (b) not cause problems in the classroom. Being a contributor
+With these truths in mind, the participation expectations for this course are as follows: 
 
-### 9-10:
-Students always take a voluntary and active role in their own learning. They challenge themselves on a daily basis.  They consistently demonstrate a genuine desire to learn and share ideas with the teacher and their classmates.  They listen actively to others, initiate discussions, ask significant questions, provide creative and thoughtful insight and ideas, and act as leaders within the group.  These students are always well prepared to contribute. Their in-class work ethic and faithfulness with homework demonstrates their high regard for learning. 
+1. Does not cause a problem (5 points per week)
+2. Is a contributor           (5 points per week)
 
- 
-### 8: 
-Students consistently take an active role in their own learning.  They participate satisfactorily in class discussions and work.  They demonstrate preparation and thoughtfulness when prompted to respond with an answer, and are ready to ask questions and offer insight relevant to the work at hand.  They listen respectfully and display attentiveness towards others.
+“How do I get an A in participation?” An “A” in participation is neither automatic nor easy. Excellent students may still need to work to refine their participation before they earn a perfect score. 
 
-### 7:
-Students inconsistently take an active role in their own learning, sharing relevant ideas, asking appropriate questions, and answering thoughtfully.  They contribute sparingly to class discussions and work.  They may need occasional reminders to stay on task make the most of our class time, and to increase their level of commitment to the course.  In class, the work ethic and focus demonstrated generally needs improvement.
+Everyone starts out at an 8 out of 10 (80%) for the week. Students who cause no problems whatsoever will rise to a 9 or 10. Students who cause a problem sometimes will remain at an 8; those who cause more problems will drop to a 7, 6, 5, or even less. 
 
-### 6: 
-Students rarely take an active role in their own learning.  They often do not participate and rarely share ideas or ask questions.   As a result of being unprepared for or disengaged from class, these students are unable to offer ideas even when called upon.  In class, their work ethic and focus is significantly lacking.
 
-### 1-5:
-Students are absent, unprepared, disrespectful, inattentive, or otherwise posing a significant behavioral and/or academic concern in class.
 
 
 
@@ -142,9 +137,11 @@ Valid exceptions to the "no late work" policy are:  1. Illness: missed assignmen
 
 In sum, students should foster the habit of turning in completed assignments by the beginning of class on the day they are due.
 
-### Course Outline:
 
-A detailed course outline may be made available in print or online. \newline
+<br>
+<br>
+<br>
+
 
 -----
 
