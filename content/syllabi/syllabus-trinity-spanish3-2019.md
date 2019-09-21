@@ -124,6 +124,11 @@ Invalid excuses for late work include printer failure, internet failure, forgett
 Valid exceptions to the "no late work" policy are:  1. Illness: missed assignments due to excused absences resulting from illness are automatically extended, then due the first day the student returns, unless a further extension is granted. (It is the student's responsibility to find out from the teacher or fellow students what is due.)  2. Planned absences: missed deadlines resulting from vacations, sports games, college trips, etc., are extended then due the day a student returns, unless a further extension is granted. (A good practice is to turn in assignments *before* the planned absence.)   3. Teacher discretion: the teacher may choose to offer a retroactive extension out of courtesy if it seems appropriate, though a point deduction of 10%-50% may be applied. It is not advised that students be optimistic about their chances of receiving such an extension. 
 
 In sum, students should foster the habit of turning in completed assignments by the beginning of class on the day they are due.
+
+
+\newpage
+
+
 -----
 
 ### Parent / Student Signature (please return this page only)

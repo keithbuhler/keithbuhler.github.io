@@ -13,7 +13,7 @@ header:
 
 <p> Bible & Ancient History Syllabus</p>
 
-<p> 2018-2019</p>
+<p> 2019-2020</p>
 
 <p> Dr. Buhler / Mr. Scroggins  </p>
 
@@ -32,9 +32,11 @@ Other than a three-ring-binder, the required texts are provided by Trinity and t
 
 ### Course Description:
 
-This course is intended cultivate careful reading and keen understanding of history and the Holy Scriptures.  By studying both history and Sacred Scripture in one course, students will gain a better appreciation for the ongoing dialog between man and God throughout history.
+This course is intended to cultivate careful reading and keen understanding of history and the Holy Scriptures. By studying both history and Sacred Scripture in one course, students will gain a better appreciation for the ongoing dialog between man and God throughout history.
 
-Specifically, this course covers the History of Rome and its impact on Western Civilization from the fourth century before Christ to the early Middle Ages. There is a special focus on the years 0-400 AD. During this time, Rome became an empire. Jesus lived, died, and resurrected. The Church began, and recorded its own history in the New Testament. By studying this epoch, students will wrestle with questions of faith, history, and philosophy, such as: how can we know that Jesus really rose from the dead? How a historian can account for God’s providence? What is the relationship between Greek and Christian thought?” Students can expect to practice reading, critical thinking, and prayerful study of God's word.
+Specifically, this course covers the History of Rome and its impact on Western Civilization from the fourth century before Christ to the early Middle Ages. There is a special focus on the years 0-400 AD. 
+
+During this time, Rome became an empire. Jesus lived, died, and resurrected. The Church began, and recorded its own history in the New Testament. By studying this epoch, students will wrestle with questions of faith, history, and philosophy, such as: how can we know that Jesus really rose from the dead? How can a historian account for God’s providence? What is the relationship between Greek and Christian thought?” Students can expect to practice reading, critical thinking, and prayerful study of God's word.
 
 Humanities is a discipline based upon the manipulation of abstract ideas, causes, and effects, as much as on the learning of concrete facts. The goal is formation of good thought patterns and excellent character, rather than mastery of a body of technical knowledge. As a result, Humanities coursework involves reading and discussion more than anything else. Humanities homework, when assigned, will generally involve reading and note-taking, but most of our work actually takes place in the classroom. 
 
@@ -72,15 +74,15 @@ This course is divided into 9 units:
 
 ### Grades: 
 
-Student work in each unit consists of reading, discussion, and assessments. Therefore, the best way to earn an 'A' is to read carefully, participate, and write. 
+Student work in each unit consists of reading, discussion, and assessments such as tests and papers. Therefore, the best way to earn an 'A' is to read carefully, participate, and write/study. 
 
 You will be graded primarily on reading, participation, and tests.
 
 |  Assessment category                                  |  %          |
 | ------------------------------------------------------|-------------|
-| Quizzes                      | 15%         |  
-| Tests & papers               | 30%         |
-| Participation               | 30%         |
+| Quizzes                     | 15%             |  
+| Tests & papers              | 30%             |
+| Participation               | 30%              |
 | Note checks                 | 15%             |
 | Presentations               | 10%             |
 
@@ -140,20 +142,11 @@ A detailed course outline may be made available online or as the course progress
 
 -----
 
-<br>
-<br>
-<br>
+\newpage
 
 ### Parent / Student Signature (please return this page only)
 
 >  *I have read and understand the above rules and responsibilities. By signing this document, I agree to abide by the expectations above and to make a positive contribution to this class.*
 
 ___________________________    
-Student Signature   
-
-
-____________________________   
-Parent Signature   
-
-____________________________   
-Date  
+Signatures (STUDENT)         /       (PARENT)         / DATE

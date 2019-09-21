@@ -131,6 +131,7 @@ Valid exceptions to the "no late work" policy are:  1. Illness: missed assignmen
 In sum, students should foster the habit of turning in completed assignments by the beginning of class on the day they are due.
 
 
+\newpage
 
 -----
 

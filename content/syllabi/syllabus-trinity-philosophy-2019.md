@@ -53,7 +53,7 @@ Humanities is a discipline based upon the manipulation of abstract ideas as much
 * To become familiar with the basic vocabulary of western philosophy (metaphysics, epistemology, ethics, cosmology, etc.)
 * To understand Plato, Aristotle, and other seminal philosophers in their historical context and as thinkers relevant for us today
 * To review the Progymnasmata stages of fable, narrative, chreia/maxim, refutation/confirmation, and encomium/invective. 
-* To introduce the final stage o the Progymnasmata: Thesis/Law
+* To introduce the final stage of the Progymnasmata: Thesis/Law
 * To identify arguments for and against major positions in ethics, politics, metaphysics, and epistemology
 * To practice conversational inquiry (dialectic) into abstract topics as well as one's own life 
 * To understand, test, and defend the Christian worldview applied to God, man, the universe, right and wrong, and human communities
@@ -92,8 +92,7 @@ Inculcating virtue requires that teachers invite and allow students to take an a
 
 We want students to take responsibility for themselves and for their own learning. In so doing, students  learn leadership, initiative, self-knowledge, diligence, and wisdom. 
 
-
-Especially in language courses, one of the primary goals is to improve in the live reading, understanding, and translating of Spanish into good English (and English into Spanish). Hence we will *speak* and *read* Spanish almost every class. 
+Especially in humanities courses, one of the primary goals is to improve in the skill of intellectual dialog in a group. Such discussion is necessary because (1) You must take responsibility for your own learning, (2) discussion helps us to get to know each other, and (3) most people learn and retain material better in discussion. 
 
 With these truths in mind, the participation expectations for this course are as follows: 
 
@@ -120,6 +119,8 @@ Short reading quizzes or "pull questions" may be assigned. These assess that you
 
 Tests and exams will assess how well you have mastered the core material of the class. Tests may consist of short to medium-length papers covering assigned topics or term papers covering a breadth of topics.  
  
+### Symposium
+At the end of each semester, students will be given a question for consideration and exploration. Having recollected and refined concepts from throughout the semester, they will participate in a discussion amongst peers as they attempt to answer the question. Students will be assessed on the basis of their activity in contributing insights and their ability to invite others into the communal pursuit of the true, the good, and the beautiful.
 
 
 ### Quality Work Guidelines:
@@ -137,10 +138,7 @@ Valid exceptions to the "no late work" policy are:  1. Illness: missed assignmen
 
 In sum, students should foster the habit of turning in completed assignments by the beginning of class on the day they are due.
 
-
-<br>
-<br>
-<br>
+\newpage
 
 
 -----
@@ -149,14 +147,6 @@ In sum, students should foster the habit of turning in completed assignments by 
 
 >  *I have read and understand the above rules and responsibilities. By signing this document, I agree to abide by the expectations above and to make a positive contribution to this class.*
 
+
 ___________________________    
-Student Signature   
-
-
-____________________________   
-Parent Signature   
-
-____________________________   
-Date  
-
-
+Signatures (STUDENT)         /       (PARENT)         / DATE
