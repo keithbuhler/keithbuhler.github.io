@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: 
 permalink: /cv/
 header:
       image: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1680_front.jpg
@@ -19,7 +19,7 @@ sidebar:
 Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
 M.A.&nbsp; Philosophy, University of Kentucky, 2016      
 M.A.&nbsp; Orthodox Theology, University of Balamand, 2014         
-B.A.&nbsp;&nbsp; Humanities, emphasis History, Biola University, 2004
+B.A.&nbsp;&nbsp; Humanities (emphasis in History), Biola University, 2004
 
 
 ### RESEARCH AREAS
@@ -65,17 +65,17 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 ### SECONDARY SCHOOL COURSES
 
-1. Ancient Roman History (x4) (*Trinity Classical Academy*)
-2. Writing & Pre-Rhetoric I (*Trinity Classical Academy*)
-3. Writing & Pre-Rhetoric II (*Trinity Classical Academy*)
+1. 
+1. Ancient Roman History (x5) (*Trinity Classical Academy*)
+2. Writing & Rhetoric (*Trinity Classical Academy*)
 3. Ancient Greek  (*Trinity Classical Academy*)
 4. Spanish 1      (*Trinity Classical Academy*)
 5. Spanish 2      (*Trinity Classical Academy*)
 6. Philosophy I   (*Trinity Classical Academy*)
 7. Drama Elective  (*Trinity Classical Academy*)
-12. Introduction to Philosophy (2017) (*Freedom Project Academy (online)
+12. Introduction to Philosophy (2017) (*Freedom Project Academy* (online)
 13. Humanities: 20th Century British Thought (*Veritas Christian Academy, KY* 2013)
-13. Philosophy: Plato on Being and Knowing (*Torrey Academy, Biola University, CA *2011)
+13. Philosophy: Plato on Being and Knowing (*Torrey Academy*, Biola University, CA *2011)
 14. Philosophy: Traditional Logic  (*Torrey Academy, Biola University, CA* 2009-2010)
 15. Humanities: Foundations of American Thought  (*Torrey Academy, Biola University, CA* 2009-2012)
 16. Humanities: Ancient and Medieval Thought  (*Torrey Academy, Biola University, CA* 2008-2012)
@@ -101,7 +101,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 
 ### WORKS IN PROGRESS
-1. "Remaining Agnostic about Causal Closure" (revise and resubmit)
+1. "No Good Arguments for Causal Closure" (submitted)
 4. *Becoming What We Are* (book draft complete)
 
 
@@ -122,6 +122,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 ### INVITED PUBLIC TALKS
 
+1. "Health Education in California Public Schools", St. Simeon Church, Santa Clarita, CA (scheduled for December 2019). 
 1. "Philosophy for Everyone", Trinity Classical Academy, Los Angeles, 2018 
 2. "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts, 2018 
 3. "Digging Deeper into Meaning", The St. Maximos Academy, Riverside, CA 2018.
@@ -140,12 +141,14 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 
 ### LANGUAGES
-Reading proficiency in Ancient Greek  
-Speaking fluency in Spanish  
+Ancient Greek (reading proficiency)
+Spanish (fluent)    
 Basic programming knowledge of HTML, CSS, and LaTex  
 
 ### AFFILIATIONS
+
 Society of Orthodox Philosophers in America, 2014-present   
 International Society for MacIntyrean Enquiry, 2015-present         
 Society of Medieval and Renaissance Philosophy, 2012-2017       
 American Philosophical Association, 2014-2017   
+Fellow, Alcuin Fellowship, 2019-present  
