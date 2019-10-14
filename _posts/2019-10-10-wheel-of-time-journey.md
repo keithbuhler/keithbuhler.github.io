@@ -3,27 +3,29 @@ title: The Wheel of Time Journey
 layout: single
 share: true
 header:
-      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+      image: https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/the-wheel-of-time-e1550782744776-700x355.jpg
 share: true
 comments: true
 tags: [culture, reviews]
 categories: [Culture]
 excerpt_separator: <!--more-->
 permalink: 
-cover: https://cdn.vox-cdn.com/thumbor/vLY68LAvSfK5TG1V233hVFndwv0=/0x0:825x464/1200x800/filters:focal(347x166:479x298)/cdn.vox-cdn.com/uploads/chorus_image/image/65020178/rand_al_thor.0.jpg
-
+cover: https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/the-wheel-of-time-e1550782744776-700x355.jpg
 --- 
 
+I just finished reading the Wheel of Time. [https://en.wikipedia.org/wiki/The_Wheel_of_Time]
 
-I just yesterday finished the Wheel of Time. [https://en.wikipedia.org/wiki/The_Wheel_of_Time]
+At a staggering total of 11,308 pages,  Robert Jordan's masterpiece is longest continuous narrative about a single hero ever written by a human being. 
 
-It's longest continuous narrative about a single hero ever written by a human being. 
+It's 11x the size of Lord of the Rings (1,000 pages); almost 4 Bibles (3,000 pages) and almost 3 Harry Potters (all seven books combined are about 4,200 pages). 
 
-It's 11,308 pages. That's about 11 Lord of the Rings (1,000 pages) almost 4 Bibles (3,000 pages) and almost 3 Harry Potters (all seven books combined are about 4,200 pages). 
+It's 4 million words. 
 
 Robert Jordan (and, after his death, Brandon Sanderson) wrote 4 million words about how Rand al'Thor, the Dragon Reborn, and his friends save the world. 
 
-I enjoyed the series, with some serious caveats. But this post is not about my review of the content. It's about the sheer magnitude of the project of writing (and reading!) this beast of a series. 
+
+
+I enjoyed the series, with some serious disclaimers. But this post is not about my review of the content. It's about the sheer magnitude of the project of writing (and reading!) this beast of a series. 
 
 A whole bunch of statistics can be run on this series. For example, from Reddit: "There are 4.41 million words in WoT. The average adult reading rate is 250 words per minute. Thus, the average adult would require 17640 minutes (294 hours) to read it all." That's only 48 minutes a day, without fail, for a whole year. 
 
