@@ -13,7 +13,7 @@ permalink:
 cover: https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/the-wheel-of-time-e1550782744776-700x355.jpg
 --- 
 
-I just finished reading the Wheel of Time. [https://en.wikipedia.org/wiki/The_Wheel_of_Time]
+I just finished reading the [Wheel of Time.](https://en.wikipedia.org/wiki/The_Wheel_of_Time)
 
 At a staggering total of 11,308 pages,  Robert Jordan's masterpiece is longest continuous narrative about a single hero ever written by a human being. 
 
