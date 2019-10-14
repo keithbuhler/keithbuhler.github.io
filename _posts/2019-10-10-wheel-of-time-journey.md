@@ -11,6 +11,7 @@ categories: [Culture]
 excerpt_separator: <!--more-->
 permalink: 
 cover: https://cdn.vox-cdn.com/thumbor/vLY68LAvSfK5TG1V233hVFndwv0=/0x0:825x464/1200x800/filters:focal(347x166:479x298)/cdn.vox-cdn.com/uploads/chorus_image/image/65020178/rand_al_thor.0.jpg
+
 --- 
 
 

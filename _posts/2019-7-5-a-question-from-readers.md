@@ -11,7 +11,9 @@ categories: [Philosophy]
 excerpt_separator: <!--more-->
 permalink: 
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Palma_il_Giovane_-_St_Lawrence_Giving_the_Wealth_to_the_Poor_-_WGA16902.jpg/800px-Palma_il_Giovane_-_St_Lawrence_Giving_the_Wealth_to_the_Poor_-_WGA16902.jpg
+
 ---
+
 
 Yesterday, I received an email from a reader that asks a question about moral obligation and giving to the poor: 
 
