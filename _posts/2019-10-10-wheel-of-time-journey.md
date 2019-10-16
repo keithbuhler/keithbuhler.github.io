@@ -29,44 +29,51 @@ I enjoyed the series, with some serious disclaimers. But this post is not about 
 
 A whole bunch of statistics can be run on this series. For example, from Reddit: "There are 4.41 million words in WoT. The average adult reading rate is 250 words per minute. Thus, the average adult would require 17640 minutes (294 hours) to read it all." That's only 48 minutes a day, without fail, for a whole year. 
 
-Here's my statistics. Which books I read whe. 
+Here's my statistics. Which books I read when: 
 
-1994: Read Book 1, 2, 3. (age 12)  
-1995: Read Book 4, 5, 6.   
-1996: Re-read Books 1-6, read Book 7.
-1997: N/A
-1998: N/A
-1999: N/A
-2000: N/A (starting college)
-2001: N/A
-2002: N/A
-2003: N/A
-2004: N/A (finished college)
-2005: N/A
-2006: N/A
-2007: N/A
-2008: N/A
-2009: N/A
-2010. N/A
-2011. N/A
-2012. N/A (starting grad school)
-2013. Re-read Book 7. Read Book 8. 
-2014. Read Book 9. 
-2015. N/A
-2016. N/A
-2017. N/A (finished grad school)
-2018. Read Book 10, 11, 12, 13. 
-2019. Read Book 14.  (age 36)
+<br>  
 
-You can see quite the hiatus between before high school and after graduate school. In 2013 I resolved to read more fiction as a counterpoint to all the academic reading; and in 2018 I resolved to finish the series even if it killed me. 
+1994: Read Book 1, 2, 3. (age 12)    
+1995: Read Book 4, 5, 6.       
+1996: Re-read Books 1-6, read Book 7.    
+1997: N/A    
+1998: N/A    
+1999: N/A    
+2000: N/A (starting college)    
+2001: N/A    
+2002: N/A    
+2003: N/A    
+2004: N/A (finished college)    
+2005: N/A    
+2006: N/A    
+2007: N/A    
+2008: N/A    
+2009: N/A    
+2010: N/A    
+2011: N/A    
+2012: N/A (starting grad school)    
+2013: Re-read Book 7. Read Book 8.     
+2014: Read Book 9.     
+2015: N/A    
+2016: N/A    
+2017: N/A (finished grad school)    
+2018: Read Book 10, 11, 12, 13.     
+2019: Read Book 14.  (age 36)    
+
+<br> 
+
+
 
 In a real way, I grew up with Robert Jordan and his characters. 
 
+I began the book in my teens and didn't really pick it up again until a few years ago. (You can see quite the hiatus from 1996-2012.) In 2013 I resolved to read more fiction as a counterpoint to all the academic reading I had to do for school and hence read a few more of the series. Then, in 2018, I resolved to finish the series even if it killed me. 
+
+
 The only thing I will say by way of review is this: 
 
-Sanderson's writing is so far superior to Jordan's that the ending was satisfying, after all those years. 
+Sanderson's writing is far superior to Jordan's, which helped the ending to be satisfying, after all those years. 
 
-And that we should be excited for [Amazon's adaptation.](https://www.theverge.com/2019/8/14/20805951/wheel-of-time-amazon-show-prime-video-adaptation-cast-rand-althor-robert-jordan-actors)
+Fans of the Wheel of Time should be excited for [Amazon's adaptation.](https://www.theverge.com/2019/8/14/20805951/wheel-of-time-amazon-show-prime-video-adaptation-cast-rand-althor-robert-jordan-actors)
 
-What fantasy or sci-fi series should I read next? 
+What fantasy or sci-fi series do you recommend for my reading list? 
 
