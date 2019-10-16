@@ -7,7 +7,7 @@ header:
 
 ---
 
-can bring inspiration to your event. 
+Keith Buhler can bring inspiration to your event. 
 
 In addition to teaching all ages, Keith has spoken at graduations, senior nights, men's nights, Bible studies, Sunday school, and more. 
 
@@ -16,6 +16,8 @@ In addition to teaching all ages, Keith has spoken at graduations, senior nights
 
 
 ### Popular Talks & Public Lectures Delivered ###
+2019 &nbsp;&nbsp; Sex Education in Public Schools in CA, St. Simeon Orthodox Church, CA.  
+2018 &nbsp;&nbsp; Assessing for Virtue, ACCS Conference, Texas. 
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
 2013&nbsp;&nbsp; "Reading is Classical Education", Veritas Christian Academy.  
 [2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' *Abolition of Man*", Torrey Academy.](https://drive.google.com/file/d/0B0CYQDZ8AWu8aDlZVGJJTm92U1E/view?usp=sharing) and [Slideshow](https://drive.google.com/open?id=0B0CYQDZ8AWu8LTZWZ2lSeVg4MU0)      
