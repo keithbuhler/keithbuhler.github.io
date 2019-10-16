@@ -9,9 +9,9 @@ sidebar:
 --- 
 
 ### Curriculum Vitae (2019)
-### Keith Buhler, Ph.D.
-### Trinity Classical Academy
-### Asbury University
+**Keith Buhler, Ph.D.**  
+**Trinity Classical Academy**  
+**Asbury University**  
 
 #### [PDF version](http://www.keithbuhler.com/content/CV/cv-buhler.pdf)
 
@@ -30,15 +30,15 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 
 ### EMPLOYMENT
-1. Philosophy Instructor, Humanities, Trinity Classical Academy, 2017 - present 
-2. Adjunct Philosophy Instructor, Asbury University, 2017 - present
-1. Postdoctoral Scholar, University of Kentucky,  Spring 2017 
-2. Instructor of Philosophy, Asbury University, 2013-2017
+1. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - present 
+2. Adjunct Philosophy Instructor (online), Asbury University, 2017 - present
+2. Adjunct Philosophy Instructor, Asbury University, 2013-2017
+1. Postdoc Scholar, University of Kentucky,  Spring 2017 
 3. Director of High School, Veritas Academy, 2013-2014
 4. Master Tutor, Torrey Academy, 2007-2012
 6. Lecturer, Wheatstone Academy, 2006-2011
 6. Assistant Director, Wheatstone Academy, 2004-2005
-7. ESL and gradeschool teaching: at Etum Korean Academy (Fullerton), Willow Public School (Long Beach), and Biola University abroad (Ulaambatar, Mongolia), 2001-2004. 
+7. ESL and grade school teaching: at Etum Korean Academy (Fullerton), Willow Public School (Long Beach), and Biola University abroad (Ulaambatar, Mongolia), 2001-2004. 
 
 
 
@@ -63,7 +63,7 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### SECONDARY SCHOOL COURSES
 
-1. Introduction to Philosophy: Plato and Aristotle (x3)  (*Trinity Classical Academy*
+1. Introduction to Philosophy: Plato and Aristotle (x3)  (*Trinity Classical Academy*)
 1. Ancient Roman History (x5) (*Trinity Classical Academy*)
 2. Writing & Rhetoric (*Trinity Classical Academy*)
 3. Ancient Greek  (*Trinity Classical Academy*)
@@ -98,7 +98,8 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### WORKS IN PROGRESS
 1. "No Good Arguments for Causal Closure" (submitted)
-4. *Becoming What We Are* (book draft complete)
+2. *Becoming What We Are* (book draft complete)
+3. "Teleology without Theology: Thomas Nagel on Natural Purpose" (in progress)
 
 
 
@@ -137,9 +138,9 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 
 ### LANGUAGES
-Ancient Greek (reading proficiency)
-Spanish (fluent)    
-Basic programming knowledge of HTML, CSS, and LaTex  
+Ancient Greek (reading proficiency)  
+Spanish (fluent)      
+Basic programming knowledge of HTML, CSS, and LaTex    
 
 ### AFFILIATIONS
 Torrey Honors Institute, Perpetual member, 2004-present     
@@ -149,16 +150,9 @@ Fellow, Alcuin Fellowship, 2019-present
 
 ### REFERENCES
 
-
-|                                                            |                                                                   |
-|-------------------------------------------------------------|--------------------------------------------------------------------|
-| David Bradshaw, Professor of Philosophy                     | John Reynolds, President, The Saint Constantine School                             |
-| University of Kentucky, 1415 Patterson, Lexington KY.                 | 6000 Dale Carnegie Lane Houston, TX.                       |
-|  [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832.975.7075        |
-|                                                             |                                                                    |
-| Daniel Breazeale, Professor of Philosophy                    | Chris Bounds, Chair, Philosophy and Religion                      |
-| University of Kentucky, 1417 Patterson, Lexington KY.          | Asbury University, One Macklem Drive, Wilmore KY.                 |
-| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859.257.7109. |
-
-
-
+1. David Bradshaw, Professor of Philosophy, University of Kentucky 
+2. John Reynolds, President, The Saint Constantine School
+3. Daniel Breazeale, Professor of Philosophy
+4. Chris Bounds, Chair, Philosophy and Religion, Asbury University
+5. Liz Caddow, Head of School, Trinity Classical Academy
+6. Grant Horner, Professor of Literature, The Master's University  
