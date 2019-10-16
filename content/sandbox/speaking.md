@@ -16,8 +16,15 @@ In addition to teaching all ages, Keith has spoken at graduations, senior nights
 
 
 ### Popular Talks & Public Lectures Delivered ###
-2019 &nbsp;&nbsp; Sex Education in Public Schools in CA, St. Simeon Orthodox Church, CA.  
-2018 &nbsp;&nbsp; Assessing for Virtue, ACCS Conference, Texas. 
+2019 &nbsp;&nbsp; (scheduled) "Health Education in California Public Schools", St. Simeon Church, Santa Clarita, CA. 
+2018 &nbsp;&nbsp;"Philosophy for Everyone", Trinity Classical Academy, Los Angeles.  
+2018 &nbsp;&nbsp; "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts. 
+2018 &nbsp;&nbsp; "C. S. Lewis and the Silent Planet: Digging Deeper into Meaning", The St. Maximos Academy, Riverside, CA. 
+2018 &nbsp;&nbsp; "Assessing for Virtue", Association of Classical Christian Schools, Dallas, TX. 
+2018 &nbsp;&nbsp; "Assessing for Virtue", ACCS Conference, Texas. 
+2017 &nbsp;&nbsp; "Effective, Enjoyable, Everlasting: Three Benefits of Classical Education", Chesterton School of Liberal Arts Launch event. 
+2017 &nbsp;&nbsp; "Education as Initiation: When School is the Real World", University of St. Katherine, Forum Lectures.
+2017 &nbsp;&nbsp; "Vainglory and Pride", Sojourner's Church.
 2014 &nbsp;&nbsp; "Morality -- Rule-following or New Life?", Wesleyan Society.   
 2013&nbsp;&nbsp; "Reading is Classical Education", Veritas Christian Academy.  
 [2012 &nbsp;&nbsp;"The Goodness of Goodness -- Lewis' *Abolition of Man*", Torrey Academy.](https://drive.google.com/file/d/0B0CYQDZ8AWu8aDlZVGJJTm92U1E/view?usp=sharing) and [Slideshow](https://drive.google.com/open?id=0B0CYQDZ8AWu8LTZWZ2lSeVg4MU0)      

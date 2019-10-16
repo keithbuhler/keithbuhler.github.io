@@ -9,7 +9,9 @@ sidebar:
 --- 
 
 ### Curriculum Vitae (2019)
-### Keith Buhler
+### Keith Buhler, Ph.D.
+### Trinity Classical Academy
+### Asbury University
 
 #### [PDF version](http://www.keithbuhler.com/content/CV/cv-buhler.pdf)
 
@@ -17,14 +19,13 @@ sidebar:
 ### EDUCATION
 
 Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
-M.A.&nbsp; Philosophy, University of Kentucky, 2016      
-M.A.&nbsp; Orthodox Theology, University of Balamand, 2014         
-B.A.&nbsp;&nbsp; Humanities (emphasis in History), Biola University, 2004
+M.A.&nbsp; Applied Orthodox Theology, University of Balamand (Lebanon), 2014         
+B.A.&nbsp;&nbsp; Humanities (emphasis in History), Biola University, 2004, 
 
 
 ### RESEARCH AREAS
 Areas of specialization: Ethics, the History of Philosophy.     
-Areas of competence:  Philosophy of Mind, Philosophy of Religion. 
+Areas of competence:  Philosophy of Religion, Philosophy of Mind. 
 
 
 
@@ -34,18 +35,15 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 1. Postdoctoral Scholar, University of Kentucky,  Spring 2017 
 2. Instructor of Philosophy, Asbury University, 2013-2017
 3. Director of High School, Veritas Academy, 2013-2014
-4. Master Tutor, Torrey Academy, 2010-2012
-5. Tutor, Torrey Academy, 2007-2010
+4. Master Tutor, Torrey Academy, 2007-2012
 6. Lecturer, Wheatstone Academy, 2006-2011
 6. Assistant Director, Wheatstone Academy, 2004-2005
-7. ESL Tutor (6th-grade), Etum Korean Academy, CA 2010-2012
-8. Great Books Tutor (4th-Grade), GATE Program, Willow School of Long Beach, CA 2001-2002
-9. ESL Teacher, Biola University Abroad, Ulaambatar, Mongolia, 2001
+7. ESL and gradeschool teaching: at Etum Korean Academy (Fullerton), Willow Public School (Long Beach), and Biola University abroad (Ulaambatar, Mongolia), 2001-2004. 
 
 
 
   
-### UNIVERSITY COURSES TAUGHT 
+### UNIVERSITY COURSES  
 
 *I've taught upper-division and lower-division undergraduate classes at Biola University, the University of Kentucky, and Asbury University.*
 
@@ -59,22 +57,20 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 8. Virtue Ethics, Ancient and Modern 
 9. Introduction to Philosophy (x6)
 10. Logic (as TA)
-11. Philosophy of Science  (as TA)
+11. Philosophy of Science (as TA)
 
 
 
 ### SECONDARY SCHOOL COURSES
 
-1. 
+1. Introduction to Philosophy: Plato and Aristotle (x3)  (*Trinity Classical Academy*
 1. Ancient Roman History (x5) (*Trinity Classical Academy*)
 2. Writing & Rhetoric (*Trinity Classical Academy*)
 3. Ancient Greek  (*Trinity Classical Academy*)
-4. Spanish 1      (*Trinity Classical Academy*)
-5. Spanish 2      (*Trinity Classical Academy*)
-6. Philosophy I   (*Trinity Classical Academy*)
-7. Drama Elective  (*Trinity Classical Academy*)
-12. Introduction to Philosophy (2017) (*Freedom Project Academy* (online)
-13. Humanities: 20th Century British Thought (*Veritas Christian Academy, KY* 2013)
+4. Spanish 1-3      (*Trinity Classical Academy*)
+7. Drama   (*Trinity Classical Academy*)
+8. Introduction to Philosophy (2017) (*Freedom Project Academy* (online)
+9. Humanities: 20th Century British Thought (*Veritas Christian Academy, KY* 2013)
 13. Philosophy: Plato on Being and Knowing (*Torrey Academy*, Biola University, CA *2011)
 14. Philosophy: Traditional Logic  (*Torrey Academy, Biola University, CA* 2009-2010)
 15. Humanities: Foundations of American Thought  (*Torrey Academy, Biola University, CA* 2009-2012)
@@ -108,7 +104,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 
 ### COMMMENTS AND SERVICE
 
-1. Comments on Rob Elisher's "Aristotelian Moral Schizophrenia", University of Kentucky Graduate School Conference.
+1. Comments on Rob Elisher's "Aristotelian Moral Schizophrenia", University of Kentucky Graduate School Conference, 2017.
 1. Referee for Kentucky Graduate School Conference submissions, 2017.
 2. "How to Keep Momentum in Dissertation Writing," University of Kentucky Graduate School, Writing Bootcamp, 2016. 
 2. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." Society of Christian Philosophers, University of San Diego, 2016.
@@ -129,7 +125,7 @@ Areas of competence:  Philosophy of Mind, Philosophy of Religion.
 1. "Assessing for Virtue", Association of Classical Christian Schools, Dallas TX 2018.
 1. "Effective, Enjoyable, Everlasting: Three Benefits of Classical Education", Chesterton School of Liberal Arts Launch event, 2017. 
 2. "Education as Initiation: When School is the Real World", University of St. Katherine, Forum Lectures, Fall 2017.
-2. "Vainglory and Pride", Sojourner's Church, August 2017
+2. "Vainglory and Pride", Sojourner's Church, August 2017.
 2. "Morality: Rule-following or New Life?," Wesleyan Society, Lexington KY, 2014.
 2. "Reading Great Books in Classical Education," Veritas Academy, Lexington KY, 2013.
 3. "The Goodness of the Tao: CS Lewis' *Abolition of Man*," Torrey Academy, CA  2012.
@@ -146,9 +142,23 @@ Spanish (fluent)
 Basic programming knowledge of HTML, CSS, and LaTex  
 
 ### AFFILIATIONS
-
+Torrey Honors Institute, Perpetual member, 2004-present     
 Society of Orthodox Philosophers in America, 2014-present   
 International Society for MacIntyrean Enquiry, 2015-present         
-Society of Medieval and Renaissance Philosophy, 2012-2017       
-American Philosophical Association, 2014-2017   
 Fellow, Alcuin Fellowship, 2019-present  
+
+### REFERENCES
+
+
+|                                                            |                                                                   |
+|-------------------------------------------------------------|--------------------------------------------------------------------|
+| David Bradshaw, Professor of Philosophy                     | John Reynolds, President, The Saint Constantine School                             |
+| University of Kentucky, 1415 Patterson, Lexington KY.                 | 6000 Dale Carnegie Lane Houston, TX.                       |
+|  [dbradsh@uky.edu](emailto:dbradsh@uky.edu) / 859.257.7107   | [jmnreynolds@saintconstantine.org](emailto:jmnreynolds@saintconstantine.org) / 832.975.7075        |
+|                                                             |                                                                    |
+| Daniel Breazeale, Professor of Philosophy                    | Chris Bounds, Chair, Philosophy and Religion                      |
+| University of Kentucky, 1417 Patterson, Lexington KY.          | Asbury University, One Macklem Drive, Wilmore KY.                 |
+| [breazeal@uky.edu](emailto:breazeal@uky.edu) / 859.257.4376 | [chris.bounds@asbury.edu](emailto:chris.bounds@asbury.edu) / 859.257.7109. |
+
+
+
