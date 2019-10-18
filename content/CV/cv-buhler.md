@@ -143,10 +143,12 @@ Spanish (fluent)
 Basic programming knowledge of HTML, CSS, and LaTex    
 
 ### AFFILIATIONS
-Torrey Honors Institute, Perpetual member, 2004-present     
-Society of Orthodox Philosophers in America, 2014-present   
+Alcuin Fellowship, Fellow, 2019-present    
+Heterodox Academy, Member, 2018-present  
 International Society for MacIntyrean Enquiry, 2015-present         
-Fellow, Alcuin Fellowship, 2019-present  
+Society of Orthodox Philosophers in America, 2014-present    
+Torrey Honors Institute, Perpetual member, 2004-present     
+
 
 ### REFERENCES
 
