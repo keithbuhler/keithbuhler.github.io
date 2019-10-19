@@ -103,7 +103,7 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 
 
-### COMMMENTS AND SERVICE
+### COMMENTS AND SERVICE
 
 1. Comments on Rob Elisher's "Aristotelian Moral Schizophrenia", University of Kentucky Graduate School Conference, 2017.
 1. Referee for Kentucky Graduate School Conference submissions, 2017.
