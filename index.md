@@ -26,9 +26,9 @@ You may want to check out:
 
 My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my teaching, coaching, and other activities.  We *all* need to practice the practical skills that bring about human flourishing: growth in virtue, relational health, prayer and spiritual discipline. These practices require hard work and discipline but they are worth it. Virtue is possible.
 
-In my day job, I'm an academic philosopher with a special interest in virtue ethics. 
+In my day job, I'm an academic philosopher with a special interest in virtue ethics and a teacher.  
 
-Currently, I teach online philosophy courses for Asbury University and  dual-credit (high school/college) philosophy courses at a [classical Christian school](https://classicalchristian.org/), (plus other courses as needed, such as: theology, history, Greek language, Spanish, and drama.) 
+Currently, I teach online philosophy courses for Asbury University and  dual-credit philosophy courses at a [classical Christian school](https://classicalchristian.org/), (plus other courses as needed, such as: theology, history, Greek language, Spanish, and drama.) 
 
 In other areas of the classical education renewal, I am the host of the [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education for parents and fellow teachers in the movement, and I serve as a board member of two other classical schools. Finally, I recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
 
