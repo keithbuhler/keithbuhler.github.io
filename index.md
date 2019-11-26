@@ -1,10 +1,9 @@
 ---
 layout: page
-title: | Welcome | 
+title: Welcome | 
 permalink: 
 header:
-      image: http://www.keithbuhler.com/images/keithat-trinity-speaking.jpg
-related: 
+      image: http://www.keithbuhler.com/images/keith-at-trinity-speaking.jpg
 ---
 
 Thank you for visiting. 
