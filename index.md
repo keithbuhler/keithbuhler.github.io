@@ -48,9 +48,61 @@ Around the same time, I had the privilege of [interviewing Dr. Robert George of 
 
 Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP Moreland](http://www.advicetochristianphilosophers.com/) for my Christian Philosophers podcast.
 
+----- 
+
+
+## Latest Post
+
+
+<br>
+
+
+{% for post in site.posts limit:1 %}
+<div>
+<center>
+<h1><font color="gray"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></font></h1>
+<span class="time"> <font color="gray" font-size="2em"><i> {{ post.date | date: "%m.%d.%Y" }} / {{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if post.categories != empty and post.subheadline != NULL %} – {% endif %}{{ post.subheadline }} </i></font></span> 
+</center>
+<br>
+{{ post.content | markdownify | split:'<!--more-->' | first }}
+{% if post.content contains '<!--more-->' %}
+<a href="{{ post.url | prepend: site.baseurl }}"><i>Read the rest... </i></a><br><br>
+{% endif %}
+
+</div>
+
+<br>
+<br>
+
+{% endfor %}
+
+
+<br> 
+
+
+----
+
+## Popular Posts
+
+
+- [Interview with English professor and CS Lewis scholar Louis Markos](http://www.keithbuhler.com/markos) *Real virtue wins out every time.*
+
+- [Interview with Christian philosopher Eric Silverman](http://www.keithbuhler.com/philosophy/2017/11/24/silverman-interview.html) *How Christians can succeed in academic philosopher. How a thoughtful reflection on Christianity's view of love inspires his ethical work.*
+
+- [**"Life is Suffering", and other Jordan Peterson quotations**](http://www.keithbuhler.com/philosophy/2017/04/25/jordan-peterson-quotes.html) *"We don’t understand the world. I do think the world is more like a musical masterpiece than it is like anything else. And things are oddly connected."*
+
+-  [**This Classic Text Explains why Classical Education is Best**](http://www.keithbuhler.com/buhlerreport/yalereport-post/) -- *If you haven’t read the Yale Report, it is very good. The “Yale Report of 1828” is one of the “most influential documents in the history of American higher education” according to R.J. O’Hara. It is still a pleasure to read, and its influence should not wane.*
+
+
+
+
+----- 
+
+
+
 ## Prior Work
 
-In 2017, I defended my philosophy dissertation, titled [Becoming What We Are](/phd). It defends Aristotle's ethics in light of scientific naturalism -- and offers a tendentious definition of scientific naturalism. 
+In 2017, completed a philosophy book (as of yet unpublished), titled [Becoming What We Are](/phd). It defends Aristotle's ethics in light of scientific naturalism -- and offers a tendentious definition of scientific naturalism. 
 
 In 2012, I published a my first book, *Sola Scriptura*, a [Platonic dialogue](http://bitly.com/ScriptureOrTradition) consisting of of various Christians discussing Scripture and Tradition. 
 
