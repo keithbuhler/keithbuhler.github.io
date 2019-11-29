@@ -8,34 +8,36 @@ header:
 
 Thank you for visiting. 
 
-I'm Keith Buhler, a philosopher and classical educator. 
+I'm Keith Buhler, a philosopher and classical educator, and host of the [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education.
 
 This site is a guide to my personal interests and professional activities. 
 
 You may want to check out: 
 
-* my [current projects](/projects)
-* my [academic research](/research) to dialog about virtue 
+* my [current projects](/projects) in philosophy, education, and arts
+* my [academic research](/research) to dialog about virtue and wisdom 
 * [the "Buhler Report"](/blog), a blog with recent reflections on  sundry topics such as books, culture, parenting, movies, politics, and living intentionally
-* [The Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), a friendly introduction to classical education. 
 
 
 
 ## About me
 
-My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my teaching, coaching, and other activities.  We *all* need to practice the practical skills that bring about human flourishing: growth in virtue, relational health, prayer and spiritual discipline. These practices require hard work and discipline but they are worth it. Virtue is possible.
+My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my teaching, coaching, and other activities.  
 
-In my day job, I'm an academic philosopher with a special interest in virtue ethics and a teacher.  
+In my day job, I'm a humanities teacher and academic philosopher with a special interest in virtue ethics. 
 
-Currently, I teach online philosophy courses for Asbury University and  dual-credit philosophy courses at a [classical Christian school](https://classicalchristian.org/), (plus other courses as needed, such as: theology, history, Greek language, Spanish, and drama.) 
+I teach online philosophy courses for Asbury University and  dual-credit philosophy courses at a [classical Christian school](https://classicalchristian.org/), (plus other courses as needed, such as: theology, history, Greek language, Spanish, and drama.) 
 
-In other areas of the classical education renewal, I am the host of the [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education for parents and fellow teachers in the movement, and I serve as a board member of two other classical schools. Finally, I recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
+In other areas of the classical education renewal, I serve as a board member of two other classical schools and recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
+
+Virtue is possible but it requires hard work and practice. We *all* need to "try on" the practical skills that bring about human flourishing, even if we wobble and sometimes fail. These skills include listening well, being proactive, self-discipline, serving others, prayer, and spiritual discipline. 
+
+
+
 
 
 
 ## Recent Activity
-
-In December 2019, I'll be giving a free talk about health education in California public schools. 
 
 I'm currently developing and implementing a [10th grade philosophy course](http://www.keithbuhler.com/trinity-philosophy/) introducing students to Plato and Aristotle by reading the whole *Republic* and the whole *Nicomachean Ethics*, as well as teaching them to write and argue using the medieval "disputatio" format (a la Aquinas).  
 
