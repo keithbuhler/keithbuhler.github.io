@@ -32,6 +32,7 @@ Casual readers may be a bit confused at the abundance of literary references. Le
 
 That said, any sufficiently curious theological reader will learn much from reading the Psalms over Lewis's shoulder. 
 
+<!--more-->
 
 ## Precis (Summary)
 
