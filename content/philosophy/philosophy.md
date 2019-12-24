@@ -1,71 +1,64 @@
 ---
-title: Philosophy Portal
+title: Ask the Hard Questions!
 layout: philosophy
 author_profile: false
 sidebar:
   nav: philosophy
-permalink: /philosophy/
+permalink: /hardquestions/
 --- 
 
 
-Most college students will take exactly *one* philosophy class. A bad professor (or TA!) can make philosophy seem boring or irrelevant. Then again, a bad professor could make *Disneyland* boring. 
+"**Ask the Hard Questions!**": A list of resources from Uncle Keith and Aunt Lindsay
 
-Philosophy isn't just "thinking about thinking." It isn't just logic, isn't just religion, isn't just discussing opinions, isn't just critical thinking. It's the love of wisdom; the whole-hearted search for truths that do not change with the times. Philosophers explore all of reality, including domains officially reserved for science, math, religion, history, or psychology. They think deeply about death, the meaning of life, the relation between science and aesthetics, and the existence of God. Philosophy liberates you. Philosophy, indeed, is the highest liberal art. 
+<br> 
 
-![Morpheus](http://www.keithbuhler.com/images/morpheushd.jpg)
+## Books
 
-What if I told you philosophy majors earn more than business majors? 
+* [The Defense Never Rests](https://www.amazon.com/Defense-Never-Rests-Workbook-Apologists/dp/146379018X) - William Lane Craig
+* [Sophie's World](https://www.amazon.com/Sophies-World-History-Philosophy-Classics/dp/0374530718/ref=asc_df_0374530718/?tag=hyprod-20&linkCode=df0&hvadid=312128284741&hvpos=1o1&hvnetw=g&hvrand=10283669211263483506&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031180&hvtargid=aud-801381245258:pla-333397557301&psc=1) - Introduction to philosophy (not Christian)
+* [Sean McDowell Resources](https://seanmcdowell.org/books)
+* [Cold Case Christianity for Kids](https://www.amazon.com/Cold-Case-Christianity-Kids-Investigate-Detective/dp/0781414571/ref=asc_df_0781414571/?tag=hyprod-20&linkCode=df0&hvadid=312696674585&hvpos=1o1&hvnetw=g&hvrand=5967088786214498125&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031180&hvtargid=pla-435042255599&psc=1) - Warner Wallace
 
-It's true. Philosophers don't get much respect but, <a target="_blank" href="http://fivethirtyeight.com/features/philosophers-dont-get-much-respect-but-their-earnings-dont-suck/"> in the words of Nate Silver, "their earnings do not suck." </a>
+<br> 
+<br> 
 
-[Philosophy can help you to find a good job, earn a higher salary, on average, than someone with a business degree.](/philosophy-3-major)
+## Podcasts
 
-That said, happiness and wisdom are more important than money: [Studying philosophy _can_ make you happier, wiser, and can help you achieve your life goals.](/philosophy-3-major) 
+* [Cold Case Christianity](https://player.fm/series/the-cold-case-christianity-podcast) -
+* [Let My People Think](https://player.fm/series/rzim-let-my-people-think-broadcasts)
+* [Think Biblically](https://seanmcdowell.org/podcasts) - Sean McDowell
 
-<a target="_blank" href="http://www.keithbuhler.com/philosophy/"><img src="https://media.giphy.com/media/XG1TkmiJVuyJi/giphy.gif" alt="Choose wisely."> </a>
-
-If you do take a class, you might find it surprisingly good -- depending on the professor, of course. *You should make the most of your time.*
-
-This site is your guide to getting the most out of philosophy.
-
-Explore the links in the sidebar to get started. 
-
-
-{% include toc %}
+<br> 
+<br> 
 
 
-### Before Class
+## Videos
 
-- Read more about the benefits of studying philosophy. [(Almost) everyone should study *some* philosophy.](http://www.whystudyphilosophy.com) A philosophy degree can help you get a good job, earn higher salary than business degree, and find answers to life's deepest questions. 
+* [Reasonable Faith](https://www.youtube.com/user/drcraigvideos) (animated videos) - William Lane Craig
+* [Impact 360 Institute](https://www.impact360institute.org/videos/is-it-okay-to-question-the-bible/)
+* [One Minute Apologist](https://oneminuteapologist.com/videos/)
+* [Josh McDowell](https://www.josh.org/resources/apologetics/videos/)
+* [Sean McDowell](https://seanmcdowell.org/videos) 
+* [Prager U ](https://www.youtube.com/watch?v=DOIbcOoaxuY&list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS)Channel on Philosophy and Religion
+* [Prager U](https://www.youtube.com/watch?v=TK57RiMqTdk&list=PLIBtb_NuIJ1y0fPzddUfOqYMav-gp1JNM) - Ten Commandments Series
+* [Prager U](https://www.youtube.com/user/PragerUniversity/search?query=happiness) - on Happiness
+* [Ravi Zacharias International Channel](https://www.youtube.com/user/rzimmedia)
 
-### When Class Starts
-- [Ask yourself: How do I succeed in a philosophy class?](/philosophy-class)
-- Review your course syllabus closely. 
+<br> 
+<br> 
 
+##Websites
 
-### Class just finished? 
+* [Wheatstone Ministries](https://www.christianadulthood.org/)
+* [Sean McDowell Website](https://seanmcdowell.org/)
+* [Josh McDowell](https://www.josh.org/)
+* [Josh McDowell teen resources](https://www.josh.org/category/stuff-for-teens/)
 
-[Should I consider majoring -- or adding a minor -- in philosophy?](/philosophy-3-major)
+<br> 
+<br> 
 
+## Conferences
 
-### Grad School?
-
-[Should I consider graduate school -- and becoming a professional academic?](/philosophy-7-profession)
-
-### Want to chat? 
-
-- If you want to talk about something else: Contact me via [email](emailto:keith.buhler@uky.edu) or [twitter](https://twitter.com/Keith_Buhler) to share criticism, compliments, or other comments.
-
-### Dr. Buhler Things? 
-- check out some of my [academic articles.](https://uky.academia.edu/KeithBuhler)
-- and my [personal site](/sandbox) for fiction, art, and more fun stuff. 
-
-
-### Random Fun Things?
-
-To blow your mind, open a random page on Wikipedia and [get to philosophy.](/wikipedia)
-
-
-<a href="https://en.wikipedia.org/wiki/Mary_Wollstonecraft"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg" alt="Mary Shelly" width="467" height="569"></a>
-
-[*Mary Shelly, one of the first modern female philosophers.*](https://en.wikipedia.org/wiki/Mary_Wollstonecraft)
+* [Wheatstone - Christian Adulthood 101](https://www.christianadulthood.org/101) - from Wheatstone Ministries
+* [WIA Kids - Biola](https://www.biola.edu/events/2020/wiakids20) - Event, Sat., Jan 25 - Cost $40
+* [Biola Apologetics Events](https://www.biola.edu/talbot/news-events)

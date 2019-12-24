@@ -33,7 +33,7 @@ The question (for audiences and critics) is whether he was aiming for the right 
 I've not read or heard many  reviews that were lukewarm. Either Johnson improved Star Wars or "ruined" Star Wars. 
 
 ## Goals
-![TLJ ratiings](/images/lastjedi5050.png)
+![TLJ ratings](/images/lastjedi5050.png)
 
 In my review, I have three goals.
 
@@ -44,7 +44,7 @@ Second, I want to argue that people are justified in not liking it. I get it. TL
 Third, I want explain and defend the expectations that one must have in order to enjoy the movie. 
 
 
-I've been very curious to understand why this movie is so divisive.   Almost half the movie going audience hated the dang thing; and almost half loved it.  The film is slightly less divisive than Donald Trump, but only slightly. 
+I've been very curious to understand why this movie is so divisive.   Almost half the movie going audience hated the dang thing; and almost half loved it.  The film is slightly less divisive than Donald Trump --  only *slightly*. 
 
 It'd be nice for some more reviews that help each side understand the other. 
 
