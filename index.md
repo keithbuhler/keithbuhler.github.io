@@ -50,7 +50,8 @@ Around the same time, I had the privilege of [interviewing Dr. Robert George of 
 
 Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP Moreland](http://www.advicetochristianphilosophers.com/) for my Christian Philosophers podcast.
 
------ 
+
+<br>
 
 
 ## Latest Post
@@ -60,6 +61,7 @@ Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP
 
 
 {% for post in site.posts limit:1 %}
+
 <div>
 <center>
 <h1><font color="gray"> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></font></h1>
@@ -82,7 +84,7 @@ Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP
 <br> 
 
 
-----
+<br>
 
 ## Popular Posts
 
@@ -98,7 +100,7 @@ Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP
 
 
 
------ 
+<br>
 
 
 
@@ -108,8 +110,8 @@ In 2017, completed a philosophy book (as of yet unpublished), titled [Becoming W
 
 In 2012, I published a my first book, *Sola Scriptura*, a [Platonic dialogue](http://bitly.com/ScriptureOrTradition) consisting of of various Christians discussing Scripture and Tradition. 
 
-
------ 
+<br>
+<br>
 
 ## Endorsements
 
