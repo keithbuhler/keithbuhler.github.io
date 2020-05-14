@@ -20,7 +20,6 @@ feature_row:
 - History-Bible (9th grade)   [Syllabus](/history)
 - Spanish 1 (9th grade)
 - Spanish 2 (10th grade)
-- Drama (7-8th grade) 
 
 ## 2019-2020 Future Courses
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: phl200-2019/
+permalink: phl200/
 title: 
 header: 
       image: 
@@ -8,28 +8,28 @@ header:
 <br> 
 <br> 
 
-#### [PDF version of 2019 Summer Syllabus](/content/syllabi/syllabus-phl200-summer-2019.pdf)   
+#### [PDF version of 2020 Summer Syllabus](/content/syllabi/syllabus-phl200-summer-2020.pdf)    link may not work yet.
 
 
 
 **Course Number/Course Title:** PHL 200-Introduction to Philosophy
 
-**Semester/Year:** Summer 2019
+**Semester/Year:** Summer 2020
 
 **Department Name:** Christian Studies & Philosophy
 
 **Name:** Dr. Keith Buhler
 
-**Email:** keithedbuhler@gmail.com
+**PRIMARY Email:** keithedbuhler@gmail.com 
 
 **Additional Email:** Keith.Buhler@asbury.edu
 
-**Phone Number:** 562-230-2920   (Text Messages Welcome)   
+**Phone Number:** 562-230-2920   (Text messages welcome)   
 
 <br> 
 <br> 
 
-Please use Asbury email for general communication and phone for urgent communication.  
+Please use Gmail for general communication. Take the "Communication Survey" so I can get to know your preferred method. To communicate with you, I will use a combination of multiple methods: (a) email, (b) Discovery Announcements, (c) Zoom (live), (d) YouTube live streaming, (e) text message by phone and (f) phone. 
 
 **General Description:** Introduction to the nature, methods, and purposes of philosophical inquiry. Investigates major topics such as reality, knowledge, and ethics. Surveys and evaluates important worldviews in an attempt to formulate a Christian worldview. (From AU Bulletin)
 
