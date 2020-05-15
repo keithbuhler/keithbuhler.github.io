@@ -12,8 +12,6 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-SOME THOUGHTS ABOUT MISFORTUNE
-
 The Covid pandemic is a great misfortune. 
 
 Misfortune is no one's fault -- no human being's fault that is -- it is the will of God, or fate, or chance, or nature. No one person or group can prevent all misfortune. Asteroids, floods, plagues, pandemics, tornados, famines, are all examples. Even when a misfortune (like an oil spoil, a war, a breaking levy) is partially caused by human error, it is also partially caused by factors outside our control. 
