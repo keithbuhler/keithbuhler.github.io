@@ -1,11 +1,11 @@
 ---
 title: Introduction
 layout: slide
-theme: sky
+theme: blood
 ---
 
 <section data-background=""><!--Day 1 begin-->
-<section data-background="http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/3481980_orig.png" data-markdown><!--Intro slide begin-->
+<section data-background="https://ichef.bbci.co.uk/wwfeatures/live/624_351/images/live/p0/3f/y6/p03fy66y.jpg" data-markdown><!--Intro slide begin-->
 
 ## Intelligibility 
 
