@@ -36,15 +36,14 @@ Call "naturalism" the claim that all that exists and can be known is physical. T
 
 ### The logical solution
 
-- The argument for physicalism is not itself physical. It is not obvious, scientific, etc. It is an extremely rarified and abstract form of intellectual argument that only some westernized intellectuals can even comprehend let alone agree on.
+The argument for physicalism is not itself physical. It is not obvious, scientific, etc. It is an extremely rarified and abstract form of intellectual argument that only some westernized intellectuals can even comprehend let alone agree on.
 
 
 </section><section data-markdown> 
 
 ### The practical solution
 
-Here are some examples of things that are "intelligible."
-
+Here are some examples of things that are not physical, immediate, but are knowable and real. 
 
 - numbers
 - properties, relations
@@ -60,6 +59,14 @@ Here are some examples of things that are "intelligible."
 Let's look at each one more closely. 
 
 </section><section data-markdown> 
+
+Plato makes the distinction between "visible" things which are visible to the eyes, and "intelligible" things which are visible to the intellect. 
+
+Words are intelligible because they can be *understood*, not just seen. 
+
+</section><section data-markdown> 
+
+Intelligible things: 
 
 # Numbers
 
@@ -99,8 +106,6 @@ Let's look at each one more closely.
 </section><section data-markdown> 
 
 
-</section><section data-markdown> 
-
 ## In short... 
 
 - numbers
@@ -116,6 +121,23 @@ Let's look at each one more closely.
 
 </section><section data-markdown> 
 
+## Another picture
+
+We started with the statement that "The physical is immediate, obvious, and undeniable." We looked at some examples of things that are real and knowable despite being abstract: the intelligible reality. But how do we make the idea of intelligibility *feel* as plausible as naturalism? 
+
+Here's an alternate picture. 
+
+
+</section><section data-markdown> 
+
+What is immediate is less real. 
+As we grow and mature, we become more aware of reality that is less immediate and more real: 
+First, just your own body and mother. Then others. Then the whole world. 
+First, just your room and house. Then your city, country, the globe. Then the whole cosmos. 
+First, we think the table is solid -- then we learn it is pocked full of empty space (atomic space). 
+The most real is God himself -- the least immediate and physical. 
+
+</section><section data-markdown> 
 
 </section>
 </section><!--Day 1 end-->
