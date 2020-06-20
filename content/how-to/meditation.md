@@ -7,7 +7,7 @@ header:
 --- 
 
 
-![meditation rocks](https://studentleadership.northseattle.edu/sites/studentleadership.northseattle.edu/files/o-MEDITATION-facebook.jpg)
+![meditation rocks](https://www.keithbuhler.com/images/balance-rocks.jpeg)
 
 
 ## "Meditatio" by [Mary Karr](http://www.marykarr.com/books.php)
