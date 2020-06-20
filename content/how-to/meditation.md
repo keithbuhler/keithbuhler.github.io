@@ -7,7 +7,7 @@ header:
 --- 
 
 
-![meditation rocks](https://www.keithbuhler.com/images/balance-rocks.jpeg)
+![balance rocks](https://www.keithbuhler.com/images/balance-rocks.jpeg)
 
 
 ## "Meditatio" by [Mary Karr](http://www.marykarr.com/books.php)
