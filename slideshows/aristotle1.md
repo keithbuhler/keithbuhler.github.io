@@ -1,7 +1,7 @@
 ---
 title: Aristotle on Happiness
 layout: slide
-theme: night
+theme: blood
 ---
 
 <section><!--begin-->
