@@ -2,17 +2,19 @@
 title: Aristotle on Happiness
 layout: slide
 theme: blood
+permalink: /aristotle1/
 ---
 
-<section><!--begin-->
-<section data-background="http://behavioralresourcegroup.com/wp-content/uploads/2016/11/SGO-Autonomy-Image.png" data-markdown><!--Intro slide begin-->
+<section><!--Syllabus begin-->
+<section data-background="http://www.scarymommy.com/wp-content/uploads/2014/10/you-your-wall-street-boyfriend-24-hours-0.jpg" data-markdown><!--Intro slide begin-->
 
 
 # Aristotle on Wisdom, Happiness, and God
 
 *The Surprising Conclusions of a Virtuous Pagan*
 
-</section><section data-markdown> 
+</section>
+<section data-markdown> 
 
 # Introduction: Why Aristotle
 
@@ -76,7 +78,7 @@ Life seems to be common even to plants, but we are seeking what is peculiar to m
 
 “And that all these attributes belong most of all to the wise man is manifest. He, therefore, is the dearest to the gods. And he who is that will presumably be also the happiest; so that in this way too the wise man will more than any other be happy.” (X.9)
 
-            Growth in wisdom and stature
+Compare: "Growth in wisdom and stature, favor with God and man" (Luke 2)
 
 </section><section data-markdown> 
 
@@ -142,4 +144,4 @@ Rather, it requires effort, good education, a good society, natural giftings.
 * How does that square with "blessedness" of the Sermon on the Mount and Psalm 1
 
 </section>
-</section><!--End Day 3, Religion and Reason-->
+</section><!--End all-->
