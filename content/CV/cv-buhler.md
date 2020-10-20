@@ -8,7 +8,7 @@ sidebar:
       nav: 
 --- 
 
-### Curriculum Vitae (2019)
+### Curriculum Vitae (2020)
 **Keith Buhler, Ph.D.**  
 **Trinity Classical Academy**  
 **Asbury University**  
@@ -20,7 +20,7 @@ sidebar:
 
 Ph.D.&nbsp;  Philosophy, University of Kentucky, 2017    
 M.A.&nbsp; Applied Orthodox Theology, University of Balamand (Lebanon), 2014         
-B.A.&nbsp;&nbsp; Humanities (emphasis in History), Biola University, 2004, 
+B.A.&nbsp;&nbsp; Humanities (emphasis in History), Biola University, 2004
 
 
 ### RESEARCH AREAS
@@ -63,12 +63,12 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### SECONDARY SCHOOL COURSES
 
-1. Introduction to Philosophy: Plato and Aristotle (x3)  (*Trinity Classical Academy*)
-1. Ancient Roman History (x5) (*Trinity Classical Academy*)
+1. Introduction to Philosophy: Plato and Aristotle (x4)  (*Trinity Classical Academy*)
+1. Ancient Roman History (x7) (*Trinity Classical Academy*)
 2. Writing & Rhetoric (*Trinity Classical Academy*)
 3. Ancient Greek  (*Trinity Classical Academy*)
-4. Spanish 1-3      (*Trinity Classical Academy*)
-7. Drama   (*Trinity Classical Academy*)
+4. Spanish 1-3      (x2) (*Trinity Classical Academy*)
+7. Theater and Drama (x3)   (*Trinity Classical Academy*)
 8. Introduction to Philosophy (2017) (*Freedom Project Academy* (online)
 9. Humanities: 20th Century British Thought (*Veritas Christian Academy, KY* 2013)
 13. Philosophy: Plato on Being and Knowing (*Torrey Academy*, Biola University, CA *2011)
@@ -96,9 +96,11 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 8. "Virtue and Imaginative Resistance,” South Carolina Society of Philosophers, University of South Carolina, 2014.
 
 
+### PUBLICATIONS
+1. "No Good Arguments for Causal Closure" (forthcoming)
+
 ### WORKS IN PROGRESS
-1. "No Good Arguments for Causal Closure" (submitted)
-2. *Becoming What We Are* (book draft complete)
+1. *Becoming What We Are* (in progress)
 3. "Teleology without Theology: Thomas Nagel on Natural Purpose" (in progress)
 
 
@@ -119,7 +121,6 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### INVITED PUBLIC TALKS
 
-1. "Health Education in California Public Schools", St. Simeon Church, Santa Clarita, CA (scheduled for December 2019). 
 1. "Philosophy for Everyone", Trinity Classical Academy, Los Angeles, 2018 
 2. "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts, 2018 
 3. "Digging Deeper into Meaning", The St. Maximos Academy, Riverside, CA 2018.
@@ -143,7 +144,7 @@ Spanish (fluent)
 Basic programming knowledge of HTML, CSS, and LaTex    
 
 ### AFFILIATIONS
-Alcuin Fellowship, Fellow, 2019-present    
+Alcuin Fellowship, Western Region Fellow, 2019-present    
 Heterodox Academy, Member, 2018-present  
 International Society for MacIntyrean Enquiry, 2015-present         
 Society of Orthodox Philosophers in America, 2014-present    
@@ -154,7 +155,6 @@ Torrey Honors Institute, Perpetual member, 2004-present
 
 1. David Bradshaw, Professor of Philosophy, University of Kentucky 
 2. John Reynolds, President, The Saint Constantine School
-3. Daniel Breazeale, Professor of Philosophy
-4. Chris Bounds, Chair, Philosophy and Religion, Asbury University
+4. Chris Bounds, Professor of Christian Doctrine, Wesley Seminary  
 5. Liz Caddow, Head of School, Trinity Classical Academy
 6. Grant Horner, Professor of Literature, The Master's University  
