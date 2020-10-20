@@ -1,11 +1,12 @@
 ---
-title: ARistotle on Happiness
+title: Aristotle on Happiness
 layout: slide
 theme: night
 ---
 
 <section><!--begin-->
-<section background="http://keithbuhler.com/images/aristotle.bmp" data-markdown>
+<section data-background="http://behavioralresourcegroup.com/wp-content/uploads/2016/11/SGO-Autonomy-Image.png" data-markdown><!--Intro slide begin-->
+
 
 # Aristotle on Wisdom, Happiness, and God
 
