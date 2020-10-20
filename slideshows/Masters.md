@@ -1,6 +1,5 @@
-Masters.md
 ---
-title: Virtue
+title: ARistotle on Happiness
 layout: slide
 theme: night
 ---
