@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: slide
-theme: serif
+theme: blood
 ---
 
 <section><!--Friday begin-->
