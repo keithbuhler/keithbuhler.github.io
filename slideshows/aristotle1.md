@@ -1,13 +1,12 @@
 ---
 title: Aristotle on Happiness
 layout: slide
-theme: league
-permalink: /aristotle1/
+theme: night
+permalink: 
 ---
 
 <section><!--Lecture begin-->
-<section data-background="http://www.keithbuhler.com/images/aristotle.jpg" data-markdown><!--Intro slide begin-->
-
+<section data-markdown><!--Intro slide begin-->
 
 # Aristotle on Wisdom, Happiness, and God
 
