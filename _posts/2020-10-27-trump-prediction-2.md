@@ -1,5 +1,5 @@
 ---
-title: My Final (Oct ) Prediction -- Trump Will Win
+title: My Final (Oct 27) Prediction -- Trump Will Win
 layout: single
 permalink: /trump2020/
 categories: [Politics]
@@ -8,16 +8,18 @@ author_profile: false
 share: true
 header:
     image: 
-    teaser: https://cdn.theatlantic.com/assets/media/img/mt/2016/08/RTSMGYP-1/lead_960.jpg?1471640370
+    teaser: https://upload.wikimedia.org/wikipedia/commons/3/3b/Biden_vs_Trump.svg
 excerpt_separator: <!--more-->
 --- 
 
-![header]()
+![header](https://upload.wikimedia.org/wikipedia/commons/3/3b/Biden_vs_Trump.svg)
 
 
 ### President Joe Biden? 
 
-It seems pretty obvious to many people that Joe Biden is destined for the White House. 
+It's late October and it seems pretty obvious to many people that Joe Biden is destined for the White House. 
+
+So it's time for my four-year prediction. 
 
 Biden is a superior candidate in many ways. He has experience (40 years to Trump's 4) and he is a fairly normal politician. He's an insider. He's predictable. He doesn't motivate people the way Bernie or even Kamala did. But he's safe. 
 
