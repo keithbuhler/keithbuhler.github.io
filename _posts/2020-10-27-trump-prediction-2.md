@@ -19,14 +19,16 @@ excerpt_separator: <!--more-->
 
 It seems pretty obvious to many people that Joe Biden is destined for the White House. 
 
-Biden is a superior candidate in many ways. He has experience (40 years to Trump's 4) and he is a faily normal politician. He's an insider. It was odd that Trump one but now that he's "inside" the Republican party, he's still less of an insider than Vice President Biden. 
+Biden is a superior candidate in many ways. He has experience (40 years to Trump's 4) and he is a fairly normal politician. He's an insider. He's predictable. He doesn't motivate people the way Bernie or even Kamala did. But he's safe. 
+
+It was exceedingly strange that Trump won in 2016. But now that he's "inside" the Republican party, he's still less of an insider than Vice President Biden. 
 
 In addition to conventional wisdom, there are good reasons to think Biden will win: 
 
 #### Polls
 
 - Biden has enjoyed a lead in the polls for months. 
-- The 538 Blog favors him, even though Nate Silver [acknowledges on Trump has a chance, as he did in 2016.
+- The 538 Blog favors him, even though Nate Silver [acknowledges on Trump has a chance, as he did in 2016.](https://projects.fivethirtyeight.com/polls/president-general/)
 - Also, most individual polls favor Biden. [The USC Dornsife poll favored Trump in 2016, but it has favored Biden for months.](http://cesrusc.org/election/) 
 - [The IBD/Tipp favored Trump in 2016 for several weeks.](http://www.investors.com/politics/ibd-tipp-presidential-election-poll/) This year, [it shows Trump at a slight deficit.](https://www.investors.com/news/trump-vs-biden-poll-race-stays-close-ibd-tipp-presidential-poll/)
 - [AI models almost universally predict Biden.](https://www.270towin.com/2020-election-forecast-predictions/)
@@ -35,37 +37,34 @@ In addition to conventional wisdom, there are good reasons to think Biden will w
 
 #### Anti-Trumpism  
 
-- Trump is the most hated president in decades. People think he is a boorish, psychologically unwell, adulterous racist. 
+- Trump is the most hated president in decades. Just as much or more as they hated him in 2016, many people think he is an evil, clownish, silly, mentally unstable person. 
 - Democrats, understandably, hate him. But many Republicans hate him too. 
-- Young people hate him -- One 21 year old student said: ["If Trump wins, the next four years will look like hell. It will probably be the worst four years ever."](http://www.newyorker.com/magazine/2016/10/31/first-time-voters) 
-- Although he has Breitbart and Drudge, most of the media hate him -- Huffington Post editor's have committed to posting the following disclaimer at the end of every one of their dozens of posts about Trump (18 articles on Nov 2 alone): "Donald Trump regularly incites political violence and is a serial liar, rampant xenophobe, racist, misogynist and birther who has repeatedly pledged to ban all Muslims — 1.6 billion members of an entire religion — from entering the U.S."  
-- [Actors hate him.](http://thehill.com/video/in-the-news/297018-celebs-speak-out-against-trump) 
-- Comedians and [other artists hate him.](http://www.30days30songs.com/about) 
+- Although he has Breitbart and Drudge, most of the media hate him. Even [Coulter](https://anncoulter.com/2020/10/21/stumper-should-trump-mention-his-most-popular-issuexx/) and [Drudge](https://www.nytimes.com/2020/09/30/business/media/drudge-report-trump-coverage.html) seems to have soured on Trump.
+- [Actors still hate him.](http://thehill.com/video/in-the-news/297018-celebs-speak-out-against-trump) 
+- Comedians and [other artists still hate him.](https://www.youtube.com/watch?v=n9Y-lS1trhw) 
 
 
 
 ### My Bet
 
-Nevertheless, I am [putting my money](https://www.predictit.org/) on Trump/Pence again. Why? 
+Nevertheless, after winning almost $5 on Predictit, I am [again putting my money](https://www.predictit.org/) on Trump/Pence. Why? 
 
-Some gut reasons, and other more scientific reasons.
+For some gut reasons, and other more scientific reasons.
 
 <!--more-->
 
 #### Gut reasons
 
 1. No one bet on him in the 2016 General Election or primaries (except [Ann Coulter](https://www.youtube.com/watch?v=0-2uSG1xUEg)) yet Trump surprised everyone and won -- by a lot. No one bets on him in the general. But it stands to reason he might surprise and win -- by a lot. Why? Partly because the same thing might happen as happened with Obama -- lots of new voters who aren't reflected in past patterns.  No one yet has been able to predict who and how many Trump voters will come out of the woodworks to vote for the first time.
-2. [Michael Moore thought Trump will win in 2016, and didn't trust the polls that say otherwise.](http://michaelmoore.com/trumpwillwin/) He thinks rustbelt voters, angry white men, Hillary's unpopularity, depressed Sanders voters who stay home, and the "screw you" to the establishment indicate that Trump will win. 
-3. [Brexit left people scratching their heads, too.](http://www.investors.com/politics/trump-brexit-surprise-win-over-clinton/) 
-4. [Scott Adams favors Trump because Trump is more persuasive.](http://blog.dilbert.com/post/148740944816/trump-prediction-update)
+2. [Michael Moore was right in 2016](http://michaelmoore.com/trumpwillwin/) and he's [predicting another Trump win.](https://www.theguardian.com/us-news/2020/aug/29/michael-moore-donald-trump-repeat-2016-warning)
+4. [Scott Adams' 2016 reason favored Trump because Trump is more persuasive.](http://blog.dilbert.com/post/148740944816/trump-prediction-update) And that's still true. 
 5. Trump has generated more art, actually, than any other candidate I can think of, besides Obama.  Some for, some against, including rap songs and SNL skits. The basic level of attention and engagement actually tells in his favor, even though much of it is negative. 
-6. The current [polls could be wrong](https://www.nbcnews.com/politics/2020-election/polls-could-be-wrong-may-help-biden-not-just-trump-n1244753)
+6. The current polls, like in 2016, [could be wrong.](https://www.nbcnews.com/politics/2020-election/polls-could-be-wrong-may-help-biden-not-just-trump-n1244753)
 
 
 
 #### Quantitative Reasons
 
-https://www.breitbart.com/politics/2020/10/28/nolte-trump-up-48-47-biden-national-polls-tighten/
 
 1. [The incumbant party in a re-election rarely loses; it's still the Republicans "turn" for the White House.](http://thefederalist.com/2014/09/04/history-is-not-on-the-democrats-side-in-2016/) Whoever runs for the Democrat party in 2024 will win (predicting that 4 years in advance.) The Democrat primary is the true presidential election. 
 2. [Some polls favor Trump or he's in spitting distance.](https://www.breitbart.com/politics/2020/10/28/nolte-trump-up-48-47-biden-national-polls-tighten/)
