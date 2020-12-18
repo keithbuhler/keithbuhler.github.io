@@ -7,7 +7,7 @@ permalink: /phd/
 ---
 
 
-To peruse my dissertation, you may want to download the [PDF](http://www.keithbuhler.com/content/philosophy/buhler-becoming-what-we-are-philosophy-dissertation.pdf/). The PDF has all the content, citations, and proper formatting. 
+To peruse my dissertation, you may want to download the [PDF](http://uknowledge.uky.edu/philosophy_etds/13/). The PDF has all the content, citations, and proper formatting. 
 
 If you wish to read chapters online, be aware that the footnotes were not converted to HTML.   
 
