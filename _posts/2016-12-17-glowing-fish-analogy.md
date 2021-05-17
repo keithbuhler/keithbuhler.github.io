@@ -16,7 +16,7 @@ read_time: true
 ---
 
 
-![header fish](https://i.ytimg.com/vi/aAdsxU_-4ZU/maxresdefault.jpg)
+![header fish]()
 
 ## Glowing Fish: A dialogue between two friends
 
