@@ -8,15 +8,17 @@ header:
 
 Thank you for visiting. 
 
-I'm Keith Buhler, a philosopher and classical educator, and host of the [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education.
+I'm Keith Buhler, a philosopher and classical educator. I'm currently on the founding staff of a new classical academy in Southern California.    
 
-This site is a guide to my personal interests and professional activities. 
+This site is a guide to my professional activity and personal interests. 
 
 You may want to check out: 
 
 * my [current projects](/projects) in philosophy, education, and arts
 * my [academic research](/research) to dialog about virtue and wisdom 
 * [the "Buhler Report"](/blog), a blog with recent reflections on  sundry topics such as books, culture, parenting, movies, politics, and living intentionally
+* The [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education.
+
 
 
 
@@ -24,11 +26,11 @@ You may want to check out:
 
 My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my teaching, coaching, and other activities.  
 
-In my day job, I'm a humanities teacher and academic philosopher with a special interest in virtue ethics. 
-
-I teach online philosophy courses for Asbury University and  dual-credit philosophy courses at a [classical Christian school](https://classicalchristian.org/), (plus other courses as needed, such as: theology, history, Greek language, Spanish, and drama.) 
+In my day job, I'm a headmaster at a [classical Christian school](https://classicalchristian.org/), and academic philosopher with a special interest in virtue ethics. 
 
 In other areas of the classical education renewal, I serve as a board member of two other classical schools and recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
+
+When possible, I teach online philosophy courses for Asbury University. 
 
 Virtue is possible but it requires hard work and practice. We *all* need to "try on" the practical skills that bring about human flourishing, even if we wobble and sometimes fail. These skills include listening well, being proactive, self-discipline, serving others, prayer, and spiritual discipline. 
 
@@ -37,9 +39,9 @@ Virtue is possible but it requires hard work and practice. We *all* need to "try
 
 
 
-## Recent Activity
+## Previous Activity
 
-I'm currently developing and implementing a [10th grade philosophy course](http://www.keithbuhler.com/trinity-philosophy/) introducing students to Plato and Aristotle by reading the whole *Republic* and the whole *Nicomachean Ethics*, as well as teaching them to write and argue using the medieval "disputatio" format (a la Aquinas).  
+I've developed and implementied a [10th grade philosophy course](http://www.keithbuhler.com/trinity-philosophy/) introducing students to Plato and Aristotle by reading the whole *Republic* and the whole *Nicomachean Ethics*, as well as teaching them to write and argue using the medieval "disputatio" format (a la Aquinas).  
 
 In 2018, I gave a lecture entitled ["Philosophy for Everyone" at Trinity Classical Academy,](https://www.youtube.com/watch?v=SMvlTUVFf4M&t=137s) introducing our community to the nature and value of philosophy. 
 <br> 
