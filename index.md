@@ -8,7 +8,7 @@ header:
 
 Thank you for visiting. 
 
-I'm Keith Buhler, a philosopher and classical educator. I'm currently on the founding staff of a new classical academy in Southern California.    
+I'm Keith Buhler, a philosopher and classical educator. I'm currently the founding headmaster of a new classical academy in Southern California.    
 
 This site is a guide to my professional activity and personal interests. 
 
@@ -26,9 +26,9 @@ You may want to check out:
 
 My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my teaching, coaching, and other activities.  
 
-In my day job, I'm a headmaster at a [classical Christian school](https://classicalchristian.org/), and academic philosopher with a special interest in virtue ethics. 
+In my day job, I'm a headmaster at a [classical Christian school](https://classicalchristian.org/) and an academic philosopher with a special interest in virtue ethics. 
 
-In other areas of the classical education renewal, I serve as a board member of two other classical schools and recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
+In other areas of the classical education renewal, I serve as a board member of another classical schools and recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
 
 When possible, I teach online philosophy courses for Asbury University. 
 
