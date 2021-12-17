@@ -108,7 +108,7 @@ Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP
 
 ## Prior Work
 
-In 2017, completed a philosophy book (as of yet unpublished), titled [Becoming What We Are](/phd). It defends Aristotle's ethics in light of scientific naturalism -- and offers a tendentious definition of scientific naturalism. 
+In 2017, completed my dissertation in philosophy, a book length defense of ethical naturalism. It is titled [Becoming What We Are](/phd). It defends Aristotle's ethics in light of scientific naturalism -- and offers a tendentious definition of scientific naturalism. 
 
 In 2012, I published a my first book, *Sola Scriptura*, a [Platonic dialogue](http://bitly.com/ScriptureOrTradition) consisting of of various Christians discussing Scripture and Tradition. 
 
@@ -119,10 +119,10 @@ In 2012, I published a my first book, *Sola Scriptura*, a [Platonic dialogue](ht
 
 <br> 
 
-* *"Buhler makes philosophy come alive"*  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+* *"Buhler makes philosophy come alive"*  --[Dr. Chris Bounds, Indiana Wesleyan University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
 
-* *"A good-conversation machine"* --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
+* *"A good-conversation machine"* --[Dr. Andrew Selby, Whitefield Academy](https://baylor.academia.edu/AndrewSelby)
 
 * *"Enthusiastic, personable, and precise"* --[Dr. Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
 
-*  *"Dynamism, acumen, and compassion"*   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+*  *"Dynamism, acumen, and compassion"*   --[Peter Gross, Christian Adulthood Initiative](https://www.christianadulthood.org/)
