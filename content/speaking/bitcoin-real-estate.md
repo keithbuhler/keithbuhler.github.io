@@ -26,22 +26,16 @@ Two investment talks in one event.
 - Bitcoin’s three revolutions: technological, monetary, and freedom
 - The causes and dangers of inflation
 
-# What this talk *is not*
-
-No entry fee, no costs, no sales pitches! 
-
-Just information to enrich yourself and others. 
+No cost, no sales! Just information to enrich yourself and others. 
 
 We love learning and sharing what we are learning. This is an informal presentation of what we have been studying, thinking about, and putting in to action for the last decade. 
 
-For this reason, our ideal guest is: 
+Our ideal guest is: 
 - Curious
 - Interested
 - Maybe has dabbled in trading crypto
 - Has researched a bit but wants to know more
 - Maybe has invested in real estate but wants to know more
-
-If you have an axe to grind about alt-coins or Bitcoin, if you want to warn us or share your worst experiences, if you can't respectfully listen through the whole talk, this is not for you! 
 
 # The next event is ...
 * Saturday, January 8th
