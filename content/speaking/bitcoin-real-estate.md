@@ -1,6 +1,6 @@
 ---
-title: Investing Double-Header: Bitcoin and Real Estate
-permalink: /bitcoin
+title: 1
+permalink: 
 --- 
 
 
