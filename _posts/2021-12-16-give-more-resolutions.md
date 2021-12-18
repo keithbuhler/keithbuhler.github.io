@@ -9,7 +9,8 @@ comments: true
 tags: [Productivity]
 categories: [Life]
 excerpt_separator: <!--more-->
-permalink: http://www.keithbuhler.com/resolutions.md
+permalink: /resolutions/
+
 ---
 
 # CANDIDATES FOR NEW YEARS RESOLUTIONS
