@@ -1,14 +1,14 @@
 ---
-title: Bitcoin Double-Header
-permalink: 
+title: Bitcoin Double Header
+permalink: /bitcoin
 header:
-      image: https://docs.google.com/drawings/d/1pXWdYQYhSN5sEIeL3xMztpe2HDtgdNrpvB-QAz8X5l4/edit?usp=sharing
+      image: http://www.keithbuhler.com/images/investing&nbspdouble&nbspheader.jpg
 --- 
 
 
-You're invited to a 
+You're invited to a ...
 
-Bitcoin Double Header
+**Bitcoin Double Header**
 
 Two investment talks in one event. 
 
