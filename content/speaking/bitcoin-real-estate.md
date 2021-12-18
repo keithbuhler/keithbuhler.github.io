@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Double-Header
-permalink: bitcoin/
+permalink: /bitcoin/
 header:
       image: https://docs.google.com/drawings/d/1pXWdYQYhSN5sEIeL3xMztpe2HDtgdNrpvB-QAz8X5l4/edit?usp=sharing
 --- 
