@@ -1,13 +1,13 @@
 ---
-title: Give more than you get: and other candidates for New Year's Resolutions
+title: Give more than you get, and other candidates for New Year's Resolutions
 layout: single
 share: true
 comments: true
 permalink: 
 excerpt_separator: <!--more-->
 author_profile: false
+tags: [Life coaching]
 categories: [Life coaching]
-tags: 
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: 
