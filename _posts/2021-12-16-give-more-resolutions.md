@@ -7,7 +7,7 @@ permalink:
 excerpt_separator: <!--more-->
 author_profile: false
 categories: [Life coaching]
-tags: [Life coaching]
+tags: 
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: 
