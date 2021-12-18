@@ -2,7 +2,7 @@
 title: Bitcoin Double Header
 permalink: 
 header:
-      image: http://www.keithbuhler.com/images/investing double header.jpg
+      image: https://docs.google.com/drawings/d/1pXWdYQYhSN5sEIeL3xMztpe2HDtgdNrpvB-QAz8X5l4/edit?usp=sharing
 --- 
 
 
