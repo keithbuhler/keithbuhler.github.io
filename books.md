@@ -6,8 +6,8 @@ header:
       image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
 --- 
 
-
 ## [*Becoming What We Are*](/phd) 
+
 
 ![image](http://www.stenudd.com/greekphilosophers/images/pindar2.jpg)
 
