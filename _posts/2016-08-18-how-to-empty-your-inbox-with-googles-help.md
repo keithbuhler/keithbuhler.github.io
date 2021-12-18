@@ -7,7 +7,7 @@ header:
 author_profile: true
 comments: true
 share: true
-categories: [Personal growth]
+categories: [Misc]
 tags: [workflow, life]
 ---
 
