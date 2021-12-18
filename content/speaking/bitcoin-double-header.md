@@ -8,12 +8,9 @@ header:
 
 You're invited!
 
-Two investment talks in one event. 
+Saturday January 8th, from 9-11am, my brother and I will be giving two investment talks in one morning! Bring a friend!
 
-* Saturday, January 8th
-* 9-11am
-* Canyon Crest Business Center, Riverside CA
-
+<p></p>
 
 # "A Whole Life Overview of Real Estate" - Keith Buhler
 - How I started “house hacking” a duplex
@@ -54,3 +51,8 @@ For this reason, our ideal guest is:
 <p></p>
 
 **Please RSVP by Jan 7th to Keith Buhler (keithedbuhler@gmail.com). Invite a friend! Thank you!** 
+
+
+* Saturday, January 8th
+* 9-11am
+* Canyon Crest Business Center, Riverside CA (exact address TBA)
