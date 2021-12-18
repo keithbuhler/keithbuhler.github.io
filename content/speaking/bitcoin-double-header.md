@@ -2,10 +2,8 @@
 title: Bitcoin Double Header
 permalink: /bitcoin
 header:
-      image: 
-      
+      image: http://www.keithbuhler.com/images/investing&nbspdouble&nbspheader.jpg
 --- 
-
 
 
 You're invited to a ...
