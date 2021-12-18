@@ -7,7 +7,7 @@ header:
 share: true
 comments: true
 tags: []
-categories: [philosophy]
+categories: [Philosophy]
 excerpt_separator: <!--more-->
 permalink: 
 ---
