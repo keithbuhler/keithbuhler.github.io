@@ -3,7 +3,7 @@ layout: single
 share: true
 comments: true
 title: Wheel of Time First Impressions
-permalink: /math
+permalink: 
 comments: true
 tags: [culture]
 categories: [Culture]
