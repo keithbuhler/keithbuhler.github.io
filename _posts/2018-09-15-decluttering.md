@@ -6,8 +6,8 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
 comments: true
-tags: [Life coaching]
-categories: [Life coaching]
+tags: [Personal growth]
+categories: [Personal growth]
 excerpt_separator: <!--more-->
 permalink: 
 ---
