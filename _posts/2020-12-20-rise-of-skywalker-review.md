@@ -40,24 +40,21 @@ The film works on many levels: it checked the boxes of wrapping up the stories o
 
 On other levels, the film struggles, fails, or doesn't even bother to try: the plotting is often haphazard and driven by the search for MacGuffins; the pacing is breakneck and harried; the viewer has little room to breathe between action sequences; its emotional moments arise largely from either nostalgia for the original films or from real-world sadness at the death of actors like Carrie Fisher; the dialogue too consists of compressed summaries of information and motivation. 
 
-In this review, I'll surmise in bullet-point fashion all the targets that Abrams seemed to be aiming for and how well he hit each one. 
 
-## Part 2 (Spoilers)
+## (Spoilers)
 
 * Kylo Ren explains why he didn't kill Rey when he had the chance: he loves her as a friend, as someone who saw good in him. It turns out she was right to see good in him, and he was right not to kill her. 
 
-
-### Acting
-
-### Action
-
-### Themes
 
 ### New force powers
 
 * Healing: Rey heals a sand serpent's wounded side, a wound presumably inflicted by the dead and disgraced bounty hunter who killed her parents. There is something poetic about the bounty hunter being killed by a serpent, and Rey "thanking" it by healing it. The serpent returns the favor by letting our heroes out of the sand cave. This moment foreshadows the situation where Rey's altruism and bravery will heal and redeem another snake of a person: Ben Solo. 
 * Life-transfer: Rey casually explains that she transferred her life to the serpent in order to heal it. Palpatine uses the same power to "heal" his icky hands (were they wounded? never completed in the cloning process? does it matter?) and to drain the lifeforce from Rey and Ben. 
 * Faster-than-light transportation of matter: Johnson pushed the limits of the Force by letting Kylo and Rey "touch" across light-years of distance, to the point that his fingers were wet with the sea spray of waves from Skellig Michael. Abrams sees this ante and raises it considerably to deal with two major plot events. First, Vader's melted helmet "falls out" of Rey's location to Kylo's, alerting Kylo to her location at his quarters on the Star Destroyer floating about Kijimi. Second, Rey "hands" Kylo Luke's lightsaber across a shorter distance but at a more opportune moment -- namely, when Kylo was about to be sliced to pieces by his own Knights of Ren -- letting him turn the tide and squash his own former platoon. 
-* 
 
-### Building on *The Last Jedi*
+
+### Conclusion
+
+I was disappointed. It's messy, bloated, and incoherently builds on Episode VIII. 
+
+Is it too early to ask for a remake from a single director? 

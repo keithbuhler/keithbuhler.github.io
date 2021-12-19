@@ -7,7 +7,7 @@ header:
 share: true
 comments: true
 tags: [Philosophy]
-categories: [Philosophy, classical education]
+categories: [Philosophy, Classical education]
 excerpt_separator: <!--more-->
 permalink: 
 ---

@@ -7,7 +7,7 @@ header:
 share: true
 comments: true
 tags: [Misc]
-categories: [Faith]
+categories: [Politics]
 excerpt_separator: <!--more-->
 permalink: 
 ---
