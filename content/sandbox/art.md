@@ -18,4 +18,4 @@ excerpt_separator: <!--more-->
 <p>
 
 
-My art has moved to ![this Notion Gallery!](https://keithbuhler.notion.site/Art-Dashboard-a33dafdd54b5486abaf6e286faa93857)
+My art has moved to [this Notion Gallery!](https://keithbuhler.notion.site/Art-Dashboard-a33dafdd54b5486abaf6e286faa93857)
