@@ -8,12 +8,10 @@ sidebar:
       nav: 
 --- 
 
-### Curriculum Vitae (2020)
+### Curriculum Vitae (2022)
 **Keith Buhler, Ph.D.**  
-**Trinity Classical Academy**  
-**Asbury University**  
+**Saint Andrew Academy**  
 
-#### [PDF version](http://www.keithbuhler.com/content/CV/cv-buhler.pdf)
 
 
 ### EDUCATION
@@ -30,8 +28,9 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 
 ### EMPLOYMENT
-1. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - present 
-2. Adjunct Philosophy Instructor (online), Asbury University, 2017 - present
+1. Headmaster, Saint Andrew Academy 2021 - present. 
+2. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - 2021 
+2. Adjunct Philosophy Instructor (online), Asbury University, 2017 - 2021
 2. Adjunct Philosophy Instructor, Asbury University, 2013-2017
 1. Postdoc Scholar, University of Kentucky,  Spring 2017 
 3. Director of High School, Veritas Academy, 2013-2014
@@ -76,6 +75,8 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 15. Humanities: Foundations of American Thought  (*Torrey Academy, Biola University, CA* 2009-2012)
 16. Humanities: Ancient and Medieval Thought  (*Torrey Academy, Biola University, CA* 2008-2012)
 17. Humanities: 20th Century British Thought  (*Torrey Academy, Biola University, CA* 2007-2012)
+18. Humanities: Great Books II - Medieval Thought (Saint Andrew, 2021)
+19. Humanities: Senior Research Ethics (Saint Andrew, 2021) 
 
 
 
@@ -97,7 +98,7 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 
 ### PUBLICATIONS
-1. "No Good Arguments for Causal Closure" (forthcoming)
+1. "No Good Arguments for Causal Closure" (*Metaphysica*, 2020)
 
 ### WORKS IN PROGRESS
 1. *Becoming What We Are* (in progress)
