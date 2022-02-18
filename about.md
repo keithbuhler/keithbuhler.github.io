@@ -11,7 +11,7 @@ Thank you for visiting keithbuhler.com. This site hosts the thoughts and project
 
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
 
-I'm currently a full-time teacher at a classical Christian school in CA. Before that, I taught philosophy at Asbury University and the University of Kentucky. 
+I'm currently headmaster of a classical Orthodox Christian school in CA. Before that, I taught philosophy at Asbury University and the University of Kentucky. 
 
 My academic research focuses on ethics and the philosophy of religion. You can peruse some of my [academic papers here.](https://trinityclassicalacademy.academia.edu/KeithBuhler) 
 
