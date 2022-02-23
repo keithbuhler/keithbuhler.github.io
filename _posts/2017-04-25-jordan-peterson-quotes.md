@@ -91,10 +91,10 @@ Jordan Peterson: "Just because that's true doesn't mean that's *all* that's true
 
 Sunrise media: "What's wrong with being inclusive?" 
 
-JBP: "Well, I suppose there's nothing wrong with being inclusive. But there is something wrong with "
+JBP: "Well, I suppose there's nothing wrong with being inclusive. But there is something wrong with adopting the radical left's linguistic conduct, and that's what I was opposing."
 
 
 
 "To stand up straight with your shoulders back is to actually expose the most vulnerable parts of yourself to the world. And that's a courageous act. It indicates confidence and the willingness to take risk. That's not the same as combativeness."
 
-[Sunrise Media Interview](https://www.youtube.com/watch?v=XJr6CYHHOnk)
+[Sunrise Media Interview](https://www.youtube.com/watch?v=QgPUjIoernw)
