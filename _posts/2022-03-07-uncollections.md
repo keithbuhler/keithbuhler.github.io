@@ -6,7 +6,7 @@ title: Uncollections
 permalink: 
 comments: true
 tags: [philosophy]
-categories: [Philosophy]
+categories: [Personal growth]
 excerpt_separator: <!--more-->
 author_profile: false
 header:
