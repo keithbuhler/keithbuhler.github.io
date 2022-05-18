@@ -8,9 +8,11 @@ header:
 
 Thank you for visiting. 
 
-I'm Keith Buhler, a philosopher and classical educator. I'm currently the founding headmaster of a new classical academy in Southern California.    
+I'm Keith Buhler, and this site is a guide to my professional activity and personal interests. 
 
-This site is a guide to my professional activity and personal interests. 
+## My work
+
+I'm currently the founding headmaster of an Orthodox Christian classical academy in California. In addition, I serve on the board of another classical school. I am an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter).  My academic research focuses on virtue ethics and naturalism. And in business I help others to leveraging real estate assets to generate passive income and long-term wealth. 
 
 You may want to check out: 
 
@@ -20,33 +22,20 @@ You may want to check out:
 * The [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education.
 
 
+## My Mission
 
+My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my leadership, teaching, business and other activities.  
 
-## About me
-
-My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my teaching, coaching, and other activities.  
-
-In my day job, I'm a headmaster at a [classical Christian school](https://classicalchristian.org/) and an academic philosopher with a special interest in virtue ethics. 
-
-In other areas of the classical education renewal, I serve as a board member of another classical schools and recently became an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter). 
-
-When possible, I teach online philosophy courses for Asbury University. 
-
-Virtue is possible but it requires hard work and practice. We *all* need to "try on" the practical skills that bring about human flourishing, even if we wobble and sometimes fail. These skills include listening well, being proactive, self-discipline, serving others, prayer, and spiritual discipline. 
-
-
-
+I believe, with Aristotle and with Christ, that real virtue is possible -- but it requires hard work and practice. We *all* need to try out practical skills that bring about human flourishing, although we may often fail. *Not trying* guarantees a life of vanishing meaning, purpose, joy, and goodness. Some of the skills that bring about human flourishing include listening well, being proactive, self-discipline, prayer, fighting for justice, serving others, prayer, forgiveness, quietness and solitude, gratitude, and other spiritual disciplines. 
 
 
 
 ## Previous Activity
 
-I've developed and implementied a [10th grade philosophy course](http://www.keithbuhler.com/trinity-philosophy/) introducing students to Plato and Aristotle by reading the whole *Republic* and the whole *Nicomachean Ethics*, as well as teaching them to write and argue using the medieval "disputatio" format (a la Aquinas).  
+I've developed and implementied a [high school philosophy courses](http://www.keithbuhler.com/trinity-philosophy/) and Great Books courses, introducing students to Plato, Aristotle, Scripture, and other books in the Great Tradition.
 
 In 2018, I gave a lecture entitled ["Philosophy for Everyone" at Trinity Classical Academy,](https://www.youtube.com/watch?v=SMvlTUVFf4M&t=137s) introducing our community to the nature and value of philosophy. 
 <br> 
-
-Last summer, I spoke at [the ACCS conference on "Assessing for Virtue".](https://www.youtube.com/watch?v=ovzMF-znsN8&t=2394s) and received positive feedback from the 120 teachers, admin, and parents in attendance.  
 
 Around the same time, I had the privilege of [interviewing Dr. Robert George of Princeton](https://www.youtube.com/watch?v=tfDdJiyDnaY&t=10s) for my YouTube channel. 
 
