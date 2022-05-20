@@ -1,6 +1,14 @@
-Rams Tickets 2022
+---
+layout: page
+title: Rams Tickets 2022
+permalink: /rams/
+header:
+      image: https://www.diamondstuds.com/news/wp-content/uploads/2015/06/UDR_3.0_LosAngeles.jpg
+--- 
 
-Sec. 545, Row 19, Seats 23-24
+# Seats
+* Sec. 545, Row 19, Seats 23-24
+* 
 
 
 ## Rams Vs. Texans
@@ -21,7 +29,7 @@ Sun • Sep 18, 2022 • 01:05 PM Inglewood, CA — SoFi Stadium
 
 ## Rams vs. Cowboys
 Sun • Oct 09, 2022 • 01:25 PM Inglewood, CA — SoFi Stadium
-* Asking price: $150
+* Asking price: $550
 * Status: Unclaimed
 
 ## Rams vs. Panthers
@@ -41,15 +49,15 @@ Sun • Nov 13, 2022 • 01:25 PM Inglewood, CA — SoFi Stadium
 
 ## Rams vs. Seahawks
 Sun • Dec 04, 2022 • 01:05 PM Inglewood, CA — SoFi Stadium
-* Asking price: $150
+* Asking price: $TBD
 * Status: Unclaimed
 
 ## Rams vs. Raiders
 Thu • Dec 08, 2022 • 05:15 PM Inglewood, CA — SoFi Stadium
-* Asking price: $150
+* Asking price: $TBD
 * Status: Unclaimed
 
 ## Rams vs. Broncos
 Sun • Dec 25, 2022 • 01:30 PM Inglewood, CA — SoFi Stadium
-* Asking price: $150
+* Asking price: $TBD
 * Status: Unclaimed
