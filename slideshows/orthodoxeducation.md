@@ -89,7 +89,11 @@ Through being purified, illuminated, and united with Christ the human being stru
 
 ### Wisdom and love (why are we educating?) 
 
-  So we learn all things in heaven and on earth
+* So we learn all things in heaven and on earth
+* In family, how to relate to people
+* In church, how to relate to God and to pray
+* In school, how to relate to concrete reality (our bodies, pencils, money, etc.)
+    and abstract realities (like math, physics, history, statistics, and philosophy)
   
 
   
