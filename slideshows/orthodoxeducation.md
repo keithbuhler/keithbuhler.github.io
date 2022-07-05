@@ -1,8 +1,10 @@
 ---
 
-## title: Orthodox Education 
+title: Orthodox Education 
 layout: slide
 theme: black
+
+---
 
 <section data-background="[http://www.keithbuhler.com/images/background-morality.svg](http://www.keithbuhler.com/images/background-morality.svg)"><!--Intro begin-->
 <section data-background="[http://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_icon_of_Jesus_Christ_Pantocrator_24_grande.jpeg?v=1467724172](http://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_icon_of_Jesus_Christ_Pantocrator_24_grande.jpeg?v=1467724172)" data-markdown><!--Intro Splash begin-->
@@ -29,57 +31,69 @@ theme: black
 * Education is an essential aspect of human life
 * It is "the soul of a society as it passes from one generation to the next" (Chesterton)
 * It is formation in basic life skills but so much more
-* 
+* Education is a segmment (5-18) of one's whole life journey toward Christlikeness
+* It is formation in the _thoughts_ and _sentiments_, the _wisdom_ and _virtues_ needed for success in life
   
+
+  
+  
+</section><section data-markdown>
+
+## Formation vs. Information
+
+German: Education is ‘bildung’, formation, molding, sculpting; 
+Greek: it is ethos or pae, enculturating, discipling, inheriting; 
+Latin: it is educare (or paedia), drawing out, leading forth, cultivating, and gardening the soul. 
+  
+Information can be 'programmed' into the brain.
+But formation takes time, care, love, and human connection. 
+Formation must be divine-human, like Christ. 
+
   
   
   
   
 </section><section data-markdown>
 
-## Section
+### Mentor teachers
 
-![https://upload.wikimedia.org/wikipedia/commons/0/08/Jan_Cossiers_-_The_wedding_at_Cana%2C_Jesus_blesses_the_water.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Jan_Cossiers_-_The_wedding_at_Cana%2C_Jesus_blesses_the_water.jpg)
-
-  
-  
-  
-  
-</section><section data-markdown>
-
-### Section
-
+- Not: "What subjects are they learning all day?" but  "What type of person is your child with all day?" 
+- Saintly and smart (NOT "cool", NOT "experts") 
 
 
 </section><section data-markdown>
 
-### Section
+### Christian anthropology (what are we educating?)
+
+  - What is a human being? An image bearer of God
+  - What is God? The creator of human beings and (in the second person of the Trinity) one of us
+  - All things were made by the Word, by Christ -- and the Word is our destiny, our end or purpose
+  - A child is a saint in the making
+  - God is loving, humble, wise, self-sacrificial -> so should teachers be, and so should they make their students
 
 
 
 </section><section data-markdown>
 
-### Ministry (29-30 AD)
+### Fr. Justin Popovich
 
-![https://i.pinimg.com/originals/c7/03/b3/c703b3865a55e6498ca739e7d8b4164e.jpg](https://i.pinimg.com/originals/c7/03/b3/c703b3865a55e6498ca739e7d8b4164e.jpg)
+Our life is deification — our life is *Christification.* 
+Through being purified, illuminated, and united with Christ the human being struggles for his own salvation, by God’s grace. The result is no less than the shocking gift of union. Fr. Justin says: 
+> “to become immortal in Him by the power of the Holy Spirit, to become God, to become the God-man — this is the purpose... of the human race...The purpose of man is to fill himself with the God-man, in His body—the Orthodox Church; to be transfigured in Him through grace-filled struggles.” 
+
+
+
+  
 
 </section><section data-markdown>
 
-### Ministry (29-30 AD)
+### Wisdom and love (why are we educating?) 
 
-- Mostly in **Galilee**
-- Starts in Nazareth
-- Preaches
-- Heals
-- Sermon on Mount
-- Casts out demons
-- Raises Jairus' daughter from dead
-- Sends out disciples
-- Feeds 5,000
-- heals the blind
-- Transfiguration
-- Jesus returns to Galilee
+  So we learn all things in heaven and on earth
+  
 
+  
+  
 </section><section data-background="[https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg](https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg)" data-markdown >
 
 ## Discussion Questions
