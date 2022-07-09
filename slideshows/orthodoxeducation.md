@@ -5,10 +5,15 @@ layout: slide
 theme: black
 
 ---
+<section data-markdown>
+<section data-background="https://www.stnicholasar.org/wp-content/uploads/2021/07/christ-teacher-1024x707-1.jpg"><!--Intro begin-->
 
-<section data-background="[http://www.keithbuhler.com/images/background-morality.svg](http://www.keithbuhler.com/images/background-morality.svg)"><!--Intro begin-->
-<section data-background="[http://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_icon_of_Jesus_Christ_Pantocrator_24_grande.jpeg?v=1467724172](http://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_icon_of_Jesus_Christ_Pantocrator_24_grande.jpeg?v=1467724172)" data-markdown><!--Intro Splash begin-->
+  # Orthodox Christian Education
+  
+</section> <!--Intro Splash end-->
+<section data-markdown>  <!--Overview Begin-->
 
+  
 # Overview
 
 - Purification, illumination (what is education?) 
@@ -16,9 +21,7 @@ theme: black
 - Christian anthropology (what are we educating?)
 - Wisdom and love (why are we educating?) 
   
-</section> <!--Intro Splash end-->
-<section data-markdown>  <!--Overview Begin-->
-
+  
 </section><!--Overview end-->
 <section data-background="[https://dg.imgix.net/the-horror-of-crucifixion-jlnstoeb-en/landscape/the-horror-of-crucifixion-jlnstoeb.jpg?ts=1491334937&ixlib=rails-2.1.4&w=700&h=394&dpr=2&ch=Width%2CDPR&auto=format%2Ccompress&fit=min](https://dg.imgix.net/the-horror-of-crucifixion-jlnstoeb-en/landscape/the-horror-of-crucifixion-jlnstoeb.jpg?ts=1491334937&ixlib=rails-2.1.4&w=700&h=394&dpr=2&ch=Width%2CDPR&auto=format%2Ccompress&fit=min)" data-markdown>
 
@@ -68,6 +71,8 @@ Formation must be divine-human, like Christ.
 
 - Not: "What subjects are they learning all day?" but  "What type of person is your child with all day?" 
 - Saintly and smart (NOT "cool", NOT "experts") 
+- Parents are the best teachers
+- Priests and professors can help!
 
 
 </section><section data-markdown>
