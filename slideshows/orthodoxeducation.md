@@ -25,20 +25,17 @@ theme: black
 </section><!--Overview end-->
 <section data-markdown>
 
-## Purification, illumination (what is education?)
+## What education is NOT
 
+* Education is NOT - mere job training (modern education)
+* Education is NOT - producing revolutionaries to change the world (post modern)
+* Education is NOT - mere repetition or preservation or conservation
 
-* Education is an essential aspect of human life
-* It is "the soul of a society as it passes from one generation to the next" (Chesterton)
-* It is formation in basic life skills but so much more
-* Education is a segmment (5-18) of one's whole life journey toward Christlikeness
-* It is formation in the _thoughts_ and _sentiments_, the _wisdom_ and _virtues_ needed for success in life
-  
-
-  
+* It is ... *formation*. 
   
 </section><section data-markdown>
 
+ 
 ## Formation vs. Information
 
 German: Education is ‘bildung’, formation, molding, sculpting; 
@@ -49,7 +46,19 @@ Information can be 'programmed' into the brain.
 But formation takes time, care, love, and human connection. 
 Formation must be divine-human, like Christ. 
 
+  </section><section data-markdown>
+
   
+  ## Purification, illumination (what is education?)
+
+
+* Education is an essential aspect of human life
+* It is "the soul of a society as it passes from one generation to the next" (Chesterton)
+* It is formation in basic life skills but so much more
+* Formal fducation is a segmment (5-18) of one's whole life journey toward Christlikeness
+* It is formation in the _thoughts_ and _sentiments_, the _wisdom_ and _virtues_ needed for success in life
+  
+
   
   
   
@@ -95,6 +104,40 @@ Through being purified, illuminated, and united with Christ the human being stru
 * In school, how to relate to concrete reality (our bodies, pencils, money, etc.)
     and abstract realities (like math, physics, history, statistics, and philosophy)
   
+
+
+</section><section data-markdown>
+
+# Classical Education
+  
+  - We must create a little Eden, a little Sinai Desert, a little Bethleham, a little Gethsemane
+  - Reading, writing, gardening, poetry, arithmetic, and art
+  - The "Liberal arts" are truly well-rounded -- they are human and divine
+  - Three aspects: Virtue, history, and wisdom
+-   To be the complete man, we must pray with the spirit, and pray with the understanding also. (I Cor 14:15)
+
+
+</section><section data-markdown>
+
+# At Home and Lifelong
+  
+- Daily readings (Scripture)
+- Daily readings (Saints)
+- You can also do the Path Podcast or PNP (https://patristicnectar.org/synaxarion)
+- Daily prayers (prayer rule and family prayers)
+- Daily Orthros/vespers
+- Daily Jesus prayer
+
+- *Notice the word 'daily'?*
+  
+
+</section><section data-markdown>
+
+
+</section><section data-markdown>
+
+
+</section><section data-markdown>
 
   
   
