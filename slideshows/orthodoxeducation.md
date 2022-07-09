@@ -138,6 +138,8 @@ Through being purified, illuminated, and united with Christ the human being stru
 
 </section><section data-markdown>
 
+- Read the Philokalia, the Sayings of the Desert Fathers, or another spiritual text regularly. 
+- Repentance and humility form the soul
 
 </section><section data-markdown>
 
