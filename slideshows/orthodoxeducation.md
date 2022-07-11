@@ -5,6 +5,7 @@ layout: slide
 theme: black
 
 ---
+
 <section data-markdown>
 <section data-background="https://www.stnicholasar.org/wp-content/uploads/2021/07/christ-teacher-1024x707-1.jpg"><!--Intro begin-->
 
@@ -154,3 +155,4 @@ Through being purified, illuminated, and united with Christ the human being stru
 
 </section>
 </section><!--Discussion of faith and reason-->
+</section> 
