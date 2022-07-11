@@ -11,7 +11,6 @@ theme: black
   # Orthodox Christian Education
   
 </section> <!--Intro Splash end-->
-</section>
 <section data-markdown>  <!--Overview Begin-->
 
   
