@@ -1,20 +1,19 @@
 ---
-
 title: Orthodox Education 
 layout: slide
 theme: black
 
 ---
 
-<section data-background="https://www.stnicholasar.org/wp-content/uploads/2021/07/christ-teacher-1024x707-1.jpg"><!--Intro begin-->
-<section data-markdown>
 
-  # Orthodox Christian Education
-  
-</section> <!--Intro Splash end-->
-</section>
-<section data-markdown>  <!--Overview Begin-->
 
+<section data-background=""><!--Day 1 begin-->
+<section data-background="http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/3481980_orig.png" data-markdown><!--Intro slide begin-->
+
+# Orthodox Christian Education
+
+</section> <!--Intro slide end-->
+<section data-markdown> 
   
 # Overview
 
