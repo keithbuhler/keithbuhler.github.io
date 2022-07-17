@@ -72,10 +72,8 @@ Keith Buhler, PHD
 * Formation must be divine-human, like Christ. 
 
   </section><section data-markdown>
-
   
-## Purification, illumination (what is education?)
-
+## Zooming out: what is education? 
 
 * Education is an essential aspect of human life
 * It is "the soul of a society as it passes from one generation to the next" (Chesterton)
@@ -84,13 +82,21 @@ Keith Buhler, PHD
 * It is formation in the _thoughts_ and _sentiments_, the _wisdom_ and _virtues_ needed for success in life
   
 
+</section><section data-markdown>
+
+## Obstacles to education: sin and ignorance
+
+* Education begins with virtue training (self-control, obedience, peity to overcome self-love, laziness, folly, immoderation)
+* And it continues with wisdom training (wisdom to overcome foolishiness)
   
   
   
 </section><section data-markdown>
 
-### Mentor teachers
+## Mentor teachers
 
+* More important the person who you are around then the subjects you are learning. 
+* Modeling more than instruction
 - Not: "What subjects are they learning all day?" but  "What type of person is your child with all day?" 
 - Saintly and smart (NOT "cool", NOT "experts") 
 - Parents are the best teachers
@@ -99,31 +105,19 @@ Keith Buhler, PHD
 
 </section><section data-markdown>
 
-### Christian anthropology (what are we educating?)
+## Christian anthropology (what are we educating?)
 
   - What is a human being? An image bearer of God
   - What is God? The creator of human beings and (in the second person of the Trinity) one of us
   - All things were made by the Word, by Christ -- and the Word is our destiny, our end or purpose
   - A child is a saint in the making
+  - Education then is setting young people up to fulfill their highest calling: sanctity and union with God
   - God is loving, humble, wise, self-sacrificial -> so should teachers be, and so should they make their students
 
 
-
 </section><section data-markdown>
 
-### Fr. Justin Popovich
-
-Our life is deification — our life is *Christification.* 
-Through being purified, illuminated, and united with Christ the human being struggles for his own salvation, by God’s grace. The result is no less than the shocking gift of union. Fr. Justin says: 
-> “to become immortal in Him by the power of the Holy Spirit, to become God, to become the God-man — this is the purpose... of the human race...The purpose of man is to fill himself with the God-man, in His body—the Orthodox Church; to be transfigured in Him through grace-filled struggles.” 
-
-
-
-  
-
-</section><section data-markdown>
-
-### Wisdom and love (why are we educating?) 
+## Wisdom and love (why are we educating?) 
 
 * So we learn all things in heaven and on earth
 * In family, how to relate to people
@@ -132,10 +126,9 @@ Through being purified, illuminated, and united with Christ the human being stru
     and abstract realities (like math, physics, history, statistics, and philosophy)
   
 
-
 </section><section data-markdown>
 
-# Classical Education
+## Classical Education
   
   - We must create a little Eden, a little Sinai Desert, a little Bethleham, a little Gethsemane
   - Reading, writing, gardening, poetry, arithmetic, and art
@@ -161,18 +154,23 @@ Through being purified, illuminated, and united with Christ the human being stru
 </section><section data-markdown>
 
 - Read the Philokalia, the Sayings of the Desert Fathers, or another spiritual text regularly. 
-- Repentance and humility form the soul
+- Repentance and humility are a powerful combination. They form the soul!
 
 </section><section data-markdown>
 
 
 </section><section data-markdown>
 
-  
+## Bonus quote! If there's time. Fr. Justin Popovich
+
+Our life is deification — our life is *Christification.* 
+Through being purified, illuminated, and united with Christ the human being struggles for his own salvation, by God’s grace. The result is no less than the shocking gift of union. Fr. Justin says: 
+> “to become immortal in Him by the power of the Holy Spirit, to become God, to become the God-man — this is the purpose... of the human race...The purpose of man is to fill himself with the God-man, in His body—the Orthodox Church; to be transfigured in Him through grace-filled struggles.” 
+
   
 </section><section data-background="[https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg](https://745515a37222097b0902-74ef300a2b2b2d9e236c9459912aaf20.ssl.cf2.rackcdn.com/fe4b0820da4077b54ee4de5f6d2abcd9.jpeg)" data-markdown >
 
-## Discussion Questions
+## Questions?
 
 </section>
 </section><!--Discussion of faith and reason-->
