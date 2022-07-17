@@ -11,49 +11,70 @@ theme: black
 <section data-background="http://pixar-animation.weebly.com/uploads/8/7/6/3/8763219/3481980_orig.png" data-markdown><!--Intro slide begin-->
 
 # Orthodox Christian Education
+Catechism, St Andrew Church
+
+July 17, 2022
+
+Keith Buhler, PHD
+
+
 
 </section> <!--Intro slide end-->
 <section data-markdown> 
   
 # Overview
 
-- Purification, illumination (what is education?) 
-- Mentor teachers (who is educating?) 
-- Christian anthropology (what are we educating?)
-- Wisdom and love (why are we educating?) 
+- Because we are "little Christs", education is about purifying and illuminating the soul and body to become *more* like Christ. 
+- Educating children requires excellent mentor-teachers who are wise and loving, to cultviate children to become wise and loving. 
+- Educating *ourselves* as adults requires daily formation into the image of Christ
   
-  
-</section><!--Overview end-->
-<section data-background="[https://dg.imgix.net/the-horror-of-crucifixion-jlnstoeb-en/landscape/the-horror-of-crucifixion-jlnstoeb.jpg?ts=1491334937&ixlib=rails-2.1.4&w=700&h=394&dpr=2&ch=Width%2CDPR&auto=format%2Ccompress&fit=min](https://dg.imgix.net/the-horror-of-crucifixion-jlnstoeb-en/landscape/the-horror-of-crucifixion-jlnstoeb.jpg?ts=1491334937&ixlib=rails-2.1.4&w=700&h=394&dpr=2&ch=Width%2CDPR&auto=format%2Ccompress&fit=min)" data-markdown>
-
 </section><!--Overview end-->
 <section data-markdown>
+
+* My journey: Chrismated in 2008
+* St. Barnabas (08-12), St. Athanasius (12-17), St. Simeon (17-21), St. Andrew (21-22)
+* Teacher, scholar, headmaster
+
+</section><section data-markdown>
+
+## Education at home and at school
+
+* School life is about learning topics: nature, math, philosophy, etc.
+* Home life is about learning to love people and love God
+* There is overlap!
+* Orthodox Christian formation 
+
+</section><section data-markdown>
+
 
 ## What education is NOT
 
 * Education is NOT - mere job training (modern education)
 * Education is NOT - producing revolutionaries to change the world (post modern)
 * Education is NOT - mere repetition or preservation or conservation
-
-* It is ... *formation*. 
   
 </section><section data-markdown>
 
  
 ## Formation vs. Information
 
-German: Education is ‘bildung’, formation, molding, sculpting; 
-Greek: it is ethos or pae, enculturating, discipling, inheriting; 
-Latin: it is educare (or paedia), drawing out, leading forth, cultivating, and gardening the soul. 
+* German: Education is ‘bildung’, formation, molding, sculpting; 
+* Greek: it is ethos or pae, enculturating, discipling, inheriting; 
+* Latin: it is educare (or paedia), drawing out, leading forth, cultivating, and gardening the soul. 
+
+</section><section data-markdown>
+
+## Formation vs. Information
+
   
-Information can be 'programmed' into the brain.
-But formation takes time, care, love, and human connection. 
-Formation must be divine-human, like Christ. 
+* Information (knowledge for knowledge sake) forms the mind
+* Even intellectual formation takes time, care, love, and human connection. 
+* Formation must be divine-human, like Christ. 
 
   </section><section data-markdown>
 
   
-  ## Purification, illumination (what is education?)
+## Purification, illumination (what is education?)
 
 
 * Education is an essential aspect of human life
