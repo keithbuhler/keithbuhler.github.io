@@ -5,7 +5,7 @@ comments: true
 title: Your Books Determine Your Life (and Podcasts too)
 permalink: 
 comments: true
-tags: [philosophy]
+tags: [Personal Growth]
 categories: [Personal growth]
 excerpt_separator: <!--more-->
 author_profile: false
@@ -29,6 +29,8 @@ Some comments on each point:
 # 1. Our thoughts determine our lives.
 
 Not in a particularly mysterious or magical way, but as a simple matter of cause and effect. 
+
+<!--more-->
 
 Your thoughts are the first step (the first step in your control at least) in a long chain of cause-effect events that result, over time, in the panorama of your life: your emotional state, your level of wisdom and knowledge, the quality of your relationships, your possessions or lack thereof, your living situation, job, hobbies, entertainment consumption, food and diet and exercise habits, sleep habits, and so on. 
 
