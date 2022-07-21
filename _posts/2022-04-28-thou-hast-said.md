@@ -5,8 +5,8 @@ comments: true
 title: What Judas Said
 permalink: 
 comments: true
-tags: []
-categories: []
+tags: [Misc]
+categories: [Misc]
 excerpt_separator: <!--more-->
 author_profile: false
 header:
