@@ -5,7 +5,7 @@ comments: true
 title: Uncollections
 permalink: 
 comments: true
-tags: [philosophy]
+tags: [Personal Growth]
 categories: [Personal growth]
 excerpt_separator: <!--more-->
 author_profile: false
@@ -34,6 +34,8 @@ The causes of overaccumulation are many:
 Minimalists push *against* the natural human urge to collect things. They urge us to keep what ["spark's joy"](https://konmari.com/marie-kondo-rules-of-tidying-sparks-joy/) or to [keep to a set number of clothing items](https://bemorewithless.com/category/project333/). 
 
 Our Christian moralists such as St. John Chrysostem and St. Paul teach us to share what we have (share from our need but share *especially* our excess) with the poor and needy. There is a bias against accumulation and therefore against collection. ["Possessions can be justified only by their use."](https://stpaulsirvine.org/saint-john-chrysostom-the-prophet-of-charity/) 
+
+<!--more-->
 
 In order to address the concerns of both minimalism and charitable generosity, I'd like to propose creating "uncollections." 
 
