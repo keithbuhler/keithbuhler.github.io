@@ -1,18 +1,4 @@
---- 
-title: 
-layout: single
-share: true
-header:
-      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
-share: true
-comments: true
-tags: []
-categories: [philosophy]
-excerpt_separator: <!--more-->
-permalink: 
 ---
-
-+---
 title: The Rise of Skywalker Mostly Wins
 layout: single
 share: true
@@ -24,6 +10,7 @@ tags: [culture]
 categories: [Culture]
 excerpt_separator: <!--more-->
 permalink: /rise
+
 ---
 
 ![header](http://starwarsblog.starwars.com/wp-content/uploads/2017/01/sw-the-last-jedi-tall-B.jpg)
