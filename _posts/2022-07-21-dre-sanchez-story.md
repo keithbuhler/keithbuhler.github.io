@@ -53,7 +53,7 @@ He said he lived in San Diego but we’ve been driving for awhile. Are we still 
 
 Now, driving with a stranger deeper and deeper into a part of the world I don’t know. As he talks, as I listen, I become wrapped up in his world. My psyche is sliding deeper and deeper into the unknown. The Southern California sun is shining but it is getting darker.
 
-We stop for groceries. His wife told him to get food if he's bringing a guest. We’re supposed to get salmon and chicken and Chex in the blue box. We just walk around talking. In my my grey sport coat and tie, black pants clinging to lanky legs, we are the oddest couple in the grocery store. 
+We stop for groceries. His wife told him to get food if he's bringing a guest. We’re supposed to get salmon and chicken and Chex in the blue box. We just walk around talking. In my grey sport coat and tie, black pants clinging to lanky legs, we are the oddest couple in the grocery store. 
 
 We’re still discussing metaphysics, religion, psychology, and epistemology. Eventually, I decide to split up so I can halt the conversation and run a chance of actually finding a chicken.
 
