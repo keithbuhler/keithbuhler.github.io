@@ -17,11 +17,15 @@ permalink:
 
 I met Andre at a Christian Philosophy conference. He was 5’8’’, muscular, tattooed, and stoic. Almost everyone else ‘looked’ like a philosopher. This guy looked like a cholo. He walked into the 9am session on Divine Omnipresence with his red hat backwards.
 
-The presenter, Dr. Arcadi looked like me: white, skinny, with a tie and sport coat. Andre looked like a gangster going back to college. Despite appearances, he proved intelligent. During the Q&A, Andre’s questions were articulate and informed. He asked Dr. Arcadi about the creation by the Logos, the divine presence within and not just outside the cosmos, and if that is just panentheism.. Dr. Arcadi responded calmly but with *some* strained magnanimity. Andre’s follow up question invoked suggested that holiness was like the “vibrations” of the voice of the original utterance of the Logos. Dr. Arcadi’s patience wore thin.
+The presenter, Dr. Arcadi looked like me: white, skinny, sporting a tie and a coat. Andre looked like a gangster going back to college. Despite appearances, he proved intelligent. During the Q&A, Andre’s questions were articulate and informed. He asked Dr. Arcadi about the creation by the Logos, the divine presence *within* the cosmos. He asked if Logos theology is just panentheism.. Dr. Arcadi responded calmly but with *some* strained magnanimity. Andre’s follow up question suggested that holiness was like the “vibrations” of the voice of the original utterance of the Logos. Dr. Arcadi’s patience wore thin.
 
 Andre spoke like a rapper and moved like a rapper. He flowed, bobbed, and virtually danced as he talked. His accent pegged him as from New Mexico. His voice and manner were from the street, but his words were that of a seminarian... or a mystic.
 
-After the talk I walked with Andre in the hallway, and we discussed Eastern Orthodoxy. I told him, “I was feeling your question.” I grew up in a charismatic church, so I wanted vitality; I went to a great college, so I wanted intellectual depth and fidelity to Christian history; I was meditating daily, so I wanted spiritual depth. The Orthodox had all that." He told me, ‘Bro, I got chills.’ He spoke with earnestness and sincerity, like a child.
+After the talk I walked with Andre in the hallway, and we discussed Eastern Orthodoxy. I told him, “I was feeling your question.” He asked me my story. 
+
+"I grew up in a charismatic church, so I wanted vitality; I went to a great college, so I wanted intellectual depth and fidelity to Christian history; I was meditating daily, so I wanted spiritual depth. The Orthodox had all that." 
+
+He told me, ‘Bro, I got chills.’ He spoke with earnestness and sincerity, like a child.
 
 He tells me as we refill coffee mugs that he fought in Afghanistan. He had held friends dying in his arms, killed men, and came back to the U.S. with a clear sense that he has some purpose. He’s in seminary now, getting a B.A. in Biblical Studies and ancient languages. In cholo accents, he tells me he’s learning Greek, Latin, and some Aramaic. He speaks quickly, passionately, using his hands to puncture the air.
 
@@ -37,33 +41,31 @@ We drive.
 
 Andre has PTSD. He cried twice on the 30 minute drive. I listen and he talks voluminously. His narrative never strays far from his pain. He returns to it gravitationally. When he hits the center of the pain, the tears return. Then he bounces away and gets back into his heady, philosophical, exploratory narrative. 
 
-He is the most articulate spokesman *about* PTSD I’ve ever met, as well as being – clearly, in real time, right now – being a sufferer *of* PTSD. 
+He is the most articulate spokesman *about* PTSD I’ve ever met, as well as being – clearly, in real time, right now – a sufferer *of* PTSD. 
 
-Andres was suicidal three days before this philosophy conference. Not that he was contemplating a gun or a bridge — rather, his definition of suicide was that he was contemplating volunteering to go to Syria for one last tour, volunteering for the most dangerous posts. Throw his life away by reckless service. 
+Andre was suicidal three days before this philosophy conference. Not that he was contemplating a gun or a bridge — rather, his definition of suicide was that he was contemplating volunteering to go to Syria for one last tour, volunteering for the most dangerous posts. Throw his life away by reckless service. 
 
 But then he found a philosophical conference about God. 
 
-He had never hung out with “real” academics this much. People who cared. Who didn’t just read things on the internet and post on online discussions. People who spent their lives reading books and taking them very seriously.  
+He had never hung out with “real” academics this much. People who cared. Who didn’t just read things on the internet and post on online discussions. People who devote their lives to books. People who take ideas more seriously than money, sex, or status. 
 
-He said he lived in San Diego. But we’ve been driving for awhile. As the drive stretches on, I feel a sinking feeling. I just flew in from Kentucky, where I left my wife and kids, drove to Mexico with my brother, and landed as a stranger in San Diego. 
+He said he lived in San Diego but we’ve been driving for awhile. Are we still in San Diego? As the drive stretches on, I feel a sinking feeling. I just flew in from the midwest, where I left my wife and kids to attend this conference. 
 
-Now, driving with a stranger deeper and deeper into a part of the world I don’t know, my psyche is sliding deeper and deeper into the unknown. The Southern California sun is shining but it is getting darker.
+Now, driving with a stranger deeper and deeper into a part of the world I don’t know. As he talks, as I listen, I become wrapped up in his world. My psyche is sliding deeper and deeper into the unknown. The Southern California sun is shining but it is getting darker.
 
-We stop for groceries. In my my grey sport coat and tie, black pants clinging to long lanky legs, we are the oddest couple in the grocery store. 
+We stop for groceries. His wife told him to get food if he's bringing a guest. We’re supposed to get salmon and chicken and Chex in the blue box. We just walk around talking. In my my grey sport coat and tie, black pants clinging to lanky legs, we are the oddest couple in the grocery store. 
 
-We’re still discussing metaphysics, religion, psychology, and epistemology. We’re supposed to get salmon and chicken and Chex in the blue box. We just walk around talking.
-
-Eventually, I decide to split up so I can halt the conversation and run a chance of actually finding a chicken.
+We’re still discussing metaphysics, religion, psychology, and epistemology. Eventually, I decide to split up so I can halt the conversation and run a chance of actually finding a chicken.
 
 At his home, I meet his wife (who eyes me sideways), and he invites his best friend over. Before he arrives, I play around with his kids. I’m a goofball. He is discussing and cooking. I’m playing catch with the kids or discussing. We talk more philosophy. He offers me a THC vape. I decline. 
 
-Andres and his best friend default to treating me as an authority. They ask me questions about everything under the sun, expecting me to have well-formed opinions. This is flattering. I try to hold forth, to satisfy their expectation of me as a guru. It was a trap. As soon as I asserted authority, they rebelled. They wanted someone who Knows Things to argue with. 
+When his friend arrives we get "into it" again. Andre and his best friend default to treating me as an authority. They ask me questions about everything under the sun, expecting me to have well-formed opinions. This is flattering. I hold forth. I try to satisfy their expectation of me as a guru. It was a trap. As soon as I asserted authority, they rebelled. They wanted someone who Knows Things to argue with. 
 
-Andres has father issues. I know this from how he is projecting onto me (we are roughly the same age) authority *in order to fight with authority.* But I also know this from his stories about his dad. Either silence or complaint — no positive stories. He complains about his COs in the military. Complains about God. And now, as an avatar of intellectual authority, he complains about me. 
+Andre has father issues. I know this from how he is projecting onto me (we are roughly the same age) authority *in order to fight with authority.* But I also know this from his stories about his dad. Either silence or complaint — no positive stories. He complains about his COs in the military. Complains about God. And now, as an avatar of intellectual authority, he complains about me. 
 
-I keep a cheerful countenance. We eat, argue, and talk into the night. (Andres wife has concluded that I’m harmless.) We continue to talk theology but I also ask about New Mexico, growing up together, and life. 
+I keep a cheerful countenance. We eat, argue, and talk into the night. (Andre's wife has concluded that I’m harmless.) We continue to talk theology but I also ask him about what it was like growing up in New Mexico, their friendship, and more of their life story. 
 
-Eventually, the conversation between Andres and his friend (both high by now) settles into their favorite (non-intellectual) topics. I have come to believe that Andres is a tortured soul, a brilliant mind, and must reconcile with his own (earthly) father before he knows any peace. I suggest as much to him. He wants to argue about it. I excuse myself to go sleep. 
+Eventually, the conversation between Andre and his friend (both high by now) settles into their favorite (non-intellectual) topics. I have come to believe that Andre is a tortured soul, a brilliant mind, and must reconcile with his own (earthly) father before he knows any peace. I suggest as much to him. He wants to argue about it. I excuse myself to go sleep. 
 
 The next day, we return the conference and part ways. I’m grateful for the place to sleep and the connection. We’re still  friends. We exchange an email every now and then. Last we talked, he was still angry at God.
 
