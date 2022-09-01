@@ -6,8 +6,8 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
 comments: true
-tags: []
-categories: [philosophy]
+tags: [Philosophy]
+categories: [Philosophy]
 excerpt_separator: <!--more-->
 permalink: 
 ---
@@ -27,6 +27,8 @@ In the present misfortune, consider the facts:
 Everyone has a level of wealth: everyone has a livelihood, be they workers, business owners, investors, and those who live on support from others. The first category, the one who works for a living, depend on their job for livelihood. No job, living. 
 
 The second category: Everyone who works for someone else works for a business owner, and business owners depend on their employees and buyers and suppliers for livelihood. No businesses, no living (and no jobs). 
+
+<!--more-->
 
 The third category: investor.  Everyone who lives off their investments depends on the success of those investments, be they loans or real estate or stocks or what have you. 
 
