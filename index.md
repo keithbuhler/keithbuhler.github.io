@@ -12,12 +12,12 @@ I'm Keith Buhler, and this site is a guide to my professional activity and perso
 
 ## My work
 
-I'm currently the founding headmaster of an Orthodox Christian classical academy in California. In addition, I serve on the board of another classical school. I am an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter).  My academic research focuses on virtue ethics and naturalism. And in business I help others to leveraging real estate assets to generate passive income and long-term wealth. 
+I'm currently the founding headmaster of an Orthodox Christian classical academy in California. I am an [Alcuin Fellow](http://www.alcuinfellowship.com/) (West Coast chapter).  My academic research focuses on virtue ethics and naturalism, and I speak on classical education. 
 
-You may want to check out: 
+Check out: 
 
-* my [current projects](/projects) in philosophy, education, and arts
-* my [academic research](/research) to dialog about virtue and wisdom 
+*  [current projects](/projects) in philosophy, education, and arts
+*  [academic research](/research) about virtue, an [article on causal closure](https://www.degruyter.com/document/doi/10.1515/mp-2019-0026/html?lang=en)
 * [the "Buhler Report"](/blog), a blog with recent reflections on  sundry topics such as books, culture, parenting, movies, politics, and living intentionally
 * The [Classical Academy Podcast](https://www.trinityclassicalacademy.com/about/podcast), which offers a friendly introduction to classical education.
 
@@ -26,20 +26,17 @@ You may want to check out:
 
 My life mission is to help people of all ages to pursue virtue and wisdom.  The pursuit of wisdom informs my leadership, teaching, business and other activities.  
 
-I believe, with Aristotle and with Christ, that real virtue is possible -- but it requires hard work and practice. We *all* need to try out practical skills that bring about human flourishing, although we may often fail. *Not trying* guarantees a life of vanishing meaning, purpose, joy, and goodness. Some of the skills that bring about human flourishing include listening well, being proactive, self-discipline, prayer, fighting for justice, serving others, prayer, forgiveness, quietness and solitude, gratitude, and other spiritual disciplines. 
+Real virtue is possible -- but it requires hard work and practice. We *all* need to try out practical skills that bring about human flourishing, although we may often fail. *Not trying* guarantees a life of vanishing meaning, purpose, joy, and goodness. Some of the skills that bring about human flourishing include listening well, being proactive, self-discipline, prayer, fighting for justice, serving others, prayer, forgiveness, quietness and solitude, gratitude, and other spiritual disciplines. 
 
 
 
 ## Previous Activity
 
-I've developed and implementied a [high school philosophy courses](http://www.keithbuhler.com/trinity-philosophy/) and Great Books courses, introducing students to Plato, Aristotle, Scripture, and other books in the Great Tradition.
+I recently spoke at St. Steven's Orthodox Church in Alhambra about finding balance between work, prayer, and family. 
 
-In 2018, I gave a lecture entitled ["Philosophy for Everyone" at Trinity Classical Academy,](https://www.youtube.com/watch?v=SMvlTUVFf4M&t=137s) introducing our community to the nature and value of philosophy. 
-<br> 
+In February, I spoke at an Orthodox Philosopher's conference on Orthodox Christian classical education. 
 
-Around the same time, I had the privilege of [interviewing Dr. Robert George of Princeton](https://www.youtube.com/watch?v=tfDdJiyDnaY&t=10s) for my YouTube channel. 
-
-Before that, I did audio interviews with [Eric Silverman, David Bradshaw, and JP Moreland](http://www.advicetochristianphilosophers.com/) for my Christian Philosophers podcast.
+I've developed and implemented a [high school philosophy courses](http://www.keithbuhler.com/trinity-philosophy/) and Great Books courses, introducing students to Plato, Aristotle, Scripture, and other books in the Great Tradition.
 
 
 <br>
