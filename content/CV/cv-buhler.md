@@ -8,7 +8,7 @@ sidebar:
       nav: 
 --- 
 
-### Curriculum Vitae (2022)
+### Curriculum Vitae (2023)
 **Keith Buhler, Ph.D.**  
 **Saint Andrew Academy**  
 
@@ -29,7 +29,11 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### EMPLOYMENT
 1. Headmaster, Saint Andrew Academy 2021 - present. 
-2. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - 2021 
+2. Faculty Fellow of Liberal Arts, Hildegard College, 2023 - present.
+
+## Previous Employment
+
+1. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - 2021 
 2. Adjunct Philosophy Instructor (online), Asbury University, 2017 - 2021
 2. Adjunct Philosophy Instructor, Asbury University, 2013-2017
 1. Postdoc Scholar, University of Kentucky,  Spring 2017 
@@ -77,6 +81,7 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 17. Humanities: 20th Century British Thought  (*Torrey Academy, Biola University, CA* 2007-2012)
 18. Humanities: Great Books II - Medieval Thought (Saint Andrew, 2021)
 19. Humanities: Senior Research Ethics (Saint Andrew, 2021) 
+18. Humanities: Great Books I - Greek and Roman Thought (Saint Andrew, 2022)
 
 
 
@@ -87,7 +92,9 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### ACADEMIC CONFERENCES
 
-1. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
+1. "Education as Initiation", SOPHIA Conference, TX 2023.  
+2. "Christological Anthropology Orthodox classical education", SOPHIA Conference, TX 2021.  
+2. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
 2. "Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
 3. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 4. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
