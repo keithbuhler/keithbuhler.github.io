@@ -16,9 +16,11 @@ We need more, high quality, sustainable schools -- not later, now!
 
 I founded a parochial school at an Orthodox Church in CA. 
 
-Classical education changed my life. My mentors introduced me classical education in college after dropping out high school. 
+Classical education changed my life. My mentors introduced me classical education in college after dropping out of high school. 
 
-I've been teaching since 2007 and in leadership since 2020. 
+I've been teaching since 2007 and in leadership since 2020. Now I'm coaching, consulting, and fundraising for Christian schools (especially Orthodox home schools, private schools.)
+
+--- 
 
 I'm an Alcuin Fellow at SCL and a regular speaker/podcaster. 
 
@@ -34,6 +36,8 @@ Living well is a skill. Happiness is a skill. It's an activity we can get better
 
 
 Thanks for vising, let me know how I can help you. 
+
+--- 
 
 * Facebook: 
 * Instagram: 
