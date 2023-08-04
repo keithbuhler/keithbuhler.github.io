@@ -3,7 +3,7 @@ layout: page
 title: Welcome | 
 permalink: 
 header:
-      image: http://www.keithbuhler.com/images/keith-at-trinity-speaking.jpg
+      image: http://www.keithbuhler.com/images/kb-keith-at-trinity-speaking.jpg
 ---
 
 Are you ready to start a Classical Christian School? 
@@ -11,6 +11,8 @@ Are you ready to start a Classical Christian School?
 Or are you already part of a school that is tired, deadlocked, running low on funds, or getting weird? 
 
 I'm Keith Buhler and my mission is to advance Christian education throughout the nation and the world. 
+
+We need more, high quality, sustainable schools -- not later, now!
 
 I founded a parochial school at an Orthodox Church in CA. 
 
@@ -40,3 +42,4 @@ Thanks for vising, let me know how I can help you.
 * Blog: 
 * School website: 
 * Investments: 
+* Pensees: 
