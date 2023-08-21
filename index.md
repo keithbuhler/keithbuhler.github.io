@@ -43,11 +43,11 @@ Thanks for vising, let me know how I can help you.
 
 --- 
 
-* Facebook: https://www.facebook.com/keithedbuhler
-* Instagram: https://www.instagram.com/keith.buhler/
-* YouTube: https://www.youtube.com/c/KeithBuhler
-* TikTok: rofl
-* Blog: 
-* School website: https://www.saintandrewacademy.com
-* Investments: 
-* Pensees: 
+* [Facebook:](https://www.facebook.com/keithedbuhler)
+* [Instagram:](https://www.instagram.com/keith.buhler/)
+* [YouTube:](https://www.youtube.com/c/KeithBuhler)
+* TikTok: ROFL
+* [Blog:](https://saintandrew.notion.site/Buhler-Report-Blog-Current-9d90055115754d97b5c7f15d09005eae)
+* [School website:](https://www.saintandrewacademy.com)
+* [Investing:](https://www.numinor.info/)
+* [Questions for Reflection:](http://keithbuhler.com/pensees) 
