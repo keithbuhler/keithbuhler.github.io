@@ -51,7 +51,7 @@ theme: league
 > There's real poetry in the real world. Science is the poetry of reality
 
 </section><section data-markdown>
-![dawkins 3](http://godlessmom.com/wp-content/uploads/2014/08/Richard-Dawkins1.png)
+![dawkins 3](https://pbs.twimg.com/media/BvWx_YiIUAAFYZ1?format=png&name=medium)
 
 
 
