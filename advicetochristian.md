@@ -13,7 +13,7 @@ Our second interview is with [Professor Peter Kreeft of Boston College.](https:
 
 Two of Professor Kreeft's most memorable works resurrect two of the most fascinating philosophical forms: (1) His ["Socrates meets..." series](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) resurrects the ancient Platonic dialogue; he displays both the personal and philosophical dimensions of the greatest arguments and thinkers. And (2) His [latest nonfiction work, the Summa Philosophi](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#)ca resurrects the medieval Thomistic disputatio. There he marches through about 100 of the most fundamental questions in philosophy and life, such as "Is truth objective?", "Is the moral law objective?", "Is knowledge possible?" and more.
 
-Check out his [website](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) for more.
+Check out his [website](https://peterkreeft.com/) for more.
 
 We caught up with Professor Kreeft by email. Our questions are in *bold italics *followed by his answers.
 
