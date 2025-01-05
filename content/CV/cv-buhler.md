@@ -8,7 +8,7 @@ sidebar:
       nav: 
 --- 
 
-### Curriculum Vitae (2022)
+### Curriculum Vitae (2024)
 **Keith Buhler, Ph.D.**  
 **Saint Andrew Academy**  
 
@@ -29,7 +29,11 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### EMPLOYMENT
 1. Headmaster, Saint Andrew Academy 2021 - present. 
-2. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - 2021 
+2. Faculty Fellow of Liberal Arts, Hildegard College, 2023 - present.
+
+## Previous Employment
+
+1. Philosophy (and Humanities) Instructor, Trinity Classical Academy, 2017 - 2021 
 2. Adjunct Philosophy Instructor (online), Asbury University, 2017 - 2021
 2. Adjunct Philosophy Instructor, Asbury University, 2013-2017
 1. Postdoc Scholar, University of Kentucky,  Spring 2017 
@@ -65,18 +69,22 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 1. Introduction to Philosophy: Plato and Aristotle (x4)  (*Trinity Classical Academy*)
 1. Ancient Roman History (x7) (*Trinity Classical Academy*)
 2. Writing & Rhetoric (*Trinity Classical Academy*)
-3. Ancient Greek  (*Trinity Classical Academy*)
+3. Ancient Greek  (*Trinity Classical Academy*, 2017)
 4. Spanish 1-3      (x2) (*Trinity Classical Academy*)
 7. Theater and Drama (x3)   (*Trinity Classical Academy*)
 8. Introduction to Philosophy (2017) (*Freedom Project Academy* (online)
 9. Humanities: 20th Century British Thought (*Veritas Christian Academy, KY* 2013)
-13. Philosophy: Plato on Being and Knowing (*Torrey Academy*, Biola University, CA *2011)
+13. Philosophy: Plato on Being and Knowing (*Torrey Academy*, Biola University, CA 2011)
 14. Philosophy: Traditional Logic  (*Torrey Academy, Biola University, CA* 2009-2010)
 15. Humanities: Foundations of American Thought  (*Torrey Academy, Biola University, CA* 2009-2012)
 16. Humanities: Ancient and Medieval Thought  (*Torrey Academy, Biola University, CA* 2008-2012)
 17. Humanities: 20th Century British Thought  (*Torrey Academy, Biola University, CA* 2007-2012)
 18. Humanities: Great Books II - Medieval Thought (Saint Andrew, 2021)
 19. Humanities: Senior Research Ethics (Saint Andrew, 2021) 
+18. Humanities: Great Books I - Greek and Roman Thought (Saint Andrew, 2022, 2024)
+19. Humanities: Great Books II - Medieval and Christian thought (Saint Andrew, 2023)
+20. Senior Thesis (Saint Andrew, 2022, 2023, 2024)
+21. Ancient Greek (Saint Andrew, 2024)
 
 
 
@@ -87,7 +95,10 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### ACADEMIC CONFERENCES
 
-1. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
+1. "Paying for Christian Education," SOPHIA Conference, TX, 2024. 
+1. "Education as Initiation", SOPHIA Conference, TX 2023.  
+2. "Christological Anthropology Orthodox classical education", SOPHIA Conference, TX 2021.  
+2. "Rational Motives and Pursuing the Good", Evangelical Philosophical Society, Louisville KY 2017.
 2. "Vainglory is not a form of Pride", SOPHIA Conference, Spring Branch, TX 2017.
 3. "Natural Teleology without Theology in Thomas Nagel's *Mind and Cosmos*" Society of Christian Philosophers, University of San Diego, 2016.
 4. "Fairy Tale Nihilism: The Empty Hero in *Kung Fu Panda* and *The Great and Powerful Oz*,”  Faith and Film Conference, Baylor University, 2014.
@@ -99,29 +110,19 @@ Areas of competence:  Philosophy of Religion, Philosophy of Mind.
 
 ### PUBLICATIONS
 1. "No Good Arguments for Causal Closure" (*Metaphysica*, 2020)
+2. "Teacher as Mentor", in *Orthodox Classical Education Anthology*, St. Vladimir's Press, 2024 (forthcoming)
 
 ### WORKS IN PROGRESS
 1. *Becoming What We Are* (in progress)
-3. "Teleology without Theology: Thomas Nagel on Natural Purpose" (in progress)
 
 
 
-### COMMENTS AND SERVICE
 
-1. Comments on Rob Elisher's "Aristotelian Moral Schizophrenia", University of Kentucky Graduate School Conference, 2017.
-1. Referee for Kentucky Graduate School Conference submissions, 2017.
-2. "How to Keep Momentum in Dissertation Writing," University of Kentucky Graduate School, Writing Bootcamp, 2016. 
-2. Comments on David Skowronski's "Inductive Reasoning in Naturalism and Supernaturalism." Society of Christian Philosophers, University of San Diego, 2016.
-3. Session Chair, Ian Ramsey Centre Conference, Oxford University, 2014.
-2. Comments on Andrew Greenlee's "Combating the Normativity Challenge to Virtue Ethics," Midsouth Philosophy Conference, Rhodes College, 2014.
-4. Referee for Kentucky Graduate School Conference submissions, 2013.
-
-
-  
 
 
 ### INVITED PUBLIC TALKS
 
+1. "Teaching from Rest: Balance in Family, Church, and Career", St. Stephen's Cathedral, 2022
 1. "Philosophy for Everyone", Trinity Classical Academy, Los Angeles, 2018 
 2. "Grammar, Philosophy, and the Liberal Arts Tradition", Chesterton School of Liberal Arts, 2018 
 3. "Digging Deeper into Meaning", The St. Maximos Academy, Riverside, CA 2018.
@@ -146,7 +147,6 @@ Basic programming knowledge of HTML, CSS, and LaTex
 
 ### AFFILIATIONS
 Alcuin Fellowship, Western Region Fellow, 2019-present    
-Heterodox Academy, Member, 2018-present  
 International Society for MacIntyrean Enquiry, 2015-present         
 Society of Orthodox Philosophers in America, 2014-present    
 Torrey Honors Institute, Perpetual member, 2004-present     
