@@ -1,0 +1,53 @@
+---
+layout: page
+title:  Advice to Christian Philosophers
+permalink: /advice/
+header:
+      image: http://www.keithbuhler.com/images/oxford4.png
+
+---
+
+Our second interview is with [Professor Peter Kreeft of Boston College.](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#)
+
+[Peter Kreeft](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) is a teaching philosopher and popular writer (inspired by the likes of C. S. Lewis). He has written influential works on ageless themes such as [the existence of God, the problem of evil, miracles, and heaven.](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) One of his most popular books is[ *Between Heaven and Hell: A Dialog Somewhere Beyond Death with John F. Kennedy, C. S. Lewis & Aldous Huxley*.](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#)
+
+Two of Professor Kreeft's most memorable works resurrect two of the most fascinating philosophical forms: (1) His ["Socrates meets..." series](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) resurrects the ancient Platonic dialogue; he displays both the personal and philosophical dimensions of the greatest arguments and thinkers. And (2) His [latest nonfiction work, the Summa Philosophi](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#)ca resurrects the medieval Thomistic disputatio. There he marches through about 100 of the most fundamental questions in philosophy and life, such as "Is truth objective?", "Is the moral law objective?", "Is knowledge possible?" and more.
+
+Check out his [website](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) for more.
+
+We caught up with Professor Kreeft by email. Our questions are in *bold italics *followed by his answers.
+
+### <Begin Interview>
+
+***ATCP: Our site is [AdvicetoChristianPhilosophers]. So our audience is primarily Christians who are also philosophers; but it includes those who are considering studying philosophy in college or graduate school. Let's begin with your story: How did you decide to become a philosopher?***
+
+> Kreeft: In college, I kept arguing about and being fascinated with the philosophical issues in literature and theology (my first two majors). When I kept the same focus in courses in history and the history of science, I just let the magnet of philosophy draw all the iron filings in my mind to itself.\
+>\
+> It did not deter me that I found some philosophers, both living and dead, on the borderlines of sanity, or that most philosophers do not write well at all and some are both dull and obscure at the same time (quite an achievement!), for I found other philosophers, both living and dead, brilliant and clear and charming, and some were even fascinating writers (Plato, Augustine, Pascal, Kierkegaard, Nietzsche, James, Russell).\
+> You decide to become a philosopher in the same way you decide to marry someone: when you get to know him, you fall in love. Unless you fall in love with your work, your life will be only 2/3 of a life, since life consists mainly of three relationships: with your God, your spouse, and your career. In all of those you will be unhappy if your motive is not love.\
+***ATCP: Philosophy is both a means to an end and an end in itself. Justin Martyr, Augustine, Jonathan Edwards and other Christian philosophers treated wisdom as an intrinsic good --- as a way to love God with our minds. But they also used philosophy to "cast down arguments, and every high thing that exalts itself against the knowledge of God." (2 Cor 15) In your view, what are the most important philosophical "front lines" for Christians to address today?***
+
+* * * * *
+
+> The most important issues for philosophers today are the issues which are the most important for our society--which, in turn, are those that are the most important for our lives. [William James](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#)' principle is that if a philosophical idea makes no difference to our lives whether it is believed to be true or not, it is not "true" in any humanly important sense of the word. (James' "pragmatism" and "existentialism" agree here.)\
+> By that standard, issues of human life take first place: abortion, war, genetic engineering, the sexual revolution, including the new eugenics that are a natural part of it, and euthanasia. But even more important is the premise or principle for deciding these issues. The single most radical change not only in academic philosophy but in humanity's philosophy of life, at least in Western civilization, is the increasing triumph of moral relativism. We are the first culture in history the majority of whose mind molders, both formal (in schools) and informal (in media) no longer believe in a natural moral law (secular or religious, Platonic, Aristotelian or Kantian), or, as C.S. Lewis calls it, a "Tao" ( in [*The Abolition of Man*](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#), the most prophetic book of the 20th century; perhaps #2 is MacIntyre's [*After Virtue*](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#).) Justice Kennedy's assertion in "Casey vs. Planned Parenthood (1992) that "at the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, of the mystery of human life" is either the most disastrous error any court decision ever made or the first truly liberating breaking down of the old and repressive superstition of objective truth about good and evil. Hobbes, Hume, Dewey, Marx, Ayer, Russell, Sartre, Nietzsche, Singer, Rorty -- a very diverse crowd, but all have this in common: a return to Protagoras and away from Socrates.
+
+***ATCP: In 2001, Quentin Smith lamented the decline of naturalism and the rise of theism in philosophy. Although many academics are indeed irreligious, about 27% of philosophers are not atheists -- and 15% are theists. In your view, are Christians especially numerous in philosophy (compared to other academic disciplines)? If so, why?***
+
+> Oh, how awful! Theists in philosophy! Who let them in? We should build a wall at the border and make them pay for it. How arrogant of them to think they deserve any representation at all, much less 27%. Pretty soon they'll ask why 73% of philosophers are non-theists while only about 10% of everybody else is. Soon they'll infiltrate into psychiatry and sociology too! A fatwa, or at least jihad, should be declared against them, as Hobbes and Hume implied.\
+***ATCP: Many people in my graduate department and undergraduate classes are not hostile to Christianity; they are apathetic. It seems they think either my faith makes my philosophical views blind dogmas, or that my faith is irrelevant to philosophy --- so they don't care. How do we initiate conversations with academics who seem apathetic?***
+
+> One way to ignite caring among the apathetic is to import a wild, fiery atheist no one can ignore, like Nietzsche. Pascal called "indifference" a disease so serious it could not possibly come from human nature, only from something supernatural. "Will I poop out forever, or go to Hell when I die? Frankly, God (if You're there), I just don't give a damn." This is insanity squared.
+
+> Yet they do care about a few things. Their two most popular religions, i.e. non- negotiables and absolutes, are sexual autonomy and political correctness. Camus summed them up simply when he said that future generations will summarize ours very easily: "They fornicated and read newspapers."
+
+***ATCP: Some other people I've encountered in classes or my department do express hostility specifically to Christians or Christian philosophy. How much have you actually experienced stronger resistance or hostility from other philosophers? How did respond?***
+
+> Philosophers are human beings (stop the presses!) before they are philosophers, so most are indifferent rather than hostile, like the rest of Americans. I'm at Boston College, not Harvard, so almost all my colleagues and most of my students are theists. And therefore happy. Unlike Harvard, where a psychiatrist friend who teaches there estimates that 75% of all Harvard undergraduates live for four years in a state of clinical depression. Nietzsche understood that, and so did Sartre and Camus, as did Dostoyevsky's protagonists (Raskalnikov, Ivan Karamazov). Send in the crazy Russians: they'll teach us something. But when they came, we turned away. The clearest indication of the sickness at the heart of American culture that I know is the reactions to Alexandr Solzhenitsyn's [Harvard Commencement Address](https://www.blogger.com/blog/post/edit/6703710042540691889/1987213471094078512#) in 1978, one of the greatest speeches in our history. Before it, the press lionized him; after it, they suddenly saw him as an outrage. He embarrassed them by beginning with the word "truth" (Harvard's embarrassing official motto, which soon will surely have to be changed to Stephen Colbert's "truthiness") and he dared to tell the truth: that the cause of the West's decline was outrageously simple: "We have forgotten God." Bye-bye. Down the Memory Hole with you!
+
+***ATCP: Many of us are young philosophers focussed on applying to schools, getting through school, or getting a job. At the same time, we do not want to get caught up in worldly affairs and lose an eternal perspective. What good habits should we cultivate now so, that 30 years from now, we are doing good work to advance the Kingdom of God?***
+
+> The good habits of a philosopher are no different from the good habits of all human beings. Its the professional habits that are different, but unimportant. Whether or not you are devoted to truth wherever it is to be found is a wee bit more important than whether you are devoted to committee work, and whether you take time to adore and obey the Source of all intelligence is perhaps prior to whether you take time to obey your email's demands. Oh, and don't forget or ignore the main distractions from your philosophy career: they are called your family. God will count your service to them a little bit more in the Last Judgment than your service to your department.\
+***ATCP: We just want to express our gratitude for your philosophical contributions and your Christian witness. Any other advice you would give to Christian philosophers?***
+
+> Advice to Christian philosophers: (1) Be a Christian. (2) Be a philosopher. (Those two things are not as easy and simple as they sound. They are always processes, not completions, in this world.)

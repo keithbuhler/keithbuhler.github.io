@@ -1,13 +1,13 @@
 --- 
-title: BEST ARGUMENTS AGAINST RELATIVISM
+title: Best Arguments Against Relativism?
 layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
 comments: true
-tags: []
-categories: [philosophy]
+tags: [Philosophy]
+categories: [Philosophy]
 excerpt_separator: <!--more-->
 permalink: 
 ---
