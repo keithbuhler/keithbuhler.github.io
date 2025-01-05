@@ -10,7 +10,7 @@ header:
 
 ![github cat](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
 
-This site is built by Keith Buhler more or less from scratch in plain text. It is hosted for free by the good folks at [Github](https://github.com). Below, I explain more details about the site.
+This site is built by Keith Buhler more or less from scratch in plain text. It is hosted for free by the good folks at [Github](https://github.com). 
 
 
 ### Content
@@ -29,15 +29,12 @@ The core of the CSS design is the beautiful [Minimal Mistakes Layout](https://mm
 
 ### Map
 
-The site is constantly being revised and updated because of my ADD. However, the main information is the BLOG (BUHLER REPORT), RESEARCH (PHILOSOPHY), and PROJECTS which includes  some of my WRITINGS and other fun SANDBOX projects.
+The site is constantly being revised and updated because of my ADD. The current iteration probably redirects to a live-updating Notion site.  which includes  some of my WRITINGS and other fun SANDBOX projects.
 
 
 ### Acknowledgments
 
 I learned to write Markdown and how to use Github with major help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, and [W3Schools](www.w3schools.com). 
-
-The little "KB" Logo I used for awhile was created by LogoMaker and <a href="http://www.flaticon.com/authors/freepik">freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a>. It is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Create your own, free. (Thanks, <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a>) 
-
 
 
 ### Source Code 
@@ -46,16 +43,12 @@ You can view and even duplicate the source code on Github [by clicking here with
 
 ### DIY
 
-If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). (Alternately, I could [make yours for you.](/sites))
-
-
-
-
+If you know programming, you can make your own similar website easily, over which you have total control. If you have zero programming experience, but you are tech-curious, you can do it. It will take some work. Start [here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). 
 
 
 ### History
 
-This site is my *eighth* draft. The [2013 first try](https://web.archive.org/web/20130511005256/http://keithbuhler.com) used GoDaddy's automatic one page builder and it was terrible. The [2015 second try](https://web.archive.org/web/20141217142037/http://keithbuhler.com/) with Web Zyro's automatic builder was also not great. Ultimately, I wanted more control over content and style, so I kept searching. 
+This site is my *ninth* draft. The [2013 first try](https://web.archive.org/web/20130511005256/http://keithbuhler.com) used GoDaddy's automatic one page builder and it was terrible. The [2015 second try](https://web.archive.org/web/20141217142037/http://keithbuhler.com/) with Web Zyro's automatic builder was also not great. Ultimately, I wanted more control over content and style, so I kept searching. 
 
 [Dan Sheffler](http://www.dansheffler.com) showed me his site and got me started using Markdown. There was a learning curve, but I am tech curious and enjoyed the problem-solving. Over Christmas 2015, I worked compulsively on making the content and organization the data.  Versions 3-6 were failed attempts at using Github (first username was circularreason.github.io). Version 7 worked. Now it's a work in progress. 
 
@@ -63,6 +56,9 @@ Design-wise, I started with Dan Sheffler's site and made changes inspired by [Ba
 
 In May 2017, I made a major shift toward the "Less is More" layout because it had additional functionality for sub-menus in the masthead. Even though I sandboxed this transition, upon implementation it of course broke a bunch of things. I am still in the process of making the Less is More CSS play nicely with the Minimal Mistakes CSS. 
 
+I was able to land a job in 2017, so I stopped updating the site until 2023. 
+
+Now it's a simple landing page serving my revised career goals. 
 
 
 ### Copyright

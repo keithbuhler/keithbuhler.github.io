@@ -17,6 +17,6 @@ excerpt_separator: <!--more-->
 <p>
 
 
-My art has moved to <a href="https://keithbuhler.notion.site/Art-Dashboard-a33dafdd54b5486abaf6e286faa93857">  this Notion Gallery! </a>
+My art has moved to <a href="https://buhler.notion.site/Art-Dashboard-a33dafdd54b5486abaf6e286faa93857">  this Notion Gallery! </a>
 
 <ref
