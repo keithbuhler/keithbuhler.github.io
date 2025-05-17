@@ -29,10 +29,10 @@ while(x=eval(x));
 * [Twitter](https://twitter.com/Keith_Buhler) Keith_Buhler
 * [Facebook](https://www.facebook.com/keithedbuhler)  keithedbuhler
 * Call:  area 562 the rest is 23zero 29too-zero
-* Mail: Email me first.
 * Email:  [info at keithbuhler dot com](emailto:info@keithbuhler.com)
-* Secure mail:  circularreason [that swirly sign] protonmail.com
+* Snail Mail: Email me first.
+* Secure mail: Email me first for my Proton Mail 
 
-(Current as of February 2019)
+(Current as of 2025)
 
 
