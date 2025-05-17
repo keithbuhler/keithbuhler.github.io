@@ -21,8 +21,10 @@ theme: league
 * Who are me? 
 * Why is this class going to be awesome? 
 
+</section><section data-markdown>
+<section id="fragments">
 
-</section><section id="fragments">
+
 
 ## Will it be awesome?
 
@@ -85,11 +87,11 @@ theme: league
 
 </section><section data-markdown>
 
+## Euthyphro
 
+* Let's read a bit of Plato to show the importance of logic in thinking about God
 
-
-
-
+[link](https://classics.mit.edu/Plato/euthyfro.html)
 
 
 
@@ -101,7 +103,27 @@ theme: league
 
 
 
-### The One Thing You must get
+
+## All of Logic in 2 pages
+
+* Open to p. 26 of Kreeft. Let's read!
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+* **Discussion** 
+
+* Reactions so far? Questions? 
+* Thoughts? 
+* Break 
+* 
 
 The conclusion is the truth claim. (For example: “Obama is the 44th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: “Obama won the presidential election” and “there were 43 U.S. Presidents before 2004.”)
 
