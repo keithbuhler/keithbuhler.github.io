@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Logic
 layout: slide
 theme: league
 ---
@@ -10,6 +10,7 @@ theme: league
 # Intro to Logic
 
 **St Athanasius College** 
+
 **2025** 
 
 </section> <!--Intro slide end-->
@@ -21,11 +22,18 @@ theme: league
 * Who are me? 
 * Why is this class going to be awesome? 
 
+
+
+
+
+
+
+
 </section><section data-markdown>
 
 * **Will it be awesome?** 
 
-</section>
+* Yes! Why? 
 
 <section id="fragments">
 
@@ -36,9 +44,6 @@ theme: league
 <p><span class="fragment">3 Logic works </span> <span class="fragment"> -- some truths are *necessarily* true, and some relations between propositions are necessary relations... this alone blows the mind.</span></p>
 
 <p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
-
-
-
 
 
 
@@ -99,7 +104,7 @@ theme: league
 
 * Let's read a bit of Plato to show the importance of logic in thinking about God
 
-[link](https://classics.mit.edu/Plato/euthyfro.html)
+[Link to Euthyphro](https://classics.mit.edu/Plato/euthyfro.html)
 
 
 
@@ -144,14 +149,9 @@ theme: league
 
 </section><section data-markdown>
 
-
-
-
 ### Review / Some big picture points
 
 
-
-</section><section data-markdown>
 
 ### Memorize this
 
@@ -447,7 +447,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-</section></section><!--Day 1 end-->
+</section><!--End Super intro-->
+</section><!--Day 1 end-->
 
 
 
@@ -456,7 +457,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 2-->
+<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Begin day 2-->
 <section data-markdown>
 
 
@@ -571,8 +572,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 * Questions?
 * Exercises
 
-</section>
+</section> <!--end of last slide-->
 </section> <!--Day 2 end-->
+
 
 
 
