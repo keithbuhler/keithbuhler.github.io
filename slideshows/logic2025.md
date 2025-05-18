@@ -22,11 +22,14 @@ theme: league
 * Why is this class going to be awesome? 
 
 </section><section data-markdown>
+
+* **Will it be awesome?** 
+
+* Yes!
+
+</section><section data-markdown>
 <section id="fragments">
 
-
-
-## Will it be awesome?
 
 <p><span class="fragment">1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms, rules, laws </span></p>
 
@@ -35,6 +38,8 @@ theme: league
 <p><span class="fragment">3 Logic works </span> <span class="fragment"> -- some truths are *necessarily* true, and some relations between propositions are necessary relations... this alone blows the mind.</span></p>
 
 <p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
+
+</section><section data-markdown>
 
 * A personal anecdote... 
 
@@ -300,10 +305,23 @@ Some truths are necessary -- they have to be true and can be known with certaint
 >Logic is the science of arguments. An argument is a proof composed of premises (that support the conclusion) and a conclusion. Arguments are composed of words. Good arguments have clearly defined words, true premises, and a valid inference to the conclusion. Fallacies are bad arguments. A good argument *necessarily* entails the conclusion; a good argument is the most scientific form of rational proof.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 </section><section data-markdown>
 
 
 # Day 1 WRAPPING UP 
+
 * Questions?
 * Exercises
 
@@ -312,7 +330,20 @@ Some truths are necessary -- they have to be true and can be known with certaint
 * **Questions?**
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 </section><section data-markdown>
+
 * **Pop Quiz!**
 
 >All men are bipeds and Edgar is a man, so Edgar is a biped.
@@ -321,7 +352,20 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - Valid inference? true premises? clear terms?
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 </section><section data-markdown>
+
 ### Example 2
 
 >Jean Jones is seven feet tall because all San Franciscans are seven feet tall and Jean Jones is a San Franciscan.
@@ -340,7 +384,20 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - Valid inference? true premises? clear terms?
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 </section><section data-markdown>
+
 ### Example 4
 
 > 1. I want my daughter to marry a good man.
@@ -356,7 +413,20 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <iframe src="//giphy.com/embed/7rj2ZgttvgomY" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/reaction-7rj2ZgttvgomY"></a></p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 </section><section data-markdown>
+
 
 ### Example 4
 
@@ -374,21 +444,11 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 </section></section><!--Day 1 end-->
 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 2-->
 <section data-markdown>
+
 
 # Day 2 - First Act of the Mind
 
@@ -585,6 +645,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
+<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Notes begin-->
+<section data-markdown>
 
 
 
@@ -854,3 +916,10 @@ prosperous in this life.
 
 
 ### Procedural Fallacies
+
+
+
+</section>
+</section> <!--Notes end-->
+
+
