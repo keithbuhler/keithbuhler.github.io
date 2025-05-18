@@ -5,7 +5,7 @@ theme: league
 ---
 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Super intro Day 1 begin-->
-<section data-background="http://www.lse.ac.uk/philosophy/wp-content/uploads/2016/04/mobius-lr2-1.gif" data-markdown><!--Day 1-->
+<section data-markdown><!--Day 1-->
 
 # Intro to Logic
 
