@@ -25,11 +25,9 @@ theme: league
 
 * **Will it be awesome?** 
 
-* Yes!
+</section>
 
-</section><section data-markdown>
 <section id="fragments">
-
 
 <p><span class="fragment">1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms, rules, laws </span></p>
 
@@ -38,6 +36,11 @@ theme: league
 <p><span class="fragment">3 Logic works </span> <span class="fragment"> -- some truths are *necessarily* true, and some relations between propositions are necessary relations... this alone blows the mind.</span></p>
 
 <p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
+
+
+
+
+
 
 </section><section data-markdown>
 
@@ -366,14 +369,14 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-### Example 2
+**Example 2**
 
 >Jean Jones is seven feet tall because all San Franciscans are seven feet tall and Jean Jones is a San Franciscan.
 
 - Valid inference? true premises? clear terms?
 
 </section><section data-markdown>
-### Example 3
+**Example 3**
 
 > 1. All Oakland Raiders are football players.     
 > 2. Ken Stabler is a football player.
@@ -398,7 +401,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-### Example 4
+**Example 4**
 
 > 1. I want my daughter to marry a good man.
 > 2. Shia Labeouf is a good actor. 
@@ -445,6 +448,13 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 </section></section><!--Day 1 end-->
+
+
+
+
+
+
+
 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 2-->
 <section data-markdown>
@@ -570,6 +580,11 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
+
+
+
+
+
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 <section data-markdown>
 
@@ -647,26 +662,6 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Notes begin-->
 <section data-markdown>
-
-
-
-
-</section><section data-markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -920,6 +915,5 @@ prosperous in this life.
 
 
 </section>
-</section> <!--Notes end-->
-
+</section> <!--Day 5 end-->
 
