@@ -118,12 +118,70 @@ theme: league
 
 </section><section data-markdown>
 
+
 * **Discussion** 
 
 * Reactions so far? Questions? 
 * Thoughts? 
 * Break 
-* 
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+### Review / Some big picture points
+
+
+
+</section><section data-markdown>
+
+### Memorize this
+
+| Act           | Result      | Virtue | 
+|---------------|-------------|--------|
+| Apprehension  |     Term    | Clear | 
+| Judgment      | Sentence    | True  |
+| Reasoning     | Argument    | Valid |
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Some Big picture points**
+
+1. Logic is inevitable and useful
+2. Premise and conclusion
+3. 3 acts of the mind: conceiving, judging, reasoning
+4. 3 laws of thought are necessary truths, identity, non-contradiction
+5. To evaluate an argument, search for the conclusion first
+6. Then examine the clarity of the terms, the truth of the premises, and the validity of the inference
+
 
 The conclusion is the truth claim. (For example: “Obama is the 44th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: “Obama won the presidential election” and “there were 43 U.S. Presidents before 2004.”)
 
@@ -145,9 +203,7 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 </section><section data-markdown>
 
 
-
-
-### Three "3"s
+**Three "3"s** 
 
 * 3 Acts of the mind
 * 3 Products: Terms, judgments, arguments
@@ -166,18 +222,6 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 
 
 </section><section data-markdown>
-
-
-
-### Act 1: Simple Apprehension
-
-- Conception
-- Naming
-- Identifying
-- Cognizing & recognizing
-- Result = Terms
-- Good terms = *clear*
-
 
 
 
@@ -223,19 +267,8 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 
 </section><section data-markdown>
 
-### Memorize this
 
-| Act           | Result      | Virtue | 
-|---------------|-------------|--------|
-| Apprehension  |     Term    | Clear | 
-| Judgment      | Sentence    | True  |
-| Reasoning     | Argument    | Valid |
-
-
-</section><section data-markdown>
-
-
-### Three Laws
+* **Three Laws** 
 
 Some truths are self-evident foundations of thinking. For example, the classical “laws of thought”:
 
@@ -246,7 +279,7 @@ Some truths are self-evident foundations of thinking. For example, the classical
 </section><section data-markdown>
 
 
-### Three Laws
+* **Three Laws** 
 
 These laws are *necessary truths*. 
 
@@ -266,13 +299,21 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 >Logic is the science of arguments. An argument is a proof composed of premises (that support the conclusion) and a conclusion. Arguments are composed of words. Good arguments have clearly defined words, true premises, and a valid inference to the conclusion. Fallacies are bad arguments. A good argument *necessarily* entails the conclusion; a good argument is the most scientific form of rational proof.
 
-</section><section data-markdown>
-
-### Questions? 
-
 
 </section><section data-markdown>
-### Pop Quiz! 
+
+
+# Day 1 WRAPPING UP 
+* Questions?
+* Exercises
+
+</section><section data-markdown>
+
+* **Questions?**
+
+
+</section><section data-markdown>
+* **Pop Quiz!**
 
 >All men are bipeds and Edgar is a man, so Edgar is a biped.
 
@@ -327,82 +368,262 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - Valid inference? true premises? clear terms?
 
 
-</section><section data-markdown>
-### Review
-
-1. Logic is inevitable and useful
-2. Premise and conclusion
-3. 3 acts of the mind: conceiving, judging, reasoning
-4. 3 laws of thought are necessary truths, identity, non-contradiction
-5. To evaluate an argument, search for the conclusion first
-6. Then examine the clarity of the terms, the truth of the premises, and the validity of the inference
 
 
 
-</section><section data-markdown>
 
 
 
-## Day 1 WRAPPING UP 
-* Questions?
-* Exercises
+
+
+
+
+
+
+
+
+
+
 
 </section></section><!--Day 1 end-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 2-->
 <section data-markdown>
 
-# Logical Fallacies
+# Day 2 - First Act of the Mind
 
 
 
 </section><section data-markdown>
 
-### Two Logics
+* **Act 1: Simple Apprehension**
 
-1. Symbolic (Math)
-2. Aristotelian (Language)
+- Conception
+- Naming
+- Identifying
+- Cognizing & recognizing
+- Result = Terms
+- Good terms = *clear*
+
+
+
+
+
+
+
+
+
 
 
 </section><section data-markdown>
 
-### Two Branches of Logic
 
-- Material (content of thoughts)
-- Formal (organization of thoughts)
+
+
+
+
+
+
+
+
+
 
 </section><section data-markdown>
 
-### Induction, Deduction, Abduction
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+## Day 2 WRAPPING UP 
+* Questions?
+* Exercises
+
+</section>
+</section> <!--Day 2 end-->
+
+
+
+
+
+
+
+<section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
+<section data-markdown>
+
+# Day 3 - Topic 
+
+</section><section data-markdown>
+
+## Day 3 WRAPPING UP 
+* Questions?
+* Exercises
+
+</section>
+</section> <!--Day 3 end-->
+
+
+
+
+
+
+<section data-background="http://www.keithbuhler.com/images/matrix.png" ><!--Day 4 Begin-->
+<section data-markdown>
+
+
+# Day 4 - Topic 
+
+
+</section><section data-markdown>
+
+## Day 4 WRAPPING UP 
+* Questions?
+* Exercises
+
+</section>
+</section> <!--Day 4 end-->
+
+
+
+
+
+<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
+<section data-markdown>
+
+# Day 5 - Topic 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+## Day 5 WRAPPING UP 
+* Questions?
+* Exercises
+
+
+
+
+</section>
+</section> <!--Day 5 end-->
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **Induction, Deduction, Abduction**
 
 - Induction: generalization
-- Deduction: specification
+- Deduction: inference 
 - Abduction: hypothesis
 
 </section><section data-markdown>
 
-### Induction
+* **Induction**
 
 - Simple apprehension, plus induction is used to form basic propositions: 
 - grass is green, tables are hard, the sky is blue, Mom is kind, Fido is soft. 
 
 </section><section data-markdown>
 
-### Deduction
+* **Deduction**
 
 Deduction extends these basic propositions to the unknown. If all dogs are mammals, and your pet is a dog, your dog is a mammal. 
 
@@ -410,7 +631,7 @@ Deduction extends these basic propositions to the unknown. If all dogs are mamma
 
 </section><section data-markdown>
 
-### Abduction
+ Abduction
 
 Abduction is guessing or explaining. 
 
@@ -633,67 +854,3 @@ prosperous in this life.
 
 
 ### Procedural Fallacies
-
-
-
-</section><section data-markdown>
-
-
-## Day 2 WRAPPING UP 
-* Questions?
-* Exercises
-
-</section>
-</section> <!--Day 2 end-->
-
-
-
-
-
-
-
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 3 Begin-->
-<section data-markdown>
-
-</section><section data-markdown>
-
-## Day 3 WRAPPING UP 
-* Questions?
-* Exercises
-
-</section>
-</section> <!--Day 3 end-->
-
-
-
-
-
-
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 4 Begin-->
-<section data-markdown>
-
-</section><section data-markdown>
-
-## Day 4 WRAPPING UP 
-* Questions?
-* Exercises
-
-</section>
-</section> <!--Day 4 end-->
-
-
-
-
-
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
-<section data-markdown>
-
-</section><section data-markdown>
-
-## Day 5 WRAPPING UP 
-* Questions?
-* Exercises
-
-</section>
-</section> <!--Day 5 end-->
-
