@@ -456,16 +456,16 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-
+<section> 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Begin day 2-->
-<section data-markdown>
+	<section data-markdown>
 
 
 # Day 2 - First Act of the Mind
 
+</section>
 
-
-</section><section data-markdown>
+<section data-markdown>
 
 * **Act 1: Simple Apprehension**
 
@@ -572,7 +572,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 * Questions?
 * Exercises
 
-</section> <!--end of last slide-->
+	</section> <!--end of last slide-->
 </section> <!--Day 2 end-->
 
 
