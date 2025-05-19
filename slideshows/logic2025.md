@@ -7,7 +7,6 @@ theme: league
 <section data-background="http://www.keithbuhler.com/images/tree-of-science.png"><!--Super intro Day 1 begin-->
 <section data-markdown><!--Day 1-->
 
-# Intro to Logic
 
 **St Athanasius College** 
 
@@ -15,6 +14,18 @@ theme: league
 
 </section> <!--Intro slide end-->
 <section data-markdown> 
+
+# Week 1 - Intro to Logic
+
+* Introductions
+* Why logic? And how? 
+* All of logic in 2 pages(!) 
+* Acts of the mind, big picture
+* Review, discussion
+
+
+</section><section data-markdown>
+
 
 ## Introductions
 
@@ -33,6 +44,8 @@ theme: league
 
 * **Will it be awesome?** 
 * Yes! Why? 
+
+* Because... logic is *inevitable* 
 
 
 </section><section data-markdown>
@@ -88,20 +101,6 @@ theme: league
 
 </section><section data-markdown>
 
-## Euthyphro
-
-* Let's read a bit of Plato to show the importance of logic in thinking about God
-
-[Link to Euthyphro](https://classics.mit.edu/Plato/euthyfro.html)
-
-
-
-
-
-
-
-</section><section data-markdown>
-
 
 
 
@@ -113,36 +112,13 @@ theme: league
 
 
 
-
-
-
-
 </section><section data-markdown>
 
-
-* **Discussion** 
-
-* Reactions so far? Questions? 
-* Thoughts? 
-* Break 
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-# Some big picture points
+**Some big picture points**
 
 
 **Memorize this**
 
---
 
 | Act           | Result      | Virtue | 
 |---------------|-------------|--------|
@@ -153,12 +129,17 @@ theme: league
 
 
 
+</section><section data-markdown>
 
+1st act: Simple apprehension
+2nd act: Judgment
+3rd act: Reasoning
 
-
-
-
-
+- Arguing, Proving, Demonstrating
+- Surmising, Guessing
+- Generalizing
+- Result = Arguments
+- Good arguments = Valid
 
 
 
@@ -234,93 +215,6 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 
 
 
-
-</section><section data-markdown>
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Act 3: Reasoning
-
-- Arguing, Proving, Demonstrating
-- Surmising, Guessing
-- Generalizing
-- Result = Arguments
-- Good arguments = Valid
-
-
-
-
-
-
 </section><section data-markdown>
 
 
@@ -363,6 +257,128 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
+</section><section data-markdown>
+
+
+* **Discussion** 
+
+* Reactions so far? Questions? 
+* Thoughts? 
+* Break 
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Euthyphro**
+
+* Let's read a bit of Plato to show the importance of logic in thinking about God
+
+[Link to Euthyphro](https://classics.mit.edu/Plato/euthyfro.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -371,7 +387,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-# Day 1 WRAPPING UP 
+## Day 1 WRAPPING UP 
 
 * Questions?
 * Exercises... 
@@ -586,9 +602,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-**Subject and predicate**
-
---
+## **Subject and predicate**
 
 
 * Subject is what we are talking about 
@@ -674,7 +688,6 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
 
 
 * List
@@ -725,7 +738,125 @@ Empty thus far
 </section>
 <section data-markdown>
 
-## Day 3 WRAPPING UP 
+
+Blank? 
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+* List
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+* List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+* List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+* List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+* List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Day 3 WRAPPING UP 
 * Questions?
 * Exercises
 
@@ -750,7 +881,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
@@ -763,7 +894,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
@@ -778,7 +909,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
@@ -815,7 +946,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
@@ -830,7 +961,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
@@ -845,7 +976,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
@@ -860,7 +991,7 @@ Empty thus far
 </section><section data-markdown>
 
 **Title**
--- 
+
 
 
 * List
