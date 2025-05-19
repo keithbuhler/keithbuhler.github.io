@@ -170,7 +170,7 @@ theme: league
 </section><section data-markdown>
 
 
-The conclusion is the truth claim. (For example: “Trump is the 46th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: Trump won the presidential election” and “there were 45 U.S. Presidents before 2020.”)
+The conclusion is the truth claim. (For example: “Trump is the 47th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: Trump won the presidential election” and “there were 46 U.S. Presidents before 2024.”)
 
 
 
@@ -218,7 +218,7 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 </section><section data-markdown>
 
 
-* **Three Laws** 
+### Three Laws
 
 Some truths are self-evident foundations of thinking. For example, the classical “laws of thought”:
 
@@ -226,10 +226,13 @@ Some truths are self-evident foundations of thinking. For example, the classical
 2. No thing can be A and not A at the same time in the same respect. (X cannot be A and not-A)
 3. Every affirmation is either true or false. (A=true or A=false)
 
+![possible](https://hitopindustrial.com/wp-content/uploads/Monochrome-image-of-a-complex-array-of-metal-gears-and-cogs-within-industrial-machinery-highlighting-mechanical-functionality-1024x684.webp)
+
+
 </section><section data-markdown>
 
 
-* **Three Laws** 
+### Three Laws
 
 These laws are *necessary truths*. 
 
@@ -240,12 +243,11 @@ These laws are *necessary truths*.
 
 Some truths are necessary -- they have to be true and can be known with certainty.
 
-![possible](https://hitopindustrial.com/wp-content/uploads/Monochrome-image-of-a-complex-array-of-metal-gears-and-cogs-within-industrial-machinery-highlighting-mechanical-functionality-1024x684.webp)
 
 </section><section data-markdown>
 
 
-### In a word...
+**In a word...**
 
 >Logic is the science of arguments. An argument is a proof composed of premises (that support the conclusion) and a conclusion. Arguments are composed of words. Good arguments have clearly defined words, true premises, and a valid inference to the conclusion. Fallacies are bad arguments. A good argument *necessarily* entails the conclusion; a good argument is the most scientific form of rational proof.
 
@@ -517,8 +519,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 <section data-markdown>
 
-* **1st act of the mind Simple Apprehension**
---
+### 1st act of the mind Simple Apprehension
 
 - Conception
 - Naming
@@ -713,7 +714,7 @@ Empty thus far
 
 ## Day 2 WRAPPING UP 
 * Questions?
-* Exercises
+* Exercises from Kreeft (tbd)
 
 	</section> <!--end of last slide-->
 </section> <!--Day 2 end-->
@@ -733,7 +734,7 @@ Empty thus far
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 	<section data-markdown>
 
-# Day / Week 3 - Arguments 
+# Day 3 - Arguments 
 
 </section>
 <section data-markdown>
@@ -1039,7 +1040,7 @@ Blank?
 </section><section data-markdown>
 
 
-* **Induction, Deduction, Abduction**
+#### **Induction, Deduction, Abduction**
 
 - Induction: generalization
 - Deduction: inference 
@@ -1047,14 +1048,14 @@ Blank?
 
 </section><section data-markdown>
 
-* **Induction**
+#### **Induction**
 
 - Simple apprehension, plus induction is used to form basic propositions: 
 - grass is green, tables are hard, the sky is blue, Mom is kind, Fido is soft. 
 
 </section><section data-markdown>
 
-* **Deduction**
+#### **Deduction**
 
 Deduction extends these basic propositions to the unknown. If all dogs are mammals, and your pet is a dog, your dog is a mammal. 
 
@@ -1062,7 +1063,7 @@ Deduction extends these basic propositions to the unknown. If all dogs are mamma
 
 </section><section data-markdown>
 
- Abduction
+#### Abduction
 
 Abduction is guessing or explaining. 
 
@@ -1073,7 +1074,7 @@ Abduction is guessing or explaining.
 
 </section><section data-markdown>
 
-### Fallacy
+#### Fallacy
 
 A fallacy is any mistake in reasoning
 
@@ -1083,14 +1084,14 @@ A fallacy is any mistake in reasoning
 
 </section><section data-markdown>
 
-### Fallacy
+**Fallacy**
 
 - Formal fallacies = your argument is invalid.
 - Material fallacies = something else is wrong with your argument.
 
 </section><section data-markdown>
 
-### 23 of the 100s of Fallacies
+### 23 of the 49 Fallacies
 
 1. Equivocation
 2. Amphiboly
