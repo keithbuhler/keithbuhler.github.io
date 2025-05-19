@@ -615,7 +615,11 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-Empty thus far
+**Title**
+-- 
+
+
+* List
 
 
 
@@ -637,26 +641,13 @@ Empty thus far
 
 
 
-
-
 </section><section data-markdown>
 
-Empty thus far
+**Title**
+-- 
 
 
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-
-Empty thus far
-
+* List
 
 
 
@@ -667,7 +658,32 @@ Empty thus far
 
 </section><section data-markdown>
 
-Empty thus far
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
 
 
 
@@ -730,6 +746,54 @@ Empty thus far
 
 </section><section data-markdown>
 
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
+
+
+
+
 ## Day 4 WRAPPING UP 
 * Questions?
 * Exercises
@@ -748,7 +812,66 @@ Empty thus far
 
 
 
-Empty thus far
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+-- 
+
+
+* List
+
+
+
+
+
+
+
+
 
 
 
