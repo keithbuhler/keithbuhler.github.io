@@ -374,20 +374,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 # Day 1 WRAPPING UP 
 
 * Questions?
-* Exercises
-
-</section><section data-markdown>
-
-* **Questions?**
-
-
-
-
-
-
-
-
-
+* Exercises... 
 
 
 
@@ -515,6 +502,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <section data-markdown>
 
 * **1st act of the mind Simple Apprehension**
+--
 
 - Conception
 - Naming
@@ -576,7 +564,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-* **Non-declarative sentences**: 
+**Non-declarative sentences**: 
 -- 
 
 * imperative, 
@@ -627,7 +615,33 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
+Empty thus far
 
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+Empty thus far
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+Empty thus far
 
 
 
@@ -641,20 +655,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-
-
+Empty thus far
 
 
 
@@ -666,20 +667,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-
+Empty thus far
 
 
 
@@ -737,7 +725,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <section data-markdown>
 
 
-# Day 4 - Topic 
+# Day 4 - Complex Arguments 
 
 
 </section><section data-markdown>
@@ -756,11 +744,11 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
 <section data-markdown>
 
-# Day 5 - Topic 
+# Day 5 - Applying Logic 
 
 
 
-
+Empty thus far
 
 
 
@@ -792,6 +780,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Notes begin-->
 <section data-markdown>
 
+# Notes 
+
+</section><section data-markdown>
 
 
 * **Induction, Deduction, Abduction**
