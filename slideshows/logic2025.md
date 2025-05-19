@@ -179,7 +179,32 @@ theme: league
 6. Then examine the clarity of the terms, the truth of the premises, and the validity of the inference
 
 
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
 The conclusion is the truth claim. (For example: “Obama is the 44th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: “Obama won the presidential election” and “there were 43 U.S. Presidents before 2004.”)
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
 
 The conclusion is the whole point of the argument. Always ask yourself, “What am I being asked to believe?” That is the conclusion of the argument. Everything else is a premise.
 
@@ -286,7 +311,7 @@ These laws are *necessary truths*.
 
 Some truths are necessary -- they have to be true and can be known with certainty.
 
-![possible](http://www.possiblefutureworlds.com/img/logic.png)
+![possible](https://hitopindustrial.com/wp-content/uploads/Monochrome-image-of-a-complex-array-of-metal-gears-and-cogs-within-industrial-machinery-highlighting-mechanical-functionality-1024x684.webp)
 
 </section><section data-markdown>
 
@@ -419,10 +444,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-### Example 4
+**Example 5**
 
->It is obvious to anyone thinking logically that minimum wage should be increased. The current minimum wage is an insult and is unfair to the people who receive it. The fact that the last proposed minimum wage increase was denied is proof that the government of this state is crooked and corrupt. The only way for them to prove otherwise is to raise minimum wage immediately.
-
+>"It is obvious to anyone thinking logically that minimum wage should be increased. The current minimum wage is an insult and is unfair to the people who receive it. The fact that the last proposed minimum wage increase was denied is proof that the government of this state is crooked and corrupt. The only way for them to prove otherwise is to raise minimum wage immediately.""
 
 
 - What is the conclusion? 
@@ -444,7 +468,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section> 
+
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Begin day 2-->
 	<section data-markdown>
 
