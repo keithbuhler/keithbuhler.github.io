@@ -140,8 +140,9 @@ theme: league
 ### Review / Some big picture points
 
 
+**Memorize this**
 
-### Memorize this
+--
 
 | Act           | Result      | Virtue | 
 |---------------|-------------|--------|
@@ -153,9 +154,6 @@ theme: league
 
 
 
-
-
-</section><section data-markdown>
 
 
 
@@ -191,7 +189,7 @@ theme: league
 </section><section data-markdown>
 
 
-The conclusion is the truth claim. (For example: “Obama is the 44th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: “Obama won the presidential election” and “there were 43 U.S. Presidents before 2004.”)
+The conclusion is the truth claim. (For example: “Trump is the 46th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: Trump won the presidential election” and “there were 45 U.S. Presidents before 2020.”)
 
 
 
@@ -204,9 +202,9 @@ The conclusion is the truth claim. (For example: “Obama is the 44th president�
 
 </section><section data-markdown>
 
+**Conclusions**
 
-
-The conclusion is the whole point of the argument. Always ask yourself, “What am I being asked to believe?” That is the conclusion of the argument. Everything else is a premise.
+The conclusion is the whole point of the argument. Always ask yourself, “What am I being asked to believe?” That is the conclusion of the argument. Everything else is a premise (or irrelevent). 
 
 
 
@@ -237,34 +235,150 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 
 
 
-
-
-
-
-
 </section><section data-markdown>
 
 
 
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-
-
-### Act 2: Judgment
+### Act 2: Judgment (139-156)
 
 - Proposition
-- Statements
+- Declarative statements
 - Relating two concepts
 - Result = Sentences
 - Good judgments = *true*
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+* Judgments are expressed in propositions
+* Judgment is the act of the mind (can be inner, private) while propositions are expressed in language, math, symbols, etc. 
+
+
+* Kinds of Propositions 
+	* simple; 
+		* hypothetical, (if-then)
+		* disjunctive, (or)
+		* conjunctive (and)
+
+
+
+
+</section><section data-markdown>
+
+* **Non-declarative sentences**: 
+-- 
+
+* imperative, 
+- interrogative, 
+- exclamatory, 
+- performative 
+- (i.e., command, question, exclamation, and act)
+
+
+
+
+**Only propositions contain truth!**
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Subject and predicate**
+
+--
+
+
+* Subject is what we are talking about 
+* Predicate is what we are saying about the subject
+* We are "predicating" an action or adjective "of" the subject
+* Order matters: 2+2=4 is the same as 4=2+2, but "god is Love" is not the same as "love is god"!
+*  S is P. Subject is predicate. S is my sermon subject, P is my sermon. S is my title, P is my essay. 
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Title**
+
+
+
+
 
 
 
@@ -600,11 +714,12 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
+	<section data-markdown>
+
+# Day / Week 3 - Topic 
+
+</section>
 <section data-markdown>
-
-# Day 3 - Topic 
-
-</section><section data-markdown>
 
 ## Day 3 WRAPPING UP 
 * Questions?
