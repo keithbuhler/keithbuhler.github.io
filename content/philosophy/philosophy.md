@@ -12,7 +12,7 @@ Most college students will take exactly *one* philosophy class. A bad professor 
 
 Philosophy isn't just "thinking about thinking." It isn't just logic, isn't just religion, isn't just discussing opinions, isn't just critical thinking. It's the love of wisdom; the whole-hearted search for truths that do not change with the times. Philosophers explore all of reality, including domains officially reserved for science, math, religion, history, or psychology. They think deeply about death, the meaning of life, the relation between science and aesthetics, and the existence of God. Philosophy liberates you. Philosophy, indeed, is the highest liberal art. 
 
-![Morpheus](http://www.keithbuhler.com/images/morpheushd.jpg)
+![Morpheus](https://www.keithbuhler.com/images/morpheushd.jpg)
 
 What if I told you philosophy majors earn more than business majors? 
 

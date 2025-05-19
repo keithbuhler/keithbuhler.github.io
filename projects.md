@@ -3,7 +3,7 @@ title: "Projects and Resources"
 layout: splash
 permalink: /projects/
 header:
-    image: http://keithbuhler.com/images/nasmith-banner.jpeg
+    image: https://keithbuhler.com/images/nasmith-banner.jpeg
 intro: 
   - excerpt: ''
 

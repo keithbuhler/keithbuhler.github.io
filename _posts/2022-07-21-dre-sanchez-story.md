@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 permalink: 
 ---
 
-![header]
+
 # Dreas Sanchez Story
 
 I met Andre at a Christian Philosophy conference. He was 5’8’’, muscular, tattooed, and stoic. Almost everyone else ‘looked’ like a philosopher. This guy looked like a cholo. He walked into the 9am session on Divine Omnipresence with his red hat backwards.
@@ -26,6 +26,8 @@ After the talk I walked with Andre in the hallway, and we discussed Eastern Orth
 "I grew up in a charismatic church, so I wanted vitality; I went to a great college, so I wanted intellectual depth and fidelity to Christian history; I was meditating daily, so I wanted spiritual depth. The Orthodox had all that." 
 
 He told me, ‘Bro, I got chills.’ He spoke with earnestness and sincerity, like a child.
+
+<!--more-->
 
 He tells me as we refill coffee mugs that he fought in Afghanistan. He had held friends dying in his arms, killed men, and came back to the U.S. with a clear sense that he has some purpose. He’s in seminary now, getting a B.A. in Biblical Studies and ancient languages. In cholo accents, he tells me he’s learning Greek, Latin, and some Aramaic. He speaks quickly, passionately, using his hands to puncture the air.
 
