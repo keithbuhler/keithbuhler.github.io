@@ -830,3 +830,18 @@ prosperous in this life.
 </section>
 </section> <!--Day 5 end-->
 
+
+
+
+
+
+<section id="fragments">
+
+<p><span class="fragment">1 Logic is unavoidable </span> <span class="fragment"> -- to think is to think according to norms, rules, laws </span></p>
+
+<p><span class="fragment">2 Logic is undeniable</span> <span class="fragment"> -- even to deny logic is to use it </span></p>
+
+<p><span class="fragment">3 Logic works </span> <span class="fragment"> -- some truths are *necessarily* true, and some relations between propositions are necessary relations... this alone blows the mind.</span></p>
+
+<p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
+

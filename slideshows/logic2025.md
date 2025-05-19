@@ -137,7 +137,7 @@ theme: league
 
 </section><section data-markdown>
 
-### Review / Some big picture points
+# Some big picture points
 
 
 **Memorize this**
@@ -236,85 +236,6 @@ The conclusion is the whole point of the argument. Always ask yourself, “What 
 
 
 </section><section data-markdown>
-
-
-
-### Act 2: Judgment (139-156)
-
-- Proposition
-- Declarative statements
-- Relating two concepts
-- Result = Sentences
-- Good judgments = *true*
-
-
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-* Judgments are expressed in propositions
-* Judgment is the act of the mind (can be inner, private) while propositions are expressed in language, math, symbols, etc. 
-
-
-* Kinds of Propositions 
-	* simple; 
-		* hypothetical, (if-then)
-		* disjunctive, (or)
-		* conjunctive (and)
-
-
-
-
-</section><section data-markdown>
-
-* **Non-declarative sentences**: 
--- 
-
-* imperative, 
-- interrogative, 
-- exclamatory, 
-- performative 
-- (i.e., command, question, exclamation, and act)
-
-
-
-
-**Only propositions contain truth!**
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Subject and predicate**
-
---
-
-
-* Subject is what we are talking about 
-* Predicate is what we are saying about the subject
-* We are "predicating" an action or adjective "of" the subject
-* Order matters: 2+2=4 is the same as 4=2+2, but "god is Love" is not the same as "love is god"!
-*  S is P. Subject is predicate. S is my sermon subject, P is my sermon. S is my title, P is my essay. 
-
-
-
-
-
-
-
 
 
 
@@ -587,13 +508,13 @@ Some truths are necessary -- they have to be true and can be known with certaint
 	<section data-markdown>
 
 
-# Day 2 - First Act of the Mind
+# Day 2 - First, second Acts of the Mind
 
 </section>
 
 <section data-markdown>
 
-* **Act 1: Simple Apprehension**
+* **1st act of the mind Simple Apprehension**
 
 - Conception
 - Naming
@@ -613,6 +534,85 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 </section><section data-markdown>
+
+
+
+
+
+### 2nd Act of the Mind: Judgment (139-156)
+
+- Proposition
+- Declarative statements
+- Relating two concepts
+- Result = Sentences
+- Good judgments = *true*
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+* Judgments are expressed in propositions
+* Judgment is the act of the mind (can be inner, private) while propositions are expressed in language, math, symbols, etc. 
+
+
+* Kinds of Propositions 
+	* simple; 
+		* hypothetical, (if-then)
+		* disjunctive, (or)
+		* conjunctive (and)
+
+
+
+
+</section><section data-markdown>
+
+* **Non-declarative sentences**: 
+-- 
+
+* imperative, 
+- interrogative, 
+- exclamatory, 
+- performative 
+- (i.e., command, question, exclamation, and act)
+
+
+
+
+**Only propositions contain truth!**
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+**Subject and predicate**
+
+--
+
+
+* Subject is what we are talking about 
+* Predicate is what we are saying about the subject
+* We are "predicating" an action or adjective "of" the subject
+* Order matters: 2+2=4 is the same as 4=2+2, but "god is Love" is not the same as "love is god"!
+*  S is P. Subject is predicate. S is my sermon subject, P is my sermon. S is my title, P is my essay. 
+
+
+
+
+
 
 
 
@@ -716,7 +716,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 	<section data-markdown>
 
-# Day / Week 3 - Topic 
+# Day / Week 3 - Arguments 
 
 </section>
 <section data-markdown>
