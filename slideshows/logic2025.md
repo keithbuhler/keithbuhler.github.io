@@ -14,6 +14,14 @@ theme: league
 
 **2025** 
 
+---
+
+* Introductions
+* Why logic? And how? 
+* All of logic in 2 pages(!) 
+* Acts of the mind, big picture
+* Review, discussion
+
 
 
 </section> <!--Intro slide end-->
@@ -21,11 +29,6 @@ theme: league
 
 
 
-* Introductions
-* Why logic? And how? 
-* All of logic in 2 pages(!) 
-* Acts of the mind, big picture
-* Review, discussion
 
 
 </section><section data-markdown>
@@ -862,6 +865,7 @@ Blank?
 
 
 
+</section><section data-markdown>
 
 
 # Day 3 WRAPPING UP 
