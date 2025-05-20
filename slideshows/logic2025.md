@@ -8,14 +8,18 @@ theme: league
 <section data-markdown><!--Day 1-->
 
 
+# Intro to Logic
+
 **St Athanasius College** 
 
 **2025** 
 
+
+
 </section> <!--Intro slide end-->
 <section data-markdown> 
 
-# Week 1 - Intro to Logic
+
 
 * Introductions
 * Why logic? And how? 
@@ -31,7 +35,7 @@ theme: league
 
 * Who are you? 
 * Who are me? 
-* Why is this class going to be awesome? 
+* Will this class be worth my time? 
 
 
 
@@ -42,7 +46,7 @@ theme: league
 
 </section><section data-markdown>
 
-* **Will it be awesome?** 
+### **Will it be awesome?** 
 * Yes! Why? 
 
 * Because... logic is *inevitable* 
@@ -104,7 +108,7 @@ theme: league
 
 
 
-## All of Logic in 2 pages
+### All of Logic in 2 pages
 
 * Open to p. 26 of Kreeft. Let's read!
 
@@ -114,7 +118,7 @@ theme: league
 
 </section><section data-markdown>
 
-**Some big picture points**
+### **Some big picture points**
 
 
 **Memorize this**
@@ -131,9 +135,14 @@ theme: league
 
 </section><section data-markdown>
 
+### 3 Acts of the Mind
+
 1st act: Simple apprehension
+
 2nd act: Judgment
+
 3rd act: Reasoning
+
 
 - Arguing, Proving, Demonstrating
 - Surmising, Guessing
@@ -148,7 +157,7 @@ theme: league
 
 </section><section data-markdown>
 
-**Some Big picture points**
+### **Some Big picture points**
 
 1. Logic is inevitable and useful
 2. Premise and conclusion
@@ -169,6 +178,7 @@ theme: league
 
 </section><section data-markdown>
 
+**Conclusions** 
 
 The conclusion is the truth claim. (For example: “Trump is the 47th president” can be a conclusion.) Premises are statements that, if true, support or prove your conclusion. (For example, statements that support the claim above might be: Trump won the presidential election” and “there were 46 U.S. Presidents before 2024.”)
 
@@ -226,6 +236,9 @@ Some truths are self-evident foundations of thinking. For example, the classical
 2. No thing can be A and not A at the same time in the same respect. (X cannot be A and not-A)
 3. Every affirmation is either true or false. (A=true or A=false)
 
+</section><section data-markdown>
+
+
 ![possible](https://hitopindustrial.com/wp-content/uploads/Monochrome-image-of-a-complex-array-of-metal-gears-and-cogs-within-industrial-machinery-highlighting-mechanical-functionality-1024x684.webp)
 
 
@@ -236,12 +249,14 @@ Some truths are self-evident foundations of thinking. For example, the classical
 
 These laws are *necessary truths*. 
 
-1. Impossible
-2. Contingent but false
-3. Contingent and true
-4. Necessarily true
 
 Some truths are necessary -- they have to be true and can be known with certainty.
+
+>There's actually a whole scale of 'modality')
+> 1. Impossible
+> 2. Contingent but false
+> 3. Contingent and true
+> 4. Necessarily true
 
 
 </section><section data-markdown>
@@ -513,7 +528,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 	<section data-markdown>
 
 
-# Day 2 - First, second Acts of the Mind
+## Day 2 - First, Second Acts of the Mind
 
 </section>
 
@@ -645,14 +660,6 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-</section><section data-markdown>
-
-Empty thus far
-
-
-
-
-
 
 
 
@@ -734,7 +741,7 @@ Empty thus far
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 	<section data-markdown>
 
-# Day 3 - Arguments 
+## Day 3 - Arguments 
 
 </section>
 <section data-markdown>
@@ -873,7 +880,7 @@ Blank?
 <section data-markdown>
 
 
-# Day 4 - Complex Arguments 
+## Day 4 - Complex Arguments 
 
 
 </section><section data-markdown>
@@ -940,7 +947,7 @@ Blank?
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
 <section data-markdown>
 
-# Day 5 - Applying Logic 
+## Day 5 - Applying Logic 
 
 
 
@@ -1035,7 +1042,7 @@ Blank?
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Notes begin-->
 <section data-markdown>
 
-# Notes 
+# Misc. Notes 
 
 </section><section data-markdown>
 
