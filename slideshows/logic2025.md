@@ -14,6 +14,8 @@ theme: league
 
 **2025** 
 
+## Day 1 - All of Logic Overview
+
 ---
 
 * Introductions
@@ -531,13 +533,23 @@ Some truths are necessary -- they have to be true and can be known with certaint
 	<section data-markdown>
 
 
-## Day 2 - First, Second Acts of the Mind
+# Intro to Logic
+
+**St Athanasius College** 
+
+**2025** 
+
+
+## Day 2 - Acts of the Mind
+
+* First act of the mind: understanding
+* Second act: judgment
 
 </section>
 
 <section data-markdown>
 
-### 1st act of the mind Simple Apprehension
+### 1st act of the mind: Simple Apprehension
 
 - Conception
 - Naming
@@ -546,6 +558,97 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - Result = Terms
 - Good terms = *clear*
 
+
+
+
+</section><section data-markdown>
+
+
+
+### What makes man different from machine? (or animal)
+
+* Gods, men, and brutes
+* Gods don't question (they already know)
+* Brutes don't question (they don't realize they don't know anything)
+* Machines don't question (they have to be programmed)
+* *Men question (they know they don't know)* 
+* The Aristotle story (35)
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+### Title
+
+* Content 
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Our questions are: What, whather, why? 
+* The answers to these questions require concepts, the "bits" or raw material of thought
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+### Title
+
+* Content 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+
+
+
+
+
+### Exercises (130)
+
+* Define logic!
+* Define science
+* Define deduction
+* Define abstraction
+* Define death
+* Define charity 
 
 
 
@@ -569,52 +672,6 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - Relating two concepts
 - Result = Sentences
 - Good judgments = *true*
-
-
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-* Judgments are expressed in propositions
-* Judgment is the act of the mind (can be inner, private) while propositions are expressed in language, math, symbols, etc. 
-
-
-* Kinds of Propositions 
-	* simple; 
-		* hypothetical, (if-then)
-		* disjunctive, (or)
-		* conjunctive (and)
-
-
-
-
-</section><section data-markdown>
-
-**Non-declarative sentences**: 
--- 
-
-* imperative, 
-- interrogative, 
-- exclamatory, 
-- performative 
-- (i.e., command, question, exclamation, and act)
-
-
-
-
-**Only propositions contain truth!**
-
-
-
 
 
 
@@ -646,10 +703,96 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
+
+
+
+
+
+
+
+
+
 </section><section data-markdown>
 
-**Title**
--- 
+* Judgments are expressed in propositions
+* Judgment is the act of the mind (can be inner, private) while propositions are expressed in language, math, symbols, etc. 
+
+
+* Kinds of Propositions 
+	* simple; 
+	* complex; 
+		* hypothetical, (if-then)
+		* disjunctive, (or)
+		* conjunctive (and)
+
+
+
+
+
+
+</section><section data-markdown>
+
+## **Non-declarative sentences**
+
+* imperative, 
+- interrogative, 
+- exclamatory, 
+- performative 
+- (i.e., command, question, exclamation, and act)
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+* **Only propositions contain truth!**
+
+* Words are neither true nor false
+* Arguments (strictly speaking) are not true or false (only the conclusion is!)
+* Truth resides in things too... 
+	* true money (not counterfeit)
+	* true Van Gogh (not a fake)
+	* true piety (not false piety) 
+	* true God (faithful, and trustworthy, and real)
+
+* Logical truth is the correspondance (of thought or word) to reality
+	* "To say of what is, that it is"
+		"and to say of what is not, that it is not"
+
+
+
+
+</section><section data-markdown>
+
+**Four Kinds of Categorical Propositions**
+
+Memorize this: 
+
+
+| Letter        | amount      | Example | 
+|---------------|-------------|--------|
+| A  |     Term    | universal | 
+| Judgment      | Sentence    | True  |
+| Reasoning     | Argument    | Valid |
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+## **Title**
 
 
 * List
@@ -661,15 +804,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-
-
-
-
-
 </section><section data-markdown>
 
-**Title**
--- 
+## **Title**
 
 
 * List
@@ -683,23 +820,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-**Title**
--- 
-
-
-* List
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
+## **Title**
 
 * List
 
@@ -744,13 +865,26 @@ Some truths are necessary -- they have to be true and can be known with certaint
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 	<section data-markdown>
 
+
+
+# Intro to Logic
+
+**St Athanasius College** 
+
+**2025** 
+
 ## Day 3 - Arguments 
 
 </section>
 <section data-markdown>
 
 
-Blank? 
+**Title**
+
+
+* List
+
+
 
 
 </section><section data-markdown>
@@ -884,6 +1018,12 @@ Blank?
 <section data-markdown>
 
 
+# Intro to Logic
+
+**St Athanasius College** 
+
+**2025** 
+
 ## Day 4 - Complex Arguments 
 
 
@@ -950,6 +1090,13 @@ Blank?
 
 <section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
 <section data-markdown>
+
+
+# Intro to Logic
+
+**St Athanasius College** 
+
+**2025** 
 
 ## Day 5 - Applying Logic 
 
