@@ -19,19 +19,18 @@ theme: league
 </section><section data-markdown>
 
 
-## Day 1 - All of Logic Overview
+# Day 1 - All of Logic Overview
 
 
 ---
 
-<font size: 5em;>
 
-**Intro to Logic, **St Athanasius College, 2025** 
-
-</font>
+**Intro to Logic, St Athanasius College, 2025**
 
 
 ---
+
+
 
 
 
@@ -47,18 +46,11 @@ theme: league
 <section data-markdown> 
 
 
-
-
-
-</section><section data-markdown>
-
-
 ## Introductions
 
 * Who are you? 
 * Who are me? 
 * Will this class be worth my time? 
-
 
 
 
@@ -72,6 +64,7 @@ theme: league
 * Yes! Why? 
 
 * Because... logic is *inevitable* 
+* Five 
 
 
 </section><section data-markdown>
@@ -426,7 +419,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-## Day 1 WRAPPING UP 
+# Day 1 WRAPPING UP 
 
 * Questions?
 * Exercises... 
@@ -554,14 +547,12 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 ---
 
-<font size: 5em;>
 
-**Intro to Logic, **St Athanasius College, 2025** 
-
-</font>
+**Intro to Logic, St Athanasius College, 2025**
 
 
 ---
+
 
 
 
@@ -824,8 +815,11 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-* Judgments are expressed in propositions
+## Judgment (thought), proposition (language), sentence (writing) 
+
+* Judgments are *expressed* in propositions
 * Judgment is the act of the mind (can be inner, private) while propositions are expressed in language, math, symbols, etc. 
+* Sentences are expressions of propositions: "Fear "
 
 
 * Kinds of Propositions 
@@ -882,11 +876,12 @@ Some truths are necessary -- they have to be true and can be known with certaint
 Memorize this: 
 
 
-| Letter        | amount      | Example | 
-|---------------|-------------|--------|
-| A  |     Term    | universal | 
-| Judgment      | Sentence    | True  |
-| Reasoning     | Argument    | Valid |
+| Letter        | Valence      | Scope 	|
+|---------------|--------------|--------|
+| A  			|  Positive  | Universal | 
+| E 	        |  Negative    | Particular  |
+| I 		    | Positive    | Universal |
+| O 		    | Negative   | Particular |
 
 
 
@@ -953,7 +948,7 @@ Memorize this:
 </section><section data-markdown>
 
 
-## Day 2 WRAPPING UP 
+# Day 2 WRAPPING UP 
 * Questions?
 * Exercises from Kreeft (tbd)
 
@@ -977,21 +972,20 @@ Memorize this:
 
 
 
-## Day 3 - Arguments 
-
-
----
-
-<font size: 5em;>
-
-**Intro to Logic, **St Athanasius College, 2025** 
-
-</font>
+# Day 3 - Arguments 
 
 
 ---
 
 
+**Intro to Logic, St Athanasius College, 2025**
+
+
+---
+
+
+
+* Outline 
 * The core of logic
 * More content!
 
@@ -1140,19 +1134,16 @@ Memorize this:
 <section data-markdown>
 
 
-## Day 4 - Complex Arguments 
+# Day 4 - Complex Arguments 
+
+---
+
+
+**Intro to Logic, St Athanasius College, 2025**
 
 
 ---
 
-<font size: 5em;>
-
-**Intro to Logic, **St Athanasius College, 2025** 
-
-</font>
-
-
----
 
 
 * Outline for the day 
@@ -1210,7 +1201,7 @@ Memorize this:
 
 
 
-## Day 4 WRAPPING UP 
+# Day 4 WRAPPING UP 
 * Questions?
 * Exercises
 
@@ -1225,38 +1216,22 @@ Memorize this:
 <section data-markdown>
 
 
-## Day 5 - Applying Logic 
+# Day 5 - Applying Logic 
 
 
 ---
 
-<font size: 5em;>
 
-**Intro to Logic, **St Athanasius College, 2025** 
-
-</font>
+**Intro to Logic, St Athanasius College, 2025**
 
 
 ---
+
 
 
 * Outline for the day! 
 * Item 2
 
-</section><section data-markdown>
-
-**Title**
-
-
-
-* List
-
-
-
-
-
-
-
 
 </section><section data-markdown>
 
@@ -1303,29 +1278,27 @@ Memorize this:
 
 
 
-
-
-
-
-
-
-
-
-
 </section><section data-markdown>
 
+**Title**
 
-<font size="5">
 
-**Intro to Logic** 
 
-**St Athanasius College** 
+* List
 
-**2025** 
 
-</font>
 
-* Outline for the day 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1344,6 +1317,10 @@ Memorize this:
 
 
 * List
+
+
+
+
 </section><section data-markdown>
 
 **Title**
@@ -1368,7 +1345,7 @@ Memorize this:
 </section><section data-markdown>
 
 
-## Day 5 WRAPPING UP 
+# Day 5 WRAPPING UP 
 * Questions?
 * Exercises
 
