@@ -852,7 +852,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-* **Only propositions contain truth!**
+**Only propositions contain truth!**
+
 
 * Words are neither true nor false
 * Arguments (strictly speaking) are not true or false (only the conclusion is!)
@@ -862,9 +863,17 @@ Some truths are necessary -- they have to be true and can be known with certaint
 	* true piety (not false piety) 
 	* true God (faithful, and trustworthy, and real)
 
+
+
+
+</section><section data-markdown>
+
+**Correspondance**
+
+
 * Logical truth is the correspondance (of thought or word) to reality
-	* "To say of what is, that it is"
-		"and to say of what is not, that it is not"
+
+>"To say of what is, that it is and to say of what is not, that it is not"
 
 
 
@@ -886,6 +895,19 @@ Memorize this:
 
 
 
+</section><section data-markdown>
+
+**Four Kinds of Categorical Propositions**
+
+Memorize this: 
+
+
+| Letter        | Example      | 
+|---------------|--------------|
+| A  			|  All men are mortal. 		|
+| E 	        |  No men are winged 		|
+| I 		    | Some men are blonde 		| 
+| O 		    | Some men are not brunette | 
 
 
 
