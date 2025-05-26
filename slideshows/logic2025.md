@@ -24,18 +24,16 @@ theme: league
 
 ---
 
-<font size: 9em>
+<font size: 9em;>
 
-<p>  **Intro to Logic** </p>
+**Intro to Logic** 
 
-<p> **St Athanasius College**  </p>
+**St Athanasius College** 
 
-<p> **2025** </p>
+**2025** 
 
 </font>
 
-<p>
-<p>
 
 
 
@@ -556,21 +554,18 @@ Some truths are necessary -- they have to be true and can be known with certaint
 	<section data-markdown>
 
 
-## Day 2 - Acts of the Mind 
+# Day 2 - Acts of the Mind
 
-<font size: 9em>
+<font size: 9em;>
 
-<p>  **Intro to Logic** </p>
+**Intro to Logic** 
 
+**St Athanasius College** 
 
-<p> **St Athanasius College**  </p>
-
-<p> **2025** </p>
+**2025** 
 
 </font>
 
-<p>
-<p>
 
 * First act of the mind: understanding
 * Second act: judgment
@@ -982,21 +977,20 @@ Memorize this:
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 	<section data-markdown>
 
-<font size: 9em>
-
-<p>  **Intro to Logic** </p>
 
 
-<p> **St Athanasius College**  </p>
+## Day 3 - Arguments 
 
-<p> **2025** </p>
+
+<font size: 9em;>
+
+**Intro to Logic** 
+
+**St Athanasius College** 
+
+**2025** 
 
 </font>
-
-<p>
-<p>
-
-
 
 
 * The core of logic
@@ -1150,20 +1144,15 @@ Memorize this:
 ## Day 4 - Complex Arguments 
 
 
-<font size: 9em>
+<font size: 9em;>
 
-<p>  **Intro to Logic** </p>
+**Intro to Logic** 
 
+**St Athanasius College** 
 
-<p> **St Athanasius College**  </p>
-
-<p> **2025** </p>
+**2025** 
 
 </font>
-
-<p>
-<p>
-
 
 * Outline for the day 
 
@@ -1321,20 +1310,16 @@ Memorize this:
 
 </section><section data-markdown>
 
-<font size: 9em>
 
-<p>  **Intro to Logic** </p>
+<font size="5">
 
+**Intro to Logic** 
 
-<p> **St Athanasius College**  </p>
+**St Athanasius College** 
 
-<p> **2025** </p>
+**2025** 
 
 </font>
-
-<p>
-<p>
-
 
 * Outline for the day 
 
