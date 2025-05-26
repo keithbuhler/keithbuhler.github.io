@@ -336,7 +336,23 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-**Title**
+**What is Euthyphro's claim #1**
+
+* Holiness (piety, righteousness) is 'whatever is loved by the gods'
+* Problem #1: the gods disagree
+
+
+</section><section data-markdown>
+
+
+** Claim #2** 
+
+* Holiness (piety, righteousness) is 'whatever is loved by *all* the gods'
+* Problem #2: which way does the arrow of causation go? 
+
+
+* Do the gods recognize holiness and love it? (example, calling the car red)
+* Do the gods love a thing and it becomes holy? (example, painting my car my favorite color)
 
 
 
@@ -350,64 +366,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Notes here on the reading!**
 
 
 
@@ -419,7 +378,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-# Day 1 WRAPPING UP 
+# Day 1 PAUSE
 
 * Questions?
 * Exercises... 
@@ -435,7 +394,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 >All men are bipeds and Edgar is a man, so Edgar is a biped.
 
 - What is the conclusion? 
-- Valid inference? true premises? clear terms?
+- Valid inference? True premises? Clear terms?
 
 
 
@@ -456,7 +415,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 >Jean Jones is seven feet tall because all San Franciscans are seven feet tall and Jean Jones is a San Franciscan.
 
-- Valid inference? true premises? clear terms?
+- What's the conclusion?
+- Valid inference? True premises? Clear terms?
 
 </section><section data-markdown>
 **Example 3**
@@ -521,6 +481,17 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 - What is the conclusion? 
 - Valid inference? true premises? clear terms?
+
+
+
+</section><section data-markdown>
+
+
+# Day 1 Wrapping up
+
+* Questions, comments?
+* 
+
 
 
 
@@ -636,7 +607,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-### **Title**
+### Title
 
 
 * Content
@@ -910,6 +881,7 @@ Memorize this:
 | O 		    | Some men are not brunette | 
 
 
+> A shortcut: nEgO (I negate, in Latin); and AffIrmo (I affirm, in Latin)
 
 
 
@@ -919,24 +891,17 @@ Memorize this:
 
 </section><section data-markdown>
 
-### **Title**
+### **Contradiction**
 
 
-* Content
+* There are multiple ways to be 'incompatible'!
+* A and O *contradict* 
+* E and I *contradict* 
 
 
-
-
-
-
-
-
-</section><section data-markdown>
-
-## **Title**
-
-
-* List
+* "All holy things are "set aside" for God." 
+* As long as there is *thing that is both holy and not set aside*, we have a contradiction. 
+* Finding contradictions is a wonderful means to discovering truth (dismantling false beliefs)
 
 
 
@@ -947,14 +912,48 @@ Memorize this:
 
 </section><section data-markdown>
 
-## **Title**
-
-* List
+## Exercises (157)
 
 
+* Let's categorize some propositions!
+
+1. Is it a proposition or not?
+2. Is it A E I or O? 
+3. What is the subject and what the predicate? 
 
 
 
+
+
+
+
+
+</section><section data-markdown>
+
+## **Distribution** (163) If we have time
+
+* Distribution refers to the term, whether it refers to all members of the class (distributed)
+* Or only some members of the class (undistributed)
+* Analogy of distributing pamphlets
+
+
+
+
+
+</section><section data-markdown>
+
+
+# Day 2 - Review
+
+
+* Conception is first act of mind; simply aprehending the essence of a thing
+* Judgment is the second act of the mind; combining concepts (predication)
+* Conception makes us higher than animals, and computers (including LLMs!), by abstraction
+* Questions aim at truths, abstract truths
+* Judgments are expressed in propositions; S is P (or S is not P), etc.
+* Propositions can be simple or complex
+* Propositions are true or false
+* Propositions can be universal or particular, positive or negative (A E I O) 
 
 
 
@@ -1006,8 +1005,6 @@ Memorize this:
 ---
 
 
-
-* Outline 
 * The core of logic
 * More content!
 
@@ -1017,37 +1014,21 @@ Memorize this:
 <section data-markdown>
 
 
-**Title**
+### Argumentation (1865-199)
 
 
-* List
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-* List
-
-
-
-
-
-
-
+* What is reason
 
 
 
 
 </section><section data-markdown>
 
-**Title**
+### Deduction
 
 
-* List
+* Content
+
 
 
 
@@ -1067,35 +1048,10 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+### Tautology
 
 
-* List
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-* List
-
-
+* Content
 
 
 
@@ -1113,12 +1069,10 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+### Detecting arguments 
 
 
-* List
-
-
+* Content
 
 
 
@@ -1130,6 +1084,65 @@ Memorize this:
 
 
 
+</section><section data-markdown>
+
+### Truth and validity 
+
+
+* Content
+
+
+
+
+</section><section data-markdown>
+
+### NECESSITY
+
+
+* Content
+
+
+
+
+</section><section data-markdown>
+
+### Categorical syllogisms, terms, premises
+
+
+* Content
+
+
+
+</section><section data-markdown>
+
+* Take a breath... 
+
+
+</section><section data-markdown>
+
+### Induction
+
+
+* Content
+
+
+
+
+</section><section data-markdown>
+
+### Abduction (Explantions)
+
+1. Buhler: Abduction (inference to best explanation) — CS. Pierce
+    1. If A -> B, B, therefore A.
+        1. The surprising fact, *C*, is observed.
+        2. But if *A* were true, *C* would be a matter of course.
+        3. Hence, there is reason to suspect that *A* is true.
+    2. Inference to best explanation (Peter Lipton)
+        1. Philosophy, psychology, economics, sociology, etc.
+    3. “Guessing”
+        1. Daily life
+    4. Hypothesizing
+        1. Science, philosophy, theology etc.
 
 
 
@@ -1141,6 +1154,8 @@ Memorize this:
 
 
 # Day 3 WRAPPING UP 
+
+* Review (check outline)
 * Questions?
 * Exercises
 
@@ -1178,24 +1193,12 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+### Title
 
 
-
-* List
-
+* Content
 
 
-
-
-
-</section><section data-markdown>
-
-**Title**
-
-
-
-* List
 
 
 
@@ -1206,11 +1209,29 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+### Title
+
+
+* Content
 
 
 
-* List
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Title
+
+
+* Content
+
 
 
 
