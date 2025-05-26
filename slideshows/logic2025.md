@@ -24,20 +24,16 @@ theme: league
 
 ---
 
-<font size: 9em;>
+<font size: 5em;>
 
-**Intro to Logic** 
-
-**St Athanasius College** 
-
-**2025** 
+**Intro to Logic, **St Athanasius College, 2025** 
 
 </font>
 
 
-
-
 ---
+
+
 
 * Introductions
 * Why logic? And how? 
@@ -556,15 +552,17 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 # Day 2 - Acts of the Mind
 
-<font size: 9em;>
+---
 
-**Intro to Logic** 
+<font size: 5em;>
 
-**St Athanasius College** 
-
-**2025** 
+**Intro to Logic, **St Athanasius College, 2025** 
 
 </font>
+
+
+---
+
 
 
 * First act of the mind: understanding
@@ -982,15 +980,16 @@ Memorize this:
 ## Day 3 - Arguments 
 
 
-<font size: 9em;>
+---
 
-**Intro to Logic** 
+<font size: 5em;>
 
-**St Athanasius College** 
-
-**2025** 
+**Intro to Logic, **St Athanasius College, 2025** 
 
 </font>
+
+
+---
 
 
 * The core of logic
@@ -1144,17 +1143,20 @@ Memorize this:
 ## Day 4 - Complex Arguments 
 
 
-<font size: 9em;>
+---
 
-**Intro to Logic** 
+<font size: 5em;>
 
-**St Athanasius College** 
-
-**2025** 
+**Intro to Logic, **St Athanasius College, 2025** 
 
 </font>
 
+
+---
+
+
 * Outline for the day 
+* Point 2 
 
 
 
@@ -1226,18 +1228,20 @@ Memorize this:
 ## Day 5 - Applying Logic 
 
 
-<font size="5">
+---
 
-**Intro to Logic** 
+<font size: 5em;>
 
-**St Athanasius College** 
-
-**2025** 
+**Intro to Logic, **St Athanasius College, 2025** 
 
 </font>
 
 
+---
+
+
 * Outline for the day! 
+* Item 2
 
 </section><section data-markdown>
 
