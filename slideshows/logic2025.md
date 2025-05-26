@@ -39,6 +39,7 @@ theme: league
 * All of logic in 2 pages(!) 
 * Acts of the mind, big picture
 * Review, discussion
+* (Approx 28 slides + Euthyphro) %
 
 
 
@@ -64,12 +65,13 @@ theme: league
 * Yes! Why? 
 
 * Because... logic is *inevitable* 
-* Five 
+* Five points %
 
 
 </section><section data-markdown>
 
 * A personal anecdote... 
+* %
 
 
 
@@ -490,7 +492,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 # Day 1 Wrapping up
 
 * Questions, comments?
-* 
+
 
 
 
@@ -529,6 +531,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 * First act of the mind: understanding
 * Second act: judgment
+* (Approx 28 slides + Euthyphro)
 
 </section>
 
@@ -993,7 +996,7 @@ Memorize this:
 
 
 
-# Day 3 - Arguments 
+# Day 3 - Reasoning 
 
 
 ---
@@ -1005,8 +1008,8 @@ Memorize this:
 ---
 
 
-* The core of logic
-* More content!
+* Arguments: The core of logic
+* Outline here! %
 
 
 
@@ -1014,10 +1017,31 @@ Memorize this:
 <section data-markdown>
 
 
-### Argumentation (1865-199)
+### Argumentation (186-199)
 
 
-* What is reason
+* What is reason? 
+* "man is a rational animal" 
+	* The term 'man' is inclusive
+	* 'rational' is inclusive too!
+* 'Rationality' includes wisdom, intuition, essence, conscience, self-knowledge, aesthetics -- *and math* and logic
+
+
+
+
+
+<section data-markdown>
+
+
+### What can reason do? 
+
+* Reason allows us to know what must be true, hypothetically (little green men on mars), beyond our experience
+* Reason allows us to know universal truths (2 + 2)
+* Reason allows us to know necessary and unchangable truths
+
+
+
+
 
 
 
@@ -1027,7 +1051,9 @@ Memorize this:
 ### Deduction
 
 
-* Content
+* Deduction is the ultimate foundation of the *syllogism*
+* The syllogism is the 'atom' of reasonining, the building block of arguments, the cells of the rational organism
+* 
 
 
 
@@ -1193,7 +1219,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-### Title
+### Title %
 
 
 * Content
@@ -1209,7 +1235,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-### Title
+### Title %
 
 
 * Content
@@ -1227,7 +1253,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-### Title
+### Title %
 
 
 * Content
@@ -1278,7 +1304,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1293,7 +1319,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1308,7 +1334,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1323,7 +1349,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1347,7 +1373,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1355,7 +1381,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1366,21 +1392,21 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
 * List
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
 * List
 </section><section data-markdown>
 
-**Title**
+**Title** %
 
 
 
@@ -1390,7 +1416,7 @@ Memorize this:
 
 # Day 5 WRAPPING UP 
 * Questions?
-* Exercises
+* Exercises %
 
 
 
