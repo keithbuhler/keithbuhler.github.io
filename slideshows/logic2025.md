@@ -489,7 +489,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-# Day 1 Wrapping up
+## WRAPPING UP day 1
 
 * Questions, comments?
 
@@ -512,7 +512,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section data-background="http://www.keithbuhler.com/images/logic-aristotle.jpg" ><!--Begin day 2-->
+<section data-background="http://www.keithbuhler.com/images/logic-aristotle.png" ><!--Begin day 2-->
 	<section data-markdown>
 
 
@@ -1120,7 +1120,8 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 </section><section data-markdown>
 
 
-# Day 2 WRAPPING UP 
+## WRAPPING UP day 2
+
 * Questions?
 * Exercises from Kreeft (tbd)
 
@@ -1254,15 +1255,14 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 </section><section data-markdown>
 
 
-# Day 3 WRAPPING UP 
+## WRAPPING UP day 3
 
 * Review (check outline)
 * Questions?
 * Exercises
 
 </section>
-</section>
-</section> <!--Day 3 end-->
+</section> </section> <!--Day 3 end-->
 
 
 
@@ -1296,28 +1296,11 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-### Title  <!--Unfinished section-->
+### Syllogisms  <!--Unfinished section-->
 
 
-* Content
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Title <!--Unfinished section-->
-
-
-* Content
-
-
+* Structure
+* Major premise, minor premise, conclusion
 
 
 
@@ -1330,13 +1313,10 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-### Title <!--Unfinished section-->
+### Demonstrative syllagisms (230) 
 
 
-* Content
-
-
-
+*  <!--Unfinished section-->
 
 
 
@@ -1347,7 +1327,28 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-# Day 4 WRAPPING UP 
+
+
+</section><section data-markdown>
+
+### Compound Syllogisms
+
+
+*  <!--Unfinished section-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+# WRAPPING UP day 4
 * Questions?
 * Exercises
 
@@ -1375,32 +1376,18 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-* Outline for the day! 
-* Item 2
+* Analyzing arguments
+* Pursuit of truth 
+* St Gregory (logic and theology)
+* An exercise on nearly everything (336)
 
 
 </section><section data-markdown>
 
-**Title** <!--Unfinished section-->
+### Logic and theology 
 
 
-
-* List
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-**Title** <!--Unfinished section-->
-
-
-
-* List
+* Discuss
 
 
 
@@ -1411,11 +1398,10 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-**Title** <!--Unfinished section-->
+### Logic and theology 
 
 
-
-* List
+* Discuss
 
 
 
@@ -1426,11 +1412,23 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-**Title** <!--Unfinished section-->
+### Logic and cosmology 
+
+
+* Discuss
 
 
 
-* List
+
+
+
+
+</section><section data-markdown>
+
+### Logic and anthropology
+
+
+* Discuss
 
 
 
@@ -1450,34 +1448,30 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-**Title** <!--Unfinished section-->
+### Logic and epistemology 
+
+
+* Discuss
 
 
 
-* List
-
-</section><section data-markdown>
-
-**Title** <!--Unfinished section-->
-
-
-
-* List
 
 
 
 
 </section><section data-markdown>
 
-**Title** <!--Unfinished section-->
+### Writing a socratic dialogue!
+
+
+* Instructions
 
 
 
-* List
+
 </section><section data-markdown>
 
-**Title** <!--Unfinished section-->
-
+### Final exam
 
 
 * List
@@ -1490,8 +1484,16 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 * List
 </section><section data-markdown>
 
+**Title** <!--Unfinished section-->
 
-# Day 5 WRAPPING UP 
+
+
+* List
+</section><section data-markdown>
+
+
+## WRAPPING UP day 5
+
 * Questions?
 * Exercises <!--Unfinished exercises-->
 
