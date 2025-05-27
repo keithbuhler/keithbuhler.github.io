@@ -1125,7 +1125,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 * Questions?
 * Exercises from Kreeft (tbd)
 
-	</section> <!--end of last slide-->
+</section> <!--end of last slide-->
 </section> <!--Day 2 end-->
 
 
@@ -1577,20 +1577,6 @@ prosperous in this life.
 
 
 
-</section><section data-markdown>
-
-### Kinds of argument
-
-
-* Four causes
-* Classification of arguments
-	* Form
-	* Causality
-	* Direction of movement
-	* Length
-	* Strategy
-	* Cumulative
-
 
 
 
@@ -1605,8 +1591,8 @@ prosperous in this life.
 * Questions?
 * Exercises
 
-</section>
-</section></section> <!--Day 3 end-->
+</section> <!--last slide-->
+</section> <!--Day 3 end-->
 
 
 
@@ -1617,7 +1603,7 @@ prosperous in this life.
 <section data-markdown>
 
 
-# Day 4 - Complex Arguments 
+# Day 4 - Fallacies (cont'd) and Complex Arguments 
 
 ---
 
@@ -1629,8 +1615,10 @@ prosperous in this life.
 
 
 
-* Outline for the day 
-* Point 2 
+* Syllogisms
+* Chains or clusters of syllagisms
+* Partially implied syllogisms (Entheymemes)
+
 
 
 
@@ -1667,6 +1655,20 @@ prosperous in this life.
 
 
 
+
+</section><section data-markdown>
+
+### Kinds of argument
+
+
+* Four causes
+* Classification of arguments
+	* Form
+	* Causality
+	* Direction of movement
+	* Length
+	* Strategy
+	* Cumulative
 
 
 
