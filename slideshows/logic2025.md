@@ -512,7 +512,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Begin day 2-->
+<section data-background="http://www.keithbuhler.com/images/logic-aristotle.jpg" ><!--Begin day 2-->
 	<section data-markdown>
 
 
@@ -1358,7 +1358,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Day 5 Begin-->
+<section data-background="http://www.keithbuhler.com/images/logic-maximos.png" ><!--Day 5 Begin-->
 <section data-markdown>
 
 
