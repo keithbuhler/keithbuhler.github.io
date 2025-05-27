@@ -992,7 +992,7 @@ Memorize this:
 
 
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
-	<section data-markdown>
+<section data-markdown>
 
 
 
@@ -1009,12 +1009,11 @@ Memorize this:
 
 
 * Arguments: The core of logic
-* Outline here! %
+* Outline here! 
 
 
 
-</section>
-<section data-markdown>
+</section><section data-markdown>
 
 
 ### Argumentation (186-199)
@@ -1214,7 +1213,8 @@ Memorize this:
 
 
 
-</section><section data-markdown>
+</section>
+<section data-markdown>
 
 
 </section><section data-markdown>
