@@ -975,7 +975,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-<section data-markdown>
+</section><section data-markdown>
 
 
 ### What can reason do? 
@@ -1140,6 +1140,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
+
 <section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
 <section data-markdown>
 
@@ -1288,7 +1289,7 @@ Educated “Guessing” in Daily life
 </section><section data-markdown>
 
 
-#### Abduction
+### Abduction
 
 
 
@@ -1327,25 +1328,18 @@ Educated “Guessing” in Daily life
 * Weak induction:  "Birth rates have been dropping for over 10 years; in 50 years, the population of [Country X] will be zero." (Premise relevant, but not connected enough)
 * Ambiguity: "Covid deaths have increased in 2024. Therefore, Covid is still dangerous." (Does 'covid death' mean people died and also had Covid or deaths *due to Covid*)
 
-
-
-
-
-1. Fallacies of language
-        3. 2. Fallacies of diversion
-        4. 3. Fallacies of oversimplification
-        5. 4. Fallacies of argumentation
-
-
-
 </section><section data-markdown>
 
-**Fallacy**
+### Difference between formal and material
 
 - Formal fallacies = your argument is invalid.
 - Material fallacies = something else is wrong with your argument.
 
+
+
 </section><section data-markdown>
+
+
 
 ### 23 of the 49 Fallacies
 
@@ -1374,15 +1368,27 @@ Educated “Guessing” in Daily life
 22. Confusing Quality / Quantity
 23. Confusing Abstract / Concrete
 
+
+
+
+
+
 </section><section data-markdown>
 
 ### Fallacies of Language
 
 - **Equivocation**.  An equivocation trades upon the use of an ambiguous word or phrase in one of its meanings in one of the propositions of an argument but also in another of its meanings in a second proposition. Example: "Really exciting novels are rare. But rare books are expensive.Therefore, Really exciting novels are expensive."
 
+
+
+
+
 </section><section data-markdown>
 
 - **Amphiboly**. An amphiboly can occur even when every term in an argument is univocal, if the grammatical construction of a sentence creates its own ambiguity. Example: "A reckless motorist Thursday struck and injured a student who was jogging through the campus in his pickup truck. Therefore, it is unsafe to jog in your pickup truck."
+
+
+
 
 </section><section data-markdown>
 
@@ -1394,6 +1400,9 @@ Educated “Guessing” in Daily life
 - "Radical" vs. "Pious" Believer. 
 - "Rat" vs. "Whistle-blower"
 
+
+
+
 </section><section data-markdown>
 
 
@@ -1401,35 +1410,56 @@ Educated “Guessing” in Daily life
 
 1. **Ad Hominem.** (Attacking the person): This fallacy occurs when, instead of addressing someone's argument or position, you irrelevantly attack the person or some aspect of the person who is making the argument. The fallacious attack can also be direct to membership in a group or institution. Example: "Socrates' arguments about human excellence are rubbish. What could a man as ugly as he know about human excellence." "No, I will not reply. I see no need to defend my views against the objections of ignoramuses."
 
+
+
+
 </section><section data-markdown>
 
 
 2. **Appeal to Ignorance**. This fallacy occurs when you argue that your conclusion must be true, because there is no evidence against it. This fallacy wrongly shifts the burden of proof away from the one making the claim. Example: "You know that scientists can't prove that UFO's do not visit the Earth, so it makes sense to believe in them." "Since all who have tried to prove freedom of the will have failed, we are safe in assuming we are not free."
 
+
+
+
 </section><section data-markdown>
 
 3. **Appeal to (Irrelevant) Authority**. You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject. Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities. However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject, when the authority cannot be trusted to tell the truth, when authorities disagree on this subject (except for the occasional lone wolf), when the reasoner misquotes the authority, and so forth. Example:"The moon is covered with dust because the president of our neighborhood association said so." "Pacifism is a good idea because the brilliant scientist Einstein advocated it."
+
+
+
 
 </section><section data-markdown>
 
 - **Ad Populum (Appeal to the People, Appeal to Majority, Ad Numerum, Appeal to the Gallery, Appeal to the Masses, Argument from Popularity, Argumentum ad Populum, Common Practice, Mob Appeal, Past Practice, Peer Pressure, and Traditional Wisdom.)**. 
 
 
+
+
 </section><section data-markdown>
 
 - **Ad Populum**. This fallacy claims that the conclusion is correct simply because it's what most everyone believes. Agreement with popular opinion is not necessarily a reliable sign of truth, and deviation from popular opinion is not necessarily a reliable sign of error, but if you assume it is and do so with enthusiasm, then you are using this fallacy.  The "too strongly" mentioned above is important in the description of the fallacy because what most everyone believes is, for that reason, somewhat likely to be true, all things considered. However, the fallacy occurs when this degree of support is overestimated. Example: "You should turn to channel 6. It's the most watched channel this year."
+
+
 
 </section><section data-markdown>
 
 - **Appeal to Motive**. This fallacy assumes a motive behind the speaker arguing the conclusion, and then dismisses the conclusion as false. Examples: "You're only arguing that taxes should be abolished because you are an anarchist and hate the government." "You're just saying that education is important for children because you are a principal and you'd lose your job if we saw through the lies."
 
+
+
+
 </section><section data-markdown>
 
 - **Faulty Analogy**. This fallacy consists in assuming that because two things are alike in one or more respects, they are necessarily alike in some other respect. Examples: "Medical Student: "No one objects to a physician looking up a difficult case in medical books. Why, then, shouldn't students taking a difficult examination be permitted to use their textbooks?" "Because human bodies become less active as they grow older, and because they eventually die, it is reasonable to expect that political bodies will become less and less active the longer they are in existence, and that they too will eventually die."
 
+
+
+
 </section><section data-markdown>
 
 -  **Group think**. A reasoner uses the Group Think Fallacy if he or she substitutes pride of membership in the group for reasons to support the group's policy. If that's what our group thinks, then that's good enough for me. It's what I think, too. "Blind" patriotism is a rather nasty version of the fallacy. Example: "We K-Mart employees know that K-Mart brand items are better than Wall-Mart brand items because, well, they are from K-Mart, aren't they?"; "97% of scientists agree that human caused climate change is real."
+
+
 
 </section><section data-markdown>
 
@@ -1576,7 +1606,7 @@ prosperous in this life.
 * Exercises
 
 </section>
-</section> </section> <!--Day 3 end-->
+</section></section> <!--Day 3 end-->
 
 
 
