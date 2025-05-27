@@ -39,7 +39,7 @@ theme: league
 * All of logic in 2 pages(!) 
 * Acts of the mind, big picture
 * Review, discussion
-* (Approx 28 slides + Euthyphro) %
+* (Approx 28 slides + Euthyphro) <!--Unfinished count up slides-->
 
 
 
@@ -65,13 +65,13 @@ theme: league
 * Yes! Why? 
 
 * Because... logic is *inevitable* 
-* Five points %
+* Five points <!--Unfinished section -- add my personal notes-->
 
 
 </section><section data-markdown>
 
 * A personal anecdote... 
-* %
+<!--Unfinished add my notes-->
 
 
 
@@ -531,7 +531,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 * First act of the mind: understanding
 * Second act: judgment
-* (Approx 28 slides + Euthyphro)
+* Third act: reasoning
+* (Approx 30 slides) 
 
 </section>
 
@@ -610,120 +611,105 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-### Title
+### Definitions - Exercises (130)
 
-
-* Content
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### **Title**
-
-
-* Content
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### **Title**
-
-
-* Content
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### **Title**
-
-
-* Content
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### **Title**
-
-
-* Content
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### **Title**
-
-
-* Content
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-
-
-
-
-
-
-### Exercises (130)
-
-* Define logic!
+* Define logic! (wee!)
 * Define science
 * Define deduction
 * Define abstraction
 * Define death
 * Define charity 
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### **Title**
+
+
+* Content
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### **Title**
+
+
+* Content
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### **Title**
+
+
+* Content
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### **Title**
+
+
+* Content
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### **Title**
+
+
+* Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -899,17 +885,46 @@ Memorize this:
 
 * There are multiple ways to be 'incompatible'!
 * A and O *contradict* 
-* E and I *contradict* 
-
 
 * "All holy things are "set aside" for God." 
 * As long as there is *thing that is both holy and not set aside*, we have a contradiction. 
+
 * Finding contradictions is a wonderful means to discovering truth (dismantling false beliefs)
 
 
 
+</section><section data-markdown>
+
+### **Contradiction**
+
+* A and O *contradict* 
+* E and I *contradict* 
 
 
+No mammals lay eggs. 
+Some mammals lay eggs. 
+
+
+Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_auto,w_1400/f_auto/q_auto/v1/website-media/news-blogs/platypus_naturepicturelibrary?q=75)
+
+
+
+</section><section data-markdown>
+
+### **Contradiction**
+
+
+* A and E *are contrary* though.
+
+
+"All logic is useful. No logic is useful."  (Sounds like a contradiction but it's merely contrary.) 
+
+* I and O *are compatible*. 
+
+"A"
+
+* A and I *are alterns*
+* E and O *are alterns* 
 
 
 
@@ -941,75 +956,6 @@ Memorize this:
 
 
 
-
-
-</section><section data-markdown>
-
-
-# Day 2 - Review
-
-
-* Conception is first act of mind; simply aprehending the essence of a thing
-* Judgment is the second act of the mind; combining concepts (predication)
-* Conception makes us higher than animals, and computers (including LLMs!), by abstraction
-* Questions aim at truths, abstract truths
-* Judgments are expressed in propositions; S is P (or S is not P), etc.
-* Propositions can be simple or complex
-* Propositions are true or false
-* Propositions can be universal or particular, positive or negative (A E I O) 
-
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-
-# Day 2 WRAPPING UP 
-* Questions?
-* Exercises from Kreeft (tbd)
-
-	</section> <!--end of last slide-->
-</section> <!--Day 2 end-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
-<section data-markdown>
-
-
-
-# Day 3 - Reasoning 
-
-
----
-
-
-**Intro to Logic, St Athanasius College, 2025**
-
-
----
-
-
-* Arguments: The core of logic
-* Outline here! 
 
 
 
@@ -1143,6 +1089,78 @@ Memorize this:
 * Take a breath... 
 
 
+
+
+</section><section data-markdown>
+
+
+# Day 2 - Review
+
+
+* Conception is first act of mind; simply aprehending the essence of a thing
+* Judgment is the second act of the mind; combining concepts (predication)
+* Conception makes us higher than animals, and computers (including LLMs!), by abstraction
+* Questions aim at truths, abstract truths
+* Judgments are expressed in propositions; S is P (or S is not P), etc.
+* Propositions can be simple or complex
+* Propositions are true or false
+* Propositions can be universal or particular, positive or negative (A E I O) 
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+
+# Day 2 WRAPPING UP 
+* Questions?
+* Exercises from Kreeft (tbd)
+
+	</section> <!--end of last slide-->
+</section> <!--Day 2 end-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
+<section data-markdown>
+
+
+
+# Day 3 - Fallacies  
+
+
+---
+
+
+**Intro to Logic, St Athanasius College, 2025**
+
+
+---
+
+
+* Induction, abduction
+* Fallacies
+
+
+
 </section><section data-markdown>
 
 ### Induction
@@ -1171,6 +1189,64 @@ Memorize this:
 
 
 
+</section><section data-markdown>
+
+
+### Informal fallacies (68-108) 
+
+* Errors in reasoning not due to form
+* Main sources: irrelevance, weak induction, presumption, ambiguity
+
+
+</section><section data-markdown>
+
+
+### Absurd examples of each 
+
+* Irrelevance: "It's Thursday, therefore you owe me $20."  (Premise irrelevant to conclusion) 
+* Presumption: "I know we disagree, but there's no point; you may as well concede; I've always been right in the past so you know I'm right in this case."
+(Premise is a re-phrasing of the conclusion: you're wrong because you disagree with me)
+* Weak induction:  "The mall is slow, therefore every shop is going to go out of business and the mall will soon close." (Premise relevant, but not connected enough)
+* Ambiguity: "God is love. Love is blind. Ray Charles is blind. Ray Charles is God." ('Love' is a divine energy vs. 'love' is the human tendency to overlook faults.) 
+
+
+
+</section><section data-markdown>
+
+
+### Real life examples of each!
+
+
+* Irrelevance: "We live in the age of the light bulb; we know that sickness is not due to angels or demons."  (Premise irrelevant to conclusion) 
+* Presumption: "The Democratic [or Republican] party has no leadership; that's why they cannot build a strong coalition." (Premise is a re-phrasing of the conclusion: the group is not united because the group is not united)
+* Weak induction:  "Birth rates have been dropping for over 10 years; in 50 years, the population of [Country X] will be zero." (Premise relevant, but not connected enough)
+* Ambiguity: "Covid deaths have increased in 2024. Therefore, Covid is still dangerous." (Does 'covid death' mean people died and also had Covid or deaths *due to Covid*)
+
+
+
+
+
+1. Fallacies of language
+        3. 2. Fallacies of diversion
+        4. 3. Fallacies of oversimplification
+        5. 4. Fallacies of argumentation
+
+
+</section><section data-markdown>
+
+### Kinds of argument
+
+
+* Four causes
+* Classification of arguments
+	* Form
+	* Causality
+	* Direction of movement
+	* Length
+	* Strategy
+	* Cumulative
+
+
 
 
 
@@ -1185,6 +1261,7 @@ Memorize this:
 * Exercises
 
 </section>
+</section>
 </section> <!--Day 3 end-->
 
 
@@ -1192,7 +1269,7 @@ Memorize this:
 
 
 
-<section data-background="http://www.keithbuhler.com/images/matrix.png" ><!--Day 4 Begin-->
+<section data-background="http://www.keithbuhler.com/images/matrix.png"><!--Day 4 Begin-->
 <section data-markdown>
 
 
@@ -1219,7 +1296,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-### Title %
+### Title  <!--Unfinished section-->
 
 
 * Content
@@ -1235,7 +1312,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-### Title %
+### Title <!--Unfinished section-->
 
 
 * Content
@@ -1253,7 +1330,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-### Title %
+### Title <!--Unfinished section-->
 
 
 * Content
@@ -1304,7 +1381,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1319,7 +1396,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1334,7 +1411,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1349,7 +1426,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1373,7 +1450,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1381,7 +1458,7 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1392,21 +1469,21 @@ Memorize this:
 
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
 * List
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
 * List
 </section><section data-markdown>
 
-**Title** %
+**Title** <!--Unfinished section-->
 
 
 
@@ -1416,7 +1493,7 @@ Memorize this:
 
 # Day 5 WRAPPING UP 
 * Questions?
-* Exercises %
+* Exercises <!--Unfinished exercises-->
 
 
 
