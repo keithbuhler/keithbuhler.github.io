@@ -17,8 +17,6 @@ theme: league
 
 
 </section><section data-markdown>
-
-
 # Day 1 - All of Logic Overview
 
 
@@ -45,7 +43,6 @@ theme: league
 
 </section> <!--Intro slide end-->
 <section data-markdown> 
-
 
 ## Introductions
 
@@ -380,7 +377,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 </section><section data-markdown>
 
 
-# Day 1 PAUSE
+### Day 1 PAUSE
 
 * Questions?
 * Exercises... 
@@ -421,6 +418,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 - Valid inference? True premises? Clear terms?
 
 </section><section data-markdown>
+
+
 **Example 3**
 
 > 1. All Oakland Raiders are football players.     
@@ -502,7 +501,6 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-</section><!--End Super intro-->
 </section><!--Day 1 end-->
 
 
