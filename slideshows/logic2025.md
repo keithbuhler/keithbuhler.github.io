@@ -41,7 +41,7 @@ theme: league
 
 
 
-</section> <!--Intro slide end-->
+</section>  <!--Intro slide end-->
 <section data-markdown> 
 
 ## Introductions
@@ -249,6 +249,15 @@ Some truths are self-evident foundations of thinking. For example, the classical
 1. Every thing is identical to itself (A=A)
 2. No thing can be A and not A at the same time in the same respect. (X cannot be A and not-A)
 3. Every affirmation is either true or false. (A=true or A=false)
+
+</section><section data-markdown>
+
+### Three Laws
+
+* A rose is a rose. 
+* The door cannot be both open and shut at the same time in the same respect. 
+* The cat is on the mat -- is either true or false. It can't be neither. 
+
 
 </section><section data-markdown>
 
@@ -500,8 +509,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-
-</section><!--Day 1 end-->
+</section>
+</section> <!--Day 1 end-->
 
 
 
@@ -511,7 +520,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 <section data-background="http://www.keithbuhler.com/images/logic-aristotle.png" ><!--Begin day 2-->
-	<section data-markdown>
+<section data-markdown>
 
 
 # Day 2 - Acts of the Mind
@@ -602,7 +611,15 @@ Some truths are necessary -- they have to be true and can be known with certaint
 * A word is a linguistic expression of a term (any language will do!) 
 * The term 'love' is referred to by 'amore' 'caritas' 'amor' 'lieb' (six *words*, one term)
 * A term is the most basic unit of meaning
-* Terms are not true or false, but clear or unclear
+* Terms are not true or false, but clear or unclear (keep your money in the river bank)
+
+
+</section><section data-markdown>
+
+### Ambiguity
+
+* Terms for *things* that are unclear are just 'unclear': mysterious, numinous, baffling
+* Terms that could refer to either of two things are ambiguous: bank, 
 
 
 
@@ -996,7 +1013,8 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 * Deduction is the ultimate foundation of the *syllogism*
 * The syllogism is the 'atom' of reasonining, the building block of arguments, the cells of the rational organism
-* 
+
+> "All planets orbit the sun. Earth is a planet. Therefore...
 
 
 
@@ -1174,8 +1192,44 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 ### **Induction**
 
 - Simple apprehension, plus induction is used to form basic propositions: 
-- grass is green, tables are hard, the sky is blue, Mom is kind, Fido is soft. 
--
+- Grass is green, tables are hard, the sky is blue, Mom is kind, Fido is soft. 
+
+> Every swan I have seen is white... And I've seen thousands! Therefore... 
+
+
+</section><section data-markdown>
+
+### **Induction**
+
+Some different types of induction: 
+
+> - Generalizations: the Chinese work hard at math
+> - Statistics: 30% of Americans are overweight but not obese
+> - Categorical statements: ducks lay eggs 
+> - Generics: humans have 32 teeth
+
+* Induction admits of exceptions! 
+* Some Chinese don't work hard at math. 40% of Americans are obese; drakes do not lay eggs; and some people have lost teeth or genetically have extra teeth. 
+
+
+
+</section><section data-markdown>
+
+### **Generalizations**
+
+* We tend to favor negative or dangerous generalizations: 
+
+> Always wear repellent; mosquitos carry malaria
+
+Only true of a tiny fraction of mosquitos... but because it's dangerous, it sticks in the mind. 
+
+> I would never move there; that neighborhood has high crime.
+
+LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of perfect peace, and yet it sticks in the mind!
+
+* When it pays to err on the side of caution, we favor generalizations. 
+
+
 
 
 </section><section data-markdown>
