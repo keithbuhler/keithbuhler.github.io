@@ -9,9 +9,6 @@ sidebar:
 #### [(pdf version)](/content/philosophy/disputations.pdf)
 
 [Keith Buhler](http://keithbuhler.github.io)  
-Department of Philosophy  
-University of Kentucky  
-keith.buhler@uky.edu  
 http://www.keithbuhler.com  
 
 ----

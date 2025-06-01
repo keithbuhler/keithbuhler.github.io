@@ -539,7 +539,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 * First act of the mind: understanding
 * Second act: judgment
 * Third act: reasoning
-* (Approx 30 slides) 
+* (35 slides) 
 
 </section>
 
@@ -619,9 +619,40 @@ Some truths are necessary -- they have to be true and can be known with certaint
 ### Ambiguity
 
 * Terms for *things* that are unclear are just 'unclear': mysterious, numinous, baffling
-* Terms that could refer to either of two things are ambiguous: bank, 
+* Terms that could refer to either of two things are ambiguous: man (male or human?), bank (financial institution or river's edge?); 
+
+> I saw her duck!
 
 
+</section><section data-markdown>
+
+### Ambiguity and speciality vocab
+
+* "Tier 1" words: the, a, and, he, she  (8,000 words)
+* "Tier 3" words: context, conduct, estate, invest, appreciate (570 words) 
+* "Tier 2" words: isotope, lathe, peninsula, filibuster, (100,000s of words)
+
+--- 
+
+* Tier 1 words are hard to mess up. 
+* Tier 2 words are extremely likely to become confused or confusing! Their exact meaning is sensitive to context. 
+* Tier 3 words are extremely hard to mess up. However, they require specialized knowledge. 
+
+
+</section><section data-markdown>
+
+### Ambiguity and speciality vocab
+
+
+* Buhler's sidenote: The clarity of tier 3 words is a likely cause of technical jargon and specialized vocab that people develop and use --  doctors, philosophers, bankers, weight lifters, etc. 
+
+> Give me 50 CCs on her IV, stat!
+
+> The LTV on this DSCR is way too high after a refi, even with that ARV
+
+> Neo-Platonic realism is ecclipsed by medieval nominalism
+
+* Technicians and experts are not necessarily being a pedantic, snobby, or elitist by choiece -- it's the natural consequence of working within a domain. 
 
 
 </section><section data-markdown>
@@ -1176,6 +1207,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 * Induction, abduction
 * Fallacies
+* (48 slides!) 
 
 
 
@@ -1655,7 +1687,7 @@ prosperous in this life.
 <section data-markdown>
 
 
-# Day 4 - Fallacies (cont'd) and Complex Arguments 
+## Day 4 - Fallacies (cont'd) and Complex Arguments 
 
 ---
 
