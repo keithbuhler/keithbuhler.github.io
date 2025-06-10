@@ -641,10 +641,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 </section><section data-markdown>
 
-### Ambiguity and speciality vocab
+### Buhler's sidenote on speciality vocab
 
-
-* Buhler's sidenote: The clarity of tier 3 words is a likely cause of technical jargon and specialized vocab that people develop and use --  doctors, philosophers, bankers, weight lifters, etc. 
+* The *clarity* of tier 3 words is a likely cause of technical jargon and specialized vocab that people develop and use --  doctors, philosophers, bankers, weight lifters, etc. 
 
 > Give me 50 CCs on her IV, stat!
 
@@ -652,14 +651,17 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 > Neo-Platonic realism is ecclipsed by medieval nominalism
 
+### Buhler's sidenote on speciality vocab
+
 * Technicians and experts are not necessarily being a pedantic, snobby, or elitist by choiece -- it's the natural consequence of working within a domain. 
 
+* </end sidenote>
 
 </section><section data-markdown>
 
 ### Definitions - Exercises (130)
 
-* Define logic! (wee!)
+* Define logic! (wee!) SO meta!
 * Define science
 * Define deduction
 * Define abstraction
@@ -667,7 +669,16 @@ Some truths are necessary -- they have to be true and can be known with certaint
 * Define charity 
 
 
+</section><section data-markdown>
 
+I'm 
+S o 
+
+M eta
+T hat
+E ven 
+T his 
+A cronym
 
 
 
@@ -1423,8 +1434,6 @@ Educated “Guessing” in Daily life
 
 </section><section data-markdown>
 
-
-
 ### 23 of the 49 Fallacies
 
 1. Equivocation
@@ -1440,21 +1449,28 @@ Educated “Guessing” in Daily life
 10. Composition and division
 11. Straw Man
 12. Non Sequitur (doesn't follow)
-13. Slippery Slope
-14. False Cause
-15. Petitio Principii (begging the question)
-16. False Dilemma
-17. Loaded Question
-18. Hedging
-19. No True Scotsman
-20. Nothing Buttery
-21. Confusing Accident / Essence
-22. Confusing Quality / Quantity
-23. Confusing Abstract / Concrete
+
+</section><section data-markdown>
+
+### 23 of the 49 Fallacies
+    
+14. Slippery Slope
+15. False Cause
+16. Petitio Principii (begging the question)
+17. False Dilemma
+18. Loaded Question
+19. Hedging
+20. No True Scotsman
+21. Nothing Buttery
+22. Confusing Accident / Essence
+23. Confusing Quality / Quantity
+24. Confusing Abstract / Concrete
 
 
 
+</section><section data-markdown>
 
+### So what are some themes / categories to help us understand these fallacies? 
 
 
 </section><section data-markdown>
@@ -1484,6 +1500,14 @@ Educated “Guessing” in Daily life
 - "Radical" vs. "Pious" Believer. 
 - "Rat" vs. "Whistle-blower"
 
+
+</section><section data-markdown>
+
+![out-group](https://github.com/user-attachments/assets/35011a87-ea5b-48e3-9b64-919a14ab7184)
+
+</section><section data-markdown>
+
+![outgroup](https://www.keithbuhler.com/assets/images/out-group.jpg)
 
 
 
