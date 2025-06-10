@@ -657,19 +657,57 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 * </end sidenote>
 
+
 </section><section data-markdown>
+
+### Types of definition
+
+I. Nominal
+II. Real 
+	a. Essential
+ 	b. Non-essential
+  		1. By properties
+    		2. by accidents
+      		3. by causes 
+		4. by effects
+
+</section><section data-markdown>
+
+### Four causes
+
+* Material 
+* Efficient (source)
+* Formal (kind)
+* Final (end, purpose)
+
+
+
+</section><section data-markdown>
+
+### A good definition
+* Essential definition - genus and species
+* Clear, literal, brief, positive
+* Non-circular
+
+
+</section><section data-markdown>
+
+
+### Good, bad, and ugly definitions (127) 
+
+* Man, triangle, democracy
+  
+
+
+
+</section><section data-markdown>
+
+
+
 
 ### Definitions - Exercises (130)
 
 * Define logic! (wee!) SO meta!
-* Define science
-* Define deduction
-* Define abstraction
-* Define death
-* Define charity 
-
-
-</section><section data-markdown>
 
 I'm 
 S o 
@@ -680,50 +718,38 @@ E ven
 T his 
 A cronym
 
+</section><section data-markdown>
 
-
-
+* Define science
+* Define deduction
+* Define abstraction
+* Define death
+* Define charity 
 
 
 </section><section data-markdown>
 
-### **Title**
+Check out the definitions on 131... 
 
-
-* Content
-
-
-
-
-
-
-
-
+* Life is the most vivid of all dreams
+* Philosophy is unintelligible answers to insoluble problems
+* Justice is health of soul
+* Chestertonianisms
 
 </section><section data-markdown>
 
-### **Title**
+### Universals 
 
-
-* Content
-
-
-
-
-
-
-
-
+* Forms
+* Nominalism
 
 </section><section data-markdown>
 
-### **Title**
+### Pause for digestion
 
-
-* Content
-
-
-
+* Review / summary
+* Questions
+* Comments / where's your head at
 
 
 
@@ -732,43 +758,39 @@ A cronym
 
 </section><section data-markdown>
 
-### **Title**
+### Extension and Intension of terms (43) 
 
+* "Man = 4 billion men (males)
+* "Man" = 8 billion men (mankind right now)
+* "Man" = 50 billion men (mankind up to now)
 
-* Content
+  
+* Inversely proportional -- the bigger the extension (number of referents), the smaller the intention (detail of description)
 
-
-
-
-
-
-
-
+* Which has bigger extension?
+	* Geese
+	* Golden geese
 
 </section><section data-markdown>
 
-### **Title**
+### Extension and Intension of terms 
 
+* Qualitative aspects of a term:
+* Comprehension, intention, connocation, meaning
 
-* Content
+* Quantitative aspects:
+* Extension, denotation, reference
 
+</section><section data-markdown>
 
+### Comprehension (generalizations) and extension
 
+* Comprehension covers what is true by nature
+* Extension covers what is true by factual happenstance
 
+* Comprehension (generalizations) can be true even with exceptions! (more on this later) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+</section><section data-markdown>
 
 
 
@@ -779,7 +801,117 @@ A cronym
 
 </section><section data-markdown>
 
+### **Classifying Terms** (47) 
 
+* Ambiguous or unambiguous
+* Clear or unclear
+* Exact or vague
+* Univocal, analogical, or equivocal
+* literal or metaphorical
+* positive or negative
+* simple or complex
+* universal, particular, or singular
+* collective or divisive
+* concrete or abstract
+* absolute or relative
+
+Let's pick out a few of these... 
+
+
+
+</section><section data-markdown>
+
+### Literal, metaphorical, analogous
+
+* My dog is affectionate (analogy)
+* St Peter is a rock (metaphor)
+* God is a shepherd (metaphor)
+* God is good (analogy)
+
+
+
+  
+
+
+
+</section><section data-markdown>
+
+### Concrete & Abstract
+
+
+* Concrete means specific (red, spirit)
+* Abstract means 'taken out' (redness, spirituality)
+
+* 'Hot' is concrete; 'heat' is abstract
+* 'human' is concrete; 'humanity' is abstract
+
+* Exercise: You shouldn't try to love 'humnanity' -- why? 
+
+
+
+
+</section><section data-markdown>
+
+### Relative v absolute
+
+**Relative** 
+* Father (father of)
+* Son (son of)
+* Winner (winner of contest)
+
+
+**Absolute** 
+* Man
+* Moral
+* Triangle 
+
+
+</section><section data-markdown>
+
+### Exercises (53) 
+
+1. The end of a thing is its purpose and perfection, and death is the end of life; therefore death is life's purpose and perfection.
+2. Condemned prisoner to judge: "But I don't *feel* guilty.*
+3. Antigravity should be easy. We disobey all kinds of laws, we should be able to disobey the law of gravity.
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+(If there's time) 
+
+### Categories
+
+* Natural and conventional
+* Ten categories
+
+
+
+</section><section data-markdown>
+
+### Tree of Porphery (60) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
 
 
 
@@ -1019,7 +1151,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 </section><section data-markdown>
 
 
-### Argumentation (186-199)
+### Reasoning (Argumentation)  (186-199)
 
 
 * What is reason? 
@@ -1077,10 +1209,14 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-### Tautology
+### Tautology (189) 
 
 
-* Content
+* It is what it is
+* A bird is a bird
+* I am what I am
+* Only the fittest survive
+* You will pass if you work hard enough
 
 
 
@@ -1097,11 +1233,13 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 </section><section data-markdown>
+ 
+### Detecting arguments  (190) 
 
-### Detecting arguments 
 
-
-* Content
+* Detect presence
+* Get into our net
+* Decide if edible 
 
 
 
