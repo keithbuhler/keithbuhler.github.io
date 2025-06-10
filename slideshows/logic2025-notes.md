@@ -496,7 +496,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 
 
-<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 2-->
+<section data-background="http://www.keithbuhler.com/images/tree-of-science-red.svg" ><!--Wed, Intro begin day 3-->
 <section data-markdown>
 
 # Logical Fallacies
@@ -507,7 +507,7 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 ### Two Logics
 
-1. Symbolic (Math)
+1. Symbolic (Math-y)
 2. Aristotelian (Language)
 
 
@@ -585,20 +585,31 @@ A fallacy is any mistake in reasoning
 9. Hasty Generalization
 10. Composition and division
 11. Straw Man
-12. Non Sequitur (doesn't follow)
-13. Slippery Slope
-14. False Cause
-15. Petitio Principii (begging the question)
-16. False Dilemma
-17. Loaded Question
-18. Hedging
-19. No True Scotsman
-20. Nothing Buttery
-21. Confusing Accident / Essence
-22. Confusing Quality / Quantity
-23. Confusing Abstract / Concrete
 
 </section><section data-markdown>
+
+### 23 of the 100s of Fallacies
+    
+13. Non Sequitur (doesn't follow)
+14. Slippery Slope
+15. False Cause
+16. Petitio Principii (begging the question)
+17. False Dilemma
+18. Loaded Question
+19. Hedging
+20. No True Scotsman
+21. Nothing Buttery
+22. Confusing Accident / Essence
+23. Confusing Quality / Quantity
+24. Confusing Abstract / Concrete
+
+</section><section data-markdown>
+
+### So what are some themes / categories? 
+
+</section><section data-markdown>
+
+
 
 ### Fallacies of Language
 
@@ -612,11 +623,18 @@ A fallacy is any mistake in reasoning
 
 
 - **Spin/Slant**. Arguing by the positive or negative definitions or connotations of one's words.  
+
 - Pro-choice vs. “Anti-choice”
 - Pro-life vs. “Anti-Life”.
 - "Terrorist" vs. "Freedom fighter". 
 - "Radical" vs. "Pious" Believer. 
 - "Rat" vs. "Whistle-blower"
+
+
+</section><section data-markdown>
+
+![out-group](https://github.com/user-attachments/assets/35011a87-ea5b-48e3-9b64-919a14ab7184)
+
 
 </section><section data-markdown>
 
