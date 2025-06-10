@@ -580,9 +580,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 ### Questions and Concepts
 
-* Our questions are: What, whather, why? 
+* Our questions are: What, whether, why? 
 * The answers to these questions require concepts, the "bits" or raw material of thought
-* Concepts are immaterial (trascend time and space!) 
+* Concepts are immaterial (transcend time and space!) 
 * Concepts 'match' reality, they illuminate reality
 * Concepts are abstract (separate 'green' from the 'grass') -- separate the squareness from this or that square shape
 	* Abstraction foster friendship (38)!
@@ -1412,12 +1412,21 @@ Some different types of induction:
 
 Only true of a tiny fraction of mosquitos... but because it's dangerous, it sticks in the mind. 
 
+</section><section data-markdown>
+
+### **Generalizations**
+
 > I would never move there; that neighborhood has high crime.
 
 LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of perfect peace, and yet it sticks in the mind!
 
-* When it pays to err on the side of caution, we favor generalizations. 
+</section><section data-markdown>
 
+### **Generalizations**
+
+
+* When it pays to err on the side of caution, we favor generalizations. 
+* When we err on the side of (negative) generalizations about people, the reactions can be intense. 
 
 
 
