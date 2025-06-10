@@ -628,9 +628,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 ### Ambiguity and speciality vocab
 
-* "Tier 1" words: the, a, and, he, she  (8,000 words)
-* "Tier 2" words: context, conduct, estate, invest, appreciate (570 words) 
-* "Tier 3" words: isotope, lathe, peninsula, filibuster, (100,000s of words)
+* "Tier 1" words: eg., the, a, and, he, she  (8,000 words)
+* "Tier 2" words: eg. context, conduct, estate, invest, appreciate (570 words) 
+* "Tier 3" words: eg. isotope, lathe, peninsula, filibuster, (100,000s of words)
 
 --- 
 
@@ -651,6 +651,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 > Neo-Platonic realism is ecclipsed by medieval nominalism
 
+</section><section data-markdown>
+
+
 ### Buhler's sidenote on speciality vocab
 
 * Technicians and experts are not necessarily being a pedantic, snobby, or elitist by choiece -- it's the natural consequence of working within a domain. 
@@ -663,13 +666,18 @@ Some truths are necessary -- they have to be true and can be known with certaint
 ### Types of definition
 
 I. Nominal
+
 II. Real 
+
 	a. Essential
+
  	b. Non-essential
+
   		1. By properties
     		2. by accidents
       		3. by causes 
 		4. by effects
+
 
 </section><section data-markdown>
 
