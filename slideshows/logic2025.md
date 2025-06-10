@@ -629,8 +629,8 @@ Some truths are necessary -- they have to be true and can be known with certaint
 ### Ambiguity and speciality vocab
 
 * "Tier 1" words: the, a, and, he, she  (8,000 words)
-* "Tier 3" words: context, conduct, estate, invest, appreciate (570 words) 
-* "Tier 2" words: isotope, lathe, peninsula, filibuster, (100,000s of words)
+* "Tier 2" words: context, conduct, estate, invest, appreciate (570 words) 
+* "Tier 3" words: isotope, lathe, peninsula, filibuster, (100,000s of words)
 
 --- 
 
