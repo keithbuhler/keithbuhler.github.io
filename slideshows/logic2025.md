@@ -656,9 +656,9 @@ Some truths are necessary -- they have to be true and can be known with certaint
 
 ### Buhler's sidenote on speciality vocab
 
-* Technicians and experts are not necessarily being a pedantic, snobby, or elitist by choiece -- it's the natural consequence of working within a domain. 
+* Technicians and experts are not necessarily being a pedantic, snobby, or elitist by choice -- it's the natural consequence of working within a domain. 
 
-* </end sidenote>
+
 
 
 </section><section data-markdown>
@@ -742,7 +742,7 @@ Check out the definitions on 131...
 * Life is the most vivid of all dreams
 * Philosophy is unintelligible answers to insoluble problems
 * Justice is health of soul
-* Chestertonianisms
+* "Chestertonisms"
 
 </section><section data-markdown>
 
@@ -853,7 +853,7 @@ Let's pick out a few of these...
 * 'Hot' is concrete; 'heat' is abstract
 * 'human' is concrete; 'humanity' is abstract
 
-* Exercise: You shouldn't try to love 'humnanity' -- why? 
+* Exercise: You shouldn't try to love 'humanity' -- why? 
 
 
 
@@ -872,19 +872,6 @@ Let's pick out a few of these...
 * Man
 * Moral
 * Triangle 
-
-
-</section><section data-markdown>
-
-### Exercises (53) 
-
-1. The end of a thing is its purpose and perfection, and death is the end of life; therefore death is life's purpose and perfection.
-2. Condemned prisoner to judge: "But I don't *feel* guilty.*
-3. Antigravity should be easy. We disobey all kinds of laws, we should be able to disobey the law of gravity.
-
-
-
-
 
 
 
@@ -1127,7 +1114,10 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-## Exercises (157)
+
+
+
+## Exercises (157) - on propositions
 
 
 * Let's categorize some propositions!
@@ -1135,6 +1125,16 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 1. Is it a proposition or not?
 2. Is it A E I or O? 
 3. What is the subject and what the predicate? 
+
+
+
+</section><section data-markdown>
+
+### Exercises (53) - on terms
+
+1. The end of a thing is its purpose and perfection, and death is the end of life; therefore death is life's purpose and perfection.
+2. Condemned prisoner to judge: "But I don't *feel* guilty.*
+3. Antigravity should be easy. We disobey all kinds of laws, we should be able to disobey the law of gravity.
 
 
 
@@ -1150,61 +1150,6 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 * Distribution refers to the term, whether it refers to all members of the class (distributed)
 * Or only some members of the class (undistributed)
 * Analogy of distributing pamphlets
-
-
-
-
-
-
-</section><section data-markdown>
-
-
-### Reasoning (Argumentation)  (186-199)
-
-
-* What is reason? 
-* "man is a rational animal" 
-	* The term 'man' is inclusive
-	* 'rational' is inclusive too!
-* 'Rationality' includes wisdom, intuition, essence, conscience, self-knowledge, aesthetics -- *and math* and logic
-
-
-
-
-
-</section><section data-markdown>
-
-
-### What can reason do? 
-
-* Reason allows us to know what must be true, hypothetically (little green men on mars), beyond our experience
-* Reason allows us to know universal truths (2 + 2)
-* Reason allows us to know necessary and unchangable truths
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Deduction
-
-
-* Deduction is the ultimate foundation of the *syllogism*
-* The syllogism is the 'atom' of reasonining, the building block of arguments, the cells of the rational organism
-
-> "All planets orbit the sun. Earth is a planet. Therefore...
-
-
-
-
-
-
-
-
 
 
 
@@ -1238,56 +1183,6 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-
-
-</section><section data-markdown>
- 
-### Detecting arguments  (190) 
-
-
-* Detect presence
-* Get into our net
-* Decide if edible 
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Truth and validity 
-
-
-* Content
-
-
-
-
-</section><section data-markdown>
-
-### NECESSITY
-
-
-* Content
-
-
-
-
-</section><section data-markdown>
-
-### Categorical syllogisms, terms, premises
-
-
-* Content
-
-
-
 </section><section data-markdown>
 
 * Take a breath... 
@@ -1302,6 +1197,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 * Conception is first act of mind; simply aprehending the essence of a thing
+* Definitions -- good definitions are essential 
 * Judgment is the second act of the mind; combining concepts (predication)
 * Conception makes us higher than animals, and computers (including LLMs!), by abstraction
 * Questions aim at truths, abstract truths
@@ -1877,7 +1773,7 @@ prosperous in this life.
 ---
 
 
-
+* Reasoning/deduction 
 * Syllogisms
 * Chains or clusters of syllagisms
 * Partially implied syllogisms (Entheymemes)
@@ -1916,6 +1812,106 @@ prosperous in this life.
 
 
 
+</section><section data-markdown>
+
+# 3rd Act 
+
+## Reasoning (Argumentation)  (186-199)
+
+
+* What is reason? 
+* "man is a rational animal" 
+	* The term 'man' is inclusive
+	* 'rational' is inclusive too!
+* 'Rationality' includes wisdom, intuition, essence, conscience, self-knowledge, aesthetics -- *and math* and logic
+
+
+
+
+
+</section><section data-markdown>
+
+
+### What can reason do? 
+
+* Reason allows us to know what must be true, hypothetically (little green men on mars), beyond our experience
+* Reason allows us to know universal truths (2 + 2)
+* Reason allows us to know necessary and unchangable truths
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Deduction
+
+
+* Deduction is the ultimate foundation of the *syllogism*
+* The syllogism is the 'atom' of reasonining, the building block of arguments, the cells of the rational organism
+
+> "All planets orbit the sun. Earth is a planet. Therefore...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+ 
+### Detecting arguments  (190) 
+
+
+* Detect presence
+* Get into our net
+* Decide if edible 
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Truth and validity 
+
+
+
+
+
+</section><section data-markdown>
+
+### NECESSITY
+
+
+
+
+
+</section><section data-markdown>
+
+### Categorical syllogisms, terms, premises
+
+
+
+
 
 
 
@@ -1924,7 +1920,7 @@ prosperous in this life.
 ### Kinds of argument
 
 
-* Four causes
+* Four causes (review!) 
 * Classification of arguments
 	* Form
 	* Causality
