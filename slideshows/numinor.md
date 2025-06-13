@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /numinor/
+permalink: /numinor2/
 header:
 related: 
 ---
