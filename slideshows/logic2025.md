@@ -164,7 +164,7 @@ theme: league
 - Result = Arguments
 - Good arguments = Valid
 
-
+ 
 
 
 
@@ -1273,6 +1273,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 * "man is a rational animal" 
 	* The term 'man' is inclusive
 	* 'rational' is inclusive too!
+
 * 'Rationality' includes wisdom, intuition, essence, conscience, self-knowledge, aesthetics -- *and math* and logic
 
 
@@ -1339,7 +1340,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 * Decide if edible 
 
 > Take a look at the premise-indicators on 192
-
+> 
 
 
 
@@ -1600,9 +1601,18 @@ Conclusion "happens to be true (by accident)" (196)
 * Logical ground and consequent
 * Psychological motive and act
 
+> I will die because I despair
 > I will die because of cancer
 > I will die because all men die
-> I will die because I despair
+
+
+</section><section data-markdown>
+
+### Kinds of "because" -- why this matters
+
+* I believe in God because I fear death (psychological)
+* I believe in God because he put the desire for eternity in my heart.
+* I believe in God because there must be a First Cause
 
 
 </section><section data-markdown>
@@ -1618,18 +1628,40 @@ Conclusion "happens to be true (by accident)" (196)
 	* Strategy
 	* Cumulative
 
+</section><section data-markdown>
+
+
+### Four causes (202) 
+
+* Material 
+* Efficient (source)
+* Formal (kind)
+* Final (end, purpose)
+
+Examples 204
+Exercises 2025
 
 
 
+</section><section data-markdown>
+
+### Arguments
+
+* Deductive (general, and inferring down) or inductive (specific, and building up)
+* Deductive can be simple or complex
+* Simple has 3 categorical propositions
+* Complex (wee!) can be Hypothetical, disjunctive, conjunctive (chapter 13)
 
 
 </section><section data-markdown>
 
 ### Compound Syllogisms
 
+* Linear (a river building to a destination)
+* Cumulative (many rivers combining to one destination)
 
-*  <!--Unfinished section-->
 
+</section><section data-markdown>
 
 
 
