@@ -1264,18 +1264,9 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
-
-</section>
-<section data-markdown>
-
-
-
 </section><section data-markdown>
 
-
-# 3rd Act 
-
-## Reasoning (Argumentation)  (186-199)
+## 3rd Act: Reasoning (Argumentation)  (186-199)
 
 
 * What is reason? 
@@ -1406,7 +1397,8 @@ Abduction is guessing, hypothesizing, or explaining.
 
 - E.g., The ground is wet. If it was raining, the ground would be wet. So maybe it was raining. 
 - Deductively invalid, but still important (Maybe sprinklers were on, or the fire hydrant is open, etc.)
-- Perhaps the whole earth is round (it is). Maybe your mom is kind, too (she is). Perhaps all grass is green (it's not). Maybe all dogs are soft (they're not). 
+
+
 
 </section><section data-markdown>
 
@@ -1444,15 +1436,15 @@ Educated “Guessing” in Daily life
 * Science, philosophy, theology etc. employ domain-specific expertise to generate new guesses to be investigated
 * Investigation cannot produce the guess! It can only analyze the guess once proposed. 
 
-
-* Examples: 
-	* Particle physics <!--Unfinished section--> -- maybe there is a thing that does not obey gravity
-	* Philosophy -- maybe language formation (in humans) is like the construction of mathematical models (in computers)
-	* Law -- maybe there were two assasins 
-	* History -- maybe the pyramids were built with sound-wave technology 
-
-
 </section><section data-markdown>
+
+
+### Application of Abduction Examples
+
+> * Particle physics -- maybe there is a thing that does not obey gravity
+> * Philosophy -- maybe language formation (in humans) is like the construction of mathematical models (in computers)
+> * Law -- maybe there were two assassins 
+> * History -- maybe the pyramids were built with sound-wave technology 
 
 
 
@@ -1464,6 +1456,19 @@ Educated “Guessing” in Daily life
 
 * Structure
 * Major premise, minor premise, conclusion
+
+
+> All men are *mortal*
+> *Socrates* is a man.
+> *Socrates* is **mortal.**
+
+"Mortal" is the major term.
+So the first premise is the major premise.
+
+Guess the minor term!
+
+
+
 
 
 
@@ -1525,7 +1530,9 @@ Conclusion "happens to be true (by accident)" (196)
 
 ### Practicing logical NECESSITY
 
-> Imagine a spy trying to get out of East Berlin into West Berlin. In order to succeed in getting to West Berlin, he has to pass three checkpoints: Able, Baker, and Charlie. If he fails at any of one or more of the checkpoints, he fails to get out. The spy symbolizes an argument, and escape to West Berlin symbolizes proving its conclusion to be true. The three checkpoints are the three questions of logic, one for each of the “three acts of the mind” (see the charts on pages 32-33). Checkpoint Able checks for ambiguous terms. Checkpoint Baker checks for false premises. Checkpoint Charlie checks for logical fallacies.
+* Imagine a spy trying to get out of East Berlin into West Berlin. In order to succeed in getting to West Berlin, he has to pass three checkpoints: Able, Baker, and Charlie. 
+* If he fails at any of one or more of the checkpoints, he fails to get out. The spy symbolizes an argument, and escape to West Berlin symbolizes proving its conclusion to be true. The three checkpoints are the three questions of logic, one for each of the “three acts of the mind” (see the charts on pages 32-33). 
+* Checkpoint Able checks for ambiguous terms. Checkpoint Baker checks for false premises. Checkpoint Charlie checks for logical fallacies.
 
 </section><section data-markdown>
 
@@ -1541,13 +1548,12 @@ Conclusion "happens to be true (by accident)" (196)
 
 5. If a premise is false and the conclusion is false, the argument must be invalid.
 
+</section><section data-markdown>
+
+
 6. If a premise is false and the conclusion is false, the argument must be valid. 
 
 7. Ifa premise is false and the conclusion is true, the argument must be invalid. 
-
-</section><section data-markdown>
-
-### Practicing logical NECESSITY
 
 8. If a premise is false and the conclusion is true, the argument must be valid. 
 
@@ -1555,27 +1561,25 @@ Conclusion "happens to be true (by accident)" (196)
 
 10. If the premises are true and the argument is valid, the conclusion must be false.
 
+</section><section data-markdown>
+
+
 11. If the premises are true and the argument is invalid, the conclusion must be false.
 
 12. If the premises are true and the argument is invalid, the conclusion must be true.
 
 13. Ifthe premises are true and the conclusion is true, the argument must be valid.
 
-</section><section data-markdown>
-
-### Practicing logical NECESSITY
-
 14. If the premises are true and the conclusion is true, the argument must be invalid.
 
 15. Ifthe premises are true and the conclusion is false, the argument must be valid.
 
+</section><section data-markdown>
+
+
 16. If the premises are true and the conclusion is false, the argument must be invalid.
 
 17. If the argument is valid and the conclusion is false, at least one premise must be false.
-
-</section><section data-markdown>
-
-### Practicing logical NECESSITY
 
 18. If the argument is valid, the conclusion is false, and one premise is true, the other premise must be false.
 
@@ -1585,30 +1589,25 @@ Conclusion "happens to be true (by accident)" (196)
 
 
 
-</section><section data-markdown>
-
-### Demonstrative syllagisms (230) 
-
-
-*  <!--Unfinished section-->
-
 
 
 
 </section><section data-markdown>
 
-### Categorical syllogisms, terms, premises
+### Kinds of "because"
 
+* Physical cause and effect
+* Logical ground and consequent
+* Psychological motive and act
 
-
-
-
+> I will die because of cancer
+> I will die because all men die
+> I will die because I despair
 
 
 </section><section data-markdown>
 
 ### Kinds of argument
-
 
 * Four causes (review!) 
 * Classification of arguments
