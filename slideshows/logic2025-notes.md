@@ -863,3 +863,30 @@ prosperous in this life.
 
 <p><span class="fragment">4 Logic underlies all knowledge </span> <span class="fragment"> -- this includes science, philosophy, theology, psychology, engineering, art, etc. </span></p>
 
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Demonstrative syllagisms (230) 
+
+
+*  <!--Unfinished section-->
+
+
+
+
+</section><section data-markdown>
+
+### Categorical syllogisms, terms, premises
+
+
+
+
+
+- Not quite induction, either: - Grass is green, tables are hard, the sky is blue, Mom is kind, Fido is soft. 
+
+- Perhaps the whole earth is round (it is). Maybe your mom is kind, too (she is). Perhaps all grass is green (it's not). Maybe all dogs are soft (they're not). 

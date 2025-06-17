@@ -1310,9 +1310,9 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 "Inherent, self-evident, necessary truths"
 
-1. Whatever is university true on the subject must be true of everything contained in that subject.
+1. Whatever is universally true in the subject must be true of everything contained in that subject.
 
-2. Whatever is university false in a subject must be false of everything containing that subject. 
+2. Whatever is universally false in a subject must be false of everything containing that subject. 
 
 3. Things identical with one the same third thing or identical with each other.
 
@@ -1601,9 +1601,11 @@ Conclusion "happens to be true (by accident)" (196)
 * Logical ground and consequent
 * Psychological motive and act
 
-> I will die because I despair
-> I will die because of cancer
-> I will die because all men die
+> * I will die because I despair
+
+> * I will die because of cancer
+
+> * I will die because all men die
 
 
 </section><section data-markdown>
@@ -1611,8 +1613,8 @@ Conclusion "happens to be true (by accident)" (196)
 ### Kinds of "because" -- why this matters
 
 * I believe in God because I fear death (psychological)
-* I believe in God because he put the desire for eternity in my heart.
-* I believe in God because there must be a First Cause
+* I believe in God because he put the desire for eternity in my heart. (cause and effect)
+* I believe in God because there must be a First Cause (logical) 
 
 
 </section><section data-markdown>
@@ -1639,8 +1641,13 @@ Conclusion "happens to be true (by accident)" (196)
 * Final (end, purpose)
 
 Examples 204
-Exercises 2025
+Exercises 205
 
+
+</section><section data-markdown>
+
+
+* Pause for break 
 
 
 </section><section data-markdown>
