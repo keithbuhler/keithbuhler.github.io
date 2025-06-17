@@ -1240,13 +1240,429 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 
 
+<section data-background="http://www.keithbuhler.com/images/matrix.png"><!--Day 3 Begin-->
+<section data-markdown>
 
-<section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 3 Begin-->
+
+## Day 3 - Third Act of the Mind: Arguments 
+
+---
+
+
+**Intro to Logic, St Athanasius College, 2025**
+
+
+---
+
+
+* Third act: Reasoning/deduction 
+* Syllogisms
+* Validity
+* Chains or clusters of syllagisms
+* Partially implied syllogisms (Entheymemes)
+* Intro to fallacies
+
+
+
+
+</section>
 <section data-markdown>
 
 
 
-# Day 3 - Fallacies  
+</section><section data-markdown>
+
+
+# 3rd Act 
+
+## Reasoning (Argumentation)  (186-199)
+
+
+* What is reason? 
+* "man is a rational animal" 
+	* The term 'man' is inclusive
+	* 'rational' is inclusive too!
+* 'Rationality' includes wisdom, intuition, essence, conscience, self-knowledge, aesthetics -- *and math* and logic
+
+
+</section><section data-markdown>
+
+
+### What can reason do? 
+
+* Reason allows us to know what must be true, hypothetically (little green men on mars), beyond our experience
+* Reason allows us to know universal truths (2 + 2)
+* Reason allows us to know necessary and unchangable truths
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Deduction
+
+
+* Deduction is the ultimate foundation of the *syllogism*
+* The syllogism is the 'atom' of reasonining, the building block of arguments, the cells of the rational organism
+
+> "All planets orbit the sun. Earth is a planet. Therefore...
+
+
+</section><section data-markdown>
+
+### Principles of Deduction (187-8)
+
+"Inherent, self-evident, necessary truths"
+
+1. Whatever is university true on the subject must be true of everything contained in that subject.
+
+2. Whatever is university false in a subject must be false of everything containing that subject. 
+
+3. Things identical with one the same third thing or identical with each other.
+
+
+> Notice the three laws?
+
+
+
+
+
+
+
+
+
+
+
+
+</section><section data-markdown>
+ 
+### Detecting arguments  (190) 
+
+
+* Detect presence
+* Get into our net
+* Decide if edible 
+
+> Take a look at the premise-indicators on 192
+
+
+
+
+
+</section><section data-markdown>
+
+### Abduction (Explanations)
+
+1. Buhler: Abduction (inference to best explanation) — CS. Pierce
+
+
+* Structure of abduction (appears like a formal fallacy!)
+
+* If A -> B, B, therefore A.
+* The surprising fact, *B*, is observed.
+* But if *A* were true, *B* would be a matter of course.
+* Hence, there is reason to suspect that *A* is true.
+
+</section><section data-markdown>
+
+
+* Compare with Modus ponens: 
+* If S is P, then Q is R.
+* S is P.
+* Therefore, Q is R. 
+
+> * If Billy is a racist, then he would not celebrate Black Lives Matter day (July 13)
+> * Billy is indeed a racist.
+> * Therefore, Billy does not celebrate BLM day.  
+
+
+</section><section data-markdown>
+
+
+Here's a fallacy version: 
+
+* If S is P, then Q is R.
+* Q is R.
+* Therefore, S is P. 
+
+> * If John is a racist, then he would not celebrate Black Lives Matter day (July 13)
+> * John does not celebrate BLM day. 
+> * Therefore, perhaps John is a racist!
+
+
+</section><section data-markdown>
+
+
+### So what is abduction? Is it valid or not? 
+
+
+Yes!
+
+Abduction is guessing, hypothesizing, or explaining. 
+
+- E.g., The ground is wet. If it was raining, the ground would be wet. So maybe it was raining. 
+- Deductively invalid, but still important (Maybe sprinklers were on, or the fire hydrant is open, etc.)
+- Perhaps the whole earth is round (it is). Maybe your mom is kind, too (she is). Perhaps all grass is green (it's not). Maybe all dogs are soft (they're not). 
+
+</section><section data-markdown>
+
+
+### Application of Abduction 
+
+
+* Inference to best explanation (Peter Lipton) -- Philosophy, psychology, economics, sociology, etc.
+
+
+
+</section><section data-markdown>
+
+
+### Application of Abduction 
+
+Educated “Guessing” in Daily life
+
+* In daily life, we pull from background knowledge to explain what we observe. 
+* "must be" as a clue to abduction
+
+
+* Eg. Why is my door open? 
+* Eg. Why is Anne acting so shifty lately? 
+* Eg. Why is it getting darker earlier all of a sudden? 
+
+
+</section><section data-markdown>
+
+
+### Application of Abduction 
+
+* Hypothesizing in specialized fields
+
+* Science, philosophy, theology etc. employ domain-specific expertise to generate new guesses to be investigated
+* Investigation cannot produce the guess! It can only analyze the guess once proposed. 
+
+
+* Examples: 
+	* Particle physics <!--Unfinished section--> -- maybe there is a thing that does not obey gravity
+	* Philosophy -- maybe language formation (in humans) is like the construction of mathematical models (in computers)
+	* Law -- maybe there were two assasins 
+	* History -- maybe the pyramids were built with sound-wave technology 
+
+
+</section><section data-markdown>
+
+
+
+
+</section><section data-markdown>
+
+### Syllogisms  <!--Unfinished section-->
+
+
+* Structure
+* Major premise, minor premise, conclusion
+
+
+
+
+
+</section><section data-markdown>
+
+### Truth and validity 
+
+* Arguments are either logically **valid** or **invalid**. Validity refers to the *structure* of the syllogism.
+* Propositions can't be 'fallacious' (nor terms)
+* Invalid arguments are called 'formal' fallacies (something wrong with the form!)
+* Informal fallacies (something else wrong besides the form) are covered next week
+* A valid argument gives us *certainty* 
+
+
+</section><section data-markdown>
+
+### Truth and validity 
+
+Four possibilities: 
+
+* (1) The premises are true and the logic is valid.
+* (2) The premises are true and the logic is invalid.
+* (3) At least one of the premises is false and the logic is valid. 
+* (4) At least one of the premises is false and the logic is invalid
+
+
+* Ιn (1), conclusion is true
+* in (2), conclusion is UNKNOWN
+* In (3), conclusion is UNKNOWN
+* In (4), conclusion is UNKNOWN
+
+</section><section data-markdown>
+
+### Truth and validity 
+
+* If the premises are true, and the argument valid, we *know* that the conclusion is true. 
+* Just because premise is false, doesn't mean we *know* that the conclusion is false
+
+> All fruit grows on trees. Avocados are fruit. Therefore, avocadoes grow on trees. 
+
+
+> All evil spirits are birds. All sparrows are evil spirits. Therefore, all sparrows are birds.
+
+
+Conclusion "happens to be true (by accident)" (196)
+
+</section><section data-markdown>
+
+### Arguing "backward"
+
+* If an argument is valid but the conclusion false, at least one premise must be false. 
+
+
+
+
+</section><section data-markdown>
+
+### Practicing logical NECESSITY
+
+> Imagine a spy trying to get out of East Berlin into West Berlin. In order to succeed in getting to West Berlin, he has to pass three checkpoints: Able, Baker, and Charlie. If he fails at any of one or more of the checkpoints, he fails to get out. The spy symbolizes an argument, and escape to West Berlin symbolizes proving its conclusion to be true. The three checkpoints are the three questions of logic, one for each of the “three acts of the mind” (see the charts on pages 32-33). Checkpoint Able checks for ambiguous terms. Checkpoint Baker checks for false premises. Checkpoint Charlie checks for logical fallacies.
+
+</section><section data-markdown>
+
+### Practicing logical NECESSITY
+
+1. If a premise is false and the argument is invalid, the conclusion must be false. 
+
+2. If a premise is false and the argument is invalid, the conclusion must be true. 
+
+3. If a premise is false and the argument is valid, the conclusion must be true. 
+
+4. Ifa premise is false and the argument is valid, the conclusion must be false. 
+
+5. If a premise is false and the conclusion is false, the argument must be invalid.
+
+6. If a premise is false and the conclusion is false, the argument must be valid. 
+
+7. Ifa premise is false and the conclusion is true, the argument must be invalid. 
+
+</section><section data-markdown>
+
+### Practicing logical NECESSITY
+
+8. If a premise is false and the conclusion is true, the argument must be valid. 
+
+9. If the premises are true and the argument is valid, the conclusion must be true. 
+
+10. If the premises are true and the argument is valid, the conclusion must be false.
+
+11. If the premises are true and the argument is invalid, the conclusion must be false.
+
+12. If the premises are true and the argument is invalid, the conclusion must be true.
+
+13. Ifthe premises are true and the conclusion is true, the argument must be valid.
+
+</section><section data-markdown>
+
+### Practicing logical NECESSITY
+
+14. If the premises are true and the conclusion is true, the argument must be invalid.
+
+15. Ifthe premises are true and the conclusion is false, the argument must be valid.
+
+16. If the premises are true and the conclusion is false, the argument must be invalid.
+
+17. If the argument is valid and the conclusion is false, at least one premise must be false.
+
+</section><section data-markdown>
+
+### Practicing logical NECESSITY
+
+18. If the argument is valid, the conclusion is false, and one premise is true, the other premise must be false.
+
+19. If the conclusion is false, then either the argument is invalid or a premise is false.
+
+20. If one premise is false, the conclusion true, and the argument valid, the other premise must be true.
+
+
+
+</section><section data-markdown>
+
+### Demonstrative syllagisms (230) 
+
+
+*  <!--Unfinished section-->
+
+
+
+
+</section><section data-markdown>
+
+### Categorical syllogisms, terms, premises
+
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Kinds of argument
+
+
+* Four causes (review!) 
+* Classification of arguments
+	* Form
+	* Causality
+	* Direction of movement
+	* Length
+	* Strategy
+	* Cumulative
+
+
+
+
+
+
+</section><section data-markdown>
+
+### Compound Syllogisms
+
+
+*  <!--Unfinished section-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+# WRAPPING UP day 3
+* Questions?
+* Exercises
+
+</section>
+</section> <!--Day 3 end-->
+
+
+
+
+
+
+
+
+<section data-background="http://www.keithbuhler.com/images/black-fractal.png" ><!--Day 4 Begin-->
+<section data-markdown>
+
+
+
+# Day 4 - Fallacies  
 
 
 ---
@@ -1258,6 +1674,7 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 ---
 
 
+* Review homework
 * Induction, abduction
 * Fallacies
 * (48 slides!) 
@@ -1266,7 +1683,27 @@ Ooops! You got [Platypused!](https://assets.wwf.org.au/image/upload/c_fill,g_aut
 
 </section><section data-markdown>
 
-### **Induction, Deduction, Abduction**
+
+* Terms are 'bits' of arguments
+* Propositions are how we build premises (and conclusions)
+* Inference is the movement from premises to conclusion
+
+* Never forget: the logical relationship between premises and conclusion is where the magic happens
+* 'support'
+* 'implication'
+* 'proof'
+* 'evidence'
+* 'shows'
+* 'demonstrates'
+
+</section><section data-markdown>
+
+* Review homework: predication
+
+</section><section data-markdown>
+
+
+### Three kinds of inference
 
 - Induction: generalization
 - Deduction: inference 
@@ -1336,108 +1773,11 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 
 
-</section><section data-markdown>
-
-### Abduction (Explantions)
-
-1. Buhler: Abduction (inference to best explanation) — CS. Pierce
-
-
-* Structure of abduction (appears like a formal fallacy!)
-
-* If A -> B, B, therefore A.
-* The surprising fact, *B*, is observed.
-* But if *A* were true, *B* would be a matter of course.
-* Hence, there is reason to suspect that *A* is true.
-
-</section><section data-markdown>
-
-
-* Compare with Modus ponens: 
-* If S is P, then Q is R.
-* S is P.
-* Therefore, Q is R. 
-
-> * If Billy is a racist, then he would not celebrate Black Lives Matter day (July 13)
-> * Billy is indeed a racist.
-> * Therefore, Billy does not celebrate BLM day.  
-
-
-</section><section data-markdown>
-
-
-Here's a fallacy version: 
-
-* If S is P, then Q is R.
-* Q is R.
-* Therefore, S is P. 
-
-> * If John is a racist, then he would not celebrate Black Lives Matter day (July 13)
-> * John does not celebrate BLM day. 
-> * Therefore, perhaps John is a racist!
-
-
-</section><section data-markdown>
-
-
-### So what is abduction? Is it valid or not? 
-
-
-Yes!
-
-Abduction is guessing, hypothesizing, or explaining. 
-
-- E.g., The ground is wet. If it was raining, the ground would be wet. So maybe it was raining. 
-- Deductively invalid, but still important (Maybe sprinklers were on, or the fire hydrant is open, etc.)
-- Perhaps the whole earth is round (it is). Maybe your mom is kind, too (she is). Perhaps all grass is green (it's not). Maybe all dogs are soft (they're not). 
-
-</section><section data-markdown>
-
-
-### Application of Abduction 
-
-* Inference to best explanation (Peter Lipton) -- Philosophy, psychology, economics, sociology, etc.
-
-
-
-</section><section data-markdown>
-
-
-### Application of Abduction 
-
-Educated “Guessing” in Daily life
-
-* In daily life, we pull from background knowledge to explain what we observe. 
-
-* Eg. Why is my door open? 
-* Eg. Why is Anne acting so shifty lately? 
-* Eg. Why is it getting darker earlier all of a sudden? 
-
-
-</section><section data-markdown>
-
-
-### Application of Abduction 
-
-* Hypothesizing in specialized fields
-
-* Science, philosophy, theology etc. employ domain-specific expertise to generate new guesses to be investigated
-* Investigation cannot produce the guess! It can only analyze the guess once proposed. 
-
-
-* Examples: 
-	* Particle physics <!--Unfinished section--> -- maybe there is a thing that does not obey gravity
-	* Philosophy -- maybe language formation (in humans) is like the construction of mathematical models (in computers)
-	* Law -- maybe there were two assasins 
-	* History -- maybe the pyramids were built with sound-wave technology 
-
-
-</section><section data-markdown>
 
 
 ### Abduction
 
-
+* Review of abduction (guessing)
 
 
 
@@ -1487,6 +1827,7 @@ Educated “Guessing” in Daily life
 
 ### 23 of the 49 Fallacies
 
+~~~
 1. Equivocation
 2. Amphiboly
 3. Ad Hominem (to the man)
@@ -1500,11 +1841,6 @@ Educated “Guessing” in Daily life
 10. Composition and division
 11. Straw Man
 12. Non Sequitur (doesn't follow)
-
-</section><section data-markdown>
-
-### 23 of the 49 Fallacies
-    
 14. Slippery Slope
 15. False Cause
 16. Petitio Principii (begging the question)
@@ -1516,6 +1852,7 @@ Educated “Guessing” in Daily life
 22. Confusing Accident / Essence
 23. Confusing Quality / Quantity
 24. Confusing Abstract / Concrete
+~~~
 
 
 
@@ -1526,7 +1863,17 @@ Educated “Guessing” in Daily life
 
 </section><section data-markdown>
 
-### Fallacies of Language
+### So what are some themes / categories to help us understand these fallacies? 
+
+
+* Relevance
+* Language
+* Presumption
+* Weak Induction
+
+</section><section data-markdown>
+
+#### Fallacies of Language
 
 - **Equivocation**.  An equivocation trades upon the use of an ambiguous word or phrase in one of its meanings in one of the propositions of an argument but also in another of its meanings in a second proposition. Example: "Really exciting novels are rare. But rare books are expensive.Therefore, Really exciting novels are expensive."
 
@@ -1536,13 +1883,15 @@ Educated “Guessing” in Daily life
 
 </section><section data-markdown>
 
+#### Fallacies of Language
+
 - **Amphiboly**. An amphiboly can occur even when every term in an argument is univocal, if the grammatical construction of a sentence creates its own ambiguity. Example: "A reckless motorist Thursday struck and injured a student who was jogging through the campus in his pickup truck. Therefore, it is unsafe to jog in your pickup truck."
 
 
 
 
 </section><section data-markdown>
-
+#### Fallacies of Language
 
 - **Spin/Slant**. Arguing by the positive or negative definitions or connotations of one's words.  
 - Pro-choice vs. “Anti-choice”
@@ -1556,67 +1905,78 @@ Educated “Guessing” in Daily life
 
 ![out-group](https://github.com/user-attachments/assets/35011a87-ea5b-48e3-9b64-919a14ab7184)
 
-</section><section data-markdown>
-
-![outgroup](https://www.keithbuhler.com/assets/images/out-group.jpg)
-
-
 
 </section><section data-markdown>
 
 
-### Fallacies of Relevance
+#### Fallacies of Relevance
 
-1. **Ad Hominem.** (Attacking the person): This fallacy occurs when, instead of addressing someone's argument or position, you irrelevantly attack the person or some aspect of the person who is making the argument. The fallacious attack can also be direct to membership in a group or institution. Example: "Socrates' arguments about human excellence are rubbish. What could a man as ugly as he know about human excellence." "No, I will not reply. I see no need to defend my views against the objections of ignoramuses."
+*  **Ad Hominem.** (Attacking the person): 
+* This fallacy occurs when, instead of addressing someone's argument or position, you irrelevantly attack the person or some aspect of the person who is making the argument. The fallacious attack can also be direct to membership in a group or institution. Example: "Socrates' arguments about human excellence are rubbish. What could a man as ugly as he know about human excellence." "No, I will not reply. I see no need to defend my views against the objections of ignoramuses."
 
 
 
 
 </section><section data-markdown>
+#### Fallacies of Relevance
 
 
-2. **Appeal to Ignorance**. This fallacy occurs when you argue that your conclusion must be true, because there is no evidence against it. This fallacy wrongly shifts the burden of proof away from the one making the claim. Example: "You know that scientists can't prove that UFO's do not visit the Earth, so it makes sense to believe in them." "Since all who have tried to prove freedom of the will have failed, we are safe in assuming we are not free."
-
-
-
-
-</section><section data-markdown>
-
-3. **Appeal to (Irrelevant) Authority**. You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject. Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities. However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject, when the authority cannot be trusted to tell the truth, when authorities disagree on this subject (except for the occasional lone wolf), when the reasoner misquotes the authority, and so forth. Example:"The moon is covered with dust because the president of our neighborhood association said so." "Pacifism is a good idea because the brilliant scientist Einstein advocated it."
+* **Appeal to Ignorance**. 
+* This fallacy occurs when you argue that your conclusion must be true, because there is no evidence against it. This fallacy wrongly shifts the burden of proof away from the one making the claim. Example: "You know that scientists can't prove that UFO's do not visit the Earth, so it makes sense to believe in them." "Since all who have tried to prove freedom of the will have failed, we are safe in assuming we are not free."
 
 
 
 
 </section><section data-markdown>
 
-- **Ad Populum (Appeal to the People, Appeal to Majority, Ad Numerum, Appeal to the Gallery, Appeal to the Masses, Argument from Popularity, Argumentum ad Populum, Common Practice, Mob Appeal, Past Practice, Peer Pressure, and Traditional Wisdom.)**. 
+#### Fallacies of Relevance
+
+
+* *Appeal to (Irrelevant) Authority*. 
+
+* You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject. Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities. However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject, when the authority cannot be trusted to tell the truth, when authorities disagree on this subject (except for the occasional lone wolf), when the reasoner misquotes the authority, and so forth. Example:"The moon is covered with dust because the president of our neighborhood association said so." "Pacifism is a good idea because the brilliant scientist Einstein advocated it."
 
 
 
 
 </section><section data-markdown>
+#### Fallacies of Relevance
+
+- **Ad Populum (Appeal to the People**,
+* Appeal to Majority, Ad Numerum, Appeal to the Gallery, Appeal to the Masses, Argument from Popularity, Argumentum ad Populum, Common Practice, Mob Appeal, Past Practice, Peer Pressure, and Traditional Wisdom.)
+
+
+
+</section><section data-markdown>
+#### Fallacies of Relevance
 
 - **Ad Populum**. This fallacy claims that the conclusion is correct simply because it's what most everyone believes. Agreement with popular opinion is not necessarily a reliable sign of truth, and deviation from popular opinion is not necessarily a reliable sign of error, but if you assume it is and do so with enthusiasm, then you are using this fallacy.  The "too strongly" mentioned above is important in the description of the fallacy because what most everyone believes is, for that reason, somewhat likely to be true, all things considered. However, the fallacy occurs when this degree of support is overestimated. Example: "You should turn to channel 6. It's the most watched channel this year."
 
 
 
 </section><section data-markdown>
-
-- **Appeal to Motive**. This fallacy assumes a motive behind the speaker arguing the conclusion, and then dismisses the conclusion as false. Examples: "You're only arguing that taxes should be abolished because you are an anarchist and hate the government." "You're just saying that education is important for children because you are a principal and you'd lose your job if we saw through the lies."
-
+#### Fallacies of Relevance
 
 
-
-</section><section data-markdown>
-
-- **Faulty Analogy**. This fallacy consists in assuming that because two things are alike in one or more respects, they are necessarily alike in some other respect. Examples: "Medical Student: "No one objects to a physician looking up a difficult case in medical books. Why, then, shouldn't students taking a difficult examination be permitted to use their textbooks?" "Because human bodies become less active as they grow older, and because they eventually die, it is reasonable to expect that political bodies will become less and less active the longer they are in existence, and that they too will eventually die."
+- **Appeal to Motive**. 
+* This fallacy assumes a motive behind the speaker arguing the conclusion, and then dismisses the conclusion as false. Examples: "You're only arguing that taxes should be abolished because you are an anarchist and hate the government." "You're just saying that education is important for children because you are a principal and you'd lose your job if we saw through the lies."
 
 
 
 
 </section><section data-markdown>
 
--  **Group think**. A reasoner uses the Group Think Fallacy if he or she substitutes pride of membership in the group for reasons to support the group's policy. If that's what our group thinks, then that's good enough for me. It's what I think, too. "Blind" patriotism is a rather nasty version of the fallacy. Example: "We K-Mart employees know that K-Mart brand items are better than Wall-Mart brand items because, well, they are from K-Mart, aren't they?"; "97% of scientists agree that human caused climate change is real."
+#### Fallacies of Relevance
+
+
+- **Faulty Analogy**. 
+* This fallacy consists in assuming that because two things are alike in one or more respects, they are necessarily alike in some other respect. Examples: "Medical Student: "No one objects to a physician looking up a difficult case in medical books. Why, then, shouldn't students taking a difficult examination be permitted to use their textbooks?" "Because human bodies become less active as they grow older, and because they eventually die, it is reasonable to expect that political bodies will become less and less active the longer they are in existence, and that they too will eventually die."
+
+
+</section><section data-markdown>
+
+-  **Group think**. 
+* A reasoner uses the Group Think Fallacy if he or she substitutes pride of membership in the group for reasons to support the group's policy. If that's what our group thinks, then that's good enough for me. It's what I think, too. "Blind" patriotism is a rather nasty version of the fallacy. Example: "We K-Mart employees know that K-Mart brand items are better than Wall-Mart brand items because, well, they are from K-Mart, aren't they?"; "97% of scientists agree that human caused climate change is real."
 
 
 
@@ -1628,57 +1988,96 @@ Educated “Guessing” in Daily life
 
 </section><section data-markdown>
 
+### Inductive Fallacies
 
 - **Composition and Division.** This fallacy attributes properties of the parts to the whole or properties of the whole to the parts.  
 - Examples of Composition: "Each person in America is a citizen, therefore the country is a citizen." "Each brick in the church is a rectangular. Therefore the dome of the church is rectangular." "The 9/11 bombers were Muslims therefore Islam is a violent religion."
 - Examples of Division: "The Church as a whole is a spotless bride. Therefore I am a spotless bride." "The human race is thousands of years old. Therefore I am thousands of years old."
 
 </section><section data-markdown>
+### Inductive Fallacies
 
 
 
 - **Straw man**. Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent wouldn't endorse, and then proceed to attack the easily refuted position (the straw man) believing you have thereby undermined the opponent's actual position. Example: "Opponent: Because of the killing and suffering of Indians that followed Columbus's discovery of America, the City of Berkeley should declare that Columbus Day will no longer be observed in our city. Speaker: This is ridiculous, fellow members of the city council. It's not true that everybody who ever came to America from another country somehow oppressed the Indians. I say we should continue to observe Columbus Day, and vote down this resolution that will make the City of Berkeley the laughing stock of the nation."
 
 </section><section data-markdown>
+### Inductive Fallacies
+
 
 - **Non Sequitur**. When a conclusion is supported only by extremely weak reasons or by irrelevant reasons, the argument is fallacious and is said to be a Non Sequitur. However, we usually apply the term only when we cannot think of how to label the argument with a more specific fallacy name. Any deductively invalid inference is a non sequitur if it also very weak when assessed by inductive standards. Example: "Nuclear disarmament is a risk, but everything in life involves a risk. Every time you drive in a car you are taking a risk. If you're willing to drive in a car, you should be willing to have disarmament."
 
 </section><section data-markdown>
 
+### Inductive Fallacies
+
+
 - **Slippery Slope**. In a slippery slope argument, a course of action is rejected because, with little or no evidence, one insists that it will lead to a chain reaction resulting in an undesirable end or ends. The slippery slope involves an acceptance of a succession of events without direct evidence that this course of events will happen. Example: "We can't permit the sale of marijuana by doctor's prescription, because that will lead people to believe it's an acceptable drug; this will open the floodgates to the complete legalization of the drug for use by every pothead in the country."; "If Texas adopts a personal income tax, I'm moving away. An income tax at the state level is just a first step to communism."
 
 </section><section data-markdown>
+
+### Inductive Fallacies
+
 
 - **Post Hoc, Ergo Proper Hoc (False Cause)**. In the false cause argument, you cite event A as the cause of event B simply because B came after A. Example: "Every time I wear my green socks, we win the game." "The President's policies are so risky, the stock market bubble crashed as soon as he was elected."
 
 
 </section><section data-markdown>
 
+### Fallacies of Presumption
+
+* **Petitio Principii (Begging the Question).** 
+* The fallacy of begging the question occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. In other words, you assume without proof the stand/position, or a significant part of the stand, that is in question. Begging the question is also called arguing in a circle. Example: "Erica: "How do you know that the bible is divinely inspired?" Pedro: "Because is says right in the third chapter of II Timothy that 'all scripture is given by divine inspiration of God.'; "People who deny the truth of Marxism are simply dancing to the tune of their capitalist masters, as Marx understood so well."
+
+</section><section data-markdown>
 
 ### Fallacies of Presumption
-1. **Petitio Principii (Begging the Question).** The fallacy of begging the question occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. In other words, you assume without proof the stand/position, or a significant part of the stand, that is in question. Begging the question is also called arguing in a circle. Example: "Erica: "How do you know that the bible is divinely inspired?" Pedro: "Because is says right in the third chapter of II Timothy that 'all scripture is given by divine inspiration of God.'; "People who deny the truth of Marxism are simply dancing to the tune of their capitalist masters, as Marx understood so well."
+
+* **False Dilemma**. 
+* When you reason from an either-or position and you haven't considered all relevant possibilities you commit the fallacy of false dilemma. Examples: "Are you a Republican or a Democrat?" "Good students will study and learn without the threat of an exam, and bad students won't study and learn even with the threat of an exam. So, exams serve no purpose."
 
 </section><section data-markdown>
 
-2. **False Dilemma**. When you reason from an either-or position and you haven't considered all relevant possibilities you commit the fallacy of false dilemma. Examples: "Are you a Republican or a Democrat?" "Good students will study and learn without the threat of an exam, and bad students won't study and learn even with the threat of an exam. So, exams serve no purpose."
+### Fallacies of Presumption
+
+* **Loaded question**. 
+* Assuming something false as a premise of a question. Example: Prosecutor to defendant: "So how did you feel when you robbed the bank?" Reporter to politician: "When will you stop being a racist?"
 
 </section><section data-markdown>
 
+### Fallacies of Presumption
 
-3. **Loaded question**. Assuming something false as a premise of a question. Example: Prosecutor to defendant: "So how did you feel when you robbed the bank?" Reporter to politician: "When will you stop being a racist?"
-
-</section><section data-markdown>
-
-4. **Hedging**. You are hedging if you refine your claim simply to avoid counterevidence and then act as if your revised claim is the same as the original. Example: "Samantha: David is a totally selfish person. Yvonne: I thought we was a boy scout leader. Don’t you have to give a lot of your time for that? Samantha: Well, David’s totally selfish about what he gives money to. He won’t spend a dime on anyone else.  Yvonne: I saw him bidding on things at the high school auction fundraiser. Samantha: Well, except for that he’s totally selfish about money."
+* **Hedging**. 
+* You are hedging if you refine your claim simply to avoid counterevidence and then act as if your revised claim is the same as the original. Example: "Samantha: David is a totally selfish person. Yvonne: I thought we was a boy scout leader. Don’t you have to give a lot of your time for that? Samantha: Well, David’s totally selfish about what he gives money to. He won’t spend a dime on anyone else.  Yvonne: I saw him bidding on things at the high school auction fundraiser. Samantha: Well, except for that he’s totally selfish about money."
 
 </section><section data-markdown>
 
-5. **No True Scotsman**. This error is a kind of Ad Hoc Rescue of one's generalization in which the reasoner re-characterizes the situation solely in order to escape refutation of the generalization. Example: "Smith: All Scotsmen are loyal and brave. Jones: But McDougal over there is a Scotsman, and he was arrested by his commanding officer for running from the enemy.Smith: Well, if that's right, it just shows that McDougal wasn't a TRUE Scotsman."
+### Fallacies of Presumption
+
+* **No True Scotsman**. 
+* This error is a kind of Ad Hoc Rescue of one's generalization in which the reasoner re-characterizes the situation solely in order to escape refutation of the generalization. Example: "Smith: All Scotsmen are loyal and brave. Jones: But McDougal over there is a Scotsman, and he was arrested by his commanding officer for running from the enemy.Smith: Well, if that's right, it just shows that McDougal wasn't a TRUE Scotsman."
 
 </section><section data-markdown>
 
+* Review / practice
+* What do (most) fallacies have in common? 
 
-### Metaphysical Fallacies
+</section><section data-markdown>
+
+* Good argument = premise -> conclusion
+* Relevance Fallacies = premise -> premise
+* Presumption Fallacies = conclusion -> conclusion
+
+* Love is a fallacy (114)
+
+
+</section><section data-markdown>
+
+* A bonus section! *Metaphysical* fallacies!
+
+</section><section data-markdown>
+
+### Metaphysical Fallacies (109) 
 
 </section><section data-markdown>
 
@@ -1744,220 +2143,13 @@ prosperous in this life.
 </section><section data-markdown>
 
 
-## WRAPPING UP day 3
+## WRAPPING UP day 4
 
 * Review (check outline)
 * Questions?
 * Exercises
 
 </section> <!--last slide-->
-</section> <!--Day 3 end-->
-
-
-
-
-
-
-<section data-background="http://www.keithbuhler.com/images/matrix.png"><!--Day 4 Begin-->
-<section data-markdown>
-
-
-## Day 4 - Fallacies (cont'd) and Complex Arguments 
-
----
-
-
-**Intro to Logic, St Athanasius College, 2025**
-
-
----
-
-
-* Reasoning/deduction 
-* Syllogisms
-* Chains or clusters of syllagisms
-* Partially implied syllogisms (Entheymemes)
-
-
-
-
-</section>
-<section data-markdown>
-
-
-</section><section data-markdown>
-
-### Syllogisms  <!--Unfinished section-->
-
-
-* Structure
-* Major premise, minor premise, conclusion
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Demonstrative syllagisms (230) 
-
-
-*  <!--Unfinished section-->
-
-
-
-
-</section><section data-markdown>
-
-# 3rd Act 
-
-## Reasoning (Argumentation)  (186-199)
-
-
-* What is reason? 
-* "man is a rational animal" 
-	* The term 'man' is inclusive
-	* 'rational' is inclusive too!
-* 'Rationality' includes wisdom, intuition, essence, conscience, self-knowledge, aesthetics -- *and math* and logic
-
-
-
-
-
-</section><section data-markdown>
-
-
-### What can reason do? 
-
-* Reason allows us to know what must be true, hypothetically (little green men on mars), beyond our experience
-* Reason allows us to know universal truths (2 + 2)
-* Reason allows us to know necessary and unchangable truths
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Deduction
-
-
-* Deduction is the ultimate foundation of the *syllogism*
-* The syllogism is the 'atom' of reasonining, the building block of arguments, the cells of the rational organism
-
-> "All planets orbit the sun. Earth is a planet. Therefore...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
- 
-### Detecting arguments  (190) 
-
-
-* Detect presence
-* Get into our net
-* Decide if edible 
-
-
-
-
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Truth and validity 
-
-
-
-
-
-</section><section data-markdown>
-
-### NECESSITY
-
-
-
-
-
-</section><section data-markdown>
-
-### Categorical syllogisms, terms, premises
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Kinds of argument
-
-
-* Four causes (review!) 
-* Classification of arguments
-	* Form
-	* Causality
-	* Direction of movement
-	* Length
-	* Strategy
-	* Cumulative
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Compound Syllogisms
-
-
-*  <!--Unfinished section-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-# WRAPPING UP day 4
-* Questions?
-* Exercises
-
-</section>
 </section> <!--Day 4 end-->
 
 
