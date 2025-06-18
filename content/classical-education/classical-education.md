@@ -36,7 +36,7 @@ I hope these resources help you not only to be a better educator, but to fall in
 
 ## Six Properties of a Good Education
 
-![fun books](http://keithbuhler.com/images/fun-books3.png)
+![fun books](https://keithbuhler.com/images/fun-books3.png)
 
 
 1. **Read Great Books.** One clear mark of a classical school is a rich diet of [“Great Books”](https://en.wikipedia.org/wiki/Great_books) of western civilization. These powerful books are among the best works ever produced by human hands. They are beautiful and timeless texts that  -- even when they are  wrong -- delight and instruct.  They naturally enliven student interest and profoundly impact the imagination, mind, and heart of any who pick them up. Engaging in careful discussion in small groups naturally teaches students the “meta skills” of learning how to learn and equips them for a life of continual growth. Homer’s *Iliad*, Virgil’s *Aeneid*, Dante’s *Divine Comedy*, Shakespeare’s *Tempest*, Newton’s *Principia*, Wollestencraft’s *Frankenstein*, Dosteyevsky's *Brothers Karamasov*, C. S. Lewis’ *Chronicles of Narnia*, Tolkein's *Lord of the Rings* are just a few of the timeless, illuminating, accessible and fascinating books from the Western canon through which students are introduced to the history, the priorities, the dynamic life of our culture. Of course, the heritage of the west is not just its books; it includes art, architecture, music, science, technology, theater, and film. Students who are reared on such a nutritious intellectual diet are not only much more fascinated by their studies, but often find their mind, heart, and habits shaped for a lifetime of learning in and out of the classroom. The Great Books teach *history* folded in to its curriculum from the earliest stage. 
@@ -50,7 +50,7 @@ I hope these resources help you not only to be a better educator, but to fall in
 
 
 ## Healthy Particularity
-![dialogue](http://keithbuhler.com/images/fun-discussion.png)
+![dialogue](https://keithbuhler.com/images/fun-discussion.png)
 
 Every classical school has its particular personality, place, and presentation. That is a strength rather than a weakness. 
 
