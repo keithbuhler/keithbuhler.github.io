@@ -1947,7 +1947,8 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 #### Fallacies of Language
 
-- **Amphiboly**. An amphiboly can occur even when every term in an argument is univocal, if the grammatical construction of a sentence creates its own ambiguity. Example: "A reckless motorist Thursday struck and injured a student who was jogging through the campus in his pickup truck. Therefore, it is unsafe to jog in your pickup truck."
+- **Amphiboly**. An amphiboly can occur even when every term in an argument is univocal, if the grammatical construction of a sentence creates its own ambiguity. 
+* Example: "A reckless motorist Thursday struck and injured a student who was jogging through the campus in his pickup truck. Therefore, it is unsafe to jog in your pickup truck."
 
 
 
@@ -1956,6 +1957,7 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 #### Fallacies of Language
 
 - **Spin/Slant**. Arguing by the positive or negative definitions or connotations of one's words.  
+
 - Pro-choice vs. “Anti-choice”
 - Pro-life vs. “Anti-Life”.
 - "Terrorist" vs. "Freedom fighter". 
@@ -1974,29 +1976,31 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 #### Fallacies of Relevance
 
 *  **Ad Hominem.** (Attacking the person): 
-* This fallacy occurs when, instead of addressing someone's argument or position, you irrelevantly attack the person or some aspect of the person who is making the argument. The fallacious attack can also be direct to membership in a group or institution. Example: "Socrates' arguments about human excellence are rubbish. What could a man as ugly as he know about human excellence." "No, I will not reply. I see no need to defend my views against the objections of ignoramuses."
+* This fallacy occurs when, instead of addressing someone's argument or position, you irrelevantly attack the person or some aspect of the person who is making the argument. The fallacious attack can also be direct to membership in a group or institution. 
+* Example: "Socrates' arguments about human excellence are rubbish. What could a man as ugly as he know about human excellence." 
+* "No, I will not reply. I see no need to defend my views against the objections of ignoramuses."
 
 
 
 
 </section><section data-markdown>
-#### Fallacies of Relevance
-
-
-* **Appeal to Ignorance**. 
-* This fallacy occurs when you argue that your conclusion must be true, because there is no evidence against it. This fallacy wrongly shifts the burden of proof away from the one making the claim. Example: "You know that scientists can't prove that UFO's do not visit the Earth, so it makes sense to believe in them." "Since all who have tried to prove freedom of the will have failed, we are safe in assuming we are not free."
+#### Fallacies of Relevance - **Appeal to Ignorance**. 
+* This fallacy occurs when you argue that your conclusion must be true, because there is no evidence against it. This fallacy wrongly shifts the burden of proof away from the one making the claim. 
+* Example: "You know that scientists can't prove that UFO's do not visit the Earth, so it makes sense to believe in them."
+* "Since all who have tried to prove freedom of the will have failed, we are safe in assuming we are not free."
 
 
 
 
 </section><section data-markdown>
 
-#### Fallacies of Relevance
-
-
-* *Appeal to (Irrelevant) Authority*. 
+#### Fallacies of Relevance - Appeal to (Irrelevant) Authority
 
 * You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject. Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities. However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject, when the authority cannot be trusted to tell the truth, when authorities disagree on this subject (except for the occasional lone wolf), when the reasoner misquotes the authority, and so forth. 
+
+</section><section data-markdown>
+
+#### Fallacies of Relevance - Appeal to (Irrelevant) Authority
 * Example:"The moon is covered with dust because the president of our neighborhood association said so." 
 * "Pacifism is a good idea because the brilliant scientist Einstein advocated it."
 
@@ -2006,8 +2010,9 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 </section><section data-markdown>
 #### Fallacies of Relevance
 
-- **Ad Populum (Appeal to the People**,
-* Appeal to Majority, Ad Numerum, Appeal to the Gallery, Appeal to the Masses, Argument from Popularity, Argumentum ad Populum, Common Practice, Mob Appeal, Past Practice, Peer Pressure, and Traditional Wisdom.)
+- **Ad Populum (Appeal to the People)**,
+* This one has a lot of names!
+* Appeal to Majority, Ad Numerum, Appeal to the Gallery, Appeal to the Masses, Argument from Popularity, Argumentum ad Populum, Common Practice, Mob Appeal, Past Practice, Peer Pressure, and Traditional Wisdom.
 
 
 
@@ -2070,29 +2075,29 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 * "The human race is thousands of years old. Therefore I am thousands of years old."
 
 </section><section data-markdown>
-### Inductive Fallacies
+#### Inductive Fallacies -- Straw Man
 
+* Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent wouldn't endorse, and then proceed to attack the easily refuted position (the straw man) believing you have thereby undermined the opponent's actual position. 
 
+</section><section data-markdown>
+#### Inductive Fallacies -- Straw Man
 
-- **Straw man**. Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent wouldn't endorse, and then proceed to attack the easily refuted position (the straw man) believing you have thereby undermined the opponent's actual position. 
 * Example: "Opponent: Because of the killing and suffering of Indians that followed Columbus's discovery of America, the City of Berkeley should declare that Columbus Day will no longer be observed in our city. 
 * Speaker: This is ridiculous, fellow members of the city council. It's not true that everybody who ever came to America from another country somehow oppressed the Indians. I say we should continue to observe Columbus Day, and vote down this resolution that will make the City of Berkeley the laughing stock of the nation."
 
 </section><section data-markdown>
-### Inductive Fallacies
+### Inductive Fallacies -- Non sequitur (does not follow)
 
-
-- **Non Sequitur**. When a conclusion is supported only by extremely weak reasons or by irrelevant reasons, the argument is fallacious and is said to be a Non Sequitur. However, we usually apply the term only when we cannot think of how to label the argument with a more specific fallacy name. Any deductively invalid inference is a non sequitur if it also very weak when assessed by inductive standards. 
+When a conclusion is supported only by extremely weak reasons or by irrelevant reasons, the argument is fallacious and is said to be a Non Sequitur. However, we usually apply the term only when we cannot think of how to label the argument with a more specific fallacy name. Any deductively invalid inference is a non sequitur if it also very weak when assessed by inductive standards. 
 * Example: "Nuclear disarmament is a risk, but everything in life involves a risk. Every time you drive in a car you are taking a risk. If you're willing to drive in a car, you should be willing to have disarmament."
 
 </section><section data-markdown>
 
 ### Inductive Fallacies
 
-
 - **Slippery Slope**. In a slippery slope argument, a course of action is rejected because, with little or no evidence, one insists that it will lead to a chain reaction resulting in an undesirable end or ends. The slippery slope involves an acceptance of a succession of events without direct evidence that this course of events will happen. 
 * Example: "We can't permit the sale of marijuana by doctor's prescription, because that will lead people to believe it's an acceptable drug; this will open the floodgates to the complete legalization of the drug for use by every pothead in the country."; 
-* "If Texas adopts a personal income tax, I'm moving away. An income tax at the state level is just a first step to communism."
+* "If Texas adopts a personal income tax, I'm moving away. An income tax at the state level is just a first step to *communism*."
 
 </section><section data-markdown>
 
@@ -2106,11 +2111,15 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 </section><section data-markdown>
 
-### Fallacies of Presumption
+### Fallacies of Presumption -- Petitio Principii (Begging the Question)
 
-* **Petitio Principii (Begging the Question).** 
 * The fallacy of begging the question occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. In other words, you assume without proof the stand/position, or a significant part of the stand, that is in question. Begging the question is also called arguing in a circle. 
-* Example: "Erica: "How do you know that the Bible is divinely inspired?" Pedro: "Because is says right in the third chapter of II Timothy that 'all scripture is given by divine inspiration of God.';
+
+</section><section data-markdown>
+
+### Fallacies of Presumption -- Petitio Principii (Begging the Question)
+
+* Example: "Erica: "How do you know that the Bible is divinely inspired?" Pedro: "Because is says right in the third chapter of II Timothy that 'all scripture is given by divine inspiration of God.'
 * "Sheeple who deny the truth of Marxism are simply dancing to the tune of their capitalist masters, as Marx understood so well."
 * "Women who oppose feminism have internalized mysogyny."
 
@@ -2142,9 +2151,8 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 </section><section data-markdown>
 
-### Fallacies of Presumption
+### Fallacies of Presumption -- No True Scotsman
 
-* **No True Scotsman**. 
 * This error is a kind of Ad Hoc Rescue of one's generalization in which the reasoner re-characterizes the situation solely in order to escape refutation of the generalization. Example: "Smith: All Scotsmen are loyal and brave. Jones: But McDougal over there is a Scotsman, and he was arrested by his commanding officer for running from the enemy.Smith: Well, if that's right, it just shows that McDougal wasn't a TRUE Scotsman."
 
 </section><section data-markdown>
