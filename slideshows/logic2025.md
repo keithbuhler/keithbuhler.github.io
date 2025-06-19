@@ -2041,7 +2041,6 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 #### Fallacies of Relevance
 
-
 - **Faulty Analogy**. 
 * This fallacy consists in assuming that because two things are alike in one or more respects, they are necessarily alike in some other respect. 
 * Examples: "Medical Student: "No one objects to a physician looking up a difficult case in medical books. Why, then, shouldn't students taking a difficult examination be permitted to use their textbooks?" 
@@ -2049,8 +2048,8 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 
 </section><section data-markdown>
+#### Fallacies of Relevance -  **Group think**
 
--  **Group think**. 
 * A reasoner uses the Group Think Fallacy if he or she substitutes pride of membership in the group for reasons to support the group's policy. If that's what our group thinks, then that's good enough for me. It's what I think, too. "Blind" patriotism is a rather nasty version of the fallacy. 
 * Example: "We K-Mart employees know that K-Mart brand items are better than Wall-Mart brand items because, well, they are from K-Mart, aren't they?"; 
 * "97% of scientists agree that human caused climate change is real."
@@ -2059,9 +2058,9 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 </section><section data-markdown>
 
-### Inductive Fallacies
+### Inductive Fallacies - Hasty Generalization
 
-- **Hasty generalization.** This fallacy occurs when we we make a generalization on the basis of insufficient evidence. This may occur when we rely on too small of a sample or an unrepresentative sample to support the generalization. 
+* This fallacy occurs when we we make a generalization on the basis of insufficient evidence. This may occur when we rely on too small of a sample or an unrepresentative sample to support the generalization. 
 * Example: "Children of faculty are brats. I baby-sit for one of my professors and his children are spoiled and demanding."; 
 * "You don't want to take a History [literature] from a man [woman]. They always have a sexist [feminist] bias."
 
@@ -2246,6 +2245,8 @@ prosperous in this life.
 * Review (check outline)
 * Questions?
 * Exercises
+* How to write a Socratic Dialogue (344)
+
 
 </section> <!--last slide-->
 </section> <!--Day 4 end-->
@@ -2316,7 +2317,7 @@ Who ever reached this extremity of wisdom? Who was ever deemed worthy of so grea
 ### Logic and theology 
 
 
-* Discuss
+* Euthyphro
 
 
 
@@ -2327,34 +2328,7 @@ Who ever reached this extremity of wisdom? Who was ever deemed worthy of so grea
 
 </section><section data-markdown>
 
-### Logic and cosmology 
-
-
-* Discuss
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Logic and anthropology
-
-
-* Discuss
-
-
-
-
-
-
-
-
-
-
-
+### Your socratic dialogues
 
 
 
@@ -2363,25 +2337,9 @@ Who ever reached this extremity of wisdom? Who was ever deemed worthy of so grea
 
 </section><section data-markdown>
 
-### Logic and epistemology 
-
+### 336 - Fatima and Tiffany 
 
 * Discuss
-
-
-
-
-
-
-
-</section><section data-markdown>
-
-### Writing a socratic dialogue!
-
-
-* Instructions
-
-
 
 
 </section><section data-markdown>
@@ -2389,23 +2347,7 @@ Who ever reached this extremity of wisdom? Who was ever deemed worthy of so grea
 ### Final exam
 
 
-* List
 </section><section data-markdown>
-
-**Title** <!--Unfinished section-->
-
-
-
-* List
-</section><section data-markdown>
-
-**Title** <!--Unfinished section-->
-
-
-
-* List
-</section><section data-markdown>
-
 
 ## WRAPPING UP day 5
 
