@@ -1700,7 +1700,7 @@ Exercises 205
 
 
 
-# Day 4 - Fallacies  
+# Day 4 - Informal Fallacies  
 
 
 ---
@@ -1718,6 +1718,11 @@ Exercises 205
 * (48 slides!) 
 
 
+</section><section data-markdown>
+
+* Review homework: predication
+
+
 
 </section><section data-markdown>
 
@@ -1733,6 +1738,8 @@ Exercises 205
 * 'evidence'
 * 'shows'
 * 'demonstrates'
+
+... And where the magic *fails*!
 
 </section><section data-markdown>
 
@@ -1873,14 +1880,20 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 5. Appeal to Irrelevant Authority
 6. Ad Populum (Appeal to Majority)
 7. Appeal to Motive
-7. Faulty Analogy
-8. Group Think
-9. Hasty Generalization
-10. Composition and division
-11. Straw Man
-12. Non Sequitur (doesn't follow)
+8. Faulty Analogy
+9. Group Think
+10. Hasty Generalization
+11. Composition and division
+12. Straw Man
+13. Non Sequitur (doesn't follow)
 14. Slippery Slope
 15. False Cause
+~~~
+
+</section><section data-markdown>
+
+### 23 of the 49 Fallacies
+~~~
 16. Petitio Principii (begging the question)
 17. False Dilemma
 18. Loaded Question
@@ -1891,7 +1904,6 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 23. Confusing Quality / Quantity
 24. Confusing Abstract / Concrete
 ~~~
-
 
 
 </section><section data-markdown>
@@ -1908,6 +1920,18 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 * Language
 * Presumption
 * Weak Induction
+
+
+</section><section data-markdown>
+
+### So what are some themes / categories to help us understand these fallacies? 
+
+
+* Relevance -- premises don't connect to conclusion *at all*
+* Language -- terms in premises moving, shifty, or vague
+* Presumption -- conclusion is hidden in premises
+* Weak Induction -- premises don't connect to conclusion *enough*
+
 
 </section><section data-markdown>
 
@@ -1972,7 +1996,9 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 * *Appeal to (Irrelevant) Authority*. 
 
-* You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject. Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities. However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject, when the authority cannot be trusted to tell the truth, when authorities disagree on this subject (except for the occasional lone wolf), when the reasoner misquotes the authority, and so forth. Example:"The moon is covered with dust because the president of our neighborhood association said so." "Pacifism is a good idea because the brilliant scientist Einstein advocated it."
+* You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject. Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities. However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject, when the authority cannot be trusted to tell the truth, when authorities disagree on this subject (except for the occasional lone wolf), when the reasoner misquotes the authority, and so forth. 
+* Example:"The moon is covered with dust because the president of our neighborhood association said so." 
+* "Pacifism is a good idea because the brilliant scientist Einstein advocated it."
 
 
 
@@ -1988,7 +2014,9 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 </section><section data-markdown>
 #### Fallacies of Relevance
 
-- **Ad Populum**. This fallacy claims that the conclusion is correct simply because it's what most everyone believes. Agreement with popular opinion is not necessarily a reliable sign of truth, and deviation from popular opinion is not necessarily a reliable sign of error, but if you assume it is and do so with enthusiasm, then you are using this fallacy.  The "too strongly" mentioned above is important in the description of the fallacy because what most everyone believes is, for that reason, somewhat likely to be true, all things considered. However, the fallacy occurs when this degree of support is overestimated. Example: "You should turn to channel 6. It's the most watched channel this year."
+- **Ad Populum**. This fallacy claims that the conclusion is correct simply because it's what most everyone believes. Agreement with popular opinion is not necessarily a reliable sign of truth, and deviation from popular opinion is not necessarily a reliable sign of error, but if you assume it is and do so with enthusiasm, then you are using this fallacy.  The "too strongly" mentioned above is important in the description of the fallacy because what most everyone believes is, for that reason, somewhat likely to be true, all things considered. However, the fallacy occurs when this degree of support is overestimated. 
+* Example: "You should turn to channel 6. It's the most watched channel this year."
+* "America's favorite french fry."
 
 
 
@@ -1997,7 +2025,9 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 
 - **Appeal to Motive**. 
-* This fallacy assumes a motive behind the speaker arguing the conclusion, and then dismisses the conclusion as false. Examples: "You're only arguing that taxes should be abolished because you are an anarchist and hate the government." "You're just saying that education is important for children because you are a principal and you'd lose your job if we saw through the lies."
+* This fallacy assumes a motive behind the speaker arguing the conclusion, and then dismisses the conclusion as false. 
+* Examples: "You're only arguing that taxes should be abolished because you are an anarchist and hate the government." 
+* "You're just saying that education is important for children because you are a principal and you'd lose your job if we saw through the lies."
 
 
 
@@ -2008,13 +2038,17 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 
 - **Faulty Analogy**. 
-* This fallacy consists in assuming that because two things are alike in one or more respects, they are necessarily alike in some other respect. Examples: "Medical Student: "No one objects to a physician looking up a difficult case in medical books. Why, then, shouldn't students taking a difficult examination be permitted to use their textbooks?" "Because human bodies become less active as they grow older, and because they eventually die, it is reasonable to expect that political bodies will become less and less active the longer they are in existence, and that they too will eventually die."
+* This fallacy consists in assuming that because two things are alike in one or more respects, they are necessarily alike in some other respect. 
+* Examples: "Medical Student: "No one objects to a physician looking up a difficult case in medical books. Why, then, shouldn't students taking a difficult examination be permitted to use their textbooks?" 
+* "Because human bodies become less active as they grow older, and because they eventually die, it is reasonable to expect that political bodies will become less and less active the longer they are in existence, and that they too will eventually die."
 
 
 </section><section data-markdown>
 
 -  **Group think**. 
-* A reasoner uses the Group Think Fallacy if he or she substitutes pride of membership in the group for reasons to support the group's policy. If that's what our group thinks, then that's good enough for me. It's what I think, too. "Blind" patriotism is a rather nasty version of the fallacy. Example: "We K-Mart employees know that K-Mart brand items are better than Wall-Mart brand items because, well, they are from K-Mart, aren't they?"; "97% of scientists agree that human caused climate change is real."
+* A reasoner uses the Group Think Fallacy if he or she substitutes pride of membership in the group for reasons to support the group's policy. If that's what our group thinks, then that's good enough for me. It's what I think, too. "Blind" patriotism is a rather nasty version of the fallacy. 
+* Example: "We K-Mart employees know that K-Mart brand items are better than Wall-Mart brand items because, well, they are from K-Mart, aren't they?"; 
+* "97% of scientists agree that human caused climate change is real."
 
 
 
@@ -2022,7 +2056,9 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 ### Inductive Fallacies
 
-- **Hasty generalization.** This fallacy occurs when we we make a generalization on the basis of insufficient evidence. This may occur when we rely on too small of a sample or an unrepresentative sample to support the generalization. Example: "Children of faculty are brats. I baby-sit for one of my professors and his children are spoiled and demanding."; "You don't want to take history from a man. They always have a sexist bias."
+- **Hasty generalization.** This fallacy occurs when we we make a generalization on the basis of insufficient evidence. This may occur when we rely on too small of a sample or an unrepresentative sample to support the generalization. 
+* Example: "Children of faculty are brats. I baby-sit for one of my professors and his children are spoiled and demanding."; 
+* "You don't want to take a History [literature] from a man [woman]. They always have a sexist [feminist] bias."
 
 </section><section data-markdown>
 
@@ -2030,34 +2066,42 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 
 - **Composition and Division.** This fallacy attributes properties of the parts to the whole or properties of the whole to the parts.  
 - Examples of Composition: "Each person in America is a citizen, therefore the country is a citizen." "Each brick in the church is a rectangular. Therefore the dome of the church is rectangular." "The 9/11 bombers were Muslims therefore Islam is a violent religion."
-- Examples of Division: "The Church as a whole is a spotless bride. Therefore I am a spotless bride." "The human race is thousands of years old. Therefore I am thousands of years old."
+- Examples of Division: "The Church as a whole is a spotless bride. Therefore I am a spotless bride." 
+* "The human race is thousands of years old. Therefore I am thousands of years old."
 
 </section><section data-markdown>
 ### Inductive Fallacies
 
 
 
-- **Straw man**. Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent wouldn't endorse, and then proceed to attack the easily refuted position (the straw man) believing you have thereby undermined the opponent's actual position. Example: "Opponent: Because of the killing and suffering of Indians that followed Columbus's discovery of America, the City of Berkeley should declare that Columbus Day will no longer be observed in our city. Speaker: This is ridiculous, fellow members of the city council. It's not true that everybody who ever came to America from another country somehow oppressed the Indians. I say we should continue to observe Columbus Day, and vote down this resolution that will make the City of Berkeley the laughing stock of the nation."
+- **Straw man**. Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent wouldn't endorse, and then proceed to attack the easily refuted position (the straw man) believing you have thereby undermined the opponent's actual position. 
+* Example: "Opponent: Because of the killing and suffering of Indians that followed Columbus's discovery of America, the City of Berkeley should declare that Columbus Day will no longer be observed in our city. 
+* Speaker: This is ridiculous, fellow members of the city council. It's not true that everybody who ever came to America from another country somehow oppressed the Indians. I say we should continue to observe Columbus Day, and vote down this resolution that will make the City of Berkeley the laughing stock of the nation."
 
 </section><section data-markdown>
 ### Inductive Fallacies
 
 
-- **Non Sequitur**. When a conclusion is supported only by extremely weak reasons or by irrelevant reasons, the argument is fallacious and is said to be a Non Sequitur. However, we usually apply the term only when we cannot think of how to label the argument with a more specific fallacy name. Any deductively invalid inference is a non sequitur if it also very weak when assessed by inductive standards. Example: "Nuclear disarmament is a risk, but everything in life involves a risk. Every time you drive in a car you are taking a risk. If you're willing to drive in a car, you should be willing to have disarmament."
-
-</section><section data-markdown>
-
-### Inductive Fallacies
-
-
-- **Slippery Slope**. In a slippery slope argument, a course of action is rejected because, with little or no evidence, one insists that it will lead to a chain reaction resulting in an undesirable end or ends. The slippery slope involves an acceptance of a succession of events without direct evidence that this course of events will happen. Example: "We can't permit the sale of marijuana by doctor's prescription, because that will lead people to believe it's an acceptable drug; this will open the floodgates to the complete legalization of the drug for use by every pothead in the country."; "If Texas adopts a personal income tax, I'm moving away. An income tax at the state level is just a first step to communism."
+- **Non Sequitur**. When a conclusion is supported only by extremely weak reasons or by irrelevant reasons, the argument is fallacious and is said to be a Non Sequitur. However, we usually apply the term only when we cannot think of how to label the argument with a more specific fallacy name. Any deductively invalid inference is a non sequitur if it also very weak when assessed by inductive standards. 
+* Example: "Nuclear disarmament is a risk, but everything in life involves a risk. Every time you drive in a car you are taking a risk. If you're willing to drive in a car, you should be willing to have disarmament."
 
 </section><section data-markdown>
 
 ### Inductive Fallacies
 
 
-- **Post Hoc, Ergo Proper Hoc (False Cause)**. In the false cause argument, you cite event A as the cause of event B simply because B came after A. Example: "Every time I wear my green socks, we win the game." "The President's policies are so risky, the stock market bubble crashed as soon as he was elected."
+- **Slippery Slope**. In a slippery slope argument, a course of action is rejected because, with little or no evidence, one insists that it will lead to a chain reaction resulting in an undesirable end or ends. The slippery slope involves an acceptance of a succession of events without direct evidence that this course of events will happen. 
+* Example: "We can't permit the sale of marijuana by doctor's prescription, because that will lead people to believe it's an acceptable drug; this will open the floodgates to the complete legalization of the drug for use by every pothead in the country."; 
+* "If Texas adopts a personal income tax, I'm moving away. An income tax at the state level is just a first step to communism."
+
+</section><section data-markdown>
+
+### Inductive Fallacies
+
+
+- **Post Hoc, Ergo Proper Hoc (False Cause)**. In the false cause argument, you cite event A as the cause of event B simply because B came after A. 
+* Example: "Every time I wear my green socks, we win the game. My lucky socks will give us the victory!"
+* "The President is pushing policies so risky, the whole stock market crashed as soon as he was elected."
 
 
 </section><section data-markdown>
@@ -2065,28 +2109,36 @@ LA has a violent crime rate of about 2% (i.e., maybe once a week)... 6 days of p
 ### Fallacies of Presumption
 
 * **Petitio Principii (Begging the Question).** 
-* The fallacy of begging the question occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. In other words, you assume without proof the stand/position, or a significant part of the stand, that is in question. Begging the question is also called arguing in a circle. Example: "Erica: "How do you know that the bible is divinely inspired?" Pedro: "Because is says right in the third chapter of II Timothy that 'all scripture is given by divine inspiration of God.'; "People who deny the truth of Marxism are simply dancing to the tune of their capitalist masters, as Marx understood so well."
+* The fallacy of begging the question occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. In other words, you assume without proof the stand/position, or a significant part of the stand, that is in question. Begging the question is also called arguing in a circle. 
+* Example: "Erica: "How do you know that the Bible is divinely inspired?" Pedro: "Because is says right in the third chapter of II Timothy that 'all scripture is given by divine inspiration of God.';
+* "Sheeple who deny the truth of Marxism are simply dancing to the tune of their capitalist masters, as Marx understood so well."
+* "Women who oppose feminism have internalized mysogyny."
 
 </section><section data-markdown>
 
 ### Fallacies of Presumption
 
 * **False Dilemma**. 
-* When you reason from an either-or position and you haven't considered all relevant possibilities you commit the fallacy of false dilemma. Examples: "Are you a Republican or a Democrat?" "Good students will study and learn without the threat of an exam, and bad students won't study and learn even with the threat of an exam. So, exams serve no purpose."
+* When you reason from an either-or position and you haven't considered all relevant possibilities you commit the fallacy of false dilemma. 
+* Examples: "Are you a Republican or a Democrat?" 
+* "Good students will study and learn without the threat of an exam, and bad students won't study and learn even with the threat of an exam. So, exams serve no purpose."
 
 </section><section data-markdown>
 
 ### Fallacies of Presumption
 
 * **Loaded question**. 
-* Assuming something false as a premise of a question. Example: Prosecutor to defendant: "So how did you feel when you robbed the bank?" Reporter to politician: "When will you stop being a racist?"
+* Assuming something false as a premise of a question. 
+* Example: Prosecutor to defendant: "So how did you feel when you robbed the bank?" 
+* Reporter to politician: "When will you stop being a racist?"
+* Philosophy prof to St Athanasius student: "Did you stop wedding the bed yet?"
 
 </section><section data-markdown>
 
-### Fallacies of Presumption
+### Fallacies of Presumption - HEDGING
 
-* **Hedging**. 
-* You are hedging if you refine your claim simply to avoid counterevidence and then act as if your revised claim is the same as the original. Example: "Samantha: David is a totally selfish person. Yvonne: I thought we was a boy scout leader. Don’t you have to give a lot of your time for that? Samantha: Well, David’s totally selfish about what he gives money to. He won’t spend a dime on anyone else.  Yvonne: I saw him bidding on things at the high school auction fundraiser. Samantha: Well, except for that he’s totally selfish about money."
+* You are hedging if you refine your claim simply to avoid counterevidence and then act as if your revised claim is the same as the original. 
+* Example: "Samantha: David is a totally selfish person. Yvonne: I thought we was a boy scout leader. Don’t you have to give a lot of your time for that? Samantha: Well, David’s totally selfish about what he gives money to. He won’t spend a dime on anyone else.  Yvonne: I saw him bidding on things at the high school auction fundraiser. Samantha: Well, except for that he’s totally selfish about money."
 
 </section><section data-markdown>
 
@@ -2219,10 +2271,30 @@ prosperous in this life.
 
 </section><section data-markdown>
 
-### Logic and theology 
+### Logic and theology (359)
 
 
-* Discuss
+* [St Gregory example](https://www.newadvent.org/fathers/310227.htm) 27.VIII
+* The saints command logic! But are not limited to it
+
+
+</section><section data-markdown>
+
+[St Gregory example](https://www.newadvent.org/fathers/310227.htm) 28.VI
+
+VI. Now our very eyes and the Law of Nature teach us that God exists and that He is the Efficient and Maintaining Cause of all things: our eyes, because they fall on visible objects, and see them in beautiful stability and progress, immovably moving and revolving if I may so say; natural Law, because through these visible things and their order, it reasons back to their Author. For how could this Universe have come into being or been put together, unless God had called it into existence, and held it together? 
+
+</section><section data-markdown>
+
+[St Gregory example](https://www.newadvent.org/fathers/310227.htm) VIII
+
+For every one who sees a beautifully made lute, and considers the skill with which it has been fitted together and arranged, or who hears its melody, would think of none but the lutemaker, or the luteplayer, and would recur to him in mind, though he might not know him by sight. And thus to us also is manifested That which made and moves and preserves all created things, even though He be not comprehended by the mind. And very wanting in sense is he who will not willingly go thus far in following natural proofs; but not even this which we have fancied or formed, or which reason has sketched for us, proves the existence of a God. But if any one has got even to some extent a comprehension of this, how is God's Being to be demonstrated? 
+
+</section><section data-markdown>
+
+[St Gregory example](https://www.newadvent.org/fathers/310227.htm) VIII
+
+Who ever reached this extremity of wisdom? Who was ever deemed worthy of so great a gift? Who has opened the mouth of his mind and drawn in the Spirit, so as by Him that searches all things, yea the deep thing of God, 1 Corinthians 2:10 to take in God, and no longer to need progress, since he already possesses the Extreme Object of desire, and That to which all the social life and all the intelligence of the best men press forward?
 
 
 
