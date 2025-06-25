@@ -2342,9 +2342,6 @@ Who ever reached this extremity of wisdom? Who was ever deemed worthy of so grea
 * Discuss
 
 
-</section><section data-markdown>
-
-### Final exam
 
 
 </section><section data-markdown>
