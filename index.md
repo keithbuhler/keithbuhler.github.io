@@ -10,9 +10,9 @@ Are you ready to start a Classical Christian School?
 
 Or are you already part of a school that is tired, deadlocked, running low on funds, or getting weird? 
 
-We need more, high quality, sustainable schools -- not later, now!
+We need more, high quality, sustainable schools -- and soon!
 
-And existing schools do not have to close, wind down, or get stuck. They can be re-energized, re-envisioned, restored, and re-opened. 
+Existing schools do not have to close, wind down, or get stuck. They can be re-energized, re-envisioned, restored, and re-opened. 
 
 
 I'm Keith Buhler and my mission is to advance Christian education throughout the nation and the world. 
@@ -49,5 +49,5 @@ Thanks for vising, let me know how I can help you.
 * TikTok: ROFL
 * [Blog:](https://saintandrew.notion.site/Buhler-Report-Blog-Current-9d90055115754d97b5c7f15d09005eae)
 * [School website:](https://www.saintandrewacademy.com)
-* [Investing:](https://www.numinor.info/)
+* [Investing:](https://www.numinorhomes.com/)
 * [Questions for Reflection:](http://keithbuhler.com/pensees) 
