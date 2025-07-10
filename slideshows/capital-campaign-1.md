@@ -1,5 +1,5 @@
 ---
-title: A Whole Life Overview of Real Estate Investing
+title: Capital Campaign
 layout: slide
 theme: blood
 ---
