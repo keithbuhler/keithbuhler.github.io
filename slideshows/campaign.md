@@ -1,7 +1,7 @@
 ---
 title: Capital Campaign
 layout: slide
-theme: blood
+theme: moon
 ---
 
 <section><!--Show begin-->
@@ -106,4 +106,4 @@ theme: blood
   <img src="https://www.keithbuhler.com/images/saa-dev-32.jpg" alt="Page 32">
 </section>
 
-</section><!--Show end>
+</section>

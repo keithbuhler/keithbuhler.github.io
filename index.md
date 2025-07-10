@@ -39,7 +39,7 @@ It starts with classical, Christian education. Christian homes with marriages in
 Living well is a skill. Happiness is a skill. It's an activity we can get better at. As adults, we lead the way for our children. 
 
 
-Thanks for vising, let me know how I can help you. 
+Thanks for visiting, let me know how I can help you. 
 
 --- 
 
