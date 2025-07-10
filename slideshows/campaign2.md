@@ -1,7 +1,7 @@
 ---
 title: Capital Campaign
 layout: slide
-theme: blood
+theme: moon
 ---
 
 <section> 
