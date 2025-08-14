@@ -81,29 +81,4 @@ theme: moon
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-24.jpg" alt="Page 24">
 </section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-25.jpg" alt="Page 25">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-26.jpg" alt="Page 26">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-27.jpg" alt="Page 27">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-28.jpg" alt="Page 28">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-29.jpg" alt="Page 29">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-30.jpg" alt="Page 30">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-31.jpg" alt="Page 31">
-</section>
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-32.jpg" alt="Page 32">
-</section>
-
 </section>
