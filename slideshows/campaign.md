@@ -75,6 +75,8 @@ theme: moon
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-22.jpg" alt="Page 22">
 </section>
+  <img src="https://www.keithbuhler.com/images/saa-dev-21.jpg" alt="Page 22.5">
+</section>
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-23.jpg" alt="Page 23">
 </section>
