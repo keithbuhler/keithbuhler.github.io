@@ -7,11 +7,8 @@ theme: moon
 <section><!--Show begin-->
 
 <section> 
-
   <img src="https://www.keithbuhler.com/images/saa-dev-01.jpg" alt="Page 1">
-
 </section>
-
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-02.jpg" alt="Page 2">
 </section>
@@ -75,6 +72,7 @@ theme: moon
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-22.jpg" alt="Page 22">
 </section>
+<section>
   <img src="https://www.keithbuhler.com/images/saa-dev-21.jpg" alt="Page 22.5">
 </section>
 <section>
