@@ -95,10 +95,6 @@ theme: moon
 </section>
 
 <section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-22.jpg" alt="Page 22">
-</section>
-
-<section>
   <img src="https://www.keithbuhler.com/images/saa-dev-23.jpg" alt="Page 23">
 </section>
 
@@ -110,5 +106,8 @@ theme: moon
   <img src="https://www.keithbuhler.com/images/saa-dev-25.jpg" alt="Page 25">
 </section>
 
+<section>
+  <img src="https://www.keithbuhler.com/images/saa-dev-25.jpg" alt="Page 25">
+</section>
 
 </section>
