@@ -78,6 +78,12 @@ theme: moon
   <img src="https://www.keithbuhler.com/images/saa-dev-18.jpg" alt="Page 18">
 </section>
 
+
+<section>
+  <img src="https://www.keithbuhler.com/images/saa-dev-18a.jpg" alt="Page 18a">
+</section>
+
+
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-19.jpg" alt="Page 19">
 </section>
@@ -95,10 +101,6 @@ theme: moon
 </section>
 
 <section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-22.5jpg" alt="Page 22.5">
-</section>
-
-<section>
   <img src="https://www.keithbuhler.com/images/saa-dev-22.jpg" alt="Page 22">
 </section>
 
@@ -109,5 +111,10 @@ theme: moon
 <section>
   <img src="https://www.keithbuhler.com/images/saa-dev-24.jpg" alt="Page 24">
 </section>
+
+<section>
+  <img src="https://www.keithbuhler.com/images/saa-dev-25.jpg" alt="Page 25">
+</section>
+
 
 </section>
