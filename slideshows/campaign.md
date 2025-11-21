@@ -106,8 +106,4 @@ theme: moon
   <img src="https://www.keithbuhler.com/images/saa-dev-25.jpg" alt="Page 25">
 </section>
 
-<section>
-  <img src="https://www.keithbuhler.com/images/saa-dev-25.jpg" alt="Page 25">
-</section>
-
 </section>
