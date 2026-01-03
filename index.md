@@ -12,7 +12,7 @@ I am currently an Honors College professor at Azusa Pacific University in CA, th
 
 My life mission is to find wisdom and share it with others. 
 
-That mission has lead me into various avenues: the classroom, fundraising, deal-making, business acquisition, and more. But my message is self-responsibility, the pursuit of virtue, and advocating for great education.Yet nothing is possible without the help of Christ working in us. 
+That mission has lead me into various avenues: the classroom, fundraising, deal-making, business acquisition, and more. But my message is self-responsibility, the pursuit of virtue, and advocating for great education. None of this -- or anything else -- is possible without the help of Christ working in us. 
 
 A life of prayer, wisdom, and joy is possible even in this crazy, chaotic, and fallen world. 
 
