@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Workout Tracker</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Bebas+Neue&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0A0A0A; }
+    .check-cell {
+      width: 44px; height: 44px;
+      border-radius: 8px;
+      border: 2px solid #2A2A2A;
+      background: #141414;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+      transition: all 0.15s ease;
+      flex-shrink: 0;
+    }
+    .check-cell:hover { border-color: #555; background: #1E1E1E; transform: scale(1.05); }
+    .check-cell.checked { border-color: transparent; background: var(--cell-color); }
+    .check-cell.today-col { border-color: #444; }
+    .nav-btn {
+      background: #1A1A1A; border: 1px solid #2A2A2A;
+      color: #888; padding: 8px 16px; border-radius: 6px;
+      cursor: pointer; font-family: 'DM Mono', monospace; font-size: 13px;
+      transition: all 0.15s;
+    }
+    .nav-btn:hover { background: #222; color: #fff; }
+    .nav-btn:disabled { opacity: 0.3; cursor: default; }
+    .scroll-x { overflow-x: auto; }
+    .scroll-x::-webkit-scrollbar { height: 4px; }
+    .scroll-x::-webkit-scrollbar-track { background: #111; }
+    .scroll-x::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState, useEffect } = React;
+
+    const MUSCLE_GROUPS = [
+      { id: "core",       label: "Core",          target: "3x / week",   color: "#FF6B35", emoji: "🔥" },
+      { id: "legs",       label: "Legs",          target: "1–2x / week", color: "#4ECDC4", emoji: "🦵" },
+      { id: "bicep_back", label: "Bicep & Back",  target: "1–2x / week", color: "#A855F7", emoji: "💪" },
+      { id: "chest_tris", label: "Chest & Tris",  target: "1–2x / week", color: "#3B82F6", emoji: "🏋️" },
+      { id: "cardio",     label: "Cardio",        target: "3x / week",   color: "#EF4444", emoji: "🏃" },
+      { id: "yoga",       label: "Yoga / Stretch",target: "1–2x / week", color: "#22C55E", emoji: "🧘" },
+    ];
+
+    const STORAGE_KEY = "workout_log_v1";
+
+    function getWeekDates(offset = 0) {
+      const now = new Date();
+      const day = now.getDay();
+      const startOfWeek = new Date(now);
+      startOfWeek.setDate(now.getDate() - day + offset * 7);
+      startOfWeek.setHours(0, 0, 0, 0);
+      const dates = [];
+      for (let i = 0; i < 7; i++) {
+        const d = new Date(startOfWeek);
+        d.setDate(startOfWeek.getDate() + i);
+        dates.push(d);
+      }
+      return dates;
+    }
+
+    function formatDate(d) {
+      return d.toISOString().split("T")[0];
+    }
+
+    function getDayLabel(d) {
+      return d.toLocaleDateString("en-US", { weekday: "short" });
+    }
+
+    function getWeekLabel(dates) {
+      const start = dates[0].toLocaleDateString("en-US", { month: "short", day: "numeric" });
+      const end = dates[6].toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+      return `${start} – ${end}`;
+    }
+
+    function loadLog() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        return raw ? JSON.parse(raw) : {};
+      } catch (_) { return {}; }
+    }
+
+    function saveLog(log) {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(log));
+      } catch (_) {}
+    }
+
+    function App() {
+      const [weekOffset, setWeekOffset] = useState(0);
+      const [log, setLog] = useState(() => loadLog());
+      const [saveStatus, setSaveStatus] = useState("");
+
+      const weekDates = getWeekDates(weekOffset);
+      const today = formatDate(new Date());
+
+      function toggle(muscleId, dateStr) {
+        const key = `${muscleId}_${dateStr}`;
+        const newLog = { ...log };
+        if (newLog[key]) {
+          delete newLog[key];
+        } else {
+          newLog[key] = true;
+        }
+        setLog(newLog);
+        saveLog(newLog);
+        setSaveStatus("Saved ✓");
+        setTimeout(() => setSaveStatus(""), 1500);
+      }
+
+      function isChecked(muscleId, dateStr) {
+        return !!log[`${muscleId}_${dateStr}`];
+      }
+
+      function weekCount(muscleId) {
+        return weekDates.filter(d => isChecked(muscleId, formatDate(d))).length;
+      }
+
+      return (
+        <div style={{
+          background: "#0A0A0A",
+          minHeight: "100vh",
+          fontFamily: "'DM Mono', 'Courier New', monospace",
+          color: "#E8E8E8",
+          padding: "24px 16px",
+        }}>
+          <div style={{ maxWidth: 900, margin: "0 auto" }}>
+
+            {/* Header */}
+            <div style={{ display: "flex", alignItems: "baseline", gap: 12, marginBottom: 4 }}>
+              <h1 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: 42, letterSpacing: 3, color: "#fff" }}>
+                WORKOUT LOG
+              </h1>
+              {saveStatus && <span style={{ fontSize: 12, color: "#22C55E" }}>{saveStatus}</span>}
+            </div>
+            <p style={{ fontSize: 12, color: "#555", marginBottom: 28 }}>Track your muscle groups. Stay consistent.</p>
+
+            {/* Week Nav */}
+            <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 20 }}>
+              <button className="nav-btn" onClick={() => setWeekOffset(w => w - 1)}>← Prev</button>
+              <span style={{ fontSize: 13, color: "#888", minWidth: 180, textAlign: "center" }}>
+                {weekOffset === 0 ? "This Week" : weekOffset === -1 ? "Last Week" : getWeekLabel(weekDates)}
+              </span>
+              <button className="nav-btn" onClick={() => setWeekOffset(w => w + 1)} disabled={weekOffset >= 0}>Next →</button>
+              {weekOffset !== 0 && (
+                <button className="nav-btn" onClick={() => setWeekOffset(0)} style={{ marginLeft: "auto", color: "#EF4444" }}>
+                  Today
+                </button>
+              )}
+            </div>
+
+            {/* Week label */}
+            <div style={{ fontSize: 12, color: "#444", marginBottom: 16 }}>{getWeekLabel(weekDates)}</div>
+
+            {/* Grid */}
+            <div className="scroll-x">
+              <table style={{ borderCollapse: "collapse", width: "100%", minWidth: 560 }}>
+                <thead>
+                  <tr>
+                    <th style={{ textAlign: "left", padding: "0 12px 12px 0", fontSize: 11, color: "#444", fontWeight: 400, minWidth: 160 }}>
+                      MUSCLE GROUP
+                    </th>
+                    {weekDates.map(d => {
+                      const ds = formatDate(d);
+                      const isToday = ds === today;
+                      return (
+                        <th key={ds} style={{ padding: "0 4px 12px", textAlign: "center", minWidth: 52 }}>
+                          <div style={{ fontSize: 10, color: isToday ? "#fff" : "#444", fontWeight: isToday ? 500 : 400 }}>
+                            {getDayLabel(d)}
+                          </div>
+                          <div style={{ fontSize: 12, color: isToday ? "#EF4444" : "#333", fontWeight: isToday ? 500 : 400 }}>
+                            {d.getDate()}
+                          </div>
+                        </th>
+                      );
+                    })}
+                    <th style={{ padding: "0 0 12px 16px", textAlign: "center", fontSize: 11, color: "#444", fontWeight: 400 }}>
+                      WEEK
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {MUSCLE_GROUPS.map(mg => {
+                    const count = weekCount(mg.id);
+                    return (
+                      <tr key={mg.id} style={{ borderTop: "1px solid #181818" }}>
+                        <td style={{ padding: "10px 12px 10px 0" }}>
+                          <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                            <span style={{ fontSize: 18 }}>{mg.emoji}</span>
+                            <div>
+                              <div style={{ fontSize: 13, color: "#D0D0D0", fontWeight: 500 }}>{mg.label}</div>
+                              <div style={{ fontSize: 10, color: "#444" }}>{mg.target}</div>
+                            </div>
+                          </div>
+                        </td>
+                        {weekDates.map(d => {
+                          const ds = formatDate(d);
+                          const checked = isChecked(mg.id, ds);
+                          const isToday = ds === today;
+                          return (
+                            <td key={ds} style={{ padding: "10px 4px", textAlign: "center" }}>
+                              <button
+                                className={`check-cell${checked ? " checked" : ""}${isToday && !checked ? " today-col" : ""}`}
+                                style={{ "--cell-color": mg.color, margin: "0 auto", color: checked ? "#fff" : "transparent" }}
+                                onClick={() => toggle(mg.id, ds)}
+                                title={`${mg.label} – ${ds}`}
+                              >
+                                ✓
+                              </button>
+                            </td>
+                          );
+                        })}
+                        <td style={{ padding: "10px 0 10px 16px", textAlign: "center" }}>
+                          <div style={{
+                            display: "inline-block",
+                            background: count > 0 ? mg.color + "22" : "#1A1A1A",
+                            border: `1px solid ${count > 0 ? mg.color + "55" : "#222"}`,
+                            color: count > 0 ? mg.color : "#333",
+                            borderRadius: 6,
+                            padding: "4px 10px",
+                            fontSize: 14,
+                            fontWeight: 500,
+                            minWidth: 36,
+                            textAlign: "center",
+                          }}>
+                            {count}
+                          </div>
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+
+            {/* Summary cards */}
+            <div style={{ marginTop: 28, display: "flex", flexWrap: "wrap", gap: 10 }}>
+              {MUSCLE_GROUPS.map(mg => {
+                const count = weekCount(mg.id);
+                return (
+                  <div key={mg.id} style={{
+                    background: "#141414",
+                    border: `1px solid ${count > 0 ? mg.color + "44" : "#1E1E1E"}`,
+                    borderRadius: 8,
+                    padding: "8px 14px",
+                    display: "flex", alignItems: "center", gap: 8,
+                    flex: "1 1 140px",
+                  }}>
+                    <span style={{ fontSize: 16 }}>{mg.emoji}</span>
+                    <div>
+                      <div style={{ fontSize: 11, color: "#555" }}>{mg.label}</div>
+                      <div style={{ fontSize: 18, fontFamily: "'Bebas Neue', sans-serif", color: count > 0 ? mg.color : "#333", letterSpacing: 1 }}>
+                        {count}<span style={{ fontSize: 11, color: "#444", fontFamily: "'DM Mono', monospace", letterSpacing: 0 }}> / week</span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+
+            <div style={{ marginTop: 20, fontSize: 11, color: "#2A2A2A", textAlign: "center" }}>
+              Data saved to this browser's local storage.
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById("root"));
+    root.render(<App />);
+  </script>
+</body>
+</html>
