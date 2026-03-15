@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Solomon's Temple - 3D Exploration</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #87CEEB; /* Sky blue */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            touch-action: none; /* Prevent browser zooming/scrolling on mobile */
+        }
+        #canvas-container {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        #ui-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        #crosshair {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 10px;
+            height: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            pointer-events: none;
+        }
+        #instructions {
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 15px 25px;
+            text-align: center;
+            pointer-events: auto;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            margin: 0 auto;
+            max-width: 600px;
+            backdrop-filter: blur(4px);
+        }
+        .controls-hint {
+            font-size: 0.9em;
+            color: #ccc;
+            margin-top: 5px;
+        }
+        #start-screen {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(20, 30, 40, 0.95);
+            color: #FFD700;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            pointer-events: auto;
+            text-align: center;
+            padding: 20px;
+        }
+        #start-screen h1 { margin-bottom: 10px; font-size: 2.5em; text-transform: uppercase; letter-spacing: 2px; }
+        #start-screen p { color: #ddd; max-width: 600px; line-height: 1.6; margin-bottom: 30px; font-size: 1.1em; }
+        button {
+            background: #FFD700;
+            color: #333;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.2em;
+            font-weight: bold;
+            border-radius: 30px;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);
+            transition: transform 0.2s, background 0.2s;
+        }
+        button:hover { background: #ffea00; transform: scale(1.05); }
+        button:active { transform: scale(0.95); }
+        
+        /* Mobile Joysticks */
+        .joystick-zone {
+            position: absolute;
+            bottom: 20px;
+            width: 120px;
+            height: 120px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            display: none; /* Shown only on touch */
+            pointer-events: none;
+        }
+        #joystick-left { left: 20px; }
+        #joystick-right { right: 20px; }
+        .joystick-knob {
+            position: absolute;
+            top: 50%; left: 50%;
+            width: 40px; height: 40px;
+            background: rgba(255, 215, 0, 0.6);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
+        #info-bubble {
+            position: absolute;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.85);
+            color: #fff;
+            padding: 15px 25px;
+            border-radius: 10px;
+            border: 2px solid #FFD700;
+            display: none;
+            max-width: 600px;
+            width: 80%;
+            text-align: center;
+            pointer-events: none;
+            z-index: 10;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            backdrop-filter: blur(5px);
+        }
+        #info-bubble h3 { margin: 0 0 8px 0; color: #FFD700; font-size: 1.4em; }
+        #info-bubble p { margin: 0; font-size: 1em; line-height: 1.5; color: #eee; }
+        
+        @media (max-width: 768px) {
+            #instructions { font-size: 0.85em; padding: 10px; }
+            .joystick-zone { display: block; }
+            #crosshair { display: none; }
+        }
+    </style>
+    <!-- Include Three.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+
+<div id="canvas-container"></div>
+
+<div id="ui-layer">
+    <div id="instructions">
+        <h2>Solomon's Temple</h2>
+        <div class="controls-hint" id="desktop-hint">Desktop: Click to look. W,A,S,D to move. Space to Jump. Click objects for info.</div>
+        <div class="controls-hint" id="mobile-hint" style="display:none;">Mobile: Drag Left to Move, Right to Look. Tap objects for info.</div>
+    </div>
+    <div id="crosshair"></div>
+    <div id="info-bubble">
+        <h3 id="info-title">Title</h3>
+        <p id="info-desc">Description</p>
+    </div>
+    <div id="joystick-left" class="joystick-zone"><div class="joystick-knob" id="knob-left"></div></div>
+    <div id="joystick-right" class="joystick-zone"><div class="joystick-knob" id="knob-right"></div></div>
+</div>
+
+<div id="start-screen">
+    <h1>Solomon's Temple</h1>
+    <p>Journey into the ancient past. Explore the outer courtyards, behold the Brazen Altar and Molten Sea, pass the pillars of Jachin and Boaz, and enter the gold-adorned Holy Place and the Holy of Holies.</p>
+    <button id="start-btn">Enter the Temple</button>
+</div>
+
+<script>
+    // --- SCENE SETUP ---
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0x5c8aab); // Warm blue sky
+    scene.fog = new THREE.FogExp2(0x5c8aab, 0.005);
+
+    const camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.shadowMap.enabled = true;
+    renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+    // --- LIGHTING ---
+    const ambientLight = new THREE.AmbientLight(0xfff4e5, 0.6); // Warm ambient
+    scene.add(ambientLight);
+
+    const sunLight = new THREE.DirectionalLight(0xffeedd, 1.2);
+    sunLight.position.set(50, 100, 50); // Sun from the East
+    sunLight.castShadow = true;
+    sunLight.shadow.mapSize.width = 2048;
+    sunLight.shadow.mapSize.height = 2048;
+    sunLight.shadow.camera.near = 0.5;
+    sunLight.shadow.camera.far = 200;
+    sunLight.shadow.camera.left = -50;
+    sunLight.shadow.camera.right = 50;
+    sunLight.shadow.camera.top = 50;
+    sunLight.shadow.camera.bottom = -50;
+    scene.add(sunLight);
+
+    // --- MATERIALS ---
+    // Approximating textures with rich PBR materials
+    const matGold = new THREE.MeshStandardMaterial({ color: 0xffd700, metalness: 0.8, roughness: 0.3 });
+    const matBronze = new THREE.MeshStandardMaterial({ color: 0xb08d57, metalness: 0.6, roughness: 0.4 });
+    const matStoneWhite = new THREE.MeshStandardMaterial({ color: 0xeae6df, roughness: 0.9 });
+    const matStoneFloor = new THREE.MeshStandardMaterial({ color: 0xccbba8, roughness: 0.8 });
+    const matCedarWood = new THREE.MeshStandardMaterial({ color: 0x5c3a21, roughness: 0.7 });
+    const matVeil = new THREE.MeshStandardMaterial({ color: 0x6a0dad, transparent: true, opacity: 0.85, side: THREE.DoubleSide }); // Purple/Blue/Crimson mix
+    const matSand = new THREE.MeshStandardMaterial({ color: 0xd2b48c, roughness: 1.0 });
+
+    const collidableMeshList = []; // Array to store walls for collision
+    const interactiveObjects = []; // Array to store objects for the click-info feature
+    const raycaster = new THREE.Raycaster();
+    const screenCenter = new THREE.Vector2(0, 0);
+
+    // --- FIRST PERSON VIEW MODEL (Hand & Candle) ---
+    scene.add(camera); // Required when attaching objects to camera
+    const fpGroup = new THREE.Group();
+    camera.add(fpGroup);
+
+    // Hand Model
+    const handGeo = new THREE.BoxGeometry(0.1, 0.1, 0.3);
+    const handMat = new THREE.MeshStandardMaterial({color: 0x8d5524, roughness: 0.6});
+    const hand = new THREE.Mesh(handGeo, handMat);
+    hand.position.set(0.3, -0.3, -0.6);
+    fpGroup.add(hand);
+
+    // Candle Model
+    const pCandleGeo = new THREE.CylinderGeometry(0.02, 0.02, 0.15);
+    const pCandleMat = new THREE.MeshStandardMaterial({color: 0xeeeeee});
+    const pCandle = new THREE.Mesh(pCandleGeo, pCandleMat);
+    pCandle.position.set(0.3, -0.2, -0.7);
+    fpGroup.add(pCandle);
+
+    // Flame & Dynamic Light
+    const pFlameGeo = new THREE.SphereGeometry(0.015);
+    const pFlameMat = new THREE.MeshBasicMaterial({color: 0xffddaa});
+    const pFlame = new THREE.Mesh(pFlameGeo, pFlameMat);
+    pFlame.position.set(0.3, -0.1, -0.7);
+    fpGroup.add(pFlame);
+    
+    const fpLight = new THREE.PointLight(0xffaa00, 0.6, 6);
+    fpLight.position.set(0.3, -0.1, -0.7);
+    fpGroup.add(fpLight);
+
+    // --- BUILDING THE TEMPLE (Scale: 1 unit = 1 meter. 1 cubit ≈ 0.5m) ---
+
+    // 1. The Ground / Courtyard
+    const groundGeo = new THREE.PlaneGeometry(200, 200);
+    const ground = new THREE.Mesh(groundGeo, matSand);
+    ground.rotation.x = -Math.PI / 2;
+    ground.receiveShadow = true;
+    scene.add(ground);
+
+    const platformGeo = new THREE.BoxGeometry(60, 1, 30);
+    const platform = new THREE.Mesh(platformGeo, matStoneFloor);
+    platform.position.set(-10, 0.5, 0); // Center of temple area
+    platform.receiveShadow = true;
+    scene.add(platform);
+    
+    // Add platform to colliders to allow stepping up (simplified: just make player Y higher)
+    // We'll manage Y manually.
+
+    // Outer Walls (Court)
+    const createWall = (w, h, d, x, y, z) => {
+        const wall = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), matStoneWhite);
+        wall.position.set(x, y, z);
+        wall.castShadow = true;
+        wall.receiveShadow = true;
+        scene.add(wall);
+        
+        // Add bounding box for collision
+        const box = new THREE.Box3().setFromObject(wall);
+        collidableMeshList.push(box);
+    };
+    
+    // Low outer walls enclosing the temple precinct
+    createWall(80, 3, 1, -10, 1.5, -20); // North
+    createWall(80, 3, 1, -10, 1.5, 20);  // South
+    createWall(1, 3, 40, -50, 1.5, 0);   // West (Rear)
+    // East wall with gap for gate
+    createWall(1, 3, 15, 30, 1.5, -12.5);
+    createWall(1, 3, 15, 30, 1.5, 12.5);
+
+    // 2. The Brazen Altar (10x10x5 meters)
+    const altarGroup = new THREE.Group();
+    const altarGeo = new THREE.BoxGeometry(10, 5, 10);
+    const altar = new THREE.Mesh(altarGeo, matBronze);
+    altar.position.set(15, 2.5 + 1, 0); // East of the temple porch
+    altar.castShadow = true;
+    altar.receiveShadow = true;
+    
+    // Altar ramp (East side)
+    const rampGeo = new THREE.BoxGeometry(8, 5, 4);
+    const ramp = new THREE.Mesh(rampGeo, matStoneWhite);
+    ramp.rotation.z = Math.PI / 6;
+    ramp.position.set(21, 1.5, 0);
+    
+    altarGroup.add(altar); altarGroup.add(ramp);
+    scene.add(altarGroup);
+    collidableMeshList.push(new THREE.Box3().setFromObject(altarGroup));
+    
+    const altarInteractBox = new THREE.Mesh(new THREE.BoxGeometry(12, 6, 10), new THREE.MeshBasicMaterial({visible:false}));
+    altarInteractBox.position.set(16, 3, 0);
+    altarInteractBox.userData = {title: "The Brazen Altar", desc: "Where daily sacrifices were offered. Made of acacia wood overlaid with bronze."};
+    altarGroup.add(altarInteractBox);
+    interactiveObjects.push(altarInteractBox);
+
+    // 3. The Molten Sea (Bronze Basin, 5m diameter)
+    const seaGroup = new THREE.Group();
+    const seaBasinGeo = new THREE.SphereGeometry(2.5, 32, 16, 0, Math.PI * 2, 0, Math.PI / 2);
+    const seaBasin = new THREE.Mesh(seaBasinGeo, matBronze);
+    seaBasin.rotation.x = Math.PI; // flip to make a bowl
+    seaBasin.position.y = 2.5;
+    seaBasin.castShadow = true;
+    
+    const seaBaseGeo = new THREE.CylinderGeometry(2, 2, 1, 16);
+    const seaBase = new THREE.Mesh(seaBaseGeo, matBronze);
+    seaBase.position.y = 0.5;
+    seaGroup.add(seaBasin);
+    seaGroup.add(seaBase);
+    seaGroup.position.set(10, 1, 8); // South-East of the temple
+    
+    const seaInteractBox = new THREE.Mesh(new THREE.BoxGeometry(6, 6, 6), new THREE.MeshBasicMaterial({visible:false}));
+    seaInteractBox.position.y = 2.5;
+    seaInteractBox.userData = {title: "The Molten Sea", desc: "A massive bronze basin holding water for the priests to wash themselves before entering the temple."};
+    seaGroup.add(seaInteractBox);
+    interactiveObjects.push(seaInteractBox);
+
+    scene.add(seaGroup);
+    collidableMeshList.push(new THREE.Box3().setFromObject(seaGroup));
+
+    // 4. The Temple Building (Heikhal)
+    // Temple facing East (+X). Holy of Holies at West (-X).
+    // Dimensions: 30m long, 10m wide, 15m high.
+    // Porch: 5m deep. Holy Place: 20m deep. Holy of Holies: 10m deep (Total 35m with porch)
+    const templeBaseX = -15; 
+    
+    // Main walls (Exterior stone, Interior gold/cedar - approximated using solid walls)
+    // North Wall
+    createWall(35, 15, 1, templeBaseX, 7.5 + 1, -5.5);
+    // South Wall
+    createWall(35, 15, 1, templeBaseX, 7.5 + 1, 5.5);
+    // West Wall (Rear)
+    createWall(1, 15, 12, templeBaseX - 17.5, 7.5 + 1, 0);
+    // East Wall (Front of Porch - open in middle)
+    createWall(1, 15, 3.5, templeBaseX + 17.5, 7.5 + 1, -3.75);
+    createWall(1, 15, 3.5, templeBaseX + 17.5, 7.5 + 1, 3.75);
+    // Wall separating Porch and Holy Place (with doorway)
+    createWall(1, 15, 3.5, templeBaseX + 12.5, 7.5 + 1, -3.75);
+    createWall(1, 15, 3.5, templeBaseX + 12.5, 7.5 + 1, 3.75);
+
+    // Roof
+    const roofGeo = new THREE.BoxGeometry(37, 1, 14);
+    const roof = new THREE.Mesh(roofGeo, matCedarWood);
+    roof.position.set(templeBaseX, 15.5 + 1, 0);
+    roof.castShadow = true;
+    scene.add(roof);
+
+    // Interior Floor (Gold/Cedar)
+    const intFloorGeo = new THREE.PlaneGeometry(35, 10);
+    const intFloor = new THREE.Mesh(intFloorGeo, matGold);
+    intFloor.rotation.x = -Math.PI / 2;
+    intFloor.position.set(templeBaseX, 1.05, 0); // slightly above platform
+    scene.add(intFloor);
+
+    // 5. Jachin and Boaz (Pillars at the Porch)
+    const createPillar = (x, z, name, desc) => {
+        const pillarGroup = new THREE.Group();
+        // Shaft (9m high)
+        const shaftGeo = new THREE.CylinderGeometry(0.8, 0.8, 9, 16);
+        const shaft = new THREE.Mesh(shaftGeo, matBronze);
+        shaft.position.y = 4.5;
+        shaft.castShadow = true;
+        // Capital (approx 2.5m high)
+        const capGeo = new THREE.SphereGeometry(1.2, 16, 16);
+        const capital = new THREE.Mesh(capGeo, matBronze);
+        capital.position.y = 9 + 1;
+        pillarGroup.add(shaft);
+        pillarGroup.add(capital);
+        pillarGroup.position.set(x, 1, z);
+        
+        const interactCyl = new THREE.Mesh(new THREE.CylinderGeometry(1.5, 1.5, 12), new THREE.MeshBasicMaterial({visible:false}));
+        interactCyl.position.y = 6;
+        interactCyl.userData = {title: name, desc: desc};
+        pillarGroup.add(interactCyl);
+        interactiveObjects.push(interactCyl);
+
+        scene.add(pillarGroup);
+        collidableMeshList.push(new THREE.Box3().setFromObject(pillarGroup));
+    };
+    createPillar(templeBaseX + 15, 3, "Boaz", "The southern bronze pillar. The name means 'In Him is strength'.");  
+    createPillar(templeBaseX + 15, -3, "Jachin", "The northern bronze pillar. The name means 'He shall establish'."); 
+
+    // 6. The Holy Place Interior (Menorahs, Showbread, Altar of Incense)
+    const holyPlaceCenterX = templeBaseX + 2.5; 
+    
+    // Golden Altar of Incense
+    const incAltarGroup = new THREE.Group();
+    const incAltarGeo = new THREE.BoxGeometry(1, 2, 1);
+    const incAltar = new THREE.Mesh(incAltarGeo, matGold);
+    incAltar.position.set(templeBaseX - 6, 2, 0);
+    incAltarGroup.add(incAltar);
+    
+    const incInteract = new THREE.Mesh(new THREE.BoxGeometry(2, 3, 2), new THREE.MeshBasicMaterial({visible:false}));
+    incInteract.position.set(templeBaseX - 6, 2, 0);
+    incInteract.userData = {title: "Altar of Incense", desc: "Used for burning sweet incense every morning and evening before the Lord."};
+    incAltarGroup.add(incInteract);
+    interactiveObjects.push(incInteract);
+    
+    scene.add(incAltarGroup);
+    collidableMeshList.push(new THREE.Box3().setFromObject(incAltar));
+
+    // Menorahs (10 total: 5 North, 5 South) - Detailed
+    const createMenorah = (x, z) => {
+        const menorahGroup = new THREE.Group();
+        
+        // Base & main shaft
+        const base = new THREE.Mesh(new THREE.CylinderGeometry(0.3, 0.4, 0.2, 16), matGold);
+        const shaft = new THREE.Mesh(new THREE.CylinderGeometry(0.05, 0.08, 2, 8), matGold);
+        shaft.position.y = 1.0;
+        menorahGroup.add(base); menorahGroup.add(shaft);
+        
+        // 3 curved branches
+        for(let i=1; i<=3; i++) {
+            const branchGeo = new THREE.TorusGeometry(0.25 * i, 0.04, 8, 16, Math.PI);
+            const branch = new THREE.Mesh(branchGeo, matGold);
+            branch.position.y = 1.0 + (i * 0.15);
+            branch.rotation.y = Math.PI / 2; // Face out
+            menorahGroup.add(branch);
+        }
+        
+        menorahGroup.position.set(x, 1, z);
+        scene.add(menorahGroup);
+        
+        // Add a warm glowing light and flame to the center
+        const light = new THREE.PointLight(0xffaa00, 0.8, 8);
+        light.position.set(x, 3.2, z);
+        scene.add(light);
+        const flame = new THREE.Mesh(new THREE.SphereGeometry(0.15, 8, 8), new THREE.MeshBasicMaterial({color: 0xffddaa}));
+        flame.position.set(x, 3.2, z);
+        scene.add(flame);
+
+        const interactBox = new THREE.Mesh(new THREE.BoxGeometry(1.5, 3, 1.5), new THREE.MeshBasicMaterial({visible:false}));
+        interactBox.position.y = 1.5;
+        interactBox.userData = {title: "Golden Lampstand (Menorah)", desc: "1 of 10 solid gold lampstands made by Hiram, providing light in the Holy Place."};
+        menorahGroup.add(interactBox);
+        interactiveObjects.push(interactBox);
+    };
+    
+    // Tables of Showbread (10 total) - Detailed
+    const createTable = (x, z) => {
+        const tableGroup = new THREE.Group();
+        
+        // Top
+        const top = new THREE.Mesh(new THREE.BoxGeometry(1.5, 0.1, 0.8), matGold);
+        top.position.y = 0.95;
+        tableGroup.add(top);
+        
+        // Legs
+        const legGeo = new THREE.CylinderGeometry(0.05, 0.05, 0.9);
+        const legPos = [[0.6, 0.3], [0.6, -0.3], [-0.6, 0.3], [-0.6, -0.3]];
+        legPos.forEach(p => {
+            const leg = new THREE.Mesh(legGeo, matGold);
+            leg.position.set(p[0], 0.45, p[1]);
+            tableGroup.add(leg);
+        });
+
+        // 12 Loaves of Showbread
+        const loafGeo = new THREE.CylinderGeometry(0.1, 0.1, 0.05, 16);
+        const matBread = new THREE.MeshStandardMaterial({color: 0xd4a373});
+        for(let i=0; i<6; i++) {
+            for(let j=0; j<2; j++) {
+                const loaf = new THREE.Mesh(loafGeo, matBread);
+                loaf.position.set(-0.5 + (i * 0.2), 1.0, -0.15 + (j * 0.3));
+                tableGroup.add(loaf);
+            }
+        }
+
+        tableGroup.position.set(x, 1, z);
+        scene.add(tableGroup);
+        collidableMeshList.push(new THREE.Box3().setFromObject(tableGroup));
+
+        const interactBox = new THREE.Mesh(new THREE.BoxGeometry(2, 2, 1.5), new THREE.MeshBasicMaterial({visible:false}));
+        interactBox.position.y = 1;
+        interactBox.userData = {title: "Table of Showbread", desc: "Held the Bread of the Presence, representing the 12 tribes of Israel continually before God."};
+        tableGroup.add(interactBox);
+        interactiveObjects.push(interactBox);
+    };
+
+    for(let i=0; i<5; i++) {
+        let px = templeBaseX + 8 - (i * 3);
+        // North side
+        createMenorah(px, -4);
+        createTable(px + 0.5, -2.5);
+        // South side
+        createMenorah(px, 4);
+        createTable(px + 0.5, 2.5);
+    }
+
+    // 7. The Veil - Fabric folds simulated with math
+    const veilGeo = new THREE.PlaneGeometry(10, 15, 20, 20);
+    const vPos = veilGeo.attributes.position;
+    for(let i=0; i<vPos.count; i++) {
+        let vx = vPos.getX(i);
+        let vy = vPos.getY(i);
+        // Sine wave displacement, thicker at the bottom
+        let fold = Math.sin(vx * 3.0) * 0.4;
+        let weight = (7.5 - vy) / 15.0; 
+        vPos.setZ(i, fold * weight);
+    }
+    veilGeo.computeVertexNormals();
+    
+    const veil = new THREE.Mesh(veilGeo, matVeil);
+    veil.position.set(templeBaseX - 7.5, 8.5, 0);
+    veil.rotation.y = Math.PI / 2;
+    scene.add(veil);
+
+    const veilInteractBox = new THREE.Mesh(new THREE.BoxGeometry(2, 15, 10), new THREE.MeshBasicMaterial({visible:false}));
+    veilInteractBox.position.set(templeBaseX - 7.5, 8.5, 0);
+    veilInteractBox.userData = {title: "The Great Veil", desc: "A thick curtain of blue, purple, and crimson yarn isolating the Holy of Holies."};
+    scene.add(veilInteractBox);
+    interactiveObjects.push(veilInteractBox);
+
+    // 8. The Holy of Holies (Kodesh Hakodashim)
+
+    // The Ark of the Covenant - Detailed
+    const arkGroup = new THREE.Group();
+    const arkBoxGeo = new THREE.BoxGeometry(1.25, 0.75, 0.75);
+    const arkBox = new THREE.Mesh(arkBoxGeo, matGold);
+    arkBox.position.y = 0.375;
+    
+    // Crown/Rim molding
+    const rimGeo = new THREE.BoxGeometry(1.35, 0.1, 0.85);
+    const rim = new THREE.Mesh(rimGeo, matGold);
+    rim.position.y = 0.75;
+    
+    // Mercy Seat (Lid)
+    const lidGeo = new THREE.BoxGeometry(1.2, 0.05, 0.7);
+    const lid = new THREE.Mesh(lidGeo, matGold);
+    lid.position.y = 0.825;
+    
+    // Mini Cherubim sculpted on the lid
+    const mCherubGeo = new THREE.ConeGeometry(0.1, 0.3, 8);
+    const mc1 = new THREE.Mesh(mCherubGeo, matGold);
+    mc1.position.set(0.4, 0.95, 0); mc1.rotation.z = -Math.PI/4;
+    const mc2 = new THREE.Mesh(mCherubGeo, matGold);
+    mc2.position.set(-0.4, 0.95, 0); mc2.rotation.z = Math.PI/4;
+    
+    // Poles
+    const poleGeo = new THREE.CylinderGeometry(0.05, 0.05, 2.5);
+    const pole1 = new THREE.Mesh(poleGeo, matGold);
+    pole1.rotation.x = Math.PI/2;
+    pole1.position.set(0, 0.4, 0.5);
+    const pole2 = new THREE.Mesh(poleGeo, matGold);
+    pole2.rotation.x = Math.PI/2;
+    pole2.position.set(0, 0.4, -0.5);
+    
+    arkGroup.add(arkBox); arkGroup.add(rim); arkGroup.add(lid); 
+    arkGroup.add(mc1); arkGroup.add(mc2);
+    arkGroup.add(pole1); arkGroup.add(pole2);
+    arkGroup.position.set(templeBaseX - 12.5, 1, 0); // Center of HoH
+    scene.add(arkGroup);
+    collidableMeshList.push(new THREE.Box3().setFromObject(arkGroup));
+
+    const arkInteractBox = new THREE.Mesh(new THREE.BoxGeometry(3, 2, 2), new THREE.MeshBasicMaterial({visible:false}));
+    arkInteractBox.position.copy(arkGroup.position);
+    arkInteractBox.position.y += 0.5;
+    arkInteractBox.userData = {title: "The Ark of the Covenant", desc: "The throne of God on earth. Covered by the Mercy Seat."};
+    scene.add(arkInteractBox);
+    interactiveObjects.push(arkInteractBox);
+
+    // The Giant Cherubim overshadowing the Ark - Extruded curved wings
+    const createGiantCherub = (zOffset) => {
+        const cherubGroup = new THREE.Group();
+        
+        // Body
+        const bodyGeo = new THREE.ConeGeometry(0.8, 5, 16);
+        const body = new THREE.Mesh(bodyGeo, matGold);
+        body.position.y = 2.5;
+        
+        // Detailed Curved Wings using ExtrudeGeometry
+        const wingShape = new THREE.Shape();
+        wingShape.moveTo(0, 0);
+        wingShape.quadraticCurveTo(1.5, 2, 5, 0);
+        wingShape.quadraticCurveTo(2.5, -1, 0, -2);
+        wingShape.lineTo(0, 0);
+        
+        const extrudeSettings = { depth: 0.1, bevelEnabled: true, bevelSegments: 2, steps: 1, bevelSize: 0.05, bevelThickness: 0.05 };
+        const wingGeo = new THREE.ExtrudeGeometry(wingShape, extrudeSettings);
+        
+        const wing1 = new THREE.Mesh(wingGeo, matGold);
+        wing1.position.set(0, 3.5, 0);
+        wing1.rotation.y = Math.PI / 2;
+        wing1.rotation.x = Math.PI / 6; // angle up slightly
+        
+        const wing2 = new THREE.Mesh(wingGeo, matGold);
+        wing2.position.set(0, 3.5, 0);
+        wing2.rotation.y = -Math.PI / 2;
+        wing2.rotation.x = -Math.PI / 6;
+        
+        cherubGroup.add(body); cherubGroup.add(wing1); cherubGroup.add(wing2);
+        cherubGroup.position.set(templeBaseX - 12.5, 1, zOffset);
+        scene.add(cherubGroup);
+        
+        const cherubInteractBox = new THREE.Mesh(new THREE.BoxGeometry(4, 6, 6), new THREE.MeshBasicMaterial({visible:false}));
+        cherubInteractBox.position.copy(cherubGroup.position);
+        cherubInteractBox.position.y += 3;
+        cherubInteractBox.userData = {title: "Giant Cherubim", desc: "Carved from olive wood and overlaid with gold. Their wings stretched 5 meters wide to touch the walls."};
+        scene.add(cherubInteractBox);
+        interactiveObjects.push(cherubInteractBox);
+    };
+    createGiantCherub(-2.5); // North Cherub
+    createGiantCherub(2.5);  // South Cherub
+
+    // Add supernatural glow inside Holy of Holies (Shekhinah glory representation)
+    const shekhinahLight = new THREE.PointLight(0xffffff, 1.5, 15);
+    shekhinahLight.position.set(templeBaseX - 12.5, 5, 0);
+    scene.add(shekhinahLight);
+
+
+    // --- PLAYER CONTROLS & PHYSICS ---
+    
+    // Start Outside Eastern Gates
+    let player = {
+        position: new THREE.Vector3(45, 1.7, 0), // Eye level
+        velocity: new THREE.Vector3(),
+        direction: new THREE.Vector3(),
+        rotation: new THREE.Vector2(0, Math.PI), // Looking West (-X) towards Temple
+        speed: 5.0,
+        height: 1.7
+    };
+    camera.position.copy(player.position);
+    camera.rotation.order = 'YXZ'; // Important for FPS camera
+
+    let isLocked = false;
+    let keys = { w: false, a: false, s: false, d: false };
+    let isGrounded = true;
+
+    // Input handlers
+    const startBtn = document.getElementById('start-btn');
+    const startScreen = document.getElementById('start-screen');
+    
+    // Detect Mobile
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    if(isMobile) {
+        document.getElementById('mobile-hint').style.display = 'block';
+        document.getElementById('desktop-hint').style.display = 'none';
+    }
+
+    startBtn.addEventListener('click', () => {
+        startScreen.style.display = 'none';
+        if (!isMobile) {
+            document.body.requestPointerLock();
+        }
+    });
+
+    // Desktop Pointer Lock
+    document.addEventListener('pointerlockchange', () => {
+        isLocked = document.pointerLockElement === document.body;
+        if (!isLocked && startScreen.style.display === 'none') {
+            startScreen.style.display = 'flex'; // Show pause screen
+            startBtn.innerText = "Resume Exploration";
+        }
+    });
+
+    document.addEventListener('mousemove', (e) => {
+        if (!isLocked) return;
+        const movementX = e.movementX || e.mozMovementX || e.webkitMovementX || 0;
+        const movementY = e.movementY || e.mozMovementY || e.webkitMovementY || 0;
+
+        player.rotation.y -= movementX * 0.002;
+        player.rotation.x -= movementY * 0.002;
+        // Clamp vertical look
+        player.rotation.x = Math.max(-Math.PI/2 + 0.1, Math.min(Math.PI/2 - 0.1, player.rotation.x));
+    });
+
+    // Object interaction click handler
+    const handleInteraction = () => {
+        if(startScreen.style.display !== 'none') return;
+        raycaster.setFromCamera(screenCenter, camera);
+        const intersects = raycaster.intersectObjects(interactiveObjects, false); 
+        
+        if(intersects.length > 0) {
+            const info = intersects[0].object.userData;
+            const bubble = document.getElementById('info-bubble');
+            document.getElementById('info-title').innerText = info.title;
+            document.getElementById('info-desc').innerText = info.desc;
+            bubble.style.display = 'block';
+            
+            // Auto-hide after 6 seconds
+            setTimeout(() => { bubble.style.display = 'none'; }, 6000);
+        }
+    };
+
+    document.addEventListener('mousedown', (e) => {
+        if (isLocked) handleInteraction();
+    });
+
+    document.addEventListener('keydown', (e) => {
+        switch(e.code) {
+            case 'KeyW': case 'ArrowUp': keys.w = true; break;
+            case 'KeyA': case 'ArrowLeft': keys.a = true; break;
+            case 'KeyS': case 'ArrowDown': keys.s = true; break;
+            case 'KeyD': case 'ArrowRight': keys.d = true; break;
+            case 'Space': 
+                if(isGrounded) {
+                    player.velocity.y = 5.0; // Jump strength
+                    isGrounded = false;
+                }
+                break;
+        }
+    });
+    document.addEventListener('keyup', (e) => {
+        switch(e.code) {
+            case 'KeyW': case 'ArrowUp': keys.w = false; break;
+            case 'KeyA': case 'ArrowLeft': keys.a = false; break;
+            case 'KeyS': case 'ArrowDown': keys.s = false; break;
+            case 'KeyD': case 'ArrowRight': keys.d = false; break;
+        }
+    });
+
+    // --- MOBILE TOUCH CONTROLS ---
+    let touchMoveID = null;
+    let touchLookID = null;
+    let moveJoyOrigin = {x:0, y:0};
+    let moveJoyDelta = {x:0, y:0};
+    let lastLookPos = {x:0, y:0};
+
+    const knobLeft = document.getElementById('knob-left');
+    
+    document.addEventListener('touchstart', (e) => {
+        if(startScreen.style.display !== 'none') return;
+        for(let i=0; i<e.changedTouches.length; i++) {
+            let touch = e.changedTouches[i];
+            if(touch.clientX < window.innerWidth / 2) {
+                // Left half - Movement
+                touchMoveID = touch.identifier;
+                moveJoyOrigin = {x: touch.clientX, y: touch.clientY};
+                moveJoyDelta = {x: 0, y: 0};
+                knobLeft.style.transform = `translate(-50%, -50%) translate(${moveJoyDelta.x}px, ${moveJoyDelta.y}px)`;
+            } else {
+                // Right half - Look
+                touchLookID = touch.identifier;
+                lastLookPos = {x: touch.clientX, y: touch.clientY};
+            }
+        }
+    }, {passive: false});
+
+    document.addEventListener('touchmove', (e) => {
+        if(startScreen.style.display !== 'none') return;
+        e.preventDefault(); // prevent scrolling
+        for(let i=0; i<e.changedTouches.length; i++) {
+            let touch = e.changedTouches[i];
+            if(touch.identifier === touchMoveID) {
+                // Update Movement Joystick
+                let dx = touch.clientX - moveJoyOrigin.x;
+                let dy = touch.clientY - moveJoyOrigin.y;
+                let dist = Math.sqrt(dx*dx + dy*dy);
+                let maxDist = 40;
+                if(dist > maxDist) {
+                    dx = (dx/dist) * maxDist;
+                    dy = (dy/dist) * maxDist;
+                }
+                moveJoyDelta = {x: dx, y: dy};
+                knobLeft.style.transform = `translate(-50%, -50%) translate(${dx}px, ${dy}px)`;
+                
+                // Map joystick to WASD keys functionally
+                keys.w = dy < -10;
+                keys.s = dy > 10;
+                keys.a = dx < -10;
+                keys.d = dx > 10;
+
+            } else if(touch.identifier === touchLookID) {
+                // Update Camera Look
+                let dx = touch.clientX - lastLookPos.x;
+                let dy = touch.clientY - lastLookPos.y;
+                
+                player.rotation.y -= dx * 0.005;
+                player.rotation.x -= dy * 0.005;
+                player.rotation.x = Math.max(-Math.PI/2 + 0.1, Math.min(Math.PI/2 - 0.1, player.rotation.x));
+                
+                lastLookPos = {x: touch.clientX, y: touch.clientY};
+            }
+        }
+    }, {passive: false});
+
+    document.addEventListener('touchend', (e) => {
+        let wasDragging = false;
+        for(let i=0; i<e.changedTouches.length; i++) {
+            let touch = e.changedTouches[i];
+            if(touch.identifier === touchMoveID) {
+                wasDragging = true;
+                touchMoveID = null;
+                moveJoyDelta = {x: 0, y: 0};
+                knobLeft.style.transform = `translate(-50%, -50%)`;
+                keys.w = false; keys.a = false; keys.s = false; keys.d = false;
+            } else if(touch.identifier === touchLookID) {
+                wasDragging = true;
+                touchLookID = null;
+            }
+        }
+        
+        // If they just tapped without dragging, trigger info interaction
+        if(!wasDragging && e.changedTouches.length > 0) {
+            handleInteraction();
+        }
+    });
+
+    // --- GAME LOOP & PHYSICS ---
+    
+    // Simple AABB Collision Check
+    function checkCollision(newPos) {
+        const playerRadius = 0.5;
+        // Check boundaries first
+        if(newPos.x < -48 || newPos.x > 48 || newPos.z < -18 || newPos.z > 18) {
+            // Only allow them to be outside in the east
+            if(newPos.x < 30) return true; 
+        }
+
+        // Create player bounding box
+        const playerBox = new THREE.Box3(
+            new THREE.Vector3(newPos.x - playerRadius, newPos.y - 1.5, newPos.z - playerRadius),
+            new THREE.Vector3(newPos.x + playerRadius, newPos.y + 0.5, newPos.z + playerRadius)
+        );
+
+        for(let i=0; i < collidableMeshList.length; i++) {
+            if(playerBox.intersectsBox(collidableMeshList[i])) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    const clock = new THREE.Clock();
+    let bobTimer = 0;
+
+    function animate() {
+        requestAnimationFrame(animate);
+
+        const delta = clock.getDelta();
+
+        if (startScreen.style.display === 'none') {
+            // Apply Rotation
+            camera.rotation.x = player.rotation.x;
+            camera.rotation.y = player.rotation.y;
+
+            // Calculate movement direction relative to camera facing
+            player.velocity.x = 0;
+            player.velocity.z = 0;
+
+            const moveSpeed = player.speed * delta;
+            const dir = new THREE.Vector3();
+
+            if (keys.w) dir.z -= 1;
+            if (keys.s) dir.z += 1;
+            if (keys.a) dir.x -= 1;
+            if (keys.d) dir.x += 1;
+
+            dir.normalize();
+            
+            // Hand/Candle Bobbing and flickering effect
+            if(keys.w || keys.s || keys.a || keys.d) {
+                bobTimer += delta * 12; // speed of bobbing
+                fpGroup.position.y = Math.sin(bobTimer) * 0.02;
+                fpGroup.position.x = Math.cos(bobTimer / 2) * 0.01;
+            } else {
+                // smoothly return hand to center when standing still
+                fpGroup.position.y += (0 - fpGroup.position.y) * 0.1;
+                fpGroup.position.x += (0 - fpGroup.position.x) * 0.1;
+            }
+            fpLight.intensity = 0.5 + Math.random() * 0.2; // Candle flicker
+
+            // Transform direction to camera orientation
+            const forward = new THREE.Vector3(0, 0, -1).applyAxisAngle(new THREE.Vector3(0, 1, 0), player.rotation.y);
+            const right = new THREE.Vector3(1, 0, 0).applyAxisAngle(new THREE.Vector3(0, 1, 0), player.rotation.y);
+
+            const moveVector = forward.multiplyScalar(-dir.z).add(right.multiplyScalar(dir.x)).multiplyScalar(moveSpeed);
+
+            // Attempt movement with simple slide/collision logic
+            let nextPos = player.position.clone();
+            nextPos.x += moveVector.x;
+            nextPos.z += moveVector.z;
+
+            // Gravity & Vertical Position
+            player.velocity.y -= 15.0 * delta; // Gravity constant
+            
+            // Platform logic
+            let targetY = 1.7; // ground level
+            if(nextPos.x < 15 && nextPos.x > -50 && nextPos.z > -15 && nextPos.z < 15) {
+                targetY = 1.7 + 1.0; // on platform
+            }
+            
+            // Apply vertical velocity
+            player.position.y += player.velocity.y * delta;
+            
+            // Ground collision checking
+            if(player.position.y <= targetY) {
+                player.position.y = targetY;
+                player.velocity.y = 0;
+                isGrounded = true;
+            } else if (player.position.y > targetY + 0.1) {
+                isGrounded = false; // Falling or jumping
+            }
+
+            nextPos.y = player.position.y;
+
+            if (!checkCollision(nextPos)) {
+                player.position.copy(nextPos);
+            } else {
+                // Try sliding along X or Z if diagonal collision occurs
+                let testX = player.position.clone(); testX.x += moveVector.x; testX.y = player.position.y;
+                let testZ = player.position.clone(); testZ.z += moveVector.z; testZ.y = player.position.y;
+                
+                if(!checkCollision(testX)) player.position.copy(testX);
+                else if(!checkCollision(testZ)) player.position.copy(testZ);
+            }
+
+            camera.position.copy(player.position);
+        }
+
+        renderer.render(scene, camera);
+    }
+
+    // Handle Window Resize
+    window.addEventListener('resize', () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+
+    animate();
+</script>
+</body>
+</html>
