@@ -12,7 +12,7 @@ There is a growing trend of sites being clear how they collect and use visitor i
 
 ## Cookies and Log Files
 
-Like nearly all websites, keithbuhler.com may store cookies on your computer. These collect information but I have no access or control over them. To disable cookies, use your browser's settings. We also use log files to help learn about when, from where and how often traffic flows to this site, such is IP, type of browser, number of clicks, etc. None of this type of information is linked to anything that is personally identifiable.
+Like nearly all websites, this site may store cookies on your computer. These collect information but I have no access or control over them. To disable cookies, use your browser's settings. We also use log files to help learn about when, from where and how often traffic flows to this site, such is IP, type of browser, number of clicks, etc. None of this type of information is linked to anything that is personally identifiable.
 
 ### Amazon Affiliates
 

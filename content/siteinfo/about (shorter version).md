@@ -25,7 +25,7 @@ header:
 
 <img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
 
-Keith Buhler ([Ph.D.](/phd) University of Kentucky) is a philosopher, classical teacher, and writer based out of Los Angeles. 
+Dionysius Buhler ([Ph.D.](/phd) University of Kentucky) is a philosopher, classical teacher, and writer based out of Los Angeles. 
 
 He currently holds teaches History, Greek Language, and Bible at a classical school in CA. Before that, he was a philosophy instructor at Asbury University and post-doc at the University of Kentucky. 
 

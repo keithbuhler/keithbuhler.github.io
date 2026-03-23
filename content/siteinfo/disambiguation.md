@@ -9,7 +9,7 @@ header:
 ## Redirected from kiθ bulər (disambiguation)[^1]
 
 
-*This site is about Keith Buhler, the philosopher and classical educator.* 
+*This site is about Dionysius (formerly Keith) Buhler, the philosopher and classical educator.* 
 
 *He is not to be confused with:*
 
@@ -29,6 +29,6 @@ header:
 * [Bühler Motor, German car company](https://en.wikipedia.org/wiki/B%C3%BChler_Motor) 
 * [Buhler and Associates & Patenting](http://www.buhlerassociates.com/)
 
-Go [home.](/)
+Thank you for checking -- you may return [home.](/)
 
 [^1]: Yes, this page is [silly.](https://www.youtube.com/watch?v=kJVROcKFnBQ)
