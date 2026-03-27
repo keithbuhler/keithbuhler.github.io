@@ -1,5 +1,5 @@
 ---
-title: Is Trump’s Claim About “millions” Of Voters An Unconfirmed Hypothesis Or Provable Falsehood?
+title: Is Trump’s Claim About millions Of Voters An Unconfirmed Hypothesis Or Provable Falsehood?
 categories: [Politics]
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
