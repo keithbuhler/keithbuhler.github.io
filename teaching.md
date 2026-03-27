@@ -8,12 +8,11 @@ header:
 permalink: /teaching/
 ---
 
-![Teaching photo](http://www.keithbuhler.com/images/keith-teaching2.png)
 
 <br> 
 
 
-Over the last 15 years, I've helped hundreds of students of all ages to learn and grow. My classroom culture is suffused with humor. Students explore big ideas by carefully analyzing great books and by engaging in real conversation. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
+Since 2007, I've helped thousands of students of all ages to learn and grow. My classroom culture is suffused with humor. Students explore big ideas by carefully analyzing great books and by engaging in real conversation. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
 
 
 ## Courses Taught

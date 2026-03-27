@@ -11,17 +11,20 @@ feature_row:
 
 ---
 
-### Current Courses
+- 
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+
+- Great Books I - IV (Roman, Greek, European, American, and Modern)
+
 
 - Philosophy (10th grade)     [Syllabus](/trinity-philosophy/)
 - History-Bible (9th grade)   [Syllabus](/history)
 - Spanish 1 (9th grade)
 - Spanish 2 (10th grade)
 
-## 2019-2020 Future Courses
+## 2019-2020 
 
 - Philosophy (10th grade) 
 - History-Bible (9th grade) 
