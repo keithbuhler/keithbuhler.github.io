@@ -3,7 +3,7 @@
  baseurl  : ""
  locale:         "en"
  title:          "keithbuhler.com"
- description:    "Thoughts and projects of Dr. Keith Buhler, philosopher, classical educator, and writer."
+ description:    "Thoughts and projects of Dr. Dionysius (Keith) Buhler, entrepreneur and philosopher."
  comments: 
   provider:       "facebook"
   facebook: 
@@ -25,7 +25,7 @@ github      :
 
 # author info
 author:
-  name      : "Dionysius K. Buhler"
+  name      : "Dionysius (Keith) Buhler"
   avatar    : "avatar.png"
   bio       : "Entrepreneur and philosopher"  
   email     : "keithedbuhler@gmail.com"
