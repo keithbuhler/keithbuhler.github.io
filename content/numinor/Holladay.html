@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>25 Holladay Drive - Investment Pitch</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            color: #1f2937;
+            background-color: #f3f4f6;
+        }
+
+        .page-break {
+            page-break-after: always;
+        }
+
+        @media print {
+            body { background-color: white; }
+            .no-print { display: none; }
+            .page-shadow { box-shadow: none; border: none; margin-bottom: 0; }
+            .a4-page { width: 100%; height: auto; padding: 2cm; margin: 0; }
+        }
+
+        .a4-page {
+            width: 210mm;
+            min-height: 297mm;
+            padding: 1.5cm;
+            margin: 20px auto;
+            background: white;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            position: relative;
+        }
+
+        .hero-gradient {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+        }
+
+        .stat-card {
+            border-left: 4px solid #2563eb;
+            background: #f8fafc;
+        }
+
+        .slide {
+            width: 210mm;
+            height: 148mm; /* Half A4 height for slide look */
+            background: white;
+            margin: 20px auto;
+            padding: 1cm;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .slide-header {
+            border-bottom: 2px solid #2563eb;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 py-10">
+
+    <div class="no-print text-center mb-8">
+        <h1 class="text-3xl font-bold mb-2">Investment Pitch: 25 Holladay Drive</h1>
+        <p class="text-gray-600">Danville, Kentucky | 26 Units | $2.55M Asking</p>
+        <button onclick="window.print()" class="mt-4 bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition">Print to PDF</button>
+    </div>
+
+    <!-- DOCUMENT PAGE 1: EXECUTIVE SUMMARY -->
+    <div class="a4-page page-break">
+        <!-- Hero Section -->
+        <div class="relative h-64 mb-10 overflow-hidden rounded-lg shadow-lg">
+            <img src="https://www.keithbuhler.com/images/holladay1.png" 
+                 alt="Property Exterior" class="w-full h-full object-cover">
+            <div class="absolute inset-0 hero-gradient flex flex-col justify-end p-8 text-white">
+                <h1 class="text-4xl font-bold">25 Holladay Drive</h1>
+                <p class="text-xl font-light opacity-90">Strategic Value-Add | Danville, Kentucky</p>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-3 gap-6 mb-10">
+            <div class="stat-card p-4">
+                <p class="text-sm uppercase text-gray-500 font-semibold tracking-wider">Purchase Price</p>
+                <p class="text-2xl font-bold text-blue-700">$2,550,000</p>
+            </div>
+            <div class="stat-card p-4">
+                <p class="text-sm uppercase text-gray-500 font-semibold tracking-wider">Year 1 Cap Rate</p>
+                <p class="text-2xl font-bold text-blue-700">8.0%</p>
+            </div>
+            <div class="stat-card p-4">
+                <p class="text-sm uppercase text-gray-500 font-semibold tracking-wider">Target IRR</p>
+                <p class="text-2xl font-bold text-blue-700">23%</p>
+            </div>
+        </div>
+
+        <h2 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 mb-4">Investment Thesis</h2>
+        <div class="space-y-4 text-gray-700 leading-relaxed">
+            <p>
+                25 Holladay Drive represents a unique transition opportunity. Following a rigorous $700,000 capital expenditure program over the last three years, the asset has moved from a "heavy-lift" value-add project to a stabilized property management play.
+            </p>
+            <p>
+                The heavy construction work—including a new roof on the north building (14 units), 10+ HVAC system upgrades, plumbing modernization, and unit conversions—- is complete. The current ownership has successfully proved the market, with top-of-market rents achieving <strong>$1,150/month</strong>. The acquisition allows a new operator to step in and normalize the rent roll with minimal capital requirement, capturing the remaining upside through operational excellence.
+            </p>
+        </div>
+
+        <div class="mt-10 p-6 bg-blue-50 rounded-lg border border-blue-100">
+            <h3 class="font-bold text-blue-900 mb-2 italic">Management Opportunity</h3>
+            <p class="text-sm text-blue-800">
+                The current ownership is exiting due a successful value-add project managed from out of state. This asset is ideally suited for a local Kentucky operator or a regional firm with a strong property management infrastructure or an out of state investor with a strong local team.
+            </p>
+        </div>
+    </div>
+
+    <!-- DOCUMENT PAGE 2: CAPITAL & MARKET -->
+    <div class="a4-page page-break">
+        <h2 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 mb-6">Strategic Value Creation</h2>
+        
+        <div class="grid grid-cols-2 gap-10">
+            <div>
+                <h3 class="text-lg font-semibold mb-3 text-blue-800">The "Heavy Lift" is Done</h3>
+                <ul class="space-y-3 text-sm text-gray-700">
+                    <li class="flex items-start">
+                        <span class="mr-2 text-green-500">✔</span>
+                        <span><strong>$700k+ Total CapEx:</strong> Comprehensive renovation of infrastructure and interiors.</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-green-500">✔</span>
+                        <span><strong>Office Conversion:</strong> Successfully converted the former leasing office into additional revenue-generating residential units.</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-green-500">✔</span>
+                        <span><strong>Mechanical Systems:</strong> Majority of HVAC units replaced; new roof installation completed.</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="mr-2 text-green-500">✔</span>
+                        <span><strong>Unit Modernization:</strong> Strategic in-unit renovations to drive rental premiums.</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="bg-gray-50 p-4 rounded-lg border">
+                <h3 class="text-lg font-semibold mb-3 text-gray-800">Market Proof Points</h3>
+                <div class="space-y-4">
+                    <div>
+                        <p class="text-xs text-gray-500 uppercase font-bold">Proven High Rent</p>
+                        <p class="text-xl font-semibold text-blue-900">$1,150 / mo</p>
+                    </div>
+                    <div>
+                        <p class="text-xs text-gray-500 uppercase font-bold">Target Avg Rent (Year 1)</p>
+                        <p class="text-xl font-semibold text-blue-900">$912 / mo</p>
+                    </div>
+                    <div>
+                        <p class="text-xs text-gray-500 uppercase font-bold">Proven Vacancy</p>
+                        <p class="text-xl font-semibold text-blue-900">3.0% (Past 4 Months)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-12">
+            <h3 class="text-xl font-bold mb-4">Danville Market Context</h3>
+            <p class="text-gray-700 mb-6">
+                Danville is a robust regional hub in Kentucky with a strong base of institutional employers and educational centers. The supply of modern, renovated multi-family housing remains constrained, ensuring high absorption rates for updated units like those at Holladay Drive.
+            </p>
+        </div>
+    </div>
+
+    <!-- DOCUMENT PAGE 3: PRO-FORMA & CONTACT -->
+    <div class="a4-page page-break">
+        <h2 class="text-2xl font-bold border-b-2 border-gray-200 pb-2 mb-6">Financial Pro-Forma</h2>
+        
+        <table class="w-full text-left text-sm mb-10 border-collapse">
+            <thead>
+                <tr class="bg-gray-800 text-white">
+                    <th class="p-3 rounded-tl">Metric</th>
+                    <th class="p-3 text-right">Year 1</th>
+                    <th class="p-3 text-right">Year 3</th>
+                    <th class="p-3 text-right rounded-tr">Year 5</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200 border">
+                <tr>
+                    <td class="p-3 font-semibold">Average Rent / Unit</td>
+                    <td class="p-3 text-right">$912</td>
+                    <td class="p-3 text-right">$996</td>
+                    <td class="p-3 text-right">$1,057</td>
+                </tr>
+                <tr class="bg-gray-50">
+                    <td class="p-3 font-semibold">Gross Potential Income</td>
+                    <td class="p-3 text-right">$284,675</td>
+                    <td class="p-3 text-right">$310,950</td>
+                    <td class="p-3 text-right">$329,886</td>
+                </tr>
+                <tr>
+                    <td class="p-3 font-semibold">Operating Expenses (Est.)</td>
+                    <td class="p-3 text-right"><$85,000</td>
+                    <td class="p-3 text-right">$89,000</td>
+                    <td class="p-3 text-right">$94,000</td>
+                </tr>
+                <tr class="bg-blue-50 font-bold">
+                    <td class="p-3 text-blue-900 italic">Net Operating Income</td>
+                    <td class="p-3 text-right text-blue-900">~$204,000</td>
+                    <td class="p-3 text-right text-blue-900">$221,000</td>
+                    <td class="p-3 text-right text-blue-900">$235,800</td>
+                </tr>
+                <tr>
+                    <td class="p-3 font-semibold">DSCR (80% Loan)</td>
+                    <td class="p-3 text-right">1.27x</td>
+                    <td class="p-3 text-right">1.35x</td>
+                    <td class="p-3 text-right">1.42x</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="grid grid-cols-2 gap-8 mb-12">
+            <div class="border p-4 rounded-lg">
+                <h4 class="font-bold text-gray-800 mb-2 uppercase text-xs">Exit Strategy</h4>
+                <p class="text-sm text-gray-600">Based on an 8% exit cap, the projected Year 5 value is estimated at <strong>$3.0M+</strong>, representing a steady appreciation alongside strong operational yield.</p>
+            </div>
+            <div class="border p-4 rounded-lg">
+                <h4 class="font-bold text-gray-800 mb-2 uppercase text-xs">Ancillary Upside</h4>
+                <p class="text-sm text-gray-600">Immediate opportunity to bill $50/mo trash fees (already in leases) and implement $15/mo washer/dryer rentals.</p>
+            </div>
+        </div>
+
+        <!-- Contact Section -->
+        <div class="mt-auto pt-10 border-t flex items-center justify-between">
+            <div>
+                <p class="text-sm font-bold text-gray-500">FOR MORE INFORMATION</p>
+                <p class="text-lg font-bold text-blue-900">Keith Buhler</p>
+            </div>
+            <div class="text-right">
+                <p class="text-sm text-gray-700">859-712-9944</p>
+                <p class="text-sm text-gray-700">25holiday@gmail.com</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- ATTACHMENT: YEAR 1 MODEL -->
+    <div class="a4-page page-break">
+        <h2 class="text-xl font-bold border-b-2 border-gray-200 pb-2 mb-6">Attachment A: Year 1 Revenue Transition Model</h2>
+        <p class="text-xs text-gray-500 mb-4">Projected lease normalization over 12 months post-acquisition. Target: 2-3 turnovers per month.</p>
+        
+        <div class="overflow-hidden border rounded">
+            <table class="w-full text-[10px] text-left border-collapse">
+                <thead class="bg-gray-100 font-bold border-b">
+                    <tr>
+                        <th class="p-2 border-r">Unit</th>
+                        <th class="p-2 border-r">Current</th>
+                        <th class="p-2 border-r">Market Target</th>
+                        <th class="p-2 border-r">Proj. Month 3</th>
+                        <th class="p-2 border-r">Proj. Month 6</th>
+                        <th class="p-2 border-r">Proj. Month 12</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y">
+                    <!-- Sample Data Rows based on spreadsheet logic -->
+                    <tr><td class="p-2 border-r">#01</td><td class="p-2 border-r">$890</td><td class="p-2 border-r">$940</td><td class="p-2 border-r">$890</td><td class="p-2 border-r">$890</td><td class="p-2 border-r">$940</td></tr>
+                    <tr><td class="p-2 border-r">#05</td><td class="p-2 border-r">$1,100</td><td class="p-2 border-r">$1,150</td><td class="p-2 border-r">$1,100</td><td class="p-2 border-r">$1,150</td><td class="p-2 border-r">$1,150</td></tr>
+                    <tr><td class="p-2 border-r">#13</td><td class="p-2 border-r">$1,050</td><td class="p-2 border-r">$1,100</td><td class="p-2 border-r">$1,050</td><td class="p-2 border-r">$1,100</td><td class="p-2 border-r">$1,100</td></tr>
+                    <tr><td class="p-2 border-r">#15</td><td class="p-2 border-r">$975</td><td class="p-2 border-r">$1,025</td><td class="p-2 border-r">$975</td><td class="p-2 border-r">$1,025</td><td class="p-2 border-r">$1,025</td></tr>
+                    <tr><td class="p-2 border-r">...</td><td class="p-2 border-r">...</td><td class="p-2 border-r">...</td><td class="p-2 border-r">...</td><td class="p-2 border-r">...</td><td class="p-2 border-r">...</td></tr>
+                    <tr class="bg-blue-50 font-bold">
+                        <td class="p-2 border-r" colspan="2">Avg / Unit</td>
+                        <td class="p-2 border-r">$940</td>
+                        <td class="p-2 border-r">$902</td>
+                        <td class="p-2 border-r">$921</td>
+                        <td class="p-2 border-r">$940</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p class="mt-4 text-[10px] italic text-gray-500">Note: Projections apply a 5% vacancy rate on gross potential rents. Full unit-by-unit detail available in raw export data.</p>
+    </div>
+
+    <!-- PITCH DECK SECTION -->
+    <div class="no-print mt-20 text-center mb-10 border-t pt-10">
+        <h2 class="text-3xl font-bold">Pitch Deck Preview</h2>
+        <p class="text-gray-600">(Slide Summaryº</p>
+    </div>
+
+    <!-- Slide 1: Cover -->
+    <div class="slide bg-blue-900 text-white">
+        <h1 class="text-4xl font-bold mb-4">25 Holladay Drive</h1>
+        <h2 class="text-2xl font-light">26-Unit Value-Add Acquisition</h2>
+        <p class="mt-10 text-xl font-bold">Danville, Kentucky | $2.55MM</p>
+    </div>
+
+    <!-- Slide 2: Thesis -->
+    <div class="slide">
+        <div class="slide-header">
+            <h2 class="text-2xl font-bold text-blue-900">The "Property Management" Play</h2>
+        </div>
+        <div class="grid grid-cols-2 gap-6 items-center">
+            <ul class="space-y-4 text-lg">
+                <li class="flex items-center"><span class="text-green-500 mr-2">✔</span> $700k+ CapEx Completed</li>
+                <li class="flex items-center"><span class="text-green-500 mr-2">✔</span> High-Lift Renovations Done</li>
+                <li class="flex items-center"><span class="text-green-500 mr-2">✔</span> Market Proved at $1,150/mo</li>
+                <li class="flex items-center"><span class="text-green-500 mr-2">✔</span> Stabilization Opportunity</li>
+            </ul>
+            <div class="relative h-64 mb-10 overflow-hidden rounded-lg shadow-lg">
+            <img src="https://www.keithbuhler.com/images/holladay2.jpg"
+                 alt="Property interior" class="w-full h-full object-cover">
+            </div>
+                
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 3: Financials -->
+    <div class="slide">
+        <div class="slide-header">
+            <h2 class="text-2xl font-bold text-blue-900">Financial Snapshot</h2>
+        </div>
+        <div class="grid grid-cols-4 gap-4 mt-4">
+            <div class="border p-6 rounded text-center">
+                <p class="text-3xl font-bold">8.0%</p>
+                <p class="text-sm text-gray-500">Year 1 Cap</p>
+            </div>
+            <div class="border p-6 rounded text-center">
+                <p class="text-3xl font-bold">23%</p>
+                <p class="text-sm text-gray-500">Projected IRR</p>
+            </div>
+            <div class="border p-6 rounded text-center">
+                <p class="text-3xl font-bold">1.45x</p>
+                <p class="text-sm text-gray-500">DSCR (70% LTV)</p>
+            </div>
+            <div class="border p-6 rounded text-center">
+                <p class="text-3xl font-bold">$3.0M</p>
+                <p class="text-sm text-gray-500">Exit Value (Yr 5)</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 4: CapEx -->
+    <div class="slide bg-gray-50">
+        <div class="slide-header">
+            <h2 class="text-2xl font-bold text-blue-900">Capital Improvements</h2>
+        </div>
+        <div class="grid grid-cols-3 gap-6">
+            <div class="space-y-2">
+                <h4 class="font-bold border-b">Structure</h4>
+                <p class="text-sm">New Roof Installation</p>
+                <p class="text-sm">HVAC System Overhaul</p>
+            </div>
+            <div class="space-y-2">
+                <h4 class="font-bold border-b">Units</h4>
+                <p class="text-sm">Renovated Interiors</p>
+                <p class="text-sm">Upgraded Appliances</p>
+            </div>
+            <div class="space-y-2">
+                <h4 class="font-bold border-b">Value-Add</h4>
+                <p class="text-sm">Office to Apt. Conversion</p>
+                <p class="text-sm">Exterior Improvements</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 5: Contact -->
+    <div class="slide text-center bg-blue-900 text-white">
+        <h2 class="text-2xl font-light mb-4">Connect for Due Diligence</h2>
+        <p class="text-3xl font-bold">Keith Buhler</p>
+        <p class="text-xl mt-4">859-712-9944</p>
+        <p class="text-xl">25holiday@gmail.com</p>
+        <div class="mt-10 pt-10 border-t border-blue-800 text-sm opacity-70">
+            Danville, Kentucky | 25 Holladay Drive
+        </div>
+    </div>
+
+</body>
+</html>
