@@ -10,7 +10,7 @@ header:
 
 ![github cat](https://technologyconversations.files.wordpress.com/2015/10/github.png?w=625)
 
-This site is built by Keith Buhler more or less from scratch in plain text. It is hosted for free by the good folks at [Github](https://github.com). 
+This site is built by Dr Buhler more or less from scratch in plain text. It is hosted for free by the good folks at [Github](https://github.com). 
 
 
 ### Content
@@ -19,7 +19,7 @@ The content is written in plain text [Markdown](https://daringfireball.net/proje
 
 When it's ready to publish, an amazing software called [Jekyll](https://jekyllrb.com/) transforms the plain text files into HTML. 
 
-The HTML which is  *hosted* and published for free by Github. Amazing. 
+The HTML which is  *hosted* and published for free by Github. 
 
 
 ### Style
@@ -34,7 +34,7 @@ The site is constantly being revised and updated because of my ADD. The current 
 
 ### Acknowledgments
 
-I learned to write Markdown and how to use Github with major help from [Dan Sheffler](http://www.dansheffler.com/), Jekyll, Michael Rose, and [W3Schools](www.w3schools.com). 
+I learned to write Markdown and how to use Github with major help from [Dan Sheffler](http://www.dansheffler.com/), Michael Rose, and [W3Schools](www.w3schools.com). 
 
 
 ### Source Code 
