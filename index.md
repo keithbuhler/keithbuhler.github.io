@@ -6,31 +6,25 @@ header:
       image: https://www.keithbuhler.com/images/kb-keith-at-trinity-speaking.jpg
 ---
 
-Welcome to the professional site of Dionysius Keith Buhler. His life mission is to find wisdom and share it with others. 
+Welcome to the professional site of Dionysius Keith Buhler, PhD. His life mission is to find wisdom and share it with others. 
 
 
-Some services he offers: 
 
 
 ## Consulting
-Dr. Buhler consults with various classical schools across the country. He is is a west coast [Alcuin fellow](https://alcuinfellowship.com/), a founder and fundraiser, and dyed-in-the-wool classical educator. 
-* He offers services as fractional board member, admin, or development officer for small schools -- big results for a fraction of the price. 
+As founder and former director of the [St Andrew Academy](https://www.saintandrewacademy.com/), Dr. Buhler he [consults  with various classical schools](https://www.keithbuhler.com/schools) across the country. 
 
-* Examples include: 
-* Assisting Board of directors or advisors in strategy; strategy planning; board building; board recruiting; by-laws writing;  curriculum development; budgeting; policies & procedures; hiring and personnel matters; and advising on the same -- 
-* Assisting administrative team in hiring and interviewing and recruiting, writing job descriptions, designing schedules,  designing budgets, college advising, web design, web copy, admissions processes, handbooks and advising on the same --  
-* Assisting to recruit teachers (including assisting in interviews, training, etc.), designing courses, writing syllabi -- a
-* And assisting in fundraising, event planning, development strategy, donor database management, fundraising activities, and advising on the same... to name a few) 
+He is is a west coast [Alcuin fellow](https://alcuinfellowship.com/), a founder and fundraiser, and dyed-in-the-wool classical educator. 
 
-## Investing
 
-* Asset management and capital placement: [Numinor Homes](https://www.numinorhomes.com/) is an investment focused on growing partner capital through thoughtful property acquisition and development. 
+## Capital placement
 
+* [Numinor Homes](https://www.numinorhomes.com/) places capital into high velocity real assets and restoration projects for short term gains and long-term tax advantage. 
 
 
 ### About 
 
-* He currently serves at the Honors College at Azusa Pacific University in CA.  He founded and directed the [St Andrew Academy](https://www.saintandrewacademy.com/). Enneagram 7, ENFP
+* He currently teaches great books at the Honors College at Azusa Pacific University in CA.  
 
 
 
