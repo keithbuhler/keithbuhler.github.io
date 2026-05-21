@@ -11,8 +11,6 @@ Welcome to the professional site of Dionysius Keith Buhler, PhD: His life missio
 He is a Great Books professor at the Honors College at Azusa Pacific University in CA.   He is also west coast [Alcuin fellow](https://alcuinfellowship.com/), a founder, a fundraiser, and philosopher. 
 
 
-How ca
-
 
 ## Consulting
 
