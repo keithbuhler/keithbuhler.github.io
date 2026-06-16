@@ -11,21 +11,27 @@ feature_row:
 
 ---
 
-- 
-
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
-- Great Books I - IV (Roman, Greek, European, American, and Modern)
 
+## Azusa Pacific University 
+
+* Great Books 0 - Leadership
+* Great Books I - Ancient Thought
+* Great Books II - Medieval Thought
+* Great Books III - Modern thought 
+
+
+
+## 2025 and before
+
+- Great Books I - IV (Roman, Greek, European, American, and Modern)
 
 - Philosophy (10th grade)     [Syllabus](/trinity-philosophy/)
 - History-Bible (9th grade)   [Syllabus](/history)
 - Spanish 1 (9th grade)
 - Spanish 2 (10th grade)
-
-## 2019-2020 
-
 - Philosophy (10th grade) 
 - History-Bible (9th grade) 
 - Spanish 2 (10th grade)
@@ -35,7 +41,6 @@ feature_row:
 - Ancient History-Bible (9th grade) [Syllabus](/history2017)
 - Writing and Pre-Rhetoric (9th grade) [Syllabus](/writing2017)
 - Ancient Greek [Syllabus](/greek)
-
 - Business Ethics ([Syllabus](/syllabus334))  
 - Philosophy of CS Lewis ([Syllabus](/syllabus251))  
 - Philosophy of Religion    
@@ -45,6 +50,3 @@ feature_row:
 - Introduction to Philosophy (FPA) ([Syllabus](http://www.keithbuhler.com/intro-fpa))
 - Introduction to Ethics ([Syllabus](https://docs.google.com/document/d/1u2FI836N6FcWWs2I5BrbLF1tQav9wjcDJiOU0bRkfRw/edit))     
 - Introduction to Logic   
-
-
-

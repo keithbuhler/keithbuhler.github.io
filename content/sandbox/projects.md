@@ -25,13 +25,10 @@ intro:
 * [An introduction to Classical Education](http://www.keithbuhler.com//classical-education/)
 - [Classical education resources](http://www.keithbuhler.com/classical-resources/)
 - [An online version of the Yale Report of 1828 (Ebook)](http://www.keithbuhler.com/yalereport) -- Why this classic statement of the importance of Greek and Latin languages is still relevant today 
-- <a href="/phd-how-to/">How to get a PhD</a> -- My story of earning a terminal degree without contracting a terminal illness. 
 
 ## Other Projects
 
 - [The Sandbox](/sandbox/) -- Even more projects, including random, beta, experimental, or moonshot projects welling up in my imagination.
-
-
 
 
 
