@@ -6,11 +6,12 @@ header:
       image: https://www.keithbuhler.com/images/kb-keith-at-trinity-speaking.jpg
 ---
 
-Welcome to the professional site of Dionysius Keith Buhler, PhD: His life mission is to find wisdom and share it with others. 
+Welcome to the professional site of Dionysius Keith Buhler, PhD: my life mission is to seek wisdom and share it with others. 
 
-He is a Great Books professor at the Honors College at Azusa Pacific University in CA.   He is also west coast [Alcuin fellow](https://alcuinfellowship.com/), a founder, a fundraiser, and philosopher. 
+I am an entrepreneur, philosopher, and founder. 
 
-----
+
+Currently, I'm a Great Books professor at the Honors College at Azusa Pacific University in CA.   I'm a west coast [Alcuin fellow](https://alcuinfellowship.com/).  
 
 ## Classical Education Consulting
 
@@ -20,8 +21,7 @@ Dr. Buhler was the founding headmaster of [St Andrew Academy](https://www.sainta
 
 ## Capital placement
 
-* [Numinor Homes](https://www.numinorhomes.com/) places capital into high velocity projects. We purchase and improve real assets for 12 month ROI and long-term tax advantage. 
-
+[Numinor Homes](https://www.498orca.com/) places capital into high velocity real assets and restoration projects for short term gains and long-term tax advantage. 
 
 ## Latest Post
 
