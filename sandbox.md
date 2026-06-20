@@ -14,26 +14,12 @@ feature_row:
     url: "http://www.keithbuhler.com/philosophy"
     btn_label: "More"
     btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/fun-plantinga.png
-    alt: "Advice"
-    title: "Advice to Christian Philosophers"
-    excerpt: "Interviews, stories, and advice from big name philosophers."
-    url: "http://www.advicetochristianphilosophers.com/"
-    btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/fun-books3.png
-    alt: "Reading"
-    title: "Talk to a Philosopher"
-    excerpt: "You have questions but don't know where to start. Let's talk!"
-    url: "http://keithbuhler.com/talk"
-    btn_label: "More"
-    btn_class: "btn--inverse"
 feature_row2:
   - image_path: http://www.keithbuhler.com/images/fun-wither.png
     alt: "Art"
     title: "Art"
     excerpt: "Drawings, paintings, and pumpkins"
-    url: "http://www.keithbuhler.com/art"
+    url: "https://buhler.notion.site/Art-Dashboard-a33dafdd54b5486abaf6e286faa93857"
     btn_label: "More"
     btn_class: "btn--inverse"
   - image_path: http://www.keithbuhler.com/images/fun-writings.png
@@ -42,13 +28,6 @@ feature_row2:
     excerpt: "Some published essays, literary non-fiction, web content, and more"
     url: "http://www.keithbuhler.com/writings"
     btn_label: "Read"
-    btn_class: "btn--inverse"
-  - image_path: http://www.keithbuhler.com/images/fun-speaking.png
-    alt: "Speeches"
-    title: "Speaking"
-    excerpt: "Book Dr. Buhler for a speaking engagement."
-    url: "http://www.keithbuhler.com/speaking"
-    btn_label: "More"
     btn_class: "btn--inverse"
 feature_row3:
   - image_path: http://www.keithbuhler.com/images/fun-sola.png
