@@ -1,5 +1,5 @@
 ---
-title: Socrates is God's Gift to Athens (or a Troll)
+title: "Socrates is God's Gift to Athens (or a Troll)"
 categories: [Philosophy, Misc]
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
