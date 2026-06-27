@@ -1,5 +1,5 @@
 ---
-title: You can't learn everything in books
+title: You cannot learn everything in books
 categories: [Culture]
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

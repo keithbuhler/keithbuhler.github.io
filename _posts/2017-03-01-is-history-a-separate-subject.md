@@ -1,5 +1,5 @@
 ---
-title: Is 'History' a separate subject? 
+title: Is History a separate subject? 
 layout: single
 share: true
 header:
