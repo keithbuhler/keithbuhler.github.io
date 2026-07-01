@@ -1,9 +1,9 @@
 # Site settings
- url      : "https://www.keithbuhler.com"
+ url      : "https://www.drbuhler.com"
  baseurl  : ""
  locale:         "en"
- title:          "keithbuhler.com"
- description:    "Thoughts and projects of Dr. Dionysius (Keith) Buhler, entrepreneur and philosopher."
+ title:          "drbuhler.com"
+ description:    "Directory of projects from Dionysius (Keith) Buhler, entrepreneur and philosopher."
  comments: 
   provider:       "facebook"
   facebook: 
@@ -16,9 +16,9 @@ words_per_minute: 200
 # Social
 
 facebook:
-  username  : "dionysiusbuhler" 
+  username  : "drbuhler" 
 github      : 
-  username  : "dionysiusbuhler"
+  username  : "drbuhler"
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
@@ -28,9 +28,9 @@ author:
   name      : "Dionysius (Keith) Buhler"
   avatar    : "avatar.png"
   bio       : "Entrepreneur and philosopher"  
-  email     : "keithedbuhler@gmail.com"
-  url       : "https://www.keithbuhler.com"
-  facebook  : "keithedbuhler" 
+  email     : "dionysiusbuhler@gmail.com"
+  url       : "https://www.drbuhler.com"
+  facebook  : "drbuhler" 
   twitter   : "dionysiusbuhler"
   youtube   : "https://www.youtube.com/channel/UCDxfeT2v6-kFM12T7zD-K9Q"
 
@@ -39,8 +39,8 @@ social:
   name: 
   links:
     - "https://twitter.com/dionysiusbuhler"
-    - "https://facebook.com/keithedbuhler"
-    - "https://www.linkedin.com/in/keithedbuhler/"
+    - "https://facebook.com/drbuhler"
+    - "https://www.linkedin.com/in/dionysiusbuhler/"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-71712734-1
