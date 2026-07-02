@@ -39,8 +39,8 @@ social:
   name: 
   links:
     - "https://twitter.com/dionysiusbuhler"
-    - "https://facebook.com/keithedbuhler"
-    - "https://www.linkedin.com/in/keithedbuhler/"
+    - "https://facebook.com/drbuhler"
+    - "https://www.linkedin.com/in/dionysiusbuhler/"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-71712734-1
@@ -94,7 +94,7 @@ links:
     url: /tags
 
 teaser:   "400x400.gif"
-og_image: "keithbuhler-bw-small.png"
+og_image: "db-bw-small.png"
 
 # Outputting
 

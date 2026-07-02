@@ -23,6 +23,7 @@ Dr. Buhler was the founding headmaster of [St Andrew Academy](https://www.sainta
 
 [Numinor Homes](https://www.498orca.com/) places capital into high velocity real assets and restoration projects for short term gains and long-term tax advantage. 
 
+
 ## Latest Post
 
 {% for post in site.posts limit:1 %}
